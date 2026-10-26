@@ -1,0 +1,142 @@
+{
+  "id": "p02",
+  "portrait": "Je suis agriculteur à Vuadens, dans un hameau de la commune, avec une exploitation familiale de vaches laitières sur herbages, en production conventionnelle. Je vis seul sur mon domaine et je travaille presque tous les jours, si bien que c'est le prix du lait qui décide de mon année bien plus que n'importe quel discours. Je vote aux fédérales, mais je me méfie des décisions prises loin de chez nous.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Le bio, ça ne marche que si quelqu'un paie le litre plus cher. Sinon on perd du rendement et c'est la laiterie qui encaisse la différence. »",
+      "engagement": 2,
+      "freins_participation": [
+        "La traite matin et soir, et personne pour me remplacer quand je suis seul",
+        "Les soirées de réunion après une journée passée sur le tracteur",
+        "Le sentiment que les décisions sont déjà prises ailleurs",
+        "La crainte qu'on me demande de changer de système sans garantie de prix"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur le prix payé au producteur bio et sur ma marge réelle, la présence d'agriculteurs qui ont déjà converti, et une rencontre à une heure compatible avec la traite."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les gens du village achètent leur fromage à la fromagerie, mais de là à devenir partenaires d'une ferme, je ne vois pas trop ce que ça change pour mes vaches. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps d'organiser des visites à la ferme",
+        "Des habitants qui ne connaissent pas le métier risquent de donner des leçons",
+        "Les gens ne viennent pas aux ateliers, on le sait bien"
+      ],
+      "ce_qui_me_ferait_venir": "Un engagement concret d'achat, par exemple une vente directe ou des paniers à un prix qui tient, plutôt qu'un discours sur la proximité."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Pour transmettre une terre, il faut quelqu'un qui la reprend. La relève, on en parle beaucoup et on en voit peu. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question trop générale pour moi, je pense en termes de prix du lait et de l'année qui vient",
+        "Pas de temps pour une démarche qui vise trente ans"
+      ],
+      "ce_qui_me_ferait_venir": "Une question qui part de mon exploitation, avec des conséquences concrètes sur la reprise, les bâtiments ou les terres louées."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« On fait déjà des haies et des bandes fleuries, et la Confédération nous paie pour ça. Si la commune veut le reconnaître, tant mieux, mais qu'on ne nous fasse pas la leçon. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Les labels et les panneaux ne paient pas la facture",
+        "Un discours sur l'environnement tenu par des gens qui ne sont jamais sur une exploitation"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance qui se traduit par un débouché ou un soutien réel, et une parole donnée aux agriculteurs eux-mêmes plutôt qu'à des experts."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Autres exploitants laitiers et éleveurs de la commune et des villages voisins, personnel de la fromagerie, des entreprises agricoles et de la zone artisanale, membres d'une société locale (sport, tir ou musique), et voisinage direct du hameau. Je suis surtout écouté par mes pairs sur la question du lait et des prix."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Ça touche peu mon métier. Les résidences secondaires sont surtout dans les stations, et une limite à 20 % me paraît arbitraire. Je pencherais probablement pour le non, par méfiance envers les règles imposées d'en haut."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour garder les terres agricoles. La commune a déjà pris beaucoup de champs pour la zone industrielle. Mais je veux pouvoir construire une étable ou un hangar sans être bloqué par une procédure sans fin."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Une planète par personne, ça ressemble à un programme qui retombe sur les petits. Je veux bien faire des efforts, mais pas des objectifs qui me coûtent alors que les grands producteurs de l'étranger ne sont pas concernés."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas spécialiste. Je veux une électricité pas trop chère et une solution crédible avant de fermer quoi que ce soit. Je ne vois une sortie que si l'on sait comment remplacer."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Le solaire sur les toits des bâtiments agricoles m'intéresse, et les aides existent. Je suis plutôt pour, mais je me méfie des suppléments sur la facture d'électricité qui augmentent sans que les paysans soient consultés."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Que les produits importés respectent les mêmes règles que chez nous, c'est juste, donc je suis pour. Par contre, je ne veux pas d'une nouvelle usine à gaz de contrôles et de labels qui me coûte du temps et de l'argent pour un petit gain."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "C'est mon métier : protéger la production indigène, obtenir des prix équitables et garder des paysans sur le terrain. Les importations à bas prix mettent la pression sur le lait et la viande suisses. Je voterais oui sans hésiter."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.08,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques, et au fourrage produit sur le domaine, reviendrait à exclure une bonne partie des fermes. Je ne donne un antibiotique que quand une vache est malade, et je dois acheter du concentré. Ce serait la fin pour beaucoup de petites exploitations."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "Interdire du jour au lendemain les produits de synthèse, c'est moins de récolte et des prix qui montent. Je suis pour réduire leur usage là où c'est possible, mais je ne peux pas m'en passer sans solution de remplacement. L'interdiction des importations, je suis d'accord sur le principe, mais elle ne tiendra pas sans contrôles."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le climat me préoccupe, mais une taxe de plus sur le mazout et les carburants, c'est moi qui la paie avec mes machines et mon chauffage. Les billets d'avion ne sont pas mon problème. Je pencherais pour le non, sauf si les aides arrivent vraiment chez les agriculteurs."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.12,
+      "raison": "Mes vaches sont au pâturage l'été et je ne les traite pas mal, donc je me sens visé. Inscrire dans la Constitution des normes proches du bio pour tout le bétail, y compris importé, avec une transition de 25 ans, me paraît hors sujet et m'oblige à changer sans prix en face. Je voterais non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Les étés secs, on les sent sur les prairies, donc le climat me touche. Les aides pour remplacer le mazout me parlent. Je suis plus réservé sur les objectifs fixés loin dans le futur et sur les obligations qui tomberaient sur les agriculteurs."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Je fais déjà des haies, des bandes fleuries et je respecte les zones de compensation. Mais si l'on retire une grande part de mes terres de la production, je n'ai plus de quoi nourrir mes vaches. Des contrats volontaires avec un paiement correct marcheraient mieux à mon avis."
+    }
+  ]
+}

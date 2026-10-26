@@ -1,0 +1,125 @@
+{
+  "id": "p52",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Une querelle d'étudiants lausannois sur une entreprise de données américaine ne me concerne pas, et je n'ai ni l'envie ni le temps de suivre ce genre de débat."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Les canicules de cet été m'ont pesé, mais une lettre ouverte qui réclame un plan d'urgence et la fin des énergies fossiles me paraît trop dirigiste pour que je la signe."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Je n'aime pas tout ce que fait l'UDC, mais je ne veux pas qu'une organisation militante dise au Parlement quelle initiative populaire est valable."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "C'est une affaire judiciaire genevoise dans un contexte que je ne suis pas, et je ne prends pas position sur ces querelles autour de Gaza."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Le protoxyde d'azote qui traîne chez les jeunes est un vrai problème que j'ai lu dans la presse, mais c'est aux cantons de le régler et je ne signe pas une pétition genevoise."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Je touche ma rente du deuxième pilier et je ne veux pas que des soignants dictent à une caisse de pension où placer l'argent, le texte en anglais m'a d'ailleurs fait passer mon chemin."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.05,
+      "partage_proba": 0.2,
+      "raison": "Le texte se dit lui-même fictif et une caisse cantonale me paraît compliquée, mais la hausse des primes me touche, donc j'en parlerais sans forcément signer un projet qui se présente comme irréaliste."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.12,
+      "partage_proba": 0.3,
+      "raison": "Ça me touche directement puisque je touche l'AVS, et l'idée de ne pas tout faire reposer sur la TVA me paraît sensée, mais je ne suis pas certain de vouloir signer un texte qui mélange cannabis et tabac."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "Versoix est dans le canton de Genève et je n'ai aucun lien avec ce local, je ne vois pas pourquoi un Vaudois signerait une demande communale genevoise."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Le récit de cette maman m'émeut, mais je ne suis pas concerné par cette protection et je ne signe pas volontiers ce genre de textes adressés aux commissions fédérales, même si j'en comprends le drame."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Je comprends que l'accès à la psychothérapie soit difficile quand on est seul comme moi, mais ce texte de professionnelles contre une motion parlementaire reste trop technique pour que je me prononce."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.05,
+      "partage_proba": 0.25,
+      "raison": "Une ferme d'agrumes à Borex est un beau patrimoine et je trouve normal qu'une entreprise privée puisse vivre de ses visites, mais je n'habite pas dans la région de Nyon, donc je ne signe qu'exceptionnellement, en revanche je la partagerais volontiers à mes amis qui aiment les jardins."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Une maison d'accueil pour femmes dans le Jura est une bonne cause, mais ce n'est pas mon canton et je laisse ces campagnes en ligne à ceux qui sont sur place."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Un tram plus frais à Lausanne est une bonne idée puisque la chaleur de cet été était pénible, mais je n'habite pas la capitale et je ne signe pas les textes lancés par une section de parti."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Je ne suis pas favorable à suspendre les renvois sur simple pression d'associations, la politique d'asile doit rester claire, et je ne signe pas ce genre de demande adressée à Beat Jans."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "La formation à temps partiel pour les jeunes en situation de handicap est un sujet sérieux, mais je ne connais pas bien l'apprentissage ni l'AI et je n'ai pas la conviction nécessaire pour signer une réforme aussi large."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.05,
+      "partage_proba": 0.35,
+      "raison": "Les lunettes qui filment les gens à leur insu me font peur, surtout pour les enfants dans les vestiaires, et je le dirais volontiers à mes petits-enfants, mais je ne signerais pas une interdiction de vente décidée à Berne."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Le vocabulaire de la crise existentielle me semble exagéré, et des interdictions sur les retours en ligne ou la fast fashion sont justement le genre de règles que je refuse, donc je passe mon chemin."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.1,
+      "partage_proba": 0.3,
+      "raison": "Je comprends l'argument budgétaire, mais couper la prévention des forêts coûte plus cher que les incendies et les étés que nous avons vécus m'inquiètent, donc je signerais si l'on me présentait le texte."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.08,
+      "partage_proba": 0.25,
+      "raison": "Les drogues glissées dans les verres et les réseaux qui s'en prennent aux femmes me révoltent, mais je ne suis pas sûr qu'une task force nationale règle le problème, alors je lirais le texte avant de signer."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p55",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.05, "partage_proba": 0.1, "raison": "Sensible à la surveillance de masse et à l'éthique, mais la pétition concerne un événement de l'EPFL à Lausanne, et le retrait de Palantir est déjà annoncé."},
+    {"item_id": "pet02", "participe_proba": 0.25, "partage_proba": 0.35, "raison": "Les canicules de cet été la préoccupent, en tant que soignante et pour les aînés qu'elle côtoie, et elle la partagerait volontiers, mais la lettre reste très générale."},
+    {"item_id": "pet03", "participe_proba": 0.33, "partage_proba": 0.35, "raison": "Opposée à l'initiative de l'UDC et attentive aux droits des personnes exilées dans son travail, elle ne signe pourtant qu'une part des appels qui lui parviennent."},
+    {"item_id": "pet04", "participe_proba": 0.06, "partage_proba": 0.05, "raison": "Attachée à la liberté du débat, mais l'affaire est genevoise, très chargée sur la question de Gaza, et elle ne suit pas le dossier de la CICAD."},
+    {"item_id": "pet05", "participe_proba": 0.12, "partage_proba": 0.12, "raison": "Préoccupée par les jeunes et les conduites à risque qu'elle croise dans son métier, mais la mesure vise le canton de Genève et le sujet reste loin de son quotidien."},
+    {"item_id": "pet06", "participe_proba": 0.15, "partage_proba": 0.12, "raison": "Le lien entre climat et santé la parle, mais le texte est en anglais, s'adresse aux caisses de pension et elle ne suit pas leurs placements."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Le texte admet lui-même être fictif, et une réforme qui ouvre l'assurance de base à des partenaires privés l'inquiète trop pour qu'elle signe un projet présenté comme tel."},
+    {"item_id": "pet08", "participe_proba": 0.08, "partage_proba": 0.07, "raison": "Concernée par l'avenir de l'AVS à l'approche de sa retraite, mais elle se méfie d'une réforme portée par les Jeunes Vert'libéraux qui pourrait peser sur les femmes aux carrières hachées."},
+    {"item_id": "pet09", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Ce projet de lieu associatif concerne Versoix, commune genevoise qui ne la touche pas, même si elle apprécierait un espace public ouvert aux habitant·es."},
+    {"item_id": "pet10", "participe_proba": 0.25, "partage_proba": 0.25, "raison": "Son métier la confronte aux deuils périnatals et elle juge injuste que la protection dépende d'un certificat d'incapacité, mais elle signerait par empathie sans en faire une cause."},
+    {"item_id": "pet11", "participe_proba": 0.3, "partage_proba": 0.3, "raison": "Concernée par l'accès aux soins psychiques dans son travail, elle s'oppose à la motion qui créerait un goulet d'étranglement et partagerait l'appel auprès de collègues."},
+    {"item_id": "pet12", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "La collection d'agrumes de Borex, commune du district de Nyon, l'intéresse peu et ne la concerne pas, elle qui vit à Yverdon."},
+    {"item_id": "pet13", "participe_proba": 0.15, "partage_proba": 0.15, "raison": "Les violences faites aux femmes la touchent en tant que professionnelle, mais la demande vise le canton du Jura et elle habite le canton de Vaud."},
+    {"item_id": "pet14", "participe_proba": 0.06, "partage_proba": 0.06, "raison": "Sensible aux îlots de chaleur qui touchent les aînés, mais le tram lausannois est un dossier éloigné de son quotidien à Yverdon, porté par un parti qu'elle ne soutient pas."},
+    {"item_id": "pet15", "participe_proba": 0.33, "partage_proba": 0.3, "raison": "Son travail social la sensibilise au sort des personnes exilées, et le cas de la famille tirée de son sommeil la révolte, mais elle ne signe qu'une part des appels qu'elle reçoit."},
+    {"item_id": "pet16", "participe_proba": 0.1, "partage_proba": 0.08, "raison": "La formation des jeunes la concerne via son métier, mais la pétition réclame une réforme nationale dont l'effet concret reste flou pour elle."},
+    {"item_id": "pet17", "participe_proba": 0.25, "partage_proba": 0.3, "raison": "La vie privée des femmes et des enfants la préoccupe, mais elle attend des précisions sur une interdiction totale plutôt qu'une régulation des usages."},
+    {"item_id": "pet18", "participe_proba": 0.12, "partage_proba": 0.1, "raison": "Elle partage le constat climatique, mais l'appel est très large, sans cible précise ni débat en cours, et elle signe rarement ce genre de texte."},
+    {"item_id": "pet19", "participe_proba": 0.18, "partage_proba": 0.15, "raison": "Attachée aux forêts et hostile au projet de Rösti, elle trouve pourtant la question budgétaire trop technique pour la mobiliser seule."},
+    {"item_id": "pet20", "participe_proba": 0.28, "partage_proba": 0.3, "raison": "Les abus facilités par la drogue la révoltent et touchent son travail social, mais l'appel demande une task force sans moyens précisés, ce qui la laisse sceptique."}
+  ]
+}

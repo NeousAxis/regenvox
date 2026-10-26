@@ -1,0 +1,39 @@
+{
+  "id": "p26",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique concrètement ce que le bio change pour moi, avec ce que je paie et ce que je mange, et pas seulement le travail des agriculteurs."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un atelier d'une heure au maximum, le samedi matin ou en soirée, avec une explication simple de comment acheter directement à une ferme du village, accessible à pied ou en bus, à un prix proche du supermarché."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Qu'on me parle de ce que ça change pour ma vie d'ici quelques années, mon logement, mes études ou mes sorties, plutôt que de la commune dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un exemple concret et compréhensible de ce que fait une ferme de Vuadens pour l'eau et les oiseaux, présenté en quelques minutes avant la discussion, pour que je n'aie pas besoin d'être une experte."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes sur mon téléphone me convient le mieux : je peux le faire dans le bus ou pendant une pause, sans me déplacer à la salle communale ni bloquer un samedi entier. Je n'ai pas besoin de connaître le monde agricole pour répondre, et ça ne prend pas le temps de mes cours ou de mon apprentissage."
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p08",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Une hausse de la TVA renchérirait mes factures de petite entreprise du bâtiment, et je ne suis pas convaincue par ce mode de financement."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Même temporaire, une hausse de la TVA pèserait sur mes clients et mes factures, alors que l'AI doit d'abord faire des économies."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "L'industrie suisse de l'armement fait vivre des emplois et je ne veux pas que l'État interdise ces exportations par principe."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.45,
+      "oui_proba": 0.12,
+      "raison": "L'armée de milice fait partie de l'identité suisse, et l'obligation de servir apprend la responsabilité aux jeunes."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Il y a trop de pression sur les logements et les emplois chez nous, la Suisse doit reprendre la main sur l'immigration, même si cela complique le recrutement dans le bâtiment."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Une armée crédible a besoin d'avions modernes, et le fonds est alimenté par le budget de l'armée sans nouvel impôt."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Je trouve injuste que le mariage soit pénalisé fiscalement, même si je vis seule et que cela ne me touche pas directement."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je refuse que les femmes travaillent jusqu'à 65 ans dans un métier physique comme le mien, et une TVA plus élevée pèse sur mes clients."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible au bien-être des animaux, mais je ne vois pas pourquoi la Confédération paierait les paysans pour garder les cornes."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Le droit suisse doit primer sur les juges étrangers, et notre Constitution doit rester au-dessus des traités."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je n'aime pas reprendre automatiquement les règles de Bruxelles sur les armes, même si je comprends la question de la sécurité."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "Il faut reprendre la main sur l'immigration et sur les accords avec l'Union européenne, c'est une question de souveraineté."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Le loup pose des problèmes aux éleveurs de la région, et il faut pouvoir réguler l'espèce avant qu'elle ne cause des dégâts."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Une défense crédible passe par des avions modernes, et je soutiens l'armée même si le montant est élevé."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Interdire aux banques et aux caisses de pension de financer les entreprises d'armement me paraît excessif et mauvais pour l'emploi."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'inquiétude pour l'eau, mais je ne veux pas de nouvelles contraintes pour nos agriculteurs de la région."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Interdire les pesticides de synthèse en dix ans ferait monter les prix et fragiliserait les paysans du Gros-de-Vaud."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas gênée que d'autres se marient, mais je reste attachée au mariage traditionnel et je ne vois pas l'urgence de changer la loi."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Interdire la recherche sur les animaux et les humains freinerait les soins et les progrès médicaux, et je fais confiance à la régulation actuelle."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.65,
+      "raison": "Je veux que nos frontières soient mieux contrôlées, même si je n'aime pas dépendre de l'Europe pour cela."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je veux du respect pour les animaux, mais une telle obligation ferait fuir nos paysans et augmenterait les importations."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "L'AVS doit être financée et le passage à 65 ans pour les femmes me paraît inévitable, mais la hausse de la TVA me pèse."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La nature mérite d'être protégée, mais cette initiative imposerait des contraintes lourdes aux agriculteurs et aux communes sans plan clair."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je suis seule et je ne suis pas touchée par ce changement, mais je me méfie des réformes fiscales qui compliquent le système."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Une Suisse à 10 millions d'habitants serait trop dense, nos routes, nos logements et nos écoles ne suivent déjà plus à Echallens."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Ceux qui ont été incorporés doivent aller au bout de leur service, l'armée a besoin de soldats et le service civil ne doit pas devenir une sortie facile."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.75,
+      "raison": "La neutralité armée fait partie de l'identité suisse, et je veux que notre pays reste à l'écart des alliances militaires."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "J'aime les produits d'ici, mais imposer 70 % de production locale et moins de viande en dix ans ferait monter les prix et toucherait les agriculteurs."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "La 13e rente est bienvenue pour les retraités, mais une TVA plus élevée pèse sur les petites entreprises comme la mienne."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Les pétards bruyants en plein bourg me dérangent la nuit, mais je ne veux pas qu'on interdise les feux du 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Je trouvais l'imposition commune plus juste pour les familles, mais je suis seule et je ne me sens pas directement concernée."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Notre industrie doit pouvoir exporter sans règles trop compliquées, à condition que la neutralité soit respectée."
+    }
+  ]
+}

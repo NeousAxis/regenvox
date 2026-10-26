@@ -1,0 +1,65 @@
+{
+  "id": "p26",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je travaille dans la restauration donc l'avenir d'une auberge m'intéresse un peu, mais ce sondage m'est passé sous le nez et Sauvabelin est loin de mon quotidien en centre-ville."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Premier budget participatif très peu relayé à l'époque : je n'ai pas entendu parler du vote et je n'avais aucun projet à soutenir."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Année de pandémie, peu de visibilité du vote, et passer par internet ou une urne de quartier me semblait trop de démarches pour un enjeu qui ne me touche pas directement."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Un plan d'affectation communal paraît technique et lointain pour quelqu'un qui loue en centre-ville ; le sondage de cinq minutes m'a échappé et je ne suis pas allé aux soirées d'information."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin affranchi envoyé à chaque foyer est exactement le genre de rappel qui me fait voter, et cela me donne l'occasion d'en discuter avec des collègues."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "Les quais d'Ouchy sont à côté de mon quotidien donc le sujet me concerne, mais le questionnaire n'était pas très visible et je n'ai pas pris le temps de le chercher sur le site de la Ville."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin nominatif arrive chez moi, mais je ne suis pas certain d'avoir pleinement mon mot à dire en tant que personne étrangère, donc je vote rarement sur ce type d'enjeux."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.07,
+      "raison": "En tant que personne étrangère qui travaille au contact du public, le sujet me touche, mais la consultation était discrète, sur papier ou sur une plateforme que je ne consulte pas."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin nominatif est envoyé à toute la population, y compris étrangère, et je le remplis parfois, mais je n'ai pas de projet précis à défendre et j'en parle rarement autour de moi."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Le bulletin est simple à renvoyer, mais la campagne m'a peu marqué et mes horaires dans la vente, la restauration ou le transport laissent peu de place à ce genre de démarche."
+    }
+  ]
+}

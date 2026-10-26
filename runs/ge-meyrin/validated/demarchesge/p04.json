@@ -1,0 +1,17 @@
+{
+  "id": "p04",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Cointrin n'est pas mon quartier, l'annonce n'a été distribuée que dans les boîtes aux lettres de Cointrin, et un samedi après-midi en famille je n'ai aucune raison de me déplacer pour un projet dont je n'avais jamais entendu parler."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.06,
+      "partage_proba": 0.07,
+      "raison": "Un questionnaire court en ligne se remplit en dix minutes, mais la culture n'est pas une priorité pour moi et les messages de la commune se perdent vite dans ma boîte mail, donc je l'ai probablement oublié."
+    }
+  ]
+}

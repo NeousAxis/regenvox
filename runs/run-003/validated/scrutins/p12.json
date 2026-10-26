@@ -1,0 +1,95 @@
+{
+  "id": "p12",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "L'armée ne me touche pas beaucoup au quotidien, mais je pense que le pays doit pouvoir se défendre. Si je vote, je dirai oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Je suis pour que le mariage et la famille soient protégés, et qu'un couple qui vit d'un seul revenu ne soit pas pénalisé par rapport aux autres. Ce sujet me parle directement, donc je voterai oui."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas une hausse de la TVA qui pèse sur les courses de toutes les familles, et l'âge de la retraite des femmes ne me touche pas encore. Je dirais plutôt non, sans trop me déplacer pour ce sujet."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Je tiens à ce que la Constitution suisse passe avant les juges étrangers et que le peuple décide lui-même de ses règles. C'est exactement le genre de sujet qui me fait voter, donc je dirai oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.8,
+      "raison": "Je veux que la Suisse décide elle-même de l'immigration, même si je vois que le village compte beaucoup d'étrangers et que les entreprises en ont besoin. Je vote oui, car ce sujet me touche vraiment."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je ne suis pas une spécialiste de l'aviation militaire, mais l'armée doit pouvoir protéger le pays. Je suis pour l'achat, sans suivre tous les détails du dossier."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je fais confiance à la recherche médicale pour protéger la santé des gens, donc je ne veux pas tout interdire. Je comprends le souci des animaux, mais ce sujet me touche peu et je pencherais pour le non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.12,
+      "raison": "Ce texte touche directement nos éleveurs de la région : des normes plus strictes et une transition de 25 ans mettraient beaucoup de fermes en difficulté. Je voterai non, je veux que nos paysans puissent continuer sans de nouvelles contraintes."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis concernée par l'âge de la retraite des femmes, mais je n'aime pas une TVA qui pèse sur les courses de chaque famille. Je penche pour le non, même si l'AVS doit bien être financée."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "La Suisse doit rester neutre et décider seule de ses alliances et de ses sanctions, sans se laisser entraîner dans les conflits des autres. Je vote oui pour que ce principe soit inscrit dans la Constitution."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "J'aime l'idée de manger suisse et de soutenir nos paysans, mais réduire les produits animaux et imposer 70 % d'aliments produits ici en dix ans inquiète nos producteurs de lait et de viande. Je penche pour le non, même si la protection de l'eau me parle."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "La 13e rente concerne surtout les retraités d'aujourd'hui, et la TVA touche tout le monde, y compris mon ménage à un seul revenu. Je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Les feux du 1er août et les fêtes de village font partie de nos traditions, et je n'aime pas que l'État décide ce qu'on peut tirer chez soi. Le bruit effraie aussi les animaux de la ferme, mais je pencherais pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Avec un seul revenu à la maison, l'impôt fédéral pénalise le couple, et je trouve cela injuste pour les familles qui se sont organisées ainsi. Je vote oui, c'est un sujet qui me touche directement."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "Je suis partagée : l'industrie et la défense du pays comptent pour moi, mais je tiens à la neutralité et je ne veux pas que nos armes alimentent un conflit. Je pencherais pour le non."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p28",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "L'atelier était un samedi après-midi, annoncé surtout par flyers dans les boîtes aux lettres de Cointrin et par mailing aux personnes déjà en contact ; même si les enfants étaient bienvenus, le projet ne te concernait pas directement et tu n'en as guère entendu parler."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Un questionnaire court en ligne prend deux minutes et ta sensibilité aux questions locales pourrait te pousser à le remplir, mais les annonces de la Ville ne t'atteignent pas toujours, ton temps en semaine est pris par tes enfants et ton travail, et la culture municipale n'est pas un sujet qui revient souvent autour de toi."
+    }
+  ]
+}

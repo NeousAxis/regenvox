@@ -1,0 +1,64 @@
+{
+  "id": "p06",
+  "portrait": "J'ai 52 ans et je tiens avec ma famille une exploitation à Vuadens, une ferme au hameau où l'on élève des vaches laitières sur les herbages, en production conventionnelle. Je suis arrivé en Suisse il y a un bon moment, mes enfants vont encore à l'école du village et ma vie tourne autour de la traite et des bêtes. Les grands projets venus de la commune, je les regarde avec prudence, car ce qui compte d'abord pour moi, c'est que la ferme rapporte de quoi vivre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "« Le bio, je veux bien en discuter si le prix du lait suit et si quelqu'un me garantit l'acheteur. Sinon on me demande de changer tout le troupeau pour gagner moins, ça non. »",
+      "engagement": 2,
+      "freins_participation": [
+        "le temps, je n'ai pas une minute en semaine entre la traite et les champs",
+        "le risque de la conversion, avec des années de transition sans label ni prix plus élevé",
+        "le sentiment que ces décisions se prennent en ville, sans les gens qui travaillent la terre"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets: ce que rapporte réellement un litre de lait bio à la fromagerie, et une garantie de prix sur plusieurs années, présentée par des collègues de la commune qui ont déjà fait le pas."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Que des habitants viennent voir la ferme, pourquoi pas. Mais ils ne savent pas ce que ça coûte de tenir une vache toute l'année, et je n'ai pas envie de devoir leur expliquer mon travail. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne vois pas le lien concret avec ma production de lait",
+        "les soirées et réunions du village, je n'y vais presque jamais",
+        "la crainte qu'une visite se transforme en contrôle ou en jugement sur nos pratiques"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on vienne à la ferme un samedi matin voir la traite, et que le lait soit payé à son juste prix, pas seulement des discours sur la nature."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Une terre à transmettre, oui, c'est ce qui compte pour mes enfants. Si la ferme reste viable pour eux, je veux bien qu'on en parle, mais pas dans des discours sur trente ans. »",
+      "engagement": 1,
+      "freins_participation": [
+        "les grandes discussions sur l'avenir où tout le monde parle et rien ne se décide",
+        "le manque de temps en période de foin et de récolte",
+        "le fait que la relève dépend de décisions qui ne sont pas les nôtres"
+      ],
+      "ce_qui_me_ferait_venir": "Savoir concrètement si mes enfants pourront reprendre la ferme et dans quelles conditions, avec des chiffres sur le revenu, pas une vision générale."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Reconnaître nos fermes, très bien, mais on nous reproche déjà le lisier et les engrais. Qu'on nous félicite si ça se paie, sinon ça reste des mots. »",
+      "engagement": 1,
+      "freins_participation": [
+        "le sentiment d'être jugé par des gens qui ne connaissent pas le métier",
+        "une reconnaissance qui reste en paroles et ne rapporte rien",
+        "la peur que la commune nous impose des exigences sans nous associer aux décisions"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance concrète, avec des contrats ou des paiements pour les services rendus au sol et à l'eau, et des règles claires qui ne changent pas tous les deux ans."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Famille proche (conjoint·e et enfants), deux ou trois exploitants voisins avec qui on s'entraide pour les foins et le transport, quelques anciens du village, et les gens de la fromagerie villageoise que je croise lors des livraisons."
+  },
+  "votes": []
+}

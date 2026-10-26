@@ -1,0 +1,65 @@
+{
+  "id": "p35",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "J'avais 18 ans en 2017, je n'allais pas au lac de Sauvabelin et cette consultation ne m'a jamais atteinte."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Ce premier budget participatif était peu connu, et déposer un projet à trois personnes ne correspondait pas à ma vie de jeune adulte à 20 ans."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "En 2020, en pleine crise sanitaire, je n'ai pas suivi cette deuxième édition, le vote en urnes et aux stands du marché ne m'attirait pas."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Un sondage de cinq minutes en ligne m'aurait peut-être tentée, mais je ne l'ai pas vu passer et les soirées d'information ne sont pas dans mes habitudes."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin envoyé dans la boîte aux lettres était visible, mais choisir au moins trois projets demandait un effort que je n'ai pas fourni."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Le questionnaire sur les quais d'Ouchy concerne surtout les commerçants et les touristes, et je n'allais pas à Ouchy pendant mes journées de travail."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin nominatif m'est bien parvenu, mais je l'ai laissé de côté faute de temps et de projet qui me parlait cette année-là."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Le sujet me touche de près comme personne étrangère, mais je n'ai pas remarqué cette consultation et les questionnaires papier étaient loin de mon quartier."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin arrive chez moi et cocher trois coups de cœur prend quelques minutes, mais je ne m'y mets que si un projet touche mon quartier."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Les projets sur la convivialité, le sport de proximité et les liens entre générations me parlent avec les enfants, mais le temps manque et je vote rarement."
+    }
+  ]
+}

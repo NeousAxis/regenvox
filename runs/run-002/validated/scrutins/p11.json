@@ -1,0 +1,95 @@
+{
+  "id": "p11",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "J'avais 15 ou 16 ans en 2014, je ne pouvais donc pas voter. Si j'avais été en âge, j'aurais refusé de financer des avions de combat avec un budget que je trouve mieux placé ailleurs."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.05,
+      "raison": "Je n'avais probablement pas encore l'âge de voter à cette date. Sur le fond, je ne soutiens pas l'idée d'inscrire un modèle familial unique dans la Constitution, donc je dirais non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "J'avais 18 ou 19 ans et je suivais peu les votations. Une TVA qui touche tout le monde, y compris les petits budgets, me dérange, et je n'étais pas favorable au report de l'âge de la retraite des femmes."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.4,
+      "oui_proba": 0.05,
+      "raison": "Je suis attachée à la coopération avec l'Europe et à la protection des droits humains, que ce texte fragiliserait en plaçant la Constitution au-dessus du droit international. Les questions institutionnelles me parlent moins que l'environnement, donc je ne suis pas sûre d'aller voter, et je voterais non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.05,
+      "raison": "La libre circulation avec l'UE protège de nombreux emplois et les liens avec nos voisins, et ce texte les mettrait en danger. Ce sujet me touche sans que je sois forcément mobilisée, mais si je vote, ce sera non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Six milliards pour de nouveaux avions de combat me semblent beaucoup, alors que les besoins sociaux et climatiques me paraissent plus urgents pour le pays. Je voterais non, sans être certaine de me déplacer pour ce sujet."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Je suis sensible à la souffrance des animaux de laboratoire et je comprends l'objectif, mais une interdiction totale me pose question pour la recherche médicale. Ce sujet ne me touche pas directement, donc je ne suis pas sûre de voter."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le bien-être des animaux d'élevage et les pratiques intensives me touchent beaucoup, surtout pour le lait et la viande. Je sais que la production locale fait déjà des efforts, mais je veux aussi des règles strictes pour les importations, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la question de l'âge de la retraite des femmes, que ce texte relie à une hausse de TVA. La TVA pèse de la même façon sur tous les budgets, et le mien compte à chaque course, donc je serais plutôt contre."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je tiens à la paix et à la médiation, mais ce texte me paraît trop rigide : il empêcherait de sanctionner un État qui viole le droit international et compliquerait la solidarité avec nos voisins. Je ne me sens pas très mobilisée, et je voterais plutôt non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Ce texte rejoint mes valeurs : moins de pesticides, plus de produits végétaux, une eau potable mieux protégée. Je m'inquiète un peu pour les prix si la production indigène doit augmenter vite, mais le sujet me touche vraiment et je voterais oui."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Financer la 13e rente AVS me paraît juste pour les retraités modestes, et la hausse épargne les denrées alimentaires et les médicaments. Mon budget compte à chaque course, donc je reste hésitante, mais je voterais plutôt oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Le bruit des feux d'artifice effraie les animaux, dérange les enfants et pollue la nature. Les grandes fêtes comme le 1er août resteraient possibles, donc je voterais oui, et ce sujet me donnerait envie de me déplacer."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.25,
+      "oui_proba": 0.08,
+      "raison": "J'élève seule mes enfants et ce sujet me touche peu. Je trouve l'imposition individuelle, acceptée en mars, plus juste, donc je voterais non, mais je ne suis pas sûre de me déplacer."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.05,
+      "raison": "Je ne veux pas que la Suisse livre des armes à des pays impliqués dans un conflit, et cet assouplissement me semble contraire à notre neutralité. Un référendum est lancé, ce sujet me touche et je voterais non."
+    }
+  ]
+}

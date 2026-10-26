@@ -1,0 +1,39 @@
+{
+  "id": "p35",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.07,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Des chiffres précis sur ce que gagne une ferme de Vuadens en bio par rapport au conventionnel, avec le prix payé au producteur, présentés par des agriculteurs qui l'ont fait, et un atelier terminé avant la traite du soir."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "La preuve que les habitants achètent réellement plus de produits bio et locaux à la caisse, et la garantie que la visite ne finira pas en photo dans le journal."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un temps consacré à la reprise des fermes et au prix du lait d'aujourd'hui, traité en petit groupe ou de façon anonyme, plutôt qu'une discussion publique sur 2050."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Un engagement chiffré de la commune ou du canton à payer ce que coûtent les efforts pour le sol et l'eau, sans avoir à prendre la parole devant le public."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes que je peux remplir quand j'ai un moment, sans bloquer une soirée après la traite et sans parler devant les autres. Il est anonyme, ce qui compte pour les questions de reprise de la ferme."
+}

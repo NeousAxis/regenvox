@@ -1,0 +1,39 @@
+{
+  "id": "p24",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique en deux phrases ce que ça change pour mon panier et mon loyer. Sans ça, ça ne me concerne pas."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Qu'on me rembourse l'essence du trajet jusqu'à la salle communale, parce que chaque trajet compte dans mon budget."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question sur le présent, comme le prix du pain ou le marché du samedi, plutôt que sur ce que sera la commune dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Des chiffres concrets sur ce que la ferme la plus proche fait pour l'eau ou les sols, expliqués sans jargon, plutôt que des panneaux."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le plus réaliste pour moi, c'est l'avis en ligne : dix minutes sur mon téléphone, un soir ou pendant une pause, sans me déplacer. L'atelier demande une demi-journée que mes horaires ne me laissent pas, et les trois séances à distance, je les abandonnerais probablement après la première. Ça ne marche que si les questions sont simples et que le vocabulaire reste simple."
+}

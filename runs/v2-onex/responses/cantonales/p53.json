@@ -1,0 +1,29 @@
+{
+  "id": "p53",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.9,
+      "raison": "Les collègues de la santé et du social que je côtoie voient chaque semaine ce que coûte une contraception non remboursée, et le PS comme solidaritéS appellent à voter oui, ce qui me convainc."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Les bus et les parkings-relais réduiraient le trafic qui traverse Onex et solidaritéS soutient le projet, mais je reste méfiant envers l'argent versé en France depuis le refus populaire de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.12,
+      "raison": "Je loue dans un grand ensemble et je crains que la vente aux locataires ne fasse disparaître des logements abordables, comme les anciens congés-ventes, donc je voterais non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je tiens à la formation des soignants et des éducateurs, mais solidaritéS défend le maintien à 35 millions et je suis plus enclin à suivre ce mot d'ordre que la recommandation des autorités."
+    }
+  ]
+}

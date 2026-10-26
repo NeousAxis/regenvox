@@ -1,0 +1,15 @@
+{
+  "id": "p33",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Moi je travaille dans le bâtiment, je ne touche pas aux champs. Le bio, c'est aux paysans de décider, pas à un artisan comme moi. Je m'occupe déjà de mes chantiers et de mes factures.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je n'ai ni terres ni exploitation, donc je ne vois pas ce que je pourrais apporter",
+      "Mes chantiers et mes factures me prennent déjà tout mon temps",
+      "Je connais mal la politique communale et je me sens peu concerné par ce genre de décision"
+    ],
+    "ce_qui_me_ferait_venir": "Si ça touchait directement mon métier, par exemple des rénovations ou des isolations de bâtiments agricoles, je viendrais peut-être voir. Un atelier court en soirée, avec une réponse claire sur ce que ça change pour mes impôts et mes clients, pourrait aussi m'intéresser."
+  }
+}

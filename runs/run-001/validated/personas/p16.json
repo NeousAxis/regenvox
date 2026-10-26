@@ -1,0 +1,109 @@
+{
+  "id": "p16",
+  "portrait": "J'ai 32 ans, je suis suisse et j'occupe un poste d'employé de bureau dans une entreprise de la région, en couple avec de jeunes enfants. Nous habitons depuis peu un quartier résidentiel récent de Vuadens, et je suis proche du PLR : je tiens à l'équilibre des finances, à la liberté d'entreprendre et à ne pas payer trop de taxes, sans être militant. J'aime la campagne qui entoure le village, mais je connais très peu les agriculteurs et je juge surtout ce qui touche à mon budget et à la vie de mes enfants.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Qu'un paysan puisse vivre de son travail, je suis pour, c'est une évidence. Mais si on passe au bio parce que la commune le demande, il faut d'abord que ça paie.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je connais peu le métier et je n'ai pas le temps de suivre des débats agricoles en semaine",
+        "Je me méfie des projets où la commune pilote tout et où on me demande surtout mon avis"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur le revenu des fermes bio de la région comparé aux autres, et une discussion directe avec des agriculteurs du village."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si je peux acheter directement à une ferme du village et savoir ce que mangent mes enfants, je suis preneur. Mais le bio reste plus cher pour une famille.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le prix : avec des enfants, je regarde chaque achat",
+        "Les horaires de la ferme et la distance, je n'ai pas toujours le temps d'aller chercher quelque chose"
+      ],
+      "ce_qui_me_ferait_venir": "Un système simple, comme un abonnement de légumes ou de produits laitiers récupérable au village, et une journée portes ouvertes à la ferme que la famille peut faire ensemble."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Trente ans, c'est loin. Je veux bien croire que c'est important pour nos enfants, mais pour l'instant je pense surtout à leur avenir proche et à mon budget.",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question trop abstraite pour une soirée d'atelier",
+        "Je ne vois pas ce que mon avis changerait à l'échelle de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Une question ramenée à des choses concrètes que je vois dans le quartier, comme la façon dont les champs autour du village sont travaillés."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Reconnaître le travail des fermes, pourquoi pas. Mais je ne veux pas de nouvelle taxe ni d'un label qui coûte cher à faire vivre, ça finit toujours sur la facture.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas ce qu'une commune peut concrètement faire de plus",
+        "Je ne lis pas forcément les bulletins communaux ni les invitations"
+      ],
+      "ce_qui_me_ferait_venir": "Une information claire sur ce que font les fermes du village pour les sols, l'eau et les haies, et une manière simple de les découvrir, sans obligation."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues de bureau, parents rencontrés à l'école et dans le sport, famille élargie du couple, quelques voisins du quartier."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je suis pour une meilleure information sur l'origine des aliments, mais j'aime moins que l'État impose des règles de production et de commerce : ça renchérit les produits et ça n'arrange pas forcément les agriculteurs d'ici."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Les droits de douane et les prix garantis me gênent, c'est le consommateur qui paie au final. Je soutiens les agriculteurs de la région, mais pas par des mesures qui fermeraient le marché."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Une eau propre, c'est une évidence, et je suis sensible à ça pour mes enfants. Mais lier les paiements directs à des règles aussi strictes me paraît trop rigide pour les exploitations familiales."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Interdire tous les pesticides de synthèse en dix ans me paraît trop radical pour la production suisse, avec des pertes pour les agriculteurs et des prix plus hauts. Je comprends l'objectif mais pas le moyen."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je suis d'accord que le climat compte, mais la taxe sur les billets d'avion et la hausse sur le mazout s'ajoutent à nos charges de famille. Si c'est bien dosé et sans trop de bureaucratie, je pourrais dire oui, mais je n'en suis pas sûr."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être des animaux me touche, mais exiger les règles bio pour les importations et une transition de 25 ans pèsera sur les prix de la viande et sur les paysans suisses qui font déjà des efforts."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Zéro émission nette en 2050 est un objectif que je trouve raisonnable, mais je veux voir le coût pour les particuliers et les entreprises avant de dire oui à des aides dont on ne sait pas qui paie."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "La nature et le paysage comptent pour nous, c'est pour ça qu'on a choisi ce coin. Mais davantage de surfaces protégées et de moyens publics, je crains que ça touche la construction et les exploitations sans compensation claire."
+    }
+  ]
+}

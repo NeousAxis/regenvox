@@ -1,0 +1,197 @@
+{
+  "id": "p77",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.5,
+      "raison": "J'ai 20 ans, je suis peu la politique et je m'en remettrais surtout à ce que dit mon père sur l'AVS, plutôt pour mais sans conviction forte."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Une hausse temporaire de la TVA pour l'AI, limitée dans le temps, me paraît acceptable, même si je n'aime pas les nouveaux impôts."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Je suis sensible à une Suisse qui n'arme pas des conflits, mais l'idée d'un coup porté aux entreprises de la région me retient."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je pense que le service militaire obligatoire a encore sa place pour la sécurité et le lien entre les régions, même si je vois ce qu'il coûte aux jeunes."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "La pression sur les routes, les logements et les terres autour de Genève me préoccupe, donc je soutiens un contrôle plus strict, sans vouloir vraiment casser les accords avec l'UE."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Une défense aérienne crédible me paraît utile, mais le coût de l'achat est élevé et je ne suis pas enthousiaste."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Je ne veux pas que les couples mariés soient pénalisés fiscalement, mais inscrire une définition du mariage dans la Constitution me gêne, donc je suis partagé."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "L'AVS doit être financée, la hausse de TVA reste modérée et j'accepte le compromis sur l'âge de la retraite des femmes."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je n'ai pas d'animaux et la dignité des bêtes me touche, mais une contribution fédérale supplémentaire pour les cornes ne me paraît pas une priorité."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je tiens à la souveraineté, mais je ne veux pas risquer nos accords avec l'UE qui comptent pour mes débouchés en produits bio."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Les règles européennes sur les armes ne me concernent guère et je tiens à Schengen, donc je vote oui pour préserver l'accord."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je comprends l'inquiétude sur la densité de population, mais mettre fin à la libre circulation mettrait en danger mes débouchés et la main-d'oeuvre saisonnière."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas éleveur, je ne vois pas le loup comme une menace directe, et la protection de la nature me paraît prioritaire."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Il faut des avions pour protéger le ciel, mais six milliards représentent une somme énorme, je vote plutôt oui, à contrecoeur."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Je trouve éthique que la Banque nationale et les caisses de pension ne financent pas l'armement, même si je mesure le poids de l'industrie."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.85,
+      "oui_proba": 0.65,
+      "raison": "En bio je suis directement concerné: réserver les paiements directs aux fermes sans pesticides me paraît juste, mais je crains des exigences trop rapides pour les autres exploitations."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.6,
+      "raison": "Je vois bien les dégâts des pesticides de synthèse, mais une interdiction en dix ans sans transition mettrait en danger beaucoup de fermes conventionnelles et l'approvisionnement."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "C'est une question d'égalité, et dans mon entourage à Meyrin personne ne comprend qu'on refuse le mariage à deux personnes qui s'aiment."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être animal, mais interdire toute expérimentation, y compris pour la médecine, me paraît trop radical."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Je soutiens Schengen et la sécurité des frontières, mais je ne suis pas enthousiaste à l'idée de payer davantage pour une agence très critiquée."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.65,
+      "raison": "En bio je respecte déjà des règles plus strictes que celles visées, et je trouve juste que les importations suivent les mêmes exigences, même si la transition de 25 ans me semble longue."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "La hausse de TVA pour l'AVS est limitée et liée à une réforme qui me paraît équilibrée, donc je vote oui pour assurer les retraites."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.85,
+      "oui_proba": 0.65,
+      "raison": "La biodiversité fait partie de mon quotidien sur la ferme et l'initiative va dans la bonne direction, mais je m'inquiète des surfaces qu'elle voudrait retirer à l'agriculture."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Chaque personne doit être imposée sur ses propres revenus, c'est plus juste pour un couple comme le mien, donc je suis plutôt favorable."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.55,
+      "raison": "La pression sur le sol et les infrastructures autour de Genève m'inquiète, mais dénoncer la libre circulation serait risqué pour l'économie régionale, donc je reste hésitant."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas sûr qu'il faille durcir l'accès au service civil, mais je comprends la nécessité de soutenir l'armée et la cohésion du pays."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je tiens à la neutralité, mais interdire les sanctions et verrouiller une neutralité armée perpétuelle me paraît trop rigide, donc je reste partagé."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.9,
+      "oui_proba": 0.65,
+      "raison": "Produire davantage en Suisse avec moins de pesticides et d'engrais va dans le sens de mon métier, mais l'objectif de 70 % en dix ans est ambitieux et je doute de sa faisabilité."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "La 13e rente AVS est acquise, son financement doit suivre, et la TVA épargne l'alimentation, donc je suis plutôt favorable, sans enthousiasme."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Les pétards effraient les animaux et les récoltes sèches peuvent prendre feu, donc je soutiens la limitation du bruit tout en gardant les feux calmes autorisés."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Le peuple a déjà accepté l'imposition individuelle en mars, je ne vois pas l'utilité de revenir en arrière avec un retour à l'imposition commune."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je ne veux pas que la Suisse livre des armes à des pays en guerre, même partenaires, et cet assouplissement contrevient à ma vision de la neutralité."
+    }
+  ]
+}

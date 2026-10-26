@@ -1,0 +1,17 @@
+{
+  "id": "p22",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Un samedi après-midi à Cointrin, loin de mon quartier de villas, avec mon activité d'indépendante et les enfants à gérer, je n'y vais pas, et je n'ai sans doute pas vu les flyers."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Une consultation sur la culture demande du temps et de l'intérêt, et entre mon travail et ma famille je ne réponds probablement pas, même au questionnaire court en ligne."
+    }
+  ]
+}

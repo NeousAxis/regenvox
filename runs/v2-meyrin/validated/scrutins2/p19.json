@@ -1,0 +1,197 @@
+{
+  "id": "p19",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je paie déjà la TVA sur mes factures, mais l'AVS doit tenir et le Parlement recommande oui, donc je suis plutôt d'accord malgré le coût."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "L'AI doit être assainie, et une hausse temporaire limitée à 2017 me paraît acceptable, donc je vote oui à contrecoeur."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "L'industrie suisse de l'armement fait vivre des emplois ici, et je ne veux pas qu'on interdise ce qui est légal, donc non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.7,
+      "oui_proba": 0.12,
+      "raison": "J'ai fait mon service et je pense que l'armée de milice fait partie de notre pays, donc je vote non à l'abolition."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.45,
+      "raison": "Sur les chantiers on voit trop de travailleurs détachés et de sous-enchères, mais dénoncer les accords avec l'UE mettrait mon entreprise en danger, donc je reste plutôt non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "Notre armée doit pouvoir se défendre, le Parlement a voté pour et les avions doivent être remplacés, donc je dis oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Le mariage entre un homme et une femme reste pour moi la base, et les couples mariés ne doivent pas être pénalisés par les impôts, donc je vote oui."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je vais bientôt toucher ma retraite et l'AVS doit être financée, donc j'accepte la hausse de TVA même si elle pèse sur mes factures."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Les paysans reçoivent déjà assez de subventions et je ne vois pas l'intérêt de payer pour des cornes de vaches, donc non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.38,
+      "raison": "La Suisse doit garder la maîtrise de ses lois, mais je ne veux pas risquer nos accords avec l'Europe, donc je ne suis pas convaincu et je penche pour non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Je suis pour une réglementation sérieuse des armes et Schengen nous est utile, donc je suis d'accord avec la reprise de la directive."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.35,
+      "raison": "Sans la libre circulation nos accords avec l'UE tombent et mes chantiers en pâtissent, donc je vote non, même si les effectifs à Meyrin me dérangent."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le loup fait des dégâts chez les éleveurs et il faut pouvoir le réguler, donc je suis pour la révision, même si je vis en ville."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Notre défense aérienne doit être renouvelée, six milliards c'est cher mais raisonnable, donc je dis oui comme le Parlement."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je ne veux pas que la BNS et les caisses de pension soient dictées ce qu'elles doivent financer, donc je vote non à cette interdiction."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "L'eau propre compte, mais conditionner tous les paiements directs à zéro pesticide et zéro antibiotique est excessif pour nos paysans, donc non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'inquiétude pour la santé, mais une interdiction totale en dix ans ferait monter les prix et je fais confiance au Conseil fédéral, donc non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.72,
+      "raison": "Je suis plutôt traditionnel, mais chacun doit pouvoir se marier et le Centre soutient la réforme, donc je vote oui sans grande hésitation."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Les animaux doivent être bien traités, mais interdire la recherche médicale en Suisse nous ferait perdre des soins et des emplois, donc non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.5,
+      "oui_proba": 0.62,
+      "raison": "Les frontières extérieures de Schengen doivent être mieux protégées et la Suisse doit y contribuer, donc je vote oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être animal est important, mais imposer les normes Bio Suisse aux importations ferait exploser les prix pour les familles, donc non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "L'AVS a besoin de cette hausse de 0,4 point de TVA pour tenir, et la réforme AVS 21 me paraît équilibrée, donc je vote oui."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "La nature doit être protégée, mais davantage de surfaces protégées freineraient les constructions et l'agriculture, donc je ne suis pas convaincu et je penche pour non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je reste attaché au couple et à la famille, et l'imposition individuelle désavantagerait les couples où un seul revenu fait vivre le foyer, donc je dis non."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Meyrin est déjà saturée en trafic et en immeubles, mais la construction me fait vivre et je ne suis pas sûr qu'un plafond soit la bonne réponse, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Quand on a été incorporé dans l'armée il faut aller au bout, et le service civil ne doit pas servir d'échappatoire, donc je vote oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.4,
+      "raison": "La neutralité fait partie de notre identité, mais l'inscrire de façon absolue dans la Constitution me paraît trop rigide et le Centre recommande non, donc je reste hésitant et je penche pour non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Manger local, oui, mais imposer 70 % de production suisse en dix ans fera monter les prix, donc non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "La 13e rente est une bonne chose pour les retraités et je serai bientôt là, donc je vote oui à la hausse de 0,4 point de TVA."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Les pétards bruyants gênent beaucoup les immeubles de Meyrin, mais une interdiction générale est excessive pour les fêtes, donc je penche pour non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Le mariage ne doit pas être pénalisé par les impôts et le Centre soutient cette initiative, donc je vote oui, même si l'imposition individuelle a été acceptée en mars."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "L'industrie suisse doit pouvoir travailler et la neutralité reste compatible avec des règles plus souples, donc je vote oui, même si j'ai des doutes."
+    }
+  ]
+}

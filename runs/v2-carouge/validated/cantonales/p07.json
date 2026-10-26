@@ -1,0 +1,29 @@
+{
+  "id": "p07",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "Je suis directement concernée, car la pilule et les autres moyens coûtent cher quand on touche un petit salaire d'apprentie, et le petit parti local dont je suis proche soutient cette initiative, donc je voterais probablement oui si j'y vais."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Les bouchons et les bus bondés à la frontière me pèsent chaque jour, donc un tram ou un bus rapide me paraît utile, mais 39,5 millions pour des projets en France me laissent sceptique et je me souviens du non de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je vis chez mes parents et devenir propriétaire reste très loin pour moi, et je crains que les congés-ventes reviennent et que les logements locatifs abordables disparaissent, donc je pencherais pour le non malgré l'attrait de l'idée."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Je connais mal le contrat de la HES-SO et la baisse de 2 millions me semble modeste, donc ce vote ne me mobilise pas beaucoup, et je reste indécise en me méfiant un peu des hausses des taxes d'études."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p12",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'enjeu de l'accès à la contraception, que je vois dans mon travail, mais 20 millions par an payés par tout le monde et sans condition de revenu me semblent beaucoup, et le MCG appelle à voter non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Je ne vois pas pourquoi Genève financerait des bus et des parkings en France alors que nos propres routes et nos soins sont sous pression, et le peuple a déjà refusé ce type de financement en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.65,
+      "raison": "Un locataire qui vit dans son appartement depuis trois ans et peut l'acheter à un prix plafonné, c'est une vraie chance de devenir propriétaire, à condition que personne d'autre ne soit poussé dehors, ce que le texte prévoit."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.65,
+      "oui_proba": 0.4,
+      "raison": "Je sais ce que la HES forme pour la santé et le social, et j'ai du respect pour ce travail, mais la baisse de 2 millions par an et l'opposition du MCG me rendent hésitante."
+    }
+  ]
+}

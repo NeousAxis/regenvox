@@ -1,0 +1,39 @@
+{
+  "id": "p10",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Que l'atelier ait lieu un samedi matin à la salle communale, et qu'on me dise dès le départ ce qui sera fait des idées de chacun : je veux voir un résultat concret, pas seulement parler."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Qu'une personne de confiance, un voisin par exemple, m'en parle directement, et qu'il soit bien clair que je ne m'engage à rien envers une ferme."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "La garantie que ces idées sur l'avenir ne finissent pas dans un tiroir, et qu'on commence par ce qui fait tenir les fermes aujourd'hui."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.10,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Des exemples concrets de ce que les fermes de Vuadens apportent aux sols, à l'eau et à la biodiversité, expliqués simplement, avec la garantie qu'on n'ajoutera ni règlements ni contrôles."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes, à mon rythme, sans sortir le soir ni passer une matinée en réunion. Je n'ai pas envie de me faire donner la leçon ni d'imaginer la commune dans quinze ans, donc je réponds à ce qu'on me demande, et je doute quand même que cela change quoi que ce soit."
+}

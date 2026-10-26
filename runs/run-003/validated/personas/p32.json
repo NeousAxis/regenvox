@@ -1,0 +1,139 @@
+{
+  "id": "p32",
+  "portrait": "J'ai 68 ans, je suis retraité et je vis en couple dans un quartier résidentiel récent de Vuadens, les enfants sont partis depuis longtemps. Je suis suisse et proche du PS, mais je me méfie des projets venus d'en haut avec de belles idées, sans qu'on sache qui paie la facture. Je respecte beaucoup les paysans du coin, parce qu'ils travaillent dur, et je ne veux pas qu'on leur complique la vie pour de la théorie.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans doivent pouvoir vivre de leur travail, c'est la base. Si le bio leur rapporte davantage, tant mieux, mais on ne peut pas leur demander ça sans les payer correctement.",
+      "engagement": 1,
+      "freins_participation": [
+        "Le monde agricole, je ne le connais pas assez pour donner un avis à la place des paysans",
+        "Les soirées en semaine, je ne suis plus trop partant"
+      ],
+      "ce_qui_me_ferait_venir": "Entendre des agriculteurs eux-mêmes expliquer leurs comptes, avec des chiffres concrets, et voir que le risque ne repose pas uniquement sur eux."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Acheter du lait ou des légumes à la ferme du coin, je le fais parfois. Mais devenir partenaire d'une exploitation, je ne vois pas très bien ce que ça veut dire concrètement pour moi.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne vois pas ce que j'aurais à apporter à une ferme",
+        "Je n'aime pas les grandes réunions, et le temps libre ne manque pas toujours"
+      ],
+      "ce_qui_me_ferait_venir": "Une proposition simple et concrète, comme une visite de ferme ou un coup de main ponctuel, pas un engagement long."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Je veux bien qu'on pense à ceux qui cultiveront dans trente ans, mais les grandes phrases, je m'en méfie un peu. Qu'on me dise ce qu'on fait concrètement dans les cinq prochaines années.",
+      "engagement": 0,
+      "freins_participation": [
+        "La question est trop vague, je n'arrive pas à me projeter",
+        "J'ai peur que ça reste du discours"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet avec des décisions concrètes et un calendrier clair, par exemple sur l'usage des terres communales."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans font déjà beaucoup pour la nature, et on ne le voit pas assez. Qu'on les reconnaisse, pourquoi pas, mais sans une nouvelle usine à gaz de labels et de papiers.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je crains une bureaucratie de plus pour les fermes",
+        "Les documents techniques, je les lis rarement jusqu'au bout"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance simple et visible au village, par exemple lors d'une fête ou d'un marché, plutôt qu'un dossier administratif."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "voisins du quartier, anciens collègues de l'industrie de la région, membres d'un club local, quelques proches à Bulle ; ces sujets se discutent surtout au café et au club, pas sur les réseaux"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "Les résidences secondaires qui restent fermées la moitié de l'année me semblent injustes pour ceux qui habitent ici toute l'année. Je suis plutôt pour limiter ça."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Il faut arrêter de grignoter les champs pour construire. Ça me touche, même si ça limite les extensions comme celle de mon quartier."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Le but me semble juste, mais le texte est trop flou sur les moyens, et il ferait peur aux PME de la région qui font vivre le village."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour sortir du nucléaire, mais pas au prix d'une dépendance au gaz ou de factures qui explosent. Le texte ne me convainc qu'à moitié."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "C'est la voie raisonnable : économies, énergies renouvelables et sortie progressive du nucléaire, sans tout casser d'un coup."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Des aliments produits dans le respect des animaux, de l'environnement et des travailleurs, c'est bien. Reste à savoir qui paie la différence de prix."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Produire ici est bon pour nos paysans, mais des droits de douane feraient monter les prix pour les familles et les retraités comme moi."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "L'eau potable, pour nous, c'est sacré. Lier les paiements directs à moins de pesticides est logique, mais je me demande si toutes les fermes suivraient."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Moins de pesticides, je suis d'accord. Interdire tout d'un coup en dix ans, pour une commune comme la nôtre, c'est trop brutal pour les fermes."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Le climat, je suis pour. Mais les taxes sur le mazout et les billets d'avion frappent les petits budgets, et les gens de la campagne ont peu d'alternatives."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être des animaux, mais nos éleveurs laitiers font déjà beaucoup. Un texte qui vise surtout les importations me paraîtrait plus juste qu'un texte qui pèse sur eux."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Il faut agir pour le climat, et les aides pour remplacer les chauffages fossiles me parlent. Je veux que ce soit financé de façon juste."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "La nature, je la respecte, mais ce texte ferait peser plus de surfaces protégées sur des fermes déjà serrées, et je n'ai pas confiance dans la manière dont ce serait financé."
+    }
+  ]
+}

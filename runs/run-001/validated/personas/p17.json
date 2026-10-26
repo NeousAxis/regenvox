@@ -1,0 +1,65 @@
+{
+  "id": "p17",
+  "portrait": "J'ai 36 ans, je vis seul avec mes enfants dans un quartier résidentiel récent de Vuadens, et je suis arrivé en Suisse il y a quelques années. Je ne travaille pas pour le moment et je m'occupe de la famille au quotidien, donc je compte chaque franc dépensé en nourriture et je regarde de près ce que mangent mes enfants. Je suis attentif à l'eau, à la nature autour de nous et à la santé des enfants, mais je connais mal le monde agricole et je n'ai pas de réseau dans les associations du village.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si les paysans peuvent vivre correctement du bio, tout le monde y gagne, mais j'aimerais d'abord voir concrètement ce que cela change pour leur revenu.",
+      "engagement": 1,
+      "freins_participation": [
+        "peu de temps libre à cause des enfants",
+        "peu de connaissance du monde agricole",
+        "je ne sais pas comment l'information circule dans le village"
+      ],
+      "ce_qui_me_ferait_venir": "Une information simple, en français clair, sur ce que gagnent réellement les agriculteurs et sur l'effet sur le prix de ce qu'on achète, avec une garde d'enfants sur place pour pouvoir venir le soir."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "J'aimerais acheter directement chez nos paysans pour mes enfants, mais avec un budget serré je regarde d'abord le prix avant tout le reste.",
+      "engagement": 2,
+      "freins_participation": [
+        "budget serré",
+        "aucun temps pour les ateliers en semaine",
+        "je ne connais pas les fermes du coin et leurs horaires",
+        "le sentiment de ne pas être légitime dans les débats du village"
+      ],
+      "ce_qui_me_ferait_venir": "Des paniers ou une vente à la ferme à des prix accessibles aux familles modestes, avec un point de retrait près du quartier où j'habite, et un moyen de m'engager en ligne sans devoir me déplacer."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Mes enfants vivront ici après moi, donc je veux qu'ils trouvent une terre vivante, avec de l'eau propre et des haies pour les oiseaux.",
+      "engagement": 2,
+      "freins_participation": [
+        "peu de temps pour les réunions",
+        "je ne saurais pas quoi proposer concrètement",
+        "la crainte de parler d'agriculture sans la connaître assez"
+      ],
+      "ce_qui_me_ferait_venir": "Une question posée directement aux familles, par exemple une sortie à la ferme ou un atelier à l'école où les enfants participent, pour qu'on parle de ce que nous mangerons et de ce que nous laisserons."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Une affiche sur la ferme, c'est bien, mais ce qui compte pour moi c'est qu'on me dise concrètement ce que les paysans font pour l'eau.",
+      "engagement": 1,
+      "freins_participation": [
+        "le sujet me semble lointain de mon quotidien",
+        "je ne vois pas ce que la reconnaissance changerait pour nous",
+        "manque de temps"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte aux familles, avec des activités pour les enfants, où je vois de mes propres yeux ce qui est fait pour le sol et l'eau."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "Parents d'élèves rencontrés à l'école et voisins du quartier résidentiel, quelques proches de la même origine étrangère, et groupes de parents en ligne ; peu de liens avec les milieux agricoles et associatifs du village."
+  },
+  "votes": []
+}

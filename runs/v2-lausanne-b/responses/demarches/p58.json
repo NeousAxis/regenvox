@@ -1,0 +1,15 @@
+{
+  "id": "p58",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "J'avais 8 ans : un sondage et des ateliers sur l'avenir de l'Auberge de Sauvabelin ne me concernaient pas, et je n'en ai pas entendu parler à la maison."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "À 10 ans je n'avais pas de raison de voter pour des projets de quartier, même si une urne dans la maison de quartier voisine aurait pu me tenter avec mes parents."},
+    {"item_id": "lau02", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Pendant le Covid je suivais surtout l'école à distance, et le budget participatif est resté une affaire d'adultes que personne ne m'a présentée."},
+    {"item_id": "lau10", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Un sondage de cinq minutes sur le plan d'affectation de la ville n'était pas fait pour un enfant de 11 ans, même si ma famille a pu y répondre sans moi."},
+    {"item_id": "lau03", "participe_proba": 0.06, "partage_proba": 0.07, "raison": "Le bulletin affranchi envoyé à chaque foyer a pu passer sur la table familiale, mais à 12 ans je ne votais pas moi-même et j'en parlais peu."},
+    {"item_id": "lau08", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Un questionnaire sur la fermeture des quais d'Ouchy était un sujet de parents, et je ne l'ai pas vu passer à 12 ans, même si j'allais parfois au bord du lac."},
+    {"item_id": "lau04", "participe_proba": 0.07, "partage_proba": 0.08, "raison": "Un bulletin nominatif a pu arriver à mon nom à 13 ans, mais je ne sais pas si quelqu'un l'a rempli, et ce n'était pas un sujet de conversation chez moi."},
+    {"item_id": "lau09", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Les questionnaires papier sur le racisme étaient déposés dans des lieux que je ne fréquentais pas à 13 ans, et je n'ai jamais vu l'enquête en ligne."},
+    {"item_id": "lau05", "participe_proba": 0.07, "partage_proba": 0.12, "raison": "Un bulletin nominatif m'est adressé vers 14 ans, je l'ai peut-être mentionné à la maison ou à l'école, mais je vote rarement sans y être poussé."},
+    {"item_id": "lau06", "participe_proba": 0.06, "partage_proba": 0.12, "raison": "Mon bulletin nominatif est arrivé vers 16 ans et j'en ai peut-être parlé avec ma famille, mais je n'ai pas suivi les projets de près et j'ai probablement laissé le bulletin de côté."}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p35",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Proche du PS, je trouve juste que la contraception soit prise en charge par la collectivité, même si je ne suis pas directement concerné et que le Conseil d'État recommande de refuser."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Les embouteillages vers la frontière sont un vrai problème et des bus à haut niveau de service me paraissent une solution raisonnable, même si le refus de 2014 me rend prudent."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.25,
+      "raison": "Je pense surtout aux logements locatifs abordables que la vente à l'occupant risque de faire disparaître, et sur ce sujet je suis plutôt la ligne du PS."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "La formation des soignants compte pour moi, mais je rejoins le PS et le comité référendaire qui demandent de maintenir les 35 millions, donc je voterais plutôt non sans grande conviction."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "p13",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.005, "partage_proba": 0.01, "raison": "J'avais 14 ans, je ne connaissais pas cette consultation et je n'ai aucun souvenir que mes parents aient répondu à un sondage sur Sauvabelin."},
+    {"item_id": "lau01", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "À 16 ans, je ne savais pas que tous les habitants pouvaient voter pour des projets de quartier, et le vote se faisait surtout en ligne ou dans des urnes que je ne croisais pas."},
+    {"item_id": "lau02", "participe_proba": 0.03, "partage_proba": 0.06, "raison": "En 2020, en plein Covid, je n'ai pas vu passer le vote et je ne me sentais pas concernée par des projets de quartier que je ne connaissais pas."},
+    {"item_id": "lau10", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "Un sondage de cinq minutes m'aurait peut-être tentée, mais je n'ai pas vu l'annonce et le plan d'affectation me paraissait trop technique à 17 ans."},
+    {"item_id": "lau03", "participe_proba": 0.12, "partage_proba": 0.15, "raison": "Le bulletin affranchi arrivé chez mes parents m'a peut-être donné l'occasion de voter, mais je ne me souviens pas avoir pris le temps de choisir des projets."},
+    {"item_id": "lau08", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je ne suis pas au bord du lac à Ouchy tous les jours, et je n'ai pas remarqué l'annonce de ce questionnaire en ligne."},
+    {"item_id": "lau04", "participe_proba": 0.10, "partage_proba": 0.12, "raison": "Le bulletin préaffranchi reçu chez mes parents peut me faire voter, mais je ne connais pas bien les projets et je ne m'y intéresse que quand un projet touche mon quartier."},
+    {"item_id": "lau09", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Le sujet me touche et je me sens plutôt à gauche, mais la consultation était surtout relayée sur le site de la Ville et dans des lieux que je fréquente peu, pas sur mes réseaux."},
+    {"item_id": "lau05", "participe_proba": 0.09, "partage_proba": 0.12, "raison": "Mon bulletin nominatif m'a rappelé de voter, mais je n'ai pas forcément pris le temps de choisir trois projets sans connaître la plupart des propositions."},
+    {"item_id": "lau06", "participe_proba": 0.07, "partage_proba": 0.10, "raison": "Pendant l'été, entre mes études et mes obligations, je ne pense pas au budget participatif, même si le bulletin arrive à la maison."}
+  ]
+}

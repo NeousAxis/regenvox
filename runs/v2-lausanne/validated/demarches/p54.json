@@ -1,0 +1,65 @@
+{
+  "id": "p54",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "En 2017 je travaillais encore et le sondage sur Sauvabelin ne me concernait pas, je ne l'ai pas vu passer."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Voter demandait d'aller dans une urne ou en ligne pour un pilote peu relayé dans mon immeuble, et je n'ai pas suivi son lancement."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Le marché du samedi m'amenait parfois à un stand de vote, mais le Covid a rendu mes sorties rares et je n'ai retenu aucun projet précis."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Un sondage de cinq minutes sur mon quartier m'aurait intéressée, mais il fallait le chercher en ligne et je ne l'ai pas fait."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin affranchi arrivé dans ma boîte aux lettres m'a donné une occasion concrète, mais je n'en ai pas beaucoup parlé autour de moi."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je vais rarement aux quais d'Ouchy, je n'ai pas vu l'annonce du questionnaire et je n'aurais pas pris le temps de répondre."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.18,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin préaffranchi à domicile me permet de voter sans effort, mais je ne me suis pas impliquée dans le dépôt de projets et le vote reste secondaire pour moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "Le sujet me touche en tant qu'étrangère et j'aurais pu répondre au questionnaire papier, mais je n'ai vu l'annonce que par le bouche-à-oreille."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif envoyé dès 4 ans m'a fait voter sans trop réfléchir, mais je ne connaissais pas les projets en détail."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.19,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin reçu à domicile reste le moyen le plus simple pour moi, mais je suis peu informée des projets de cette édition et mes priorités sont ailleurs."
+    }
+  ]
+}

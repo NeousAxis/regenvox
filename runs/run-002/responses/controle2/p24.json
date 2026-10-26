@@ -1,0 +1,17 @@
+{
+  "id": "p24",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Le bio, pourquoi pas, mais je ne vais pas me battre pour ça. Entre mes horaires qui changent chaque semaine et mes fins de mois, je n'ai pas la tête à ces histoires de terres agricoles.",
+    "engagement": 1,
+    "freins_participation": [
+      "Mes horaires changent d'une semaine à l'autre, je ne peux pas bloquer une date à l'avance",
+      "Je vis au bout du hameau sans bus : sans ma voiture, aucun atelier au village ne m'est accessible",
+      "Je ne vote pas en Suisse et la politique communale me passe un peu au-dessus de la tête",
+      "Le bio coûte plus cher et mon budget est serré, donc je ne me sens pas concernée par ce projet",
+      "Je ne connais pas les agriculteurs de la commune et je ne vois pas bien ce que je pourrais faire concrètement"
+    ],
+    "ce_qui_me_ferait_venir": "Une information simple et concrète, envoyée directement chez moi, avec des prix du bio accessibles dans les commerces du village ou au marché, et une rencontre à un moment compatible avec mes horaires, si possible avec un moyen de transport ou un covoiturage depuis le hameau."
+  }
+}

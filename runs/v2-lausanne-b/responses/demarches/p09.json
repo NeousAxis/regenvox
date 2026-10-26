@@ -1,0 +1,65 @@
+{
+  "id": "p09",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Je n'ai pas vu passer ce sondage et Sauvabelin est loin de chez moi, je n'y vais presque plus à mon âge."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je n'ai pas remarqué le lancement du budget participatif et je ne voyais pas bien comment voter sans aller dans une urne de quartier."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Pendant la pandémie je sortais très peu, et même si le marché du mercredi m'aurait permis de voter, je n'ai pas cherché à le faire."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.12,
+      "raison": "Je tiens à mon quartier et à ses vieux bâtiments, mais un sondage en ligne m'aurait demandé de l'aide et je n'ai pas le réflexe d'aller à des soirées publiques pendant la pandémie."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin arrive directement dans ma boîte aux lettres et il suffit de le renvoyer par la poste, c'est un geste simple que je peux faire seule, et j'en parle volontiers à mes voisins."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je ne passe pas beaucoup de temps sur internet et je n'ai pas le réflexe de répondre à un questionnaire en ligne de la Ville, même si la question des quais m'intéresse un peu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.18,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin préaffranchi reçu à la maison est facile à remplir et à renvoyer, je vote chaque année pour des projets qui rendent le quartier plus vivant, et mes proches me le rappellent."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Le racisme me révolte et je trouve bien que la Ville demande l'avis des gens, mais je n'ai pas vu les questionnaires papier et je n'irai pas les chercher dans un bâtiment administratif."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.17,
+      "partage_proba": 0.2,
+      "raison": "Je reçois le bulletin nominatif et je le renvoie par la poste, je n'ai pas toujours la force de sortir, mais voter pour des projets de quartier me semble utile et j'en parle volontiers."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "À 88 ans je reçois encore le bulletin à domicile, mais la fatigue me freine et je ne le remplis que si une voisine m'aide à lire les descriptions des projets."
+    }
+  ]
+}

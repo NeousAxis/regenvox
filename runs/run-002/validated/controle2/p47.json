@@ -1,0 +1,16 @@
+{
+  "id": "p47",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Un objectif pareil, ça veut dire que les paysans vont devoir changer toute leur façon de travailler, et au bout du compte ce sont les gens d'ici qui paieront plus cher au magasin. Avant de dire oui, je veux savoir combien ça coûte et qui paie la facture.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille souvent en horaires décalés, donc les ateliers en semaine sont difficiles pour moi",
+      "Je ne me sens pas concernée par les projets agricoles et je connais mal le monde paysan",
+      "Je veux d'abord voir le coût pour les ménages et pour la commune avant de m'impliquer",
+      "Les objectifs chiffrés à dix ans me semblent flous et changent souvent avec les politiques"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres clairs sur le coût pour les contribuables et sur les prix en magasin, la garantie que les exploitants du village ne sont pas mis en difficulté, et un atelier le soir ou le samedi animé par les agriculteurs eux-mêmes pour expliquer concrètement ce que ça change pour eux."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p02",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Le Conseil fixe un objectif, mais c'est le prix du lait qui décide de mon année, et sans un prix bio garanti je ne bougerai pas.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille presque tous les jours seul sur l'exploitation, je n'ai ni le temps ni la main-d'oeuvre pour changer de système en plus du reste",
+      "Passer au bio sur herbages veut dire moins d'intrants et un rendement qui baisse au début, sans garantie de revenu pendant la transition",
+      "Une décision du Conseil communal sur des terres qui sont mon outil de travail, sans qu'on ait demandé l'avis de ceux qui les cultivent",
+      "Je ne sais pas si le lait bio se paiera mieux à la fin, ni si la fromagerie villageoise en prendra davantage",
+      "Je me méfie des objectifs chiffrés à dix ans, qui changent avec les majorités et avec les prix"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres précis: un prix du lait bio garanti pendant la transition, une aide qui compense la baisse de rendement, et un conseiller qui vient sur l'exploitation plutôt qu'un atelier en salle. Savoir que la fromagerie villageoise prend du lait bio me ferait réfléchir."
+  }
+}

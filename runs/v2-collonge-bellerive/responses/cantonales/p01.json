@@ -1,0 +1,29 @@
+{
+  "id": "p01",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Je ne veux pas que la collectivité paie la contraception de tout le monde avec 20 millions de plus à trouver dans les impôts, et l'UDC comme le PLR disent non, donc je reste sur le non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas pourquoi l'argent genevois financerait des bus et des tramways en France, alors que nos propres routes et nos impôts sont déjà sous pression, même si je vois bien les bouchons à la frontière."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Devenir propriétaire de son logement me parle, mais je me méfie des congés-ventes qui vident les immeubles locatifs, et la consigne de l'UDC est non, donc je reste prudente."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Une baisse de 2 millions par an ne me choque pas, l'UDC et le PLR disent oui, et la HES forme des gens utiles pour nos métiers, donc je vote oui."
+    }
+  ]
+}

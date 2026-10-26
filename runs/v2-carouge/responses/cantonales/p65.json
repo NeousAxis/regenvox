@@ -1,0 +1,29 @@
+{
+  "id": "p65",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Je suis proche du PLR et je ne vois pas pourquoi toute la population financerait une contraception dont je n'ai plus besoin, alors que le canton doit déjà trouver de l'argent pour tant d'autres choses."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Les bouchons à la frontière me pèsent chaque jour à Carouge, et si ces bus et ces parkings-relais retirent 15 000 voitures par jour de la route, je soutiens cet investissement même si le refus de 2014 me rend prudente."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Le PLR dit oui et l'idée de pouvoir acheter l'appartement où je vis depuis des années me plaît, mais je crains les congés-ventes pour les locataires plus âgés, donc je reste partagée."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Le PLR et les autorités soutiennent la HES-SO, et une baisse de 2 millions par an ne me semble pas dramatique, donc je voterais oui sans me passionner pour ce dossier."
+    }
+  ]
+}

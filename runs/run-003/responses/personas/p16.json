@@ -1,0 +1,141 @@
+{
+  "id": "p16",
+  "portrait": "J'ai 47 ans, je suis Suisse et je vis au centre du village de Vuadens, où j'élève seul mes enfants. Je travaille dans la santé, le social ou l'éducation, et je vois tous les jours ce que les fins de mois serrées font aux familles. Je me sens proche du Centre : je suis pragmatique, je me méfie des grands projets décidés de loin, et je pense qu'on protège mieux la nature en aidant les gens d'ici qu'en leur imposant des règles.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans ne gagnent pas leur vie, le bio restera un beau slogan. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas de temps libre en semaine, je dois m'occuper des enfants",
+        "Je ne connais pas bien le fonctionnement des fermes et j'aurais peur de dire des bêtises",
+        "Les réunions du soir sont compliquées avec mes horaires"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée au village avec des agriculteurs qui montrent leurs chiffres, et une garde d'enfants sur place."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Acheter à la ferme du village, pourquoi pas, mais le bio coûte plus cher et avec mon budget je compte chaque franc. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le budget passe avant tout quand on élève des enfants seul",
+        "Je n'ai pas le temps de faire le tour des fermes ou de passer commande",
+        "Je ne me sens pas vraiment concerné, je ne suis ni agriculteur ni gros consommateur de bio"
+      ],
+      "ce_qui_me_ferait_venir": "Des prix transparents, des points de vente au village et des paniers adaptés aux familles."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Quand je pense à mes enfants, j'ai envie de leur laisser une terre vivante, avec de l'eau propre et des sols qui tiennent. »",
+      "engagement": 2,
+      "freins_participation": [
+        "La question me paraît vague, je ne sais pas concrètement à qui s'adresse la démarche",
+        "Si on ne me dit pas ce qui change pour de bon, je reste chez moi"
+      ],
+      "ce_qui_me_ferait_venir": "Une question posée aux écoles et aux familles, avec des projets concrets comme les haies, les chemins ou la protection de l'eau."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Une reconnaissance, très bien, mais si ça reste une plaque ou un discours, ça ne fait pas vivre les fermes. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien le lien avec ma vie de tous les jours",
+        "Ce genre de manifestation, je n'y vais que si mes enfants y participent"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme avec l'école du village, dont mes enfants pourraient parler à la maison."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues du secteur social, de la santé ou de l'éducation, parents d'élèves de l'école du village, voisins du centre et quelques proches de la famille élargie"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je comprends l'envie de protéger le paysage, mais une limite fixe pour tout le pays me paraît rigide, et il faut aussi loger les familles qui veulent rester au village."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Freiner le mitage et garder les terres agricoles, je suis pour, mais sans bloquer les constructions pour les familles du village."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Une économie qui respecte la planète, je suis d'accord sur le principe, mais l'objectif d'une seule planète d'ici 2050 me paraît irréaliste et coûteux pour les PME et les ménages."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas à l'aise avec le nucléaire, mais sans solution de remplacement claire, je crains des factures plus lourdes et davantage d'électricité importée."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Développer les énergies renouvelables et économiser l'énergie est raisonnable, et la loi reste mesurée. Je veux que la facture reste supportable pour les ménages."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Manger sain et soutenir les paysans d'ici, je suis pour le principe, mais imposer les mêmes normes aux produits importés sans dire qui paie me fait peur pour les prix."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à l'agriculture de chez nous, mais des droits de douane et des prix plus élevés pèsent sur les familles au budget serré, et je ne suis pas convaincu que ce soit la solution."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "L'eau potable propre, c'est une évidence, mais lier tous les paiements directs à des règles très strictes met en danger des fermes déjà fragiles."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.25,
+      "raison": "Je comprends les inquiétudes sur les pesticides, mais une interdiction totale en dix ans, sans alternatives éprouvées, serait la fin de beaucoup de fermes et nous obligerait à importer davantage."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je veux agir pour le climat et le fonds pour le climat me convient, mais la hausse des taxes sur le mazout et l'essence pèse lourd à la campagne avec des enfants, donc je veux être sûr que cet argent revienne aux ménages."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Le bien-être animal compte, mais ce sont nos éleveurs laitiers et les petites fermes qui paieraient, et des règles alignées sur Bio Suisse pour toutes les importations sont difficiles à appliquer."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.75,
+      "raison": "Zéro émission nette en 2050 est un objectif sérieux, et les aides pour changer de chauffage sont utiles. Il faudra veiller à ce que les locataires ne paient pas la facture."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Protéger la nature et les paysages, je suis pour, mais cette initiative prend davantage de terres à l'agriculture sans compensation claire, ce n'est pas la bonne voie."
+    }
+  ]
+}

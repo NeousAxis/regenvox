@@ -1,0 +1,143 @@
+{
+  "id": "p16",
+  "portrait": "J'ai 32 ans, je suis employé de bureau et je vis en couple avec nos enfants dans un quartier résidentiel récent de Vuadens, où nous sommes venus pour le calme et la maison. Je suis proche du PLR : je regarde d'abord ce que coûtent les décisions à la famille et si elles tiennent économiquement. La politique communale, je la suis de loin, surtout quand elle touche à l'agriculture.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Qu'un paysan puisse vivre de son travail, je suis pour. Mais ça doit passer par le prix payé au producteur et par les clients, pas par une nouvelle couche de subventions communales.",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne suis pas agriculteur et je ne me sens pas concerné au quotidien",
+        "pas beaucoup de temps entre le travail et les enfants",
+        "le sentiment que ce genre de démarche ne change pas vraiment la donne au final"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur le revenu d'une exploitation bio comparé à une exploitation conventionnelle, et la garantie que la commune ne paiera pas la transition à la place du marché."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Acheter à la ferme, pourquoi pas, mais je regarde d'abord le prix du panier avec les enfants. Si la commune veut faire la promo des fermes, très bien, je ne changerai pas mes habitudes pour autant.",
+      "engagement": 1,
+      "freins_participation": [
+        "le bio reste plus cher que ce que le budget familial permet",
+        "pas le temps de passer chercher un panier ou de suivre une livraison",
+        "je ne connais pas les fermes de la commune et personne ne m'en a parlé"
+      ],
+      "ce_qui_me_ferait_venir": "Un système simple, avec des prix comparables au magasin et un point de retrait près de chez nous, sans engagement sur plusieurs mois."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "C'est une belle question, je pense bien sûr à mes enfants, mais je ne vois pas bien ce qu'on peut décider pour les trente prochaines années en une soirée de réflexion.",
+      "engagement": 0,
+      "freins_participation": [
+        "question trop large pour que j'aie envie de m'y mettre",
+        "les ateliers sans décision à la clé ne m'intéressent pas",
+        "je n'ai pas d'idée précise et l'idée d'une réunion après le travail me fatigue d'avance"
+      ],
+      "ce_qui_me_ferait_venir": "Un terrain précis de la commune, une proposition concrète sur la table et une décision à la clé plutôt qu'une vision générale."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Reconnaître les fermes, pourquoi pas, mais je me méfie des labels et des certificats de la commune. On a déjà assez de normes et de cases à cocher.",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne fais pas confiance aux critères qui seraient choisis pour reconnaître les fermes",
+        "trop de normes et de paperasse déjà en place",
+        "pas le temps de suivre ce genre de projet"
+      ],
+      "ce_qui_me_ferait_venir": "Des critères simples et mesurables décidés avec les agriculteurs eux-mêmes, et une action visible sur le terrain, comme un sentier ou une journée portes ouvertes à la ferme."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "suiveur",
+    "cercle_type": "famille proche, voisins du quartier, parents d'élèves de l'école du village, collègues de bureau, quelques amis du club de sport"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.2,
+      "oui_proba": 0.3,
+      "raison": "J'étais très jeune électeur à l'époque et peu concerné, je ne suis pas sûr d'y être allé. Sur le fond, je n'aime pas qu'on limite ce que chacun peut faire de sa propriété, même si je comprends le souci du paysage."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Sur le principe, je ne suis pas contre protéger les terres et limiter le mitage, mais je ne veux pas que ça bloque la construction de logements dont les jeunes ont besoin."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.12,
+      "raison": "Un objectif d'une seule planète veut dire des contraintes lourdes pour les entreprises et l'emploi, notamment dans l'industrie de la région. Je préfère une voie qui n'étouffe pas l'économie."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas d'une sortie forcée et précipitée tant qu'il n'y a pas de remplacement fiable et bon marché pour l'électricité."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "La transition me paraît nécessaire, mais la facture d'électricité et les subventions pèsent sur les ménages. Je suis partagé et je pencherais de peu."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas les lois qui imposent des critères aux importations et compliquent la vie des commerçants, même si l'intention est bonne."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Soutenir l'agriculture d'ici, oui, mais des droits de douane et des prix imposés, je n'adhère pas à cette logique de marché fermé."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Lier les paiements directs à des pratiques plus strictes pénalise des fermes déjà fragiles, sans solution de transition claire."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Interdire les pesticides de synthèse sans transition réaliste pénalise nos agriculteurs, et contrôler les produits importés me paraît très difficile à tenir."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le climat me touche, mais une taxe sur les billets d'avion et une hausse sur le mazout pèsent sur le budget d'une famille avec des enfants."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Une norme plus stricte imposée ici, avec une transition de 25 ans et un contrôle des importations difficile à tenir, crée une concurrence déloyale pour nos éleveurs."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Je suis pour réduire les émissions et pour les aides au remplacement des vieux chauffages, mais je veux éviter que ça devienne une nouvelle taxe déguisée."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Protéger la nature, je suis pour, mais davantage de surfaces protégées veut dire moins de terres pour les paysans et de l'argent public en plus."
+    }
+  ]
+}

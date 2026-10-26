@@ -1,0 +1,110 @@
+{
+  "id": "p22",
+  "portrait": "J'ai 22 ans, je suis en apprentissage et je vis encore chez mes parents, dans un hameau de Vuadens. Je suis suisse, je vote depuis mes 18 ans mais pas à chaque scrutin, et je me sens proche de l'UDC, surtout sur la liberté d'entreprendre et le respect du travail. Autour de moi, les fermes tournent serré, et j'ai l'impression qu'on leur donne plus de leçons que de moyens pour vivre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Le bio doit d'abord payer le paysan, sinon on ne fera que parler de transition. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne suis pas agriculteur et mon apprentissage m'occupe la semaine",
+        "Je ne connais pas les chiffres réels des exploitations de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur le revenu d'une ferme bio à Vuadens, présentés par des paysans eux-mêmes et non par des experts."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Je veux bien acheter au paysan du coin, mais je ne veux pas qu'on me demande de faire partie d'un projet de commune. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Les soirées de la commune tombent souvent pendant mes heures de travail ou de sport",
+        "Je n'ai pas de lien direct avec les fermes du village",
+        "Ce genre de démarche donne souvent l'impression que la décision est déjà prise"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ou un repas partagé, sans discours, avec un coup de main concret pour les foins ou les travaux."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Ce qui compte, c'est qu'il reste des paysans du pays sur ces terres, pas des exploitations reprises par des investisseurs. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Trente ans, c'est trop loin pour que je me sente concerné aujourd'hui",
+        "Je ne sais pas qui reprendra les fermes du village"
+      ],
+      "ce_qui_me_ferait_venir": "Une question concrète sur la reprise des fermes et le prix des terres, plutôt qu'une vision générale de l'avenir."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Les paysans font déjà beaucoup, mais je ne veux pas d'une usine à gaz de labels et de contrôles en plus. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas l'utilité d'un label de plus",
+        "Je n'aime pas les démarches où l'on m'explique ce qu'il faut penser"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance simple et payée, par une prime sur le produit ou un affichage à la ferme, sans paperasse supplémentaire."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "famille proche, amis d'enfance du village, collègues de l'apprentissage, quelques contacts de société locale ; je partage les infos surtout en privé et sur les réseaux, avec une audience modeste"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Première votation où je peux voter. Une loi qui fixe zéro émission nette d'ici 2050 avec des aides, ça coûte cher et ça retombe sur les familles et les paysans. Je ne suis pas contre le climat, mais pas à n'importe quel prix."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Protéger la nature, oui, mais l'initiative veut plus de surfaces protégées et plus d'argent pour la biodiversité, et ça prend des terres aux agriculteurs. Il faut d'abord respecter le travail des paysans avant de leur imposer davantage de règles."
+    }
+  ]
+}

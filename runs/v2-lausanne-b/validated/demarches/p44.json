@@ -1,0 +1,65 @@
+{
+  "id": "p44",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je fréquente le lac de Sauvabelin seulement de temps en temps, je n'ai pas vu l'annonce du sondage et un questionnaire papier ou un atelier le samedi après-midi en famille ne m'aurait pas attiré."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Cette première édition du budget participatif était peu connue et sans bulletin reçu à domicile, je n'ai pas eu l'occasion de voter ni vraiment d'en parler autour de moi."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "En pleine période de Covid, avec un vote en ligne ou dans des urnes que je ne croise pas sur mon chemin, j'ai laissé passer l'occasion sans m'en préoccuper."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Un sondage en ligne de cinq minutes sur mon quartier m'aurait peut-être convaincu un soir, mais l'annonce est passée sans que je la remarque au milieu du travail et des enfants."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin arrive dans la boîte aux lettres et ma famille peut le remplir ensemble, mais la plupart des projets concernent des quartiers que je ne fréquente pas, ce qui freine ma motivation."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Je ne vais pas souvent aux quais d'Ouchy et de Belgique et je ne réponds pas spontanément à ce type d'enquête de satisfaction, sauf si on me sollicite directement."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.16,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le vote facile, mais je ne suis pas sûr de prendre le temps de choisir trois projets parmi autant de propositions."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.07,
+      "raison": "Je me sens concerné en tant qu'étranger, mais je n'ai pas vu le questionnaire dans les maisons de quartier et je réponds rarement à ce genre de consultation."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.25,
+      "partage_proba": 0.3,
+      "raison": "Le bulletin nominatif arrive pour toute la famille, enfants dès 4 ans compris, et on en discute parfois à la maison, mais choisir trois projets minimum demande un temps que je n'ai pas toujours."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.2,
+      "partage_proba": 0.22,
+      "raison": "Je connais le dispositif depuis plusieurs éditions et le bulletin arrive à domicile, mais je ne vote pas à chaque édition et cela dépend surtout des projets proposés pour mon quartier."
+    }
+  ]
+}

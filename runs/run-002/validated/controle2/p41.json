@@ -1,0 +1,16 @@
+{
+  "id": "p41",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Dix ans pour passer la majorité des terres en bio, c'est un beau projet sur le papier, mais qui paie la différence ? Tant que je n'ai pas les chiffres du prix du lait bio contre le conventionnel, je ne change rien sur nos prairies.",
+    "engagement": 1,
+    "freins_participation": [
+      "Sans chiffres précis sur le prix du lait bio, je ne bouge pas",
+      "La reprise de la ferme passe avant tout le reste, je ne sais pas encore qui prendra le relais",
+      "Je n'ai pas le temps, la traite et les bêtes occupent toute la journée",
+      "Je me méfie des objectifs fixés par la commune sans que les agriculteurs soient vraiment associés"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres concrets : prix du lait bio contre conventionnel, coût de la conversion, durée de la transition, aides cantonales et fédérales, et un débouché assuré à la fromagerie. Et un agriculteur bio du village qui vient raconter ses comptes sur sa propre exploitation, pas un discours."
+  }
+}

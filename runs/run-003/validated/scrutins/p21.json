@@ -1,0 +1,95 @@
+{
+  "id": "p21",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.55,
+      "raison": "Pas encore l'âge de voter, je n'ai pas suivi ce dossier. Avec une armée à moderniser, je pencherais plutôt pour un oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore l'âge de voter. Le mariage me paraît une affaire privée, donc l'inscrire dans la Constitution me semble excessif, même si je comprends que certaines familles se sentent pénalisées."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.25,
+      "oui_proba": 0.45,
+      "raison": "Tout juste majeure ou presque, je n'avais pas encore pris le réflexe de voter. La TVA et la retraite des femmes à 65 ans me paraissaient lointaines à cet âge."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "La souveraineté me parle, mais l'initiative mettrait en danger nos accords avec l'UE, qui comptent pour le fromage qu'on exporte. Je pencherais pour le non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je suis contre la fin de la libre circulation : on a besoin de main-d'œuvre et nos accords avec l'UE ouvrent les marchés. Je comprends pourtant le ras-le-bol face à la densité et au trafic, alors je viendrai voter."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Un pays doit pouvoir défendre son espace aérien, donc je dirais oui, sans enthousiasme. Six milliards, c'est beaucoup, mais je ne veux pas d'une défense au rabais."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je suis attachée au bien-être des animaux, mais une interdiction totale me paraît trop large, la recherche médicale en dépend. Je ne suis pas sûre de me déplacer pour ce sujet."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.12,
+      "raison": "Ça touche directement mon exploitation : des normes calquées sur Bio Suisse pour toutes les fermes et les importations, avec une transition de 25 ans, je ne pourrais pas suivre financièrement. Je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "L'AVS a besoin d'argent et la compensation pour les femmes me paraît juste, mais la hausse de TVA pèse sur le budget. Je voterais oui à contrecœur."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Mon grand-père tenait beaucoup à la neutralité, et je la sens bien. Mais l'interdiction de toute coopération et de toute sanction me paraît trop rigide pour un petit pays."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je suis pour plus de production suisse, mais réduire les produits animaux et les intrants en dix ans toucherait directement mon lait et mes marges. Je voterais non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Il faut financer la 13e rente, et 0,4 point reste modeste, mais avec les enfants et la ferme chaque hausse compte. Je dirais oui sans grand enthousiasme."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Mes vaches paniquent quand ça pétarade la nuit, et la faune aussi. Je voterais oui, mais je garderais une exception pour le 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Je suis seule avec mes enfants, je ne vois pas pourquoi les couples mariés seraient favorisés. L'imposition individuelle vient d'être acceptée, je voterais non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Livrer des armes à un pays en guerre, même partenaire, me gêne au regard de la neutralité. Je pencherais pour le non."
+    }
+  ]
+}

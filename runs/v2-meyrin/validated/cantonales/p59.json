@@ -1,0 +1,29 @@
+{
+  "id": "p59",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Proche du PS, je trouve normal que la contraception soit remboursée, surtout pour ceux qui gagnent peu, même si mes enfants sont grands et que le sujet me touche moins directement."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Les bouchons vers la frontière me touchent au quotidien et un tram ou un bus plus fréquent nous ferait du bien, mais je reste méfiant envers l'argent genevois qui part en France, comme lors du refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je suis plutôt proche du PS et je crains que la vente aux locataires ne fasse disparaître des logements abordables, comme avec les anciens congés de vente, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Les études coûtent déjà cher aux étudiants et je n'ai pas envie que la HES perde de l'argent, donc je suis plutôt dans le camp du PS, même si le sujet me paraît technique et peu concret."
+    }
+  ]
+}

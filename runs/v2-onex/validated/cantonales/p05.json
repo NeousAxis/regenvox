@@ -1,0 +1,29 @@
+{
+  "id": "p05",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je n'ai plus de pilule à payer, mais je pense aux jeunes femmes de mon entourage qui n'ont pas les moyens, alors je voterais oui malgré le coût de 20 millions par an."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Moins de voitures à la frontière, ça peut aider, mais je ne comprends pas pourquoi on met près de 40 millions dans des projets en France alors que nos bus sont déjà pleins et que les gens ont refusé ça en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Acheter l'appartement où l'on vit ne concerne pas des gens comme moi, et j'ai peur que les congés-ventes reviennent et que les locataires se retrouvent dehors, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.25,
+      "oui_proba": 0.4,
+      "raison": "La HES me touche peu, je suivrais plutôt les autorités qui connaissent le dossier, donc je voterais oui sans grande conviction."
+    }
+  ]
+}

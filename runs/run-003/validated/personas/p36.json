@@ -1,0 +1,141 @@
+{
+  "id": "p36",
+  "portrait": "J'ai 23 ans, je suis suisse et je termine ma formation pour entrer dans la vie active près de Bulle. Je vis encore chez mes parents, dans un quartier résidentiel récent de Vuadens, et je me reconnais surtout dans les valeurs de l'UDF : le travail, la famille et des règles qui ne compliquent pas la vie des gens. Je ne viens pas du monde agricole, mais je vois les fermes autour du village et j'ai de la sympathie pour ceux qui travaillent dur.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Un paysan qui n'arrive pas à payer ses machines ne va pas se lancer dans le bio, il va arrêter. Il faut d'abord que son travail soit payé correctement.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne connais pas vraiment le quotidien des fermes",
+        "Le temps, entre le travail, les trajets et mes soirées",
+        "L'impression que les décisions sont déjà prises"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée avec des agriculteurs qui montrent leurs chiffres (prix du lait, coûts, débouchés), à un horaire compatible avec mon travail, et des engagements concrets de la commune."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Acheter local, j'aimerais bien, mais le bio au magasin coûte presque le double, alors je regarde d'abord le prix.",
+      "engagement": 1,
+      "freins_participation": [
+        "Mon budget, avec un salaire de jeune qui débute",
+        "Je ne vois pas bien ce que je gagnerais à être partenaire d'une ferme",
+        "Je ne sais pas comment ça fonctionnerait concrètement"
+      ],
+      "ce_qui_me_ferait_venir": "Un exemple concret à côté de chez moi, avec des produits à un prix raisonnable, comme un panier de légumes ou de la viande de la ferme vendue directement dans le village."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Trente ans, honnêtement, je pense plutôt à ma formation et à mon premier vrai salaire qu'à la terre de Vuadens dans trente ans.",
+      "engagement": 0,
+      "freins_participation": [
+        "La question me paraît trop grande et trop lointaine",
+        "Je ne vois pas ce que je pourrais changer à mon échelle"
+      ],
+      "ce_qui_me_ferait_venir": "Une question plus concrète sur ce que je peux faire au quotidien pour les fermes du village, par exemple dans mes achats."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Reconnaître les fermes, pourquoi pas, mais si ça veut dire encore des labels et des contrôles, on paie les agriculteurs pour des papiers au lieu de les laisser travailler.",
+      "engagement": 1,
+      "freins_participation": [
+        "Ce genre de démarche me semble souvent théorique, avec de beaux discours",
+        "Je n'ai pas d'avis tranché sur ce que les fermes apportent vraiment à l'eau et à la vie sauvage"
+      ],
+      "ce_qui_me_ferait_venir": "Des résultats concrets et mesurés, sans nouvelles obligations pour les agriculteurs, et une présentation qui ne vienne pas de la ville."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "suiveur",
+    "cercle_type": "Famille proche (parents, frère ou sœur), quelques amis de l'apprentissage, collègues de travail et voisins du quartier. Peu de contacts directs avec le monde agricole."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "J'étais encore enfant à cette date, je n'aurais pas pu voter. Aujourd'hui je comprends l'envie de protéger le paysage, mais imposer des limites aux propriétaires me paraît autoritaire."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore en âge de voter. Le mitage et les terrains agricoles sont un vrai sujet au village, donc je pencherais peut-être pour, à condition que ça ne bloque pas les projets des familles."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.25,
+      "raison": "Pas encore en âge de voter. Une limite à l'empreinte écologique me paraît très théorique, et je crains que ça finisse par peser sur les entreprises et les salaires."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas encore en âge de voter. Sortir du nucléaire à terme me paraît raisonnable, mais pas avec une date fixée sans alternative sûre et sans factures plus lourdes."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore en âge de voter. Je suis pour les économies d'énergie, mais je me méfie des subventions et des taxes qui finissent toujours sur la facture."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore en âge de voter. J'aime l'idée de produits du pays, mais avec les importations et les conditions de travail, tout devient compliqué et plus cher pour le consommateur."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Pas encore en âge de voter. La souveraineté alimentaire me parle : soutenir nos paysans du coin, surtout dans une commune comme la nôtre, c'est une évidence."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je venais d'avoir 18 ans, j'y serais peut-être allée. Réserver les paiements directs à certaines fermes, c'est une pression de plus sur des familles qui ont déjà du mal. Je dirais plutôt non, même si l'eau propre compte pour moi."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je venais d'avoir 18 ans. Interdire partout les pesticides de synthèse, y compris pour les produits importés, ferait peur à nos agriculteurs, et les prix suivraient. Je reste sceptique sur une interdiction totale en dix ans."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je venais d'avoir 18 ans. La taxe sur les billets d'avion ne me gêne pas trop, je prends rarement l'avion. Mais la hausse de la taxe sur les combustibles et les normes finissent toujours par peser sur les ménages."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible au bien-être des animaux, mais imposer des règles plus strictes à nos éleveurs sans contrôler les importations, c'est une concurrence déloyale pour nos fermes. Je ne suis pas convaincue."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "L'objectif zéro émission nette me paraît possible à long terme, mais les aides pour changer de chauffage profitent surtout aux propriétaires, et je crains les taxes qui arrivent ensuite."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "J'aime les paysages de la Gruyère et je veux qu'ils restent. Mais plus de surfaces protégées et de moyens pris sur l'agriculture, je suis plus réservée, surtout pour les fermes de la commune."
+    }
+  ]
+}

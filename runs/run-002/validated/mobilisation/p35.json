@@ -1,0 +1,39 @@
+{
+  "id": "p35",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants sur place pendant la séance, parce que mes soirées et mes samedis sont pris par les enfants et mes horaires décalés."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un exemple chiffré, pris chez une ferme de la commune, de ce que signifie devenir partenaire et de ce que cela coûte réellement à l'acheteur."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants sur place, car c'est surtout le temps du soir qui me manque, pas l'envie de m'intéresser à la question."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.09,
+      "ce_qui_doublerait_ma_venue": "Une visite d'une ferme de la commune pendant l'atelier, pour voir concrètement les haies et les prés dont on parle."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de 10 minutes se remplit sur mon téléphone, quand j'ai un moment, sans garde à organiser ni trajet. Un atelier de 2 h 30 demande une soirée ou un samedi que je n'ai pas souvent, et un parcours étalé sur trois semaines, je l'abandonnerais en cours de route."
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p20",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais que 7 ans et je ne votais pas, mais le PS soutenait ce financement de l'AVS."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "J'étais enfant à l'époque et je ne votais pas, mais le PS soutenait ce financement temporaire de l'AI."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Je n'étais pas en âge de voter, mais le PS soutenait l'interdiction d'exporter du matériel de guerre."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas l'âge de voter, mais le PS soutenait l'abrogation du service militaire obligatoire."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Je n'avais pas l'âge de voter, et le PS était contre des contingents qui fragiliseraient les accords avec l'UE."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Je n'avais pas l'âge de voter, et le PS s'opposait à cet achat d'avions de combat financé par l'armée."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.25,
+      "oui_proba": 0.15,
+      "raison": "À 18 ans je n'avais pas vraiment suivi le sujet, mais le PS dit non et je ne vois pas pourquoi inscrire le mariage dans la Constitution."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Le financement de l'AVS me paraît nécessaire et le PS dit oui, mais je me méfie d'un paquet qui recule l'âge de la retraite des femmes."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Le bien-être des animaux me parle et le PS dit oui, mais payer une contribution fédérale pour garder les cornes me paraît compliqué."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.08,
+      "raison": "Le droit international et les accords avec l'UE protègent aussi mes droits, et le PS dit non à cette initiative."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.8,
+      "raison": "Je suis favorable à la coopération avec Schengen et à un contrôle plus strict des armes semi-automatiques, et le PS dit oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.05,
+      "raison": "Mon travail dans l'administration dépend des accords avec l'UE et de collègues frontaliers, et le PS dit non à cette limitation."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Les éleveurs autour de chez moi s'inquiètent du loup et je les comprends, mais la loi va trop loin pour les espèces protégées."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.22,
+      "raison": "Six milliards pour des avions de combat, je préfère voir cet argent dans les soins ou le logement, et le PS dit non."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.8,
+      "raison": "Je ne veux pas que la BNS ou une caisse de pension finance des fabricants d'armes, et le PS dit oui."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je vis près des champs et je veux une eau potable propre, le PS dit oui, mais couper les aides aux paysans sans transition me gêne."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "L'objectif me parle, mais dix ans pour interdire les pesticides de synthèse, c'est court pour les paysans, et contrôler les importations sera difficile."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.93,
+      "raison": "L'égalité devant le mariage me paraît une évidence, et le PS, le PLR et le Centre soutiennent le texte."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.1,
+      "raison": "La recherche médicale a besoin d'essais pour progresser, je ne veux pas bloquer les soins, et tous les partis disent non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis pour la coopération européenne, mais je n'aime pas renforcer une agence dont on critique les pratiques aux frontières, et le PS dit non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Le bien-être des animaux compte pour moi et le PS soutient l'initiative, mais les petits paysans d'ici auraient du mal à suivre le rythme."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas que les femmes travaillent plus sans compensation, et le PS dit non à cette réforme, même si l'AVS a besoin d'argent."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.78,
+      "raison": "Je vois la nature reculer autour de chez moi et le PS soutient l'initiative, mais le coût pour les agriculteurs m'inquiète."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Je suis célibataire donc la réforme ne me touche pas directement, mais chacun doit être imposé sur ses propres revenus, et le PS dit oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.12,
+      "raison": "Mes collègues et de nombreux habitants de Delémont ont une autre nationalité, les accords avec l'UE comptent pour l'économie d'ici, et le PS dit non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Durcir l'accès au service civil pour ceux qui sont déjà à l'armée me paraît injuste, et le PS dit non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Je suis attaché à la neutralité, mais une neutralité perpétuelle avec interdiction des sanctions me paraît trop rigide, et le PS dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je suis pour une alimentation plus locale et moins de pesticides, mais 70 % d'autoproduction en dix ans me paraît irréaliste, et le PS dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "La 13e rente a été acceptée par le peuple, il faut la financer, les denrées et les médicaments restent exemptés, et le PS dit oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les pétards me dérangent et les animaux en souffrent, surtout à la campagne, je garderais les feux d'artifice pour le 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Le peuple vient d'accepter l'imposition individuelle en mars, je ne veux pas revenir en arrière et la facture de plusieurs milliards me paraît lourde."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.18,
+      "raison": "Je n'aime pas l'idée de vendre des armes à un pays en conflit, même partenaire, et le PS dit non, même si la neutralité peut justifier certains cas."
+    }
+  ]
+}

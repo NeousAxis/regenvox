@@ -1,0 +1,142 @@
+{
+  "id": "p46",
+  "portrait": "J'ai 25 ans, je suis technicienne dans une entreprise de la zone industrielle de Vuadens, et je vis en couple avec nos enfants dans un quartier résidentiel récent du village. Je suis Suisse, je vote, et je suis proche du Centre : je tiens au travail des gens d'ici, qu'ils soient à l'atelier ou dans les champs, et je me méfie des projets décidés de loin.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans d'ici doivent d'abord pouvoir vivre de leur travail. Si le bio leur rapporte davantage, tant mieux, mais je ne veux pas qu'on leur impose quoi que ce soit.",
+      "engagement": 1,
+      "freins_participation": [
+        "je n'ai pas beaucoup de temps entre les enfants et mes horaires à l'atelier",
+        "je ne connais pas bien les prix agricoles ni les subventions",
+        "je crains que ce soit une réunion où tout a déjà été décidé"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que touche un agriculteur bio par rapport à un agriculteur conventionnel, et une garde d'enfants sur place le soir."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement à une ferme du village, pourquoi pas, mais le prix doit rester raisonnable pour une famille comme la mienne.",
+      "engagement": 2,
+      "freins_participation": [
+        "le prix du bio, que je ne peux pas toujours suivre",
+        "le temps pour aller chercher les produits à la ferme",
+        "je ne sais pas très bien comment ça fonctionnerait concrètement"
+      ],
+      "ce_qui_me_ferait_venir": "Un panier ou une vente directe près de chez moi, avec des tarifs familiaux et une visite de ferme où les enfants sont les bienvenus."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Mes enfants vont grandir ici. Je veux qu'ils puissent manger ce qui pousse au village sans se poser de questions, et que la terre reste en bon état.",
+      "engagement": 1,
+      "freins_participation": [
+        "je pense que c'est surtout l'affaire des agriculteurs et des politiques",
+        "je n'ai pas le temps de participer à des réunions longues"
+      ],
+      "ce_qui_me_ferait_venir": "Une question concrète sur la santé des enfants ou sur l'école, et une rencontre courte en soirée."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les paysans, on les connaît tous au village et on voit ce qu'ils font. Les grands mots sur les sols et la vie sauvage, ça me parle moins.",
+      "engagement": 0,
+      "freins_participation": [
+        "ça ressemble à un projet venu de la ville ou de l'administration",
+        "je ne me sens pas concernée par cette question au quotidien",
+        "je n'ai pas le temps de participer à des ateliers"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes expliquent ce qu'ils font, et qu'on voie un résultat concret dans le village."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "famille élargie et amis du quartier, collègues de l'atelier, parents rencontrés à l'école et à la crèche, quelques proches qui travaillent dans l'agriculture ou à la fromagerie"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore en âge de voter à cette date (enfant). Hypothèse : j'aurais été plutôt favorable à limiter les constructions, sans bloquer les familles qui veulent un logement au village."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.0,
+      "oui_proba": 0.6,
+      "raison": "Pas encore en âge de voter à cette date (enfant). Hypothèse : je comprends la protection des terres, mais j'habite un quartier construit récemment, donc je serais prudente sur une limitation trop stricte des zones à bâtir."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.0,
+      "oui_proba": 0.25,
+      "raison": "Pas encore en âge de voter à cette date. Hypothèse : des objectifs chiffrés sur l'empreinte écologique me paraissent flous et risqués pour les entreprises de la région."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date. Hypothèse : je ne voudrais pas perdre une électricité stable pour l'industrie sans alternative claire."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.0,
+      "oui_proba": 0.55,
+      "raison": "Pas encore en âge de voter à cette date. Hypothèse : je serais plutôt pour, si cela ne fait pas monter ma facture d'électricité ni les taxes sur le chauffage."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.0,
+      "oui_proba": 0.55,
+      "raison": "Pas encore majeure à cette date. Hypothèse : des produits suisses sans pesticides ni élevage intensif me semblent une bonne chose, mais je me méfie des exigences qui font payer plus cher le consommateur."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.0,
+      "oui_proba": 0.65,
+      "raison": "Pas encore majeure à cette date. Hypothèse : protéger la production indigène et les paysans d'ici me parle beaucoup, j'aurais voté oui."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je m'intéresse à la qualité de l'eau et de la nourriture pour mes enfants, mais lier les paiements directs à des conditions précises me fait peur pour les exploitations du village. Je serais plutôt réservée."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas les pesticides, mais une interdiction totale en dix ans risque de fragiliser les fermes d'ici et de faire monter les prix. Je voterais probablement non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je prends la voiture pour aller travailler et pour les enfants. Les taxes sur les billets d'avion ne me concernent pas, mais une hausse du mazout et de l'essence, oui. Je voterais non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être des animaux, je suis d'accord avec l'idée, mais imposer les standards bio à tous les élevages et aux importations fait peur aux paysans qui ont déjà du mal. Je voterais probablement non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le climat me concerne, mais je ne sais pas qui paie à la fin pour le remplacement des chauffages et les aides aux entreprises. Je suis hésitante, plutôt oui si l'équilibre est juste."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "J'aime la nature autour du village, mais l'initiative demande plus de surfaces protégées et plus d'argent pour la biodiversité, ce qui pèse sur des agriculteurs qui ont déjà beaucoup de contraintes. Je serais plutôt contre."
+    }
+  ]
+}

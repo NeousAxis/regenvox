@@ -1,0 +1,64 @@
+{
+  "id": "p45",
+  "portrait": "J'ai 59 ans et je travaille dans le social, avec des horaires qui me laissent peu de temps pour autre chose. Je suis arrivé en Suisse il y a longtemps, je vis avec ma famille dans une maison isolée au milieu des champs, et je vois les paysans travailler sans vraiment savoir ce qui se passe dans leurs fermes. Je ne suis pas contre le bio, au contraire, mais je me méfie des projets qui viennent d'en haut avec de belles phrases.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Qu'un paysan puisse vivre de son travail, je suis d'accord, mais le bio se paie au supermarché et je ne suis pas sûr que l'argent arrive jusqu'à la ferme.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas les agriculteurs de la commune et je ne sais pas à qui parler",
+        "Mes horaires me laissent peu de temps pour des soirées de réunion",
+        "Je me sens peu compétent sur les questions agricoles"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que touche réellement une ferme bio par rapport à une ferme conventionnelle, présentés par les agriculteurs eux-mêmes, un soir en semaine et pas trop tard."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Devenir partenaire, ça veut dire quoi concrètement, payer d'avance, acheter un panier chaque semaine, s'engager sur la durée ? Moi je n'ai pas le temps de signer des contrats.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je crains un engagement financier ou une obligation que je ne pourrai pas tenir",
+        "Je n'ai pas le temps, entre mon travail et la famille",
+        "Je doute que ce soit un projet mené par des gens qui connaissent vraiment les fermes"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule souple, sans contrat, qu'on peut arrêter quand on veut, et des exploitants qui viennent eux-mêmes expliquer ce qu'ils font."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Mes enfants vont vivre ici, donc oui, je veux bien qu'on pense à la terre dans trente ans, mais les grandes phrases sur l'avenir, on en a déjà beaucoup entendu.",
+      "engagement": 2,
+      "freins_participation": [
+        "Les grandes questions me semblent lointaines par rapport à mon quotidien",
+        "Je ne sais pas si mon avis compte face à celui des agriculteurs",
+        "Je n'aime pas les réunions où l'on parle beaucoup sans rien décider"
+      ],
+      "ce_qui_me_ferait_venir": "Une question en ligne simple, avec un résumé honnête de ce qui a été retenu, pour que je voie que mon avis a servi à quelque chose."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les fermes, je les vois passer avec les tracteurs et ça ne me dérange pas, mais je ne sais pas ce qu'elles apportent à l'eau ou aux oiseaux, je n'y ai jamais réfléchi.",
+      "engagement": 0,
+      "freins_participation": [
+        "Ce sujet ne me touche pas directement",
+        "Je n'ai pas de lien personnel avec les fermes de la commune",
+        "Je n'ai pas d'avis tranché, donc je ne vois pas l'intérêt de venir"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de précis pour l'instant, à moins qu'on me montre un lien concret avec ma vie de tous les jours, comme la qualité de l'eau que je bois ou les chemins que je fréquente."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "famille proche, collègues du milieu social et de la santé, quelques voisins du hameau et un petit réseau d'amis venus d'ailleurs. Je relaie peu, je discute surtout en privé."
+  },
+  "votes": []
+}

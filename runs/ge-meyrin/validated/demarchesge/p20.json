@@ -1,0 +1,17 @@
+{
+  "id": "p20",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Un samedi après-midi de juin 2024, en pleine saison de travail et de vente sur l'exploitation, pour un projet d'urbanisme sans lien direct avec son métier, annoncé par des flyers et une plateforme en ligne qui le touchent peu."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "La consultation a duré neuf mois et a été visible dans la commune (espace public, podcast), ce qui laisse une chance d'en parler avec son entourage, mais la culture reste un sujet éloigné de son quotidien d'agriculteur et de parent."
+    }
+  ]
+}

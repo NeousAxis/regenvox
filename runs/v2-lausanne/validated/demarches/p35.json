@@ -1,0 +1,65 @@
+{
+  "id": "p35",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.005,
+      "partage_proba": 0.02,
+      "raison": "Sauvabelin est loin de mon quartier d'immeubles, je n'y vais presque jamais, et l'annonce passait par le site des établissements et les réceptions de la Ville que je ne consulte pas."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "En 2019 je n'avais pas entendu parler de ce budget participatif pilote, sans bulletin à la maison ni campagne visible, et déposer un projet à plusieurs me paraissait réservé à d'autres."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Le vote de 2020 s'est fait pendant le Covid, par internet ou dans des urnes que je ne croise pas sur mon trajet, et je ne me suis pas sentie concernée par les projets qui circulaient."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "Un sondage en ligne de cinq minutes peut tenter, mais je n'ai pas vu l'annonce, et les soirées et balades supposaient des disponibilités que je n'avais pas à vingt et un ans."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin glissé dans la boîte aux lettres peut m'inciter à voter, mais je le mets souvent de côté avec les autres courriers, faute de temps et de projet qui me touche."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "La fermeture des quais ne change pas grand-chose à mon quotidien, je n'habite pas près d'Ouchy et je ne consulte pas le site de la Ville, donc je n'aurais probablement pas vu le questionnaire."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin arrive à domicile et le vote en ligne prend peu de temps, mais entre mes horaires et mon foyer je n'ai pas toujours l'énergie de comparer les projets."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Le sujet me touche peut-être de près comme étrangère, mais la consultation était surtout sur papier, dans des lieux que je ne fréquente pas, et je ne l'ai pas vue passer, donc je n'y aurais probablement pas répondu."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif arrive à toute la population dès 4 ans, étrangers compris, ce qui rend le vote facile, mais je le laisse souvent de côté faute de temps, sauf si un projet proche de chez moi me parle."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin à domicile et le vote en ligne rendent la participation simple, et les thèmes (convivialité, sport de proximité, liens entre générations) parlent à la vie de mon quartier, mais je ne sais pas si le travail et la famille me laisseront le temps."
+    }
+  ]
+}

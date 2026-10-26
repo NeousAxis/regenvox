@@ -1,0 +1,17 @@
+{
+  "id": "p24",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "La démarche visait surtout les habitants de Cointrin et je vis dans un hameau de la zone agricole, loin de là ; un samedi après-midi, je préfère rester avec mon conjoint, et rien dans la communication ne m'a donné envie de m'y rendre."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "Je n'ai pas de goût particulier pour les politiques culturelles et je ne me souviens pas avoir vu la consultation passer ; un court questionnaire en ligne m'aurait pris dix minutes, mais je ne l'ai pas rempli, et j'en parlerais peut-être à une collègue si le sujet venait."
+    }
+  ]
+}

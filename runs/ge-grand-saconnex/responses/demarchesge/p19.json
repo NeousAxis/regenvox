@@ -1,0 +1,17 @@
+{
+  "id": "p19",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Un questionnaire en ligne de 28 questions sur un futur quartier derrière Palexpo, qui ne me touche pas directement, demandait du temps le soir après le travail, et je ne l'aurais sans doute vu passer qu'au détour d'un journal communal."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Un sondage en ligne lancé pendant les fêtes de fin d'année, sur un quartier qui ne me concerne pas directement, passait après mes journées de travail et sans que personne autour de moi n'en parle."
+    }
+  ]
+}

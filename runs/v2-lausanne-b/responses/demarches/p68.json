@@ -1,0 +1,15 @@
+{
+  "id": "p68",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "Je ne vais presque jamais au lac de Sauvabelin et ce sondage ne m'est pas parvenu, donc je n'ai probablement rien rempli ni raconté à personne."},
+    {"item_id": "lau01", "participe_proba": 0.10, "partage_proba": 0.12, "raison": "Le principe d'un budget pour les quartiers me plaît, mais le pilote était peu visible et je n'ai probablement pas voté, même si j'en ai peut-être parlé à des amis engagés."},
+    {"item_id": "lau02", "participe_proba": 0.12, "partage_proba": 0.10, "raison": "Pendant le Covid, entre le travail et les enfants à la maison, je me suis peu mobilisée, même si l'idée d'un budget pour les quartiers me parle."},
+    {"item_id": "lau10", "participe_proba": 0.20, "partage_proba": 0.12, "raison": "Un sondage de cinq minutes sur l'avenir de mon quartier me concerne directement et je l'ai peut-être rempli, mais les soirées et balades ne collaient pas avec mes horaires pendant la crise sanitaire."},
+    {"item_id": "lau03", "participe_proba": 0.28, "partage_proba": 0.18, "raison": "Le bulletin affranchi arrive directement dans la boîte aux lettres, ce qui aide, mais choisir trois projets de quartier prend du temps que je n'ai pas toujours, donc je ne suis pas sûre de l'avoir fait."},
+    {"item_id": "lau08", "participe_proba": 0.07, "partage_proba": 0.04, "raison": "Je fréquente rarement les quais d'Ouchy et de Belgique et je n'ai pas vu passer ce questionnaire, donc je ne l'ai probablement pas rempli ni commenté."},
+    {"item_id": "lau04", "participe_proba": 0.30, "partage_proba": 0.18, "raison": "Le bulletin reçu à domicile me pousse à voter pour les projets qui renforcent les liens dans le quartier, mais l'automne est chargé et je ne suis pas certaine d'avoir pris le temps."},
+    {"item_id": "lau09", "participe_proba": 0.30, "partage_proba": 0.25, "raison": "Le racisme et les discriminations croisent souvent mon métier, donc ce sujet me parle, mais je ne suis pas certaine d'avoir vu l'annonce à temps pour répondre."},
+    {"item_id": "lau05", "participe_proba": 0.33, "partage_proba": 0.20, "raison": "Le bulletin nominatif arrive à mon nom et il est simple à remplir, mais je ne suis pas sûre de m'être vraiment mise à étudier les projets, faute de temps."},
+    {"item_id": "lau06", "participe_proba": 0.27, "partage_proba": 0.12, "raison": "Le bulletin arrive à la maison et les projets de convivialité me parlent, mais à la fin de l'été je n'ai pas forcément suivi le vote et j'en ai guère parlé autour de moi."}
+  ]
+}

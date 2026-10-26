@@ -1,0 +1,15 @@
+{
+  "id": "p09",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Un sondage papier ou des ateliers à Sauvabelin, un lieu où je ne vais pas souvent, ne m'ont pas attirée et je n'en ai pas parlé."},
+    {"item_id": "lau01", "participe_proba": 0.10, "partage_proba": 0.10, "raison": "Le budget participatif m'intéressait, mais il fallait déposer un projet à plusieurs ou se déplacer jusqu'à une urne, et je n'ai pas suivi cette première édition."},
+    {"item_id": "lau02", "participe_proba": 0.05, "partage_proba": 0.05, "raison": "Pendant la pandémie je me suis tenue à l'écart des urnes et des stands de marché, et je ne vote pas en ligne."},
+    {"item_id": "lau10", "participe_proba": 0.05, "partage_proba": 0.08, "raison": "Un sondage en ligne de cinq minutes aurait pu me tenter, mais je n'ai pas vu passer la démarche et les rencontres en plein Covid n'étaient pas pour moi."},
+    {"item_id": "lau03", "participe_proba": 0.35, "partage_proba": 0.22, "raison": "Le bulletin préaffranchi arrive dans ma boîte aux lettres, ce qui rend le vote facile, et voter pour mon quartier me plaît, donc je l'ai probablement renvoyé."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Un questionnaire en ligne sur la fermeture des quais d'Ouchy ne m'a pas concernée et je ne l'ai probablement pas rempli."},
+    {"item_id": "lau04", "participe_proba": 0.30, "partage_proba": 0.18, "raison": "Voter avec le bulletin reçu à domicile fait partie de mes habitudes civiques, mais je ne suis pas sûre d'avoir pris le temps cette année-là."},
+    {"item_id": "lau09", "participe_proba": 0.05, "partage_proba": 0.10, "raison": "Le sujet me touche, mais un questionnaire papier dans une maison de quartier ne m'aurait pas amenée à le remplir, alors qu'en parler avec mes amies est plus probable."},
+    {"item_id": "lau05", "participe_proba": 0.25, "partage_proba": 0.15, "raison": "Le bulletin nominatif m'arrive à domicile et voter pour mon quartier reste une habitude, mais je ne participe pas à chaque édition."},
+    {"item_id": "lau06", "participe_proba": 0.20, "partage_proba": 0.12, "raison": "Le bulletin est simple à renvoyer, mais avec l'âge je vote moins régulièrement et tous les projets proposés ne me parlent pas."}
+  ]
+}

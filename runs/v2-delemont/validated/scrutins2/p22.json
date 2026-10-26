@@ -1,0 +1,197 @@
+{
+  "id": "p22",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.85,
+      "raison": "Je tiens à l'AVS et je soutiens ce financement, que le PS et les Vert-e-s défendent pour garantir les rentes."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Une hausse temporaire de la TVA pour sauver l'AI me paraît raisonnable, et les Vert-e-s la soutiennent."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.88,
+      "raison": "Je suis opposée aux exportations de matériel de guerre, position que défendent les Vert-e-s, et je voterais oui à cette initiative."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Je doute de l'utilité du service militaire obligatoire et les Vert-e-s soutiennent son abrogation, mais je reste attachée à un engagement collectif."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.05,
+      "raison": "Je refuse de remettre en cause la libre circulation et les accords avec l'UE, et les Vert-e-s appellent aussi à voter non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je trouve superflu d'acheter des avions de combat alors que les besoins sociaux sont grands, et les Vert-e-s s'y opposent."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Je ne veux pas inscrire une définition du mariage dans la Constitution, position partagée par les Vert-e-s."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.9,
+      "oui_proba": 0.8,
+      "raison": "Retraitée, je profite de l'AVS et je soutiens son financement, même si la hausse de l'âge des femmes me laisse partagée."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Je suis sensible au bien-être des animaux de rente et je suis la position des Vert-e-s sur cette demande, sans me sentir experte du sujet."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.07,
+      "raison": "Je tiens aux traités internationaux et aux droits humains, et je rejette la primauté du droit suisse défendue par l'UDC."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je soutiens la coopération avec l'UE et Schengen, que recommandent les Vert-e-s, même si je reste méfiante envers la facilité d'accès aux armes."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "Je refuse de mettre fin à la libre circulation et de fermer la Suisse à l'Europe, position des Vert-e-s."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.75,
+      "oui_proba": 0.12,
+      "raison": "Je suis contre la régulation facilitée d'espèces protégées comme le loup, comme le demandent les organisations de protection de la nature."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.1,
+      "raison": "Dépenser 6 milliards pour des avions de combat me paraît excessif, et les Vert-e-s s'y opposent."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Je trouve scandaleux que les banques et les caisses de pension financent les fabricants d'armes, position défendue par les Vert-e-s et le PS."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.85,
+      "oui_proba": 0.9,
+      "raison": "Je veux une eau potable propre et une agriculture sans pesticides ni antibiotiques préventifs, convictions que je partage avec les Vert-e-s."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.9,
+      "raison": "Je soutiens l'interdiction des pesticides de synthèse pour protéger l'eau, les sols et les abeilles, comme le font les Vert-e-s."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.8,
+      "oui_proba": 0.95,
+      "raison": "L'égalité devant le mariage va de soi pour moi, et c'est la ligne des Vert-e-s."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la souffrance animale, mais les Vert-e-s recommandent non et une interdiction totale me semble trop large."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.55,
+      "oui_proba": 0.15,
+      "raison": "Je me méfie d'un renforcement de l'agence de garde-frontières qui met en danger les personnes exilées, position des Vert-e-s."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "Je veux que les animaux de rente soient mieux protégés, y compris pour les importations, et je suis les Vert-e-s sur ce point."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.9,
+      "oui_proba": 0.45,
+      "raison": "Retraitée, je tiens à financer l'AVS, mais les Vert-e-s rejettent le relèvement de l'âge des femmes et je reste hésitante."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Je veux protéger davantage la nature et les paysages, et les Vert-e-s défendent cette initiative même si le Conseil fédéral la rejette."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Les Vert-e-s soutiennent l'imposition individuelle pour l'égalité entre hommes et femmes, même si ma situation de retraitée en couple reste complexe."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "Je refuse de plafonner la population et de dénoncer la libre circulation, position des Vert-e-s."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Je trouve injuste de durcir l'accès au service civil pour ceux qui ont une conscience contraire à l'armée, position des Vert-e-s."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "J'aime la neutralité et sa tradition de médiation, mais cette initiative limiterait fortement les sanctions et la coopération internationale, ce que je refuse."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Moins de pesticides, moins d'élevage intensif et une eau propre me parlent, mais l'objectif de 70 % d'aliments produits en Suisse me semble irréaliste."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.9,
+      "oui_proba": 0.9,
+      "raison": "Je touche la rente AVS et la 13e rente me concerne directement, donc je soutiens ce financement même si la TVA pèse sur mon budget."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Le bruit des pétards gêne les animaux et les personnes âgées, et les Vert-e-s soutiennent cette limitation pour protéger la nature."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.1,
+      "raison": "Je trouve l'imposition individuelle plus juste et je ne veux pas revenir à l'imposition commune, position des Vert-e-s."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.75,
+      "oui_proba": 0.08,
+      "raison": "Je refuse d'assouplir les exportations d'armes vers des pays en conflit, car la neutralité doit primer, comme le disent les Vert-e-s."
+    }
+  ]
+}

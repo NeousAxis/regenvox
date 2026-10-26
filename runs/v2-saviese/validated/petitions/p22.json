@@ -1,0 +1,125 @@
+{
+  "id": "p22",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.2,
+      "raison": "Je suis contre la surveillance de masse, mais cette pétition concerne une école lausannoise et une polémique que je ne suis pas de près."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.3,
+      "partage_proba": 0.45,
+      "raison": "Les canicules et la sécheresse touchent directement nos vignes et nos villages, et je trouve la lettre juste, même si je doute que les élus agissent vraiment."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.2,
+      "partage_proba": 0.4,
+      "raison": "Je suis proche de la gauche et l'initiative de l'UDC me révolte, mais je ne signe pas toutes les pétitions de campagne en ligne."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.06,
+      "partage_proba": 0.3,
+      "raison": "Je défends la liberté de débattre et je n'aime pas les procédures qui font taire un élu, mais c'est loin de chez moi et je connais mal l'affaire."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.5,
+      "raison": "Les jeunes et l'inhalation de protoxyde me préoccupent dans mon travail, et j'aurais envie de partager ce constat, même si Genève n'est pas mon canton."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.3,
+      "raison": "La santé et le climat sont liés et les caisses de pension investissent des cotisations qui sont aussi les miennes, mais le texte est en anglais et je signe rarement ce genre de démarche."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "Le texte dit lui-même qu'il est fictif, ce qui me laisse perplexe, donc je ne vois pas à quoi signer."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "Je comprends l'enjeu de l'AVS pour les jeunes, mais un appel des Jeunes vert'libéraux, qui évoquent la légalisation du cannabis, ne me touche pas assez pour signer."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.1,
+      "raison": "Versoix est à Genève, loin de Savièse, et je ne connais pas ce dossier local."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.3,
+      "partage_proba": 0.5,
+      "raison": "Le deuil d'un enfant et le manque de reconnaissance de ces mères me touchent beaucoup, et en tant que soignante je sais combien ces situations sont mal prises en charge."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.3,
+      "partage_proba": 0.6,
+      "raison": "L'accès à la psychothérapie concerne directement mon milieu professionnel, et je partagerais l'appel pour que mes collègues le voient."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.2,
+      "raison": "La Ferme aux Agrumes se trouve à Borex, dans le canton de Vaud, et je n'ai aucun lien avec ce lieu."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.1,
+      "partage_proba": 0.4,
+      "raison": "Les femmes victimes de violence ont besoin de places d'accueil, mais le Jura reste éloigné de mon quotidien et de mon réseau."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.01,
+      "partage_proba": 0.1,
+      "raison": "La chaleur en ville est un enjeu réel, mais le tram lausannois est un projet vaudois qui ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.15,
+      "partage_proba": 0.35,
+      "raison": "Je suis proche du PS et sensible au sort des réfugié·es, mais je ne signe pas facilement une pétition adressée à un conseiller fédéral sur un cas précis."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.1,
+      "partage_proba": 0.4,
+      "raison": "La formation des jeunes en situation de handicap me parle à cause de mon métier, et je la partagerais dans mon milieu professionnel."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.06,
+      "partage_proba": 0.3,
+      "raison": "Le risque de filmer des femmes à leur insu me préoccupe, mais je ne suis pas convaincue qu'il faille interdire ces lunettes."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.2,
+      "partage_proba": 0.4,
+      "raison": "Je suis inquiète pour le climat et les étés chauds, et cet appel est sincère, mais il reste général et je signe peu ce genre de texte."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.3,
+      "partage_proba": 0.5,
+      "raison": "Les forêts au-dessus de Sion et le risque d'incendie me touchent directement, et je soutiendrais l'idée de ne pas couper les fonds décidés par Rösti."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.15,
+      "partage_proba": 0.5,
+      "raison": "Protéger les victimes d'abus facilités par la drogue est une priorité qui me touche, et je partagerais l'appel, même si je m'interroge sur la forme de cette task force."
+    }
+  ]
+}

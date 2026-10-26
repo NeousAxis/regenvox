@@ -1,0 +1,197 @@
+{
+  "id": "p29",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je n'ai pas beaucoup suivi les affaires de l'AVS à mon âge, et une hausse de la TVA pèse sur le budget de tout le monde, donc je suis plutôt contre, comme l'UDC."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Une hausse de la TVA, même temporaire, pour renflouer l'AI sans réforme en face me paraît être un impôt déguisé, et l'UDC a dit non, donc je vote non."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.25,
+      "oui_proba": 0.2,
+      "raison": "Interdire l'exportation de matériel de guerre touche des entreprises et des emplois suisses, et je ne vois pas pourquoi on se priverait, donc non, comme l'UDC et le PLR."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "J'ai fait mon service, je pense que l'obligation de servir fait partie de notre pays et qu'un service volontaire ne suffirait pas à assurer la défense, donc non."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.8,
+      "raison": "Il arrive trop de monde, les loyers montent et les villages comme le nôtre se transforment, il faut reprendre la main sur l'immigration, même si ça complique le recrutement dans la restauration, donc oui."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Une armée qui doit défendre notre espace aérien a besoin d'avions modernes, le prix n'est pas idéal mais le financement est encadré, donc oui, comme l'UDC et le PLR."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.3,
+      "oui_proba": 0.45,
+      "raison": "Je suis célibataire et le mariage ne me concerne pas directement, mais l'idée qu'un couple marié soit pénalisé fiscalement me paraît injuste, donc je dirais oui sans trop de conviction."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "La retraite me concernera dans une vingtaine d'années et je veux que l'AVS tienne, mais la hausse de la TVA me gêne et l'UDC a dit non, donc je suis plutôt contre."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Les vaches à cornes, c'est sympa à voir, mais payer une contribution fédérale pour ça dans un budget déjà serré ne me paraît pas juste, donc non, même si je comprends les paysans qui y tiennent."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Le droit suisse doit primer sur les juges étrangers, c'est une question de souveraineté qui compte beaucoup pour moi, et l'UDC défend cette ligne depuis longtemps, donc oui."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je ne veux pas que Bruxelles décide quelles armes les tireurs et les chasseurs peuvent garder chez eux, la tradition du tir en Valais compte, donc non, comme l'UDC."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Il faut que la Suisse reprenne le contrôle de son immigration et mette fin à la libre circulation, c'est une position que je défends depuis des années, donc oui."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "Le loup fait des dégâts dans les troupeaux de nos bergers en Valais, il faut pouvoir le réguler avant qu'il ne tue encore, donc oui sans hésiter."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Une armée moderne a besoin d'avions de combat, six milliards c'est cher mais on n'a pas vraiment le choix pour notre défense, donc oui, comme l'UDC et le PLR."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Empêcher les banques et les caisses de pension de financer l'industrie de l'armement touche des entreprises suisses et des emplois, donc non, même si l'idée me séduit un peu."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Les vignerons et les paysans de Savièse ont déjà beaucoup de contraintes, et supprimer les aides à ceux qui traitent leurs cultures me paraît excessif, donc non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Interdire les pesticides de synthèse en dix ans mettrait en danger une bonne partie de la production locale et les importations viendraient d'ailleurs, donc non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je n'ai rien contre les couples de même sexe qui veulent se marier, mais le don de sperme pour les couples de femmes et la redéfinition du mariage me gênent, donc non, sans trop m'investir dans le sujet."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "Interdire la recherche animale et les essais sur l'humain ferait fuir la recherche médicale de Suisse, je comprends la sensibilité des gens mais je ne peux pas soutenir ça, donc non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Frontex protège les frontières de l'espace Schengen et la Suisse doit y contribuer pour la sécurité, même si je n'aime pas dépendre de Bruxelles, donc je vote plutôt oui, comme l'UDC."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "L'élevage intensif ne me concerne pas beaucoup, mais des normes imposées aussi aux importations et une transition de 25 ans me paraissent difficiles pour nos paysans, donc non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je vais avoir besoin de ma retraite et l'AVS 21 la consolide, l'UDC soutient la réforme, donc oui, même si la TVA monte un peu."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "La nature c'est important, mais de nouvelles surfaces protégées et davantage de contraintes pour les agriculteurs et les propriétaires me paraissent excessives, les cantons savent déjà faire, donc non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je suis célibataire donc ça ne change pas grand-chose pour moi, mais l'UDC dit non et je crains une hausse pour les familles avec un seul revenu, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "Une Suisse à 10 millions d'habitants voudrait dire plus de trafic, des logements plus chers et plus de pression sur nos villages, il faut poser une limite, donc oui sans hésiter."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Ceux qui ont été incorporés doivent faire leur service, et les départs vers le service civil affaiblissent l'armée, donc oui à des conditions plus strictes."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "La neutralité, c'est ce qui a fait la Suisse, je ne veux ni alliance militaire ni sanctions dictées de l'extérieur, donc oui à l'initiative sans hésiter."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Produire davantage chez nous est une bonne idée, mais imposer 70 % d'aliments indigènes en dix ans avec moins de viande et moins de traitements fera monter les prix et mettra nos paysans sous pression, donc non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente AVS est utile aux retraités, mais une TVA plus haute sur tout ce qu'on achète pèse sur mon budget et l'UDC n'a pas encore tranché, donc je reste très partagé et je pencherais plutôt pour non."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Les pétards la nuit dérangent les voisins et les animaux, mais les feux du 1er août font partie de nos traditions et je n'aime pas qu'on les interdise, donc je pencherais plutôt pour non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je suis célibataire et ça ne me touche pas directement, mais je trouve juste qu'un couple marié ne soit pas pénalisé fiscalement, donc je pencherais pour oui."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je comprends que l'industrie suisse de l'armement a besoin de marchés, mais livrer du matériel à un pays impliqué dans un conflit touche à notre neutralité, donc je suis hésitant et je pencherais plutôt pour non."
+    }
+  ]
+}

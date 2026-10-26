@@ -1,0 +1,113 @@
+{
+  "synthese": {
+    "n": 10,
+    "spearman_panel": 0.5273,
+    "p_valeur_permutation": 0.0588,
+    "spearman_llm_naif": 0.9152,
+    "rapport_median_prevu_sur_reel": 2.4046,
+    "mesure": "participants_publies",
+    "population": "population_concernee.valeur"
+  },
+  "lignes": [
+    {
+      "id": "lau01",
+      "annee": 2019,
+      "nom": "Budget participatif de la Ville de Lausanne, 1re édition (projet pilote 2019)",
+      "taux_prevu_16_plus": 0.0408,
+      "naif_participants_estimes": 3000,
+      "participants_reels": 2482,
+      "population": 146277,
+      "taux_reel": 0.016967807652604305
+    },
+    {
+      "id": "lau02",
+      "annee": 2020,
+      "nom": "Budget participatif de la Ville de Lausanne, 2e édition (2020)",
+      "taux_prevu_16_plus": 0.0508,
+      "naif_participants_estimes": 3500,
+      "participants_reels": 4004,
+      "population": 145973,
+      "taux_reel": 0.027429730155576718
+    },
+    {
+      "id": "lau03",
+      "annee": 2021,
+      "nom": "Budget participatif de la Ville de Lausanne, 3e édition (2021)",
+      "taux_prevu_16_plus": 0.1256,
+      "naif_participants_estimes": 8000,
+      "participants_reels": 3078,
+      "population": 147141,
+      "taux_reel": 0.02091871062450303
+    },
+    {
+      "id": "lau04",
+      "annee": 2022,
+      "nom": "Budget participatif de la Ville de Lausanne, 4e édition (2022)",
+      "taux_prevu_16_plus": 0.1198,
+      "naif_participants_estimes": 12000,
+      "participants_reels": 18355,
+      "population": 149079,
+      "taux_reel": 0.12312263967426666
+    },
+    {
+      "id": "lau05",
+      "annee": 2023,
+      "nom": "Budget participatif de la Ville de Lausanne, 5e édition (2023)",
+      "taux_prevu_16_plus": 0.1445,
+      "naif_participants_estimes": 14000,
+      "participants_reels": 18370,
+      "population": 150326,
+      "taux_reel": 0.12220108297965754
+    },
+    {
+      "id": "lau06",
+      "annee": 2025,
+      "nom": "Budget participatif de la Ville de Lausanne, 6e édition (vote 2025)",
+      "taux_prevu_16_plus": 0.1232,
+      "naif_participants_estimes": 13000,
+      "participants_reels": 18630,
+      "population": 151028,
+      "taux_reel": 0.12335460974124003
+    },
+    {
+      "id": "lau07",
+      "annee": 2017,
+      "nom": "Quel avenir pour les établissements publics du lac de Sauvabelin ? (consultation de la population et des usagers)",
+      "taux_prevu_16_plus": 0.0213,
+      "naif_participants_estimes": 450,
+      "participants_reels": 423,
+      "population": 145224,
+      "taux_reel": 0.0029127416955875064
+    },
+    {
+      "id": "lau08",
+      "annee": 2021,
+      "nom": "Fermeture des quais d'Ouchy et de Belgique au trafic : sondage en ligne de satisfaction (Lausanne sonde sa population)",
+      "taux_prevu_16_plus": 0.0448,
+      "naif_participants_estimes": 4000,
+      "participants_reels": 4607,
+      "population": 145358,
+      "taux_reel": 0.03169416200002752
+    },
+    {
+      "id": "lau09",
+      "annee": 2022,
+      "nom": "Consultation en ligne « Réinventons ensemble nos actions contre le racisme » (Ville de Lausanne et Bureau lausannois pour les immigrés)",
+      "taux_prevu_16_plus": 0.0614,
+      "naif_participants_estimes": 300,
+      "participants_reels": 273,
+      "population": 146839,
+      "taux_reel": 0.0018591791009200554
+    },
+    {
+      "id": "lau10",
+      "annee": 2020,
+      "nom": "Lausanne 2030 : « Quel visage pour votre quartier en 2030 ? » (démarche participative pour la révision du Plan d'affectation communal, PACom)",
+      "taux_prevu_16_plus": 0.0773,
+      "naif_participants_estimes": 3000,
+      "participants_reels": 700,
+      "population": 145358,
+      "taux_reel": 0.004815696418497778
+    }
+  ]
+}

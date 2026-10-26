@@ -1,0 +1,11 @@
+{
+  "id": "p25",
+  "reactions": [
+    {
+      "item_id": "gen02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "À 18 ou 19 ans, en formation, vivant chez ses parents et sans lien avec la vie communale, il n'aurait pas pris la peine de venir à une soirée de lancement un mercredi soir en salle des fêtes, et il n'en aurait parlé que par hasard, si le sujet était venu dans une discussion familiale ou entre amis."
+    }
+  ]
+}

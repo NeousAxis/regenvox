@@ -1,0 +1,29 @@
+{
+  "id": "p07",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.72,
+      "oui_proba": 0.6,
+      "raison": "Je trouve juste que la contraception ne soit pas remboursée et que les jeunes femmes ne doivent pas la payer de leur poche, mais les 20 millions par an et l'avis négatif du Conseil d'État me rendent prudente."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Je vois chaque jour la circulation qui traverse Meyrin, donc des bus, un tram et des parkings-relais me paraissent utiles, même si payer des projets en France me laisse une réserve."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.72,
+      "oui_proba": 0.4,
+      "raison": "Si mon immeuble se met à vendre appartement par appartement, les locataires âgés risquent de devoir partir, et je suis plus sensible aux inquiétudes de l'ASLOCA qu'aux arguments du Centre."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je ne connais pas bien ce dossier, mais la formation des soignants et des enseignants compte pour moi, et les autorités avec le Centre recommandent oui, donc je penche pour le oui."
+    }
+  ]
+}

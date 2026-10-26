@@ -1,0 +1,29 @@
+{
+  "id": "p12",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je trouve normal que les femmes ne paient pas la pilule de leur poche, surtout avec de petits salaires, et 20 millions par an ce n'est pas énorme, même si le Conseil d'État dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "Les bouchons à la frontière me pèsent chaque jour, donc un bus ou un tram qui désengorge c'est bon à prendre, mais payer des projets en France me gêne et le peuple a déjà refusé ça en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Je comprends que le locataire rêve d'acheter, mais j'ai peur que les propriétaires vendent appartement par appartement, comme avec les congés-ventes, et que les gens se retrouvent dehors."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "La HES forme les techniciens et ingénieurs dont l'industrie a besoin, donc je ne veux pas la couper, mais si le PS demande de garder 35 millions, je suis d'accord avec eux sur ces 2 millions."
+    }
+  ]
+}

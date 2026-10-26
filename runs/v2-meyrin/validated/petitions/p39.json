@@ -1,0 +1,125 @@
+{
+  "id": "p39",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Une campagne étudiante lausannoise sur un événement de l'EPFL ne me concerne pas directement, et la demande de charte éthique me paraît trop militante pour moi."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "Les canicules de cet été m'ont marqué, mais cette lettre demande beaucoup de réformes d'un coup et je ne signe qu'occasionnellement ce genre d'appel."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Le débat sur l'initiative de l'UDC relève pour moi du Parlement, et je ne signe pas les pétitions de campagnes en ligne."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.015,
+      "partage_proba": 0.01,
+      "raison": "L'affaire Thévoz est trop polarisée autour de Gaza pour que je m'y engage, et je ne connais pas le dossier assez en détail."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Les bonbonnes retrouvées dans le lac et les conducteurs sous influence me concernent comme habitant du canton, et une régulation de la vente me paraît raisonnable, même si je ne signe pas souvent."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.025,
+      "partage_proba": 0.015,
+      "raison": "Je ne vois pas pourquoi des soignants devraient dicter la politique de placement des caisses de pension, même si le sujet climatique me parle."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Le texte se présente lui-même comme fictif et demande une réforme constitutionnelle, donc je n'y vois pas une pétition à signer, même si l'assurance-maladie me préoccupe."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Le financement de l'AVS me préoccupe sérieusement et la durée de cotisation de référence est une piste que je trouve intéressante, mais je signe rarement les pétitions de jeunes partis."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Ce projet concerne Versoix et je n'y habite pas, donc je n'ai pas de raison de m'engager pour un local communal qui n'est pas le mien."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "Le sujet est douloureux et je comprends le vide juridique, mais je ne suis pas directement concerné et je ne signe pas facilement une pétition adressée à des commissions parlementaires."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "L'accès à la psychothérapie me paraît important, mais je ne suis pas touché par ce dossier et je ne me mobilise pas sur une motion parlementaire précise."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.008,
+      "partage_proba": 0.004,
+      "raison": "Une ferme d'agrumes à Borex, dans le canton de Vaud, n'est pas un sujet qui me concerne, même si la collection a l'air remarquable."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.012,
+      "partage_proba": 0.006,
+      "raison": "Cause légitime, mais elle concerne le canton du Jura, loin de Genève, et je ne signe pas les pétitions adressées à des parlements d'autres cantons."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Rendre le tram lausannois plus frais est une idée de bon sens, mais c'est un dossier vaudois qui ne me touche pas, je le partagerais surtout pour le jeu de mots."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.025,
+      "partage_proba": 0.015,
+      "raison": "Le dossier des renvois burundais dépasse mes connaissances, et je fais confiance à la procédure d'asile sans m'engager sur des cas individuels."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.015,
+      "partage_proba": 0.008,
+      "raison": "Les formations à temps partiel sont une idée intéressante, mais je ne suis pas concerné et l'allongement des CFC me paraît difficile à défendre."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Le risque de filmage à l'insu dans les vestiaires me parle, mais une interdiction de vente me paraît disproportionnée et je ne signe pas volontiers ce type de campagne."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.04,
+      "partage_proba": 0.025,
+      "raison": "Je partage l'inquiétude climatique, mais la liste de mesures, comme l'interdiction des vols court-courriers, me paraît trop contraignante pour que je m'engage."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "La prévention des incendies me paraît légitime et moins coûteuse que la réparation, mais je ne signe pas les appels qui visent des lignes budgétaires précises."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Les abus facilités par la drogue sont graves et la protection des victimes me parle, mais je doute qu'une task force nationale soit la bonne réponse et je ne suis pas certain de son efficacité."
+    }
+  ]
+}

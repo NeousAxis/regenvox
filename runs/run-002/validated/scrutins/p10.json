@@ -1,0 +1,95 @@
+{
+  "id": "p10",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Notre armée doit pouvoir protéger le pays, et ces avions remplacent des appareils très vieux. Je voterai oui, sans enthousiasme pour les dépenses."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Je ne veux pas que les couples mariés soient désavantagés par rapport aux autres, surtout aux impôts. Je ne suis pas militante, mais le mariage doit rester une valeur protégée."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Une hausse de la TVA, c'est une facture pour tout le monde, y compris pour les petits revenus. Il faudrait d'abord faire des économies avant de demander encore de l'argent aux gens."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "La Constitution doit passer avant les juges étrangers, c'est une question de bon sens et de souveraineté. La Suisse doit décider chez elle."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Je veux que la Suisse maîtrise elle-même l'immigration, on voit déjà la pression sur les logements et les routes autour de Bulle. Ce n'est pas contre les gens, c'est une question de mesure."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Une armée a besoin d'avions de combat modernes, et on ne peut pas rester avec du matériel dépassé. Le Conseil fédéral choisira le modèle, c'est une bonne chose."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je comprends l'envie de protéger les animaux, mais interdire la recherche médicale et les nouveaux produits, je n'en vois pas l'utilité. On ne doit pas nous interdire de nous soigner."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Imposer les normes Bio Suisse aux éleveurs et aux importations, sur 25 ans, c'est une leçon venue d'en haut. Nos paysans font déjà beaucoup, ils ne pourront pas suivre et les produits viendront de plus loin."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.4,
+      "raison": "Je comprends qu'il faut financer l'AVS, c'est aussi ma rente. Mais une nouvelle hausse de la TVA pèse sur le budget de tout le monde et je ne suis pas convaincue qu'il n'y ait pas d'autres économies possibles."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "La neutralité a protégé la Suisse pendant des siècles, et je veux qu'on reste maîtres de nos décisions. Pas d'alliance militaire, pas de sanctions dictées par d'autres, c'est clair."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Produire davantage chez nous, c'est une bonne idée, mais réduire les produits animaux, c'est toucher à nos fermes laitières et à notre fromagerie. Je ne veux pas qu'on nous dise quoi manger depuis Berne."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente AVS est bienvenue pour les retraités, mais une TVA en plus pour la financer pèse sur les courses de tout le monde. J'hésite, je ne suis pas sûre que ce soit la bonne solution."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le bruit gêne les animaux et certains voisins, mais les fêtes du village et le 1er août doivent rester possibles. Je n'aime pas les interdictions décidées à Berne."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le peuple a accepté l'imposition individuelle en mars, mais je trouve qu'on ne doit pas pénaliser le mariage. Les couples qui ont élevé une famille méritent d'être traités équitablement."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Une industrie suisse de l'armement forte, ça fait des emplois dans la région et ça compte pour notre défense. Mais la neutralité doit rester respectée, donc j'hésite un peu."
+    }
+  ]
+}

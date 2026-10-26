@@ -1,0 +1,29 @@
+{
+  "id": "p01",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Les Verts disent oui et je trouve juste qu'une contraception sûre ne dépende plus de son revenu, même si 20 millions par an méritent un débat."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Moins de voitures à la frontière et davantage de bus ou de tram me semblent utiles, même si financer des projets en France reste délicat après le refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je crains que la vente aux locataires ne réduise le nombre de logements abordables et ne pousse des familles dehors, comme le disent les Verts et l'ASLOCA."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je trouve dommage de couper 2 millions à la HES alors que les taxes d'études ont déjà augmenté, donc je pencherais pour le non défendu par les Verts, sans être sûre à 100 %."
+    }
+  ]
+}

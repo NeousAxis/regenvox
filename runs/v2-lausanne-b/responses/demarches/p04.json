@@ -1,0 +1,15 @@
+{
+  "id": "p04",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je passe parfois avec les enfants au lac de Sauvabelin, mais je ne lis pas les annonces de la Ville, et un sondage de trois questions ou un atelier le samedi après-midi ne rentre pas dans ma semaine de chantier."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "C'est la première année d'un dispositif encore peu connu, je n'ai pas de projet de quartier à défendre et je n'ai pas vu d'urne sur mon chemin."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "Pendant la pandémie et au milieu de mes chantiers, je n'ai pas suivi cette deuxième édition, et le vote en ligne ou au marché le samedi matin ne me correspond pas."},
+    {"item_id": "lau10", "participe_proba": 0.10, "partage_proba": 0.18, "raison": "Le PACom touche directement mon métier (règles de construction, hauteurs, patrimoine), donc je m'y intéresse, et un sondage de cinq minutes en ligne est à ma portée, mais je ne vais ni aux soirées ni aux balades et je n'ouvre ce genre de lien que si quelqu'un me le signale."},
+    {"item_id": "lau03", "participe_proba": 0.10, "partage_proba": 0.10, "raison": "Le bulletin affranchi arrive dans la boîte aux lettres de mon foyer et la famille pourrait le remplir ensemble, mais la plupart des foyers ne le font pas et octobre et novembre sont ma saison la plus chargée."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.07, "raison": "Je circule en camionnette sur la rive, donc la fermeture me touche un peu, mais un questionnaire de quinze questions sur le site de la Ville n'est pas le genre de chose que je remplis, et je n'en ai pas entendu parler dans les médias."},
+    {"item_id": "lau04", "participe_proba": 0.10, "partage_proba": 0.08, "raison": "Le bulletin préaffranchi à domicile me donne une vraie occasion de voter, mais je n'ai pas suivi la plateforme Lausanne participe, et entre les chantiers de fin d'année et la famille, cocher trois projets reste une démarche que je repousse."},
+    {"item_id": "lau09", "participe_proba": 0.07, "partage_proba": 0.14, "raison": "Le sujet me touche comme étranger et comme artisan qui travaille avec des gens de toutes origines, et j'en parlerais volontiers autour de moi, mais le questionnaire était sur une plateforme en ligne et je ne l'aurais probablement pas rempli sans une incitation directe."},
+    {"item_id": "lau05", "participe_proba": 0.12, "partage_proba": 0.12, "raison": "Un bulletin nominatif arrive pour chaque membre de la famille dès 4 ans, ce qui facilite un vote à plusieurs, mais ce genre de vote populaire ne me vient pas spontanément et novembre reste un mois de chantiers de fin d'année."},
+    {"item_id": "lau06", "participe_proba": 0.09, "partage_proba": 0.08, "raison": "Le vote tombe en plein été, pendant la saison de chantiers, et je n'ai pas de projet de quartier en tête; le bulletin reçu à domicile pourrait finir sur la table familiale, mais je le laisserais probablement de côté."}
+  ]
+}

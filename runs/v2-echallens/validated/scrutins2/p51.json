@@ -1,0 +1,197 @@
+{
+  "id": "p51",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "Le financement de l'AVS compte beaucoup pour moi et le PS soutient ce relèvement, donc je voterais oui sans hésiter."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Une hausse temporaire de la TVA pour sauver l'AI me paraît acceptable tant qu'elle reste limitée dans le temps, même si je m'y intéresse moins que pour l'AVS."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Je suis contre l'exportation d'armes et je rejoins le PS et les Verts, même si la campagne m'a paru confuse."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Je ne crois pas vraiment à l'abolition du service militaire, mais le PS la soutient et je suis tentée de suivre, sans être convaincue."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.05,
+      "raison": "Je tiens à la libre circulation et au dialogue avec l'Europe, et cette initiative divise les gens d'ici, donc je voterais non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.12,
+      "raison": "Dépenser une grosse somme pour des avions de combat alors que les besoins sociaux sont là me gêne, donc je voterais non comme le PS."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.1,
+      "raison": "Inscrire le mariage dans la Constitution et imposer un modèle familial ne correspond pas à la société d'aujourd'hui, donc je voterais non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "La réforme des retraites demande un effort, mais le financement de l'AVS est indispensable et le PS a obtenu des contreparties, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "Le bien-être des animaux me touche et le PS soutient cette initiative, donc je pencherais pour le oui, sans grande conviction sur le principe d'un paiement fédéral."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.08,
+      "raison": "Je ne veux pas que la Suisse s'éloigne du droit international et de ses accords avec l'Europe, donc je voterais non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.8,
+      "raison": "Je reste attachée aux accords de Schengen et les exceptions pour les tireurs me semblent raisonnables, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "Mettre fin à la libre circulation me paraît dangereux pour nos emplois et nos relations avec l'Union européenne, donc je voterais non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le loup doit rester protégé et la régulation facile des espèces m'inquiète, donc je voterais non, même si je comprends la colère des agriculteurs."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.55,
+      "oui_proba": 0.1,
+      "raison": "Six milliards pour de nouveaux avions de combat me paraissent beaucoup trop, et le PS a raison de dénoncer ce choix, donc je voterais non."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.85,
+      "raison": "Priver les banques et les caisses de pension du financement des fabricants d'armes me semble juste, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "La qualité de l'eau et de notre alimentation me tient à cœur et le PS la soutient, donc je voterais oui, même si je pense aux paysans de la région."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je veux une agriculture sans pesticides de synthèse et le PS comme les Verts la soutiennent, donc je voterais oui, même si la transition inquiète les paysans d'ici."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.95,
+      "raison": "Le mariage pour tous relève pour moi de l'égalité la plus élémentaire, donc je voterais oui sans réserve."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.25,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'intérêt de la recherche médicale et l'interdiction totale me semble trop rigide, donc je penche pour le non, sans grande conviction."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "La politique migratoire européenne me semble dure envers les personnes en détresse, donc je voterais non au renforcement de Frontex."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "La dignité des animaux d'élevage doit être mieux protégée, donc je voterais oui à cette initiative, même si je comprends que la transition coûte cher."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.25,
+      "raison": "Relever l'âge de la retraite des femmes sans compensation suffisante me touche directement, donc je voterais non, même si le financement de l'AVS reste nécessaire."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Les haies, les prairies et les oiseaux disparaissent autour de nous, donc je voterais oui pour protéger la biodiversité, même si cela coûte."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Chaque personne mariée imposée sur ses propres revenus me paraît plus juste, notamment pour les femmes, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.1,
+      "raison": "À Echallens un quart des habitants sont étrangers et cette initiative me paraît divisante, donc je voterais non, sans nier les questions que pose la croissance de la population."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Durcir l'accès au service civil pour ceux qui sont déjà dans l'armée me paraît contraire à la liberté de conscience, donc je voterais non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.1,
+      "raison": "Je tiens à la neutralité, mais la version figée de l'initiative me paraît dangereuse pour les choix de la Suisse, donc je voterais non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Manger plus local et moins de produits chimiques me plaît, mais atteindre 70 % en dix ans me paraît irréaliste, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Je suis moi-même retraitée et bénéficiaire de la 13e rente, mais c'est surtout une question de justice, donc je voterais oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Les pétards bruyants dérangent les animaux et les personnes âgées, donc je serais plutôt pour une limite, même si l'interdiction totale du bruit reste à discuter."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Le peuple a déjà tranché en mars en faveur de l'imposition individuelle, donc revenir là-dessus me paraît inutile, je voterais non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.1,
+      "raison": "Assouplir les exportations d'armes vers des pays en conflit contredit notre neutralité et mes valeurs, donc je voterais non."
+    }
+  ]
+}

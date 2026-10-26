@@ -1,0 +1,65 @@
+{
+  "id": "p21",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "À 22 ans, je travaillais surtout sur l'exploitation familiale et je ne savais même pas qu'il y avait un sondage sur le lac de Sauvabelin, donc je n'ai probablement rien rempli."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "Le budget participatif m'intéresse en théorie, mais pendant les vendanges je n'avais ni le temps de déposer un projet ni l'envie de le faire voter, et je n'ai sans doute pas voté."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Entre les vendanges, la pandémie et les journées à la ferme, le vote en ligne ne m'a pas accroché et je ne suis pas sûr d'avoir pris le temps de voter."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.06,
+      "raison": "Un sondage de cinq minutes sur le plan d'affectation touche des terres que je connais, donc je l'aurais peut-être rempli un soir, mais je ne suis pas certain d'avoir vu l'annonce."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin affranchi arrive dans ma boîte aux lettres et le vote prend deux minutes, mais les projets sont surtout urbains et je le laisserais probablement traîner sur la table."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je vais rarement à Ouchy et la fermeture des quais ne change rien à mon quotidien, donc je n'ai pas répondu au questionnaire et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin reçu à domicile pourrait me convaincre, mais entre la fin des récoltes et les soirées en famille, je n'ai pas vraiment suivi les projets de quartier, donc je ne voterais probablement pas."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le sujet est important mais il ne touche pas mon quotidien d'agriculteur, je n'ai pas répondu au questionnaire et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin nominatif chez moi rend le vote facile, mais je vote rarement pour des projets de quartier et mes priorités tournent autour de l'exploitation, donc je le laisserais probablement sur la table de la cuisine."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Pendant les vendanges, je n'ai pas la tête à un vote de quartier, même si le bulletin arrive chez moi, donc je le laisserais probablement de côté."
+    }
+  ]
+}

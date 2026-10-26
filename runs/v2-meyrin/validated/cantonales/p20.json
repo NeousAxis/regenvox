@@ -1,0 +1,29 @@
+{
+  "id": "p20",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je ne vois pas pourquoi l'État paierait la pilule et les stérilets alors que chacun peut les financer, et 20 millions par an pour un sujet qui ne me concerne plus me paraît trop, donc je suis plutôt contre, comme le PLR."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Les transports qui réduiraient les bouchons à Meyrin me parlent et la part suisse reste minoritaire, mais je reste méfiant après le refus de 2014, donc je suivrai surtout la recommandation du PLR."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.65,
+      "raison": "Un locataire installé depuis trois ans pouvant acheter son appartement respecte la propriété, ce que défend le PLR, même si je me méfie un peu des congés-ventes pour les autres locataires de l'immeuble."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "La formation supérieure locale mérite un financement stable et le PLR la soutient, je trouve raisonnable que l'indemnité baisse de deux millions après la hausse des taxes d'études, donc je vote oui sans enthousiasme."
+    }
+  ]
+}

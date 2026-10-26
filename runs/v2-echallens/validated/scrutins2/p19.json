@@ -1,0 +1,197 @@
+{
+  "id": "p19",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La hausse de TVA touche tout le monde sans distinction et l'UDC s'y oppose, mais je vois dans mon travail que l'AVS et l'AI manquent de moyens, donc je reste partagé."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "L'AI compte beaucoup dans mon métier, mais une hausse de TVA reste une taxe sur la consommation que l'UDC refuse, et je doute qu'une mesure dite temporaire le reste vraiment."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je ne suis pas favorable à interdire les exportations de matériel de guerre, car cela touche des emplois suisses et l'UDC y est opposée."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.6,
+      "oui_proba": 0.08,
+      "raison": "Le service militaire et la milice font partie de l'identité suisse, je suis attaché à l'armée, donc je ne veux pas le supprimer."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "Je vois la pression sur les logements, les routes et les services publics dans la région et je pense que la Suisse doit reprendre la main sur l'immigration, même si notre système de santé dépend en partie de personnel étranger."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Une armée crédible a besoin d'avions modernes, l'UDC et le PLR soutiennent cet achat et je fais confiance à l'armée pour choisir le matériel."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "Célibataire, je ne suis pas directement concerné, mais je trouve juste que les couples mariés ne soient pas pénalisés, même si je ne suis pas sûr qu'il faille l'inscrire dans la Constitution."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je veux une AVS solide, mais une hausse de TVA liée à une réforme qui relève l'âge de la retraite des femmes me semble trop lourde, et l'UDC refuse aussi ce financement, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour un bon traitement des animaux, mais payer des subventions pour garder les cornes des vaches n'est pas une priorité et l'UDC y est opposée, donc je reste plutôt réservé."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.65,
+      "oui_proba": 0.85,
+      "raison": "La Constitution doit primer sur les traités et les juges étrangers, c'est une question de souveraineté que je défends, et l'UDC soutient cette initiative."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je suis attaché au tir et au droit des tireurs, et je n'aime pas reprendre automatiquement le droit européen sous la pression de Schengen, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je veux reprendre la main sur l'immigration, mais dans les soins nous dépendons beaucoup de personnel étranger et la fin de la libre circulation inquiète mes collègues, donc je suis hésitant."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Le loup cause des dégâts aux éleveurs de la région et je trouve qu'il faut pouvoir réguler plus vite, c'est aussi la position de l'UDC et du PLR."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Notre défense a besoin d'avions modernes, mais 6 milliards représentent une somme énorme alors que le social manque de moyens, donc je penche pour le oui sans enthousiasme."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.1,
+      "raison": "Je ne veux pas que la Banque nationale, les caisses de pension ou les fondations se retirent d'entreprises suisses, cela affaiblit notre industrie et l'UDC est contre, donc je vote non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible à la qualité de l'eau, mais lier les paiements directs à l'absence de pesticides et d'antibiotiques menace des exploitations de la région et l'UDC s'y oppose, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "Interdire tous les pesticides de synthèse en dix ans est irréaliste pour nos agriculteurs et ferait monter les prix des produits, donc je ne suis pas prêt à soutenir cela."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Chacun devrait pouvoir se marier, mais je reste attaché au mariage traditionnel et je n'aime pas que la société change par décision venue d'en haut, donc j'hésite à dire oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.05,
+      "raison": "Dans mon métier je vois l'importance de la recherche médicale, et interdire les essais sur l'humain et l'animal freinerait des traitements, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "La Suisse fait partie de Schengen et doit assumer sa part de la sécurité des frontières, comme le soutiennent l'UDC et le PLR, donc je vote oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je comprends que les conditions d'élevage peuvent être dures, mais imposer des normes plus strictes à nos éleveurs et aux importations coûterait cher et l'UDC est contre, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "L'AVS doit être financée et l'égalité de l'âge de la retraite me paraît logique, l'UDC et le PLR soutiennent ce compromis, mais la TVA me gêne, donc je vote oui à contrecœur."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je suis pour la nature, mais cette initiative donnerait trop de pouvoir à la Confédération sur les terres agricoles et les propriétaires, et l'UDC s'y oppose, donc je vote non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Célibataire, je ne suis pas directement touché, et l'imposition individuelle me paraît juste pour chacun, mais l'UDC s'y opposait et je me demande ce qu'elle change pour les familles, donc je reste réservé."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "La croissance de la population pèse sur les logements, les routes et les écoles de notre commune, donc je comprends cette initiative, même si la fin de la libre circulation inquiète les soignants que je connais, et l'UDC est le seul parti à la soutenir."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Je travaille avec des civilistes dans le social et je sais qu'ils rendent service, mais l'armée perd beaucoup de monde et l'UDC soutient ce durcissement, donc je penche pour le oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Je veux une Suisse neutre et indépendante, sans alliance militaire ni sanctions dictées de l'extérieur, l'UDC soutient cette initiative, donc j'irai voter oui."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "J'aime l'idée de manger local et de protéger l'eau, mais imposer 70 % d'aliments produits en Suisse et moins de produits d'origine animale en dix ans est irréaliste pour nos agriculteurs et pour les prix, et l'UDC dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Financer la 13e rente est utile pour les retraités que je côtoie, mais une hausse de TVA pèse sur les petits budgets et l'UDC n'a pas encore pris position, donc je suis indécis."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Les pétards bruyants gênent beaucoup mon quartier et les animaux, mais j'aime la tradition des feux du 1er août et je n'aime pas les interdictions générales, donc je reste partagé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Célibataire, je ne suis pas concerné, et je n'ai pas envie de revenir sur l'imposition individuelle acceptée en mars, même si je comprends la colère des couples mariés, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "L'industrie suisse d'armement doit pouvoir livrer ses partenaires, comme le souhaitent le PLR et Le Centre, et l'UDC n'a pas encore décidé, mais je m'inquiète pour la neutralité, donc je reste sur un oui mesuré."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p05",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je ne fréquentais presque jamais Sauvabelin et ce sondage sur l'avenir de l'auberge ne m'a pas atteint, donc je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Le budget participatif était nouveau, je n'ai pas vu l'annonce à temps ni eu l'idée de déposer un projet, et je n'en ai parlé qu'en passant."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Pendant la pandémie je suis resté sur mes habitudes, le vote en ligne ne m'a pas motivé et les projets de quartier ne me concernaient pas directement."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Un sondage en ligne de cinq minutes sur l'avenir de mon quartier m'aurait peut-être tenté, mais je n'ai pas suivi les soirées ni les balades et je n'en ai guère parlé."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin posté à chaque foyer m'a donné une vraie occasion de voter, mais le projet reste abstrait et j'en ai surtout parlé avec mon entourage proche."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "La fermeture des quais au trafic m'a agacé comme automobiliste, donc je peux répondre à un sondage si je le vois, mais je ne l'ai pas cherché et j'en ai parlé avec des collègues."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin préaffranchi reçu à domicile est une occasion simple de voter que je saisis parfois, mais je l'oublie souvent dans une pile de courrier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Une consultation de la Ville sur le racisme ne m'a pas touché et je ne me sens pas concerné par ce type de démarche, donc je n'y ai probablement pas répondu."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin nominatif envoyé à toute la population me pousse à voter de temps en temps, mais je ne suis pas convaincu que les projets changent vraiment quelque chose, et j'en parle peu."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin préaffranchi arrive à domicile et je vote quand j'ai le temps, mais je reste sceptique sur l'impact réel des projets et je n'en parle guère autour de moi."
+    }
+  ]
+}

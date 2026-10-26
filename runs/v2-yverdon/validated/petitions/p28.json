@@ -1,0 +1,125 @@
+{
+  "id": "p28",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "Ce débat concerne des étudiant·es de l'EPFL, une école qui ne me touche pas, et un retrait d'entreprise sur un événement lausannois ne me mobilise pas."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.25,
+      "raison": "Les canicules me touchent sur les chantiers et je partage le constat, mais cette lettre ouverte, avec ses huit axes et ses exigences larges, me paraît trop dirigiste pour que je la signe."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Proche du PLR, je n'aime pas demander au Parlement d'invalider une initiative populaire avant le vote, même si je ne soutiens pas le texte de l'UDC."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "C'est une affaire genevoise qui touche à la politique de Genève et au conflit au Proche-Orient, sujets qui ne sont pas au centre de mes préoccupations."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.3,
+      "raison": "J'ai des enfants et je m'inquiète de l'usage du protoxyde d'azote chez les ados, mais cette pétition vise Genève et je ne la signerais que si elle circulait dans un groupe de parents."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Ma prévoyance professionnelle me préoccupe, mais cette pétition rédigée en anglais demande aux caisses de pension un changement de stratégie que je ne peux pas juger."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Les primes LAMal pèsent sur ma famille et le sujet me touche, mais le texte se présente comme fictif et une caisse cantonale me paraît une bureaucratie de plus."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.25,
+      "raison": "En tant qu'indépendante, je paie des cotisations AVS lourdes et je refuse les hausses répétées de TVA, donc une réforme structurelle me parle, mais je me méfie de la légalisation du cannabis présentée comme source de financement."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.005,
+      "partage_proba": 0.02,
+      "raison": "C'est une affaire de la commune de Versoix, dans le canton de Genève, sans lien avec ma vie à Yverdon."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.4,
+      "raison": "Mère de famille, je suis touchée par ce récit de deuil et je pourrais signer par empathie, mais la situation est rare et je ne vois pas bien comment ces protections fonctionnent pour une indépendante."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.12,
+      "raison": "Le débat entre psychiatres et psychologues sur une motion du Conseil national me paraît technique et éloigné de mon quotidien, donc je ne m'engage pas."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.25,
+      "raison": "Une ferme de collection d'agrumes en Vaud peut me plaire comme sortie, mais Borex est loin de Yverdon et je ne signe pas une pétition communale qui ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.05,
+      "partage_proba": 0.2,
+      "raison": "Les violences faites aux femmes me préoccupent, mais cette demande vise le canton du Jura et une pétition de campagne en ligne ne me touche pas dans mon quotidien."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.05,
+      "partage_proba": 0.15,
+      "raison": "Les Vert'libéraux correspondent à ma sensibilité et la chaleur au sol me paraît réelle, mais le tram lausannois concerne peu ma vie à Yverdon et je me méfie des coûts de réaménagement."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je soutiens une politique d'asile ferme qui respecte les décisions des autorités, et cette pétition demande de suspendre des renvois que les autorités suisses ont décidés."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Comme artisane du bâtiment, je vois la formation sous l'angle de l'entreprise, et un CFC allongé et réduit de moitié me paraît difficile à organiser, même si l'inclusion est un vrai sujet."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.04,
+      "partage_proba": 0.25,
+      "raison": "Je comprends l'inquiétude sur les caméras dans les vestiaires et les piscines, mais une interdiction de vente décidée par l'État me paraît excessive."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Le réchauffement me touche sur les chantiers, mais une liste de mesures générales, comme interdire la mise au rebut des retours, me paraît trop idéologique pour que je signe."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.06,
+      "partage_proba": 0.2,
+      "raison": "L'argument selon lequel prévenir coûte moins cher que reboiser me parle en tant qu'indépendante attentive au budget, mais les forêts ne sont pas un sujet quotidien pour moi."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.12,
+      "partage_proba": 0.4,
+      "raison": "Avec des enfants, je suis sensible aux drogues qui servent aux agressions, et une task force avec Europol me paraît concrète, même si je me méfie d'une pétition sans organisation connue derrière."
+    }
+  ]
+}

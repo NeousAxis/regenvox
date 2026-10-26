@@ -1,0 +1,29 @@
+{
+  "id": "p19",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.42,
+      "raison": "Le Centre dit oui et je leur fais confiance sur le social, mais 20 millions de plus par an pour la santé alors que mes primes grimpent déjà, ça me chiffonne, et je ne suis pas convaincu que ce soit à l'État de payer."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je roule tous les jours entre les chantiers et la frontière, alors les bus et le tram qui réduiraient les bouchons m'intéressent, même si 39,5 millions c'est une somme, que le refus de 2014 me revient en tête et que le MCG dit non."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.58,
+      "raison": "Comme indépendant du bâtiment je vois bien les lourdeurs de la LDTR, et qu'un locataire puisse acheter son logement après trois ans avec un prix plafonné me paraît juste, mais je me méfie des congés-ventes qui chassent les gens de leur immeuble."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Le Centre, le PLR et l'UDC disent oui et je pense que la formation compte pour la relève des métiers, donc je suivrais probablement, mais c'est un dossier technique qui ne me mobilise pas et j'hésite à me déplacer."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p29",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 2,
+    "citation": "Je respecte les paysans qui travaillent dur, mais je n'aime pas qu'on décide d'en haut ce qu'ils doivent faire de leurs champs.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je connais très peu le monde paysan et je ne sais pas ce que ça implique concrètement pour eux",
+      "Un objectif fixé par le Conseil sans que les agriculteurs aient vraiment été consultés",
+      "Je ne vois pas bien ce que moi, habitante d'un quartier résidentiel, peux apporter à un objectif agricole",
+      "Le risque que les produits bio coûtent plus cher, ce qui pèse sur un budget de retraitée"
+    ],
+    "ce_qui_me_ferait_venir": "Une soirée d'information à la salle communale avec des agriculteurs de Vuadens qui expliquent ce que ça change pour eux, avec des chiffres clairs sur les coûts et sur les prix en magasin."
+  }
+}

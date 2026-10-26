@@ -1,0 +1,29 @@
+{
+  "id": "p56",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.2,
+      "oui_proba": 0.12,
+      "raison": "Je ne suis pas directement concerné et 20 millions par an pris sur les impôts pour une contraception offerte à tout le monde, sans condition de revenu, me paraît trop lourd, donc je suis plutôt sur la ligne de l'UDC et du non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Payer 39,5 millions pour des projets en France me fait penser au refus de 2014 et je ne vois pas pourquoi Genève financerait les routes de là-bas, mais si ça enlève des voitures sur la route de Meyrin, je pourrais me laisser convaincre."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "Devenir propriétaire de son appartement peut aider quelqu'un comme moi qui aimerait acheter un jour, mais je crains que les immeubles de Meyrin se vident de locataires et que les congés-ventes reviennent, alors je penche pour le non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.72,
+      "raison": "Je suis en formation et la HES est une bonne école, mais 2 millions de moins alors que les taxes d'études ont déjà augmenté me semble une adaptation raisonnable, et l'UDC comme le PLR disent oui, donc j'ai de la peine à voir pourquoi je voterais non."
+    }
+  ]
+}

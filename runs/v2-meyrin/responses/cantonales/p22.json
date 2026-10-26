@@ -1,0 +1,29 @@
+{
+  "id": "p22",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Je suis proche de POP et de solidaritéS et je trouve juste qu'une contraception efficace soit accessible sans condition de revenu, même si le Conseil d'État recommande non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.65,
+      "raison": "Moins de voitures qui traversent la frontière chaque jour serait bon pour l'air et pour les bouchons autour de Meyrin, mais je reste méfiante quand il s'agit de payer des projets en France, vu le refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "Je crains que les congés-ventes reviennent et que les logements locatifs abordables disparaissent, comme le dit l'ASLOCA, ce qui pèserait sur les locataires de mon immeuble."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Une baisse de 2 millions par an pour la HES alors que les taxes d'études augmentent me paraît injuste pour les étudiants, et je rejoins le comité qui demande de garder 35 millions."
+    }
+  ]
+}

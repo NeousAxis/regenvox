@@ -1,0 +1,125 @@
+{
+  "id": "p49",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Palantir et la surveillance de masse me dérangent, mais ce débat se joue entre étudiants de l'EPFL et je n'ai pas de raison de m'engager sur un événement de Forum que je ne fréquente pas."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.16,
+      "partage_proba": 0.25,
+      "raison": "Les canicules de cet été m'ont frappé et je me sens proche des Vert-e-s, mais une lettre ouverte adressée au Parlement reste une démarche abstraite que je ne signe qu'en présence d'une mesure précise."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.15,
+      "raison": "Je n'aime pas cette initiative de l'UDC, mais demander à l'Assemblée fédérale de l'invalider touche au droit populaire que je défends, et je ne suis pas assez juriste pour trancher l'argument du droit impératif."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.015,
+      "partage_proba": 0.05,
+      "raison": "Je ne connais pas bien l'affaire genevoise, et un appel de soutien à un député poursuivi sur un dossier aussi chargé ne me donne pas envie de signer depuis Yverdon."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.4,
+      "raison": "Comme père, je vois que les ados consomment du protoxyde d'azote et l'idée de bonbonnes retrouvées dans le lac me choque, mais c'est une affaire genevoise et je signerais surtout pour une mesure équivalente dans le canton de Vaud."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.05,
+      "partage_proba": 0.12,
+      "raison": "Ma caisse de pension investit peut-être dans le fossile, ce qui m'intéresse comme employé, mais le titre en anglais et l'appel aux professionnels de santé ne me parlent pas assez pour que je signe."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Les primes d'assurance-maladie me pèsent, donc le sujet me parle, mais ce texte se présente lui-même comme un projet fictif et je ne signe pas une pétition sur une réforme qui n'existe pas vraiment."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.09,
+      "partage_proba": 0.15,
+      "raison": "À 53 ans, l'AVS me concerne de plus en plus, mais je me méfie d'une réforme structurelle présentée sans chiffres précis, et je ne signe pas facilement une demande lancée par une jeunesse de parti."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.008,
+      "partage_proba": 0.03,
+      "raison": "Je ne suis pas de Versoix, le projet de locaux Fust se passe à Genève et ne me concerne pas depuis Yverdon, donc je n'ai aucune raison de signer."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "L'histoire de cette mère est bouleversante et le vide juridique qu'elle décrit me paraît réel, mais je ne me sens pas légitime pour apporter un soutien signé à un sujet aussi intime, et j'en parlerais surtout à ma famille."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Obtenir un rendez-vous chez un psy prend trop de temps, mais la question de l'ordonnance psychiatrique m'échappe et je ne signe pas les textes de professionnels adressés aux parlementaires sans être directement concerné."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Une belle collection d'agrumes, mais Borex est loin d'Yverdon et je n'ai aucun lien avec cette ferme, donc je passe mon chemin."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.07,
+      "partage_proba": 0.2,
+      "raison": "Les violences domestiques me révoltent et l'absence de maison d'accueil dans le Jura est un vrai manque, mais je vis dans le canton de Vaud et ce dossier jurassien me paraît lointain, même si la demande est juste."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Je comprends la demande de fraîcheur en ville, mais je ne prends pas le tram lausannois au quotidien et, dans mon quartier de villas, j'ai déjà des arbres et une pelouse, donc cette plateforme me touche peu."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "La situation décrite est grave et je trouve choquant d'expulser des gens vers des risques de torture, mais je ne connais pas le dossier burundais en détail et je ne signe pas les appels adressés à un conseiller fédéral sans suivi concret."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Le sujet de la formation me parle comme parent, mais allonger un CFC à 6 ans me paraît peu réaliste pour les entreprises, et je ne signe pas une pétition aussi technique."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.3,
+      "raison": "Filmer des enfants à leur insu dans une piscine me fait peur comme père et ces lunettes connectées m'inquiètent, mais je doute qu'une interdiction fédérale soit la bonne réponse et je ne signe pas souvent ce genre de demande."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "Je suis sensible au climat et au gaspillage, notamment les retours en ligne et la fast fashion, mais l'appel reste très large et un peu vague, ce qui me freine pour m'engager sans mesures chiffrées."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.13,
+      "partage_proba": 0.25,
+      "raison": "Je marche souvent en forêt et le risque d'incendie m'inquiète, la suppression de fonds d'adaptation me semble absurde, mais je ne signe pas souvent les pétitions envoyées au Parlement sans relais local."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.14,
+      "partage_proba": 0.35,
+      "raison": "Comme père, les abus facilités par la drogue me révoltent et je trouve légitime une coopération avec Europol, mais je veux d'abord savoir concrètement ce qu'une task force changerait par rapport aux moyens existants."
+    }
+  ]
+}

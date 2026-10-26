@@ -1,0 +1,29 @@
+{
+  "id": "p43",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.8,
+      "oui_proba": 0.88,
+      "raison": "Je trouve juste que la contraception, qui protège la santé des femmes et évite des grossesses non désirées, soit remboursée, et 20 millions par an me paraissent raisonnables pour le canton."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Moins de voitures à la frontière et davantage de bus me semblent utiles pour la qualité de l'air, mais je me méfie des parkings-relais et des grands projets, donc je voterai oui sans enthousiasme."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Je crains que la vente d'un appartement à son locataire ouvre la porte aux congés-ventes et fasse disparaître des logements locatifs abordables, comme le demande l'ASLOCA, donc je voterai non même si l'accès à la propriété peut séduire."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La HES-SO forme beaucoup de jeunes de la région, mais une baisse de 2 millions par an après la hausse des taxes d'études me paraît mal venue, et les Vert-e-s comme le PS demandent un non, je suis plutôt de leur avis sans que le sujet me touche directement."
+    }
+  ]
+}

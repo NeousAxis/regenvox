@@ -1,0 +1,17 @@
+{
+  "id": "p08",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le futur quartier de la Susette me concerne de loin et les écolos de mon entourage en parlent parfois, mais en mai 2025 j'avais surtout mes cours et mon apprentissage et je n'ai pas pensé à remplir un questionnaire sur participer.ge.ch."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas vu passer le sondage des Marronniers entre décembre et mars et ce quartier ne fait pas partie de mon quotidien, donc je n'en ai probablement ni répondu ni parlé."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p46",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on me dise précisément ce que la commune fera des réponses, et qu'on m'explique en quoi ça change vraiment la vie des exploitations, sans me demander de jouer les experts agricoles."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un atelier le samedi matin, de moins de deux heures, avec une rencontre directe avec une ferme du coin, et une idée claire de ce que j'y gagne et de ce que je peux concrètement apporter."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.005,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur ce qui change pour moi cette année, par exemple où acheter des légumes produits près de chez nous, plutôt que l'horizon de trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Que la reconnaissance se traduise par un geste concret et peu coûteux pour la commune, comme un marché ou un achat local, et qu'elle ait une suite visible, pas une médaille."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "L'avis en ligne est le seul format que je ferais vraiment : dix minutes sur mon téléphone, sans soirée à bloquer ni engagement sur trois semaines. L'atelier demande une soirée ou un samedi matin que je n'ai pas toujours, et le parcours à distance me demanderait trois fois plus de temps sans que je sois sûre de le terminer."
+}

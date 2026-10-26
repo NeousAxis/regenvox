@@ -1,0 +1,29 @@
+{
+  "id": "p18",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je pense que la contraception relève de la responsabilité de chacun et que 20 millions de plus à la charge de l'État, c'est beaucoup dans la situation actuelle, même si je comprends l'argument pour les jeunes et les petits budgets."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Les embouteillages à la frontière font perdre du temps à tout le monde, donc un tram ou un bus qui réduit le nombre de voitures me paraît utile, même si je garde un doute sur le fait de financer des projets en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.65,
+      "raison": "Un locataire qui vit dans son logement depuis trois ans devrait pouvoir l'acheter s'il le souhaite, c'est une vraie chance d'accéder à la propriété, même si je crains un peu le retour des congés-ventes."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Je suis pour une formation technique et des hautes écoles qui fournissent des gens compétents à l'industrie, et deux millions de moins par an ne changent pas grand-chose, donc je voterais oui."
+    }
+  ]
+}

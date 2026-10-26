@@ -1,0 +1,197 @@
+{
+  "id": "p48",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.2,
+      "oui_proba": 0.6,
+      "raison": "Je venais à peine d'avoir l'âge de voter et je ne suis pas encore une habituée des urnes, mais l'AVS doit être financée et Le Centre soutient la hausse de TVA."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Une hausse de TVA pèse sur mon activité d'indépendante, mais la mesure est temporaire et l'AI aide des familles de la région, donc je suis plutôt d'accord."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "L'industrie suisse de l'armement fait vivre des emplois, Le Centre dit non et je ne veux pas d'une interdiction générale des exportations."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le service militaire fait partie de notre système de milice auquel je tiens, et Le Centre s'oppose à son abrogation."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je vois la pression sur les salaires et les logements en Valais, mais je dépends d'ouvriers venus d'ailleurs pour mes chantiers et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Notre défense aérienne doit être modernisée, Le Centre et le PLR soutiennent le projet, même si le coût me gêne un peu."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "En tant que couple avec des enfants, je trouve injuste que le mariage soit pénalisé fiscalement, et Le Centre soutient cette initiative."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "La réforme PV2020 est nécessaire pour l'AVS et Le Centre la soutient, mais la hausse de TVA pèse sur mon entreprise, donc je reste hésitante."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je respecte le bien-être des animaux, mais la contribution fédérale et les contraintes pour les paysans de Savièse me semblent excessives, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je veux que la Suisse garde sa marge de manoeuvre, mais je crains pour nos accords économiques et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Schengen nous apporte beaucoup en sécurité et en échanges, les exceptions pour le tir et l'arme d'ordonnance me rassurent, et Le Centre soutient la reprise."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.15,
+      "raison": "Mettre fin à la libre circulation avec l'UE fragiliserait nos entreprises et nos accords bilatéraux, donc je vote non comme Le Centre."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "En Valais, les attaques de loups inquiètent les éleveurs de la région, et je trouve raisonnable de pouvoir réguler les espèces avant les dégâts."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "La défense aérienne doit être renouvelée et Le Centre soutient l'achat, mais le plafond de 6 milliards me paraît élevé."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Interdire aux banques et aux caisses de pension de financer l'industrie de défense me paraît excessif, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Les agriculteurs de Savièse ont déjà fait des efforts, couper les paiements directs à l'agriculture valaisanne me semble une mauvaise idée, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible à la qualité de l'eau et des sols, mais un bannissement total des pesticides de synthèse en dix ans est irréaliste pour nos vignes et nos cultures."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Je trouve normal que deux personnes de même sexe puissent se marier, mais je reste réservée car mon milieu est attaché aux traditions, et Le Centre soutient le texte."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "La recherche médicale a besoin d'essais, l'initiative me semble trop radicale et tous les grands partis disent non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Schengen implique de participer à la sécurité des frontières extérieures, Le Centre soutient cette reprise, même si je regrette la lourdeur administrative."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je comprends le souci du bien-être animal, mais l'initiative imposerait des coûts lourds aux paysans sur une transition de vingt-cinq ans, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "L'AVS doit être financée durablement, je suis concernée par l'évolution de l'âge de référence des femmes et Le Centre soutient cette réforme avec des compensations."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "J'aime nos paysages et notre nature, mais l'initiative limiterait le développement du territoire et pèserait sur les constructeurs et les agriculteurs, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le Centre s'y oppose et je crains que l'imposition séparée pénalise les familles où un seul revenu est déclaré."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je constate la pression sur le territoire et sur les logements, mais l'initiative mettrait en danger nos accords avec l'UE et nos chantiers, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Le service militaire repose sur la milice, Le Centre soutient ce durcissement et je pense qu'il faut limiter les départs de l'armée."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La neutralité est une valeur que j'estime, mais interdire toute sanction et toute coopération risque d'isoler la Suisse, et Le Centre dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "J'aime soutenir les producteurs de la région, mais l'objectif de 70 % de production indigène en dix ans me paraît irréaliste et contraignant pour les paysans."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "La 13e rente a été acceptée par le peuple et doit être financée, Le Centre et le PS soutiennent cette hausse, même si la TVA pèse sur mon entreprise."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Le bruit des pétards gêne les animaux et les enfants, mais les fêtes locales me tiennent à coeur et Le Centre n'a pas encore décidé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je trouve juste que les couples mariés ne soient pas désavantagés par rapport aux autres formes de vie commune, et Le Centre soutient cette initiative."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Le Centre et le PLR soutiennent l'assouplissement, l'industrie d'armement fait vivre des emplois, mais je reste attachée à la neutralité et j'hésite."
+    }
+  ]
+}

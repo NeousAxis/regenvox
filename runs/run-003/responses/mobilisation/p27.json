@@ -1,0 +1,39 @@
+{
+  "id": "p27",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un atelier en journée, un samedi matin, dans un lieu proche de la ferme, et une garantie écrite sur le prix du lait pendant la période de conversion."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une visite sur l'exploitation, en journée, pour que les gens voient le travail à la ferme, plutôt qu'une salle au centre du village."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Des propositions concrètes pour trouver un repreneur (bail, aide à la reprise, accompagnement), présentées sur la ferme ou dans le hameau, pas au centre."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Que la démarche vienne des agriculteurs eux-mêmes et parle des haies et des prairies qu'on entretient déjà, en journée, plutôt que de panneaux devant les fermes."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul format qui ne m'oblige ni à quitter la ferme ni à me caler sur un horaire : dix minutes, quand la traite est finie. Une soirée à la salle communale après la traite du soir, je ne m'y rends pas, et trois séquences à distance sur trois semaines, je ne tiendrai pas le rythme."
+}

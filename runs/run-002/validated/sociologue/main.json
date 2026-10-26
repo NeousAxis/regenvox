@@ -1,0 +1,299 @@
+{
+  "angle_recommande": {
+    "angle_id": 1,
+    "justification": "L'angle 1 est celui qui entraîne le plus de soutien et de mobilisation, sur tous les indicateurs disponibles. Aucun angle ne produit de coporteurs dans les métriques calculées (coporteurs à 0 et participation en atelier à 0 pour les quatre angles), je m'appuie donc sur le soutien, sur les agriculteurs et sur la mobilisation par format. Soutien à horizon de 81,9 % (intervalle de 68,5 % à 92,6 %), contre 70,9 % pour l'angle 3, 62,6 % pour l'angle 4 et 47,5 % pour l'angle 2, avec la résistance la plus basse (6,7 %) et la meilleure résonance (6,8). Il compte 12 porteurs initiaux sur 48 personas : les 6 proches du PS du panel, 3 proches du Centre, 1 des Vert-e-s, 1 de l'UDC et l'éleveur bio p19. Chez les 8 agriculteurs, 5 sont favorables au départ (p12, p13, p19, p23, p27) et le soutien final atteint 80,2 %, à peine sous l'angle 3 (81,7 %, 7 favorables sur 8), mais c'est l'angle 1 qui les mobilise le plus : avis en ligne 16,1 %, atelier 4,9 %, atelier sur invitation d'un proche 12,9 %, contre 12,6 %, 4,1 % et 10 % pour l'angle 3. Mobilisation par format : l'angle 1 arrive en tête dans les quatre formats, avec environ 171 habitants (chiffre corrigé) pour l'avis en ligne, 59 en atelier présentiel, 51 en parcours à distance et 164 en atelier si un proche invite. L'invitation par un proche multiplie la venue en atelier par 2,78 (de 3,7 % à 10,3 %), un effet du même ordre pour tous les angles (2,71 à 2,93) : les relais (éleveurs, parents d'élèves, sociétés locales) sont le premier levier de mobilisation. L'avis en ligne reste le format préféré (94,9 %), mais l'atelier sur invitation fait presque jeu égal avec lui en nombre d'habitants. Écart avec l'angle témoin : soutien 81,9 % contre 17,4 %, résistance 6,7 % contre 66,6 %, soutien final des agriculteurs 80,2 % contre 6,3 %, résonance 6,8 contre 4. Le panel sait dire non à une formulation descendante, et les 8 agriculteurs y sont tous réticents. Deux ajustements renforceraient l'angle : retirer le mot « promoteur », qui crispe p18 et p41, et lui adjoindre un volet relève, qui explique pourquoi l'angle 3 séduit 7 agriculteurs sur 8."
+  },
+  "segments": [
+    {
+      "nom": "Éleveurs ouverts sous condition de prix",
+      "persona_ids": [
+        "p12",
+        "p13",
+        "p19",
+        "p23",
+        "p27"
+      ],
+      "position_dominante": "interesse",
+      "objection_citee": "Le bio, je veux bien regarder, mais seulement si le lait est payé plus cher et que la transition ne nous met pas dans le rouge pendant trois ans.",
+      "persona_source": "p12",
+      "racine": "economique",
+      "levier": "Un calcul chiffré sur chaque exploitation (coût de la conversion, prix du lait bio, paiements directs, aides), demandé par p12, p27 et p41, si possible apporté par un conseiller qui vient à la ferme (p02, p12, p41) ; une rencontre à la fromagerie après la traite avec des éleveurs déjà convertis (p12, p13, p23, p27) ; et une discussion avec la fromagerie villageoise sur un prix du lait bio garanti sur plusieurs années, demandé par p12, p13 et p23 (la capacité de la fromagerie à valoriser du lait bio est à vérifier). Les 5 sont favorables à l'angle 3 : la relève est le bon point d'entrée pour en faire un groupe de travail d'agriculteurs qui fixe lui-même le rythme."
+    },
+    {
+      "nom": "Éleveurs réticents au rôle de promoteur",
+      "persona_ids": [
+        "p02",
+        "p18",
+        "p41"
+      ],
+      "position_dominante": "reticent",
+      "objection_citee": "Mais devenir les promoteurs du bio, je ne vois pas comment je le dirais à mes voisins qui font du conventionnel depuis trente ans.",
+      "persona_source": "p41",
+      "racine": "identitaire",
+      "levier": "Ne pas leur demander d'être promoteurs mais d'être consultés avant tout objectif, et partir de ce qu'ils disent déjà faire (haies, bandes fleuries, prairies extensives selon p02 et p41, à vérifier sur le terrain) : p02 et p41 sont favorables à l'angle 4. Financer un remplacement à l'étable pour que p02 et p18, seuls sur leur exploitation, puissent venir, faire passer la parole par un pair, par exemple l'éleveur bio p19, plutôt que par la commune, et traiter la relève, qui intéresse p18 et p41 (angle 3). p02 se dit écouté par ses pairs sur le prix du lait : le convaincre pèse au-delà de sa ferme."
+    },
+    {
+      "nom": "Habitants solidaires des paysans, déjà porteurs",
+      "persona_ids": [
+        "p03",
+        "p08",
+        "p20",
+        "p28",
+        "p29",
+        "p32",
+        "p36",
+        "p39",
+        "p40",
+        "p43",
+        "p48"
+      ],
+      "position_dominante": "porteur",
+      "objection_citee": "Si le bio les aide, tant mieux, mais ce n'est pas à eux de payer toute la transition.",
+      "persona_source": "p40",
+      "racine": "economique",
+      "levier": "Montrer qui finance la transition et quels débouchés locaux sont envisagés, puis leur confier un rôle qui ne demande pas d'expertise agricole, car 7 sur 11 disent ne pas connaître le métier ou craindre de parler à côté (p03, p08, p20, p28, p29, p39, p48) : relayer les invitations, s'engager comme acheteurs, venir écouter une soirée où les agriculteurs exposent eux-mêmes leurs comptes, ce que demandent les 11. Composition : 6 proches du PS sur 11, 3 du Centre, 1 des Vert-e-s, 1 de l'UDC. Prévoir une garde d'enfants pour p08, p40 et p48 et une rencontre en journée pour p29 et p36."
+    },
+    {
+      "nom": "Défenseurs de la liberté des paysans, méfiants envers la commune",
+      "persona_ids": [
+        "p04",
+        "p09",
+        "p10",
+        "p14",
+        "p15",
+        "p16",
+        "p22",
+        "p25",
+        "p30",
+        "p31",
+        "p34",
+        "p47"
+      ],
+      "position_dominante": "interesse",
+      "objection_citee": "Que les paysans vivent bien de leur travail, je suis d'accord, mais ce n'est pas à la commune de leur dire comment cultiver.",
+      "persona_source": "p14",
+      "racine": "politique",
+      "levier": "Une démarche visiblement portée par les agriculteurs et non par l'administration, la garantie écrite que la conversion reste le choix de chaque exploitant, et des chiffres sur qui paie, sans nouvelle taxe ni hausse d'impôt (p14, p16, p25, p30). Ce segment compte 6 proches du PLR, 5 de l'UDC et 1 du Centre ; 9 sur 12 sont intéressés par l'angle 1, et l'angle 4 y rallie aussi 9 personas sur 12, dont 2 porteurs (p10, p25) : une reconnaissance sans leçon de ce que font déjà les fermes, sous forme de visite ou de journée portes ouvertes un samedi (p04, p09, p10, p14, p16, p25), est le meilleur moyen de les faire venir. Les 3 opposants à l'angle témoin (p09, p22, p30) sont dans ce segment : toute formulation qui sonne comme une décision prise d'avance les perd."
+    },
+    {
+      "nom": "Parents actifs pragmatiques, en attente de chiffres",
+      "persona_ids": [
+        "p07",
+        "p11",
+        "p35",
+        "p37",
+        "p38",
+        "p46"
+      ],
+      "position_dominante": "interesse",
+      "objection_citee": "Si les paysans gagnent mieux leur vie, le bio suivra tout seul. Mais il faut des chiffres, pas des slogans.",
+      "persona_source": "p38",
+      "racine": "information",
+      "levier": "Des chiffres simples (revenu d'une ferme en bio et en conventionnel) présentés par des agriculteurs, une rencontre le samedi matin à la fromagerie ou sur une ferme (p38), une garde d'enfants (p11, p35, p46) et un lien direct avec le quotidien des enfants : l'eau du robinet, l'école et les repas (p07, p11, p35, p46). Les 6 sont intéressés par l'angle 1 et 4 sur 6 sont favorables à l'angle 3 (p07, p11, p37, p46). p37 demande un rôle pour les artisans du bâtiment dans la rénovation des bâtiments agricoles, une porte d'entrée à ouvrir. Composition : 3 proches du Centre, 1 des Vert-e-s, 1 des Vert'libéraux, 1 de l'UDF."
+    },
+    {
+      "nom": "Résidents étrangers et jeunes sans lien avec les fermes",
+      "persona_ids": [
+        "p01",
+        "p05",
+        "p06",
+        "p17",
+        "p21",
+        "p24",
+        "p26",
+        "p33",
+        "p42",
+        "p44",
+        "p45"
+      ],
+      "position_dominante": "indifferent",
+      "objection_citee": "Les agriculteurs travaillent dur, c'est vrai, mais je ne vois pas trop ce que ça change pour moi.",
+      "persona_source": "p24",
+      "racine": "information",
+      "levier": "Entrer par l'assiette plutôt que par la ferme : 8 sur 11 sont intéressés par l'angle 2 (achat direct, panier, point de retrait près du quartier). Faire relayer l'invitation par l'école ou un voisin plutôt que par un courrier de la commune (p21), proposer une visite de ferme avec les enfants le samedi (p05, p21), un message court en français simple (p24), un covoiturage depuis les hameaux (p24) et la présence d'autres jeunes ou de l'école pour p01, p26 et p44. Composition : 9 personas de nationalité étrangère sur 11 et 2 jeunes Suisses en formation (p01, p26)."
+    }
+  ],
+  "freins_participation": [
+    {
+      "frein": "Traite matin et soir et travaux de saison (foins, vêlages), sans personne pour remplacer à l'étable",
+      "persona_ids": [
+        "p02",
+        "p12",
+        "p13",
+        "p18",
+        "p19",
+        "p23",
+        "p27",
+        "p41"
+      ],
+      "levier": "Rencontres juste après la traite du soir ou en journée, à la fromagerie ou sur l'exploitation, hors saison des foins (p41), conseiller qui se déplace à la ferme, remplacement à l'étable financé pour p02 et p18, seuls sur leur exploitation, et garde d'enfants pour p19, seul avec ses enfants."
+    },
+    {
+      "frein": "Absence de garde d'enfants pendant les rencontres",
+      "persona_ids": [
+        "p08",
+        "p11",
+        "p17",
+        "p21",
+        "p35",
+        "p40",
+        "p46",
+        "p48"
+      ],
+      "levier": "Garde d'enfants sur place à chaque rencontre, rencontres organisées à l'école (p40) et formats ouverts aux enfants, comme une visite de ferme en famille (p11, p21, p46)."
+    },
+    {
+      "frein": "Horaires décalés, en équipes ou irréguliers",
+      "persona_ids": [
+        "p01",
+        "p08",
+        "p09",
+        "p14",
+        "p24",
+        "p35",
+        "p38",
+        "p39",
+        "p42",
+        "p46",
+        "p47"
+      ],
+      "levier": "Doubler chaque rencontre (un soir et un samedi matin), annoncer les dates longtemps à l'avance (p01) et laisser l'avis en ligne ouvert plusieurs semaines."
+    },
+    {
+      "frein": "Sentiment de ne pas être légitime faute de connaître le métier agricole",
+      "persona_ids": [
+        "p03",
+        "p06",
+        "p08",
+        "p11",
+        "p14",
+        "p17",
+        "p20",
+        "p28",
+        "p29",
+        "p38",
+        "p39",
+        "p45",
+        "p48"
+      ],
+      "levier": "Un format où les agriculteurs exposent et où les habitants posent des questions, sans expertise demandée, et un rôle clair pour les non agriculteurs : acheteur, relais d'invitation, avis sur les débouchés et le paysage."
+    },
+    {
+      "frein": "Sentiment que tout est déjà décidé ou que la démarche restera sans suite",
+      "persona_ids": [
+        "p02",
+        "p04",
+        "p07",
+        "p08",
+        "p19",
+        "p28",
+        "p29",
+        "p35",
+        "p40",
+        "p41",
+        "p45",
+        "p46"
+      ],
+      "levier": "Dire dès le départ ce qui reste ouvert et qui décide, laisser les exploitants fixer le rythme (p13, p34) et publier une restitution de ce qui a été retenu, demandée par p01, p04, p11 et p45."
+    },
+    {
+      "frein": "Mobilité réduite, âge, maisons isolées et réticence à sortir le soir",
+      "persona_ids": [
+        "p10",
+        "p15",
+        "p17",
+        "p24",
+        "p25",
+        "p26",
+        "p29",
+        "p31",
+        "p36"
+      ],
+      "levier": "Rencontres en journée avec un trajet prévu (p15, p36), covoiturage depuis les hameaux et les maisons isolées (p24, p31), visites et points de vente accessibles à pied (p28)."
+    },
+    {
+      "frein": "Langue technique et malaise avec le numérique",
+      "persona_ids": [
+        "p24",
+        "p25",
+        "p36",
+        "p43"
+      ],
+      "levier": "Un courrier court et simple dans les boîtes aux lettres (p36), la possibilité de répondre par écrit sans se déplacer (p25) et un vocabulaire non technique (p24), en complément de l'avis en ligne, format préféré à 94,9 %."
+    },
+    {
+      "frein": "Crainte que participer revienne à payer plus cher, avec un budget serré",
+      "persona_ids": [
+        "p03",
+        "p05",
+        "p06",
+        "p08",
+        "p11",
+        "p14",
+        "p16",
+        "p17",
+        "p21",
+        "p22",
+        "p24",
+        "p26",
+        "p28",
+        "p29",
+        "p37",
+        "p38",
+        "p40",
+        "p44",
+        "p46",
+        "p47"
+      ],
+      "levier": "Commencer par des formats sans dépense (portes ouvertes, soirée, avis en ligne), afficher les prix comparés à ceux du magasin (p28), proposer des paniers pour une ou deux personnes (p39) et des tarifs familiaux (p46)."
+    }
+  ],
+  "ambassadeurs_potentiels": [
+    {
+      "persona_id": "p19",
+      "pourquoi": "Seul éleveur en bio du panel, porteur des angles 1 et 3, relais de 30 personnes dans le réseau des éleveurs et de la coopérative laitière. Il peut témoigner de la conversion devant ses pairs, à condition de ne pas servir d'alibi : il demande une proposition concrète d'aide et le prix du lait bio sur la table."
+    },
+    {
+      "persona_id": "p12",
+      "pourquoi": "Éleveuse de 30 ans, relais de 40 personnes qui touche à la fois les producteurs livrant à la fromagerie, les parents d'élèves et des clients de vente directe ; intéressée par l'angle 1 avec une intensité de 4 et porteuse de l'angle 3. Elle fait le pont entre les fermes et les familles."
+    },
+    {
+      "persona_id": "p13",
+      "pourquoi": "Futur repreneur probable de 24 ans, relais de 40 personnes, intéressé par les angles 1 et 3 avec un engagement de 2 : il incarne la relève et parle à la fois aux jeunes du village et aux familles agricoles."
+    },
+    {
+      "persona_id": "p23",
+      "pourquoi": "Agricultrice, relais de 30 personnes dans la coopérative laitière et auprès de la fromagerie, intensité de 4 sur les angles 1 et 3 avec un engagement de 2 : voix crédible pour un groupe de travail sur le prix du lait."
+    },
+    {
+      "persona_id": "p03",
+      "pourquoi": "Relais de 45 personnes (collègues de la zone industrielle, voisins du centre, section locale du PS, connaissances paysannes par la fromagerie), porteur de l'angle 1 avec une intensité de 4 : bon relais des invitations vers les salariés de la zone industrielle."
+    },
+    {
+      "persona_id": "p37",
+      "pourquoi": "Le plus grand cercle du panel (60 personnes : artisans, clients, parents d'école, société locale), intéressé par les angles 1 et 3 ; il demande un rôle pour les artisans du bâtiment, ce qui peut en faire un relais au-delà des convaincus."
+    },
+    {
+      "persona_id": "p11",
+      "pourquoi": "Relais de 40 personnes via les groupes de discussion des parents d'élèves et du quartier, porteuse des angles 2 et 3 et seule porteuse de l'angle témoin : relais naturel vers les familles des quartiers récents, à condition d'une garde d'enfants."
+    },
+    {
+      "persona_id": "p43",
+      "pourquoi": "Seul proche de l'UDC porteur de l'angle 1 (1 sur 6), avec une intensité de 4 : sa parole peut rassurer le segment méfiant envers la commune, surtout s'il relaie une rencontre présentée par un paysan du village, comme il le demande."
+    },
+    {
+      "persona_id": "p07",
+      "pourquoi": "Relais de 40 personnes (réseau santé et social du district, parents d'élèves, connaissances agricoles), porteur de l'angle 3 : il peut porter le volet eau et école de la démarche."
+    }
+  ],
+  "surprises": [
+    "Aucun angle ne produit de coporteurs dans les métriques calculées (coporteurs et participation en atelier à 0 pour les quatre angles et le témoin), alors que la mobilisation par format donne 3,7 % de venue en atelier présentiel pour l'angle 1 : l'indicateur coporteurs mérite d'être vérifié avant toute conclusion.",
+    "L'angle 2 a la plus forte intention de donner son avis en ligne (35,8 %) mais la plus forte résistance des angles ouverts (31,4 %) et aucun agriculteur favorable au départ : 6 agriculteurs sur 8 y sont réticents (p12, p13, p18, p19, p23, p27), et p12 y lit un risque de contrôle de leurs pratiques.",
+    "L'angle 2 est en revanche celui qui touche les résidents étrangers : 7 personas étrangers sur 9 y sont intéressés (p05, p06, p17, p21, p24, p33, p42), contre 2 sur 9 favorables à l'angle 1 (p44, p45).",
+    "L'angle 3 réunit 7 agriculteurs favorables sur 8 au départ, le meilleur score agricole, parce qu'ils l'entendent comme une question de relève, mais il laisse indifférents 22 habitants non agriculteurs sur 40.",
+    "Le mot « promoteur » de l'angle 1 crispe deux éleveurs (p18, p41), alors que cet angle est en tête : le reformuler sans ce rôle imposé ne coûterait rien.",
+    "Les 6 proches du PS du panel sont tous porteurs de l'angle 1, contre 1 proche de l'UDC sur 6 (p43) ; à l'inverse, l'angle 4 rallie 9 personas sur 12 dans le segment des défenseurs de la liberté des paysans (6 PLR, 5 UDC, 1 Centre), dont 2 porteurs (p10, p25).",
+    "Face à l'angle témoin, les 3 opposants du panel (p09, p22, p30) ne sont pas agriculteurs (1 proche du PLR, 2 de l'UDC) : l'opposition la plus dure à une décision descendante vient d'habitants qui défendent l'autonomie des paysans, tandis que les 8 agriculteurs restent réticents sans s'y opposer. Les seuls favorables au témoin (5 sur 48 : p11, p20, p28, p39, p48) sont proches du PS (3) ou des Vert-e-s (2).",
+    "Onze personas évoquent une cantine scolaire ou une garderie comme débouché local (p05, p06, p07, p08, p11, p17, p18, p20, p27, p37, p48) : leur existence et leur approvisionnement à Vuadens sont à vérifier, mais c'est le geste concret le plus attendu des familles comme des éleveurs."
+  ]
+}

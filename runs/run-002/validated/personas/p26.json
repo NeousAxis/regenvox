@@ -1,0 +1,61 @@
+{
+  "id": "p26",
+  "portrait": "J'ai 17 ans, je suis en formation et je vis seule dans un petit appartement au centre du village, à deux pas de l'arrêt de bus. Je suis suisse, je n'ai pas de lien direct avec les fermes et je me préoccupe surtout de mes études, de mes sorties et de mon budget, la politique ne me passionne pas encore.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les agriculteurs bossent beaucoup, je le sais, mais le bio, je vois pas trop ce que ça change pour moi au quotidien.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne suis pas concernée directement et je n'ai pas le temps entre mes cours ou mon apprentissage",
+        "Je ne connais pas le monde agricole, donc je n'aurais rien à dire"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on m'explique concrètement ce que le bio change pour les gens du village, et que ce ne soit pas une réunion d'adultes le soir."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Acheter directement chez le paysan du village, pourquoi pas, mais il faut que ce soit accessible, pas plus cher qu'au supermarché.",
+      "engagement": 1,
+      "freins_participation": [
+        "Mon budget est serré, donc le prix compte beaucoup",
+        "Je n'ai pas de voiture, et aller jusqu'à une ferme est compliqué",
+        "Je ne sais pas comment on devient partenaire d'une ferme"
+      ],
+      "ce_qui_me_ferait_venir": "Une activité concrète et ouverte aux jeunes, par exemple une visite de ferme ou un petit marché au centre du village, plutôt qu'un atelier."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 1,
+      "citation": "Dans trente ans, c'est très loin, ça ne me parle pas vraiment pour l'instant.",
+      "engagement": 0,
+      "freins_participation": [
+        "Ça me paraît trop lointain pour que je me sente concernée",
+        "Je ne vois pas le lien avec ma vie d'aujourd'hui"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on parle de ce que les jeunes de mon âge verront grandir dans le village, avec un format court qu'on peut suivre sur son téléphone."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Reconnaître les fermes qui font des efforts, pourquoi pas, mais je ne sais pas du tout ce qu'elles font concrètement pour l'eau ou les oiseaux.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas assez d'informations pour donner un avis utile",
+        "Je ne veux pas parler de choses que je ne maîtrise pas"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples concrets et visuels, par exemple des photos des haies, des mares ou des prairies fleuries autour du village."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "suiveur",
+    "cercle_type": "camarades de classe ou de formation, quelques amis du village, famille éloignée, contacts sur les réseaux sociaux"
+  },
+  "votes": []
+}

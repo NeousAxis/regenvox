@@ -1,0 +1,17 @@
+{
+  "id": "p01",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "J'habite la cité, pas Cointrin, et les flyers n'étaient distribués que dans les boîtes de Cointrin ; un samedi après-midi en paroisse ne me disait rien à 17 ou 18 ans, et je n'ai pas vu l'annonce."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas le réflexe de répondre aux consultations de la commune, la culture de Meyrin ne m'a jamais vraiment intéressée et je n'ai pas vu passer le lien du questionnaire ni sur les réseaux ni ailleurs."
+    }
+  ]
+}

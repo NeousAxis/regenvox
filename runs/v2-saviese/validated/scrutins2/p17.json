@@ -1,0 +1,197 @@
+{
+  "id": "p17",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore en âge de voter en 2004, mais j'aurais hésité entre le non du PLR et le besoin de financer l'AVS."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.7,
+      "raison": "Un financement temporaire et limité de l'AI me paraît raisonnable, et le PLR le soutient."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Interdire l'exportation de matériel de guerre pénaliserait des entreprises suisses, et mon parti dit non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je tiens au service militaire obligatoire, car il relie l'armée à la population, et le PLR dit non."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.65,
+      "oui_proba": 0.15,
+      "raison": "Notre secteur de la santé et du social dépend beaucoup de personnel venu de l'UE, donc je refuse de remettre en cause la libre circulation."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Renouveler les avions de combat me paraît logique pour la sécurité du pays, et le PLR soutient ce fonds, même si le coût me gêne un peu."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Inscrire le mariage dans la Constitution ne me convainc pas, et le PLR dit non à cette initiative."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "La réforme est équilibrée avec l'âge de la retraite des femmes, mais la hausse de TVA me gêne et mon parti est contre."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je respecte le bien-être animal, mais une aide fédérale pour garder les cornes me paraît une subvention de plus, et le PLR dit non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.08,
+      "raison": "Je tiens aux accords bilatéraux et au droit international, et cette initiative menacerait nos relations avec l'UE, donc mon parti dit non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "Schengen nous apporte la sécurité et la coopération policière, et le PLR soutient la reprise de cette directive avec ses exceptions."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.05,
+      "raison": "Sortir de la libre circulation fragiliserait notre économie et nos hôpitaux, donc je vote clairement non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Les attaques de loups sur les alpages valaisans sont un vrai problème, et je soutiens une régulation plus simple, comme le PLR."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.65,
+      "oui_proba": 0.55,
+      "raison": "Une défense aérienne moderne est nécessaire, même si 6 milliards font beaucoup, et le PLR soutient cet arrêté."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je n'aime pas qu'on interdise à la BNS et aux caisses de pension de financer des entreprises légales, et mon parti dit non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "La qualité de l'eau me tient à cœur, mais imposer un tel cahier des charges aux exploitations valaisannes est trop brutal, et le PLR dit non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je veux réduire les pesticides, mais une interdiction totale en dix ans menace notre viticulture et notre approvisionnement, et le PLR dit non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.9,
+      "raison": "Le mariage pour tous est une question d'égalité, et je ne vois aucune raison de refuser ce droit."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je ne veux pas bloquer la recherche médicale qui a permis tant de progrès, et tous les partis disent non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Schengen et la coopération aux frontières sont utiles, et le PLR soutient cette participation à Frontex."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à la condition des animaux, mais des exigences sur les importations et une transition de 25 ans me paraissent excessives, et le PLR dit non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Il faut financer l'AVS, et l'âge de référence des femmes à 65 ans me paraît logique, même si la hausse de TVA me coûte."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "La nature de chez nous compte, mais un objectif de protection plus large pèserait sur les agriculteurs et la construction, et le PLR dit non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Chaque personne doit être imposée sur ses propres revenus, c'est une question d'égalité entre les couples, et le PLR soutient cette réforme."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Plafonner la population à 10 millions et dénoncer la libre circulation mettrait en danger notre système de santé et nos échanges avec l'UE."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le service civil fournit beaucoup de personnel aux institutions sociales où je travaille, donc je suis partagée entre la position du PLR et ce que je vois au quotidien."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Je suis attachée à la neutralité, mais une neutralité perpétuelle inscrite dans la Constitution, sans sanctions possibles, me paraît trop rigide, et le PLR dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "J'aime l'idée d'une alimentation plus locale, mais un objectif de 70 % en dix ans est irréaliste, et le PLR et Le Centre disent non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente est une bonne chose pour les retraités, mais augmenter la TVA pour la financer me pose problème, et le PLR est contre."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Le bruit des pétards me gêne, surtout pour les animaux, mais je tiens aux feux du 1er août, et le PLR dit non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "J'ai soutenu l'imposition individuelle votée en mars, et revenir à l'imposition commune des mariés ne me convainc pas, le PLR dit non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Assouplir les exportations pour garder une industrie crédible me paraît raisonnable avec des garde-fous, et le PLR et Le Centre soutiennent la réforme."
+    }
+  ]
+}

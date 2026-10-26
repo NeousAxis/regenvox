@@ -1,0 +1,22 @@
+{"modele": "claude-sonnet", "consigne": "estimation directe du nombre de signatures à partir du texte, un seul appel", "estimations": [
+{"id": "pet01", "signatures_estimees": 900},
+{"id": "pet02", "signatures_estimees": 12000},
+{"id": "pet03", "signatures_estimees": 12000},
+{"id": "pet04", "signatures_estimees": 2500},
+{"id": "pet05", "signatures_estimees": 600},
+{"id": "pet06", "signatures_estimees": 3000},
+{"id": "pet07", "signatures_estimees": 150},
+{"id": "pet08", "signatures_estimees": 1200},
+{"id": "pet09", "signatures_estimees": 700},
+{"id": "pet10", "signatures_estimees": 4000},
+{"id": "pet11", "signatures_estimees": 9000},
+{"id": "pet12", "signatures_estimees": 2500},
+{"id": "pet13", "signatures_estimees": 2500},
+{"id": "pet14", "signatures_estimees": 1500},
+{"id": "pet15", "signatures_estimees": 1500},
+{"id": "pet16", "signatures_estimees": 800},
+{"id": "pet17", "signatures_estimees": 15000},
+{"id": "pet18", "signatures_estimees": 700},
+{"id": "pet19", "signatures_estimees": 2500},
+{"id": "pet20", "signatures_estimees": 4000}
+]}

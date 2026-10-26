@@ -1,0 +1,17 @@
+{
+  "id": "p34",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Le bio, pourquoi pas, mais qu'on commence par demander aux paysans du village ce qu'ils en pensent, pas aux gens de la mairie qui n'ont jamais tenu une fourche. Et que personne ne vienne me parler d'un objectif à dix ans comme si c'était décidé d'avance.",
+    "engagement": 1,
+    "freins_participation": [
+      "Un objectif fixé par la commune sans que les agriculteurs aient été consultés avant",
+      "Le risque de rendements plus faibles et de travail en plus pour les paysans, qui en paieraient le prix",
+      "La crainte de nouvelles taxes ou de subventions payées par tout le monde",
+      "L'impression qu'une idée de ville vient s'imposer à la campagne",
+      "Mon temps limité, avec mon travail dans l'industrie"
+    ],
+    "ce_qui_me_ferait_venir": "Que la démarche vienne des agriculteurs eux-mêmes, avec des chiffres clairs sur le rendement, la vente et le prix payé pour le lait bio, sans nouvelle charge pour les habitants. Une rencontre au village, à la ferme ou à la fromagerie, plutôt qu'une séance organisée à la mairie."
+  }
+}

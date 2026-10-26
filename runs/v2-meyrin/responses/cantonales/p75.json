@@ -1,0 +1,29 @@
+{
+  "id": "p75",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Vingt millions par an de contraception payés par l'impôt me paraissent trop lourds pour le canton, donc je dirais non, même si je comprends la charge d'un budget serré quand on élève seul ses enfants."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je n'aime pas financer des projets en France alors que mes charges augmentent et que le peuple a déjà refusé ce type de dépense en 2014, même si le trafic frontalier me pénalise sur les routes et que les sécheresses touchent directement mes cultures."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Je ne suis pas concerné directement et je me méfie des interventions de l'État dans les contrats entre propriétaires et locataires, mais l'accès à la propriété pour ceux qui habitent déjà un logement me paraît juste, donc je suis partagé."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Deux millions de moins sur une subvention qui suit la hausse des taxes d'études me paraît logique au vu des finances du canton, donc je dirais oui sans suivre le débat de près."
+    }
+  ]
+}

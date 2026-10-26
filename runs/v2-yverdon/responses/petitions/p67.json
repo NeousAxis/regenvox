@@ -1,0 +1,25 @@
+{
+  "id": "p67",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Je ne suis pas étudiant et une polémique sur Palantir à l'EPFL ne me concerne pas, c'est un débat d'universitaires."},
+    {"item_id": "pet02", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je ne crois pas aux plans climatiques chiffrés par des coalitions militantes, et les ménages paient déjà assez cher."},
+    {"item_id": "pet03", "participe_proba": 0.004, "partage_proba": 0.03, "raison": "Je soutiens l'initiative de l'UDC pour la protection des frontières, donc une pétition qui veut la faire annuler m'agace."},
+    {"item_id": "pet04", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Cette affaire genevoise entre un député, la CICAD et le conflit au Proche-Orient est loin de mon quotidien, et je ne signe pas les appels de soutien à un élu."},
+    {"item_id": "pet05", "participe_proba": 0.04, "partage_proba": 0.20, "raison": "Les jeunes qui inhalent du protoxyde m'inquiètent, mais c'est une affaire genevoise et je ne signe pas facilement ce genre de texte, en revanche j'en parlerais peut-être autour de moi."},
+    {"item_id": "pet06", "participe_proba": 0.008, "partage_proba": 0.02, "raison": "Les placements de ma caisse de pension ne me préoccupent guère et je n'ai pas envie de m'engager dans une campagne de professionnels de la santé."},
+    {"item_id": "pet07", "participe_proba": 0.03, "partage_proba": 0.08, "raison": "Les primes d'assurance-maladie me pèsent et une caisse cantonale pourrait m'intéresser, mais le texte se présente lui-même comme fictif, donc je ne le signerais pas."},
+    {"item_id": "pet08", "participe_proba": 0.09, "partage_proba": 0.12, "raison": "L'AVS me concerne de près à 60 ans et je rejette aussi les hausses de TVA, mais je me méfie des propositions de jeunes partis et je ne m'engage pas facilement sur ce genre de texte."},
+    {"item_id": "pet09", "participe_proba": 0.006, "partage_proba": 0.01, "raison": "Versoix est une commune genevoise qui ne me touche pas, et la répartition des locaux communaux là-bas ne me regarde pas."},
+    {"item_id": "pet10", "participe_proba": 0.05, "partage_proba": 0.10, "raison": "Le deuil d'un enfant pendant la grossesse me touche, mais je ne vois pas bien ce qu'une pétition changerait et je n'en partage guère de ce type."},
+    {"item_id": "pet11", "participe_proba": 0.02, "partage_proba": 0.04, "raison": "Je suis plutôt favorable à tout ce qui limite les dépenses de santé, donc une motion qui ajoute une étape de diagnostic ne me pose pas problème."},
+    {"item_id": "pet12", "participe_proba": 0.06, "partage_proba": 0.20, "raison": "La collection d'agrumes de Borex est un beau patrimoine vaudois qui m'intéresse, mais je signe rarement et je n'ai pas de lien direct avec cette ferme."},
+    {"item_id": "pet13", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Une maison d'accueil pour femmes dans le Jura est une bonne idée en principe, mais ce canton est loin de chez moi et je ne réagis pas à ce genre d'appels."},
+    {"item_id": "pet14", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "La chaleur en ville me gêne parfois, mais un tram lausannois n'est pas mon affaire à Yverdon et les Vert'libéraux ne sont pas mon parti."},
+    {"item_id": "pet15", "participe_proba": 0.008, "partage_proba": 0.02, "raison": "Je soutiens la fermeté de l'UDC sur les renvois de requérants déboutés, donc je ne vois aucune raison de demander la suspension des expulsions."},
+    {"item_id": "pet16", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je comprends que la formation des personnes handicapées soit difficile, mais je ne me sens pas concerné et je ne signe pas beaucoup de pétitions."},
+    {"item_id": "pet17", "participe_proba": 0.05, "partage_proba": 0.12, "raison": "Les gens qui filment à leur insu me dérangent et des lunettes espionnes m'inquiètent, mais j'ai du mal à croire qu'une interdiction réglera le problème."},
+    {"item_id": "pet18", "participe_proba": 0.015, "partage_proba": 0.02, "raison": "Un appel général à des lois d'urgence climatique me semble trop idéologique, et je ne veux pas de contraintes supplémentaires sur les ménages."},
+    {"item_id": "pet19", "participe_proba": 0.04, "partage_proba": 0.10, "raison": "Les forêts me tiennent à cœur et les incendies m'inquiètent, mais je ne voudrais pas désavouer un conseiller fédéral de mon bord politique sur la seule base de ce texte."},
+    {"item_id": "pet20", "participe_proba": 0.07, "partage_proba": 0.22, "raison": "Les abus facilités par la drogue et les réseaux qui les couvrent méritent une réponse ferme de l'État, et la Suisse devrait suivre les pays voisins."}
+  ]
+}

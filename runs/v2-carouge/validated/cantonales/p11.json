@@ -1,0 +1,29 @@
+{
+  "id": "p11",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Je suis proche du PS, qui soutient l'initiative, et 20 millions par an me paraissent un coût raisonnable pour la santé des femmes, même si je regrette l'absence de ciblage sur le revenu."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Le trafic frontalier pèse sur Carouge et les bus à haut niveau de service profiteraient à ma commune, avec un soutien du PS, du PLR et du Centre, et une part suisse minoritaire."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Le PS et l'ASLOCA s'opposent à la loi, et je crains la disparition de logements locatifs abordables et le retour des congés-ventes, même si l'accès à la propriété me parle."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Le PS et les Verts jugent la baisse de 2 millions par an insuffisante pour la HES-SO, et je préfère maintenir les moyens de la formation, donc je voterais non."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p28",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Un chiffre précis sur ce que la ferme touche par litre de lait ou par kilo de viande, garanti dans la durée, et la preuve que ce qui sortira de la séance sera suivi d'effet, pas une liste de vœux rangée dans un tiroir de la commune."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une garantie écrite que le bio ne fera pas monter le budget des courses d'une famille, avec des produits qui restent abordables au prix d'aujourd'hui, et rien d'autre à faire que d'acheter le lait de la ferme du coin."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur les dix prochaines années, par exemple combien de fermes du village tiendront encore et ce qu'elles ont besoin pour rester, plutôt qu'une vision pour trente ans qui reste abstraite pour moi."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.10,
+      "ce_qui_doublerait_ma_venue": "Un montant annoncé pour l'entretien des chemins, des prés et du paysage, versé aux fermes qui le font, et une séance le samedi matin plutôt qu'un soir de semaine après le travail."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes sur mon téléphone, pendant une pause, c'est le seul format que je peux caser sans bloquer une soirée. Les ateliers et les trois séquences sur trois semaines, je ne m'y mettrai pas : je travaille en horaires décalés et je me méfie des démarches communales qui finissent par ne rien changer."
+}

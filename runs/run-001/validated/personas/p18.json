@@ -1,0 +1,113 @@
+{
+  "id": "p18",
+  "portrait": "J'ai 42 ans et je tiens seul l'exploitation familiale d'élevage bovin laitier sur les herbages, en production conventionnelle, à la ferme dans un hameau de Vuadens. Je connais chaque parcelle, je travaille avec mes voisins, la fromagerie et la coopérative, et ce qui compte pour moi, c'est que la ferme fasse vivre quelqu'un demain. Suisse et électeur, je vote en regardant ce que ça change concrètement pour l'exploitation, pas pour les discours.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "« Vivre de mon travail, c'est la seule question qui compte vraiment pour moi, le reste vient après. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le temps manque entre la traite, la fenaison et les soins aux bêtes",
+        "Les démarches participatives communales donnent souvent l'impression que tout est déjà décidé",
+        "Je n'ai aucune garantie sur le prix du lait bio, donc je reste prudent"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur les coûts de conversion et les prix réellement payés, présentés par des acheteurs et par des paysans déjà passés au bio, en soirée plutôt qu'en journée."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les gens veulent du bio, mais au moment d'acheter ils regardent surtout le prix. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas ce que les habitants peuvent apporter concrètement à une ferme",
+        "Je n'ai pas le temps d'accueillir des groupes",
+        "Ça reste du discours tant que les achats ne suivent pas"
+      ],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes à la ferme avec visite du troupeau et des prairies, plutôt qu'une réunion dans la salle communale."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Ce qui m'inquiète, c'est de savoir qui reprendra les fermes dans trente ans, bio ou pas. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Les projections à trente ans me semblent difficiles à tenir",
+        "La transmission est un sujet délicat et personnel",
+        "Je ne suis pas sûr que la commune ait les moyens de ce qu'elle promet"
+      ],
+      "ce_qui_me_ferait_venir": "Des propositions précises pour les jeunes qui veulent s'installer, comme l'accès au foncier ou un appui technique, sans leçons de morale."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Dire que nos prairies sont bonnes pour l'eau, je veux bien, mais la reconnaissance ne paie pas la facture. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Une étiquette ou une reconnaissance symbolique ne règle pas les fins de mois",
+        "Je me méfie des labels qui profitent surtout à ceux qui ne travaillent pas la terre",
+        "Les prairies, on les entretient depuis toujours sans qu'on nous le demande"
+      ],
+      "ce_qui_me_ferait_venir": "Un soutien financier clair et durable pour les services rendus par les prairies et les haies, décidé avec les agriculteurs et pas seulement pour la communication."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 20,
+    "role": "relai",
+    "cercle_type": "Agriculteurs voisins et entraide du hameau, famille proche hors exploitation, membres de la fromagerie villageoise et de la coopérative laitière, quelques connaissances du village"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Le principe me plaît, mais l'initiative vise surtout les importations et ajoute des exigences sur les étiquettes. Je crains plus de paperasse pour nous que de changement réel pour les produits étrangers."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Protéger la production suisse, garder assez de paysans et avoir des prix équitables, c'est ce qu'on attend depuis longtemps."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Lier les paiements directs à l'absence totale de pesticides, aux antibiotiques préventifs et au fourrage produit à la ferme est trop rigide pour les exploitations qui doivent travailler avec les moyens disponibles."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Interdire les produits de synthèse sans solution de rechange ni délai réaliste met des exploitations en difficulté. Je veux bien réduire leur usage, pas les interdire d'un coup."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La taxe sur les carburants et le chauffage pèse sur les exploitations, alors que les mesures sur les billets d'avion ne me concernent pas. Le fonds climat peut aider, mais je doute de la répartition de l'argent."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis d'accord sur le bien-être animal, mais imposer le niveau du cahier des charges bio à tous les élevages, y compris importés, sur 25 ans met la pression sur les fermes du pays sans régler les importations."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Zéro émission nette en 2050 est un horizon lointain. Les aides pour remplacer le chauffage fossile peuvent être utiles, mais je ne veux pas payer pour des mesures qui ne profitent pas à la ferme."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "La biodiversité me concerne, j'entretiens haies et prairies. Mais davantage de surfaces protégées prises sur les terres agricoles, sans compensation claire pour nous, je n'en veux pas."
+    }
+  ]
+}

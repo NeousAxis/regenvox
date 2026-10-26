@@ -1,0 +1,125 @@
+{
+  "id": "p48",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Ça se passe entre étudiants et direction d'une école fédérale à Lausanne, ce débat sur Palantir ne me touche pas et je ne signe pas ce type de texte."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Les canicules m'inquiètent pour les personnes âgées qui vivent seules comme moi, mais ce texte réclame un plan d'urgence piloté par l'État qui coûtera cher au contribuable."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Je n'aime pas l'idée d'invalider une initiative populaire acceptée par le peuple, même si je ne partage pas toutes les positions de l'UDC sur ce sujet."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Cette affaire genevoise et le conflit au Proche-Orient ne me concernent pas et je n'ai pas envie d'entrer dans ces querelles par une pétition."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "Le protoxyde d'azote fait des dégâts chez les jeunes, mais c'est un problème genevois que je ne vois pas dans mon quartier à Yverdon."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Ma caisse de pension me concerne, mais je n'accepte pas que des professionnels de la santé dictent aux caisses leurs placements, cela me paraît militant."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les primes d'assurance-maladie me pèsent beaucoup, mais le texte se présente lui-même comme fictif et une caisse cantonale ne me convainc pas."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "L'AVS me touche directement comme retraité et son financement m'inquiète, mais je reste sceptique face aux hausses de TVA comme aux nouvelles taxes proposées."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Versoix est dans le canton de Genève, loin de Yverdon, et ce local communal ne me concerne pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Je suis touché par ce drame, mais une pétition ne me paraît pas le bon moyen d'agir sur un sujet qui concerne d'abord les familles directement touchées."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "La santé mentale des personnes seules me touche, mais je connais mal ce dossier parlementaire et je ne signe pas un texte sur une motion que je n'ai pas lue."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je ne connais pas la Ferme aux Agrumes de Borex, mais je suis favorable à ce qu'un privé puisse diversifier son activité sans trop de contraintes."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Le canton du Jura est loin de chez moi et la création d'une maison d'accueil financée par le canton me paraît une dépense à examiner de près."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Je ne vis pas à Lausanne et le tram est déjà un chantier coûteux, je ne vois pas pourquoi je signerais ce texte."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.015,
+      "partage_proba": 0.008,
+      "raison": "Les renvois relèvent de la politique fédérale d'asile et je ne suis pas à l'aise avec une suspension générale décidée sur la base de rapports."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La formation professionnelle me concerne peu aujourd'hui et je ne vois pas l'intérêt de réformer les CFC par une pétition."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Les lunettes à caméra me gênent pour la vie privée dans les lieux publics, mais une interdiction de vente me paraît une mesure excessive."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Ce texte réclame des limites à la consommation et des interdictions qui vont trop loin à mon goût, je ne m'y reconnais pas."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Les forêts du Jura me sont chères et la prévention coûte moins cher que les incendies, mais je ne signe que très rarement ce type de texte."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Les drogues de soumission sont un sujet grave qui relève de l'État, mais je n'ai pas vérifié les faits ni la proposition de task force avant de signer."
+    }
+  ]
+}

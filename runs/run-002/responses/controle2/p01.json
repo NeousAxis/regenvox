@@ -1,0 +1,16 @@
+{
+  "id": "p01",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Bof, le bio, moi je prends ce qui est dans le frigo. Je ne sais pas trop ce que ça change pour nous, les champs c'est surtout pour les paysans.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je suis en formation avec des horaires qui changent d'une semaine à l'autre, je n'ai pas le temps de me pencher là-dessus",
+      "La politique et l'agriculture ne m'intéressent pas vraiment, je n'ai pas d'avis tranché sur la terre",
+      "Ça ne me concerne pas directement, je ne connais pas les agriculteurs de Vuadens",
+      "Les rencontres sont souvent le soir, et je n'irais pas toute seule"
+    ],
+    "ce_qui_me_ferait_venir": "Si mes amies y vont, ou si on m'explique concrètement ce que ça change pour ce que je mange à la cantine ou pour les prix, et s'il y a quelque chose à manger à la fin. Une info sur Instagram ou via l'école suffirait pour que je sache de quoi il s'agit, mais je n'irais pas plus loin sans une raison claire."
+  }
+}

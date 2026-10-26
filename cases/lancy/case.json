@@ -1,0 +1,24 @@
+{
+ "id": "lancy",
+ "cible": {
+  "type": "commune",
+  "nom": "Lancy",
+  "canton": "GE",
+  "pays": "CH",
+  "description": "Deuxième ville du canton de Genève, suburbaine, avec de grands quartiers d'habitation."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 30,
+  "seed": 20261114
+ },
+ "contexte_factuel": [
+  "Population : 37 520 habitants au 31 décembre 2025, dont 37 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 0 exploitations, 0 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Lancy, PS (20,2 %) (OFS)."
+ ],
+ "votations": []
+}

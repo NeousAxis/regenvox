@@ -1,0 +1,29 @@
+{
+  "id": "p23",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.82,
+      "raison": "La contraception touche à la santé et à l'égalité entre femmes et hommes, et les frais ne devraient pas peser sur celle qui doit la payer, donc je vote oui même si 20 millions par an font réfléchir."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Les bouchons vers la frontière et l'aéroport me coûtent du temps à chaque tournée, et 15 000 voitures en moins par jour est un gain concret, mais je me méfie de financer des projets en France depuis le refus populaire de 2014, donc je penche pour le oui."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Des congés-ventes et moins de logements locatifs abordables, c'est ce que je vois autour de moi, et les Vert-e-s s'y opposent, donc je vote non même si devenir propriétaire se comprend pour certains locataires."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Deux millions de moins par an me paraissent un petit effort, mais les Vert-e-s demandent le maintien des 35 millions et je ne vois pas de raison de couper, donc je penche pour le non."
+    }
+  ]
+}

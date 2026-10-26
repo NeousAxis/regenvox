@@ -1,0 +1,16 @@
+{
+  "id": "p28",
+  "reaction": {
+    "position": "interesse",
+    "intensite": 3,
+    "citation": "Quand je vois les prés derrière chez moi se transformer en lotissements, je me dis qu'il faut bien garder des champs. Mais si le bio veut dire que tout coûte plus cher, je ne vais pas applaudir juste parce que c'est bien vu.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je connais peu de monde au village et je ne suis pas à l'aise dans les réunions de commune",
+      "Je n'ai ni terre ni savoir agricole, je ne vois pas ce que je pourrais apporter concrètement",
+      "Si la démarche se traduit par des charges ou des prix plus élevés pour les familles, je serai méfiant",
+      "J'ai l'impression que ce genre de projet se décide entre agriculteurs et autorités, et que les habitants ne font que suivre"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que ça coûte à la commune et aux familles, et la preuve que les champs restent des champs. Un atelier le soir au village, animé par des agriculteurs qui parlent clairement, avec une question directe : qu'est-ce qu'on peut faire ensemble pour garder les terres autour de nous ?"
+  }
+}

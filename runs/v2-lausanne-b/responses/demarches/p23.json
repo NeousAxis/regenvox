@@ -1,0 +1,15 @@
+{
+  "id": "p23",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Les établissements de Sauvabelin ne font pas partie de son quotidien, et un atelier un samedi après-midi est difficile à caser entre les travaux de la ferme."},
+    {"item_id": "lau01", "participe_proba": 0.05, "partage_proba": 0.06, "raison": "Première édition d'un dispositif encore peu connu, sans projet de quartier à défendre, elle n'a sans doute pas remarqué l'annonce ni pris le temps de voter."},
+    {"item_id": "lau02", "participe_proba": 0.06, "partage_proba": 0.07, "raison": "Deuxième édition pendant la pandémie, peu relayée dans son quotidien, et la fin des vendanges et les travaux d'automne occupent toute l'exploitation."},
+    {"item_id": "lau10", "participe_proba": 0.10, "partage_proba": 0.07, "raison": "Le sujet touche son métier (terres, forêts, patrimoine naturel) et le sondage ne prend que cinq minutes, mais la campagne a peu atteint son quotidien à la ferme."},
+    {"item_id": "lau03", "participe_proba": 0.15, "partage_proba": 0.10, "raison": "Le bulletin préaffranchi arrive dans la boîte aux lettres, ce qui facilite le geste, mais elle n'a pas de projet à défendre et l'intérêt reste faible face aux priorités de l'exploitation."},
+    {"item_id": "lau08", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Elle fréquente peu les quais d'Ouchy et de Belgique, et un questionnaire de quinze questions sur la circulation de ces zones touristiques ne la concerne pas vraiment."},
+    {"item_id": "lau04", "participe_proba": 0.14, "partage_proba": 0.10, "raison": "Le bulletin nominatif reçu chez elle rend le vote possible, mais elle ne se sent pas concernée par des projets de quartier et l'automne est chargé à la ferme."},
+    {"item_id": "lau09", "participe_proba": 0.07, "partage_proba": 0.09, "raison": "Le thème du racisme la touche personnellement en tant que femme étrangère, mais la consultation a peu circulé et elle répond rarement aux questionnaires de la Ville."},
+    {"item_id": "lau05", "participe_proba": 0.16, "partage_proba": 0.12, "raison": "Elle reçoit un bulletin nominatif, y compris en tant qu'étrangère, et le vote par courrier est simple, mais la ferme passe avant les projets de quartier et elle ne se sent pas concernée par les propositions urbaines."},
+    {"item_id": "lau06", "participe_proba": 0.10, "partage_proba": 0.08, "raison": "Le thème de la biodiversité urbaine l'intéresse, mais le vote tombe entre août et septembre, en pleine saison des vendanges, et les projets d'animation ne la touchent pas directement."}
+  ]
+}

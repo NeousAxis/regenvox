@@ -1,0 +1,11 @@
+{
+  "id": "p10",
+  "reactions": [
+    {
+      "item_id": "gen07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Je n'ai pas le souvenir d'avoir vu passer cette concertation, et un atelier en soirée un mercredi entre 18h et 20h ne colle pas avec mes horaires de vente ou de restauration, donc j'ai peu de chances d'y être allée et encore moins d'en avoir parlé autour de moi."
+    }
+  ]
+}

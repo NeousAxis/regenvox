@@ -1,0 +1,16 @@
+{
+  "id": "p39",
+  "reaction": {
+    "position": "interesse",
+    "intensite": 3,
+    "citation": "« Dix ans, c'est court pour changer des champs, mais c'est possible si on commence par la cantine et les EMS, et si les paysans y gagnent vraiment, sinon ça restera un beau projet sur papier. »",
+    "engagement": 3,
+    "freins_participation": [
+      "Mes horaires dans le social et la santé sont chargés, donc les ateliers en journée ne m'arrangent pas",
+      "Je doute que les agriculteurs suivent, car le village vote souvent autrement que moi",
+      "Le bio coûte plus cher et mon budget est modeste, il faut que les produits restent accessibles",
+      "Si ça reste un discours de la commune sans chiffres ni engagement concret, je ne perdrai pas mon temps"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier le soir, animé par des agriculteurs de Vuadens qui racontent ce qui marche chez eux, avec des chiffres sur les rendements et les aides, et une piste concrète comme les cantines scolaires ou les EMS qui achètent du bio local, en lien avec la fromagerie villageoise."
+  }
+}

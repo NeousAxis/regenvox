@@ -1,0 +1,110 @@
+{
+  "id": "p02",
+  "portrait": "Je suis agriculteur à Vuadens, seul sur l'exploitation familiale où je traite des vaches laitières sur herbages, en production conventionnelle. Je suis Suisse, je vis au hameau et je vote aux votations fédérales, même si j'ai souvent l'impression que l'agriculture est expliquée par des gens qui n'en ont jamais fait. Je ne me sens pas militant. Je veux que mon travail se paie et que mes bêtes aient de l'herbe.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Le bio, je n'ai rien contre sur le principe, mais si le lait ne se vend pas mieux, je ne peux pas suivre.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je trais matin et soir, et les soirées en semaine sont difficiles à caser",
+        "Les démarches où l'on parle de bio sans parler du prix du lait me lassent",
+        "J'ai peur que la transition me coûte plusieurs années de revenu"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier concret, sur le terrain et en fin d'après-midi, avec des chiffres sur les coûts de la conversion, le prix payé pour le lait bio et les aides pendant la transition, et un agriculteur du village qui a déjà franchi le pas."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Que les gens achètent local, je veux bien, mais au moment de passer à la caisse ils regardent surtout le prix.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps de faire de la vente directe en plus de la ferme",
+        "Beaucoup de gens disent vouloir le local et achètent le moins cher"
+      ],
+      "ce_qui_me_ferait_venir": "Une clientèle locale engagée sur la durée, par exemple via la fromagerie du village ou un contrat de livraison qui couvre vraiment mon travail."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "La relève me préoccupe, parce que peu de jeunes veulent encore reprendre une ferme laitière, et une terre en bon état, c'est déjà une bonne part de la réponse.",
+      "engagement": 1,
+      "freins_participation": [
+        "Une question trop large finit souvent en discours sans suite",
+        "Pendant la saison de fauche, je ne suis disponible pour rien"
+      ],
+      "ce_qui_me_ferait_venir": "Des propositions précises sur l'accès aux terres, la transmission des exploitations ou la location de parcelles, pas seulement des intentions."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "On nous parle beaucoup de ce qu'on apporte à l'eau et aux sols, mais personne ne le paie vraiment.",
+      "engagement": 1,
+      "freins_participation": [
+        "J'ai l'impression qu'on fait la morale aux agriculteurs",
+        "Les démarches de reconnaissance demandent beaucoup de paperasse pour peu de résultat"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance qui se traduit par un revenu ou un contrat avec la commune, et pas seulement par un label ou une affiche sur la place."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Agriculteurs voisins et autres exploitants de la région, personnes liées à la fromagerie du village, famille élargie et voisinage du hameau."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Plus de règles et de contrôles sur les produits, y compris importés, ne m'aide pas à vendre mon lait. Je crains une couche de bureaucratie de plus sans effet sur mon prix."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Protéger la production indigène et obtenir des prix équitables, c'est ce qui manque aux paysans. Je suis d'accord sur l'essentiel, même si le texte est flou sur le financement."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Lier les paiements directs à l'absence de pesticides et au fourrage produit sur la ferme me met une contrainte directe sur mes revenus. Je veux bien réduire les produits, mais pas qu'on m'impose un changement du jour au lendemain."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.12,
+      "raison": "Interdire les pesticides de synthèse sans solution de rechange pour les cultures et les prairies, c'est une menace sérieuse pour les fermes. Je suis pour réduire, pas pour interdire d'un coup."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.65,
+      "oui_proba": 0.4,
+      "raison": "Le climat me préoccupe. Une taxe sur les billets d'avion ne me touche guère, mais la hausse de la taxe sur les combustibles pèse sur les campagnes. Je ne suis pas sûr de mon avis."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Mes vaches sont à l'herbe et je n'ai rien contre leur bien-être, mais imposer partout le niveau bio, avec une transition longue et des contrôles coûteux, ne me convainc pas."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.65,
+      "oui_proba": 0.5,
+      "raison": "Les aides pour remplacer les chauffages fossiles et pour l'innovation sont utiles. Le zéro émission d'ici 2050 me paraît lointain, et il faut voir le coût pour les ménages comme pour les fermes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je suis pour la nature, je vois les haies et les prairies fleuries, mais davantage de surfaces protégées veut dire moins de terres exploitables. Les agriculteurs ont déjà beaucoup d'obligations sur leurs surfaces."
+    }
+  ]
+}

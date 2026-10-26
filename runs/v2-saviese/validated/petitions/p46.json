@@ -1,0 +1,125 @@
+{
+  "id": "p46",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.004,
+      "partage_proba": 0.01,
+      "raison": "Je ne suis ni étudiant ni lié à l'EPFL, et l'affaire Palantir se joue loin de mon quotidien de viticulteur à Savièse."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.12,
+      "raison": "Les canicules et la sécheresse, je les vis directement dans les vignes, donc le sujet me parle, mais une lettre ouverte de coalition ne me donne pas envie de signer, surtout sans mesures concrètes pour l'agriculture."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.008,
+      "partage_proba": 0.01,
+      "raison": "Je n'aime pas les campagnes qui veulent faire invalider un vote populaire, et Campax ne fait pas partie des organisations que je suis."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.004,
+      "partage_proba": 0.005,
+      "raison": "Cette affaire genevoise et le conflit à Gaza ne me concernent pas au quotidien, et je ne signe pas ce genre d'appel pour un député que je ne connais pas."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.015,
+      "partage_proba": 0.06,
+      "raison": "Le protoxyde circule chez les jeunes et j'ai des enfants, donc j'y pense, mais la pétition vise le canton de Genève et je signe rarement ce type de demande."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.008,
+      "partage_proba": 0.03,
+      "raison": "Mon activité d'exploitant me tient occupé, et la gestion des caisses de pension ne me touche pas directement, donc je n'irai pas signer."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.012,
+      "partage_proba": 0.04,
+      "raison": "Le texte dit lui-même que le projet est fictif, donc je ne signe pas une pétition qui n'engage à rien, même si les primes d'assurance-maladie me pèsent."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Une AVS qui repose sur des hausses de TVA et de cotisations m'inquiète pour mes enfants, mais les idées de taxer le cannabis et le tabac ne me parlent pas et je ne signe pas volontiers une pétition lancée par un parti."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.003,
+      "partage_proba": 0.01,
+      "raison": "Versoix est dans le canton de Genève, loin de mon village, et je ne connais pas ce projet de local."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.25,
+      "raison": "Le témoignage me touche et ma compagne pourrait se sentir concernée par ce type de deuil, donc je le partagerais plutôt que de le signer."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "La santé psychique est un sujet que je vois aussi dans le milieu agricole, mais le débat sur le diagnostic préalable ne me parle pas et je ne suis pas un signataire régulier."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Une ferme avec serres et collection rare me touche comme exploitant agricole, mais Borex est dans le canton de Vaud et je n'ai aucun lien avec ce site."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.02,
+      "partage_proba": 0.07,
+      "raison": "Les violences conjugales sont un sujet grave, mais la demande concerne le canton du Jura et une campagne de Campax, donc je n'y vais pas spontanément."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.006,
+      "partage_proba": 0.02,
+      "raison": "La chaleur en ville m'est lointaine depuis Savièse, et le tram lausannois ne me concerne pas, je ne signe pas une pétition de cette commune."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.008,
+      "partage_proba": 0.03,
+      "raison": "Les questions d'asile et de renvois relèvent de la Confédération et de ceux qui accompagnent les réfugiés au quotidien, je ne m'engage pas sur ce sujet."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "La formation professionnelle me parle, mais une réforme de cette ampleur demande un débat que je n'ai pas le temps de suivre."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.035,
+      "partage_proba": 0.15,
+      "raison": "Les lunettes qui filment à l'insu des gens et les enfants dans les piscines me font peur, donc je peux signer, mais je ne suis pas de ceux qui suivent les pétitions en ligne."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le climat me préoccupe, mais un appel général à limiter la consommation et le gaspillage ne correspond pas à ce que je vis sur mon exploitation."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.07,
+      "partage_proba": 0.2,
+      "raison": "Les incendies et la sécheresse, je les vois en Valais, et financer l'adaptation des forêts me paraît logique, donc je peux signer, mais je signe rarement."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.03,
+      "partage_proba": 0.2,
+      "raison": "Ce type d'abus est glaçant et j'ai des enfants, donc je comprends la demande, mais je signe rarement une pétition fédérale et je ne sais pas si le problème est un manque de moyens."
+    }
+  ]
+}

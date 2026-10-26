@@ -1,0 +1,39 @@
+{
+  "id": "p15",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.1,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants sur place pendant l'atelier, avec un samedi matin plutôt qu'un soir de semaine, parce que mes soirées sont prises par le travail et les enfants."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "La garantie écrite que les produits bio ou locaux ne seront pas plus chers pour les familles, parce que je ne veux pas payer plus cher pour un logo."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre ce que ça change concrètement pour moi, par exemple l'eau du robinet ou les arbres autour du village, plutôt qu'une question sur dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une visite de ferme ouverte ou une balade commentée dans le paysage avec les agriculteurs, plutôt qu'un label ou une campagne de communication."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone un soir où les enfants dorment, c'est le seul format que je ferais vraiment. Un atelier de 2 h 30 un samedi matin prend toute la famille, et les séquences à distance me paraissent trop d'engagements pour le peu de temps que j'ai."
+}

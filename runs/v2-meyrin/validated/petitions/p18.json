@@ -1,0 +1,125 @@
+{
+  "id": "p18",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Le débat sur Palantir et l'EPFL, entre étudiant·es lausannois, est loin de mon quotidien, et je n'en parlerais probablement pas."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.15,
+      "partage_proba": 0.35,
+      "raison": "Les canicules me touchent comme retraité et le climat m'inquiète, mais je ne signe qu'une petite part des pétitions que je reçois."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.3,
+      "raison": "Je suis opposé à l'initiative de l'UDC, mais l'argument juridique me paraît technique et je préfère le faire valoir par le vote."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Cette affaire genevoise très polarisée sur Gaza est une procédure judiciaire en cours, et je préfère ne pas m'y mêler."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.25,
+      "raison": "Le problème touche surtout les jeunes et m'inquiète, mais je n'ai pas de contact direct avec ce gaz et je signe rarement ce genre de pétition."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "La pétition me touche indirectement via ma caisse de pension, mais elle est rédigée en anglais et s'adresse surtout aux caisses et à la surveillance."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Les primes d'assurance-maladie me préoccupent, mais le texte se présente lui-même comme fictif, ce qui ôte l'envie de le signer."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.07,
+      "partage_proba": 0.2,
+      "raison": "L'AVS est mon revenu et je la défends, mais la pétition vient de jeunes libéraux et ses pistes de financement par le cannabis et le tabac ne me convainquent pas."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Le projet concerne la commune de Versoix et non la mienne, à Meyrin, et je ne suis pas touché par ces locaux."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Je suis sensible au deuil de ces femmes, mais le sujet est très spécifique et je ne me sens pas concerné par cette démarche juridique."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Je n'ai pas d'expérience directe de la psychothérapie et je ne signe pas les appels lancés par des professionnel·les du secteur."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "La ferme de Borex se trouve dans le canton de Vaud, loin de mon quotidien, et ce dossier local ne m'intéresse pas."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.03,
+      "partage_proba": 0.12,
+      "raison": "Je trouve la violence domestique révoltante, mais une demande visant le canton du Jura est lointaine et je signe peu ce genre d'appel."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Le tram lausannois ne concerne pas Genève, même si l'idée de rues plus fraîches me parle lors des canicules."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.09,
+      "partage_proba": 0.25,
+      "raison": "Je suis sensible au sort des réfugié·es, mais je ne signe que peu de pétitions adressées à un conseiller fédéral précis."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "La formation à temps partiel ne me concerne pas directement et la pétition s'adresse surtout aux offices fédéraux et aux associations."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.11,
+      "partage_proba": 0.4,
+      "raison": "L'idée d'être filmé à son insu, surtout des enfants, me choque et je la relaierais volontiers, mais ces lunettes restent lointaines de mon quotidien."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.05,
+      "partage_proba": 0.15,
+      "raison": "Je partage l'inquiétude climatique, mais cet appel général sur la consommation me semble moralisateur et me freine pour signer."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.09,
+      "partage_proba": 0.25,
+      "raison": "Je suis inquiet des incendies et de la sécheresse et je trouve mauvais de couper ces fonds, mais je ne suis pas un signataire régulier de pétitions."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "La protection des victimes d'abus facilités par la drogue me touche, mais la pétition reste vague sur les moyens et je ne la signerais pas sans plus d'informations."
+    }
+  ]
+}

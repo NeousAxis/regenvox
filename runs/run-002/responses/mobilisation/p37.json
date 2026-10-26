@@ -1,0 +1,39 @@
+{
+  "id": "p37",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Des chiffres réels, présentés en début de séance, sur ce qu'une ferme de Vuadens gagne en passant au bio et sur ce que la commune prend en charge."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un exemple chiffré de partenariat avec une ferme : ce que je paierais, ce que j'obtiendrais en échange, et la durée de l'engagement."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.25,
+      "ce_qui_doublerait_ma_venue": "Une question précise sur un lieu de Vuadens que je connais, comme le chemin près de chez moi, plutôt qu'une question générale sur la commune dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Que la commune achète ou aide à vendre la production des fermes locales, par exemple pour la cantine ou le marché du village, plutôt qu'une reconnaissance sur papier."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, le soir ou entre deux chantiers, sans me déplacer à une soirée où je ne connais personne. Les trois séquences à distance demandent un engagement sur trois semaines que je ne tiendrais pas."
+}

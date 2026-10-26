@@ -1,0 +1,197 @@
+{
+  "id": "p06",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'ai pas encore l'âge de voter en 2004, donc je ne participe pas."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Je vote peu à mon âge, mais l'AI doit être financée et le PDC comme le PS soutiennent cette hausse temporaire de la TVA."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "Je ne veux pas fermer des débouchés à l'industrie suisse qui fait vivre des familles ici, même si je comprends l'idée."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Le service militaire fait partie de notre système de milice, même si je le trouve parfois lourd."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je travaille avec des collègues étrangers et je vois que la libre circulation et les accords avec l'UE nous donnent du travail, donc je dis non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "L'armée doit être équipée et le PDC comme le PLR soutiennent l'achat, même si le prix me paraît élevé."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.3,
+      "oui_proba": 0.45,
+      "raison": "La pénalisation fiscale des couples mariés me touche et le PDC soutient l'initiative, mais je n'aime pas inscrire une définition du mariage dans la Constitution."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "L'AVS a besoin d'argent et la hausse de 0,6 point est un effort partagé qui me paraît raisonnable, avec le PDC et le PS d'accord."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "L'intention pour les animaux est bonne, mais je ne veux pas payer une subvention de plus avec mes impôts."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je tiens aux accords avec l'UE qui nous ont apporté du travail et de la stabilité, et je n'aime pas mettre la Constitution au-dessus du droit international."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "Schengen nous facilite la vie et la sécurité, et le PDC comme le PS et le PLR soutiennent ce texte, donc je vote oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je travaille avec des frontaliers et des Européens, et je ne veux pas casser la libre circulation qui fait tourner nos entreprises."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "La régulation du loup me paraît nécessaire pour les éleveurs de la région, même si je reste sensible à la protection de la nature."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Des commandes pour l'armée font travailler des entreprises suisses, mais six milliards me semblent beaucoup, même si le PDC et le PLR soutiennent l'achat."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je ne vois pas pourquoi la Banque nationale et les caisses de pension devraient se mêler de ça, alors que des entreprises suisses font vivre des familles ici."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "L'eau propre me tient à cœur, mais Le Centre dit non et je trouve que l'initiative demande trop vite des changements aux paysans de la région."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Les pesticides posent problème, mais une interdiction en dix ans sans transition met trop de pression sur les agriculteurs de la région."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.75,
+      "raison": "Les couples de même sexe doivent avoir les mêmes droits, et Le Centre comme le PS et le PLR soutiennent ce oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "L'idée d'arrêter les essais sur l'humain et l'animal me touche, mais cela ferait fuir la recherche médicale à l'étranger."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Schengen nous sert, donc je veux bien participer à la protection des frontières, même si je me méfie des budgets qui augmentent sans fin."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux est important, mais des normes plus strictes sur les importations feraient monter les prix pour les familles comme la mienne."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "L'AVS a besoin de financement et le compromis sur l'âge de la retraite des femmes me paraît acceptable, même si certains métiers pénibles en paient le prix."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "J'aimerais que la nature de la région soit mieux protégée, mais l'initiative va trop loin pour les agriculteurs et la construction, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Le Centre dit non et je ne veux pas bouleverser le système fiscal de tous les couples mariés, donc je pencherais pour le non."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je vois la pression sur les logements et les routes autour de Delémont, mais je ne veux pas casser les accords qui font tourner nos entreprises."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Quand on a choisi l'armée, il faut tenir ses engagements, et Le Centre comme le PLR soutiennent cette mesure."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La neutralité compte pour la Suisse, mais une neutralité qui m'empêcherait de coopérer avec nos voisins et d'appliquer des sanctions me paraît trop rigide."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "J'aimerais manger plus local, mais 70 % d'aliments produits en Suisse en dix ans est irréaliste et ferait monter les prix."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.65,
+      "raison": "La 13e rente AVS est acquise et il faut la financer, et la hausse épargne les denrées et les médicaments, donc je vote oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.2,
+      "oui_proba": 0.5,
+      "raison": "Le bruit des pétards me gêne surtout la nuit en ville, et l'initiative garde les feux du 1er août grâce aux exceptions cantonales."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Les couples mariés ne doivent pas payer plus d'impôts que les autres, et je rejoins Le Centre qui soutient cette initiative."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Les entreprises d'armement en Suisse font vivre des familles ici, et Le Centre comme le PLR soutiennent l'assouplissement, donc je suis plutôt pour."
+    }
+  ]
+}

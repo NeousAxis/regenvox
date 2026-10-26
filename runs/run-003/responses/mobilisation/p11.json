@@ -1,0 +1,39 @@
+{
+  "id": "p11",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Un chiffre précis et écrit : le prix garanti du lait bio pour une exploitation comme la mienne, avec l'acheteur nommé. Et une rencontre qui ne tombe pas sur les heures de traite."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une visite de ferme organisée par la commune, animée par un agriculteur du village, qui parle du coût réel d'une vache et du travail au quotidien."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.09,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur la reprise : qui reprend les exploitations de Vuadens dans dix ans, et ce qu'il faut pour qu'un jeune s'installe ici, avec des gens du métier autour de la table."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une reconnaissance qui se traduit en argent : que la commune rémunère les haies et les bandes fleuries déjà en place, sans label payant et sans leçon."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur le téléphone, le soir après la traite ou pendant une pause, sans bouger de la ferme. Les réunions en semaine, je n'y vais pas, et trois séquences à suivre sur trois semaines, c'est une contrainte de plus que je ne tiendrai pas."
+}

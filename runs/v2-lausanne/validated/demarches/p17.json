@@ -1,0 +1,65 @@
+{
+  "id": "p17",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Je fréquente rarement Sauvabelin, la démarche visait surtout les usagers du lieu, et je n'ai pas le réflexe de répondre à un sondage papier qu'il faut aller chercher au Service du logement."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Première édition pilote très peu médiatisée, sans projet de quartier à défendre, je n'ai pas vu passer le vote et je ne vote pas spontanément sur ce genre de dispositif."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "L'année du Covid a rendu la démarche confuse, les stands de marché des mercredis et samedis matins ne collent pas toujours à mon emploi du temps, et le budget participatif reste un sujet de quartier qui ne me touche pas directement."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Un sondage de cinq minutes est peu coûteux, mais l'urbanisme ne me passionne pas et je n'en ai pas beaucoup entendu parler en dehors du site de la Ville."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin arrive dans la boîte aux lettres et facilite le geste, mais je le laisse souvent traîner, et la démarche reste secondaire face à mon travail et à mes occupations du moment."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Je n'emprunte pas beaucoup les quais d'Ouchy et de Belgique et un questionnaire sur un mois ne m'attire pas, mais la circulation en ville me fait réagir et j'en discuterais peut-être avec des collègues."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin prépayé reçu à domicile rend le geste simple, mais l'année est chargée, les projets ne me concernent pas directement, et je ne vote qu'une fois sur dix environ."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le sujet est important, mais je ne me sens pas concerné par une consultation de ce type, je ne l'ai pas vue passer dans mon entourage et je n'ai pas d'expérience à partager."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "Les élections fédérales d'octobre 2023 tombent pendant la fenêtre de vote et me rappellent de glisser un bulletin dans l'urne, mais il faut choisir au moins trois projets et aucun ne m'attire vraiment, donc j'en parlerais peut-être à la maison."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Après cinq éditions, le budget participatif est devenu un rendez-vous lointain, le bulletin finit souvent dans la pile de courrier, et je ne vote que si un projet proche de chez moi me parle."
+    }
+  ]
+}

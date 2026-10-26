@@ -1,0 +1,142 @@
+{
+  "id": "p04",
+  "portrait": "J'ai 45 ans, je travaille dans la santé et le social, et je vis seul au centre du village, où je connais la plupart des gens. Je suis plutôt proche du PLR : je tiens à ce que les paysans puissent vivre de leur travail, mais je me méfie des programmes décidés d'en haut, qu'ils viennent de la commune ou de Berne. Je vote, mais je ne suis pas militant et je ne vais pas à toutes les séances.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Sans un revenu correct pour les paysans, le bio restera un beau discours dans une salle de réunion. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne suis pas agriculteur et mes soirées en semaine sont déjà prises par mon travail",
+        "Les ateliers ressemblent souvent à des débats entre convaincus",
+        "Je me méfie d'un objectif chiffré fixé d'en haut, sans savoir qui le paie"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur ce que gagne une ferme en bio et en conventionnel, des paysans présents qui parlent de leur quotidien, et une soirée courte au village."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Acheter local, je le fais déjà quand c'est possible. Qu'une commune me dise comment remplir mon panier, non merci. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai ni le temps ni l'envie d'une démarche de plus",
+        "Le prix du bio reste un obstacle pour mon budget de ménage",
+        "Je pense que le choix de consommation relève de chacun, pas d'une politique communale"
+      ],
+      "ce_qui_me_ferait_venir": "Un prix correct par rapport au reste, un point de vente simple au village et une information sans sermon."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans, c'est beau comme question, mais je pense d'abord à ce qui se passe cette année au village. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question aussi large me paraît floue et sans prise concrète",
+        "Je ne vois pas ce que mon avis changerait dans un processus pareil",
+        "Je n'ai pas de disponibilité pour les réunions de prospective"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet plus concret, lié à une décision réelle de la commune, avec un calendrier et un compte rendu publié."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Les paysans du village font un travail que personne ne voit. Les reconnaître, très bien, sans créer une usine à gaz. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien ce que la commune peut faire de concret pour cette reconnaissance",
+        "Les labels et les certifications me paraissent lourds pour les petites exploitations"
+      ],
+      "ce_qui_me_ferait_venir": "Une manifestation simple, par exemple une journée portes ouvertes à la ferme ou un marché au village, plutôt qu'un dispositif administratif."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "Collègues du secteur santé et social, voisins du centre du village, membres d'une société locale, et quelques proches hors commune avec qui je parle de politique locale"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Limiter les résidences secondaires par une règle nationale me paraît une atteinte à la propriété. Ce sujet touche peu notre village, et je ne veux pas qu'on décide à Berne pour chaque commune."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Freiner le mitage du territoire est logique, on voit trop de champs se transformer en lotissements. Je crains toutefois les contraintes pour les communes qui doivent reclasser des terrains."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Ramener l'économie à une seule planète d'ici 2050 est irréaliste, et ça pèserait d'abord sur les entreprises et les artisans de la région. Je ne suis pas prêt à ça."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Sortir du nucléaire à une date fixe, sans alternative prête, me paraît risqué pour l'approvisionnement. Je préfère une transition progressive qui laisse le temps de réfléchir."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Économiser l'énergie et développer les renouvelables est une bonne idée, mais je n'aime pas les subventions ni les nouvelles taxes qui pèsent sur le budget des ménages."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Manger sain et soutenir des conditions de travail équitables me parle, mais l'initiative imposerait des normes aux produits importés. Ça renchérirait le panier sans garantie sur le terrain."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Une agriculture d'ici, diversifiée, avec des paysans qui vivent de leur métier, je suis pour. Mais un Etat qui régule les prix et ferme les frontières ne me convainc pas, et les droits de douane font monter les prix."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Une eau plus propre, personne n'est contre. Mais lier les paiements directs à des pratiques imposées revient à punir les fermes qui font déjà attention. Je pencherais pour le non, par méfiance envers ces conditions."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Interdire tous les produits de synthèse en dix ans est trop abrupt pour nos fermes, et la production partirait vers l'étranger. Je crains plus de pertes que de bénéfices pour l'eau et les sols."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux ni taxe sur les billets d'avion ni hausse du mazout ou de l'essence, qui pèsent d'abord sur les familles. Le climat est un sujet, mais pas à n'importe quel prix."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "Nos éleveurs laitiers font un travail sérieux. Imposer le cahier des charges Bio Suisse à tout l'élevage, importations comprises, mettrait en danger beaucoup de fermes. Je voterais non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Viser zéro émission nette en 2050 se comprend, mais je n'aime pas les subventions financées par les contribuables ni la couche administrative qui va avec. Je pencherais probablement pour le non."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Protéger la nature, je suis d'accord sur le principe. Mais prendre encore des terres aux agriculteurs pour la biodiversité, c'est une limite de plus à leur travail. Je suis partagé et je pencherais pour le non."
+    }
+  ]
+}

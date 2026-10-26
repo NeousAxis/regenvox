@@ -1,0 +1,29 @@
+{
+  "id": "p58",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "La pilule me concerne directement et le coût pèse pendant ma formation, mais je suis proche du MCG qui dit non et je me méfie des dépenses supplémentaires du canton."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "Je vois les bouchons et les bus à la frontière, mais je ne veux pas que Genève finance des projets en France, le peuple l'a refusé en 2014 et le MCG dit non."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.65,
+      "raison": "Mes parents louent dans la cité et je trouve juste qu'un locataire puisse acheter son logement, le MCG dit oui, mais je crains qu'il reste moins de logements abordables."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas bien ce que cette indemnité change pour moi, le MCG dit non et je ne suis pas convaincue qu'il faille financer davantage la HES, donc plutôt non."
+    }
+  ]
+}

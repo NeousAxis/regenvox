@@ -1,0 +1,143 @@
+{
+  "id": "p15",
+  "portrait": "J'ai 40 ans, je travaille dans le social, je suis Suisse et je vis au centre du village avec ma famille et nos enfants. Je vote plutôt UDC, sans être militant, et je ne suis pas paysan : les questions de terres et de bio, je les vois de loin, même si je connais bien les agriculteurs du coin. Je me méfie des projets qui arrivent avec des objectifs chiffrés déjà décidés, qu'ils viennent de la commune ou de Berne.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Les paysans doivent d'abord pouvoir vivre de leur travail, le reste on verra après. Ils ont déjà assez de paperasse comme ça. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Mes horaires de travail et les enfants me laissent peu de soirées libres",
+        "Je ne suis pas agriculteur, donc j'ai peur de n'avoir rien d'utile à dire sur le fond",
+        "Je doute qu'une démarche de la commune change grand-chose face aux prix du marché"
+      ],
+      "ce_qui_me_ferait_venir": "Des agriculteurs de Vuadens qui viennent expliquer leurs chiffres réels (prix du lait, aides, coût de la conversion), et pas une présentation déjà ficelée par la commune."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Acheter local, oui, mais je ne veux pas payer plus cher pour un logo. Mon budget de famille, il est ce qu'il est. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le prix, je ne veux pas payer plus cher pour un label",
+        "Le temps, entre le travail et les enfants",
+        "L'impression que la commune a déjà son idée et que les habitants sont appelés seulement pour valider"
+      ],
+      "ce_qui_me_ferait_venir": "Des points de vente concrets au village, comme la fromagerie, et une discussion honnête sur ce que coûte vraiment un produit bio pour une famille."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais un peu grosse pour un mardi soir. Le champ du voisin est bien entretenu, c'est déjà pas mal. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne vois pas bien ce que ça change concrètement pour moi",
+        "Ce genre de question de long terme me parle peu",
+        "Je n'ai pas le temps de m'y intéresser"
+      ],
+      "ce_qui_me_ferait_venir": "Un exemple précis pour les dix prochaines années, avec une question simple sur qui paie la transition et ce qui revient aux familles."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Les agriculteurs entretiennent le paysage depuis toujours, c'est normal de le dire. Mais je ne suis pas sûr qu'il faille un label de plus pour ça. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Une campagne de communication m'intéresse peu",
+        "Je ne vois pas trop ce que la commune peut faire sans moyens financiers",
+        "Je ne suis pas habitué aux ateliers organisés par la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes à la ferme ou un marché où l'on peut acheter directement, avec les enfants."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Collègues du secteur social et de la santé, parents d'élèves de l'école, connaissances de la société locale et voisinage du centre du village, famille élargie"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas contre les propriétaires, mais il faut éviter que les villages se vident. Je ne suis pas sûr que la règle des 20 % soit la bonne façon de faire."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour qu'on construise moins sur les terres agricoles, mais l'État veut décider à notre place, et au village on a encore besoin de place pour loger les jeunes."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.1,
+      "raison": "Une planète par personne, ça ne veut pas dire grand-chose pour un paysan ou pour une famille. Ça se traduirait surtout en nouvelles taxes et contrôles."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.15,
+      "raison": "Nos centrales fonctionnent bien et donnent de l'électricité sans CO2. Les arrêter après 45 ans, c'est jeter de l'argent et faire venir du courant de l'étranger."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Il y a trop de subventions et de taxes qui retombent sur les ménages et les paysans, et on ferme le nucléaire trop vite. Les renouvelables, oui, mais pas à n'importe quel prix."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Des aliments sains, bien sûr, mais ça ajoute des contrôles sur les importations et ça risque de faire monter les prix dans les magasins."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Protéger notre agriculture et les paysans d'ici avec des prix corrects, je suis d'accord. Mais l'initiative va loin et je ne sais pas comment elle serait appliquée."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques, c'est punir les paysans. Le problème de l'eau est réel, mais il faut aider plutôt que sanctionner."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Sans produits, on perd des récoltes et les prix montent. Je veux une eau propre, mais une interdiction totale ne tient pas compte de la réalité de nos fermes."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Une taxe sur les billets d'avion et plus de taxes sur le mazout, pour une famille avec une voiture pour aller travailler, ce sont encore les mêmes qui paient."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je pense que nos paysans font déjà attention aux animaux. Une initiative qui impose les mêmes règles aux importations et qui décide de la transition à leur place, ça m'agace."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Le zéro émission d'ici 2050 est fixé par la Confédération, et les aides vont surtout aux entreprises et aux propriétaires. Je préfère qu'on avance sans tout cadenasser."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Protéger la nature, oui, mais l'initiative demande plus de surfaces protégées et plus d'argent public, et ça retire des terres à nos paysans. Je ne veux pas qu'on oppose la nature et l'agriculture."
+    }
+  ]
+}

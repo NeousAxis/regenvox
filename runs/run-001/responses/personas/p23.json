@@ -1,0 +1,111 @@
+{
+  "id": "p23",
+  "portrait": "J'ai 44 ans et je vis avec ma famille sur l'exploitation laitière que nous tenons à Vuadens, dans un hameau où tout le monde se connaît. Nous produisons du lait sur nos herbages, en production conventionnelle, et notre quotidien se règle sur les vaches, la traite et les saisons.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Le bio ne me fait pas peur si le prix suit, parce qu'aujourd'hui c'est le revenu qui décide de tout.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le temps manque pendant la saison des foins et des vêlages",
+        "Je ne crois pas aux ateliers où l'on parle beaucoup sans que rien ne change sur les prix",
+        "Je viens rarement en soirée, la traite et les enfants passent avant"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur le revenu d'une exploitation bio dans la région, et un acheteur, comme la fromagerie ou un distributeur, qui accepte de payer le surcoût."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Les gens disent vouloir du bio, mais au moment de passer à la caisse ils prennent souvent ce qui est le moins cher.",
+      "engagement": 1,
+      "freins_participation": [
+        "La plupart des habitants n'ont pas idée de ce que coûte une exploitation",
+        "Les visites à la ferme finissent souvent en jugement sur nos méthodes sans qu'on comprenne le métier",
+        "Je n'ai pas de temps à consacrer à des événements à la ferme"
+      ],
+      "ce_qui_me_ferait_venir": "Un partenariat concret, avec des achats réguliers de produits de la ferme à un prix qui tient compte du travail, plutôt qu'une simple rencontre."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "C'est la question qui me touche le plus, parce que mes enfants pourraient reprendre la ferme, mais seulement si elle leur permet de vivre.",
+      "engagement": 2,
+      "freins_participation": [
+        "Les questions sur trente ans ne donnent pas de réponses pour l'année prochaine",
+        "Je ne veux pas qu'on décide à ma place de ce que doit être ma terre"
+      ],
+      "ce_qui_me_ferait_venir": "Une discussion qui part de ce que mes enfants pourront faire du métier, avec des propositions que la commune peut vraiment porter, comme la reprise de terres par des jeunes ou la location de parcelles."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "La reconnaissance, ça fait plaisir, mais ça ne paie pas les factures, et j'ai parfois l'impression qu'on nous montre du doigt.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je me sens souvent jugée par des gens qui ne connaissent pas le métier",
+        "Je ne vois pas bien ce que la commune peut faire concrètement à part des mots"
+      ],
+      "ce_qui_me_ferait_venir": "Un soutien financier ou des mesures concrètes qui valorisent les prairies et les haies de nos fermes, pas seulement des affiches ou des discours."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 40,
+    "role": "relai",
+    "cercle_type": "Autres exploitants et familles d'agriculteurs du village et de la région, parents d'élèves de l'école primaire, quelques voisins et clients de la fromagerie villageoise."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je suis d'accord pour que les produits importés respectent les mêmes exigences que les nôtres, mais je crains que l'initiative nous impose de nouvelles règles sans que le prix du lait suive."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Protéger la production indigène et obtenir des prix équitables, c'est ce qui manque aux paysans. Je voterais oui pour défendre notre métier."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Elle viserait directement les fermes qui doivent parfois recourir aux traitements ou aux antibiotiques, sans transition réaliste. Je veux une eau propre, mais pas comme ça."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Interdire d'un coup tous les pesticides de synthèse, sans alternative prête, mettrait des exploitations en difficulté. Je préfère une réduction progressive avec des solutions qui fonctionnent."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je veux bien agir pour le climat, mais la hausse des taxes sur le carburant et le mazout pèse surtout sur ceux qui vivent à la campagne et sur le travail agricole."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux me tient à cœur et mes vaches sont bien traitées, mais une transition de 25 ans vers des exigences de type bio pour tous serait trop lourde à porter sans soutien."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.65,
+      "oui_proba": 0.55,
+      "raison": "Les aides pour changer le chauffage et investir dans l'innovation peuvent aider une ferme, à condition que la charge ne retombe pas sur les agriculteurs."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Je suis pour la nature et je fais ma part sur mes prairies, mais l'initiative demande davantage de surfaces protégées, et ce sont les terres agricoles qu'on prendrait en premier."
+    }
+  ]
+}

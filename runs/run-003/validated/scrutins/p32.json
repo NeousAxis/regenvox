@@ -1,0 +1,95 @@
+{
+  "id": "p32",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je me méfie des grosses dépenses d'armement, mais je ne veux pas non plus une armée à bout de souffle. Le fonds passe par le budget de l'armée, donc on sait au moins d'où vient l'argent, ce qui me rassure à moitié."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je ne vois pas pourquoi graver dans la Constitution une définition du mariage, ça ne correspond pas à la vie des couples que je connais. La pénalisation fiscale des couples mariés est un vrai sujet, mais ce texte mélange les deux."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "L'AVS doit être financée, mais une hausse de la TVA touche tout le monde, y compris les petites retraites. Elle est liée à une réforme qui repousse l'âge de la retraite des femmes, et je ne suis pas d'accord avec ça, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.75,
+      "oui_proba": 0.08,
+      "raison": "Je suis attaché à la démocratie, mais ce texte voudrait faire primer notre Constitution sur les traités internationaux. Cela mettrait en danger les accords avec l'Europe, dont dépendent nos exportations agricoles et beaucoup d'emplois chez nous. Je vote non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.05,
+      "raison": "Vuadens compte 21 % d'étrangers, des gens qui travaillent et vivent ici, et notre agriculture dépend aussi des échanges avec l'Europe. Dénoncer la libre circulation serait une erreur, je vote non sans hésiter."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.3,
+      "raison": "Six milliards pour des avions de combat, c'est beaucoup d'argent, et personne ne m'a expliqué clairement ce que cela coûte vraiment ni ce que ça change pour la sécurité. Je ne suis pas contre l'armée, mais je penche pour le non."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je comprends la volonté de protéger les animaux, mais interdire la recherche médicale touche aussi à la santé de ma famille. Ce texte promet beaucoup sans dire comment on ferait, donc je suis réservé."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.65,
+      "oui_proba": 0.15,
+      "raison": "Je respecte nos paysans qui élèvent leurs bêtes avec soin, et je ne veux pas leur compliquer la vie pour de la théorie. Cette initiative imposerait des exigences aussi aux importations, avec une transition de 25 ans, sans dire qui paie : je ne la soutiens pas."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "L'AVS a besoin d'argent et je veux qu'elle reste solide, mais une hausse de TVA pèse sur les petits budgets. Elle accompagne une réforme qui ne me convainc qu'à moitié, donc je suis partagé et je penche plutôt pour le non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La neutralité fait partie de notre identité et je la défends. Mais une neutralité inscrite dans la Constitution, qui interdirait les sanctions contre un État en guerre, sauf celles de l'ONU, me gêne, donc je penche pour le non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.4,
+      "raison": "Je suis pour une agriculture d'ici, moins de pesticides et une eau propre, et notre commune a déjà 21 % de surface bio. Mais fixer 70 % d'aliments indigènes et moins de produits animaux sans dire qui paie et comment risque de mettre nos éleveurs laitiers en difficulté, donc je suis partagé, plutôt non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je suis retraité et la 13e rente me concerne directement, donc je soutiens son financement. Une hausse de 0,4 point de TVA, qui épargne les denrées alimentaires et les médicaments, reste acceptable, même si j'aurais préféré faire payer davantage les hauts revenus."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Les pétards effraient les animaux, les chiens et les personnes âgées, et nos bêtes au pâturage en souffrent. Je ne veux pas d'une interdiction totale, mais limiter les pièces bruyantes en gardant le 1er août me paraît raisonnable, je penche pour le oui."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "L'imposition individuelle a déjà été acceptée en mars, et je ne vois pas pourquoi revenir à une imposition commune qui profite surtout aux couples dont l'un gagne beaucoup. Je ne retrouve pas la discrimination décrite par les initiants, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Exporter des armes vers un pays en guerre, même un partenaire, va contre notre tradition humanitaire et contre la neutralité que je veux défendre. Je ne fais pas confiance à une dérogation du Conseil fédéral décidée d'en haut, je vote non."
+    }
+  ]
+}

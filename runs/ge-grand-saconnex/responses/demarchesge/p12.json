@@ -1,0 +1,17 @@
+{
+  "id": "p12",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "En mai 2025 j'avais 16 ou 17 ans et la Susette, derrière Palexpo, ne me concernait pas directement, donc je n'ai probablement pas rempli le questionnaire, sauf si l'école m'y a poussé ; j'en parlerais peut-être à la maison si le chantier revient dans l'actualité."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le quartier des Marronniers ne fait pas partie de mon univers quotidien et, à 16 ou 17 ans, je n'ai sans doute pas vu passer ce sondage en ligne, donc je ne l'ai probablement pas rempli et je n'en ai guère parlé."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p02",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Des chiffres simples sur ce que gagne une famille paysanne en bio par rapport au conventionnel, et une garde d'enfants sur place le samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un exemple de panier ou de partenariat à prix accessible pour une famille de quatre, avec le coût chiffré dès le départ."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question ramenée à mon quotidien, comme la qualité de l'eau du robinet ou ce qui pousse autour du quartier, plutôt qu'une projection à trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Savoir précisément ce que coûterait la reconnaissance des fermes et qui la paie, avec le budget communal affiché."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le format le moins contraignant pour moi : dix minutes sur mon téléphone, quand j'ai une pause, sans devoir caser une garde d'enfants ni des horaires d'usine. Je ne m'engage pas dans une réunion."
+}

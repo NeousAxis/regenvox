@@ -1,0 +1,39 @@
+{
+  "id": "p38",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.2,
+      "ce_qui_doublerait_ma_venue": "Des chiffres concrets sur ce que gagne une ferme du coin en bio contre en conventionnel, présentés par un agriculteur de Vuadens, et un atelier le samedi matin plutôt qu'en semaine."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Savoir précisément ce que coûterait le bio pour une famille comme la mienne, par mois et en francs, avec la certitude que ça ne soit pas réservé à ceux qui ont du temps et des moyens."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une question concrète pour aujourd'hui, comme le prix du lait et le revenu des fermes, plutôt que la terre dans trente ans, et la garantie qu'on décide vraiment de quelque chose à la fin."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.22,
+      "ce_qui_doublerait_ma_venue": "Voir ce qui change concrètement pour les fermes d'ici, sans nouvelle taxe ni formulaire à remplir, et un atelier le samedi matin au lieu d'un soir de semaine."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire en ligne est le seul format qui tient dans ma semaine : dix minutes sur le téléphone, quand j'ai un moment, sans réunion le soir après mon travail. Je ne suis pas sûre de le finir, mais c'est là que je mettrais le moins d'effort, à condition que les questions soient concrètes et qu'il n'y ait pas de paperasse à remplir."
+}

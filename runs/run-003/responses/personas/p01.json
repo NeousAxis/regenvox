@@ -1,0 +1,143 @@
+{
+  "id": "p01",
+  "portrait": "J'ai 78 ans, je suis retraitée et je vis au centre du village avec mon conjoint, nos enfants ont quitté la maison depuis longtemps. Je suis Suisse, je vote depuis toujours, plutôt au centre, et je fais davantage confiance aux gens que je connais qu'aux projets lancés d'en haut. Les paysans du village, je les connais presque tous, leur sort me touche, mais je n'aime pas qu'on leur dise comment travailler.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les paysans d'ici travaillent dur, il faut d'abord qu'ils puissent vivre de leur travail, après on verra pour le bio. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Les séances le soir, je n'aime pas sortir quand il fait nuit",
+        "Je ne me sens pas compétente sur les sols et les cultures",
+        "J'ai peur que la décision soit déjà prise avant la réunion"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'un agriculteur du village présente lui-même la question, en journée ou au début de soirée, et qu'on me dise concrètement combien ça rapporte aux fermes."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« J'achète déjà du fromage à la fromagerie, je veux bien acheter local, mais à un prix raisonnable pour une retraitée. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le prix du bio, je le regarde à chaque course",
+        "Je ne sais pas à qui je devrais m'adresser",
+        "Ça doit venir des fermes, pas d'une campagne lancée par la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Une information claire dans le journal communal ou dans la boîte aux lettres, avec les adresses des fermes qui vendent directement au village."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans, moi je ne serai plus là. Les jeunes décideront ce qu'ils veulent, ce n'est pas à nous de leur dire comment cultiver. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question aussi lointaine ne m'intéresse pas vraiment",
+        "J'ai déjà mes activités et je n'ai pas envie de m'ajouter des réunions",
+        "Les démarches de la commune, on en voit beaucoup qui ne mènent à rien"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de précis. Si on parlait du village d'aujourd'hui et de ce qui a changé depuis mon enfance, peut-être."
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Quand on se promène, ce sont les fermes qui font le paysage. Il faudrait le dire plus souvent aux gens du village, ça leur ferait plaisir. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je pense que ça se dit déjà au village",
+        "Je ne vois pas bien ce qu'une réunion peut changer",
+        "Les documents trop techniques me découragent"
+      ],
+      "ce_qui_me_ferait_venir": "Une balade commentée avec les agriculteurs dans les champs, un samedi matin, plutôt qu'une séance dans une salle."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Voisinage immédiat du centre du village, un groupe paroissial et une société locale, quelques anciennes collègues de travail, et des contacts plus ou moins réguliers avec des familles d'agriculteurs. Elle transmet surtout ce qu'elle entend au village, sans prendre de position publique."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je comprends qu'on veuille protéger le paysage, mais limiter ce que chacun peut posséder ne me plaît pas. Il faut aussi des logements pour nos jeunes au village. Je serais plutôt sceptique, sans être contre tout."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Protéger les champs, je suis d'accord, surtout quand je vois des terres agricoles bâties. Mais si on bloque tout, les jeunes du village ne pourront plus construire ici. J'hésite, je pencherais pour le oui par prudence."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Une empreinte d'une planète d'ici 2050, c'est vague et ça inquiète les petites entreprises de la zone industrielle. On a déjà assez de normes. Je voterais non."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "Le nucléaire m'inquiète depuis Tchernobyl et Fukushima, mais arrêter d'un coup sans dire par quoi on remplace, je ne suis pas pour. Je serais partagée."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Les énergies renouvelables, on en voit déjà sur les toits, c'est bien. Mais je n'aime pas les taxes et les subventions qui finissent sur la facture. Je pencherais pour le oui, sans enthousiasme."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Que les produits importés respectent les mêmes règles que chez nous, je veux bien. Mais une nouvelle initiative avec beaucoup d'obligations et des textes compliqués, je me méfie. Je voterais plutôt non."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "L'agriculture suisse, les paysans de la région, c'est ce qui me tient à cœur. Protéger la production indigène et rester sans OGM, je suis pour. C'est ce que j'ai toujours soutenu."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "L'eau potable, bien sûr que je veux qu'elle soit propre. Mais lier les paiements directs à des conditions, c'est mettre des agriculteurs du village en difficulté. Je ne suis pas à l'aise avec ça, je voterais non."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Sans pesticides de synthèse, les récoltes baissent et les prix montent. Interdire aussi les importations, on ne sait pas qui paiera. Je comprends l'inquiétude, mais je voterais non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Les taxes sur l'essence et les billets d'avion, ce sont toujours les gens de la campagne qui paient le plus, parce qu'on n'a pas le choix de la voiture. Je dirais non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "J'aime les animaux, mais les éleveurs de la commune ont déjà beaucoup d'obligations. Demander plus, y compris pour les importations, me paraît irréaliste. Je voterais non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Le climat, on le sent avec les étés plus chauds, je ne le nie pas. Mais les aides pour changer le chauffage, à mon âge, je ne sais pas si ça me concerne. Je serais partagée."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "La nature, je la veux, les haies, les oiseaux, j'aime bien. Mais il faudra sans doute plus de surfaces protégées, et l'argent viendra peut-être des paysans. Je suis prudente, je dirais peut-être non."
+    }
+  ]
+}

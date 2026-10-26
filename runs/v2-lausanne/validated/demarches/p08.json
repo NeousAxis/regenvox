@@ -1,0 +1,65 @@
+{
+  "id": "p08",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "J'avais 13 ans : le sondage sur les établissements du lac ne me concernait pas, et je ne l'aurais vu que par hasard sur les réseaux de la Ville."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "À 14 ou 15 ans, je suivais peu la vie de la Ville, et une première édition aussi peu relayée ne m'aurait sans doute pas atteint."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "À 16 ans, en pleine année Covid et sans projet de quartier à déposer, je ne vois pas de raison de voter ni d'en parler."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Le PACom touche aux terres et au paysage qui me concernent par le métier, mais à 16 ans je n'étais pas dans les décisions d'aménagement et un sondage en ligne de cinq minutes reste facile à oublier."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin arrive dans la boîte aux lettres de mes parents et le sujet du quartier peut m'intéresser, mais à 17 ou 18 ans je ne suis pas sûr de le remplir."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Un questionnaire sur la fermeture des quais d'Ouchy ne touche ni ma vie ni mon travail, et à 16 ou 17 ans je n'avais pas de raison de le remplir."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin à domicile et le vote en ligne sont simples, mais à 17 ou 18 ans je suis peu impliqué dans la vie de quartier et je ne l'aurais probablement pas fait."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Le thème me touche comme citoyen, mais je n'ai pas de témoignage à apporter, la consultation ne m'a pas été relayée et j'en aurais parlé seulement si le sujet était venu à table."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif m'arrive directement et les projets sur la nature et le lien social me parlent, mais je vote rarement à ces consultations et mes proches non plus."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "La phase de vote tombe entre août et fin septembre, en pleine vendanges, et je n'ai pas le temps, même si la biodiversité urbaine m'intéresse, donc j'en parlerais surtout à des amis ou sur les réseaux."
+    }
+  ]
+}

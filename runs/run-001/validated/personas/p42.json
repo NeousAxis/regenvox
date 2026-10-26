@@ -1,0 +1,63 @@
+{
+  "id": "p42",
+  "portrait": "J'ai 40 ans et je travaille dans l'industrie, en atelier ou en maintenance technique, dans une entreprise de la zone d'activités de Vuadens. Je vis en couple, sans enfant, au centre du village, et je n'ai pas le droit de vote au niveau fédéral, ce qui me tient un peu à distance des grands débats nationaux. Je vois les champs et les troupeaux en traversant la commune, je croise des agriculteurs au village, mais je sais peu de choses de leur quotidien économique.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Si le paysan ne s'en sort pas financièrement, il ne passera jamais au bio. Il faut que le prix du lait et de la viande le permette, sinon on demande un effort à des gens qui ont déjà du mal à boucler leur budget. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je travaille en horaires décalés et je n'ai pas toujours le temps de venir le soir",
+        "Je ne connais pas bien le monde agricole et je crains de n'avoir pas grand-chose à apporter",
+        "Le sujet me semble concerner surtout les agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur le revenu des fermes qui passent au bio, présentés par des agriculteurs eux-mêmes, dans un format court et près de chez moi, par exemple un apéro au centre du village après le travail."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter directement à la ferme, c'est une bonne idée, mais il faut que ce soit facile et pas plus cher pour un couple comme nous. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le budget courses compte beaucoup dans notre ménage",
+        "Je n'ai pas l'habitude de passer à la ferme et je ne sais pas comment m'y prendre",
+        "Les démarches de partenariat me paraissent compliquées"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule simple, comme un panier hebdomadaire ou une vente au village, avec des prix clairs, et la possibilité de donner un coup de main ponctuel à la récolte."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Transmettre une terre en bon état, bien sûr, mais dans trente ans je ne sais pas ce que je ferai moi-même, alors la question me paraît un peu lointaine. »",
+      "engagement": 1,
+      "freins_participation": [
+        "La question me paraît abstraite et éloignée de mon quotidien",
+        "Je travaille beaucoup et mes soirées sont souvent prises",
+        "Je pense que ce genre de débat reste surtout entre spécialistes"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet relié à ce que je vois tous les jours, comme les champs autour du village, la qualité de l'eau ou le retour de certains oiseaux, présenté de façon concrète."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les fermes qui font des efforts pour la nature, on ne le voit jamais. Ce serait bien qu'il y ait une reconnaissance, une mention dans le bulletin de la commune, pour qu'on sache qui fait quoi. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis pas sûr de savoir ce qui est vraiment fait sur le terrain",
+        "Je n'ai pas le réflexe de chercher l'information dans les bulletins ou sur internet"
+      ],
+      "ce_qui_me_ferait_venir": "Une information régulière dans le bulletin communal, ou une visite de ferme ouverte à tout le monde, avec un moment convivial à la clé."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "Collègues d'atelier, voisins du quartier et quelques connaissances rencontrées au sport ou au café du village, avec peu de contacts directs avec le monde agricole"
+  },
+  "votes": []
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p33",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas l'âge de voter à cette date, j'étais enfant, et si j'avais pu voter j'aurais suivi l'AVS qui fait vivre nos grands-parents."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas l'âge de voter en 2009, mais le soutien à l'assurance invalidité me paraît juste, donc j'aurais probablement accepté ce relèvement temporaire."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas l'âge de voter en 2009, et interdire les exportations de matériel de guerre aurait touché des emplois de l'industrie suisse, donc je n'aurais pas soutenu l'initiative."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Je n'avais pas l'âge de voter en 2013, mais j'aurais voté pour garder le service militaire obligatoire, qui reste une école de vie pour beaucoup de jeunes de la région."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas l'âge de voter en février 2014, mais la question de l'immigration se voit déjà dans les villages où les étrangers sont nombreux, donc j'aurais probablement dit oui."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.65,
+      "raison": "Je n'avais pas l'âge de voter en 2014, mais j'aurais soutenu le financement du Gripen, car la défense du pays me semble une tâche de l'État qu'il faut assumer."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Le sujet ne me touche pas directement, mais je trouve normal que la famille ne soit pas pénalisée par rapport aux couples non mariés, et ça rejoint ce qu'on entend au village."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Je suis encore jeune à cette date, une hausse de TVA ne m'enthousiasme pas, mais les retraites de nos parents comptent, donc j'hésite."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "Je tiens des vaches laitières et le sujet me concerne directement: garder les cornes compliquerait la vie à l'étable et augmenterait les blessures, donc je suivrais la fédération agricole et je dirais non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je veux que la Suisse décide elle-même de ses lois et les juges étrangers m'agacent, donc je suis proche de ce que défend l'UDC sur ce sujet."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je n'aime pas que Bruxelles dicte nos règles sur les armes et la tradition du tir compte dans la région, mais il faut bien tenir les accords avec l'UE, donc j'hésite."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Je suis favorable à mieux maîtriser l'immigration, mais la main-d'oeuvre étrangère aide nos voisins et les accords avec l'UE ouvrent le marché de nos fromages à l'export, donc je reste hésitant."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Le loup s'attaque aux bêtes sur nos pâturages et il faut pouvoir intervenir avant que les dégâts ne deviennent trop lourds, donc je soutiens cette loi comme la plupart des agriculteurs de la région."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "Je suis attaché à la défense du pays, et même si l'achat coûte cher, il faut que notre aviation reste capable de protéger le ciel suisse."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Interdire aux banques et aux caisses de pension de financer l'industrie de défense me paraît excessif, donc je serais plutôt de l'avis de la droite et je dirais non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.9,
+      "oui_proba": 0.08,
+      "raison": "Cette initiative réserverait les paiements directs aux fermes sans pesticides ni antibiotiques préventifs et nourries au fourrage maison, ce qui mettrait en danger mon exploitation conventionnelle, donc je vote non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.9,
+      "oui_proba": 0.08,
+      "raison": "Interdire les pesticides de synthèse en dix ans voudrait dire moins de rendement sur mes champs et mes prairies, et je n'accepte pas qu'on me dicte ma façon de travailler, donc je vote non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Ça ne me touche pas au quotidien et je ne vois pas de raison de l'interdire, mais le village et la famille restent assez traditionnels, donc je ne suis pas sûr de mon avis."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.12,
+      "raison": "Interdire l'expérimentation animale me paraît irréaliste, car la recherche vétérinaire sert à soigner nos bêtes et à protéger les gens, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour des frontières bien gardées et une coopération de sécurité avec l'Europe, même si l'UE me pèse, donc je serais plutôt pour le renforcement de Frontex."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.15,
+      "raison": "L'initiative voudrait imposer des normes bio à tous les élevages, y compris aux importations, ce qui rendrait ma production conventionnelle sur herbages trop chère à maintenir, donc je dis non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Il faut financer l'AVS pour que nos parents comme nous soyons couverts plus tard, même si la hausse de TVA et les cotisations des indépendants pèsent, donc je suis plutôt d'accord."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.9,
+      "oui_proba": 0.1,
+      "raison": "Cette initiative pourrait retirer des surfaces à nos prairies et imposer des contraintes lourdes aux exploitations, alors que nous faisons déjà beaucoup pour la nature, donc je vote non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Dans une exploitation familiale les revenus du couple sont souvent mêlés, et je crains que l'imposition individuelle complique les choses sans profiter forcément à la famille, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "La croissance de la population met la pression sur nos terres agricoles et sur les routes autour de Bulle, donc l'idée me parle, mais l'accord avec l'UE compte pour nos fromages à l'export, donc je reste hésitant."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "J'ai fait mon service et je trouve juste que ceux qui sont déjà à l'armée ne partent pas à la légère, mais les civilistes nous aident beaucoup sur les fermes, donc je suis partagé."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je tiens à la neutralité suisse et je partage une partie de la méfiance envers les blocs, mais l'initiative me paraît trop rigide sur les sanctions, donc je reste partagé."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.9,
+      "oui_proba": 0.08,
+      "raison": "Je produis du lait et de la viande sur herbages, et réduire les produits d'origine animale menacerait directement mon exploitation, même si l'idée d'un peu plus de production suisse me parle."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "La 13e rente est acquise et il faut la financer, mais une nouvelle hausse de TVA, même si les denrées alimentaires sont épargnées, me laisse perplexe, donc je ne suis pas encore décidé."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "Le bruit des feux d'artifice affole le bétail et je l'ai vu sur la ferme, mais le 1er août et les fêtes de village restent une tradition, donc je ne suis pas franchement pour l'interdiction."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je trouve normal que les couples mariés ne soient pas désavantagés, surtout quand le conjoint travaille sur l'exploitation, et je suis plutôt d'accord avec le Centre sur ce point, même si le coût pour l'État me gêne."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Je suis partagé: l'industrie et l'emploi comptent, mais l'idée de livrer des armes à un pays impliqué dans un conflit me gêne au regard de notre neutralité."
+    }
+  ]
+}

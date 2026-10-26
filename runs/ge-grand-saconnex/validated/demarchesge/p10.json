@@ -1,0 +1,17 @@
+{
+  "id": "p10",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je travaille en horaires décalés et je m'occupe seule de mes enfants, donc un questionnaire en ligne sur la Susette, un quartier qui ne me concerne pas directement depuis mes villas, m'est probablement passé sous les yeux sans que je prenne le temps de le remplir."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Les Marronniers ne sont pas mon quartier, le sondage en ligne de l'hiver 2024-2025 demandait du temps que je n'avais pas, et les rencontres en présentiel tombaient sur mes heures de travail ou de garde."
+    }
+  ]
+}

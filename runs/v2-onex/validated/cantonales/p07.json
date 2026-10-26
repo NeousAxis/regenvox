@@ -1,0 +1,29 @@
+{
+  "id": "p07",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "Proche des Vert-e-s, je trouve juste qu'une contraception remboursée pèse moins sur un couple avec enfants, et 20 millions par an me semblent un coût raisonnable malgré la recommandation de non du Conseil d'État."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Moins de voitures qui traversent la frontière chaque jour et de meilleurs bus ou tram pour Onex me paraissent utiles, même si je me méfie d'un financement d'infrastructures en France depuis le refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Habitant d'un grand ensemble, probablement locataire, je crains les congés-ventes et la disparition de logements abordables, et Les Vert-e-s comme l'ASLOCA appellent à dire non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Former du personnel compte, mais une baisse de 2 millions par an de l'indemnité de la HES ne me convainc pas, et Les Vert-e-s demandent de maintenir les 35 millions, donc je pencherais pour le non."
+    }
+  ]
+}

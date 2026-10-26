@@ -1,0 +1,39 @@
+{
+  "id": "p44",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un rendez-vous court, une heure maximum, en journée en semaine et annoncé deux mois à l'avance, avec un agriculteur de la commune présent pour expliquer ce qui fait vivre une ferme, pas seulement des intentions."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un atelier organisé sur une ferme de la commune, avec une visite et des chiffres clairs sur le prix payé au paysan, pour voir concrètement où va l'argent."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Un engagement écrit de la commune sur deux ou trois actions datées d'ici 2030, présentées au début de la séance, et une rencontre unique plutôt qu'une démarche qui dure des mois."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "La preuve, chiffres à l'appui, qu'un label ou un affichage rapporte de l'argent à la ferme. Sans cela, le sujet ne me concerne pas comme artisan."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, je peux le faire entre deux chantiers, sans bloquer une soirée ni parler devant des gens. C'est le seul format qui ne me demande pas de changer mon emploi du temps."
+}

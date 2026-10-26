@@ -1,0 +1,197 @@
+{
+  "id": "p53",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Je dépends de l'AVS pour ma retraite et le PS soutient ce financement, donc je vote oui et je me déplace."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Une hausse temporaire de la TVA pour sauver l'AI est un effort raisonnable qui suit la ligne du PS, même si l'invalidité ne me touche pas directement."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.75,
+      "raison": "Je suis contre le commerce d'armes et le PS comme les Verts soutiennent cette initiative, même si l'impact sur les régions industrielles m'inquiète un peu."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "J'ai fait mon service et je pense que le système de milice a encore du sens, même si la position du PS me rend hésitant."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.7,
+      "oui_proba": 0.12,
+      "raison": "Cette initiative mettrait en danger les accords avec l'UE qui font marcher notre économie régionale, et je fais confiance au PS qui s'y oppose."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je me méfie des dépenses d'armement et le PS est contre, donc je voterais non sans trop m'enflammer pour ce sujet."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je ne vois pas l'intérêt d'inscrire une définition du mariage dans la Constitution et le PS est contre, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "Je suis retraité et le financement de l'AVS me concerne directement, le supplément de 70 francs compte, même si le relèvement de l'âge des femmes me laisse hésitant."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "La dignité des animaux me parle et le PS soutient l'initiative, mais je me demande si le coût pour les paysans est justifié."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Je suis attaché au droit international et aux accords avec l'UE, et le PS s'oppose à cette initiative, donc je vote non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Reprendre la directive européenne sur les armes avec des exceptions raisonnables me paraît juste, et le PS soutient l'accord Schengen."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.1,
+      "raison": "Mettre fin à la libre circulation avec l'UE serait une erreur économique pour notre région, et le PS s'y oppose fermement."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la protection du loup et des espèces sauvages, et le PS a combattu cette révision, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Six milliards pour des avions de combat me paraissent excessifs et le PS est contre, même si je comprends la question de la sécurité."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Je suis favorable à ce qu'on arrête de financer les fabricants d'armes, et le PS comme les Verts soutiennent cette initiative."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "L'eau potable et les pesticides me préoccupent depuis longtemps et le PS soutient l'initiative, donc je vote oui."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je suis convaincu que les pesticides de synthèse doivent disparaître, même si le PLR et l'agriculture s'inquiètent des conséquences."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.92,
+      "raison": "L'égalité devant le mariage me paraît évidente et le PS soutient le texte sans réserve, donc je vote oui sans hésiter."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être des animaux, mais l'interdiction totale de la recherche me paraît excessive et tous les partis s'y opposent."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je me méfie d'une agence qui renforce les contrôles aux frontières et le PS s'y oppose, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.65,
+      "raison": "Je suis favorable à un élevage plus respectueux des animaux et le PS soutient l'initiative, mais je reste sensible aux prix alimentaires avec une retraite modeste."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "L'AVS m'importe, mais le PS a combattu le relèvement de l'âge de la retraite des femmes, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "La nature autour de Delémont compte pour moi et le PS soutient l'initiative, donc je vote oui."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je soutiens l'égalité entre personnes mariées et le PS est pour, mais la fiscalité de notre couple me laisse un doute."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.08,
+      "raison": "Un plafond de population à 10 millions et la menace sur la libre circulation me semblent dangereux, et le PS s'y oppose."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je suis contre le durcissement des conditions pour les personnes qui veulent faire le service civil et le PS est contre, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je suis attaché à la neutralité, mais une neutralité armée et l'interdiction de sanctions me paraissent rigides et le PS s'y oppose."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je partage l'objectif de moins de pesticides et d'eau propre, mais 70 pour cent d'alimentation produite localement me semble irréaliste et le PS a recommandé non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.9,
+      "raison": "Je touche la 13e rente AVS et je trouve juste de la financer, le PS et le Centre soutiennent le texte, donc je vote oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Le bruit des pétards me dérange en vieille ville et les animaux en souffrent, mais je tiens aux feux du 1er août, donc je suis partagé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Le peuple a déjà accepté l'imposition individuelle, je vois mal revenir en arrière et les Verts sont contre, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Assouplir les exportations d'armes vers des pays en conflit contredit la neutralité que je défends et le PS est contre, donc je vote non."
+    }
+  ]
+}

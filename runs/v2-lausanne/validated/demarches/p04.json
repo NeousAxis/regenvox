@@ -1,0 +1,65 @@
+{
+  "id": "p04",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Le sondage n'était annoncé que sur le site des établissements et sur les réseaux de la Ville, et les ateliers tombaient un samedi après-midi, jour où je travaille souvent, donc je ne l'ai probablement pas vu."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Ce premier budget participatif, pilote et sans bulletin à domicile, supposait de connaître le dispositif et de penser à voter en ligne ou en urne, ce qui était rare pour moi à l'époque."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Le vote se faisait en ligne ou aux stands du marché pendant la pandémie, et entre mes chantiers et mes enfants je n'ai pas pris le temps de m'y intéresser."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "Le plan d'affectation touche directement mon métier de constructeur, donc je pourrais répondre à un sondage de cinq minutes, mais les soirées et les balades pendant le Covid ne m'attiraient pas."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin affranchi arrive dans la boîte aux lettres, ce qui facilite le vote, mais je le range souvent entre deux chantiers, même si en famille on en a peut-être parlé."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Le questionnaire n'était accessible qu'en ligne et annoncé par communiqué de presse, donc peu visible pour moi, même si la fermeture des quais gênait un peu mes déplacements en camionnette."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.09,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin arrive à domicile et les jeunes ambassadeurs passent dans les quartiers, mais la plupart des projets me semblent loin de mon quotidien d'artisan."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Le sujet me touche comme étranger installé ici, mais la consultation se faisait surtout en ligne ou dans des lieux que je fréquente peu, et je ne parle pas souvent de ces questions autour de moi."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.16,
+      "raison": "Le bulletin nominatif arrive à toute la famille, ce qui donne parfois lieu à une discussion, mais je n'en fais pas une priorité entre mes chantiers et l'école des enfants."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin à domicile et les projets concrets du quartier m'intéressent un peu, mais août et septembre sont la pleine saison des chantiers, et je risque de l'oublier."
+    }
+  ]
+}

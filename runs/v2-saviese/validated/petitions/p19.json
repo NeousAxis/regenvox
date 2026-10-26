@@ -1,0 +1,125 @@
+{
+  "id": "p19",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Une pétition d'étudiants lausannois sur un logiciel de surveillance à l'EPFL ne me concerne pas et je ne la lirais probablement pas jusqu'au bout."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les canicules de cet été m'ont marquée sur le coteau, mais une lettre ouverte qui réclame un plan climatique et la fin des énergies fossiles ne correspond pas à ce que je veux voir décidé."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Campax attaque l'initiative UDC sur les frontières, ce qui me hérisse, je ne signerai pas, et je ne vois pas pourquoi je la relayerais."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "Une affaire genevoise entre un député et la CICAD, sur fond de Gaza, ne me concerne pas et ce type d'appel militant ne m'attire pas."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "J'entends parler des jeunes qui abusent du protoxyde d'azote, mais c'est une affaire genevoise et je signe rarement une pétition sans être touchée directement."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Une pétition en anglais de professionnels de la santé sur les placements de ma caisse de pension m'intéresse un peu, mais je ne veux pas qu'on me dicte où mon 2e pilier doit investir."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Une caisse cantonale me paraîtrait intéressante vu la hausse des primes, mais le texte se dit lui-même fictif et laisse entrer des assureurs privés, ce qui brouille tout."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "L'AVS me préoccupe à mon âge, mais cette pétition des jeunes Vert'libéraux mêle cannabis et réforme des retraites, ce qui me fait décrocher."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Un local social à Versoix, dans le canton de Genève, ne me concerne pas et je n'ai aucune raison de m'y intéresser."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Ce témoignage de deuil me touche et je comprends le besoin de protection, mais je signe rarement ce genre de texte et je n'aurais pas le réflexe de le partager."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je sais que les délais pour voir un psy sont longs, mais cette motion parlementaire et la défense des psychologues me paraissent techniques et lointaines de mon quotidien."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "La ferme d'agrumes de Borex est sympathique, mais je ne la connais pas et je ne signe pas pour une commune vaudoise qui n'est pas la mienne."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "Une maison d'accueil pour femmes me touche comme femme, mais le Jura est loin de Savièse et les pétitions de Campax se multiplient, donc je passe souvent mon chemin."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La chaleur à Lausanne me concerne peu, et une pétition de la section vaudoise des Vert'libéraux pour un tram ombragé ne m'interpelle pas."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Je ne suis pas favorable à suspendre les renvois, et cet appel vient d'un camp dont je ne partage pas les convictions sur l'asile, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La formation à temps partiel pour les jeunes en situation de handicap est un sujet que je connais peu, et le texte réclame une réforme lourde qui ne me parle pas."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Être filmée à mon insu au travail m'inquiète vraiment, donc l'appel me parle, mais je me méfie des interdictions générales et je ne signe pas souvent de pétitions."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Cet appel militant et très général pour un tournant écologique limiterait la consommation, et je n'ai pas envie que l'État me dicte ce que j'achète."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Les forêts au-dessus de Savièse me tiennent à cœur et les sécheresses se voient, mais la pétition vise un projet de Rösti, un conseiller fédéral de mon camp, et je n'aime pas la signer contre lui."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.12,
+      "partage_proba": 0.09,
+      "raison": "Je travaille dans la restauration et je sais que les soirées ont leurs dangers, donc ce sujet des drogues qui facilitent les abus me touche, même si le texte reste vague sur ce que l'État doit faire."
+    }
+  ]
+}

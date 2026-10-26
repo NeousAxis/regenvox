@@ -1,0 +1,29 @@
+{
+  "id": "p04",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Le Centre dit oui et je comprends que certaines femmes n'aient pas les moyens de payer la pilule, mais jusqu'à 20 millions par an pris sur les impôts me font hésiter, et je ne suis pas sûre que ce soit à l'État de tout prendre en charge."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Les bouchons du matin à la frontière me pèsent comme à tout le monde et les bus et trams utiles me semblent bienvenus, mais que l'argent genevois finance des projets en France me gêne, et le refus de 2014 me revient en mémoire."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Je suis attachée à la propriété et je trouve normal qu'un locataire installé depuis des années puisse acheter son appartement, surtout si le prix est plafonné, même si je me méfie des congés-ventes qui chassent les gens de leur immeuble."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je ne suis pas directement concernée par la HES, mais les écoles qui forment des professionnels utiles doivent être financées, et deux millions de moins par an me paraissent raisonnables, même si la gauche et les Verts critiquent."
+    }
+  ]
+}

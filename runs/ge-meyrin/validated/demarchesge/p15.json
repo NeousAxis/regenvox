@@ -1,0 +1,17 @@
+{
+  "id": "p15",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Atelier de deux heures un samedi après-midi à Cointrin, annoncé par des flyers dans les boîtes de ce quartier et pas dans la mienne. Seul et sans lien avec Cointrin, je n'y serais probablement pas allé."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "Les assises de la culture ne me concernent pas directement : il aurait fallu remplir un questionnaire en ligne ou venir à une rencontre, et je n'ai pas le réflexe de répondre à ce genre d'enquête sans une relance. La culture revient peu dans mes conversations."
+    }
+  ]
+}

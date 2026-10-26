@@ -1,0 +1,63 @@
+{
+  "id": "p25",
+  "portrait": "J'ai 54 ans, je travaille dans l'industrie, à l'usine de la zone d'activités, et je vis au centre du village avec mon conjoint, nos enfants sont partis depuis un moment. Je suis étrangère et je vis en Suisse depuis longtemps, mais je ne me mêle pas beaucoup de politique : ce qui compte pour moi, c'est le travail, le coût de la vie et que les choses restent simples.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les paysans travaillent dur, leurs journées ne se comptent pas, et à la fin du mois ça ne suffit pas toujours. Si le bio peut les aider à mieux vivre, je veux bien en entendre parler. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je finis tard à l'usine, donc les réunions en journée en semaine ne me conviennent pas",
+        "je ne me sens pas à l'aise dans les débats où l'on parle beaucoup sans rien conclure",
+        "je pense que ce sont d'abord les agriculteurs qui doivent décider de leur métier"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée au centre du village, avec des agriculteurs présents pour expliquer leurs chiffres réels, et un petit repas partagé plutôt qu'une présentation d'idées."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Acheter directement au paysan, je veux bien, mais le bio coûte plus cher et avec mon salaire je dois regarder chaque prix. On ne peut pas nous demander d'être partenaires sans nous dire combien ça coûte. »",
+      "engagement": 0,
+      "freins_participation": [
+        "le budget : les produits bio restent chers pour un ménage comme le nôtre",
+        "l'impression que la commune décide déjà et que les habitants ne font que suivre",
+        "pas le temps après une journée de travail"
+      ],
+      "ce_qui_me_ferait_venir": "Des prix accessibles, une vente directe dans le village, et des exemples concrets de voisins qui y arrivent sans se ruiner."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 1,
+      "citation": "« Trente ans, c'est loin. Moi je pense à demain et à la retraite qui se rapproche. Les jeunes décideront de la terre qu'ils voudront. »",
+      "engagement": 0,
+      "freins_participation": [
+        "la question me paraît trop abstraite",
+        "je n'ai pas l'habitude de ce genre de réflexion sur l'avenir de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on m'explique ce que ça change pour ma vie de tous les jours dans la commune : les impôts, les emplois, l'eau au robinet."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« On voit les fermes tous les jours en passant, mais on ne sait pas trop ce qu'elles font pour l'eau et les animaux. Pourquoi pas une reconnaissance, si ça ne coûte pas trop cher à la commune. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne vois pas bien ce que je pourrais apporter",
+        "je me méfie un peu des labels et des belles phrases",
+        "je n'ai pas beaucoup de temps libre pour m'en occuper"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme organisée le samedi matin, pour voir sur place et poser mes questions."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "collègues de l'usine, voisins de l'immeuble et du centre du village, quelques proches de la famille élargie qui écoutent son avis sur le quotidien"
+  },
+  "votes": []
+}

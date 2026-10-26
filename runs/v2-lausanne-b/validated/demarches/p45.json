@@ -1,0 +1,65 @@
+{
+  "id": "p45",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "À 11 ans, je ne me sentais pas concernée par l'avenir de l'Auberge de Sauvabelin et je n'ai jamais entendu parler de ce sondage."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "À 13 ans, ce budget participatif pilote me passait largement au-dessus de la tête, et je n'ai sans doute pas voté, même si mes parents en ont peut-être discuté."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "À 14 ans, en pleine pandémie et loin de la vie de mon quartier, je n'ai probablement pas voté, même si j'ai pu entendre parler du budget participatif à la maison."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Un plan d'affectation pour 2030 paraît très loin d'une adolescente de 14 ans qui vit dans un quartier de villas, et les soirées d'information comme les balades sur inscription ne m'attiraient pas du tout."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi arrive dans la boîte aux lettres de la famille, donc je pourrais le remplir avec mes parents, mais à 15 ans je n'en ai pas fait une priorité et je n'en parle guère."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "Ce questionnaire concerne surtout ceux qui fréquentent les quais d'Ouchy et de Belgique, et je n'ai pas pensé à y répondre pendant le mois où il était ouvert."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Voter en ligne ou avec le bulletin reçu à domicile est facile, mais à 16 ans je ne me sens pas encore assez concernée par les projets de quartier, et j'en parle seulement si ma famille s'en mêle."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "La lutte contre le racisme me touche, mais la consultation était peu annoncée et je n'ai probablement pas pris le temps d'y répondre à 16 ans."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin nominatif arrive à mon nom, ce qui rend le vote tentant, et je pourrais en parler avec ma famille, même si je ne vote pas encore régulièrement sur ces projets."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.22,
+      "raison": "Adulte, domiciliée à Lausanne et sensible à la convivialité et à la nature, je pourrais voter en ligne ou avec le bulletin reçu, mais mon emploi du temps de jeune employée et la faible visibilité des projets me freinent."
+    }
+  ]
+}

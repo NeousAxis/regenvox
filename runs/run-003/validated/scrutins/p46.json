@@ -1,0 +1,95 @@
+{
+  "id": "p46",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je suis favorable à une armée capable de se défendre, et le renouvellement des avions de combat me paraît une dépense logique. Je reste attentive au coût, mais je voterais plutôt oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je suis en couple et je tiens à la responsabilité de chacun, donc les questions d'impôts et d'assurances me touchent. Je n'aime pas inscrire un modèle de famille dans la Constitution, je pencherais donc pour le non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.55,
+      "raison": "J'ai 37 ans et je travaille dans le social, je vois de près la fragilité des rentes. Je n'aime pas financer l'AVS par la TVA, mais la réforme me paraît nécessaire, donc je voterais oui à contrecœur."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je me méfie des décisions prises de loin, donc l'idée que la Constitution suisse passe avant le droit international me parle. Mais je crois aux accords avec nos voisins et je trouve l'initiative trop radicale, donc je pencherais pour le non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Dans mon travail, beaucoup de collègues et de familles viennent d'ailleurs, et la libre circulation a facilité le recrutement de personnel qualifié. Je ne veux pas casser les accords avec l'Union européenne, donc je vote non, même si je comprends la question de la maîtrise de l'immigration."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.55,
+      "raison": "La sécurité du pays fait partie des tâches de l'État et je soutiens l'armée. Le plafond de 6 milliards me fait hésiter quand on manque de moyens dans le social, mais je voterais oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Je travaille dans la santé et je sais que les progrès médicaux passent par la recherche, y compris sur des modèles animaux encadrés. Une interdiction totale me paraît dangereuse, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Je vis dans une région où de nombreuses exploitations laitières entretiennent le paysage, et je fais confiance aux contrôles qui existent. Imposer des normes sur vingt-cinq ans et aux importations me paraît trop lourd, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.65,
+      "raison": "L'âge de la retraite des femmes à 65 ans me concerne directement, mais la réforme prévoit des compensations et les rentes doivent être financées. Je voterais oui, en acceptant la TVA comme un moindre mal."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je suis attachée à la neutralité et à la médiation, mais je ne veux pas isoler la Suisse des sanctions prises avec nos partenaires. L'idée d'une armée perpétuelle et d'une neutralité inscrite à vie me paraît rigide, donc je voterais plutôt non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "J'aime l'idée d'une alimentation plus locale, mais l'objectif de 70 % d'aliments indigènes et la baisse de la production animale touchent directement les éleveurs de ma région. Les règles sur les engrais et les produits phytosanitaires viennent de loin, donc je voterais plutôt non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je comprends qu'il faille financer la 13e rente, mais une nouvelle hausse de la TVA touche tout le monde, y compris les familles et les salaires modestes. Je pencherais pour le non et j'attendrais d'abord des économies sur le système."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Les pétards dérangent les enfants, les animaux et les personnes fragiles, surtout dans un quartier résidentiel. Mais je tiens à la liberté de chacun et aux traditions, donc j'hésiterais entre une interdiction et des exceptions locales."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "L'imposition individuelle acceptée en mars me paraît plus juste pour chacun, et elle protège le travail des femmes. Je ne reviendrais donc pas à l'imposition commune, et je voterais non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Je suis favorable à une industrie suisse de l'armement qui ne soit pas bridée par des règles trop strictes, mais la neutralité me préoccupe beaucoup quand des conflits armés sont en cause. Je suis partagée, je pencherais pour le oui sans être convaincue."
+    }
+  ]
+}

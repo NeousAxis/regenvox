@@ -1,0 +1,65 @@
+{
+  "id": "p30",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je fréquente parfois Sauvabelin, mais je n'ai probablement pas vu l'annonce du sondage et l'avenir d'une auberge ne m'aurait pas mobilisée, donc je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Ce premier budget participatif m'est passé à côté, car voter demande de se connecter ou de passer à une urne et je n'avais pas de projet de quartier à soutenir, donc j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "En 2020, entre le Covid, le travail et les enfants à la maison, je n'ai pas suivi ce vote de quartier, même si l'idée me parle un peu, et je n'en ai guère parlé."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Le PACom touche directement mon quartier de villas et de zone foraine, donc un sondage de cinq minutes aurait pu me tenter, et les constructions du coin sont un sujet dont on parle entre voisins."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin affranchi envoyé à domicile facilite le vote, mais je ne suis pas une participante régulière et l'automne est chargé, donc je n'ai sans doute pas voté ni vraiment parlé de ces projets."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Je ne fréquente pas beaucoup les quais d'Ouchy, donc je n'aurais répondu au questionnaire qu'en cas d'agacement sur la circulation, un sujet qui peut toutefois revenir à table ou au travail."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin reçu à domicile pourrait m'inciter à voter, mais je n'ai pas de projet de quartier qui m'interpelle et l'automne avec les enfants reste très chargé, donc je n'en ai pas beaucoup parlé."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "Le sujet est important mais ne me concerne pas directement au quotidien, je n'ai probablement pas vu cette consultation et je n'en aurais pas parlé spontanément."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin nominatif envoyé à toute la famille peut donner envie de voter avec les enfants, mais le geste reste facultatif et je n'ai pas de projet précis à soutenir, donc j'en ai peut-être discuté un peu à la maison."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Le vote à domicile est pratique, mais l'enveloppe reste modeste au regard de mes priorités et je ne me souviens pas d'un projet qui m'aurait poussée à voter ni à en parler."
+    }
+  ]
+}

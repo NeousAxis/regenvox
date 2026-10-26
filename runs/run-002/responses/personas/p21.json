@@ -1,0 +1,64 @@
+{
+  "id": "p21",
+  "portrait": "J'ai 44 ans et je travaille comme employé de bureau dans une entreprise de la région. Je suis étranger, installé en Suisse, et je vis seul avec mes enfants dans un quartier résidentiel récent de Vuadens, où je connais peu les familles du village. Mon quotidien tourne autour du travail, des enfants et du budget, et la question agricole me paraît plutôt lointaine, même si je prends des produits d'ici quand ça tient dans mes courses.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les paysans doivent pouvoir vivre de leur travail, ça me paraît normal, mais je ne vois pas bien qui paie le bio au final, et moi je regarde d'abord le prix au magasin.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas de lien direct avec les fermes du village",
+        "Je rentre tard du travail et je n'ai pas de solution de garde pour les enfants",
+        "Le sujet me semble technique et réservé à ceux qui sont déjà dans le milieu"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que touche un agriculteur et ce que coûte vraiment le bio pour une famille, et une soirée à un horaire compatible avec mon travail, avec une garde pour les enfants."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement à une ferme du coin, pourquoi pas, mais il faut que ça rentre dans le budget avec les enfants et que ce ne soit pas une corvée d'aller la chercher.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le budget d'une famille monoparentale est serré",
+        "Le temps manque pour les déplacements et les rendez-vous",
+        "Je ne suis pas sûr que mon avis compte beaucoup"
+      ],
+      "ce_qui_me_ferait_venir": "Des formules souples, sans engagement lourd, un point de retrait près du quartier, et la possibilité de visiter la ferme avec les enfants le samedi."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Pour mes enfants, c'est une vraie question, mais dans trente ans personne ne sait vraiment ce qu'ils feront, je préfère qu'on parle d'abord de ce qui se passe maintenant.",
+      "engagement": 1,
+      "freins_participation": [
+        "La question me semble trop lointaine pour une discussion concrète",
+        "Je ne connais pas les acteurs agricoles de la commune",
+        "Je n'ai pas le temps de suivre plusieurs réunions"
+      ],
+      "ce_qui_me_ferait_venir": "Un lien avec ce que vivent mes enfants aujourd'hui à l'école ou dans le quartier, par exemple des activités autour de la nature ou de la ferme, plutôt qu'un débat sur l'avenir."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Les agriculteurs font déjà leur travail, je ne suis pas sûr qu'il faille une reconnaissance de plus, surtout si ça sert à mettre en avant des projets venus d'en haut.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je me méfie des démarches lancées par la commune ou l'administration",
+        "Je n'ai pas l'impression que ça change quelque chose à ma vie",
+        "Les discours sur l'environnement me paraissent souvent déconnectés du terrain"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples concrets de ce que les fermes apportent au village, et la preuve que ça ne finira pas par des contraintes ou des coûts supplémentaires pour les habitants."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 8,
+    "role": "suiveur",
+    "cercle_type": "Quelques parents de l'école, deux ou trois collègues de travail et des voisins du quartier, avec peu de liens dans le milieu agricole local."
+  },
+  "votes": []
+}

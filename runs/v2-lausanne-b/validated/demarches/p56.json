@@ -1,0 +1,65 @@
+{
+  "id": "p56",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.005,
+      "partage_proba": 0.02,
+      "raison": "J'avais 12 ans, le sondage visait les usagers du lac de Sauvabelin et je n'aurais rien su de la démarche sans un adulte qui en parle à la maison."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "À 14 ans, le projet pilote de budget participatif ne m'a pas touchée, je n'en ai pas entendu parler autour de moi et le vote ne me semblait pas fait pour une adolescente."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Pendant la crise sanitaire, entre l'école et les restrictions, le vote des projets de quartier n'a pas retenu mon attention, même si j'ai pu voir passer une affiche."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Le grand sondage sur le PACom était ouvert à tous, mais à 15 ans je n'ai pas cherché à m'exprimer sur l'urbanisme et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin est arrivé dans la boîte aux lettres de la famille, mes parents l'ont peut-être rempli, mais je ne me sentais pas vraiment concernée à 16 ans et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je ne fréquentais pas les quais d'Ouchy à l'époque, le questionnaire était peu visible pendant la crise sanitaire et je n'ai pas eu d'occasion d'en parler."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif m'aurait peut-être été envoyé à 17 ans, mais voter pour des projets de quartier restait loin de mes priorités d'alors et je n'ai guère parlé de la démarche."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Le thème du racisme me touche en tant qu'étrangère, mais la consultation était peu annoncée, je ne l'ai pas remarquée et je n'en aurais parlé à mes amies que si on me l'avait signalée."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "À 18 ans, le bulletin nominatif m'est parvenu à mon nom, je l'ai peut-être retourné ou voté en ligne sans grande conviction, et je n'en ai parlé qu'à quelques proches."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "À 20 ans, les projets sur la convivialité et le sport de proximité me parlent, le vote en ligne est simple et j'en aurais discuté avec mon partenaire, mais je reste peu impliquée dans la vie du quartier."
+    }
+  ]
+}

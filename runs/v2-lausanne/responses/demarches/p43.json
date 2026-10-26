@@ -1,0 +1,15 @@
+{
+  "id": "p43",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "À 17 ans, je ne me sentais pas concernée par les établissements du lac de Sauvabelin, et je n'ai ni vu ni rempli le sondage."},
+    {"item_id": "lau01", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "À 19 ans, en pleines études, j'ai peut-être entendu parler du premier budget participatif sans jamais voter ni déposer de projet."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "En 2020, avec la pandémie, les stands et les ateliers ont peu compté pour moi, et je n'ai probablement pas voté pour les projets."},
+    {"item_id": "lau10", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Le grand sondage sur le plan d'affectation n'avait pas de lien avec mon quotidien à 20 ans, je ne l'ai sans doute pas rempli."},
+    {"item_id": "lau03", "participe_proba": 0.10, "partage_proba": 0.08, "raison": "Le bulletin envoyé à chaque foyer m'a donné une occasion de voter à 21 ans, mais la plupart du temps je le laisse de côté."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Je fréquente peu les quais d'Ouchy, et un questionnaire d'une quinzaine de questions ne m'a pas accrochée à 21 ans."},
+    {"item_id": "lau04", "participe_proba": 0.10, "partage_proba": 0.10, "raison": "À 22 ans, le bulletin préaffranchi reçu à domicile a pu me conduire à voter, mais ce geste ne fait pas partie de ma routine."},
+    {"item_id": "lau09", "participe_proba": 0.03, "partage_proba": 0.07, "raison": "Le sujet du racisme me touche par mon travail social et éducatif, mais je n'ai probablement pas répondu au questionnaire, et j'en aurais peut-être parlé à des collègues."},
+    {"item_id": "lau05", "participe_proba": 0.12, "partage_proba": 0.10, "raison": "Le bulletin nominatif m'est arrivé à 23 ans, et je l'ai peut-être renvoyé, mais la plupart des habitants ne prennent pas le temps de voter."},
+    {"item_id": "lau06", "participe_proba": 0.14, "partage_proba": 0.12, "raison": "À 25 ans, avec un bulletin reçu à domicile et un vote en ligne simple, j'ai peut-être choisi quelques projets de mon quartier, sans beaucoup y penser."}
+  ]
+}

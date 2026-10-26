@@ -1,0 +1,29 @@
+{
+  "id": "p13",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.85,
+      "oui_proba": 0.92,
+      "raison": "Je vois chaque jour des femmes et des jeunes renoncer à une contraception efficace à cause de son prix, donc je voterai oui malgré la recommandation du Conseil d'État."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Je suis favorable à tout ce qui réduit le trafic automobile à la frontière et renforce les transports publics, même si je regrette que l'argent genevois serve à financer des projets en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "Je crains que la vente des appartements aux locataires ne réduise l'offre de logements abordables, et je rejoins la position des Vert-e-s et de l'ASLOCA, donc je voterai non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à la formation des soignants et des travailleurs sociaux, mais je ne veux pas cautionner une baisse de l'indemnité de la HES-SO alors que le comité demande de maintenir 35 millions, donc je pencherai pour le non."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p39",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "À 20 ans je connaissais à peine Sauvabelin et l'avenir d'une auberge au bord du lac ne me concernait pas, donc je n'ai ni répondu au sondage ni rien dit à personne."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "En 2019, à 21 ans, je ne connaissais le budget participatif que de loin, sans assez d'intérêt pour aller voter une fois ou en parler autour de moi."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Le vote en ligne ne prenait que quelques minutes, mais pendant la pandémie l'annonce m'a échappé et je n'en ai guère parlé autour de moi."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Le sondage de cinq minutes m'aurait pris peu de temps, mais je n'ai pas suivi les soirées d'information et le plan d'affectation me semblait trop lointain pour que j'y réponde."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin arrivé dans la boîte aux lettres pourrait me faire voter une fois, mais je ne suis pas de ceux qui suivent ces appels et je n'en parle guère."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je fréquente peu les quais d'Ouchy et de Belgique et je ne tombe pas souvent sur les annonces de la Ville, donc je n'ai sans doute rien rempli ni relayé."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin reçu à domicile me permet de voter sans effort, mais je n'ai pas suivi les projets ni déposé d'idée, et je n'en parle que si quelqu'un me pose la question."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.12,
+      "partage_proba": 0.09,
+      "raison": "Le sujet me touche de près en tant qu'étranger, et les maisons de quartier où je passe parfois avec mes enfants déposaient des questionnaires, mais je n'ai pas forcément remarqué celui-ci ni eu envie d'en parler."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin nominatif est arrivé chez moi et voter ne prend que quelques minutes, mais je n'ai pas suivi la liste des projets et l'occasion d'en discuter ne s'est pas présentée."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.11,
+      "raison": "Je vis au centre et je passe souvent devant la cabine de la Rue centrale, donc j'ai une vraie chance de voter, mais je ne me sens pas très concerné et je n'en parle que si on me le demande."
+    }
+  ]
+}

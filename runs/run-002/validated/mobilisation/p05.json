@@ -1,0 +1,39 @@
+{
+  "id": "p05",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une garantie que la hausse de prix du bio ne retombera pas sur le budget des familles, par exemple une aide communale sur les achats de produits locaux."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.2,
+      "ce_qui_doublerait_ma_venue": "Une liste claire et à jour des fermes du village qui vendent en direct, avec leurs horaires de retrait, sans adhésion ni engagement long."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur l'école et le quartier de mes enfants, plutôt que sur la terre dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Savoir concrètement ce que cette reconnaissance change au quotidien pour les habitants, et qui en profite."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le format le plus simple pour moi : dix minutes sur mon téléphone, quand j'ai un moment, sans soirée à organiser et sans suivre trois séquences sur trois semaines. Un atelier en soirée tombe mal avec la famille, et je ne m'engage pas sur plusieurs semaines."
+}

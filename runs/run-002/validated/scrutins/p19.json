@@ -1,0 +1,95 @@
+{
+  "id": "p19",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter en 2014, donc je n'ai pas participé à ce scrutin."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter en 2016, et ce sujet du mariage ne me concerne pas directement à la ferme."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Je viens tout juste d'avoir l'âge de voter, et je n'y vais pas forcément. La retraite me paraît lointaine, et une hausse de TVA pèse sur le budget de la famille sans rien apporter à la ferme."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "L'indépendance du pays me parle, mais ce qui compte pour la ferme, ce sont les accords qui gardent nos marchés ouverts. Je ne suis pas sûr de vouloir les remettre en question."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Ce scrutin sur l'immigration mobilise, donc je vais voter. Je comprends le besoin de maîtriser les arrivées, mais je crains qu'une rupture avec l'UE complique les échanges et la main-d'œuvre sur les exploitations."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Six milliards pour des avions de combat, ça coûte cher alors que la terre manque de moyens. Je ne suis pas opposé à l'armée, mais j'attends de voir ce que le projet apporte concrètement."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à la protection des animaux, mais je ne veux pas fermer la recherche médicale sans savoir ce qui la remplace. Ce thème ne me mobilise pas beaucoup."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Ce scrutin me concerne directement, car notre exploitation élève déjà les vaches au pâturage en bio. Une exigence au niveau du cahier des charges bio pour tout le pays, importations comprises, serait juste pour ceux qui font les efforts, même si la transition me fait peur pour les autres."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Une hausse de TVA pour l'AVS ne me semble pas utile pour la ferme, et je n'ai pas de raison particulière de soutenir la réforme liée. Je vote régulièrement, donc j'y vais, mais sans enthousiasme."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "La neutralité fait partie de notre identité, donc le thème me parle. Mais l'initiative figerait trop les mains du Conseil fédéral sur les sanctions, et je ne suis pas certain de vouloir l'inscrire dans la Constitution."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "Ce scrutin me touche directement. Produire davantage ici et utiliser moins de produits phytosanitaires va dans le sens de mon exploitation bio, mais viser moins d'aliments d'origine animale menace mon élevage laitier. Je me méfie d'un objectif de 70 % sans les moyens pour ceux qui travaillent la terre."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Les denrées alimentaires ne seraient pas touchées, ce qui est un point positif pour la ferme. Mais je ne vois pas pourquoi ma génération financerait la 13e rente, donc je reste plutôt réservé."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Les pétards affolent les animaux, nos vaches et nos chevaux souffrent du bruit, et ça finit parfois par des accidents. Je suis pour limiter les pièces bruyantes tout en gardant les grandes fêtes officielles."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je suis seul avec mes enfants, donc ce sujet ne me touche pas directement. Je comprends l'idée d'un impôt plus juste pour les couples mariés, mais le coût pour la Confédération me semble élevé et ce n'est pas ma priorité."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas à l'aise avec l'idée de livrer des armes à des pays en guerre, la neutralité devrait primer. Mais l'industrie suisse a besoin de débouchés, donc je ne suis pas totalement fermé à la réforme."
+    }
+  ]
+}

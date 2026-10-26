@@ -1,0 +1,29 @@
+{
+  "id": "p39",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Sans condition de revenu, une vingtaine de millions par an pour la collectivité me paraît trop, d'autant que la contraception relève surtout de choix personnels."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Les bouchons à la frontière me touchent tous les jours et des transports plus rapides font sens pour Meyrin, mais je n'aime pas financer des infrastructures en France, surtout après le refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je suis favorable à ce que les locataires qui le souhaitent puissent acheter leur logement, mais je reste attentif au risque de congés-ventes pour les autres locataires."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "La HES-SO forme des professionnels dont le canton a besoin, et une baisse de 2 millions par an me paraît raisonnable dans le contexte budgétaire."
+    }
+  ]
+}

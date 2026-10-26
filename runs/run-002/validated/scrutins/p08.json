@@ -1,0 +1,95 @@
+{
+  "id": "p08",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Une dépense importante pour des avions de combat, alors que le budget des communes et des écoles est serré, ne me convainc pas. Je garde un doute, car les contrats compensatoires pourraient profiter à l'industrie suisse."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je suis d'accord que les couples mariés ne doivent pas être pénalisés, surtout quand les deux travaillent, mais inscrire dans la Constitution que le mariage est l'union d'un homme et d'une femme ne me plaît pas. Je ne me sens pas assez concernée pour me déplacer pour ça."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.08,
+      "raison": "Relever la TVA pour financer une réforme qui fait travailler les femmes un an de plus, c'est non pour moi. Le supplément de 70 francs ne compense pas ce recul, surtout pour celles qui font des métiers pénibles."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.55,
+      "oui_proba": 0.07,
+      "raison": "Les accords avec l'Union européenne protègent les salaires et les emplois de la région, et je ne veux pas les mettre en danger pour un principe. C'est un texte de l'UDC, et je m'y oppose."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Je comprends les inquiétudes sur les salaires et la pression sur l'emploi dans l'industrie, mais la solution est de mieux protéger les salaires, pas de couper les accords. Mettre fin à la libre circulation nous coûterait des emplois et des échanges."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "Six milliards pour de nouveaux avions de combat, alors qu'il manque des moyens pour les crèches, les hôpitaux et les salaires, c'est trop. Je reconnais l'importance de la défense, mais je voterais non."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être des animaux, mais l'interdiction toucherait la recherche médicale et les emplois de l'industrie, et je ne vois pas de solution de remplacement claire."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Mieux traiter les animaux, je suis pour, mais imposer les normes Bio Suisse aux importations et une transition de 25 ans touche directement les fermes du village et notre fromagerie. Je pencherais pour le non, par solidarité avec les paysans que je croise tous les jours."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Ma génération et les femmes sont directement concernées par AVS 21, et les mesures de compensation me semblent indispensables. La TVA me gêne, mais je la vois comme le prix d'une retraite plus sûre pour celles qui travaillent dur."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à la neutralité et à la médiation, mais interdire les sanctions contre un pays agresseur me paraît trop rigide. Je pencherais pour le non, sans être certaine."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Moins de pesticides et une eau potable mieux protégée, je suis pour, et le village tient à ses paysans et à sa fromagerie. Mais 70 % d'aliments produits ici en dix ans et moins de produits animaux peuvent faire monter les prix pour les familles qui comptent chaque franc."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "La 13e rente AVS est une avancée pour les retraités modestes, et il faut bien la financer. La TVA ne touche ni les aliments ni les médicaments, donc je dis oui, même si je préférerais un autre mode de financement."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Le bruit des pétards effraie les animaux de la ferme et les chiens, et la nature en souffre. Garder les pièces peu bruyantes et les exceptions pour le 1er août me semble raisonnable, donc je pencherais pour le oui."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Le peuple a déjà accepté l'imposition individuelle en mars, et une femme qui travaille ne doit pas être désavantagée par son couple. Je ne veux pas revenir en arrière pour un allègement qui profiterait surtout aux ménages aisés."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.08,
+      "raison": "Je ne veux pas que la Suisse livre des armes à des pays impliqués dans une guerre, ni qu'on supprime l'obligation de ne pas réexporter sans accord. La neutralité doit rester une ligne claire, donc je voterais non."
+    }
+  ]
+}

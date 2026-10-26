@@ -1,0 +1,17 @@
+{
+  "id": "p42",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 2,
+    "citation": "Le bio c'est une bonne idée sur le papier, mais au magasin le lait bio coûte bien plus cher, et avec le loyer et les équipes à l'usine je regarde d'abord le prix. Les terres, c'est le boulot des paysans, moi je ne suis pas paysan.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille en équipes et les horaires ne me laissent pas le temps d'aller aux soirées d'information",
+      "Je ne peux pas voter aux fédérales, donc j'ai l'impression que ces décisions se prennent sans moi",
+      "Le bio coûte plus cher et mon budget de ménage est serré avec le loyer",
+      "Je connais peu le sujet et je ne veux pas donner un avis sur les terres des agriculteurs",
+      "Je me méfie des objectifs chiffrés annoncés sans dire qui paie"
+    ],
+    "ce_qui_me_ferait_venir": "Que le bio soit accessible dans les magasins du village à un prix raisonnable, et qu'on m'explique concrètement ce que ça change pour mon assiette et pour le travail dans la zone industrielle. Un atelier le samedi matin ou un repas ouvert avec des producteurs du coin, dans un français simple, me donnerait envie d'y aller."
+  }
+}

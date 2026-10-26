@@ -1,0 +1,29 @@
+{
+  "id": "p06",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.72,
+      "oui_proba": 0.4,
+      "raison": "Je vois au quotidien des femmes qui renoncent à une contraception trop chère et je comprends l'enjeu de santé publique, mais 20 millions par an sans ciblage sur le revenu, face à une recommandation contraire du Conseil d'État, me font pencher pour le non, dans la ligne des Vert'libéraux."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "La part suisse reste inférieure à la moitié du coût, les bus et le prolongement du tram retireraient environ 15 000 voitures par jour à la frontière et le consensus large des partis me convainc, même si le refus de 2014 invite à la vigilance."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je suis sensible à la sécurité que procure un logement à soi, le prix plafonné et l'obligation d'occuper le bien pendant 5 ans me rassurent, même si les craintes de l'ASLOCA de voir reculer les logements locatifs abordables me font hésiter."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Je travaille dans la santé, le social ou l'éducation et je sais ce que la HES forme, une baisse de 2 millions par an reste raisonnable après la hausse des taxes d'études, donc je dis oui sans grand enthousiasme."
+    }
+  ]
+}

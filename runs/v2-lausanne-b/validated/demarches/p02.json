@@ -1,0 +1,65 @@
+{
+  "id": "p02",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "En 2017 j'avais 46 ans et Sauvabelin ne me concerne que lorsque je m'y promène, un sondage papier ou un atelier de trois heures un samedi après-midi ne me tente pas du tout."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je n'ai pas suivi ce premier budget participatif, car un vote d'un mois pour répartir une petite enveloppe de quartier ne me semblait pas valoir mon temps."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Pendant le Covid je me suis surtout concentré sur mes habitudes, et choisir des projets de quartier dans une urne ou sur un stand du marché ne fait pas partie de mon quotidien."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Un sondage en ligne de cinq minutes sur l'avenir de mon quartier, je l'aurais peut-être rempli, mais je n'ai pas vu passer la campagne et les soirées d'information demandaient une inscription."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin affranchi arrive dans la boîte aux lettres et cela pourrait me décider, mais je le laisse traîner sur la table et il finit souvent à la poubelle."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Le sondage sur les quais d'Ouchy m'a échappé, je ne cherche pas ce genre de questionnaire sur le site de la Ville, et le sujet concerne surtout les commerçants et les usagers du bord du lac."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "J'ai reçu le bulletin à la maison et je pensais voter, puis l'automne a passé, et je ne vote vraiment que lorsqu'un enjeu touche directement mon quartier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Le sujet ne me laisse pas indifférent, mais je n'ai pas vu passer cette consultation et ce type de questionnaire ne fait pas partie de mes réflexes."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin nominatif arrive à toute la famille et on en discute parfois à table, mais c'est une démarche que je remets souvent à plus tard."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin arrive à la maison et je pense y répondre à la rentrée, mais entre l'été et le travail je le retourne rarement et je n'en parle guère autour de moi."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "p02",
+  "reactions": [
+    {
+      "item_id": "gen10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Les projets de construction de la commune m'intéressent peu et je ne suis pas un habitué de ces rendez-vous, donc je n'y suis probablement pas allé, et je n'en ai guère parlé autour de moi."
+    }
+  ]
+}

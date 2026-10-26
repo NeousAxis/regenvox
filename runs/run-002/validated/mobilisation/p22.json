@@ -1,0 +1,39 @@
+{
+  "id": "p22",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Qu'on me dise concrètement ce qui change pour les fermes de Vuadens et pour le prix de ce que j'achète, avec un engagement écrit de la commune à ne pas imposer le bio aux exploitations."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un panier bio accessible à mon budget, présenté sans obligation ni leçon, et une participation qui ne me prend pas une soirée entière."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur ce que je peux faire moi à mon échelle, et la preuve que les décisions prises à l'issue de la démarche sont réellement suivies dans le village."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Une façon simple de reconnaître une ferme sur le terrain, par un signe visible ou un panneau, sans que cela demande une réunion ni du temps."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de 10 minutes sur mon téléphone est le seul format que je ferais vraiment, entre l'apprentissage et les soirées chez mes parents. Je ne vais pas aux réunions pour ce genre de sujet, et je n'ai pas le temps de bloquer un samedi matin."
+}

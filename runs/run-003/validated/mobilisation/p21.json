@@ -1,0 +1,39 @@
+{
+  "id": "p21",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Que l'atelier mette le prix du lait et les conditions d'achat du bio sur la table, avec des chiffres réels, et qu'il y ait une garde d'enfants sur place."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on me dise concrètement ce que les habitants pourraient faire pour mes prés, et que ça ne me prenne pas du temps à organiser."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.09,
+      "ce_qui_doublerait_ma_venue": "Un atelier court en fin de matinée un samedi, avec une garde d'enfants sur place, et un compte rendu envoyé à tous les participants pour que ça ne reste pas sans suite."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.1,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Que des représentants de la commune viennent voir les prés et l'eau de l'exploitation plutôt que de nous faire venir dans une salle, sans étiquette ni leçon sur nos pratiques."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, une fois les enfants couchés ou pendant une pause de la traite, sans déplacement ni garde à trouver : c'est le seul format que je peux vraiment tenir. Je ne crois pas beaucoup aux questionnaires de la commune, mais au moins ça ne me prend pas de soirée."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p06",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je paie ma pilule chaque mois et je suis jeune en formation, donc la gratuité me concerne directement, même si MCG s'y oppose au nom des dépenses publiques."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "MCG est contre cet argent versé pour des projets en France, je me méfie de ces projets transfrontaliers et je ne suis pas vraiment concernée par la mobilité."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "MCG soutient cette loi et je fais confiance à ce parti, même si je ne suis pas directement concernée et que je ne suis pas certaine d'aller voter."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Si je suis en études, je voudrais que l'école reste bien financée, mais MCG est contre ce crédit et je ne sais pas trop quel effet aura la baisse de deux millions."
+    }
+  ]
+}

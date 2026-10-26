@@ -1,0 +1,125 @@
+{
+  "id": "p16",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Une affaire d'étudiants lausannois sur un forum de l'EPFL, qui ne me touche pas directement, et la question de la surveillance numérique reste pour moi assez abstraite."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.10,
+      "partage_proba": 0.06,
+      "raison": "Les étés caniculaires me préoccupent vraiment, mais une lettre ouverte aux Chambres avec huit axes très larges ne me donne pas envie de signer, et je doute de son effet."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Je suis attentif au respect du droit international, mais une pétition lancée par une plateforme de campagne en ligne me paraît militante, et le débat se jouera de toute façon au Parlement."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Ce dossier genevois lié au conflit à Gaza divise profondément, et je ne signe pas un appel de soutien à un député dans une affaire aussi polarisée."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Les jeunes qui inhalent du protoxyde d'azote dans la rue me préoccupent et l'interdiction de la vente libre me paraît raisonnable, mais je ne suis pas sûr qu'une pétition apporte davantage qu'une motion déjà adoptée."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "Le fait que mon 2e pilier puisse financer des énergies fossiles me gêne, mais un collectif de soignants n'a pas de prise directe sur les caisses de pension et je ne signe pas ce genre de texte sans voir ce qu'il obtiendrait."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Les primes d'assurance-maladie pèsent sur mon budget, mais le texte reconnaît lui-même être fictif, ce qui suffit à me faire écarter une demande sans objet concret."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.09,
+      "partage_proba": 0.06,
+      "raison": "L'avenir de l'AVS me concerne directement et la notion de durée de cotisation de référence me parle, mais la piste du cannabis comme source de financement me rend réservé, si bien que je signe rarement ce type de texte."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.005,
+      "partage_proba": 0.003,
+      "raison": "Versoix est une autre commune que la mienne et ce projet de locaux associatifs ne me touche pas, même si je comprends l'enjeu pour les habitants concernés."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.07,
+      "raison": "Ce témoignage est très douloureux et la demande d'une protection spécifique me paraît juste, mais je ne suis pas directement concerné et la décision relève des commissions fédérales plutôt que d'une signature de ma part."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je n'ai pas de lien particulier avec la psychothérapie et le débat sur la prescription psychiatrique reste technique, donc je n'ai pas de raison de prendre position sur cette motion."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "Une collection d'agrumes intéressante, mais elle se situe à Borex dans le canton de Vaud, loin de ma vie quotidienne à Meyrin, et ce genre de demande locale ne me pousse pas à signer."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "La violence faite aux femmes est une cause que je soutiens en principe, mais ce projet concerne le Jura, loin de mon quotidien genevois, et je ne signe pas les pétitions de ce type sans lien direct."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "Le tram lausannois et la fraîcheur urbaine sont des sujets vaudois qui ne me concernent pas, même si l'idée d'arbres et de surfaces drainantes me semble raisonnable."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je suis sensible au sort des réfugiés, mais je ne peux pas juger la situation au Burundi et ce type d'appel me laisse peu de prise, si bien que je ne signerais probablement pas."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La formation professionnelle à temps partiel ne fait pas partie de ce que je connais, et l'allongement des CFC à quatre ou six ans me paraît difficile à défendre pour les entreprises."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.15,
+      "partage_proba": 0.10,
+      "raison": "Une préoccupation concrète et peu partisane : être filmé à son insu dans un lieu intime est choquant, mais une interdiction totale de la commercialisation me paraît excessive et la loi sur la protection des données suffit en partie."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "Le constat climatique me paraît juste, mais l'appel général à un cadre législatif et à limiter la consommation reste trop vague pour me pousser à signer."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "L'argument sur le coût des incendies est convaincant, mais je ne signe pas une pétition sans avoir vérifié les chiffres du projet de coupe de fonds qu'elle dénonce."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.20,
+      "partage_proba": 0.14,
+      "raison": "Le sujet des violences facilitées par la drogue me révolte et une coopération avec Europol me paraît utile, mais la pétition reste générale sur les réseaux, ce qui me rend réservé, même si je pourrais la signer."
+    }
+  ]
+}

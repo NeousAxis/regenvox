@@ -1,0 +1,16 @@
+{
+  "id": "p33",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Les champs, c'est l'affaire des paysans. Moi j'ai mes chantiers et mes factures, ce projet me passe un peu au-dessus.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je n'ai pas le temps entre mes chantiers, mes factures et les enfants",
+      "Ça me paraît être une affaire d'agriculteurs et de la commune, pas la mienne",
+      "Je suis arrivé ici depuis peu et je ne connais ni la politique locale ni les gens qui s'en occupent",
+      "Je me méfie des objectifs fixés de haut, surtout si ça finit par coûter de l'argent aux petites entreprises ou aux familles"
+    ],
+    "ce_qui_me_ferait_venir": "Si on m'explique concrètement ce que ça change pour mon métier, par exemple des chantiers, des commandes locales ou des aides, et que c'est organisé sur place en soirée avec des gens du quartier, je viendrais peut-être voir. Sinon, je lirais juste l'info sans plus."
+  }
+}

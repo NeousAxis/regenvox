@@ -1,0 +1,64 @@
+{
+  "id": "p01",
+  "portrait": "J'ai 16 ans, je suis suisse et je suis en formation, avec des horaires qui changent selon les semaines. Je vis encore chez mes parents, dans un quartier résidentiel assez récent de Vuadens, et mon quotidien tourne surtout autour de l'école, de mes amies et de mon téléphone. La politique ne m'intéresse pas beaucoup pour l'instant, et je n'ai pas vraiment d'avis tranché sur l'agriculture ou la terre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Que les paysans puissent vivre de leur travail, c'est évident, mais je ne vois pas trop ce que je peux y changer à mon âge.",
+      "engagement": 1,
+      "freins_participation": [
+        "je suis mineure et je n'ai pas le sentiment que mon avis compte dans ce genre de projet",
+        "je connais mal les fermes de la commune",
+        "je ne sais pas à l'avance quand les rencontres ont lieu, et mes horaires changent"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'il y ait des gens de mon âge ou une école impliquée, un moment en fin d'après-midi, et une information claire sur ce qui ressort de la démarche."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Acheter directement à une ferme du village, pourquoi pas, mais en général on prend ce qu'il y a au supermarché, je ne me pose pas la question.",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne fais pas les courses moi-même, c'est surtout ma famille qui décide",
+        "le sujet ne me concerne pas directement",
+        "ce genre de démarche ne semble pas faite pour les jeunes de mon âge"
+      ],
+      "ce_qui_me_ferait_venir": "Si une de mes copines y va, ou si c'est lié à quelque chose qui se passe à l'école, comme un repas ou une sortie à une ferme."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Dans trente ans j'aurai quarante-six ans, donc ça me concerne plus que les autres questions, même si je n'y pense pas souvent.",
+      "engagement": 2,
+      "freins_participation": [
+        "je ne me vois pas aller à un atelier, je préfère donner mon avis en ligne si c'est simple",
+        "je n'ai pas encore les connaissances pour dire ce qui est juste",
+        "je n'ai pas de lien direct avec le travail de la terre"
+      ],
+      "ce_qui_me_ferait_venir": "Une question en ligne facile à remplir, ou un débat avec mes profs, et la certitude que ce que je dis sera vraiment lu."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 1,
+      "citation": "Une reconnaissance pour les fermes, pourquoi pas, mais une étiquette ça ne change pas grand-chose à ce que je mange ou à ma vie.",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne vois pas l'intérêt concret pour moi",
+        "je n'ai pas de contact avec les agriculteurs",
+        "je ne peux pas voter, donc la démarche ne me parle pas beaucoup"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de précis pour l'instant, sauf si ça devient un événement du village que mes amis veulent aller voir."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "camarades de classe et d'apprentissage, quelques amies du quartier, famille proche qui vit dans le même logement, peu de lien connu avec le monde agricole ou les instances communales"
+  },
+  "votes": []
+}

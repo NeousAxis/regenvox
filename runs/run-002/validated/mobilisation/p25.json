@@ -1,0 +1,39 @@
+{
+  "id": "p25",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Qu'on me prenne en voiture pour aller à la salle communale le samedi matin et qu'on me ramène ensuite, et que la discussion parte de ce qui permet aux paysans de vivre de leur travail, avant de parler de bio ou d'obligations."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.01,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Qu'on ne me demande pas de m'engager à quoi que ce soit, et qu'on me montre concrètement ce que les habitants y gagnent à la fromagerie ou au marché, sans rien à signer."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.01,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Que le sujet soit ramené à ce qui me touche maintenant, comme la qualité de l'eau du village ou des chemins sûrs pour marcher, et que la rencontre ait lieu en journée, près de chez moi."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.08,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un transport jusqu'à la salle communale le samedi matin, et un atelier court dont le but serait de reconnaître les fermes qui prennent soin de la nature, sans nouvelle commission ni panneaux partout."
+    }
+  ],
+  "format_prefere": "atelier_presentiel",
+  "raison_format": "Parmi les trois, c'est le seul que je peux faire sans écran et sans devoir me débrouiller avec un ordinateur. Je n'aime pas beaucoup les réunions publiques et les soirs sont difficiles pour moi, donc seulement un samedi matin, si quelqu'un vient me chercher. Ce n'est pas un vrai choix : je viendrais rarement."
+}

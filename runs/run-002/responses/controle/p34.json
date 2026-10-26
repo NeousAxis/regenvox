@@ -1,0 +1,16 @@
+{
+  "id": "p34",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Dix ans pour passer la majorité des terres en bio, on nous annonce ça comme si on pouvait changer une étable d'un claquement de doigts. Les paysans d'ici savent travailler la terre, ce n'est pas la commune qui va leur dire comment faire.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je ne suis pas agriculteur, donc je n'ai pas de terres à convertir et je ne me sens pas concerné par la mise en oeuvre.",
+      "Ce genre d'objectif tombe d'en haut, sans que les gens du village aient été consultés avant la décision.",
+      "Sans chiffres sur ce que ça coûte aux exploitations et sur qui paie la différence, je n'y crois pas.",
+      "Je me méfie des projets qui viennent de la ville ou de la Confédération et qui finissent par imposer des normes."
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que coûte la conversion aux paysans et sur qui la finance, une vraie discussion avec les agriculteurs de Vuadens, et la garantie qu'ils gardent la main sur le rythme plutôt qu'un objectif fixé d'en haut."
+  }
+}

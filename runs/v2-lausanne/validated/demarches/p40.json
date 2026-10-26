@@ -1,0 +1,65 @@
+{
+  "id": "p40",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "En 2017, à 35 ans, avec un emploi exigeant dans le social, un sondage et un atelier de samedi sur les établissements du lac de Sauvabelin ne la concernent guère, et elle n'en parlerait probablement pas autour d'elle."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Première édition peu connue et sans campagne qui atteigne son quotidien, elle s'y intéresserait un peu par proximité avec le PS, mais voter pour trois projets demande un effort qu'elle ne fournit pas facilement, et elle en parlerait peu."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.14,
+      "partage_proba": 0.09,
+      "raison": "Deuxième édition sortie en pleine pandémie, alors qu'elle travaille dans la santé ou le social et manque de temps, elle vote peut-être en ligne si un projet de quartier la touche, mais elle en parle rarement."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Un sondage en ligne de cinq minutes sur son quartier l'attire, mais en 2020 la crise sanitaire la mobilise entièrement dans son métier, si bien que la démarche passe presque inaperçue et qu'elle n'en parle pas."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.26,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin affranchi envoyé à domicile facilite le vote, et l'idée de projets déposés par les écoles la touche, mais son agenda de parent seule et de professionnelle reste chargé, et elle n'en parle qu'à quelques proches."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Les quais d'Ouchy et de Belgique la concernent peu au quotidien, et un questionnaire de quinze questions sur la circulation ne l'incite pas à répondre, d'autant qu'elle ne voit pas cette consultation passer dans son quotidien."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.27,
+      "partage_proba": 0.19,
+      "raison": "Le bulletin nominatif arrive chez elle et le vote demande peu d'effort, et elle se sent proche des projets qui renforcent les liens dans le quartier, mais elle ne se mobilise pas à chaque édition et en parle surtout à ses collègues."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.2,
+      "partage_proba": 0.17,
+      "raison": "La lutte contre le racisme touche directement son travail dans le social et l'éducation, donc ce questionnaire l'intéresse plus que d'autres, mais elle ne répond pas à toutes les consultations et en parlerait sans doute à ses collègues."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.25,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin arrive chez elle et le vote est simple, mais la période de vote tombe dans les semaines chargées de l'automne, et elle n'en parle qu'à l'occasion."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.22,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le geste simple et les projets de convivialité ou de liens entre générations lui parlent, mais l'été et la rentrée scolaire chargent son agenda, et elle en parle peu."
+    }
+  ]
+}

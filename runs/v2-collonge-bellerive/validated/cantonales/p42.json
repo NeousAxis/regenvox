@@ -1,0 +1,29 @@
+{
+  "id": "p42",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Je ne me sens pas concerné par la contraception, le PLR et le Conseil d'État disent non, et 20 millions de plus à charge de l'État me paraissent superflus."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "Mon parti et les autorités recommandent le oui et des liaisons plus fluides avec la France m'arrangent, même si je garde en tête le refus populaire de 2014 sur le financement d'infrastructures en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.55,
+      "raison": "Je comprends le désir d'accéder à la propriété et le PLR comme le MCG soutiennent le oui, mais le risque de congés-ventes et la perte de logements locatifs me retiennent un peu."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.72,
+      "raison": "Mon parti, l'UDC et Le Centre recommandent le oui, et il me paraît normal de financer la formation supérieure, même si la baisse de 2 millions par an reste modeste."
+    }
+  ]
+}

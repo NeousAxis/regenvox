@@ -1,0 +1,140 @@
+{
+  "id": "p39",
+  "portrait": "J'ai 60 ans et je travaille dans le social et la santé, auprès de familles et de personnes âgées de la région de Bulle. Je vis seule dans le quartier résidentiel récent de Vuadens, je suis suisse et je suis proche des Vert-e-s. Je vote surtout sur l'environnement et l'alimentation, et je constate que la commune vote souvent autrement que moi.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Si on veut du bio, il faut que le paysan y gagne sa vie, sinon il arrêtera et on n'aura rien gagné. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas assez les chiffres de l'agriculture pour discuter avec les paysans",
+        "Les ateliers ont souvent lieu le soir en semaine, après mes journées de travail"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que gagne une ferme bio d'ici par rapport à une ferme conventionnelle, présentés par un agriculteur de Vuadens lui-même."
+    },
+    {
+      "angle_id": 2,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« J'achète déjà un peu à la ferme du coin, mais je vis seule et je ne peux pas prendre un panier de légumes chaque semaine. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Les paniers sont calibrés pour des familles, pas pour une personne seule",
+        "Je n'ai pas la place de stocker des légumes en plus dans mon logement",
+        "Mes horaires de soins changent d'une semaine à l'autre"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule de partage de panier pour une ou deux personnes, avec un point de retrait au village le soir."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "« Ça me touche, les enfants de l'école seront là dans trente ans, mais j'ai besoin de voir ce que ça veut dire concrètement pour les terres d'ici. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas si ma parole compte dans un débat où les paysans sont déjà installés",
+        "Les ateliers sont souvent le soir, et je rentre tard du travail"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier avec les élèves de l'école, ou une visite de terrain un samedi matin, plutôt qu'une séance en salle."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Le ton de la commune sent un peu la brochure, mais le fond m'intéresse : ce que les fermes font pour l'eau, c'est important. »",
+      "engagement": 1,
+      "freins_participation": [
+        "J'ai l'impression que ce genre de reconnaissance reste un sujet de conseil communal",
+        "Je n'ai pas le temps de suivre tout ce qui se décide à la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Des résultats mesurés sur la qualité de l'eau et la vie sauvage de la commune, publiés chaque année et discutés en public."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "collègues du secteur de la santé et du social, parents d'élèves de l'école du village, voisins du quartier, et quelques connaissances engagées dans le mouvement vert du district"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour protéger le paysage, mais les résidences secondaires ne sont pas vraiment un sujet chez nous, donc je me mobiliserais peu."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Arrêter de grignoter les champs et les prairies, c'est du bon sens, même si je comprends que les communes veulent pouvoir se développer."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "Une économie qui ne vit pas au-dessus de ses moyens, je la défends depuis longtemps. La formulation de l'initiative est un peu large, mais le principe me convient."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Je suis contre le nucléaire depuis Tchernobyl et Fukushima. Les déchets restent dangereux pendant des milliers d'années, il faut sortir maintenant."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "La stratégie 2050 va dans la bonne direction, même si j'aurais voulu aller plus vite sur les renouvelables et les économies d'énergie."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Des aliments produits dans le respect de l'environnement, des animaux et des travailleurs, c'est ce que je cherche pour mon assiette. C'est plus cher, mais ça vaut le coup."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je comprends l'envie de soutenir les paysans d'ici, mais les droits de douane font monter les prix pour les familles qui comptent chaque franc. Je serais plutôt contre."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.9,
+      "oui_proba": 0.92,
+      "raison": "Une eau potable propre et des paiements directs réservés aux fermes qui ne polluent pas les nappes, c'est ce que je veux pour la génération qui vient. Je sais que ça passera mal chez nous, mais je voterai oui."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.9,
+      "oui_proba": 0.85,
+      "raison": "Plus de pesticides de synthèse dans nos sols et dans nos assiettes. L'initiative est radicale avec sa transition de dix ans, mais le principe est juste."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "Je suis pour agir contre le CO2, mais une taxe sur les billets d'avion et sur le chauffage pèse surtout sur les gens qui ont peu d'argent. Je voterais oui en hésitant."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je suis pour de meilleures conditions pour les animaux, mais l'initiative pèse surtout sur les petites fermes d'ici, qui font déjà bien les choses. Je serais partagée."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.85,
+      "oui_proba": 0.9,
+      "raison": "Zéro émission nette en 2050, c'est le minimum. Les aides pour remplacer les vieux chauffages sont utiles aux familles modestes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "Protéger la nature et le paysage, c'est mon domaine. Ça demandera des efforts aux agriculteurs, il faudra les accompagner financièrement."
+    }
+  ]
+}

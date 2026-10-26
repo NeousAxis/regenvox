@@ -1,0 +1,29 @@
+{
+  "id": "p74",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le coût de la pilule et des autres moyens pèse surtout sur les femmes de mon âge, et 20 millions par an ne me paraît pas démesuré, même si le MCG et la droite s'y opposent."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Les bouchons et les bus bondés à la frontière me touchent tous les jours, mais je n'ai pas envie que Genève finance des projets en France après le refus de 2014, et le MCG est clairement contre."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Pouvoir acheter l'appartement que j'occupe depuis des années me plairait, mais je crains les congés-ventes qui chassent les locataires, donc je suis partagée, même si le MCG dit oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je connais mal ce dossier et je ne suis pas sûre de voter, mais la baisse de 2 millions par an pour la formation me gêne un peu, et le MCG comme le PS disent non."
+    }
+  ]
+}

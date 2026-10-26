@@ -1,0 +1,65 @@
+{
+  "id": "p19",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je passe parfois à Sauvabelin avec les enfants, mais je n'ai pas vu l'annonce du sondage, un samedi après-midi en famille ne me laissait pas la place pour un atelier, et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Le budget participatif était à peine connu en 2019 et voter demandait de passer par une urne ou par internet sans que rien ne me pousse, donc je ne pense pas avoir voté ni en avoir discuté autour de moi."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Pendant le Covid, entre les horaires en équipe, les enfants à la maison et des urnes peu pratiques, je n'ai ni voté ni parlé de ce vote, la conversation tournant autour du virus."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Un sondage de cinq minutes sur le quartier m'aurait intéressée, mais je ne l'ai ni vu passer ni cherché, les soirées et balades étaient difficiles à caser avec mes horaires, et le plan d'affectation n'est pas un sujet dont je parle autour de moi."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.14,
+      "partage_proba": 0.22,
+      "raison": "Le bulletin affranchi dans ma boîte aux lettres me donne une vraie occasion de voter, mais je ne le remplis que si j'y pense avant qu'il ne finisse sous le courrier, et quand il arrive, les enfants veulent en parler et j'en discute probablement à la maison."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je vais parfois au bord du lac avec les enfants, donc la fermeture des quais me concerne un peu, mais un questionnaire de quinze questions sur le site de la Ville, je ne le remplis presque jamais et je n'en parle pas beaucoup."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.16,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin préaffranchi reçu chez moi est un geste facile, mais en fin d'automne le travail et les devoirs passent devant, donc je vote quand le projet me parle vraiment, et dans ce cas j'en parle volontiers à la maison."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je suis sensible à la lutte contre le racisme, mais je n'ai pas vu passer ce questionnaire, je n'ai pas d'expérience personnelle à raconter, et le sujet ne revient que rarement dans mes discussions, sauf avec des collègues."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin nominatif envoyé à toute la famille me pousse à voter, mais octobre et novembre sont chargés entre le travail et les enfants, et comme les enfants veulent savoir quel projet on choisit, j'en parle souvent à la maison."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Je me souviens à peu près que le bulletin est arrivé chez nous, mais la fin de l'été et la rentrée m'ont pris beaucoup de temps, et si j'en ai parlé en famille, ce n'est pas un sujet qui occupe mes conversations."
+    }
+  ]
+}

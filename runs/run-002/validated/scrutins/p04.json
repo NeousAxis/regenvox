@@ -1,0 +1,95 @@
+{
+  "id": "p04",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je veux une armée qui tienne debout, et ce fonds est alimenté par le budget de l'armée, donc sans nouvel impôt. Je vote oui, même si je me méfie des gros programmes décidés à Berne."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je ne me sens pas concerné par la définition du mariage, et l'inscrire dans la Constitution ne me parle pas. L'égalité fiscale des couples m'intéresse, mais ce texte mélange les deux, donc je serais plutôt contre."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.55,
+      "raison": "Je tiens à ce que l'AVS reste solide, et la réforme me paraît un compromis raisonnable, même si je n'aime pas les hausses d'impôts. Lier la TVA au passage à 65 ans pour les femmes me semble juste."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Nos accords avec l'UE sont utiles à notre économie et à nos soins, avec le personnel et les échanges qui en dépendent. Je ne veux pas dénoncer des traités par principe, donc je vote non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je vois les difficultés de recrutement dans la santé et l'industrie, et fermer la porte à l'Union européenne mettrait l'économie locale en danger. Je vote non à la fin de la libre circulation."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "L'armée doit pouvoir renouveler sa flotte, et le choix du modèle reste au Conseil fédéral. Le montant est élevé, mais je vote oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Dans mon métier je vois ce que la recherche médicale apporte, et interdire les essais sur l'être humain et l'importation de nouveaux produits me paraît trop large. Je vote non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je connais des éleveurs de la commune, et des exigences plus strictes que Bio Suisse, y compris pour les importations, avec une transition de 25 ans, mettraient la pression sur nos exploitations laitières. Je vote non, même si la protection des animaux me tient à cœur."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je soutiens l'AVS, et la réforme AVS 21 me paraît un compromis acceptable. La hausse de TVA qui la finance est un mal nécessaire, donc je vote oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "La neutralité fait partie de notre identité, mais une neutralité perpétuelle et armée qui interdit les sanctions et toute coopération avec des alliances me paraît trop rigide. Je vote plutôt non, sans être sûr."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Produire davantage chez nous me parle, mais un objectif de 70 % imposé d'en haut et moins de produits d'origine animale toucheraient directement l'élevage laitier de la région. Je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je veux une AVS solide, mais une nouvelle hausse de TVA touche tout le monde, y compris les petits revenus, et les économies devraient passer avant. Je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Le bruit des pétards me gêne au centre du village, et il y a des animaux et des personnes fragiles autour de moi. Je suis partagé, car les fêtes traditionnelles me tiennent à cœur, et je ne suis pas convaincu qu'une interdiction soit la bonne réponse."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je vis seul, et imposer en commun les couples mariés alors que l'imposition individuelle vient d'être acceptée me paraît aller à contre-courant. Je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je ne veux pas que la Suisse livre des armes à des pays en guerre, ce qui entre mal avec notre neutralité. Mais je comprends les arguments de l'industrie et de nos partenaires, donc je reste indécis, plutôt non."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p20",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.13,
+      "ce_qui_doublerait_ma_venue": "Que des agriculteurs de Vuadens soient présents à l'atelier et parlent eux-mêmes de ce qui leur permettrait de vivre du bio, avec les vrais chiffres (prix payé, charges, risques), et non des experts qui parlent à leur place."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.3,
+      "atelier_presentiel": 0.08,
+      "parcours_distance": 0.07,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Une liste simple et à jour des fermes de Vuadens en bio ou en conversion, avec où les acheter et comment les rencontrer, présentée dès le début de l'atelier."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une question plus concrète, par exemple : qu'est-ce que je peux faire dès cette semaine pour l'eau et les prés de mon quartier, avec des exemples de ce qui a déjà marché ailleurs."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Rien de précis : je ne vois pas ce que cela change pour moi, et je ne veux ni labels coûteux ni panneaux. Si on me montrait ce que cela change concrètement pour l'eau du robinet chez moi, je réfléchirais."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, le soir sur le canapé, sans devoir sortir après le travail ni parler devant des gens que je ne connais pas. Je peux répondre à mon rythme sans avoir l'impression de faire la leçon aux paysans."
+}

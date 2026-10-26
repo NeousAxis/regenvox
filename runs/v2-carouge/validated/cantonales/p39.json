@@ -1,0 +1,29 @@
+{
+  "id": "p39",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.35,
+      "oui_proba": 0.12,
+      "raison": "L'UDC et le PLR disent non, et je pense que la contraception relève de la responsabilité de chacun, alors que les primes d'assurance-maladie et les impôts pèsent déjà lourd pour ma famille."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Les bouchons et les frontaliers me gênent tous les jours à Carouge, mais je ne veux pas que l'argent genevois finance des projets en France, comme le peuple l'avait déjà refusé en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "L'UDC recommande non et je me méfie des congés-ventes, mais pouvoir acheter l'appartement où l'on vit avec nos enfants m'intéresse, à condition que personne ne soit forcé de partir."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "Je suis le mot d'ordre de l'UDC et je trouve que la HES forme des techniciens dont l'industrie a besoin, mais je ne vois pas pourquoi on augmenterait les moyens d'une école alors que le budget de l'État est serré."
+    }
+  ]
+}

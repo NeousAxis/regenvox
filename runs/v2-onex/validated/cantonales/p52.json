@@ -1,0 +1,29 @@
+{
+  "id": "p52",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je comprends l'intérêt pour les jeunes et les familles, mais une prise en charge de plus de 20 millions de francs par an par le canton me paraît une dépense de trop, et je ne vois pas bien pourquoi l'assurance-maladie ne rembourse pas une chose aussi courante."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.42,
+      "raison": "Moins de voitures sur la route de la frontière serait utile pour nous qui roulons beaucoup avec la ferme, mais payer 39,5 millions pour des projets en France, après le refus populaire de 2014, ça me gêne."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas directement concernée, mais je trouve normal qu'un locataire qui habite depuis des années puisse acheter son logement, à condition que les autres locataires de l'immeuble ne soient pas mis dehors."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.5,
+      "raison": "Je connais mal ce dossier de la HES-SO, je fais confiance au Conseil d'État et au Grand Conseil sur ce point, même si je trouve que l'État dépense déjà beaucoup pour la formation."
+    }
+  ]
+}

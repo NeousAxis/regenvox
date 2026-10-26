@@ -1,0 +1,95 @@
+{
+  "id": "p27",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "L'armée, ce n'est pas mon métier, et je ne suis pas sûre d'aller voter pour ça. Si j'y vais, je dis oui : un pays doit pouvoir se défendre, même si la facture me paraît lourde."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Sur la ferme, mon mari et moi avons travaillé ensemble toute la vie, alors le mariage compte pour moi. Mais mettre ça dans la Constitution me paraît compliqué, et je ne suis pas certaine d'aller voter."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "L'AVS, c'est ma retraite, et je n'ai pas de successeur sur qui compter. Une TVA un peu plus haute me gêne, mais sans financement la rente ne tiendra pas, donc je vote oui."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je comprends qu'on veuille que la Suisse décide chez elle, mais nos fromages se vendent en Europe et nos accords avec l'UE protègent aussi les paysans. Je vote non, en me méfiant de ceux qui parlent de souveraineté sans connaître le terrain."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Sans les accords, on n'aurait plus de saisonniers pour les foins et les travaux de la ferme. Je vote non, sans être contre les gens qui viennent ici pour travailler."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Six milliards, c'est une somme énorme, mais on ne peut pas laisser l'armée sans avions. Je ne suis pas enthousiaste, je vote oui à contrecœur."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Les bêtes, je les respecte, mais la recherche médicale sauve aussi des vies, y compris pour le bétail. Interdire tout ça d'un coup, je ne suis pas convaincue, et je ne sais pas si j'irai voter."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.95,
+      "oui_proba": 0.05,
+      "raison": "C'est mon métier qu'on attaque. Des exigences proches du cahier Bio Suisse pour tout le monde, importations comprises, et des gens qui n'ont jamais tenu une étable veulent me dire comment élever mes vaches. Non, sans hésiter."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.5,
+      "raison": "Passer les femmes à 65 ans me touche de près, je suis à quelques années de la retraite et je n'ai pas de successeur. Mais l'AVS doit tenir pour ceux qui arrivent après moi, donc je vote oui à contrecœur."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "La neutralité, c'est ce qui nous a tenus à l'écart des guerres depuis des générations, et je la défends. Je vote oui, même si je ne suis pas sûre de tous les détails du texte."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.95,
+      "oui_proba": 0.15,
+      "raison": "Produire davantage chez nous et protéger l'eau, je suis d'accord. Mais moins de produits d'origine animale, c'est moins de lait et moins de vaches, et ça vient de gens qui n'ont jamais tenu une étable. Je vote non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "La 13e rente AVS, le peuple l'a déjà acceptée, je trouve normal de la financer. Mais la TVA pèse sur tout le monde, et les agricultrices n'ont pas de matelas. Je vote oui, sans enthousiasme."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Les pétards du 1er janvier affolent mes vaches, et chaque année je retrouve des bêtes effrayées et des clôtures cassées. Je vote oui, en gardant les grandes fêtes comme le 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Sur la ferme, mon mari et moi avions une seule comptabilité, alors je comprends que le mariage puisse peser. Mais le peuple vient de choisir l'imposition individuelle, et je ne suis pas convaincue qu'il faille revenir là-dessus."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Livrer des armes à des pays impliqués dans un conflit, ça ne va pas avec la neutralité que je défends. Je vote non, si j'ai le temps d'aller voter."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p17",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Savoir qu'un agriculteur de la commune viendra parler de ses revenus réels, et un atelier le samedi matin plutôt qu'un soir de semaine."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une offre concrète sur les produits de la ferme pour ma famille, avec un prix qui tient face au budget, et un covoiturage depuis le quartier pour aller à la ferme."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.35,
+      "atelier_presentiel": 0.1,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.22,
+      "ce_qui_doublerait_ma_venue": "Un atelier le samedi matin avec une garde possible pour les enfants, et la preuve que les idées sur le quartier et l'eau sont suivies d'effets concrets."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Rien de précis : ce thème ne me touche pas, il faudrait d'abord que la question parle de mon revenu."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je ne suis pas disponible en semaine, je travaille souvent en équipes et le soir je n'ai pas toujours l'énergie. Un questionnaire de 10 minutes sur mon téléphone, à mon rythme, c'est le seul format que je ferais vraiment. Un atelier le samedi matin, j'irais peut-être si quelqu'un vient avec moi, mais pas seul."
+}

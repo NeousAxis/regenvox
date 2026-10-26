@@ -1,0 +1,39 @@
+{
+  "id": "p30",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on me garantisse que la décision n'est pas déjà prise, et que l'atelier finisse à midi un samedi, pas le soir après mes journées de chantier."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Une liste des fermes de Vuadens et des environs avec ce qu'elles vendent et où, pour savoir à qui acheter viande et œufs sans payer plus cher que le budget de la famille."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.01,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.005,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Qu'on me dise concrètement en quoi ça change mes factures ou la vie de ma famille cette année, sinon je n'y vais pas."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un exemple concret sur une ferme du village expliqué en deux minutes, et la garantie qu'on n'ajoute ni label ni démarche administrative à charge des agriculteurs."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul format qui tient dans mon emploi du temps : dix minutes sur mon téléphone, le soir après les enfants ou pendant une pause, sans réunion où il faut prendre la parole sur un sujet que je ne maîtrise pas."
+}

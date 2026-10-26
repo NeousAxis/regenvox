@@ -1,0 +1,29 @@
+{
+  "id": "p50",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Ça ne me concerne plus, et une dépense de 20 millions par an payée par tous les contribuables ne me paraît pas relever de l'État, même si je comprends l'argument de la santé des femmes."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Moins de voitures qui franchissent la frontière chaque jour, des bus et un tram qui arrivent jusqu'à Carouge, ça vaut le coup, même si je me souviens du refus de 2014 et que je resterai attentif à la part suisse."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Un locataire qui vit depuis des années dans son appartement doit pouvoir l'acheter s'il le souhaite sans que les autres soient chassés, mais je me méfie des congés-ventes, donc je reste prudent."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "La HES-SO Genève forme les gens dont on a besoin, et la hausse des taxes d'études justifie une indemnité un peu plus basse, je fais confiance au Grand Conseil sur ce chiffre."
+    }
+  ]
+}

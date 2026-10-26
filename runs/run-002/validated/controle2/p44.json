@@ -1,0 +1,16 @@
+{
+  "id": "p44",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Les projets de la commune, je les vois passer sans trop y faire attention. Le bio, c'est bien si ça ne fait pas monter le prix des courses, mais avec mon salaire d'apprentie, je regarde surtout ce qui coûte moins cher.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je ne suis pas suisse et je ne vote pas, donc j'ai l'impression que les décisions de la commune ne me concernent pas vraiment",
+      "Je travaille en apprentissage et je n'ai pas beaucoup de temps libre entre le travail et les trajets",
+      "Je ne sais pas comment un habitant comme moi pourrait participer à ce genre de projet",
+      "Le bio coûte plus cher et mon budget est serré"
+    ],
+    "ce_qui_me_ferait_venir": "Qu'on m'explique concrètement ce que ça change pour mes courses, mes trajets et les prix au magasin ou à la fromagerie du village, sans que ça me coûte plus cher. Un atelier en soirée ou le samedi, dans le quartier, avec des choses à goûter ou à voir, me donnerait peut-être envie de venir."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "p02",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter en 2014 (13 ou 14 ans), et ce dossier d'avions de combat ne me parlait pas du tout à l'époque."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.55,
+      "raison": "Je n'avais pas encore l'âge de voter en 2016. Si j'avais pu voter, le désavantage fiscal des couples mariés m'aurait tout de même parlé, avec des enfants à la maison."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter en 2017 (16 ou 17 ans), et je ne suivais pas du tout les questions de retraite."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.2,
+      "oui_proba": 0.3,
+      "raison": "C'est mon premier vote possible, mais je n'ai pas le réflexe de voter et je ne suis pas très concernée. Les accords avec l'UE nous facilitent la vie au quotidien, donc je pencherais pour le non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Dans l'industrie on a besoin de main d'œuvre, et les accords avec l'UE facilitent le travail et les échanges. Le risque pour l'emploi et les prix me semble plus grand que le gain, donc je voterais non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Six milliards, c'est beaucoup pour le budget, mais il faut une armée qui tienne debout. Je pèse le pour et le contre sans trop suivre le dossier, et je dirais plutôt oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.2,
+      "oui_proba": 0.25,
+      "raison": "Interdire toute recherche sur les animaux et sur l'humain me paraît risqué pour les médicaments dont on a besoin. Je voterais plutôt non, sans avoir beaucoup suivi le débat."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.25,
+      "oui_proba": 0.2,
+      "raison": "Ma commune vit en partie de l'élevage laitier, et je sais ce que coûtent les mises aux normes pour les paysans. Des exigences sur les importations et une transition de 25 ans me semblent trop lourdes pour le prix dans nos courses."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.25,
+      "oui_proba": 0.45,
+      "raison": "J'avais 21 ou 22 ans et peu d'intérêt pour la politique, mais l'AVS doit être financée; chaque hausse de TVA pèse pourtant sur le budget familial, donc je suis partagée."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à la neutralité, mais une neutralité armée sans sanctions me semble difficile à tenir et à expliquer. Je ne vois pas bien ce que ça change pour ma famille, donc je voterais plutôt non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Ma commune vit de l'agriculture et j'aime l'idée de manger suisse et de protéger l'eau. Mais 70 % en dix ans et moins de produits animaux peuvent faire monter les prix et menacer les fermes de la région, donc je suis partagée."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "La 13e rente AVS est acceptée, il faut bien la financer : la TVA pèse, mais l'alimentation et les médicaments sont exclus, donc je voterais plutôt oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "Avec les enfants et les animaux de la ferme voisine, le bruit des feux d'artifice me dérange. Je voterais plutôt oui à une limite, en gardant les pièces peu bruyantes pour le 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Le Centre défend l'imposition commune, et pour une famille avec un seul gros revenu, un allègement compterait. Je ne suis pas sûre de tous les effets sur le couple, mais je pencherais pour le oui."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "Je suis mal à l'aise à l'idée de livrer des armes à un pays en guerre, même partenaire, et ça touche à la neutralité. Les emplois de l'industrie comptent aussi, donc je suis partagée et je pencherais pour le non."
+    }
+  ]
+}

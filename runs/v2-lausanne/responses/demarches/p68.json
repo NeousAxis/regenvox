@@ -1,0 +1,15 @@
+{
+  "id": "p68",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.05, "partage_proba": 0.06, "raison": "Je ne fréquente guère Sauvabelin et je n'ai pas vu l'annonce du sondage, donc je n'y ai probablement pas répondu."},
+    {"item_id": "lau01", "participe_proba": 0.1, "partage_proba": 0.2, "raison": "Le principe d'un budget décidé par les habitants me plaît, mais en 2019 je n'en avais presque pas entendu parler, donc je doute d'avoir voté, et j'en aurais parlé à l'occasion."},
+    {"item_id": "lau02", "participe_proba": 0.12, "partage_proba": 0.18, "raison": "Entre mon travail, la famille et la pandémie, je vote peu probablement, mais l'idée de projets qui renforcent la vie de quartier me touche et j'en parle volontiers autour de moi."},
+    {"item_id": "lau10", "participe_proba": 0.18, "partage_proba": 0.12, "raison": "Un sondage de cinq minutes sur le visage du quartier me semble facile à remplir et je tiens à la protection du patrimoine, mais je n'ai pas suivi les balades et j'en ai peu parlé."},
+    {"item_id": "lau03", "participe_proba": 0.25, "partage_proba": 0.3, "raison": "Le bulletin pré-affranchi envoyé à domicile rend le vote facile et je m'y intéresse, donc j'ai de bonnes chances d'avoir voté, et j'en ai discuté avec mes proches."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Une enquête en ligne sur la fermeture des quais d'Ouchy ne me concerne guère, je ne vais pas souvent à Ouchy et je n'ai pas vu de raison de répondre ni d'en parler."},
+    {"item_id": "lau04", "participe_proba": 0.22, "partage_proba": 0.22, "raison": "Je suis à l'aise avec le vote par bulletin reçu à domicile, mais la période d'automne est chargée et je ne suis pas sûre de m'y remettre cette fois."},
+    {"item_id": "lau09", "participe_proba": 0.25, "partage_proba": 0.3, "raison": "Le racisme et les discriminations touchent directement mon travail auprès des familles, donc je suis assez susceptible d'avoir répondu au questionnaire et d'en avoir parlé avec des collègues."},
+    {"item_id": "lau05", "participe_proba": 0.27, "partage_proba": 0.2, "raison": "Le bulletin nominatif reçu à domicile me fait voter assez souvent, mais je ne suis pas certaine d'avoir pris le temps cette année-là, et j'en parle surtout avec mon entourage proche."},
+    {"item_id": "lau06", "participe_proba": 0.2, "partage_proba": 0.15, "raison": "Après plusieurs éditions la lassitude s'installe un peu et la fin d'été est chargée, mais je soutiens toujours cet outil et je pourrais avoir voté et en parler à l'occasion."}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p25",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Je respecte le travail de nos paysans, mais je ne suis pas persuadée que la commune doive leur dire comment cultiver leurs champs. Moi, je ne cultive rien, je ne vois pas bien ce que je pourrais y changer.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je ne cultive rien moi-même et ce sont les agriculteurs qui décident de leurs cultures",
+      "Je ne pense pas que la commune doive imposer une manière de cultiver",
+      "À 91 ans, seule, je ne me déplace plus volontiers aux ateliers du soir",
+      "Je ne suis pas convaincue que le bio apporte grand-chose à lui seul"
+    ],
+    "ce_qui_me_ferait_venir": "Qu'on m'explique clairement ce qui est prévu et pourquoi, sans obligation pour les paysans, et que ce soient eux qui disent ce qui marche chez eux. Si on me demandait un avis par écrit, sur un projet concret et sans me déplacer, je pourrais répondre."
+  }
+}

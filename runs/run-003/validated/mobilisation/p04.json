@@ -1,0 +1,39 @@
+{
+  "id": "p04",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Des chiffres clairs sur ce que touche un paysan pour un litre de lait ou un kilo de légumes bio, présentés par une exploitation de la commune, et un créneau le samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Savoir à qui m'adresser dans la commune, et voir noir sur blanc ce que signifie être partenaire : combien je paie de plus et ce que j'obtiens en échange."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une question plus concrète : ce que je peux faire, à mon échelle, pour que les champs et les vaches restent autour du village, avec un atelier le samedi."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Savoir en quoi un label change quelque chose pour moi, par exemple pouvoir acheter les produits de ces fermes à côté de chez moi."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je peux répondre chez moi, sur le téléphone ou l'ordinateur, en 10 minutes, sans sortir un soir de semaine ni bloquer une matinée. Un atelier de 2 h 30 entre initiés me met mal à l'aise et je n'ai pas le temps en semaine."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "p31",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Je fréquente peu Sauvabelin et l'annonce du sondage ne m'a pas touché, donc je n'y ai pas répondu et je n'en parlerais guère."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Le budget participatif était tout nouveau en 2019, je n'avais pas de projet de quartier à défendre et je ne me sentais pas en mesure de voter pour des projets que je ne connaissais pas."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "Pendant la pandémie, la phase de dépôt a été prolongée et le vote en ligne demandait de comparer des projets que je ne connaissais pas, donc je n'ai probablement pas voté et je n'en aurais guère parlé."},
+    {"item_id": "lau10", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "Un sondage de cinq minutes en ligne m'aurait peut-être pris, mais je ne suis pas sûr de l'avoir vu passer, et les soirées d'information demandaient une inscription que je n'aurais probablement pas faite."},
+    {"item_id": "lau03", "participe_proba": 0.09, "partage_proba": 0.06, "raison": "Le bulletin arrive directement dans la boîte aux lettres, ce qui me rappelle l'échéance, mais choisir au moins trois projets sans les connaître me semble long, alors je ne suis pas sûr de le renvoyer."},
+    {"item_id": "lau08", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Je passe parfois aux quais d'Ouchy avec les enfants, mais un questionnaire d'une quinzaine de questions sur la fermeture des quais ne m'a pas accroché pendant le mois où il était ouvert."},
+    {"item_id": "lau04", "participe_proba": 0.07, "partage_proba": 0.04, "raison": "Le bulletin est arrivé chez moi, mais je n'ai pas eu le temps de comparer les projets, et je n'ai pas d'attache particulière à un quartier au-delà de mon immeuble."},
+    {"item_id": "lau09", "participe_proba": 0.04, "partage_proba": 0.09, "raison": "Le thème des discriminations me concerne de près en tant qu'étranger, donc j'en parlerais volontiers, mais le questionnaire était peu annoncé et je n'ai probablement pas pris le temps de le remplir."},
+    {"item_id": "lau05", "participe_proba": 0.10, "partage_proba": 0.06, "raison": "Le bulletin nominatif arrive à domicile et le vote en ligne est simple, donc je pourrais participer, mais je ne suis pas sûr de connaître assez les projets pour faire mes trois choix."},
+    {"item_id": "lau06", "participe_proba": 0.08, "partage_proba": 0.05, "raison": "Le bulletin est reçu à domicile et le vote en ligne est facile, mais la plupart des projets me paraissent loin de mon quartier et je risque de l'oublier pendant l'été."}
+  ]
+}

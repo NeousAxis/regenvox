@@ -1,0 +1,39 @@
+{
+  "id": "p01",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Savoir à l'avance quand ça a lieu, sur un créneau qui ne tombe pas sur mes horaires de formation, et qu'on me dise que l'avis des jeunes compte vraiment."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une démarche portée par des jeunes de mon âge, avec un moyen simple de commander directement à une ferme depuis mon téléphone."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Des dates connues trois semaines à l'avance, un atelier en soirée de semaine à la salle communale, et des jeunes de Vuadens présents."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Voir concrètement ce que la reconnaissance change pour ce que je mange, par exemple une étiquette visible au magasin du village."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes sur mon téléphone, c'est le seul format que je ferais vraiment. Un atelier de deux heures et demie à la salle communale, ou des séquences à heure fixe, ne collent pas à mes horaires qui changent toutes les semaines."
+}

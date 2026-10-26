@@ -1,0 +1,25 @@
+{
+  "id": "p37",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je ne suis pas étudiante, et ce débat sur un forum de l'EPFL à Lausanne ne me touche pas."},
+    {"item_id": "pet02", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Les canicules me pèsent, mais cette lettre demande beaucoup à l'État et à la finance, et un plan climatique de ce type ne correspond pas à ma façon de voir."},
+    {"item_id": "pet03", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Je soutiens l'initiative de l'UDC sur les frontières, et une pétition qui demande de l'invalider me paraît être une manœuvre pour l'écarter."},
+    {"item_id": "pet04", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Je ne partage pas le combat de ce député genevois sur Gaza ni sa critique de la CICAD, et une pétition de soutien à lui me semble politique."},
+    {"item_id": "pet05", "participe_proba": 0.10, "partage_proba": 0.30, "raison": "Le protoxyde d'azote se vend partout, dans les bars et dans la rue, et je vois des jeunes de mon âge s'en servir, donc j'approuve l'interdiction de la vente aux mineurs et pour un usage récréatif."},
+    {"item_id": "pet06", "participe_proba": 0.03, "partage_proba": 0.06, "raison": "Je m'inquiète des canicules, mais je ne suis pas sûre de vouloir toucher à mon deuxième pilier, et cette pétition en anglais venant de professionnels de la santé ne m'atteint pas directement."},
+    {"item_id": "pet07", "participe_proba": 0.04, "partage_proba": 0.12, "raison": "Les primes maladie pèsent lourd sur mon salaire, donc l'idée d'une caisse cantonale m'intéresse, mais le texte se présente lui-même comme fictif et les partenaires privés me rendent méfiante."},
+    {"item_id": "pet08", "participe_proba": 0.06, "partage_proba": 0.15, "raison": "Ma retraite me préoccupe comme tous ceux de mon âge, mais je n'aime pas l'idée de légaliser le cannabis pour financer l'AVS, et les jeunes libéraux ne sont pas mon monde politique."},
+    {"item_id": "pet09", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Versoix n'est pas ma commune, et une salle associative dans les anciens locaux Fust ne touche pas mon quotidien à Meyrin."},
+    {"item_id": "pet10", "participe_proba": 0.08, "partage_proba": 0.25, "raison": "Ce témoignage me touche, mais je ne suis pas concernée et je connais mal le régime de l'incapacité de travail, donc je ne signerais que si une amie me l'envoyait."},
+    {"item_id": "pet11", "participe_proba": 0.05, "partage_proba": 0.10, "raison": "Je connais des gens qui ont attendu longtemps pour voir un psy, donc le sujet me parle, mais je ne suis pas assez informée sur cette motion pour signer."},
+    {"item_id": "pet12", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Une ferme d'agrumes à Borex, dans le canton de Vaud, n'éveille pas mon intérêt, je ne m'y rends jamais et je ne sais pas qui la fréquente."},
+    {"item_id": "pet13", "participe_proba": 0.03, "partage_proba": 0.08, "raison": "Les violences faites aux femmes me révoltent, mais le Jura est loin de moi et je ne me sens pas concernée par une question qui relève d'un autre canton."},
+    {"item_id": "pet14", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Le tram lausannois ne me concerne pas, et je ne vois pas pourquoi je signerais une pétition vaudoise sur les arbres et les arrêts."},
+    {"item_id": "pet15", "participe_proba": 0.01, "partage_proba": 0.01, "raison": "Je pense que la Suisse doit appliquer ses décisions d'asile, et une pétition qui demande de stopper les renvois de réfugiés burundais me semble aller à l'encontre de ma façon de voir."},
+    {"item_id": "pet16", "participe_proba": 0.04, "partage_proba": 0.10, "raison": "Je comprends que l'apprentissage classique mette une pression énorme sur les jeunes, mais un modèle à mi-temps pour personnes handicapées ne me concerne pas directement, donc je ne signerais pas."},
+    {"item_id": "pet17", "participe_proba": 0.10, "partage_proba": 0.35, "raison": "Les lunettes avec caméra me font peur pour les filles dans les vestiaires et les piscines, donc je signerais volontiers une demande d'interdiction, et je l'enverrais à mes copines."},
+    {"item_id": "pet18", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "J'ai peur des canicules et de la sécheresse, mais un appel général demandant des mesures contraignantes sur la consommation et les vols me paraît trop directif pour mon quotidien."},
+    {"item_id": "pet19", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Cette pétition vise un projet d'Albert Rösti, un conseiller fédéral UDC que je soutiens, donc je la laisserais passer même si les incendies m'inquiètent."},
+    {"item_id": "pet20", "participe_proba": 0.22, "partage_proba": 0.50, "raison": "Les soirées où quelqu'un pourrait droguer un verre sont une peur réelle pour les filles de mon âge, donc je signerais cette demande de task force, et je la partagerais à mes amies."}
+  ]
+}

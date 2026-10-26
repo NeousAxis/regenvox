@@ -1,0 +1,17 @@
+{
+  "id": "p18",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Le questionnaire en ligne de 28 questions sur la Susette, en mai 2025, porte sur un secteur que je ne fréquente pas assez pour me sentir concerné, et entre le travail et la famille j'ai pu voir passer l'annonce sans y donner suite."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.05,
+      "partage_proba": 0.07,
+      "raison": "Un sondage en ligne sur l'avenir des Marronniers me touche un peu plus comme habitant, mais il arrive en décembre, pendant une période chargée, et je n'en parlerais guère qu'à ma compagne."
+    }
+  ]
+}

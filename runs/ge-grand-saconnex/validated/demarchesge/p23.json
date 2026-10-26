@@ -1,0 +1,17 @@
+{
+  "id": "p23",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.12,
+      "raison": "Entre mon travail en vente ou restauration et les enfants en bas âge, je n'ai pas pris le temps de répondre à un questionnaire de 28 questions sur un quartier qui ne me touche pas directement, même si l'idée de plus de 900 logements derrière Palexpo me laisse sceptique et que j'en parlerais volontiers à quelques collègues."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Je ne suis pas très concerné par l'avenir des Marronniers, les démarches de ce genre ne m'ont jamais attiré et, avec des enfants à la maison, je ne me suis pas arrêté sur ce sondage ; je n'en ai probablement pas parlé autour de moi."
+    }
+  ]
+}

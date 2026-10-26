@@ -1,0 +1,143 @@
+{
+  "id": "p20",
+  "portrait": "J'ai 53 ans, je suis Suisse et je travaille dans le social et la santé, un métier où l'on voit beaucoup de personnes fragiles et où l'on se soucie de ce qu'on mange et de l'eau qu'on boit. Je vis en couple au centre du village, les enfants sont partis, et je me sens proche du PS, donc sensible aux questions sociales et de santé. Je suis au courant de ce qui se passe à Vuadens, mais je n'ai pas toujours le temps de suivre les affaires de la commune de près.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Si les paysans peuvent vraiment vivre du bio, alors c'est bien, mais il faut que ça paie, pas que ça reste une belle idée sur le papier. »",
+      "engagement": 2,
+      "freins_participation": [
+        "je n'ai pas beaucoup de temps en semaine après le travail",
+        "je ne connais pas personnellement les agriculteurs et je ne veux pas avoir l'air de donner des leçons",
+        "les réunions où l'on parle à la place des paysans me laissent un goût désagréable"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée au village où les agriculteurs eux-mêmes expliquent leurs chiffres, leurs difficultés et ce qui les aiderait, avec un horaire compatible avec mon travail."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« J'achète déjà au marché, mais je ne sais pas quelles fermes d'ici sont en bio. Si on me le disait simplement, je le ferais. »",
+      "engagement": 2,
+      "freins_participation": [
+        "je ne sais pas concrètement comment m'engager en tant qu'habitante",
+        "le bio coûte plus cher, et pour deux personnes à la maison cela pèse sur le budget",
+        "je crains que ce soit une démarche de plus, sans suite"
+      ],
+      "ce_qui_me_ferait_venir": "Une liste simple des fermes du village, une visite ou un marché de producteurs organisé près du centre, et des engagements clairs de la commune que l'on peut suivre."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Je pense aux jeunes qui grandissent ici : ils doivent pouvoir boire l'eau du robinet et voir des prés fleuris. C'est ça que je voudrais leur laisser. »",
+      "engagement": 1,
+      "freins_participation": [
+        "la question est très large, je ne vois pas tout de suite ce que je peux faire concrètement",
+        "j'ai l'impression que ces réflexions se font surtout entre spécialistes ou membres du conseil communal",
+        "je préfère m'informer avant de m'engager"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier ouvert aux jeunes et aux familles, en lien avec l'école ou une association, où l'on imagine concrètement le village dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Reconnaître les fermes, pourquoi pas, mais pas à coups de labels coûteux et de panneaux partout. Les paysans ont déjà assez de papiers. »",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne vois pas bien ce que cela changerait pour ma vie de tous les jours",
+        "je pense que cela intéresse surtout les personnes qui suivent déjà ces sujets",
+        "ce genre de question ne me donne pas envie d'aller à une soirée"
+      ],
+      "ce_qui_me_ferait_venir": "Une balade commentée sur les fermes et les haies du village, à une heure compatible avec la famille, où je comprends concrètement ce que les fermes apportent."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "collègues du secteur santé-social, amis et voisins du centre du village, quelques parents d'élèves, personnes proches de la sensibilité socialiste"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.4,
+      "oui_proba": 0.65,
+      "raison": "Je suis pour protéger le paysage et éviter que les villages se vident l'hiver, mais je ne suis pas sûre qu'une limite à 20 % règle le problème du logement pour les gens d'ici."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Il faut arrêter de grignoter les champs et de construire partout, cela protège aussi les terres des paysans. Même si cela freine certains projets, c'est le bon sens."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "L'idée d'une seule planète par habitant me paraît juste mais abstraite. Je crains des conséquences pour les emplois de la zone industrielle et des contraintes trop lourdes pour les familles."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Après Fukushima, je veux sortir du nucléaire, mais je me demande comment on remplace cette électricité sans revenir au gaz ou au charbon."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Le renouvelable et les économies d'énergie me semblent indispensables. Je m'inquiète seulement que les taxes ou les coûts retombent sur les familles modestes."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Des denrées produites dans le respect des animaux, de l'environnement et des travailleurs, je suis pour. Mais il faut aussi que les paysans d'ici en profitent et ne soient pas écrasés par les importations."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Soutenir l'agriculture indigène et la diversité, oui. Les droits de douane et le protectionnisme, je ne suis pas convaincue que ce soit la bonne solution."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Une eau potable propre et une alimentation saine touchent directement la santé. Je trouve normal que les aides aillent aux fermes qui limitent les pesticides et les antibiotiques."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Je suis contre les pesticides de synthèse pour la santé, mais une interdiction totale sans accompagnement ni délai réaliste mettrait en difficulté les agriculteurs de la région."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Le climat est un enjeu, mais les taxes sur le mazout et les billets d'avion touchent durement ceux qui vivent loin de tout. Je ne veux pas que ce soient les gens de la campagne qui paient."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "La dignité des animaux de rente compte pour moi, mais les éleveurs de la commune n'ont pas les moyens de changer d'un coup. Vingt-cinq ans, c'est long, mais peut-être réaliste."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Il faut agir pour le climat et aider à remplacer les chauffages fossiles. Je veux seulement que les aides soient accessibles aussi aux personnes qui n'ont pas beaucoup d'argent."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Protéger la nature, les haies et le paysage de chez nous est important pour moi. Je crains seulement de nouvelles contraintes pour les exploitations, mais je suis plutôt pour."
+    }
+  ]
+}

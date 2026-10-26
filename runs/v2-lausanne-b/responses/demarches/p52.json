@@ -1,0 +1,65 @@
+{
+  "id": "p52",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Le lac de Sauvabelin est loin de mon quotidien en centre-ville et le sondage papier ne m'est sans doute jamais parvenu, donc j'en parlerais à peine."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.08,
+      "partage_proba": 0.15,
+      "raison": "Le budget participatif me plaît sur le principe, mais ce premier essai est peu visible ; si je vote, ce sera sans grande conviction, et j'en parlerais peut-être à quelques camarades de POP."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Le printemps 2020 a bousculé mon travail dans la restauration, le vote de quartier passe donc après ; j'en parlerais surtout si un proche me relançait."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.08,
+      "raison": "Le plan d'affectation touche le visage de mon quartier, donc je remplirais peut-être le sondage de cinq minutes, mais l'annonce passe surtout par le web et j'en parlerais peu."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.18,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin arrive dans ma boîte aux lettres, ce qui simplifie le vote, mais je n'en fais pas une priorité et j'en parlerais surtout si le sujet vient dans une discussion militante."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "La fermeture des quais peut me toucher dans mon travail, mais le questionnaire était sur le site de la Ville que je consulte peu, et j'en parlerais surtout au bistrot ou au travail."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.16,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin nominatif arrive chez moi et je vote parfois pour les projets proches de chez moi, mais le budget participatif reste secondaire dans ma vie, et j'en parle peu."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Le racisme est un sujet qui me touche, mais ce questionnaire non scientifique, distribué surtout dans des maisons de quartier et des festivals, a peu de chances de tomber sous mes yeux, et je n'en parlerais guère."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "À 61 ans, le bulletin nominatif arrive chez moi et je le retourne peut-être, mais je vote rarement sur des projets que je n'ai pas suivis de près, et j'en parlerais surtout si un ami s'y intéresse."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "À 63 ans, avec un travail qui use, le bulletin à domicile me donne une chance de voter, mais je ne suis pas sûr de connaître les projets de mon quartier, et j'en parlerais peu."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "p28",
+  "portrait": "Je suis retraité, j'ai 70 ans et je vis seul dans un quartier résidentiel récent de Vuadens, après une vie professionnelle passée dans la région. Je me sens proche du PS sans avoir jamais été un militant de la première heure, et je suis attaché au paysage du village que j'ai vu changer au fil des décennies. Je me méfie des beaux discours et j'attends qu'on me montre ce qui se fait concrètement et ce que cela coûte.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Si on veut du bio, il faut que le paysan y gagne sa vie, sinon on ne fera que des promesses. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne connais pas le détail des comptes d'une exploitation",
+        "Je n'ai pas de lien direct avec le monde agricole",
+        "Les soirées d'atelier me fatiguent"
+      ],
+      "ce_qui_me_ferait_venir": "Une rencontre avec des agriculteurs de la commune qui expliquent leurs chiffres, avec la garantie que les conclusions seront suivies d'effets."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« J'aimerais acheter directement à la ferme du village, mais je ne sais pas à qui m'adresser ni si le prix reste raisonnable pour une personne seule. »",
+      "engagement": 3,
+      "freins_participation": [
+        "Les horaires des ateliers",
+        "Des portions souvent trop grandes pour une personne seule",
+        "Le prix, que je dois comparer avant de m'engager"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme organisée sur place, avec la possibilité d'acheter en petites quantités et un transport simple depuis le quartier."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« J'ai des petits-enfants, et je voudrais qu'ils trouvent une terre vivante, avec de l'eau propre et des haies, pas un champ épuisé. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je me sens trop âgé pour un projet qui se joue sur trente ans",
+        "Je doute que mon avis pèse face aux professionnels"
+      ],
+      "ce_qui_me_ferait_venir": "Que les jeunes agriculteurs et l'école soient associés à la démarche, et que la commune fixe des étapes concrètes et vérifiables."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Un panneau ou une fête au village, pourquoi pas, mais la reconnaissance se gagne surtout quand on paie les fermiers qui font l'effort. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je trouve que la reconnaissance passe après le revenu des agriculteurs",
+        "Je ne suis pas très à l'aise dans les événements de groupe"
+      ],
+      "ce_qui_me_ferait_venir": "Un bilan public et clair, avec des mesures sur l'eau et les sols, plutôt que des initiatives de communication."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Voisins du quartier, anciens collègues de travail, membres d'un club sportif ou d'une société locale, et camarades de la section locale du parti. Les échanges sont surtout informels, à l'apéro ou au club, et je transmets volontiers ce que j'apprends."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.8,
+      "oui_proba": 0.75,
+      "raison": "Je vote régulièrement et je suis favorable à des denrées produites dans le respect de l'environnement et des travailleurs. Mon seul doute porte sur les produits importés et sur le coût pour les ménages modestes."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "Je comprends la défense de l'agriculture paysanne, mais les droits de douane et la fermeture aux échanges me paraissent peu compatibles avec des prix raisonnables et un commerce équitable."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Réserver les paiements directs aux fermes sans pesticides de synthèse et sans antibiotiques préventifs me paraît juste. L'eau potable est un sujet qui me touche beaucoup."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.65,
+      "raison": "Je suis plutôt favorable à une agriculture sans pesticides de synthèse, mais je m'inquiète de la transition pour les exploitations et de l'interdiction des importations. Le délai de dix ans me rassure un peu."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "Je soutiens la politique climatique, mais la taxe sur les billets d'avion et les normes pour les bâtiments et les véhicules pèsent sur les budgets modestes. Je voterais oui en pensant aux générations futures, sans enthousiasme."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "La dignité des animaux de rente me touche, et je connais des éleveurs de la région qui font déjà des efforts. La transition sur vingt-cinq ans me paraît longue mais raisonnable."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.85,
+      "oui_proba": 0.8,
+      "raison": "Atteindre zéro émission nette en 2050 est un objectif nécessaire, et les aides pour remplacer les chauffages fossiles me semblent utiles, surtout pour les propriétaires modestes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Protéger la nature et le paysage fait partie de ce que je veux pour Vuadens, même si je m'inquiète un peu des contraintes pour les agriculteurs. Les surfaces et les moyens financiers me paraissent justifiés."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p18",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je suis jeune et peu concerné, et une hausse de la TVA ne me séduit pas, donc je pencherais pour le non comme l'UDC."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Une hausse temporaire de la TVA pour l'AI pourrait se défendre, mais je suis proche de l'UDC qui s'y oppose."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.12,
+      "raison": "Je suis attaché à l'industrie suisse de l'armement et à la liberté économique, et l'UDC comme le PLR recommandent non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.7,
+      "oui_proba": 0.08,
+      "raison": "Je tiens à l'armée de milice et à l'obligation de servir, et l'UDC recommande non à l'abolition."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.8,
+      "raison": "Je veux que la Suisse reprenne la maîtrise de son immigration, et je suis proche de l'UDC qui soutient l'initiative."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Notre armée a besoin d'avions de combat modernes pour protéger le pays, et l'UDC comme le PLR recommandent oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Je suis proche de l'UDC qui soutient l'initiative et je reste attaché à une conception traditionnelle du mariage, même si la question fiscale me concerne peu."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Je refuse une nouvelle hausse de TVA et l'UDC recommande non, même si une réforme des retraites me paraît nécessaire."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Les vaches à cornes font partie de la tradition valaisanne qui me tient à cœur, mais je n'aime pas les subventions supplémentaires, donc je pencherais pour le non comme l'UDC."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.82,
+      "raison": "Je veux que la Constitution suisse prime sur le droit international, et je suis proche de l'UDC qui porte cette initiative."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas reprendre automatiquement le droit européen, et je suis proche de l'UDC qui s'y oppose, même si les questions d'armes me touchent peu."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.55,
+      "raison": "Je soutiens un contrôle strict de l'immigration, mais la fin de la libre circulation avec l'UE pourrait peser sur mon activité et nos échanges, même si l'UDC la recommande."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.65,
+      "oui_proba": 0.88,
+      "raison": "La régulation du loup est un problème très concret pour les alpages et les éleveurs valaisans, et l'UDC comme le PLR recommandent oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Je veux une défense aérienne moderne pour notre pays, et l'UDC comme le PLR recommandent oui."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.12,
+      "raison": "Je refuse qu'on empêche les banques et les caisses de pension de financer l'industrie suisse de défense, et l'UDC comme le PLR recommandent non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Réserver les paiements directs aux seules exploitations sans pesticides ferait trop de tort à nos viticulteurs et agriculteurs, et l'UDC recommande non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.4,
+      "oui_proba": 0.12,
+      "raison": "Interdire les pesticides de synthèse en dix ans mettrait nos vignes et nos cultures en difficulté, et l'UDC recommande non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le mariage pour tous ne me dérange pas personnellement, mais l'UDC s'y oppose et mon milieu reste assez réservé, donc je reste partagé."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Une interdiction totale de l'expérimentation animale et humaine freinerait la recherche médicale dont nous dépendons, et tous les partis recommandent non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Je veux que la Suisse participe à la sécurisation des frontières extérieures de Schengen, et l'UDC comme le PLR recommandent oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je comprends la préoccupation pour le bien-être animal, mais ces exigences alourdiraient la charge de nos paysans, et l'UDC recommande non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.62,
+      "raison": "Je préfère une petite hausse de TVA pour sauver l'AVS plutôt qu'une réforme plus dure, et l'UDC comme le PLR recommandent oui."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je suis attaché à la nature de mon village, mais l'initiative imposerait trop de contraintes aux agriculteurs et aux propriétaires, et l'UDC recommande non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je suis proche de l'UDC qui la refuse, et l'effet sur notre couple dépendrait surtout de l'écart entre nos revenus."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.72,
+      "raison": "Je veux limiter la croissance de la population pour le logement et la mobilité en Valais, et je suis proche de l'UDC qui soutient l'initiative."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Je tiens à ce que chacun assume ses obligations militaires, et l'UDC comme le PLR recommandent oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.78,
+      "raison": "Une neutralité perpétuelle et armée me paraît la meilleure garantie de notre indépendance, et je suis proche de l'UDC qui soutient l'initiative."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "L'idée de produire davantage en Suisse me plaît, mais un objectif de 70 % en dix ans me paraît irréaliste pour nos exploitations, et l'UDC recommande non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je reconnais la 13e rente AVS, mais je refuse qu'on la finance par une hausse de TVA, et l'UDC n'a pas encore pris position."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je trouve les pétards bruyants gênants, mais je tiens aux feux de fête de mon village et je crains une interdiction trop large, donc je pencherais pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Si nous étions mariés avec des revenus inégaux, l'imposition commune nous avantagerait, mais l'UDC n'a pas encore tranché et je reste partagé."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.68,
+      "raison": "Je veux une industrie de défense suisse compétitive, et ces livraisons me paraissent compatibles avec la neutralité, donc je suivrais le PLR et Le Centre qui recommandent oui."
+    }
+  ]
+}

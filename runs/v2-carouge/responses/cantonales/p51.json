@@ -1,0 +1,29 @@
+{
+  "id": "p51",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.25,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas pourquoi l'État paierait la pilule et les autres moyens de contraception pour tout le monde avec nos impôts, 20 millions par an c'est trop, et le MCG s'y oppose."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.3,
+      "oui_proba": 0.12,
+      "raison": "On met 39,5 millions dans des bus et des tramways en France alors que nous avons nos propres problèmes de transports et de logement à Genève, et les Genevois ont déjà refusé ce genre de financement en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.3,
+      "oui_proba": 0.62,
+      "raison": "Je trouve normal qu'un locataire qui habite depuis trois ans puisse acheter son appartement, à condition que les autres locataires ne soient pas forcés de partir, et c'est aussi la ligne du MCG."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.25,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas convaincu que l'État doive continuer à financer la HES sans plus de contrôle, et le MCG s'y oppose, donc je penche pour le non."
+    }
+  ]
+}

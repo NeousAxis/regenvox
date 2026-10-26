@@ -1,0 +1,29 @@
+{
+  "id": "p31",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je ne suis pas contre aider les jeunes, mais rembourser la contraception pour tout le monde sans condition, avec 20 millions de plus à charge des contribuables, ce n'est pas à l'État de le faire."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Dépenser 39,5 millions pour des projets en France, alors que nos routes et nos transports sont saturés ici et que le peuple a déjà refusé ce genre de financement en 2014, ça ne passe pas pour moi."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "Être propriétaire de son logement est une chose que je respecte, et avec les garde-fous prévus pour les autres locataires, le texte me paraît raisonnable."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "Deux millions de moins par an pour la HES me paraissent raisonnables vu la hausse des taxes d'études, même si la formation compte."
+    }
+  ]
+}

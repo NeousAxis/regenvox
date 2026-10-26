@@ -1,0 +1,111 @@
+{
+  "id": "p40",
+  "portrait": "Je suis une femme suisse de 38 ans, et j'élève seule mes enfants dans un quartier résidentiel récent de Vuadens. Je travaille comme technicienne dans une entreprise de la zone industrielle, donc je connais les horaires qui changent et le budget qu'on compte au franc près. Je me sens proche du Centre parce que je cherche des solutions raisonnables qui ne mettent pas les familles en difficulté, et je suis attentive à ce qui change autour du village sans être militante.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Si nos paysans ne peuvent pas vivre de leur travail, il n'y aura plus personne pour faire du bio ni pour entretenir nos champs. »",
+      "engagement": 2,
+      "freins_participation": [
+        "mes horaires et la garde des enfants",
+        "le sentiment que les décisions sont déjà prises ailleurs",
+        "je ne suis pas sûre de bien connaître le métier d'agriculteur"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée en fin de journée avec une garde d'enfants sur place et des chiffres clairs sur ce que gagne une ferme."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« L'idée me plaît, mais quand je fais mes courses en fin de mois, c'est le prix qui décide, pas le principe. »",
+      "engagement": 1,
+      "freins_participation": [
+        "le budget familial est serré",
+        "je ne sais pas concrètement comment on devient partenaire d'une ferme",
+        "je n'ai pas de temps libre en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples précis de paniers ou de vente directe à un prix abordable pour une famille, présentés au marché du samedi."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Je veux que mes enfants puissent boire l'eau du robinet et se promener dans des champs où il y a encore des oiseaux. »",
+      "engagement": 2,
+      "freins_participation": [
+        "les horaires de travail",
+        "je n'ai pas l'habitude de ce genre de réunion"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier avec un objectif concret pour le village, où les enfants peuvent venir avec moi."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Un panneau ou une visite de ferme, pourquoi pas, mais je veux voir ce que ça change vraiment, et pas seulement de la communication. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne vois pas bien le lien avec mon quotidien",
+        "les visites organisées ne me parlent pas beaucoup"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte aux familles le samedi, avec des gens du village que je connais."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "parents d'élèves de l'école du village, collègues de l'entreprise de la zone industrielle, quelques voisines du quartier et famille élargie installée dans la région"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Je suis pour une alimentation saine et des conditions correctes pour les animaux et les travailleurs, mais des produits importés plus chers vont peser sur les petits budgets comme le mien. Je ne suis pas sûre que ça aide vraiment les paysans d'ici."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Soutenir l'agriculture de chez nous et le nombre de paysans me parle, surtout avec les fermes de la région. Mais les droits de douane et les prix garantis, je me demande qui paie la facture à la fin."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "L'eau potable et la santé des enfants me touchent directement, donc l'objectif me parle. Par contre, réserver les paiements directs aux fermes sans pesticides me paraît brutal pour des familles agricoles déjà sous pression."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "Moins de produits chimiques dans les champs, c'est bien pour mes enfants et pour les abeilles. Le délai de dix ans me rassure, mais je ne sais pas si les solutions de remplacement resteront abordables pour les agriculteurs et pour les consommateurs."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je prends la voiture pour aller travailler et mon budget chauffage est déjà tendu. Taxer les billets d'avion et le mazout, pour moi c'est une facture de plus, et ce sont les familles comme la mienne qui la paient. Le climat me préoccupe, mais je ne soutiens pas une loi qui pèse sur les petits salaires."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Le bien-être des animaux, je suis d'accord, je vois les vaches dans les prés autour du village. Mais imposer les normes Bio Suisse aux importations et une transition de 25 ans, je me demande qui paie les travaux dans les étables. Je serais partagée."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Remplacer les vieux chauffages au mazout et aider les entreprises à innover, je vois l'intérêt pour l'avenir. Je voudrais surtout que les aides soient accessibles aux familles qui ont de petits revenus, sinon elles profitent surtout à ceux qui ont déjà les moyens."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "J'aime la nature autour de chez nous et je vois que l'on construit vite. Mais l'initiative demande plus de surfaces protégées, et cela se répercute sur les agriculteurs de la région. Il me faut un équilibre plutôt qu'une obligation sans nuance."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p18",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.004,
+      "partage_proba": 0.02,
+      "raison": "J'habitais la cité de Meyrin, pas Cointrin, je n'ai jamais vu les flyers, et un atelier de concertation un samedi après-midi sur une promenade qui ne me concernait pas ne m'attirait pas du tout à l'époque."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je ne réponds pas spontanément aux consultations de la commune : si je tombais sur un questionnaire en ligne sur la culture, je le laisserais probablement de côté entre le travail et la famille, et une politique culturelle financée par la commune ne me parle pas beaucoup."
+    }
+  ]
+}

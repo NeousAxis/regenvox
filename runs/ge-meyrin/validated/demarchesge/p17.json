@@ -1,0 +1,17 @@
+{
+  "id": "p17",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Un atelier le samedi après-midi à Cointrin, sur un projet d'aménagement qui ne me concerne pas directement et dans un quartier où je ne vais pas souvent, alors que ma semaine de soignante et de collègue est déjà bien remplie : j'aurais pu le voir passer dans ma boîte aux lettres sans y aller ni en parler."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Un questionnaire en ligne court aurait pu me tenter, mais la culture ne me mobilise pas au quotidien et je n'ai pas le temps de suivre une consultation qui dure plusieurs mois : j'en aurais peut-être parlé à des collègues, sans que cela aille plus loin."
+    }
+  ]
+}

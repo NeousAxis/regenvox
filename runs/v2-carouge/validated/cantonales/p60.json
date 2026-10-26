@@ -1,0 +1,29 @@
+{
+  "id": "p60",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.85,
+      "oui_proba": 0.8,
+      "raison": "Je ne suis plus concernée personnellement, mais je trouve juste que les jeunes ne renoncent pas à une contraception faute d'argent, et vingt millions par an me paraissent un coût raisonnable pour cela, même si les autorités disent non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.68,
+      "raison": "Des bus, un prolongement de tram et des parkings-relais pour moins de voitures à la frontière, c'est concret, et le PS comme le PLR disent oui, mais je garde un doute sur le financement d'infrastructures en France, dont on se souvient du refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Les locataires âgés comme moi risquent de se retrouver sans logement abordable si les congés-ventes reviennent, et l'ASLOCA comme le PS et les Verts disent non, donc je ne veux pas qu'on fragilise les locataires pour quelques propriétaires."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Former les soignants et les travailleurs sociaux compte pour moi, mais réduire l'indemnité de deux millions par an me paraît une économie qui pèse sur la formation, et le PS dit non, donc je reste hésitante."
+    }
+  ]
+}

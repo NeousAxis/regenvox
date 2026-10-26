@@ -1,0 +1,258 @@
+{
+ "_note": "Résultats officiels (données ouvertes OFS / Chancellerie fédérale), lus le 25.10.2026. Seules les votations de rôle analogue servent à la correction.",
+ "commune": 6265,
+ "resultats": [
+  {
+   "vote_id": "a2004-avs-tva",
+   "commune_oui": 20.73,
+   "commune_participation": 44.15,
+   "canton_oui": 20.0,
+   "suisse_oui": 31.42,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20040516-eidgAbstimmung.json (objet 5080, commune 6265)"
+  },
+  {
+   "vote_id": "a2009-ai-tva",
+   "commune_oui": 61.92,
+   "commune_participation": 47.99,
+   "canton_oui": 61.74,
+   "suisse_oui": 54.56,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20090927-eidgAbstimmung.json (objet 5430, commune 6265)"
+  },
+  {
+   "vote_id": "a2009-exportation",
+   "commune_oui": 25.95,
+   "commune_participation": 69.45,
+   "canton_oui": 29.24,
+   "suisse_oui": 31.77,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20091129-eidgAbstimmung.json (objet 5460, commune 6265)"
+  },
+  {
+   "vote_id": "a2013-service",
+   "commune_oui": 20.41,
+   "commune_participation": 51.31,
+   "canton_oui": 25.19,
+   "suisse_oui": 26.79,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20130922-eidgAbstimmung.json (objet 5720, commune 6265)"
+  },
+  {
+   "vote_id": "a2014-immigration",
+   "commune_oui": 49.31,
+   "commune_participation": 68.58,
+   "canton_oui": 48.32,
+   "suisse_oui": 50.33,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140209-eidgAbstimmung.json (objet 5800, commune 6265)"
+  },
+  {
+   "vote_id": "a2014-gripen",
+   "commune_oui": 40.82,
+   "commune_participation": 69.11,
+   "canton_oui": 38.06,
+   "suisse_oui": 46.59,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140518-eidgAbstimmung.json (objet 5840, commune 6265)"
+  },
+  {
+   "vote_id": "a2016-couple",
+   "commune_oui": 57.87,
+   "commune_participation": 69.43,
+   "canton_oui": 56.96,
+   "suisse_oui": 49.16,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20160228-eidgAbstimmung.json (objet 5960, commune 6265)"
+  },
+  {
+   "vote_id": "a2017-avs-tva",
+   "commune_oui": 51.06,
+   "commune_participation": 50.43,
+   "canton_oui": 51.95,
+   "suisse_oui": 49.95,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20170924-eidgAbstimmung.json (objet 6140, commune 6265)"
+  },
+  {
+   "vote_id": "a2018-vaches",
+   "commune_oui": 43.53,
+   "commune_participation": 58.8,
+   "canton_oui": 48.84,
+   "suisse_oui": 45.27,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6230, commune 6265)"
+  },
+  {
+   "vote_id": "a2018-autodetermination",
+   "commune_oui": 29.17,
+   "commune_participation": 58.8,
+   "canton_oui": 32.4,
+   "suisse_oui": 33.73,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6240, commune 6265)"
+  },
+  {
+   "vote_id": "a2019-armes",
+   "commune_oui": 54.78,
+   "commune_participation": 53.67,
+   "canton_oui": 57.11,
+   "suisse_oui": 63.74,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20190519-eidgAbstimmung.json (objet 6280, commune 6265)"
+  },
+  {
+   "vote_id": "a2020-limitation",
+   "commune_oui": 35.01,
+   "commune_participation": 67.18,
+   "canton_oui": 37.95,
+   "suisse_oui": 38.29,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6310, commune 6265)"
+  },
+  {
+   "vote_id": "a2020-chasse",
+   "commune_oui": 64.35,
+   "commune_participation": 67.18,
+   "canton_oui": 68.6,
+   "suisse_oui": 48.07,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6320, commune 6265)"
+  },
+  {
+   "vote_id": "a2020-avions",
+   "commune_oui": 51.57,
+   "commune_participation": 67.18,
+   "canton_oui": 52.02,
+   "suisse_oui": 50.13,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6350, commune 6265)"
+  },
+  {
+   "vote_id": "a2020-materiel",
+   "commune_oui": 33.69,
+   "commune_participation": 50.76,
+   "canton_oui": 35.38,
+   "suisse_oui": 42.55,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20201129-eidgAbstimmung.json (objet 6370, commune 6265)"
+  },
+  {
+   "vote_id": "a2021-eau",
+   "commune_oui": 15.78,
+   "commune_participation": 67.5,
+   "canton_oui": 21.71,
+   "suisse_oui": 39.31,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6410, commune 6265)"
+  },
+  {
+   "vote_id": "a2021-pesticides",
+   "commune_oui": 17.36,
+   "commune_participation": 67.5,
+   "canton_oui": 23.03,
+   "suisse_oui": 39.44,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6420, commune 6265)"
+  },
+  {
+   "vote_id": "a2021-mariage",
+   "commune_oui": 53.47,
+   "commune_participation": 58.64,
+   "canton_oui": 55.51,
+   "suisse_oui": 64.1,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210926-eidgAbstimmung.json (objet 6470, commune 6265)"
+  },
+  {
+   "vote_id": "a2022-experimentation",
+   "commune_oui": 16.04,
+   "commune_participation": 48.07,
+   "canton_oui": 18.62,
+   "suisse_oui": 20.86,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220213-eidgAbstimmung.json (objet 6510, commune 6265)"
+  },
+  {
+   "vote_id": "a2022-frontex",
+   "commune_oui": 73.33,
+   "commune_participation": 40.29,
+   "canton_oui": 75.25,
+   "suisse_oui": 71.48,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220515-eidgAbstimmung.json (objet 6570, commune 6265)"
+  },
+  {
+   "vote_id": "a2022-elevage",
+   "commune_oui": 22.07,
+   "commune_participation": 54.0,
+   "canton_oui": 23.92,
+   "suisse_oui": 37.13,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6580, commune 6265)"
+  },
+  {
+   "vote_id": "a2022-avs-tva",
+   "commune_oui": 49.95,
+   "commune_participation": 54.0,
+   "canton_oui": 50.42,
+   "suisse_oui": 55.07,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6590, commune 6265)"
+  },
+  {
+   "vote_id": "a2024-biodiversite",
+   "commune_oui": 24.25,
+   "commune_participation": 47.98,
+   "canton_oui": 26.08,
+   "suisse_oui": 36.96,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20240922-eidgAbstimmung.json (objet 6710, commune 6265)"
+  },
+  {
+   "vote_id": "a2026-imposition",
+   "commune_oui": 54.82,
+   "commune_participation": 58.89,
+   "canton_oui": 48.43,
+   "suisse_oui": 54.26,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260308-eidgAbstimmung.json (objet 6850, commune 6265)"
+  },
+  {
+   "vote_id": "a2026-10-millions",
+   "commune_oui": 44.61,
+   "commune_participation": 60.32,
+   "canton_oui": 47.22,
+   "suisse_oui": 45.21,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6860, commune 6265)"
+  },
+  {
+   "vote_id": "a2026-service-civil",
+   "commune_oui": 60.12,
+   "commune_participation": 60.32,
+   "canton_oui": 57.09,
+   "suisse_oui": 52.46,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6870, commune 6265)"
+  },
+  {
+   "vote_id": "h2026-neutralite",
+   "commune_oui": 33.18,
+   "commune_participation": 46.95,
+   "canton_oui": 32.91,
+   "suisse_oui": 29.84,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6880, commune 6265)"
+  },
+  {
+   "vote_id": "h2026-alimentation",
+   "commune_oui": 23.83,
+   "commune_participation": 46.95,
+   "canton_oui": 24.5,
+   "suisse_oui": 27.47,
+   "commune_nom_ogd": "Savièse",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6890, commune 6265)"
+  }
+ ]
+}

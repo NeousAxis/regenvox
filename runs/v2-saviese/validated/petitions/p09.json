@@ -1,0 +1,125 @@
+{
+  "id": "p09",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.015,
+      "partage_proba": 0.1,
+      "raison": "Affaire d'étudiants de l'EPFL à Lausanne, sans lien direct avec ma vie à Savièse ; la surveillance me préoccupe, mais je ne signe guère ce type d'appel."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "Les canicules et les sécheresses de cet été me préoccupent en Valais, mais je signe rarement une lettre ouverte de coalition, même sur un sujet qui me touche."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.2,
+      "partage_proba": 0.15,
+      "raison": "Je suis hostile à l'UDC et je défends le droit d'asile, mais la pétition est technique et je ne signe qu'occasionnellement les campagnes en ligne."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Je suis sensible à la liberté du débat et à la cause palestinienne, mais cette affaire se déroule à Genève et ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Le problème existe, mais il se joue à Genève ; je ne m'engage pas sur un dossier cantonal genevois."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Ma caisse de pension est concernée par ces placements, ce qui me touche, mais la demande reste large et je ne signe pas souvent ce genre de pétition économique."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Les primes d'assurance-maladie me préoccupent, mais le projet se présente comme fictif et ouvre la porte à des assureurs privés, ce que je rejette."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "L'AVS me concerne directement, mais je refuse une hausse de la TVA ou de la durée de cotisation, et je me méfie de la démarche des Jeunes Vert'libéraux."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "Versoix est une commune genevoise, pas la mienne ; je ne suis pas concerné par ce dossier local."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Le sujet est touchant et juste, mais je n'ai pas de lien direct avec cette situation et je ne partage pas ce type de témoignage."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.09,
+      "partage_proba": 0.1,
+      "raison": "Les délais d'attente en santé mentale me parlent, surtout en vivant seul, mais je ne suis pas directement concerné par cette motion."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Le patrimoine agricole et les produits du terroir m'intéressent, mais la ferme se trouve dans le canton de Vaud et je ne signe pas ce type de demande locale."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "Les violences faites aux femmes me révoltent, mais le Jura est loin de moi et je ne signe pas les pétitions de ce canton."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Le tram lausannois et la chaleur en ville ne me concernent pas, je ne vis pas à Lausanne et ce parti n'est pas le mien."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Proche du PS, je suis sensible à l'asile et aux droits humains, mais je ne suis pas spontanément mobilisé sur le dossier burundais."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Le sujet touche l'intégration des jeunes en situation de handicap, mais il ne me concerne pas directement et je ne signe pas les pétitions sur la formation."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.07,
+      "partage_proba": 0.2,
+      "raison": "La vie privée et la surveillance me préoccupent, mais une interdiction de vente me semble excessive et les lunettes connectées ne m'attirent guère."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Le climat me préoccupe, mais la liste de mesures est très large et je ne signe qu'une partie des appels de ce type."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.2,
+      "partage_proba": 0.35,
+      "raison": "Les incendies et la sécheresse menacent les forêts au-dessus de Sion, et je m'oppose à la suppression des fonds voulue par Albert Rösti ; c'est le sujet qui me mobilise le plus."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.05,
+      "partage_proba": 0.15,
+      "raison": "La protection des victimes me touche, mais la pétition reste peu concrète sur les moyens et je ne suis pas un relais de ce genre de campagne."
+    }
+  ]
+}

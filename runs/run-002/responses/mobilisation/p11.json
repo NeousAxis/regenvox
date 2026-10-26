@@ -1,0 +1,39 @@
+{
+  "id": "p11",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "La présence annoncée d'agriculteurs du village à la table, pour être sûre que la discussion ne restera pas entre spécialistes."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un samedi matin proposé avec une garde d'enfants assurée sur place, parce qu'un soir de semaine ne me laisse pas la place."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.1,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Pouvoir venir avec mes enfants, avec un moment prévu pour eux, par exemple une visite d'une ferme du village où l'on voit les oiseaux et l'eau."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une liste ou une carte des fermes du village déjà engagées dans le bio, jointe à l'invitation, pour que le sujet devienne concret."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes que je peux faire sur mon téléphone le soir, une fois les enfants couchés, sans rien à caler dans l'agenda. Le parcours demande trois créneaux sur trois semaines, et l'atelier une soirée ou un samedi entier avec les enfants : je ne tiendrai pas ça."
+}

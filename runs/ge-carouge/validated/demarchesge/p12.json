@@ -1,0 +1,11 @@
+{
+  "id": "p12",
+  "reactions": [
+    {
+      "item_id": "gen07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.07,
+      "raison": "Le quartier est tout proche, mais un atelier en soirée un mercredi après mes journées dans le social ou la santé me paraît peu probable, et je ne suis pas du genre à suivre les démarches de la ville ; le sujet pourrait revenir avec mon compagnon ou des collègues, mais sans être central."
+    }
+  ]
+}

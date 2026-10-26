@@ -1,0 +1,17 @@
+{
+  "id": "p28",
+  "reaction": {
+    "position": "interesse",
+    "intensite": 3,
+    "citation": "Je n'ai pas de champ, j'ai un balcon, mais le bio, je suis pour, à condition qu'on me dise concrètement ce que je peux faire et ce que ça me coûte.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je n'ai ni terrain ni la force de m'occuper d'un champ, donc je ne vois pas bien ce que je peux faire concrètement",
+      "Le bio coûte plus cher et ma retraite ne me permet pas de payer beaucoup plus pour mon alimentation",
+      "Je ne sais pas ce que la commune prévoit concrètement ni qui décide, et les annonces sans suite me rendent méfiant",
+      "Je vis seul et je connais peu de monde dans le quartier, donc les soirées de réunion ne me tentent pas trop",
+      "On me demande de changer mes habitudes sans m'expliquer l'intérêt réel pour le village"
+    ],
+    "ce_qui_me_ferait_venir": "Des informations chiffrées : combien de terres passent au bio, ce que ça change pour le prix du pain, des légumes et du lait, et un atelier en journée, accessible à pied depuis chez moi, avec un agriculteur de la région."
+  }
+}

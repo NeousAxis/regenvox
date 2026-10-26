@@ -1,0 +1,39 @@
+{
+  "id": "p45",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un atelier le samedi matin plutôt que le soir de semaine, avec un agriculteur de la commune qui explique son métier sans jargon, pour que je n'aie pas l'impression de venir sur un sujet qui ne me regarde pas."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une visite d'une ferme de la commune, ouverte à tous les habitants avant l'atelier, pour voir concrètement ce que veut dire un partenariat et qui s'y engage."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un engagement écrit que les propositions issues de l'atelier seront soumises au conseil communal, avec un compte rendu public de ce qui a été retenu et de ce qui ne l'a pas été."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.01,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Rien de précis : le sujet ne me touche pas assez pour que je change ma façon de faire."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes que je peux remplir un soir sur le canapé ou un samedi, sans m'engager sur une date. Le parcours à distance demande trois séquences sur trois semaines, et je ne tiendrais pas ce rythme avec mon travail à Bulle."
+}

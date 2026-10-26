@@ -1,0 +1,17 @@
+{
+  "id": "p13",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.07,
+      "raison": "Le questionnaire en ligne de 28 questions sur le futur quartier de la Susette, qui ne me concerne pas directement, me paraît trop long à remplir sur internet à mon âge, et je n'en ai guère entendu parler en dehors de la commune."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Le sondage en ligne sur le quartier des Marronniers passe surtout par internet et des rendez-vous en présentiel que je ne fréquente pas, mais l'affaire est plus proche de chez nous, donc j'en aurais peut-être parlé à quelques voisines."
+    }
+  ]
+}

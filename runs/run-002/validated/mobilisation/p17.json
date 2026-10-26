@@ -1,0 +1,39 @@
+{
+  "id": "p17",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants sur place pendant l'atelier, et la preuve que le sujet touche aussi ma vie de famille, comme le prix du panier ou la qualité de la cantine."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.09,
+      "ce_qui_doublerait_ma_venue": "Des légumes vendus à prix stable pour les enfants, une visite de ferme accessible à pied, et un atelier le samedi matin avec une garde d'enfants."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un format court le samedi matin, avec garde d'enfants, sur une question précise comme l'eau du robinet ou les repas à l'école, plutôt que sur la terre dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Savoir qui décide, et voir un lien concret avec mon quotidien, par exemple des fermes qui livrent à Vuadens ou une école qui s'y engage."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire tient en 10 minutes sur mon téléphone : je peux le faire d'une seule traite le soir quand les enfants dorment, sans garde ni déplacement. L'atelier demande une garde que je n'ai pas, et le parcours sur trois semaines est un engagement que je tiendrais mal."
+}

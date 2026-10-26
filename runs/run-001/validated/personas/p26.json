@@ -1,0 +1,64 @@
+{
+  "id": "p26",
+  "portrait": "J'ai 17 ans, je suis Suissesse et je vis seule dans un petit logement au centre de Vuadens, à deux pas de la place du village. Je suis en formation et mes journées tournent entre les cours, le travail et les trajets dans la région. Je ne me suis pas vraiment positionnée sur la politique, mais je vois les champs et les vaches depuis ma fenêtre et ça me touche plus que je ne le dis.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans peuvent vivre de leur travail, c'est juste, mais je ne sais pas trop comment on y arrive concrètement. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je connais peu le monde agricole et je ne me sens pas légitime pour en parler",
+        "Je n'ai pas beaucoup de temps entre l'école et mon travail",
+        "Les réunions du soir me paraissent loin si je n'ai pas de voiture"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet expliqué simplement, avec des agriculteurs qui racontent leur quotidien, et une soirée ou un samedi que je peux caser dans mon emploi du temps."
+    },
+    {
+      "angle_id": 2,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Acheter directement chez les fermiers du village, ça me plairait, mais le bio coûte cher et je dois faire attention à mon budget. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le prix du bio, qui me freine dans mes achats",
+        "Je ne sais pas toujours quelles fermes vendent en direct",
+        "Je ne lis pas les démarches officielles de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Une question en ligne simple, ou un marché ou une visite de ferme où je peux goûter et discuter avec des jeunes de mon âge."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Dans trente ans je serai encore là, alors je veux que l'eau soit propre et que les champs ne soient pas épuisés. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je pense que ce genre de décision se prend surtout entre adultes",
+        "Je m'exprime mieux à l'écrit qu'à l'oral devant des inconnus",
+        "Je ne sais pas à qui adresser mon avis"
+      ],
+      "ce_qui_me_ferait_venir": "Une question ouverte posée sur les réseaux de la commune, avec une réponse courte et un retour visible sur ce qui est décidé."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les vaches dans les prés, c'est joli en passant, mais je ne sais pas vraiment ce que ces fermes apportent à l'eau ou aux oiseaux. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le sujet me paraît technique et lointain",
+        "Je ne me sens pas concernée par la reconnaissance des fermes",
+        "Je n'ai pas le réflexe de lire les communications de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples concrets autour de chez moi, par exemple un chemin balisé ou une parcelle que je peux voir, présentés en vidéo ou sur un panneau."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "suiveur",
+    "cercle_type": "camarades de formation et amis de l'école, quelques personnes du village croisées au quotidien, famille proche qui suit ce que je partage en ligne"
+  },
+  "votes": []
+}

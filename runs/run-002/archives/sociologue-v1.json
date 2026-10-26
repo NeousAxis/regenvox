@@ -1,0 +1,301 @@
+{
+  "angle_recommande": {
+    "angle_id": 1,
+    "justification": "Aucun angle ne produit de co-porteurs dans la simulation (0 partout), la métrique d'activation ne départage donc pas les angles : je retiens celui qui offre le plus grand vivier de porteurs à transformer en co-porteurs. L'angle 1 compte 27,1 % de porteurs dès le départ (contre 4,6 à 10,3 % pour les autres), le soutien moyen le plus élevé (0,823, et encore 0,659 au bas de la fourchette de sensibilité, au-dessus de la moyenne de l'angle 4), la meilleure viralité (0,889) et le mi-parcours le plus rapide (8 mois contre 10), pour une résistance faible (0,066). Ses 12 porteurs (p03, p08, p19, p20, p28, p29, p32, p36, p39, p40, p43, p48) traversent les sensibilités politiques (PS, Centre, Vert-e-s, UDC) et comprennent l'éleveur bio p19. Sa faiblesse se situe chez les agriculteurs : 5 sur 8 favorables au départ (0,625) contre 7 sur 8 pour l'angle 3, parce que le mot promoteur braque p02, p18 et p41. Je recommande donc l'angle 1 en y greffant la question de la relève portée par l'angle 3 (0,854 de soutien final chez les agriculteurs) et en remplaçant l'injonction à promouvoir le bio par une garantie de prix et de débouchés. La participation en atelier étant nulle pour les quatre angles, le passage du soutien à la co-construction dépendra autant du format (fromagerie, après la traite, samedi matin, garde d'enfants) que du message."
+  },
+  "segments": [
+    {
+      "nom": "Éleveurs ouverts sous condition de revenu",
+      "persona_ids": [
+        "p12",
+        "p13",
+        "p19",
+        "p23",
+        "p27"
+      ],
+      "position_dominante": "interesse",
+      "objection_citee": "Le bio, je veux bien regarder, mais seulement si le lait est payé plus cher et que la transition ne nous met pas dans le rouge pendant trois ans.",
+      "persona_source": "p12",
+      "racine": "economique",
+      "levier": "Mettre sur la table, à la fromagerie après la traite du soir, les chiffres réels d'une conversion (prix du lait bio, aides de transition, coût des années de reconversion) avec un acheteur qui garantit le prix sur plusieurs années, faire témoigner les fermes bio du village comme p19, et relier la démarche à la reprise des exploitations par les jeunes (p13, p23)."
+    },
+    {
+      "nom": "Éleveurs méfiants envers le rôle de promoteur",
+      "persona_ids": [
+        "p02",
+        "p18",
+        "p41"
+      ],
+      "position_dominante": "reticent",
+      "objection_citee": "On se fait traiter de pollueurs alors qu'on entretient les prés et les haies depuis des générations. Qu'on nous reconnaisse, oui, mais pas en nous faisant la leçon.",
+      "persona_source": "p18",
+      "racine": "identitaire",
+      "levier": "Ne pas leur demander de devenir promoteurs du bio, ce qui reviendrait à désavouer leurs voisins conventionnels (p41) : commencer par reconnaître publiquement et rémunérer ce qu'ils font déjà (haies, bandes fleuries, prairies extensives), leur laisser le choix du rythme, et organiser l'échange entre pairs sur l'exploitation, en journée, avec une garantie d'acheteur et de prix."
+    },
+    {
+      "nom": "Habitants solidaires du revenu paysan",
+      "persona_ids": [
+        "p03",
+        "p08",
+        "p20",
+        "p28",
+        "p29",
+        "p32",
+        "p36",
+        "p39",
+        "p40",
+        "p43",
+        "p48"
+      ],
+      "position_dominante": "porteur",
+      "objection_citee": "Si les paysans ne peuvent pas vivre du bio, ça restera une affaire de vitrine. Il faut que le prix paie le travail, pas seulement une subvention de plus.",
+      "persona_source": "p48",
+      "racine": "economique",
+      "levier": "Transformer un soutien sincère mais passif (engagement de 1 à 2) en acte : une soirée courte où les agriculteurs exposent eux-mêmes leurs comptes, à un horaire compatible avec le travail en équipes et avec garde d'enfants, suivie d'engagements simples (achat à la fromagerie, soutien à une cantine qui achète local) et d'un rôle explicite de relais dans leurs réseaux de parents d'élèves et de collègues."
+    },
+    {
+      "nom": "Pragmatiques du libre choix",
+      "persona_ids": [
+        "p04",
+        "p07",
+        "p09",
+        "p10",
+        "p14",
+        "p15",
+        "p16",
+        "p22",
+        "p25",
+        "p30",
+        "p31",
+        "p34",
+        "p35",
+        "p37",
+        "p38",
+        "p46",
+        "p47"
+      ],
+      "position_dominante": "interesse",
+      "objection_citee": "Les paysans doivent pouvoir vivre de leur travail, c'est la base. Si le bio paie, tant mieux, mais qu'on ne leur impose rien.",
+      "persona_source": "p10",
+      "racine": "politique",
+      "levier": "Présenter la démarche comme portée par les agriculteurs eux-mêmes et non par l'administration, sans objectif imposé, sans nouvelle taxe ni label, et passant par le marché (prix payé au producteur, débouchés à la fromagerie et à la cantine), avec des chiffres comparés bio et conventionnel présentés par des paysans du village."
+    },
+    {
+      "nom": "Ménages éloignés des fermes, budget serré",
+      "persona_ids": [
+        "p05",
+        "p06",
+        "p11",
+        "p17",
+        "p21",
+        "p24",
+        "p33",
+        "p42",
+        "p45"
+      ],
+      "position_dominante": "indifferent",
+      "objection_citee": "Les agriculteurs travaillent dur, c'est vrai, mais je ne vois pas trop ce que ça change pour moi.",
+      "persona_source": "p24",
+      "racine": "information",
+      "levier": "Entrer par l'assiette plutôt que par l'agriculture : un panier ou une vente directe à prix comparable au magasin, un point de retrait dans le quartier ou au village, une visite de ferme le samedi avec les enfants, une invitation écrite simplement, et une garde d'enfants pour les rencontres."
+    },
+    {
+      "nom": "Jeunes en formation",
+      "persona_ids": [
+        "p01",
+        "p26",
+        "p44"
+      ],
+      "position_dominante": "interesse",
+      "objection_citee": "Que les paysans puissent vivre de leur travail, c'est évident, mais je ne vois pas trop ce que je peux y changer à mon âge.",
+      "persona_source": "p01",
+      "racine": "identitaire",
+      "levier": "Passer par l'école et l'apprentissage : visite de ferme ou repas local à la cantine, question courte à remplir sur le téléphone avec la garantie d'être lu, et montrer ce que les fermes offrent aux jeunes (places d'apprentissage, petits boulots à la ferme, comme le demande p44)."
+    }
+  ],
+  "freins_participation": [
+    {
+      "frein": "Traite matin et soir, foins et vêlages qui rendent impossibles les réunions du soir pour les agriculteurs",
+      "persona_ids": [
+        "p02",
+        "p12",
+        "p13",
+        "p18",
+        "p19",
+        "p23",
+        "p27",
+        "p41"
+      ],
+      "levier": "Rencontres courtes à la fromagerie après la traite du soir ou sur l'exploitation en journée, calées hors saison des foins, plutôt qu'à la salle communale."
+    },
+    {
+      "frein": "Horaires décalés, travail en équipes ou longues journées de chantier",
+      "persona_ids": [
+        "p01",
+        "p08",
+        "p09",
+        "p14",
+        "p24",
+        "p30",
+        "p35",
+        "p37",
+        "p38",
+        "p39",
+        "p42",
+        "p47"
+      ],
+      "levier": "Doubler chaque rendez-vous (samedi matin et soirée), proposer un avis en ligne ou par message en complément, et publier le calendrier longtemps à l'avance."
+    },
+    {
+      "frein": "Garde d'enfants, notamment pour les parents seuls",
+      "persona_ids": [
+        "p08",
+        "p11",
+        "p17",
+        "p21",
+        "p40",
+        "p46",
+        "p48"
+      ],
+      "levier": "Garde d'enfants sur place, rencontres organisées à l'école, formats où les enfants sont bienvenus comme une visite de ferme en famille avec un goûter."
+    },
+    {
+      "frein": "Sentiment d'illégitimité : ne pas être du métier, avoir peur de dire des bêtises ou de faire la leçon aux paysans",
+      "persona_ids": [
+        "p01",
+        "p03",
+        "p06",
+        "p08",
+        "p11",
+        "p14",
+        "p17",
+        "p20",
+        "p26",
+        "p28",
+        "p29",
+        "p38",
+        "p39",
+        "p44",
+        "p45",
+        "p48"
+      ],
+      "levier": "Un format où les agriculteurs exposent leurs comptes et où les habitants viennent pour poser des questions et non pour juger, précédé d'une fiche de chiffres simples (prix du litre, revenu d'une ferme bio et conventionnelle)."
+    },
+    {
+      "frein": "Sentiment d'inutilité : décisions déjà prises, réunions sans suite",
+      "persona_ids": [
+        "p02",
+        "p04",
+        "p05",
+        "p07",
+        "p09",
+        "p15",
+        "p16",
+        "p19",
+        "p28",
+        "p29",
+        "p31",
+        "p35",
+        "p37",
+        "p40",
+        "p41",
+        "p45",
+        "p46"
+      ],
+      "levier": "Annoncer dès l'invitation ce qui sera décidé et par qui, publier un compte rendu montrant ce qui a été retenu, et rattacher chaque rencontre à une décision concrète (contrat cantine, prix garanti, accès au foncier pour la relève)."
+    },
+    {
+      "frein": "Mobilité réduite, absence de voiture, conduite de nuit impossible",
+      "persona_ids": [
+        "p15",
+        "p17",
+        "p24",
+        "p25",
+        "p26",
+        "p29",
+        "p36"
+      ],
+      "levier": "Rencontres de jour au village, trajet organisé vers les fermes, points de vente et de retrait accessibles à pied ou en bus."
+    },
+    {
+      "frein": "Mal à l'aise avec internet et les formulaires en ligne",
+      "persona_ids": [
+        "p25",
+        "p36",
+        "p43"
+      ],
+      "levier": "Courrier dans la boîte aux lettres avec les chiffres, information dans le journal communal et possibilité de donner son avis sur papier ou de vive voix à la fromagerie."
+    },
+    {
+      "frein": "Langue et vocabulaire technique pour les habitants étrangers",
+      "persona_ids": [
+        "p17",
+        "p24"
+      ],
+      "levier": "Invitations écrites simplement, sans jargon agricole, et moments conviviaux comme des portes ouvertes où l'on peut poser ses questions sans se sentir jugé."
+    },
+    {
+      "frein": "Prix du bio et peur d'un engagement lourd pour devenir partenaire d'une ferme",
+      "persona_ids": [
+        "p03",
+        "p08",
+        "p11",
+        "p14",
+        "p16",
+        "p17",
+        "p21",
+        "p24",
+        "p26",
+        "p28",
+        "p29",
+        "p38",
+        "p39",
+        "p40",
+        "p44",
+        "p46",
+        "p47"
+      ],
+      "levier": "Prix affichés et comparés au magasin, formules sans engagement, petits paniers pour personnes seules (p39), tarifs familiaux et cantine scolaire qui achète local pour que l'effort ne repose pas sur chaque ménage."
+    }
+  ],
+  "ambassadeurs_potentiels": [
+    {
+      "persona_id": "p19",
+      "pourquoi": "Seul éleveur du panel déjà en bio, porteur sur les angles 1 et 3, relais d'un cercle agricole de 30 personnes (coopérative laitière, association d'éleveurs, parents de l'école). Son témoignage chiffré sur le prix du lait bio est exactement ce que réclament p02, p18, p27 et p41, à condition de ne pas en faire l'alibi d'un projet qui ne le paie pas, comme il le redoute lui-même."
+    },
+    {
+      "persona_id": "p12",
+      "pourquoi": "Jeune agricultrice conventionnelle d'intensité 4 sur l'angle 1 et porteuse sur l'angle 3, relais d'un cercle de 40 personnes qui relie les producteurs livrant à la fromagerie et les parents d'élèves. Elle fait le pont entre fermes et familles et demande elle-même à entendre les fermes bio du village."
+    },
+    {
+      "persona_id": "p13",
+      "pourquoi": "Futur repreneur de 24 ans, intensité 4 sur l'angle 1, relais d'un cercle de 40 personnes (famille agricole, collègues de la région, société locale). Il incarne la relève qui fait la force de l'angle 3 et peut porter la question de la reprise et de la location des terres aux jeunes."
+    },
+    {
+      "persona_id": "p41",
+      "pourquoi": "Agricultrice conventionnelle réticente sur l'angle 1 mais porteuse sur l'angle 4, relais auprès de la fromagerie et de la coopérative laitière. Si la démarche commence par reconnaître ce qu'elle fait déjà pour les haies et les prairies, elle peut ouvrir la porte des éleveurs conventionnels que le mot promoteur braque."
+    },
+    {
+      "persona_id": "p03",
+      "pourquoi": "Porteur d'intensité 4 sur l'angle 1, relais d'un cercle de 45 personnes (collègues de la zone industrielle, voisins du centre, section PS, connaissances paysannes via la fromagerie). Il demande que les agriculteurs exposent eux-mêmes leurs comptes, ce qui en fait un bon passeur vers les habitants non agricoles."
+    },
+    {
+      "persona_id": "p11",
+      "pourquoi": "Porteuse sur les angles 2 et 3, relais d'un cercle de 40 personnes via les groupes WhatsApp de parents d'élèves et du quartier. Elle peut diffuser vers les familles des quartiers récents, à condition d'un format avec garde d'enfants et de prix abordables."
+    },
+    {
+      "persona_id": "p43",
+      "pourquoi": "Porteur d'intensité 4 sur l'angle 1 et proche de l'UDC, relais auprès de sa génération et d'une société locale. Il montre que le revenu paysan n'est pas un sujet partisan et peut rassurer le segment attaché au libre choix, qui craint une obligation déguisée."
+    }
+  ],
+  "surprises": [
+    "Aucun des quatre angles ne produit un seul co-porteur et la participation en atelier est nulle partout : même l'angle 1, soutenu à 82 %, reste un soutien passif. Le blocage tient moins au message qu'au format et au sentiment d'illégitimité des non-agriculteurs, qui disent presque tous ne pas être du métier.",
+    "L'angle 2 obtient la meilleure participation en ligne (35,8 %) mais aucun des huit agriculteurs n'y est favorable : pour eux, un partenariat sans engagement d'achat ressemble à un contrôle de leurs pratiques ou à une vitrine (p12, p18, p23, p27).",
+    "L'angle 3 est celui qui rallie le mieux les agriculteurs (7 sur 8 favorables au départ) parce qu'il touche la relève, alors qu'il laisse indifférente plus de la moitié des habitants (54,7 %), pour qui trente ans reste un horizon abstrait.",
+    "L'angle 4, censé honorer les fermes, braque une partie de ceux qu'il veut reconnaître (p13, p18 et p27 réticents) : l'idée qu'une reconnaissance ne paie pas la facture revient chez les agriculteurs comme chez les habitants, et p41 est la seule agricultrice porteuse sur cet angle.",
+    "Le soutien au revenu paysan traverse tous les bords politiques (porteurs PS, Centre, Vert-e-s et UDC sur l'angle 1), mais l'électorat de droite qui le soutient refuse toute obligation : le consensus tient tant que le passage au bio reste le choix de l'agriculteur.",
+    "La cantine scolaire surgit spontanément des deux côtés comme le débouché qui réconcilie tout le monde : des agriculteurs veulent un contrat (p18, p27) et des parents veulent du local abordable pour leurs enfants (p05, p07, p08, p11, p17, p37).",
+    "La fromagerie villageoise, plus que la salle communale, est le lieu de confiance cité par agriculteurs et habitants pour se rencontrer (p10, p12, p18, p19, p23, p28, p38).",
+    "Plusieurs habitants ne savent pas quelles fermes de Vuadens sont en bio ni à laquelle s'adresser (p11, p20, p28, p48), alors que p12 en compte trois : une simple liste des fermes et de leurs ventes directes lèverait un frein d'information à coût quasi nul."
+  ]
+}

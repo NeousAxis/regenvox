@@ -1,0 +1,29 @@
+{
+  "id": "p55",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.4,
+      "oui_proba": 0.12,
+      "raison": "Je ne vois pas pourquoi l'Etat paierait la pilule et les autres moyens de contraception alors que mes primes d'assurance ne cessent de grimper, et l'UDC dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Les bouchons à la frontière m'agacent et des bus ou un tram qui les réduisent pourraient aider, mais payer des projets en France avec notre argent genevois me reste difficile à avaler."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Acheter mon logement un jour me tenterait, mais la peur des congés-ventes et la ligne de mon parti me font pencher pour le non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.68,
+      "raison": "Une haute école doit être financée, l'UDC soutient ce contrat et deux millions de moins par an ne me paraissent pas dramatiques alors que les étudiants paient déjà des taxes plus élevées."
+    }
+  ]
+}

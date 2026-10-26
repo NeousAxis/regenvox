@@ -1,0 +1,39 @@
+{
+  "id": "p13",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Qu'un paysan de Vuadens vienne expliquer en personne ce que le bio change pour sa ferme et son revenu, et que la soirée finisse à l'heure, sans qu'on décide à sa place."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un atelier où l'on me dit concrètement ce que ça change pour ma famille, sans engagement à long terme, et à une heure compatible avec mon travail."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur les emplois et les écoles de Vuadens, avec des exemples de ce qui a marché ailleurs, plutôt qu'une question sur trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.09,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Que la soirée montre des résultats concrets, comme une visite de ferme ou des chiffres sur l'eau et les sols, et qu'elle ait lieu à une heure compatible avec mon travail."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire se fait en dix minutes sur mon téléphone le soir, sans me déplacer ni prendre un samedi matin. L'atelier de 2 h 30 et le parcours sur trois semaines demandent une présence que je n'ai pas au quotidien."
+}

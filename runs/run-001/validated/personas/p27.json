@@ -1,0 +1,113 @@
+{
+  "id": "p27",
+  "portrait": "Je suis agriculteur à Vuadens, sur l'exploitation familiale où nous élevons des vaches laitières sur herbages, en production conventionnelle. Je vis en couple, les enfants sont partis, et je me demande encore qui reprendra la ferme après moi. Je vis de mon lait et de ce que la ferme peut dégager, je suis attaché à la terre et je me méfie des discours venus de la ville qui décident pour nous sans avoir travaillé le sol.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Vivre de mon travail, c'est la question de fond depuis toujours. Mais le bio n'est pas une baguette magique : si le prix ne suit pas, je ne vais pas faire la promotion d'une voie qui me fait perdre de l'argent. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Crainte d'une baisse de revenu pendant la transition",
+        "Méfiance envers les démarches décidées sans les agriculteurs",
+        "Peu de temps disponible pendant les travaux de fenaison et la traite"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur les marges par exploitation, un prix d'achat garanti par la fromagerie du village ou par la laiterie, et des collègues de la commune qui ont franchi le pas et qui témoignent."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Les gens veulent du bio, mais à la caisse ils prennent le moins cher. Être partenaire d'une ferme, ça veut dire quoi, venir nous regarder travailler ? Je ne suis pas un zoo. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Manque de temps pour accueillir du public",
+        "Impression que les habitants ne connaissent pas le métier",
+        "Risque de critiques sur nos pratiques de la part de gens qui n'y connaissent rien"
+      ],
+      "ce_qui_me_ferait_venir": "Une démarche concrète avec un vrai engagement d'achat de la part des habitants, pas seulement des belles paroles, et une organisation qui ne me prenne pas mes soirées."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« La terre, je la veux en bon état pour ceux qui viendront après. Mais la transmettre, ça commence par quelqu'un qui a envie de la reprendre et qui peut en vivre. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Pas de successeur identifié pour l'instant",
+        "Des règles qui changent sans cesse et qui découragent les jeunes",
+        "Une vision à trente ans difficile à partager quand on gère le quotidien"
+      ],
+      "ce_qui_me_ferait_venir": "Des garanties de rentabilité à long terme, des aides qui durent, et un espace de discussion où les agriculteurs parlent d'égal à égal avec la commune."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« On se fait traiter de pollueurs à longueur de temps, alors que les haies, les prairies et les surfaces de compensation, on les entretient. Qu'on le reconnaisse, ça me plairait. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Crainte que la reconnaissance reste symbolique",
+        "Démarches administratives supplémentaires",
+        "Agenda des travaux agricoles, qui ne laisse guère de place aux réunions"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance qui s'accompagne de moyens, par exemple un affichage local ou un soutien sur les mesures déjà en place, et une présentation faite avec les agriculteurs et non à leur place."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Cercle agricole et villageois : quelques exploitants de la région avec qui on s'entraide et on échange du matériel, des habitants du hameau, des clients de la fromagerie et des membres de sociétés locales. Peu de contacts dans les milieux urbains de Bulle."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "Sur le principe, des conditions équitables, pourquoi pas. Mais l'initiative ajoute des exigences sur l'offre sans régler le prix payé au producteur, et pour les importations je ne vois pas comment on les contrôlerait vraiment."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Protéger la production indigène et garantir des prix dignes aux paysans, c'est le message que je défends depuis longtemps. Pour l'absence d'OGM, aucun problème."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Je veux de l'eau propre, mais lier tous les paiements directs à zéro pesticide et au fourrage produit sur la ferme, c'est couper le revenu de beaucoup d'exploitations d'un coup. Ce n'est pas la bonne méthode."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.1,
+      "raison": "Interdire les produits de synthèse sans solutions de rechange prêtes, c'est risquer des pertes de récoltes. Et laisser entrer des denrées traitées ailleurs pendant qu'on interdit chez nous, ça n'a pas de sens pour la concurrence."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le climat me préoccupe, je vois les étés plus secs sur les herbages. Mais chaque taxe supplémentaire sur le mazout, le gasoil ou les billets d'avion pèse sur ceux qui n'ont pas le choix, et les fonds seraient gérés loin du terrain."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.8,
+      "oui_proba": 0.3,
+      "raison": "Mon élevage est sur herbages, pas en intensif, donc je ne me sens pas visé. Mais exiger les normes Bio Suisse pour tout l'élevage et pour les importations, sur vingt-cinq ans et sans parler des prix, ça met les éleveurs suisses dans une impasse face aux produits étrangers."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.7,
+      "oui_proba": 0.55,
+      "raison": "Zéro émission nette en 2050, je ne suis pas contre l'objectif, les agriculteurs sont concernés par le climat avant tout le monde. J'attends que l'agriculture soit prise en compte et que les aides servent aussi aux fermes qui doivent changer."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.3,
+      "raison": "Je fais déjà des surfaces de compensation écologique sur ma ferme, la nature, j'y tiens. Mais l'initiative veut plus de surfaces et plus d'argent pour la biodiversité sans dire d'où ça vient, et sur mes terres cela veut dire moins de production."
+    }
+  ]
+}

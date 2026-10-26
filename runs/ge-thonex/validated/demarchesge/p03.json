@@ -1,0 +1,11 @@
+{
+  "id": "p03",
+  "reactions": [
+    {
+      "item_id": "gen02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Une soirée de trois heures en semaine, après le travail et avec la famille à gérer, ce n'est pas le genre de chose que je fais, et je ne me souviens pas avoir vu l'annonce, sauf peut-être un papier dans la boîte aux lettres."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p15",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un transport aller-retour organisé depuis mon quartier jusqu'à la salle communale, pour ne pas dépendre de la marche."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique en une phrase ce qu'on attend concrètement d'un habitant partenaire, sans formulaire et sans contrôle du travail des fermiers."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Qu'on parte de ce que ça change pour mes petits-enfants et pour les paysans d'ici, et non d'une vision de la commune dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une aide financière directe aux fermes concernées, annoncée clairement dans l'invitation, car une plaque ne suffit pas à me faire venir."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je préfère répondre chez moi, sans sortir le soir ni suivre trois séances en ligne. Un questionnaire de dix minutes reste un formulaire, ce que je n'aime guère, mais c'est le moins contraignant des trois, et je pourrais le faire d'un coup sur le sujet des prix payés aux paysans, qui me tient à cœur."
+}

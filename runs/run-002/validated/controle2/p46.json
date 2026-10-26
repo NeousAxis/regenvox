@@ -1,0 +1,16 @@
+{
+  "id": "p46",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le bio, pourquoi pas, mais qui va payer la conversion et qui va décider ? Si c'est un objectif tombé d'en haut, les paysans d'ici vont en baver et nous on paiera plus cher les courses.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille en équipes à l'atelier et j'ai deux enfants, les soirées sont déjà compliquées",
+      "Je me méfie des projets décidés de loin, et on n'a pas l'impression d'être consultés sur ce genre d'objectif",
+      "Le bio coûte plus cher et, avec un budget de famille, chaque franc compte",
+      "Je ne veux pas que les agriculteurs de Vuadens se ruinent pour une norme de plus"
+    ],
+    "ce_qui_me_ferait_venir": "Une soirée près de la fromagerie avec des agriculteurs de la commune qui montrent leurs chiffres, le prix payé pour le lait et les céréales bio, et ce qui est prévu pour ceux qui ne veulent pas changer. Qu'on me dise aussi ce que ça change pour le prix au magasin et pour les emplois de la zone industrielle."
+  }
+}

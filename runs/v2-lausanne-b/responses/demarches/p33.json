@@ -1,0 +1,65 @@
+{
+  "id": "p33",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "À 17 ans, je ne me sentais pas concernée par l'avenir des établissements du lac de Sauvabelin et je n'ai pas vu l'annonce."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.07,
+      "raison": "Le budget participatif était tout nouveau à l'époque, je n'ai pas suivi le vote et je n'avais ni projet ni quartier à défendre."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Pendant la pandémie et avec mes études, je n'ai pas suivi le vote du budget participatif, même si j'en avais entendu parler."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Un sondage de cinq minutes sur mon quartier est facile à remplir, mais la démarche est passée presque inaperçue pendant le confinement et je ne m'en suis pas occupée."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi reçu dans la boîte aux lettres pourrait me décider, mais choisir au moins trois projets demande du temps que je n'ai pas toujours."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Je suis passée sur les quais pendant l'été, mais un questionnaire de quinze questions sur la fermeture aux voitures ne m'a pas incitée à le remplir."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif envoyé à domicile me facilite la tâche, mais je ne connais pas bien les projets de mon quartier et je ne vote qu'occasionnellement."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.15,
+      "partage_proba": 0.22,
+      "raison": "Le racisme me touche directement comme personne étrangère et professionnelle du social, donc j'aurais probablement répondu et j'en aurais parlé à mes collègues."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin nominatif envoyé à toute la population dès 4 ans est difficile à ignorer, mais je ne vote que lorsqu'un projet touche directement mon quotidien."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.16,
+      "raison": "Avec un emploi du temps chargé je n'ai pas toujours le réflexe de voter, mais le bulletin à domicile et le vote en ligne rendent la participation simple."
+    }
+  ]
+}

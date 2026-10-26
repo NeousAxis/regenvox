@@ -1,0 +1,29 @@
+{
+  "id": "p22",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je ne suis plus concernée personnellement, 20 millions de plus par an me paraissent beaucoup pour l'État, et mon parti et le Conseil d'État recommandent non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Mon parti et les autorités recommandent oui, et moins de voitures chaque jour à la frontière soulagerait notre village, même si je me souviens du refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Le PLR est pour et l'accession à la propriété pour les locataires qui habitent leur logement depuis longtemps me paraît juste, mais je me méfie des congés-ventes qui feraient disparaître des logements locatifs."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Mon parti et les autorités recommandent oui, et une baisse de 2 millions par an me semble raisonnable tant que la HES garde ses formations."
+    }
+  ]
+}

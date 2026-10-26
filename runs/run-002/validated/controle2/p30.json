@@ -1,0 +1,17 @@
+{
+  "id": "p30",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "« Le bio, c'est bien beau dans les bureaux, mais nos paysans doivent nourrir leurs bêtes et payer leurs factures. Si la commune veut la majorité des terres en bio, qu'elle commence par payer la différence aux agriculteurs. Moi, on ne me dit pas comment faire mon métier. »",
+    "engagement": 0,
+    "freins_participation": [
+      "Je n'ai pas le temps, je suis sur les chantiers du matin au soir",
+      "Un objectif décidé par la commune, et on me demande mon avis après coup",
+      "Ça concerne les paysans et leurs exploitations, pas mon métier de bâtiment",
+      "Personne ne m'explique qui paie les surcoûts ni la baisse de rendement",
+      "Je me méfie des objectifs chiffrés qui finissent en règles et en contrôles"
+    ],
+    "ce_qui_me_ferait_venir": "Que ce soit sur la base du volontariat, sans nouvelle contrainte pour les entreprises du village, et qu'on me montre des chiffres clairs sur ce que ça coûte à chacun. Un atelier le soir, près de chez nous, avec les agriculteurs autour de la table, ça je viendrais."
+  }
+}

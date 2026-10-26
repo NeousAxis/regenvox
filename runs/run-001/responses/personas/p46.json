@@ -1,0 +1,57 @@
+{
+  "id": "p46",
+  "portrait": "J'ai 25 ans, je suis suisse et je travaille comme technicienne dans l'industrie de la région. Je vis en couple avec nos enfants dans un quartier résidentiel récent de Vuadens, je vote plutôt au centre et je n'ai pas beaucoup de temps pour suivre la politique communale. Je suis attentive à ce que mangent mes enfants et à la beauté de la campagne autour de chez nous, mais je me méfie des projets décidés d'en haut sans qu'on demande l'avis de ceux qui travaillent vraiment la terre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans arrivent à bien vivre de leur travail, ils suivront. Mais il faut que ça paie, sinon on reste aux belles paroles. »",
+      "engagement": 1,
+      "freins_participation": ["je n'ai pas beaucoup de temps entre mon travail et les enfants", "je ne connais pas bien le monde agricole et je ne vois pas comment l'aider concrètement"],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagne une ferme qui passe en bio, et une soirée animée par les agriculteurs eux-mêmes plutôt que par des politiciens."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter directement à la ferme du coin, pourquoi pas, mais seulement si ce n'est pas beaucoup plus cher qu'au supermarché. »",
+      "engagement": 2,
+      "freins_participation": ["le budget, les fins de mois sont serrées", "les horaires, je ne peux pas aller chercher quelque chose à la ferme en semaine"],
+      "ce_qui_me_ferait_venir": "Un système simple, comme un panier hebdomadaire ou un point de retrait près de chez moi, sans engagement compliqué."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« C'est pour mes enfants que je me pose la question. Je veux qu'ils puissent jouer dehors et boire l'eau du robinet sans se faire du souci. »",
+      "engagement": 2,
+      "freins_participation": ["je ne sais pas concrètement comment on s'y prend, c'est un sujet très vaste", "les soirées avec les petits sont compliquées à organiser"],
+      "ce_qui_me_ferait_venir": "Un projet qui implique les écoles et les familles, avec une activité pour les enfants pendant qu'on discute, et des résultats visibles qu'on peut suivre."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Reconnaître les paysans, très bien, mais ce qui compte pour eux c'est de pouvoir payer leurs factures, pas les médailles. »",
+      "engagement": 1,
+      "freins_participation": ["je ne suis pas directement concernée, je ne fais pas partie du monde agricole", "je ne vois pas bien ce que je pourrais y apporter"],
+      "ce_qui_me_ferait_venir": "Une fête de village ou une journée de ferme ouverte à tous, où mes enfants peuvent voir les animaux et goûter les produits."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "Collègues de l'atelier, parents rencontrés à l'école du village, famille élargie et quelques voisins du quartier avec qui on parle de la vie de la commune"
+  },
+  "votes": [
+    {"vote_id": "v2018-equitables", "participe_proba": 0, "oui_proba": 0.5, "raison": "Pas encore majeure à cette date, je n'avais pas le droit de voter. Estimation purement théorique : les bonnes conditions de travail me parlent, mais je crains la hausse des prix."},
+    {"vote_id": "v2018-souverainete", "participe_proba": 0, "oui_proba": 0.55, "raison": "Pas encore majeure à cette date, je n'avais pas le droit de voter. Estimation théorique : la protection de l'agriculture suisse me parle, mais les droits de douane font monter les prix pour nous, les salariés."},
+    {"vote_id": "v2021-eau", "participe_proba": 0.6, "oui_proba": 0.6, "raison": "L'eau potable pour mes enfants, c'est important. Soutenir les paysans qui font attention me paraît plus juste que de les punir."},
+    {"vote_id": "v2021-pesticides", "participe_proba": 0.6, "oui_proba": 0.35, "raison": "Je suis contre les pesticides en général, mais une interdiction totale sans transition, avec des importations qui en contiennent encore, me paraît irréaliste pour les paysans d'ici."},
+    {"vote_id": "v2021-co2", "participe_proba": 0.6, "oui_proba": 0.45, "raison": "Je comprends l'urgence climatique, mais la taxe sur les billets d'avion et la hausse sur le carburant, c'est nous qui payons avec un salaire de technicienne. Je suis partagée."},
+    {"vote_id": "v2022-elevage", "participe_proba": 0.5, "oui_proba": 0.4, "raison": "La dignité des animaux, je suis pour, mais imposer ces règles aux importations sur vingt-cinq ans me paraît compliqué, et nos éleveurs de la région risquent de payer la note."},
+    {"vote_id": "v2023-climat", "participe_proba": 0.7, "oui_proba": 0.6, "raison": "Zéro émission nette d'ici 2050, je trouve ça bien, et des aides pour changer de chauffage sont utiles. Je me méfie seulement des obligations qui coûtent cher aux ménages."},
+    {"vote_id": "v2024-biodiversite", "participe_proba": 0.6, "oui_proba": 0.45, "raison": "Protéger la nature, oui, la campagne autour de Vuadens est belle. Mais prendre plus de terres à l'agriculture, je m'inquiète pour les paysans qui ont déjà du mal à joindre les deux bouts."}
+  ]
+}

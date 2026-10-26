@@ -1,0 +1,64 @@
+{
+  "id": "p44",
+  "portrait": "J'ai 17 ans, je suis en apprentissage et je vis en couple, sans enfant, dans un quartier résidentiel récent de Vuadens. Je ne suis pas suisse et je ne vote pas, donc je suis surtout ce qui touche mon quotidien, comme mon salaire d'apprentie, les courses et les trajets. Je ne suis pas très politique et les projets de la commune, je les vois passer sans trop m'y intéresser.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Les paysans travaillent dur et devraient mieux gagner leur vie, mais je ne sais pas trop ce que le bio change pour moi. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je suis en apprentissage et je n'ai pas beaucoup de temps libre",
+        "Je ne connais personne dans le monde agricole de la commune",
+        "Je ne sais pas où ni quand ces démarches se passent"
+      ],
+      "ce_qui_me_ferait_venir": "Une information claire sur ce que le bio change pour le prix de ce que j'achète et pour les fermes, et un rendez-vous le soir ou le week-end avec des agriculteurs qui parlent vraiment de leur métier."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Acheter directement à la ferme, ça me paraît bien, mais c'est sûrement fait pour les gens qui ont de l'argent. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Mon budget est serré avec mon salaire d'apprentie",
+        "Je n'ai pas le temps d'aller chercher les produits à la ferme",
+        "Je ne suis pas sûre que ce soit fait pour quelqu'un comme moi"
+      ],
+      "ce_qui_me_ferait_venir": "Un système simple, par exemple une commande sur le téléphone avec un panier à prix raisonnable, ou des tarifs pensés pour les jeunes et les petits budgets."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans, je ne sais pas où je serai ni ce qui poussera ici, alors je pense surtout au présent. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Le sujet me paraît très loin de mon quotidien",
+        "Je n'ai pas le droit de vote ici, donc je pense que mon avis compte moins",
+        "Je ne vois pas à quoi servirait un atelier sur ce sujet"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me demande vraiment mon avis, avec des exemples concrets de ce que ça change pour les jeunes de la commune, par exemple les places d'apprentissage ou les petits boulots à la ferme."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Les fermes qui font attention à la nature, il faudrait le dire davantage, on ne le voit presque jamais sur les produits. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas concrètement ce qu'une ferme apporte à l'eau ou aux sols",
+        "Je ne suis pas sûre que participer à ce genre de chose en vaille la peine",
+        "Les horaires des ateliers ne collent pas avec mon travail"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte, en fin d'après-midi ou le samedi, où je pourrais voir les champs, les haies et les animaux, et poser mes questions."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "Famille proche, quelques amis de longue date, camarades de l'école professionnelle et collègues d'apprentissage, et cercle du conjoint composé de jeunes actifs. Les informations circulent surtout par les réseaux sociaux et les discussions entre jeunes, très peu par les démarches de la commune."
+  },
+  "votes": []
+}

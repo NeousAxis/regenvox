@@ -1,0 +1,197 @@
+{
+  "id": "p32",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Enfant de 6 ans à l'époque, pas en âge de voter."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Enfant de 11 ans, pas en âge de voter."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas en âge de voter (11 ans), je n'avais aucune position sur ce sujet."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas en âge de voter (15 ans), je n'aurais pas eu d'avis formé."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas en âge de voter (15 ans)."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas en âge de voter (16 ans)."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Probablement pas encore majeure en février 2016."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.65,
+      "raison": "Jeune votante peu engagée, le Centre soutient ce financement et la retraite nous concerne tous."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Le Centre recommande non et une contribution fédérale pour les cornes pèserait sur les éleveurs du village, même si le bien-être animal me touche."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "Le Centre s'oppose à l'initiative et les accords internationaux comptent pour les emplois de l'industrie de la région."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Le Centre soutient la reprise de la directive, et les exceptions pour les tireurs et l'arme d'ordonnance rassurent."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Le Centre dit non, et je crains qu'une sortie de la libre circulation fragilise les emplois de l'industrie de la région, même si l'immigration se voit dans le village."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Le loup menace les troupeaux du coin et le Centre soutient la régulation, même si la protection de la nature me parle aussi."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "La défense du pays compte, le Centre dit oui et je fais confiance aux autorités pour choisir le modèle."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Le Centre dit non et l'interdiction de financement toucherait des entreprises suisses qui font vivre des familles de la région."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Je veux une eau propre pour mes enfants, mais le Centre dit non et les paiements directs font vivre les paysans de la commune."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Le Centre dit non, je suis sensible au bio, mais une interdiction en dix ans paraît brutale pour nos agriculteurs."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Le Centre dit oui, je suis pour l'égalité devant le mariage et cela ne change rien à ma vie de famille."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.25,
+      "oui_proba": 0.03,
+      "raison": "La recherche médicale reste nécessaire et tous les partis disent non, je ne vois pas l'intérêt d'une interdiction totale."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Le Centre dit oui, la sécurité des frontières extérieures me paraît sensée, même si je reste prudente sur la migration."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être animal me touche, mais le Centre dit non et les petites exploitations de la commune n'ont pas les moyens de ces normes."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Le Centre soutient AVS 21 et je veux une retraite financée, même si le passage à 65 ans pour les femmes me pose question."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "La nature du village me tient à cœur, mais le Centre dit non et l'initiative pèserait sur les exploitations."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le Centre dit non, mais en tant que femme qui travaille, l'imposition individuelle me paraît plus juste."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Le Centre dit non et je ne veux pas de mesures qui touchent les familles, mais la pression sur le logement autour de Bulle me préoccupe."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Le Centre soutient ce durcissement, et je trouve normal que ceux qui ont été incorporés remplissent leurs obligations."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Le Centre dit non, la neutralité me tient à cœur mais une neutralité armée et perpétuelle me paraît trop rigide."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je veux des produits locaux et moins de pesticides, mais le Centre dit non et 70 % d'autoapprovisionnement paraît irréaliste."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Le Centre soutient la 13e rente et la retraite de nos parents compte, même si la TVA pèse sur le budget familial."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Le bruit des pétards me gêne avec les enfants et les animaux, mais je tiens aux feux du 1er août et le Centre n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Le Centre soutient l'imposition commune, et un couple avec enfants où un seul revenu compte y gagnerait, mais le peuple a déjà tranché en mars."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Le Centre soutient l'assouplissement, mais je reste méfiante sur les livraisons à des pays engagés dans un conflit."
+    }
+  ]
+}

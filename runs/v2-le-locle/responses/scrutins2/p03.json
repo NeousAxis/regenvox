@@ -1,0 +1,197 @@
+{
+  "id": "p03",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date, mais je me serais alignée sur le PS, qui soutenait le financement de l'AVS."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date, mais un financement temporaire de l'AI me paraissait raisonnable, comme au PS."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "Pas encore en âge de voter à cette date, mais interdire l'exportation d'armes me semblait logique, comme au PS."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Pas encore en âge de voter à cette date, et comme je ne suis pas concernée directement, j'aurais probablement suivi le PS qui soutenait l'abolition."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date, mais remettre en cause la libre circulation me paraissait une erreur, comme au PS."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter à cette date, mais le PS était contre cet achat d'avions et je n'y voyais pas l'urgence."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date, mais inscrire une seule forme de couple dans la Constitution me paraissait dépassé, comme au PS."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date, mais le financement de l'AVS devait être assuré, et le PS soutenait cette réforme."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0,
+      "oui_proba": 0.75,
+      "raison": "Pas encore en âge de voter à cette date, mais le bien-être des animaux de rente me touchait, et le PS soutenait l'initiative."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date, mais je ne voulais pas que le droit suisse passe avant les traités, et le PS était contre."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0,
+      "oui_proba": 0.75,
+      "raison": "Pas encore en âge de voter à cette date, mais reprendre les règles européennes sur les armes me paraissait raisonnable, comme au PS."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date, mais mettre fin à la libre circulation me paraissait une erreur économique, et le PS était contre."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date, mais je suis sensible à la protection du loup, et le PS était contre la révision."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter à cette date, mais six milliards pour des avions de combat me paraissaient beaucoup, et le PS était contre."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date, mais interdire aux banques de financer les fabricants d'armes me paraissait juste, comme au PS."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date, mais une eau potable propre compte beaucoup pour moi, et le PS soutenait l'initiative."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date, mais une agriculture sans pesticides de synthèse me semblait souhaitable, comme au PS."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0,
+      "oui_proba": 0.9,
+      "raison": "Pas encore en âge de voter à cette date, mais l'ouverture du mariage à tous les couples me paraissait évidente, comme au PS."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter à cette date, mais une interdiction totale me paraissait excessive, et tous les partis étaient contre."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter à cette date, mais je n'étais pas favorable à une hausse de la participation suisse à Frontex, comme au PS."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0,
+      "oui_proba": 0.75,
+      "raison": "Pas encore en âge de voter à cette date, mais les conditions de l'élevage intensif me dérangeaient, et le PS soutenait l'initiative."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.15,
+      "raison": "Pas encore en âge de voter à cette date, mais je n'étais pas convaincue par la réforme AVS 21 et sa hausse de TVA, comme au PS."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.35,
+      "oui_proba": 0.85,
+      "raison": "Je suis proche du PS et sensible à la nature de la région, mais je ne vote pas à chaque fois, et ce sujet me parle."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Être imposée sur mes propres revenus me paraît plus juste, surtout pour les femmes qui travaillent, et le PS soutient le oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.05,
+      "raison": "Un tiers des habitants du Locle ont une autre nationalité, je trouve cette initiative dangereuse et le PS la combat."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Je ne suis pas concernée par l'armée, mais durcir l'accès au service civil me paraît injuste, et le PS dit non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "La neutralité me tient à cœur, mais cette initiative limiterait les sanctions et la coopération de sécurité, et le PS dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible à la protection de l'eau et des sols, mais 70 % de produits suisses en dix ans me paraît irréaliste, et le PS dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "La 13e rente a déjà été acceptée par le peuple, il faut la financer, et le PS soutient cette hausse de TVA."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Le bruit des pétards gêne les animaux et les voisins, mais j'aime bien les feux du Nouvel An, et le PS n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Le peuple vient d'accepter l'imposition individuelle en mars, et revenir en arrière me semble injuste pour les femmes."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Assouplir les exportations d'armes me paraît dangereux, le PS dit non et le référendum est lancé."
+    }
+  ]
+}

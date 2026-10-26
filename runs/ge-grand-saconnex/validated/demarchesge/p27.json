@@ -1,0 +1,17 @@
+{
+  "id": "p27",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le questionnaire de 28 questions de mai 2025 demandait plus de temps que je n'en avais entre mon travail et les enfants, donc je ne l'ai probablement pas rempli, même si les animations en classe ont pu m'en faire parler à la maison."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "Le sondage de décembre à mars n'a pas été relayé dans mon entourage et un projet de quartier dont je n'entends guère parler ne m'a probablement pas donné envie d'y répondre, même si j'en aurai peut-être touché un mot à quelqu'un."
+    }
+  ]
+}

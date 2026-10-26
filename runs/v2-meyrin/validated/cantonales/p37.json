@@ -1,0 +1,29 @@
+{
+  "id": "p37",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "La pilule me coûte cher sur un petit salaire d'apprentie, donc la gratuité me parle, mais les 20 millions par an et le non de l'UDC me retiennent."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Financer des projets en France avec l'argent genevois, après le refus populaire de 2014, ça passe mal chez nous, et comme l'UDC laisse la liberté de vote, je pencherais plutôt pour le non."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Acheter mon logement à 24 ans avec un salaire d'apprentie n'est pas pour tout de suite, et l'UDC dit non à cause du risque de congés-ventes, donc je ne me sens pas vraiment concernée."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.7,
+      "raison": "L'UDC soutient cette indemnité pour la HES, ça ne me touche pas beaucoup, donc je suivrais probablement son avis si je vote."
+    }
+  ]
+}

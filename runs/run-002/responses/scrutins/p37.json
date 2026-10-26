@@ -1,0 +1,95 @@
+{
+  "id": "p37",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "J'avais 16 ans en 2014, je ne pouvais pas encore voter, donc mon avis ne compte pas ici."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'étais pas encore en âge de voter, ou tout juste, donc je ne participe pas. Sur le fond, je trouve normal que les couples mariés ne soient pas pénalisés."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Je suis jeune et je ne vote pas à chaque fois, mais une réforme qui assure les retraites de mes parents et la mienne, je la prends au sérieux. La TVA me touche, mais je préfère financer l'AVS plutôt que de laisser filer les dettes."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je tiens à ce que la Suisse décide chez elle, mais les accords avec l'UE comptent concrètement pour mon métier et pour l'emploi sur les chantiers. Je me méfie d'une initiative qui met tout en jeu d'un coup."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "Je travaille sur les chantiers et je vois ce que coûte la main-d'oeuvre, mais j'ai besoin de gens qualifiés et les accords facilitent les choses. Je ne veux pas casser ça sans savoir par quoi on remplace."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Une armée qui tient la route compte pour moi, mais 6 milliards, c'est lourd et je veux un vrai contrôle des dépenses. Je fais confiance à un achat encadré par le Conseil fédéral."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la protection des animaux, mais je ne veux pas freiner depuis la Suisse une recherche médicale qui sauve des vies. Le sujet est trop abstrait pour que je me déplace."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "Je vois les éleveurs autour de moi au village, et ces contraintes touchent des exploitations qui respectent déjà un cahier des charges strict. Elles me semblent décidées d'en haut, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "L'AVS doit être financée, et je préfère une hausse modérée de la TVA plutôt qu'une baisse des rentes. Un financement qui tient me paraît la solution la plus sérieuse."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "La neutralité a fait la force de la Suisse et je la défends, mais une neutralité armée sans sanctions me semble compliquée à tenir avec nos partenaires. Je vote selon ce qui marche pour le pays."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Manger local, je suis pour, Vuadens a toujours soutenu l'alimentation indigène. Mais viser 70 % en dix ans avec moins d'élevage touche directement les fermes autour de nous, et ce n'est pas réaliste."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente AVS est acquise, il faut la financer, et 0,4 point reste modeste. Mais la TVA pèse sur tout ce que j'achète et sur mes chantiers, donc je reste partagé."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Avec les enfants et les voisins, le bruit des pétards à répétition me gêne, et les animaux en souffrent. Garder les exceptions pour le 1er août me va, c'est une limite raisonnable."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Pour un couple marié avec des enfants, payer plus d'impôt à cause du mariage n'a pas de sens, et l'économie compte pour moi. Mais on vient d'accepter l'imposition individuelle, donc je ne sais pas trop ce que ça change."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "Les entreprises d'armement ont besoin de règles claires, mais livrer à un pays engagé dans un conflit me gêne au regard de la neutralité. Je ne me sens pas assez informé pour trancher, donc je vais probablement m'abstenir."
+    }
+  ]
+}

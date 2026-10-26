@@ -1,0 +1,65 @@
+{
+  "id": "p17",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Sauvabelin est loin de mon quotidien en centre-ville et un sondage sur l'avenir d'une buvette ne m'a pas interpellé, je ne pense pas y avoir répondu ni en avoir parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Le premier budget participatif était une nouveauté et l'annonce a circulé, mais voter demandait de se renseigner puis de passer par internet ou une urne, et je n'ai pas suivi ; j'en ai peut-être parlé en passant avec mon entourage."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "En 2020 le Covid occupait toute l'attention, les urnes et les stands du marché ne sont pas sur mon chemin et je n'ai pas le réflexe de voter pour des projets de quartier, j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Un sondage en ligne de cinq minutes sur le visage de la ville en 2030 est accessible, mais le plan d'affectation touche peu mon quotidien d'ouvrier, je l'aurais vu passer sans forcément le remplir, et le sujet revenait rarement dans les discussions."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi arrive dans la boîte aux lettres, ce qui rend le vote concret, mais je le retourne rarement quand le projet ne me concerne pas directement ; j'ai pu en parler en famille."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je fréquente peu Ouchy et un questionnaire de quinze questions en ligne ne me motive pas ; si je l'ai vu passer, je l'ai laissé de côté et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.11,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le vote simple et les projets de quartier me parlent un peu, mais j'hésite souvent à remplir ce genre de bulletin et le sujet ne déclenche pas de discussion particulière autour de moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Le racisme n'est pas un thème que je vois au quotidien à Lausanne, un questionnaire en ligne ou papier sur la plateforme de la ville ne m'a pas attiré et la démarche est restée confidentielle pour moi."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.13,
+      "partage_proba": 0.15,
+      "raison": "Un bulletin nominatif m'est adressé personnellement et il suffit de cocher trois projets, ce qui reste faisable ; je m'y prête de temps en temps sans suivre le détail et j'en parle volontiers avec mon entourage pour les projets du centre."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin préaffranchi arrive à la maison et je le remplis parfois, mais l'été me fait oublier l'échéance de septembre, et je parle rarement de ce vote sauf si un projet concerne directement mon quartier."
+    }
+  ]
+}

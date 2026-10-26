@@ -1,0 +1,24 @@
+{
+ "id": "onex",
+ "cible": {
+  "type": "commune",
+  "nom": "Onex",
+  "canton": "GE",
+  "pays": "CH",
+  "description": "Commune suburbaine du canton de Genève, à l'ouest de la ville, avec de grands ensembles d'habitation."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 66,
+  "seed": 20261107
+ },
+ "contexte_factuel": [
+  "Population : 19 101 habitants au 31 décembre 2025, dont 37 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 4 exploitations, 27 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Onex, MCG (19,4 %) (OFS)."
+ ],
+ "votations": []
+}

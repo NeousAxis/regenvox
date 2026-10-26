@@ -1,0 +1,15 @@
+{
+  "id": "p15",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Dix ans, c'est vite dit. Nos paysans du village ont déjà du mal à joindre les deux bouts, on ne peut pas leur demander de changer toute leur manière de travailler parce que le Conseil a décidé ça d'en haut.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je ne cultive rien moi-même et, à mon âge, je ne me déplace plus volontiers aux ateliers du soir.",
+      "Je me méfie d'un objectif chiffré fixé sans que les agriculteurs aient été consultés avant.",
+      "Si la conversion au bio fait monter le prix du lait ou du pain sans que les paysans y gagnent, je ne suivrai pas."
+    ],
+    "ce_qui_me_ferait_venir": "Que le Conseil commence par écouter les agriculteurs du village et leur garantisse un revenu avant de parler de pourcentages. Si on m'explique clairement ce qui change pour eux et pour nous, je veux bien venir à une séance d'information pour comprendre."
+  }
+}

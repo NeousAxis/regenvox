@@ -1,0 +1,125 @@
+{
+  "id": "p19",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Une polémique entre étudiants lausannois et une multinationale du numérique qui ne me concerne pas à Meyrin, je n'ai aucune raison de m'y intéresser."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Les canicules me touchent sur les chantiers, mais un plan d'urgence qui vise les énergies fossiles et les multinationales me fait craindre des coûts pour les artisans et les ménages."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Je ne signe pas une demande au Parlement pour invalider une initiative populaire, et la question migratoire me divise trop pour prendre position dans ce sens."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Une querelle politique genevoise très clivante, liée au conflit à Gaza, qui ne m'engage pas et sur laquelle je préfère ne pas me prononcer publiquement."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.08,
+      "raison": "Les bonbonnes de protoxyde qui traînent dans les parcs et les jeunes qui inhalent me préoccupent, et une interdiction de vente aux mineurs me paraît raisonnable."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Ma prévoyance m'intéresse, mais ce débat sur les placements des caisses de pension est très technique et je n'ai pas de raison de signer sur ce sujet."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Les primes d'assurance maladie pèsent lourd sur mon budget d'indépendant, mais un projet qui se déclare lui-même fictif et ouvre la porte à des assureurs privés ne me convainc pas."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.2,
+      "partage_proba": 0.1,
+      "raison": "Artisan du bâtiment, je sais ce que signifie un métier pénible, et à l'approche de la retraite l'AVS me concerne directement : une durée de cotisation de référence me parle plus que le débat sur l'âge."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Ce projet concerne la commune de Versoix dont je ne suis pas habitant, je ne me sens pas concerné par cette salle associative."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Une histoire personnelle très douloureuse qui me touche, mais une demande de reconnaissance juridique relevant des élus fédéraux ne me pousse pas à signer."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je comprends que l'accès aux soins psychiques soit important, mais une motion parlementaire sur les modalités de remboursement reste loin de mes préoccupations."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Une ferme vaudoise près de Nyon que je ne connais pas, je n'ai aucun lien avec cette collection d'agrumes."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "La violence conjugale est une cause juste, mais cette demande concerne un autre canton et je signe rarement une pétition qui ne touche pas ma région."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Le tram lausannois et la chaleur sur les quais ne sont pas mon affaire, même si les canicules me pèsent sur les chantiers."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Je reste prudent sur les demandes de suspendre des renvois décidés par les autorités, et je n'ai aucun contact avec des réfugiés burundais."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les métiers du bâtiment demandent une formation complète et rapide, je doute qu'un CFC allongé à six ans et une charge réduite de moitié soient réalistes."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Être filmé à son insu dans un vestiaire ou une piscine me révolte, mais je doute qu'une interdiction suisse change grand-chose à ces appareils."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Le climat me préoccupe, mais les mesures listées, comme l'interdiction de jeter les retours en ligne ou les contraintes sur la consommation, imposent des règles aux ménages et aux artisans."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Les incendies et la sécheresse sont réels, mais la forêt est loin de mon quotidien à Meyrin et je ne signe pas volontiers les pétitions qui demandent au Parlement de revenir sur un budget."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.09,
+      "partage_proba": 0.07,
+      "raison": "Les abus facilités par la drogue me révoltent et la protection des victimes est une cause que je soutiens, mais je doute qu'une nouvelle task force nationale soit la bonne réponse."
+    }
+  ]
+}

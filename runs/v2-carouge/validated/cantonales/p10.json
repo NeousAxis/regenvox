@@ -1,0 +1,29 @@
+{
+  "id": "p10",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Le coût de la pilule et des autres moyens de contraception pèse sur beaucoup de femmes de mon âge, et Le Centre soutient l'initiative, donc je voterais oui malgré la recommandation du Conseil d'État."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Moins de voitures qui franchissent la frontière chaque jour serait un vrai gain pour le trafic autour de Carouge, et Le Centre dit oui, même si je reste sceptique à l'idée de payer des projets en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.55,
+      "raison": "Pouvoir acheter son appartement après trois ans de location me semble juste si les autres locataires de l'immeuble ne sont pas poussés dehors, mais les craintes de l'ASLOCA me rendent prudente."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Une baisse de deux millions par an reste modeste et Le Centre comme le PLR soutiennent ce contrat, même si je ne suis pas sûre de bien comprendre les enjeux de la HES."
+    }
+  ]
+}

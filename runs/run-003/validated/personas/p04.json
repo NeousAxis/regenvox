@@ -1,0 +1,141 @@
+{
+  "id": "p04",
+  "portrait": "J'ai 52 ans, je suis employé de bureau dans une entreprise de la région et je vis avec ma femme dans le quartier résidentiel récent de Vuadens. Nos enfants sont partis faire leur vie ailleurs. Je vote à gauche depuis longtemps, sans être militant, et ce qui me préoccupe d'abord, c'est la qualité de vie du village et le pouvoir d'achat, plus que les questions agricoles que je connais mal.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Qu'un paysan puisse vivre de son travail, je signe tout de suite, mais le bio sans des chiffres clairs sur les prix d'achat, je n'y crois pas trop. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas assez l'économie d'une exploitation pour donner un avis utile",
+        "Les réunions sur l'agriculture se font souvent entre initiés",
+        "Je rentre tard du travail en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur le revenu d'une ferme en bio à Vuadens, présentés par les agriculteurs eux-mêmes lors d'une soirée près de chez nous."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter le lait ou les légumes directement à la ferme du village, ça je veux bien, mais partenaire, ça veut dire quoi concrètement, que je paie plus cher ? »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas à qui m'adresser dans la commune",
+        "Le prix plus élevé du bio me retient au moment des courses",
+        "Je n'ai pas de temps libre en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Un arrangement simple et transparent entre une ferme et quelques familles du village, avec un retour régulier sur ce que cela change pour les sols et l'eau."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Mes enfants habitent ailleurs, mais je voudrais qu'ils retrouvent un village où l'on voit encore des champs et des vaches, ça c'est une belle question. »",
+      "engagement": 1,
+      "freins_participation": [
+        "La question est trop générale pour que je voie ce que je peux faire concrètement",
+        "Je n'irai pas à un atelier en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Des propositions concrètes pour que les jeunes puissent reprendre une ferme, et un lien clair avec ce que la commune fera pour les haies et les chemins."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Un label pour les fermes, pourquoi pas, mais je ne suis pas sûr que ça change quoi que ce soit pour moi. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne me sens pas concerné directement par les fermes",
+        "Je ne vois pas ce que je pourrais apporter"
+      ],
+      "ce_qui_me_ferait_venir": "Si la commune m'expliquait concrètement ce que je peux faire, par exemple acheter ou soutenir une ferme près de chez moi, je me sentirais plus concerné."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "collègues de bureau, quelques camarades de la section locale du PS, voisins du quartier, famille élargie installée en ville, peu de contacts directs avec les agriculteurs de la commune"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "Je comprends le ras-le-bol des villages où les maisons restent fermées la moitié de l'année, mais je ne veux pas qu'on limite les propriétaires modestes. Je pencherais pour le oui à cause du paysage."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Le mitage et les zones à bâtir qui grignotent les champs me gênent. Le PS soutient la révision et je la trouve raisonnable."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "L'idée est juste, mais l'objectif d'une seule planète me paraît flou et je crains l'impact sur les emplois de la zone industrielle."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Je suis pour sortir du nucléaire, mais je ne veux pas une hausse de la facture sans alternative claire."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.9,
+      "raison": "La Stratégie énergétique 2050 c'est le bon sens, et c'est porté par mon parti. Je voterai oui sans trop hésiter."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Des produits sains, produits dans de bonnes conditions, je suis d'accord sur le principe. Mais dès qu'on parle de réglementer les importations, je me demande qui paie la facture au supermarché."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Soutenir les paysans d'ici, oui. Les droits de douane et les prix imposés me semblent compliqués pour le pouvoir d'achat, et je ne suis pas convaincu que ce soit la bonne voie."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Une eau potable propre, personne ne peut être contre. Lier les paiements directs aux pratiques agricoles, c'est une façon de faire passer le message."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je n'aime pas l'idée que mes petits-enfants boivent une eau chargée de produits chimiques. Dix ans de transition, c'est une durée raisonnable pour les paysans."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le climat, je ne suis pas contre. Mais les taxes sur les billets d'avion et sur les combustibles touchent les salariés comme moi. Je voterais oui en surveillant la facture."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Le bien-être des animaux me touche, mais imposer les normes Bio Suisse à toutes les importations pose la question de la concurrence et des prix."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Zéro émission nette d'ici 2050, c'est un objectif que je partage et que mon parti défend. Les aides pour changer de chauffage me semblent justes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Protéger la nature et le paysage autour de chez nous, je suis pour. J'ai un peu peur des contraintes pour les agriculteurs, mais l'initiative me semble aller dans le bon sens."
+    }
+  ]
+}

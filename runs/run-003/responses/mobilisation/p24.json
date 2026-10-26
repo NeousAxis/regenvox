@@ -1,0 +1,39 @@
+{
+  "id": "p24",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Que la commune me montre ce que le bio change concrètement pour mon panier et pour la cantine de l'école, avec des chiffres simples que je peux comprendre sans être agricultrice."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants prise en charge sur place pendant l'atelier, car c'est ce qui me retient le plus, et un créneau en semaine avant 18 h."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Qu'on me dise précisément ce qui sera fait des idées recueillies, avec une date et une personne qui répond, pour que ma participation ne reste pas sans suite."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Des visites de fermes ouvertes à tous le samedi, avec les enfants, pour voir ce que font les exploitants, plutôt que des panneaux ou des labels."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul format que je peux caser dans une journée : dix minutes sur mon téléphone, le soir quand les enfants dorment, sans chercher une garde ni changer mes horaires. Je ne crois pas beaucoup à ce qu'il en sortira, mais ça ne me coûte pas une soirée."
+}

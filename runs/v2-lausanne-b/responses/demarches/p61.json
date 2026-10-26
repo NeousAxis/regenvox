@@ -1,0 +1,15 @@
+{
+  "id": "p61",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "En 2017 j'avais une vingtaine d'années, je ne suivais pas les affaires communales, et un atelier le samedi après-midi à Sauvabelin ne rentrait pas dans mon quotidien."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Ce budget participatif pilote était peu relayé, et voter exige de choisir des projets de quartier que je ne connaissais pas encore, donc je n'ai probablement pas voté."},
+    {"item_id": "lau02", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Pendant la pandémie, mon attention était absorbée par le travail et la vie de couple, et choisir au moins trois projets sans les connaître ne me tentait pas."},
+    {"item_id": "lau10", "participe_proba": 0.07, "partage_proba": 0.05, "raison": "Un sondage de cinq minutes sur mon quartier m'aurait peut-être tentée, mais je ne l'ai pas vu passer et les soirées d'information demandaient une inscription."},
+    {"item_id": "lau03", "participe_proba": 0.12, "partage_proba": 0.08, "raison": "Le bulletin posté à chaque foyer m'aurait sans doute fait voter une fois, mais je l'aurais rempli sans grande conviction et sans en parler autour de moi."},
+    {"item_id": "lau08", "participe_proba": 0.07, "partage_proba": 0.06, "raison": "Je fréquentais parfois les quais d'Ouchy en été, donc le questionnaire m'aurait intéressée, mais je ne suis pas sûre de l'avoir vu pendant le mois où il était ouvert."},
+    {"item_id": "lau04", "participe_proba": 0.11, "partage_proba": 0.09, "raison": "Le bulletin nominatif reçu à domicile rend le vote facile, mais je ne déposais pas de projet et je n'aurais voté que pour ceux que je comprenais vraiment."},
+    {"item_id": "lau09", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Le sujet me touche, mais la consultation était peu relayée et je réponds rarement aux questionnaires publics, sauf s'ils apparaissent dans mon fil d'actualité."},
+    {"item_id": "lau05", "participe_proba": 0.14, "partage_proba": 0.10, "raison": "Le bulletin nominatif envoyé à chaque personne m'aurait rappelé de voter, mais j'aurais surtout coché des projets proches de chez moi sans beaucoup en parler."},
+    {"item_id": "lau06", "participe_proba": 0.16, "partage_proba": 0.11, "raison": "Entre les enfants et un emploi du temps serré, je vote quand le bulletin arrive à la maison ou en ligne depuis le canapé, mais je m'en tiens aux trois projets les plus parlants."}
+  ]
+}

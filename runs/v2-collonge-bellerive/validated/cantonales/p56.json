@@ -1,0 +1,29 @@
+{
+  "id": "p56",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.9,
+      "raison": "Parent seule, je sais ce que la contraception coûte chaque mois et le PS la défend clairement, donc je voterais oui malgré la recommandation du canton."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Des bus et un tram vers la France désengorgeraient la route et le PS soutient ce crédit, mais l'argent versé en France me laisse sceptique, donc je pencherais oui sans grande conviction."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Avec un budget serré de parent seule, je n'imagine pas acheter mon logement et je crains la disparition des logements locatifs abordables que dénoncent le PS et l'ASLOCA, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Les taxes d'études augmentent déjà et le PS s'oppose à la baisse de l'indemnité de la HES, donc je pencherais pour non, même si ce dossier me touche peu."
+    }
+  ]
+}

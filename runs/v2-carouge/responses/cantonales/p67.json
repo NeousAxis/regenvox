@@ -1,0 +1,29 @@
+{
+  "id": "p67",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.45,
+      "oui_proba": 0.8,
+      "raison": "Je trouve normal que la contraception ne pèse pas sur le budget des jeunes, même si je me demande combien ça coûterait vraiment et comment on le financerait."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "Moins de voitures qui traversent la frontière et plus de bus et de trams me paraît utile, même si payer des projets en France ne me plaît qu'à moitié."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Je suis plutôt du côté des locataires, je crains que la vente à l'occupant ouvre la porte aux congés-ventes, donc je suivrais le non des Vert-e-s."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "En formation, je me méfie d'une baisse de financement qui finira par peser sur les taxes ou sur les cours, donc je penche pour le non des Vert-e-s."
+    }
+  ]
+}

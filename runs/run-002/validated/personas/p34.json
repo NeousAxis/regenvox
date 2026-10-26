@@ -1,0 +1,140 @@
+{
+  "id": "p34",
+  "portrait": "J'ai 63 ans, je suis suisse et je travaille dans l'industrie comme technicien. Je vis en couple dans un quartier résidentiel récent de Vuadens, nos enfants sont partis. Je me sens proche de l'UDC : je tiens au travail de ceux qui produisent, mais je me méfie des démarches venues d'en haut et des idées qui sortent des villes.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "« Le paysan doit pouvoir vivre de son travail, sinon il n'y aura plus personne pour nourrir le pays. Mais qu'on arrête de nous dire que le bio va tout régler. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne suis pas agriculteur et je travaille en journée, les ateliers en semaine ne sont pas pour moi",
+        "Je me méfie des démarches où on finit par imposer une façon de faire"
+      ],
+      "ce_qui_me_ferait_venir": "Des agriculteurs de la commune qui viennent expliquer leurs chiffres, avec des prix d'achat garantis et une vraie discussion sur les aides, pas seulement des slogans."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« J'achète ce qu'il y a au magasin, je ne vois pas pourquoi je deviendrais partenaire d'une ferme. Ça ne me concerne pas vraiment. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Je n'ai aucun lien direct avec l'agriculture",
+        "Ce genre de démarche me fait penser à une idée de bureau",
+        "Je n'ai pas le temps en semaine avec mon travail"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me dise concrètement ce que ça change pour mon porte-monnaie et pour le paysan qui m'approvisionne."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Trente ans, c'est loin. Moi je voudrais qu'on parle de ce qui se passe maintenant, avec les prix et les factures. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question trop abstraite, je ne vois pas ce que j'y gagne",
+        "Je n'ai jamais participé à ce genre de consultation"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet plus concret, avec un calendrier, un coût et des agriculteurs qui racontent leur quotidien."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Les paysans, on les connaît, ils bossent dur. Mais l'eau et la biodiversité, on nous les ressort à toutes les sauces, et au bout du compte c'est toujours une norme en plus pour eux. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je me méfie des labels et des classements qui ne paient pas la facture",
+        "Ce genre de reconnaissance sonne comme une démarche de bureau"
+      ],
+      "ce_qui_me_ferait_venir": "Que la reconnaissance se traduise par un prix de vente plus juste et moins de paperasse pour les fermes."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "suiveur",
+    "cercle_type": "Collègues de l'entreprise industrielle, voisins du quartier, quelques connaissances de la société locale et famille élargie. Peu de liens directs avec le monde agricole, à part l'achat de produits au marché."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je tiens à nos paysages, mais je n'aime pas qu'on me dise ce que je peux faire de mon bien ou de la commune. Je serais hésitant."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Il faut garder les terres agricoles, mais je ne veux pas que la commune soit bloquée pour les logements et les entreprises de la zone industrielle. Le texte me paraît flou."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.12,
+      "raison": "Une économie mesurée en planètes, ça sonne comme des contraintes en plus pour les entreprises et les emplois de l'industrie. Je refuserais."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Sortir du nucléaire sans alternative claire, c'est risquer le courant et les emplois. Je reste prudent et je ne suis pas convaincu."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Les hausses sur la facture et les subventions me gênent, surtout pour l'industrie. Les énergies vertes, oui, mais pas à n'importe quel prix."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Si les importations doivent respecter les mêmes règles que nos paysans, c'est logique. Mais je me méfie des textes trop larges qui compliquent tout."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Produire chez nous, protéger le paysan suisse et garantir des prix qui permettent de vivre, c'est ce que je pense. Je me demande seulement comment on finance ça."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Lier les paiements directs à des pratiques imposées peut mettre des fermes en difficulté. Je ne veux pas que le paysan perde ses aides parce qu'on décide de là-haut."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Interdire totalement les produits de synthèse sans solution pour les cultures, c'est mettre les paysans en difficulté et ouvrir la porte aux importations. Je ne suis pas à l'aise."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Plus de taxes sur l'essence, le mazout et les billets d'avion, avec des normes pour les bâtiments, ça pèse sur le budget des ménages et sur le travail. Je vote non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Nos éleveurs font déjà beaucoup pour les animaux. Les importations doivent respecter les mêmes règles, mais on en rajoute encore avec une transition de 25 ans, je me méfie."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Zéro émission nette et des aides pour remplacer les chauffages, ça coûte cher aux propriétaires et aux entreprises. Je pense que ça va trop vite."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Plus de surfaces de nature, c'est moins de terres pour nos paysans. Je ne suis pas contre la nature, mais je refuse qu'on prenne la terre de ceux qui la travaillent."
+    }
+  ]
+}

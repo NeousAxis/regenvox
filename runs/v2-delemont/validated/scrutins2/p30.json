@@ -1,0 +1,197 @@
+{
+  "id": "p30",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.15,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Mineure à l'époque, je ne pouvais pas encore voter."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.05,
+      "raison": "Attachée à la libre circulation avec l'UE et proche des Vert'libéraux, je dis non à la fin de cet accord."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à la protection de la nature, mais une régulation facilitée du loup me semble trop large, et VL dit non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.25,
+      "oui_proba": 0.4,
+      "raison": "Un achat de 6 milliards me laisse sceptique, même si VL est plutôt pour, et je ne vois pas cela comme une priorité."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je comprends l'idée, mais VL n'appuie pas l'interdiction de financer les fabricants d'armes et je me méfie des interdictions larges."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Je suis favorable à moins de pesticides et d'antibiotiques, VL dit oui, malgré l'inquiétude pour les paysans jurassiens."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Je veux réduire les pesticides, mais une interdiction totale sur dix ans me paraît brutale, et VL laisse libre."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.97,
+      "raison": "Le mariage pour tous me paraît une évidence, VL et le PS sont clairement pour."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.25,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible au bien-être animal, mais une interdiction totale de la recherche me semble risquée, et VL dit non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.3,
+      "oui_proba": 0.8,
+      "raison": "Je suis pour Schengen et la coopération européenne, VL dit oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "L'élevage intensif me dérange et VL dit oui, mais la transition sur 25 ans et les coûts pour les agriculteurs me font hésiter."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "L'AVS a besoin d'argent et VL dit oui, mais le report de l'âge de la retraite des femmes me touche, je suis partagée."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "La nature et les paysages me tiennent à cœur, VL et le PS disent oui, même si le Parlement recommande non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Être imposée sur mes propres revenus me paraît plus juste, et VL, le PS et le PLR disent oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "Un plafond de 10 millions me paraît arbitraire et risque de remettre en cause les accords avec l'UE, VL dit non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.25,
+      "oui_proba": 0.3,
+      "raison": "Le service civil est une voie légitime et durcir les conditions pour ceux qui sont déjà incorporés me dérange, VL dit non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je suis attachée à la neutralité, mais pas à une neutralité perpétuelle et armée ni à l'interdiction de sanctions, et VL dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à l'alimentation locale et à l'eau propre, mais 70 % d'autoproduction en dix ans me paraît irréaliste, et VL dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Je comprends le besoin de financer la 13e rente, mais une hausse de la TVA pèse sur mon salaire, et VL n'a pas encore décidé."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "Le bruit des pétards gêne les animaux et les habitants du centre-ville, je garde toutefois une tolérance pour le 1er août, VL n'a pas encore décidé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.15,
+      "raison": "Après le oui à l'imposition individuelle, je ne vois pas de raison de revenir à l'imposition commune des couples, VL n'a pas encore décidé."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je suis contre un assouplissement des exportations d'armes qui peut alimenter des conflits, VL n'a pas encore décidé."
+    }
+  ]
+}

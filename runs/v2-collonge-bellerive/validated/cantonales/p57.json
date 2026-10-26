@@ -1,0 +1,29 @@
+{
+  "id": "p57",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Le PLR, dont je suis proche, dit non et les autorités aussi, et ce sujet me touche peu : je ne me déplacerais sans doute pas, et si je vote, je ne veux pas que 20 millions par an pèsent sur les contribuables pour une prestation qui ne me concerne pas directement."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Le PLR et les autorités soutiennent ces bus et ce tram qui désengorgeraient la frontière, un enjeu que je vois au quotidien, même si le refus populaire de 2014 me rend prudent sur l'argent versé en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Le PLR et le Centre soutiennent l'accès à la propriété, ce qui compte pour mon avenir, même si je ne suis pas locataire et que le risque de congés-ventes me rend hésitant."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.7,
+      "raison": "Le PLR, l'UDC et le Centre soutiennent le financement de la HES-SO, une formation utile pour l'emploi, et une baisse de 2 millions par an me paraît acceptable pour un canton qui doit tenir ses comptes."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "p24",
+  "portrait": "Je suis une femme de 37 ans, employée de bureau, et j'élève seule mes enfants au centre de Vuadens, à deux pas de l'école. Je ne suis pas de nationalité suisse et je n'ai pas le droit de voter au niveau fédéral, donc la politique du village me passe souvent au-dessus de la tête. Mon quotidien tourne autour du travail, des devoirs et des fins de mois, et l'agriculture de la commune, je la vois surtout depuis la route.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Que les paysans vivent bien de leur travail, je suis d'accord, mais je ne sais pas ce que ça change pour moi. Je ne suis pas agricultrice et on ne me demande jamais mon avis sur ces choses-là.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne me sens pas concernée par le sujet agricole",
+        "Pas le temps entre le travail et les enfants",
+        "Méfiance envers les projets de la commune qui restent sans suite concrète"
+      ],
+      "ce_qui_me_ferait_venir": "Un résumé court dans la boîte aux lettres, avec ce que ça changerait concrètement pour les prix et pour les familles."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si je peux acheter des légumes ou de la viande du village sans payer beaucoup plus cher, pourquoi pas. Je le ferais pour les enfants, mais ce n'est pas ma priorité du moment.",
+      "engagement": 2,
+      "freins_participation": [
+        "Si le bio est nettement plus cher, je ne peux pas suivre",
+        "Les horaires des ateliers, je travaille et je m'occupe des enfants seule",
+        "Je ne connais personne dans le monde agricole du village"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée près de l'école avec une garde d'enfants prévue, et une visite de ferme ouverte aux familles pour rencontrer les agriculteurs."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Je pense à mes enfants quand je vois ça. Qu'est-ce qu'ils auront comme champs et comme air dans trente ans ? C'est une question que je me pose, mais je n'ai pas l'impression qu'elle se règle en une réunion.",
+      "engagement": 1,
+      "freins_participation": [
+        "Les questions de long terme me paraissent floues et lointaines",
+        "Je n'ai pas de temps libre pour une démarche participative",
+        "Je doute que mon avis pèse à côté de celui des exploitants"
+      ],
+      "ce_qui_me_ferait_venir": "Des propositions concrètes pour les enfants et les jeunes du village, par exemple des sorties à la ferme pour les classes, plutôt que des discussions générales."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Des labels et des panneaux, ça ne nourrit personne. Je préfère qu'on regarde ce que les fermes font vraiment.",
+      "engagement": 0,
+      "freins_participation": [
+        "L'idée de reconnaissance me paraît abstraite",
+        "Je me méfie des démarches de communication de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de particulier. Si on me le proposait dans la vie du village je regarderais, mais ce n'est pas un sujet qui me fait bouger."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 8,
+    "role": "relai",
+    "cercle_type": "parents d'élèves de l'école du village, collègues de bureau, voisins de l'immeuble du centre, quelques proches venus de l'étranger"
+  },
+  "votes": []
+}

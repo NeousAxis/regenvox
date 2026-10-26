@@ -1,0 +1,17 @@
+{
+  "id": "p05",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "L'atelier a lieu un samedi après-midi à Cointrin, annoncé surtout dans les boîtes aux lettres de ce quartier où je n'habite pas, donc je n'y vais probablement pas, même si l'avenir des espaces publics m'intéresse."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Meyrinois depuis longtemps et proche des Vert-e-s, je me sens concerné par la culture locale, mais un questionnaire en ligne demande un effort que je ne fais que si quelqu'un m'en parle, et j'en parlerais surtout avec des camarades du parti ou des voisins."
+    }
+  ]
+}

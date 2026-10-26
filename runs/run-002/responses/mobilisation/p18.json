@@ -1,0 +1,39 @@
+{
+  "id": "p18",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.10,
+      "ce_qui_doublerait_ma_venue": "Un acheteur (fromagerie, laiterie ou coopérative) qui s'engage par écrit sur un prix du lait bio plus élevé et qui vient s'asseoir à la table, pas seulement un discours de la commune."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un engagement d'achat chiffré des habitants, par exemple un abonnement au lait ou au fromage au prix bio, et pas seulement une rencontre ou une photo dans les prés."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Une réponse concrète sur le foncier et les bâtiments : qui reprendra les terres de la commune, à quelles conditions et dans quel calendrier, avec un engagement écrit de la commune."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une reconnaissance qui se paie : des contreparties financières pour les haies et les prés entretenus, et pas une charte, un label ni un contrôle de plus."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de 10 minutes se fait sur mon téléphone, le soir ou un dimanche, sans bloquer une soirée ni me déplacer après la traite. C'est le seul format que je peux tenir. Je ne suis pas sûr d'y répondre, et je n'attends pas grand-chose de la commune."
+}

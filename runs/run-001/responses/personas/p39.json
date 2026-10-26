@@ -1,0 +1,113 @@
+{
+  "id": "p39",
+  "portrait": "J'ai 60 ans et je travaille dans le social, la santé et l'éducation, auprès d'enfants et de familles. Je vis seule dans un quartier résidentiel récent de Vuadens et je suis proche des Vert-e-s, avec une sensibilité écologique qui s'est nourrie de mon métier. Je connais les fermes surtout de loin, par les vaches dans les pâturages et le fromage de la fromagerie, mais je parle rarement avec celles et ceux qui y travaillent.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Sans un revenu correct, personne ne se convertira au bio, et on ne peut pas demander aux paysans de travailler pour rien. Mais la commune a-t-elle vraiment des leviers sur les prix ? »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne connais pas assez l'économie d'une ferme pour avoir un avis solide",
+        "Je travaille à plein temps et les réunions en semaine sont difficiles à caser",
+        "J'ai peur que le sujet reste entre élus et agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce qu'une exploitation gagne aujourd'hui et ce qu'elle gagnerait en bio, présentés par des agriculteurs eux-mêmes, un soir ou un samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Je veux bien acheter plus local et plus bio, mais je n'ai pas toujours le temps d'aller chercher mes légumes à la ferme. Si on peut commander et récupérer un panier au village, je m'inscris tout de suite. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Mon emploi du temps est irrégulier à cause des gardes et des urgences du social",
+        "Un panier bio coûte plus cher et je dois compter chaque mois",
+        "Je n'aime pas les réunions où l'on parle beaucoup et où l'on décide peu"
+      ],
+      "ce_qui_me_ferait_venir": "Un système simple de paniers ou d'achat groupé organisé avec la fromagerie ou une ferme que je connais, et une visite de ferme ouverte où je peux poser mes questions sans me sentir jugée."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 5,
+      "citation": "« C'est la question qui me touche le plus. Je pense aux enfants de l'école du village : quelle terre auront-ils sous les pieds dans trente ans ? »",
+      "engagement": 3,
+      "freins_participation": [
+        "Je ne suis pas sûre que ma voix compte beaucoup dans une commune de cette taille",
+        "Les questions de long terme me paraissent abstraites quand j'ai les dossiers de la semaine",
+        "Je crains que le débat devienne idéologique et qu'on oppose les gens entre eux"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier qui part du concret (le sol, l'eau du robinet, les haies) et où les familles et les enfants ont aussi leur place, pas seulement les personnes déjà convaincues."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Le mot reconnaissance me fait un peu sourire, on dirait une campagne de communication. Ce qui me reconnaîtrait, c'est de voir des haies replantées et des chemins ouverts. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien le lien avec ma vie quotidienne",
+        "Je ne sais pas comment on mesurerait ce que les fermes apportent aux sols et à l'eau",
+        "Je n'ai pas le réflexe d'aller à une visite agricole"
+      ],
+      "ce_qui_me_ferait_venir": "Une balade guidée dans les champs avec un agriculteur qui montre ses haies, ses prairies et ses points d'eau, un samedi matin, en famille ou entre voisins."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Collègues et réseau professionnel du social, de la santé et de l'éducation, voisins du quartier, quelques membres de sections locales des Vert-e-s, parents rencontrés à l'école ; peu de liens directs avec le monde agricole."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Des aliments produits dans le respect de l'environnement, des animaux et de conditions de travail justes, y compris les produits importés : c'est la cohérence que je réclame. Je crains seulement que ça reste un label de plus sans contrôle réel."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je suis attachée à une agriculture paysanne sans OGM, mais les droits de douane et l'idée de tout produire ici me semblent un repli. Beaucoup de fermes vivent déjà de marchés fermés, et je ne suis pas sûre que ça les aide."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.75,
+      "oui_proba": 0.9,
+      "raison": "Une eau potable propre, et des paiements directs réservés aux exploitations qui ne polluent pas : c'est du bon sens. Le fourrage produit sur place me paraît juste aussi."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.75,
+      "oui_proba": 0.9,
+      "raison": "Je vois ce que les pesticides font aux sols, aux abeilles et à l'eau, et un délai de dix ans me paraît raisonnable pour accompagner les paysans. Je reste lucide sur les produits importés, mais l'idée est là."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Le climat ne peut pas attendre, et je suis pour la taxe sur les billets d'avion et les normes pour les bâtiments. Je me demande seulement si les personnes modestes ne paieront pas l'addition."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "La dignité des animaux de rente me touche, et je ne veux pas d'élevages entassés. Mais une transition de vingt-cinq ans est longue, et je ne veux pas que la charge retombe sur les petites fermes laitières de la région."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Zéro émission nette en 2050, c'est la moindre des choses. J'aurais voulu un texte plus ambitieux, mais je vote pour cette étape, surtout pour les aides au remplacement des chauffages au mazout."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.9,
+      "raison": "Protéger la nature et les paysages, c'est ce qui manque dans nos campagnes : haies, prairies, insectes. Je voterais oui même si je sais que les agriculteurs s'inquiètent des contraintes."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p47",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Un sondage annoncé sur le site de la Ville et sur les réseaux sociaux, mais je n'étais pas une usagère régulière de Sauvabelin à l'époque et je ne me souviens pas l'avoir vu passer."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Vote pilote de deux mois, sans relais dans mon entourage ni dans mon quartier, et je n'avais pas de projet à soutenir, donc je ne me suis pas mobilisée."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Année de Covid, le vote en ligne aurait été facile, mais le budget participatif ne m'a pas accrochée et je n'ai pas gardé l'information."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "Un sondage en ligne d'environ cinq minutes sur mon quartier me concernait, mais je ne réponds pas spontanément aux consultations d'urbanisme et je ne l'ai pas remarqué."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.14,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin affranchi glissé dans la boîte aux lettres m'a donné l'occasion de voter une fois, mais je ne suis pas une habituée et je n'ai rien déposé."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Questionnaire d'un mois sur la fermeture des quais, je fréquente peu Ouchy et je n'ai pas vu l'annonce."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "J'ai retourné le bulletin nominatif reçu à la maison après avoir regardé deux ou trois projets de quartier, sans trop en parler autour de moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.10,
+      "raison": "Le thème me touche de près comme personne étrangère, mais la consultation ne m'a pas été présentée directement, donc je n'ai probablement pas répondu, même si le sujet m'a donné envie d'en discuter avec des amies."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.13,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin nominatif reçu chez nous est facile à retourner, je l'ai fait en ligne en quelques minutes, et j'en ai parlé avec mon conjoint."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.10,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin affranchi reçu à domicile est un rappel utile, mais le travail et les enfants prennent le dessus et je ne lis pas toujours les projets, donc je vote rarement."
+    }
+  ]
+}

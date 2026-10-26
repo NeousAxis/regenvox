@@ -1,0 +1,65 @@
+{
+  "id": "p53",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "A 25 ans je travaillais déjà en chantier et je ne fréquentais pas Sauvabelin, un sondage sur ces établissements ne m'a donc pas concerné."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Ce premier budget participatif est passé sans que je prenne le temps de voter ni de m'impliquer dans un projet, et j'en ai juste entendu parler par un collègue."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.07,
+      "raison": "En pleine période Covid, la campagne m'a échappé et je ne vote pas spontanément sur ce type de consultation, sauf si un projet de mon quartier me touche directement."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "Le plan d'affectation touche à mon métier de bâtiment, donc ce sondage de cinq minutes aurait pu m'intéresser, mais je n'ai pas vu la campagne passer et je ne vais pas aux soirées d'information."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.2,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin envoyé à la maison m'a fait voter sans que je suive vraiment les projets, et j'en ai parlé surtout avec ma compagne quand un projet de quartier nous plaisait."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les quais d'Ouchy sont loin de mon quartier et je ne m'y arrête pas, donc le questionnaire sur leur fermeture ne m'a pas du tout accroché."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi reçu à domicile me fait voter une fois sur deux, mais je suis souvent sur chantier et je n'en discute pas beaucoup autour de moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Le sujet me parle, mais je n'ai pas vu passer le questionnaire et une consultation dont on ne voit jamais la suite ne me donne pas envie d'y répondre."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.22,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin nominatif arrive à toute la famille, donc on vote à la maison, et j'en parle avec ma compagne et quelques voisins sans suivre tous les projets."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.18,
+      "partage_proba": 0.14,
+      "raison": "Je vote quand le bulletin arrive à la maison, mais avec la famille et le travail j'oublie souvent les dates, et j'en ai parlé une fois avec des voisins."
+    }
+  ]
+}

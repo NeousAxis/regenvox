@@ -1,0 +1,24 @@
+{
+ "id": "grand-saconnex",
+ "cible": {
+  "type": "commune",
+  "nom": "Le Grand-Saconnex",
+  "canton": "GE",
+  "pays": "CH",
+  "description": "Commune suburbaine du canton de Genève, entre l'aéroport et les organisations internationales."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 30,
+  "seed": 20261113
+ },
+ "contexte_factuel": [
+  "Population : 12 775 habitants au 31 décembre 2025, dont 45 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 0 exploitations, 0 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Le Grand-Saconnex, Les Vert-e-s (17,7 %) (OFS)."
+ ],
+ "votations": []
+}

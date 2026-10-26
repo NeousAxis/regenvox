@@ -1,0 +1,65 @@
+{
+  "id": "p26",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "A 19 ans, je ne fréquentais pas le lac de Sauvabelin et je n'ai probablement jamais vu passer ce sondage."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Ce premier budget participatif pilote a peu circulé dans mon entourage, et il faut connaître les projets pour voter, ce que je ne fais pas spontanément à 21 ans."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Entre le Covid et mes horaires de vente ou de restauration, je n'ai pas suivi ce vote, même si les stands du marché m'ont peut-être effleuré."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Un sondage de cinq minutes sur le visage de mon quartier en 2030 pourrait me tenter, mais la démarche a été peu visible et les plans d'affectation ne me parlent pas."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin affranchi envoyé à domicile et la foire aux projets sur la place Centrale, tout près de chez moi, peuvent m'inciter à voter, mais ce n'est pas un réflexe que j'ai."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Ce questionnaire en ligne sur la fermeture des quais d'Ouchy ne m'a pas accroché, mais si le sujet revient au travail ou entre amis, j'en parlerais peut-être."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Les jeunes ambassadeurs qui sillonnent les quartiers pourraient me convaincre, mais je vote rarement et le bulletin finit souvent noyé dans le courrier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Ce sujet me touche de près en tant qu'étranger, donc je pourrais répondre, mais le questionnaire était peu visible et je ne l'ai probablement pas remarqué."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.05,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin nominatif arrivé à domicile est un rappel possible, et les cabines de la place Centrale sont proches, mais choisir au moins trois projets demande du temps que je n'ai pas toujours."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Les idées de convivialité et d'animation en centre-ville m'intéressent un peu, mais entre mes horaires et le bulletin que je laisse traîner, je vote rarement."
+    }
+  ]
+}

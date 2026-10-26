@@ -1,0 +1,65 @@
+{
+  "id": "p11",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Consultation très ciblée sur deux établissements de Sauvabelin que je ne fréquentais pas à 30 ans, peu relayée hors des usagers, et les ateliers du samedi après-midi ne m'attiraient pas."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Premier budget participatif, pilote peu médiatisé à l'époque, et je ne connaissais ni le principe ni les projets à départager."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.06,
+      "raison": "Le vote en ligne et les stands du marché rendaient la démarche accessible, mais il fallait choisir au moins trois projets pendant la période Covid, et je n'ai retenu que quelques affiches."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Sondage en ligne de cinq minutes ouvert à tous, que j'aurais pu remplir sur mon téléphone, mais les soirées et balades demandaient une inscription et des disponibilités peu compatibles avec mon emploi et ma famille."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin envoyé à chaque foyer m'aurait sans doute fait voter, mais il fallait choisir au moins trois projets en automne et je n'avais pas l'habitude de cette démarche."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Questionnaire sur la fermeture des quais qui me concerne peu au quotidien, annoncé surtout par communiqué, sans relais visible dans mon entourage."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin à domicile facilite le vote, mais je ne suis pas assez informée des projets pour en départager au moins trois avant la fin novembre."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Le sujet me touche directement en tant que personne étrangère, mais la consultation était peu relayée et je n'en ai entendu parler que par hasard."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.13,
+      "raison": "Un bulletin nominatif arrive pour chaque membre de la famille dès 4 ans, ce qui rend le vote concret, mais il faut départager au moins trois projets que je n'ai pas suivis."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.11,
+      "partage_proba": 0.1,
+      "raison": "Je connais la démarche et le bulletin arrive à domicile, mais l'été et la rentrée sont chargés et choisir trois projets demande du temps que je ne prends pas forcément."
+    }
+  ]
+}

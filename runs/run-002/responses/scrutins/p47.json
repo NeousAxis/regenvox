@@ -1,0 +1,95 @@
+{
+  "id": "p47",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "L'armée a besoin de moyens et le fonds est alimenté par son budget, sans impôt en plus. La somme me paraît élevée, mais je pense que la Suisse doit pouvoir assurer sa défense."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas l'intérêt d'inscrire une définition du mariage dans la Constitution. L'égalité fiscale entre couples me parle, mais pas en passant par là."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je veux que l'AVS tienne pour ma génération, mais une hausse de TVA touche aussi les petits budgets et les restaurants. Le supplément de 70 francs et le passage des femmes à 65 ans me font hésiter."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Les accords avec l'Union européenne ouvrent nos marchés et protègent les emplois d'ici. Je ne vois pas l'intérêt de tout remettre en cause pour une question de principe."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "Les restaurants, la vente et les transports d'ici ont besoin de personnel et de bonnes relations avec nos voisins. Fermer la porte aux travailleurs européens me paraît dangereux pour l'économie locale."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Une armée crédible a un coût et il faudra renouveler les avions. Six milliards, c'est beaucoup pour nous tous, mais je ne suis pas opposée si le choix du modèle reste transparent."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.1,
+      "raison": "La recherche médicale a besoin d'essais pour protéger les patients. Une interdiction totale me paraît irréaliste et difficile à contrôler pour les produits importés."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Les éleveurs d'ici ont déjà beaucoup investi et le lait de la région fait vivre le village. Une transition de 25 ans et des règles pour les importations feraient monter les prix pour les familles."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Les femmes de ma génération doivent travailler jusqu'à 65 ans et l'AVS doit être financée. La hausse de 0,4 point reste limitée et la réforme prévoit des compensations, donc je l'accepte."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je tiens à la neutralité suisse, mais l'initiative me paraît trop rigide. Interdire les sanctions et toute coopération avec une alliance nous mettrait à l'écart de nos voisins et de nos échanges."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Manger ce qui est produit ici me parle beaucoup, surtout avec le monde agricole du village. Mais 70 % d'aliments indigènes en dix ans et moins de produits animaux me semblent difficiles à tenir sans hausse des prix."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La 13e rente est une bonne chose pour les retraités, mais la TVA touche aussi les restaurants et mes achats du quotidien. Je voudrais voir d'autres pistes de financement avant d'accepter une hausse."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Les feux bruyants me gênent surtout autour du Nouvel An et pour les animaux. Mais l'initiative toucherait aussi les feux privés que beaucoup aiment, et je préfère des règles locales et du bon sens."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je trouvais l'imposition individuelle juste, et revenir à l'imposition commune coûterait très cher à l'État. Je ne vois pas pourquoi les couples mariés devraient être mieux protégés que les autres."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Nos entreprises industrielles d'ici doivent pouvoir exporter comme leurs concurrentes européennes. Mais la neutralité doit rester claire, et je me méfie des livraisons à un pays en guerre."
+    }
+  ]
+}

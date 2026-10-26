@@ -1,0 +1,29 @@
+{
+  "id": "p25",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Une pilule ou un implant coûte vite cher quand on élève seule ses enfants, mais 20 millions de plus par an pour l'État, alors que le Conseil d'État dit non et que l'UDC s'y oppose, ne me convainc pas."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je roule chaque jour dans les bouchons, donc je veux des bus et des trams pour les Genevois, et je ne veux pas payer des projets en France alors que le peuple a déjà refusé ce genre de financement en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Un locataire qui vit depuis trois ans dans son appartement pourrait l'acheter à un prix plafonné, ce qui est juste, mais j'ai peur que les congés-ventes reviennent et que les logements locatifs abordables disparaissent à Carouge."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "La HES forme des gens dont on a besoin ici et 33 millions par an restent raisonnables, donc je voterais oui si j'y pense, mais cette votation ne me concerne pas directement."
+    }
+  ]
+}

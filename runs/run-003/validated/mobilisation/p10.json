@@ -1,0 +1,39 @@
+{
+  "id": "p10",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.22,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre concrètement ce que le bio change pour le revenu des paysans et pour le prix de mes courses, et qu'on me dise ce qui sera fait après l'atelier."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Savoir précisément comment devenir partenaire d'une ferme, avec une démarche simple qui ne demande ni bénévolat ni temps en plus."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question plus concrète, par exemple ce qui va changer dans les champs près de chez moi, plutôt qu'une vision de la commune dans quinze ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.28,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une reconnaissance qui ne coûte rien à notre ménage et qui se voit vraiment, par exemple une visite de ferme organisée le samedi."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de dix minutes sur mon téléphone est le seul format que je peux glisser dans une journée sans caser une soirée de semaine ou un samedi matin. Je ne le remplirais probablement que si le courrier de la commune m'y pousse."
+}

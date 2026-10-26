@@ -1,0 +1,29 @@
+{
+  "id": "p21",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Mon parti dit non et 20 millions par an pour la contraception ne me semblent pas une priorité pour l'État, même si je comprends l'argument de l'accès pour les jeunes."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.3,
+      "oui_proba": 0.75,
+      "raison": "Mon parti soutient ces projets de bus et de tram qui faciliteraient les trajets depuis la frontière, même si je reste méfiant sur le financement d'infrastructures en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.3,
+      "oui_proba": 0.65,
+      "raison": "Je suis proche du PLR qui soutient l'accès à la propriété, mais je vis chez mes parents et ce sujet me touche peu directement, donc je serais plutôt favorable sans trop y réfléchir."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Mon parti soutient le financement de la HES et étant en formation je préfère éviter une hausse des frais, même si les 2 millions de moins pèsent peu dans l'ensemble."
+    }
+  ]
+}

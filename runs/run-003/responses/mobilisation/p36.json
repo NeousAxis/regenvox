@@ -1,0 +1,39 @@
+{
+  "id": "p36",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Savoir que mon avis compte vraiment, avec un engagement écrit de la commune sur la suite donnée aux propositions, et un atelier en semaine après 18 h à Vuadens pour que je puisse y aller directement après le travail."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un chiffre clair sur ce que je paierais en plus pour des légumes bio d'une ferme de Vuadens par rapport au magasin, et une formule d'entrée à petit budget adaptée à un salaire de jeune qui débute, sinon je ne vois pas ce que j'y gagne."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question qui me concerne à mon échelle, par exemple ce que je peux changer dans mes achats ou mon quotidien dès cette année, et une démarche courte plutôt qu'une réflexion sur trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Des visites de fermes ouvertes avec des résultats concrets sur l'eau et la biodiversité, et la garantie que la reconnaissance n'ajoute ni labels ni contrôles pour les agriculteurs."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, quand j'ai le temps, c'est le seul format que je ferais vraiment. Un samedi matin ou une soirée en salle, je n'irais pas sans être accompagnée, et trois séquences à suivre sur trois semaines, je les oublierais après la première."
+}

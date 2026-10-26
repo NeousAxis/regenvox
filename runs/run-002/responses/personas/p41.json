@@ -1,0 +1,141 @@
+{
+  "id": "p41",
+  "portrait": "Je suis agricultrice à Vuadens, au hameau, et je tiens avec mon conjoint une exploitation familiale de vaches laitières en production conventionnelle, sur les prairies. Nous avons des enfants, et la question de la reprise me préoccupe plus que le reste, parce que je ne sais pas encore qui prendra la ferme après nous. Je ne suis pas opposée au bio par principe, mais je veux voir des chiffres précis sur le prix du lait avant de changer quoi que ce soit.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Vivre de notre travail, c'est la première chose qui compte, et aujourd'hui on ne peut pas dire qu'on y arrive. Mais devenir les promoteurs du bio, je ne vois pas comment je le dirais à mes voisins qui font du conventionnel depuis trente ans. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le temps: la traite et les foins ne laissent presque pas de place pour une réunion en soirée",
+        "Le sentiment que ces démarches sont déjà décidées avant qu'on nous demande notre avis",
+        "La méfiance envers les démarches venues d'en haut"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur le prix payé au producteur pour le lait bio, une garantie d'acheteur, et une séance organisée en journée ou sur l'exploitation plutôt qu'à la salle communale le soir."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les nouveaux habitants ne viennent pas voir la traite. Ils veulent des produits bio au magasin, et pour le reste, ça ne les concerne pas trop. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Je n'ai pas envie qu'on vienne fouiller dans la ferme",
+        "Les habitants connaissent mal le métier et ne voient souvent que le côté romantique",
+        "Pas le temps d'accueillir du public pendant la saison des travaux"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite organisée avec la fromagerie villageoise, un jour de l'année où ça ne tombe pas sur les foins, avec des gens qui achètent déjà nos produits."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« La terre, je veux la laisser en bon état à mes petits-enfants, c'est sûr. Mais qu'on ne vienne pas me dire comment la cultiver pour y arriver. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas si mes enfants reprendront, donc je n'ai pas envie de m'engager sur trente ans",
+        "Peu de temps, et peu de goût pour les discussions avec des gens qui ne connaissent pas le métier"
+      ],
+      "ce_qui_me_ferait_venir": "Savoir que la relève et les agriculteurs qui vivent sur place ont une vraie place dans la discussion, et que rien ne sera décidé sans eux."
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Ça, ça me parle. On fait déjà des haies, des bandes fleuries et on laisse des prairies extensives, mais personne ne le voit ni ne nous le reconnaît. »",
+      "engagement": 2,
+      "freins_participation": [
+        "La paperasse et les contrôles qui s'ajoutent déjà",
+        "Le risque d'être vus comme de mauvais élèves si on n'est pas passés au bio"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance concrète, par exemple un panneau à l'entrée des fermes ou une journée de la terre où l'on présente ce que l'on fait, sans que ce soit une leçon."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Autres exploitants laitiers du village, membres de la fromagerie villageoise et de la coopérative laitière, famille élargie du hameau et quelques voisins avec qui on échange sur les travaux agricoles."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Il y a peu de résidences secondaires chez nous, donc le sujet ne me touche pas directement. Limiter la propriété pour les autres, je n'aime pas trop."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Chaque parcelle qui part pour une zone à bâtir, c'est du fourrage en moins pour mes vaches. Il faut protéger les terres agricoles, même si la zone industrielle nous a déjà pris assez de surface."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Une seule planète pour tout le monde, ça veut dire qu'on nous demandera de produire moins et de suivre encore plus de normes. Je ne vois pas comment c'est possible pour une ferme laitière."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je suis partagée sur le nucléaire. Sortir d'une énergie qui fonctionne sans savoir par quoi la remplacer, ça m'inquiète pour le prix de l'électricité de la ferme."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Le photovoltaïque sur les toits de la grange m'intéresse, et les énergies renouvelables, c'est bien. Mais je veux que ça ne coûte pas une fortune en taxes et en démarches compliquées."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Que les produits importés respectent les mêmes règles que les nôtres, c'est de la concurrence loyale, je suis pour. Mais si ça fait monter les prix en magasin, ce sont les familles qui paient."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Protéger l'agriculture paysanne du pays par des droits de douane et des prix équitables, je suis d'accord avec ça. Le paysan doit avoir un prix qui couvre ses coûts."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques, et obliger à nourrir les animaux avec le fourrage de sa propre ferme, c'est impossible pour une exploitation laitière comme la nôtre. Je vote non."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Interdire les produits de synthèse sans solution de rechange pour les cultures, c'est mettre la production en danger. Je comprends la question de l'eau, mais pas de cette façon."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Le climat compte, on le sent avec les sécheresses. Mais les taxes sur le mazout et les normes pour les bâtiments me font craindre des frais supplémentaires pour les particuliers comme pour la ferme. Je suis hésitante."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.8,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être des animaux, on y est attentifs sur notre ferme. Mais imposer les règles Bio Suisse à tout le monde, importations comprises, sur vingt-cinq ans, c'est un coût que nos vaches et nos étables ne peuvent pas porter seules. Je vote plutôt non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Le climat, je le vois sur nos prairies avec les étés secs. Les aides pour changer les chauffages et pour l'innovation, c'est utile, mais je ne sais pas comment cela se traduira concrètement pour nous."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La nature, on en prend soin: haies, bandes fleuries, prairies extensives. Mais les surfaces qu'on veut mettre de côté pour la biodiversité, ce sont nos terres. Je crains qu'on nous en prenne davantage sans compensation claire."
+    }
+  ]
+}

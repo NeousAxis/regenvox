@@ -1,0 +1,29 @@
+{
+  "id": "p37",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "La contraception coûte cher quand on n'a pas de revenu, et Le Centre dit oui, donc je me déplacerais pour ça, même si je ne suis pas sûre que ce soit à l'État de payer."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Le Centre soutient ces projets de bus, et les bouchons à la frontière me gênent, mais ces dossiers ne me passionnent pas, donc je ne suis pas sûre d'aller voter."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je ne peux pas acheter, et j'ai peur que la vente aux locataires fasse partir les gens de leur immeuble, donc je pencherais pour le non, même si Le Centre dit oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.25,
+      "oui_proba": 0.6,
+      "raison": "Former les soignants me paraît utile et Le Centre dit oui, mais je connais mal le détail du financement de la HES, donc je suivrai la recommandation sans grand enthousiasme et je ne suis pas sûre de voter."
+    }
+  ]
+}

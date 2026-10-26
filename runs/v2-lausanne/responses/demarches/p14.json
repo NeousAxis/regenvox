@@ -1,0 +1,65 @@
+{
+  "id": "p14",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.012,
+      "partage_proba": 0.02,
+      "raison": "J'avais 17 ans, l'avenir de l'Auberge de Sauvabelin ne me concernait pas et je n'ai pas remarqué l'annonce du sondage."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.025,
+      "partage_proba": 0.02,
+      "raison": "À 19 ans, je n'ai pas entendu parler de ce premier budget participatif ou je n'ai pas pris le temps de voter, le dépôt de projet à plusieurs me paraissait trop lourd."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Pendant la pandémie les priorités étaient ailleurs, et le vote en ligne ne m'a pas assez attiré pour prendre le temps de choisir trois projets."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Un sondage sur le Plan d'affectation communal me paraît trop technique à 20 ans, et même court, je ne l'aurais probablement pas vu passer."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "Le bulletin préaffranchi envoyé à domicile m'aurait peut-être décidé à voter, mais l'obligation de choisir au moins trois projets et l'absence de sujet qui me touche personnellement me freinent."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Les quais fermés pendant l'été 2020 m'ont touché et j'en ai parlé autour de moi, mais un questionnaire en ligne reste un effort que je ne fais pas souvent."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je m'intéresse un peu au budget participatif, mais voter sur des projets de quartier que je ne connais pas m'a toujours paru peu concret."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "En tant qu'étranger résident, le thème du racisme me concerne directement et j'en parlerais avec des proches, mais une consultation sans suite précise me semble moins utile qu'une action concrète."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Le bulletin nominatif est arrivé chez nous, mais je l'ai laissé de côté : sélectionner trois projets prend du temps et je ne connaissais aucun des projets proposés."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Vivant en couple au centre-ville, je suis un peu plus sensible à l'espace public, mais voter pour des projets de quartier ne s'est pas imposé à moi à l'automne."
+    }
+  ]
+}

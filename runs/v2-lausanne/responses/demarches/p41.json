@@ -1,0 +1,65 @@
+{
+  "id": "p41",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Consultation très locale sur les établissements de Sauvabelin, sans lien avec mon quotidien à 19 ou 20 ans et sans souvenir de l'annonce."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Premier budget participatif peu médiatisé, dont je n'ai qu'un vague souvenir, et je ne pense pas avoir voté à 22 ans."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Deuxième édition en pleine pandémie, avec une communication peu visible et une vie occupée par les études ou le travail, donc un vote peu probable même si j'en ai entendu parler."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "Sondage en ligne de cinq minutes sur le plan d'affectation qui peut attirer une personne du centre-ville, mais je n'ai pas suivi les soirées ni les balades, faute de temps."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.14,
+      "partage_proba": 0.11,
+      "raison": "Le bulletin préaffranchi envoyé à chaque foyer rend le vote facile et visible, mais je ne vote pas systématiquement et j'ai peu de temps pour comparer les projets."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Questionnaire en ligne sur la fermeture des quais, que j'ai pu croiser en ville, mais je réponds rarement aux sondages de la Ville et le sujet touche peu mon quotidien."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.11,
+      "partage_proba": 0.09,
+      "raison": "Bulletin préaffranchi reçu à domicile et vote en ligne possibles, mais la phase de dépôt et les permanences demandaient du temps que je n'avais pas, et je n'étais pas forcément informée de chaque projet."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.17,
+      "partage_proba": 0.24,
+      "raison": "Sujet qui me concerne directement en tant que personne étrangère et professionnelle du social, donc je pourrais répondre au questionnaire en ligne et en parler autour de moi, même si les consultations ouvertes restent rares dans mon emploi du temps."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.19,
+      "partage_proba": 0.15,
+      "raison": "Bulletin nominatif envoyé à toute la population dès 4 ans, ce qui rend le vote simple, mais je ne vote qu'au cas par cas selon les projets proposés et l'intérêt qu'ils me donnent."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.21,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin à domicile et le vote en ligne rendent la participation facile, et des projets sur la convivialité ou les liens entre générations me parlent, mais le temps manque et ma participation reste irrégulière."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "p47",
+  "portrait": "J'ai 21 ans, je suis apprentie en fin de formation et je vis encore chez mes parents, dans un quartier résidentiel récent de Vuadens. Je suis suisse, je vote, et je me sens plutôt proche du PLR : je pense qu'il faut faire confiance à ceux qui travaillent, sans que l'État ou la commune leur dictent comment faire leur métier. Mon quotidien tourne autour du travail, de mes amies et de ma famille, et la politique locale ne me passionne pas.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans arrivent à bien vivre du bio, tant mieux, mais c'est à eux de choisir, pas à la commune de leur dire quoi faire. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne connais pas les revenus réels des fermes de Vuadens",
+        "Je n'ai pas le temps entre le travail et mes cours",
+        "Ça ne me touche pas directement"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagne une ferme bio ici, et un débouché concret, comme la fromagerie ou les cantines de la commune qui achètent local."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Ça sonne bien, mais moi je ne vais pas aller désherber le champ du voisin. J'achète ce que je peux payer, c'est tout. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Pas de temps ni de voiture pour aller jusqu'à la ferme",
+        "Le bio reste plus cher et mon budget est serré",
+        "L'impression d'un projet venu de bureau, pas d'un vrai besoin"
+      ],
+      "ce_qui_me_ferait_venir": "Un partenariat simple et concret, par exemple un panier hebdomadaire que je peux récupérer près de chez moi, sans engagement ni réunion."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question pour une conférence, mais moi je pense à mon salaire d'apprentie et à mon avenir. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Question trop vague pour moi",
+        "Aucun lien avec mon quotidien",
+        "Je ne me vois pas dans une réunion sur l'avenir de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me montre ce que ça change concrètement pour mon quartier, par exemple moins de produits chimiques dans l'eau du robinet."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Les agriculteurs sont déjà contrôlés à la virgule près. Un label de plus, ça veut dire de la paperasse et des subventions en plus. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je me méfie des labels et des contrôles supplémentaires",
+        "Je pense que les paysans ont déjà assez de contraintes",
+        "Je n'ai pas d'avis technique sur les sols ou l'eau"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance simple, sans coût pour les fermes, qui ne passe ni par une nouvelle taxe ni par un nouveau formulaire."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "famille proche (parents, fratrie), quelques amies de l'école professionnelle, collègues d'apprentissage et contacts sur les réseaux sociaux"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Pas encore en âge de voter à cette date. Limiter les résidences secondaires touche à la propriété, je m'y serais probablement opposée."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore en âge de voter à cette date. Freiner les zones à bâtir, je comprends, mais il faut bien des logements pour les jeunes du village."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter à cette date. L'idée d'une seule planète pour toute la Suisse est floue, et ça pèserait sur les entreprises."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date. Sortir du nucléaire sans alternative chiffrée me paraît risqué pour les prix de l'énergie."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore en âge de voter à cette date. Je l'aurais sans doute soutenue, mais je me méfie des coûts qui finissent sur la facture des ménages."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Pas encore en âge de voter à cette date. Des produits sains et équitables, c'est difficile de dire non, mais je me méfierais des normes imposées aux importations."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore en âge de voter à cette date. Soutenir l'agriculture d'ici, oui, mais les droits de douane et les prix garantis, moins : ça renchérit les courses."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date. Conditionner les paiements directs aux pratiques, je l'aurais refusée : ça pénalise des agriculteurs qui font déjà attention."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date. Interdire tous les pesticides de synthèse d'un coup, sans alternative prête pour les fermes, c'est trop brutal pour moi."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date. Une taxe sur les billets d'avion et une hausse de la taxe CO2 sur le mazout, non : c'est le porte-monnaie qui trinque."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Pas encore en âge de voter à cette date. Des exigences plus strictes pour l'élevage, je serais réticente : les éleveurs du coin font déjà beaucoup et en pâtiraient."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "J'avais peut-être juste 18 ans à cette date, je ne suis pas sûre d'avoir été inscrite. L'objectif zéro émission nette ne me choque pas, mais je n'aime pas les aides financées par l'État et les taxes qui finissent sur la facture."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je suis électrice et j'irai peut-être voter, mais sans grand élan. Protéger la nature, je suis pour en théorie ; plus de surfaces protégées et plus d'argent public, ça pèse sur les agriculteurs d'ici et sur les finances de l'État."
+    }
+  ]
+}

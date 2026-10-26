@@ -1,0 +1,39 @@
+{
+  "id": "p12",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.07,
+      "parcours_distance": 0.1,
+      "atelier_si_invite_par_un_proche": 0.16,
+      "ce_qui_doublerait_ma_venue": "Un chiffrage écrit, distribué avant la séance, du revenu sur trois ans de transition avec un prix du lait bio garanti par la fromagerie, établi à partir de fermes laitières comparables de la région."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une rencontre sur l'exploitation même, un samedi après-midi, où les habitants voient le travail des bêtes et des prés plutôt qu'une discussion en salle."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.14,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants sur place pendant la séance et un horaire le samedi matin annoncé plusieurs semaines à l'avance, pour pouvoir le caler avec le foin."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un engagement écrit de la commune à discuter avec les fermes avant de publier tout classement ou jugement sur leur travail."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de 10 minutes se fait sur le téléphone, le soir ou pendant une pause, sans rien déplacer dans la journée. L'atelier demande de sortir de la ferme un samedi matin en pleine saison de foin, et le parcours à distance représente trois séquences sur trois semaines, que je ne tiendrais pas."
+}

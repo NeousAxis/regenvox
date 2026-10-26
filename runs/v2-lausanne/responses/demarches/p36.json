@@ -1,0 +1,15 @@
+{
+  "id": "p36",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je ne fréquente guère le lac de Sauvabelin, l'annonce ne m'est pas parvenue et les ateliers du samedi après-midi tombaient sur mon temps en famille."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Ce budget participatif pilote est passé presque inaperçu pour moi, et le vote de l'automne s'est noyé entre le travail et la vie de famille."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "Pendant la pandémie je suivais surtout l'actualité sanitaire, et un vote sur un petit budget de quartier ne m'a pas paru assez concret pour que j'y consacre du temps."},
+    {"item_id": "lau10", "participe_proba": 0.07, "partage_proba": 0.05, "raison": "Un sondage en ligne de cinq minutes reste faisable, mais je ne l'ai vu passer qu'une fois et le Covid a relégué le sujet au second plan."},
+    {"item_id": "lau03", "participe_proba": 0.12, "partage_proba": 0.10, "raison": "Le bulletin affranchi arrivé dans la boîte aux lettres attire l'œil, mais cocher trois projets prend du temps et j'en parlerais surtout en famille."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "La fermeture des quais m'a touché un peu pendant l'été 2020, mais un questionnaire de quinze questions sur le site de la Ville dépasse ce que je fais d'habitude et je suis passé à côté de l'annonce."},
+    {"item_id": "lau04", "participe_proba": 0.10, "partage_proba": 0.07, "raison": "Le bulletin reçu à domicile commence à être un réflexe, mais je ne vote que si un projet de mon quartier me parle vraiment et j'en discute peu hors de la famille."},
+    {"item_id": "lau09", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "Le sujet me touche en tant qu'étranger vivant en Suisse, mais la consultation était peu visible et je n'ai pas remarqué le questionnaire, ni en ligne ni sur papier."},
+    {"item_id": "lau05", "participe_proba": 0.12, "partage_proba": 0.09, "raison": "Le bulletin nominatif arrive à la maison et l'idée de voter en famille me plaît, mais l'automne est chargé et cocher trois projets prend du temps."},
+    {"item_id": "lau06", "participe_proba": 0.08, "partage_proba": 0.06, "raison": "Le vote de l'été 2025 était moins présent dans mon quotidien, et choisir trois projets parmi une liste de quartier me paraît fastidieux sans enjeu direct pour moi."}
+  ]
+}

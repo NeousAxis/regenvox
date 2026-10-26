@@ -1,0 +1,29 @@
+{
+  "id": "p72",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Une pilule ou un stérilet ne devrait pas dépendre du revenu, et les Vert-e-s comme le PS défendent cette idée depuis longtemps, même si 20 millions par an ne sont pas rien pour le canton."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.72,
+      "raison": "Moins de voitures qui franchissent la frontière chaque jour, ça veut dire un air plus respirable à Meyrin et un tram plus utile, donc je voterai oui même si le MCG s'y oppose."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Dans un immeuble comme le mien, les congés-ventes ont déjà fait partir des familles, et si on vend les appartements aux locataires il y aura moins de logements abordables à louer, donc je dirai non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.28,
+      "raison": "La HES-SO compte, mais couper 2 millions par an alors que les taxes d'études ont déjà augmenté est un mauvais signal, et je ne suis pas certain d'aller voter sur un dossier aussi technique."
+    }
+  ]
+}

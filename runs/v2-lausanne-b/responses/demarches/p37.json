@@ -1,0 +1,65 @@
+{
+  "id": "p37",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "À 75 ans, je me promène parfois au Sauvabelin, mais je n'ai ni rempli le sondage papier ni fréquenté les ateliers du samedi après-midi, et l'annonce ne m'a pas accroché."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "C'était le premier budget participatif, encore peu connu, et le dépôt de projets par groupes de trois personnes me semblait lourd à 77 ans, donc je n'ai pas voté."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.07,
+      "raison": "En pleine pandémie, à 78 ans, je restais prudent et je ne fréquentais plus les stands du marché, si bien que je n'ai pas suivi cette édition jusqu'au vote."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.2,
+      "partage_proba": 0.25,
+      "raison": "Le PACom touche directement mon quartier d'immeubles et je tiens au patrimoine et aux espaces verts, mais je ne suis pas sûr d'avoir vu l'annonce du sondage en ligne ni d'avoir eu le temps de le remplir."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin préaffranchi arrive dans ma boîte aux lettres et je me sens concerné par mon quartier, mais sélectionner au moins trois projets demande du temps et je ne les connais pas tous."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Je n'habite pas au bord du lac et je ne fréquente pas les quais d'Ouchy ou de Belgique au quotidien, donc un questionnaire de quinze questions sur leur fermeture ne m'a guère tenté."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.13,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin préaffranchi envoyé à domicile me facilite la tâche, mais je n'ai pas suivi la campagne ni déposé de projet, et je ne suis pas sûr de pouvoir choisir trois projets sans l'avoir fait."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "La lutte contre le racisme me tient à cœur, mais je n'ai pas vu les questionnaires déposés en maison de quartier et je ne me sens pas directement concerné par ces expériences."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.18,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin nominatif m'est adressé personnellement et le vote en ligne ou par courrier reste simple, donc je vote probablement si je prends le temps de parcourir les projets, en en parlant à la maison."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.18,
+      "partage_proba": 0.18,
+      "raison": "Les thèmes de biodiversité urbaine et de liens entre les générations me parlent et le bulletin reçu à domicile rend le vote facile, mais à 83 ans je ne suis pas certain de prendre le temps de comparer tous les projets."
+    }
+  ]
+}

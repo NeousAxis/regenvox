@@ -1,0 +1,125 @@
+{
+  "id": "p17",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Ce collectif d'étudiant·es de l'EPFL parle d'un événement lausannois que je ne suis pas, et ses revendications de charte ne me concernent pas directement."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Les canicules de cet été m'ont marquée et je vois leurs effets chez mes patients âgés, mais je ne suis pas convaincue par une lettre qui réclame un plan d'urgence piloté par l'État et des objectifs aussi larges."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je trouve l'initiative de l'UDC problématique sur le fond, mais demander à l'Assemblée fédérale de l'invalider me paraît contraire au droit populaire, et je préfère que le peuple tranche."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Ce dossier genevois ne me touche pas, et je suis mal à l'aise avec une pétition qui prend position dans un conflit politique et judiciaire que je connais mal."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "L'usage détourné du protoxyde d'azote m'inquiète comme professionnelle de la santé, mais c'est une régulation genevoise que je ne vis pas, et je préférerais une réponse nationale."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je suis sensible au lien entre climat et santé, mais cette pétition en anglais, adressée à la surveillance des caisses de pension sans demande précise, ne me pousse pas à signer."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Le texte se présente lui-même comme un projet fictif, ce qui me détourne d'une pétition réelle, et une institution cantonale d'assurance me semble surtout un transfert de complexité."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.15,
+      "partage_proba": 0.08,
+      "raison": "Je partage l'inquiétude sur le financement de l'AVS et l'idée d'une durée de cotisation plutôt qu'un âge unique, et je refuse les hausses répétées de TVA, donc ce texte me parle plus que la plupart."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "C'est une affaire de Versoix, une commune où je n'ai aucun lien, donc je ne me sens pas concernée."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.28,
+      "partage_proba": 0.12,
+      "raison": "Ce témoignage touche directement mon métier : ces femmes vivent accouchement et deuil sans aucune reconnaissance juridique, et la revendication me paraît juste et concrète."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.18,
+      "partage_proba": 0.1,
+      "raison": "Les délais pour une psychothérapie sont déjà trop longs dans mon secteur, et exiger un diagnostic psychiatrique avant tout suivi risque de les allonger encore."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Cette ferme d'agrumes vaudoise, dans une commune que je ne connais pas, a un intérêt patrimonial, mais je n'ai pas de raison personnelle de m'engager."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.15,
+      "partage_proba": 0.08,
+      "raison": "Les violences domestiques font partie de ce que je rencontre dans mon travail, et l'absence de maison d'accueil dans le Jura me paraît un vrai manque, même si je ne vis pas dans ce canton."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "La chaleur en ville est un vrai sujet, mais ce tracé du tram lausannois ne me concerne pas directement et ce type de demande municipale ne me mobilise pas."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "Le sort des réfugié·es me touche par mon travail, mais demander la suspension générale des renvois va contre ma conviction qu'une politique d'asile doit reposer sur des décisions individuelles et des règles claires."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "Je comprends que l'apprentissage à 100 % exclut certains jeunes, mais allonger le CFC et instituer un droit au temps partiel me paraît coûteux pour les entreprises et peu réaliste."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Les enregistrements à l'insu de personnes, surtout dans des lieux intimes, me préoccupent beaucoup, mais je préfère sanctionner ces usages plutôt qu'interdire tout un produit."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je partage le constat climatique, mais ce programme de restrictions sur les retours en ligne, la fast fashion et les vols court-courriers va trop loin à mes yeux."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "La forêt du coteau de Savièse et le risque d'incendie me parlent directement, mais je suis attentive aux finances publiques et la pétition ne dit pas comment financer ce maintien."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Les abus facilités par la drogue et les réseaux qui les organisent me préoccupent beaucoup, surtout pour les femmes que je côtoie, et une coopération nationale avec Europol me paraît raisonnable."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p26",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.62,
+      "oui_proba": 0.45,
+      "raison": "Je vois dans mon travail l'enjeu de santé et de prévention, mais une gratuité pour tout le monde, sans condition de revenu, me paraît coûteuse et mal ciblée, et je suis plus proche de la position des Vert'libéraux."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.72,
+      "raison": "Meyrin subit de plein fouet le trafic frontalier et le bruit de l'aéroport, donc des bus, un tram et des parkings-relais côté français me paraissent utiles, même si je me méfie des montants et que je me souviens du refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "L'idée de pouvoir acheter mon appartement après des années de location me tente, mais je crains les congés-ventes et la perte de logements abordables, et je n'ai pas encore tranché."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.68,
+      "raison": "Dans le social et la santé, je mesure la valeur de la HES pour la formation de mes collègues, donc je soutiens le financement, même si l'écart de 2 millions par an ne me touche guère."
+    }
+  ]
+}

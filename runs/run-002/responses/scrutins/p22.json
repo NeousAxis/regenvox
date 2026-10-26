@@ -1,0 +1,95 @@
+{
+  "id": "p22",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "J'avais 10 ans, je n'étais pas en âge de voter. Si j'avais pu voter, j'aurais soutenu l'achat d'avions pour que l'armée puisse protéger le pays."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "J'avais 12 ans, je n'étais pas en âge de voter. Je trouve normal que les couples mariés ne soient pas pénalisés, mais je ne suivais pas ce sujet de près."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "J'avais 13 ans, je n'étais pas en âge de voter. Si j'avais voté, je me serais méfié d'une hausse de la TVA, parce que les taxes finissent toujours par peser sur les gens d'ici."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "J'avais 14 ans, je n'étais pas en âge de voter. Si j'avais pu voter, j'aurais soutenu que la Constitution suisse passe avant les juges étrangers."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "J'avais 16 ans, je n'étais pas en âge de voter. Si j'avais pu voter, j'aurais voté oui pour que la Suisse décide elle-même de son immigration."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "J'avais 16 ans, je n'étais pas en âge de voter. J'aurais sans doute soutenu le renouvellement des avions de combat pour la défense, même si la facture est lourde."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.2,
+      "oui_proba": 0.3,
+      "raison": "J'avais 18 ans et je votais encore rarement, donc je n'y serais probablement pas allé. Je me méfie des interdictions qui touchent la recherche et les produits importés."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je vois ce que les éleveurs du coin endurent avec les prix et la paperasse, et de nouvelles normes pèseraient surtout sur eux. Je voterais probablement non, si j'ai le temps d'aller voter."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Les retraites ne me concernent pas encore vraiment, et une hausse de la TVA me déplaît. Je pense qu'on finit toujours par payer les réformes des autres."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Je suis attaché à la neutralité suisse et à l'idée que la Suisse décide seule de ses alliances. C'est un sujet qui concerne tout le pays, donc j'irais probablement voter."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Produire davantage chez nous me semble bien, mais un objectif qui réduit les aliments d'origine animale touche directement les éleveurs de la région. Je serais plutôt contre."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas pourquoi on augmenterait la TVA pour financer une rente que je ne toucherai pas avant longtemps, et les taxes sur tout ce qu'on achète finissent par peser. Je voterais plutôt non, même si la 13e rente est populaire."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.3,
+      "oui_proba": 0.45,
+      "raison": "Je comprends le souci pour les animaux, surtout en campagne où les bêtes sont stressées par les pétards. Mais je tiens aux feux du 1er août et je n'aime pas qu'on interdise des traditions, donc je serais partagé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Je trouve injuste qu'un couple marié paie davantage d'impôts, et la famille mérite d'être protégée. Je ne suis pas marié, donc le sujet m'intéresse moins, mais je voterais probablement oui."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Je suis favorable à une armée forte et à une industrie qui peut travailler avec des partenaires. Mais je reste attaché à la neutralité, donc j'hésite sur les livraisons à des pays en guerre."
+    }
+  ]
+}

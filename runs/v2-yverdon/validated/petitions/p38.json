@@ -1,0 +1,125 @@
+{
+  "id": "p38",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Une polémique interne à l'EPFL qui concerne surtout des étudiant·es, dans un milieu qui n'est pas le mien : je la suivrais de loin sans signer."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.3,
+      "raison": "Les canicules de cet été m'inquiètent comme mère, mais je ne signe pas volontiers une lettre ouverte de coalition au ton très militant, et la mise en cause des multinationales me paraît plus politique que pratique."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.02,
+      "partage_proba": 0.15,
+      "raison": "Je ne soutiens pas l'initiative de l'UDC, mais demander à l'Assemblée fédérale de l'invalider au nom du droit impératif relève d'un débat juridique qui ne me mobilise pas, et Campax n'est pas un réseau dont je suis proche."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.005,
+      "partage_proba": 0.1,
+      "raison": "Affaire genevoise très liée au conflit à Gaza, et un appel de soutien à un député que je ne connais pas ne fait pas partie de ce que je signe."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.35,
+      "raison": "Le protoxyde d'azote touche les jeunes et m'inquiète comme parent, mais la pétition vise Genève alors que je vis dans le canton de Vaud : je la signerais peut-être par souci de protection des jeunes et la relayerais aux autres parents."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Le deuxième pilier me concerne, mais cette pétition en anglais, portée par des soignant·es, s'adresse à des institutions et ne me donne pas envie d'agir."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Le texte se présente lui-même comme fictif, ce qui retire l'intérêt d'une signature, même si la question des primes me touche comme parent seule."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.25,
+      "raison": "L'équité entre générations et une réforme de l'AVS sans hausse de TVA me parlent, mais la taxation du cannabis proposée me freine."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.005,
+      "partage_proba": 0.05,
+      "raison": "Un projet social dans une commune genevoise, loin de Yverdon, dont je ne suis ni habitante ni concernée."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.4,
+      "raison": "Le deuil périnatal et la reconnaissance d'une maternité touchent à la condition de mère, et je pourrais signer par empathie, mais je ne m'y reconnais pas directement et je ne signe pas facilement."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.05,
+      "partage_proba": 0.2,
+      "raison": "L'accès à la psychothérapie compte pour moi comme parent seule, mais la motion reste technique et je ne signe pas volontiers des pétitions de professionnelles adressées au Conseil national."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.04,
+      "partage_proba": 0.2,
+      "raison": "Une ferme privée dans le canton de Vaud, avec une belle collection, peut m'être sympathique, mais je ne signe pas pour un lieu que je ne fréquente pas, et je la partagerais seulement à une amie passionnée d'agrumes."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.05,
+      "partage_proba": 0.25,
+      "raison": "La violence domestique me touche comme femme et mère seule, mais la demande vise le canton du Jura que je ne connais pas, et une campagne en ligne ne m'incite pas à signer."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.06,
+      "partage_proba": 0.25,
+      "raison": "Un tram plus frais à Lausanne rejoint mon attachement à une écologie raisonnable, mais la pétition vise une commune où je ne vis pas, et je la signerais peut-être sans la diffuser largement."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Les renvois et l'asile sont un sujet sur lequel je ne me mobilise pas, je fais confiance aux autorités fédérales, et cet appel adressé au chef du DFJP ne me touche pas directement."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.2,
+      "raison": "La formation à temps partiel pour les jeunes en situation de handicap est une cause juste, mais elle ne me concerne pas directement et la réforme proposée est trop large pour que je m'engage."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.08,
+      "partage_proba": 0.4,
+      "raison": "Des lunettes connectées avec caméra dans des piscines ou des vestiaires m'inquiètent pour mes enfants et pour les femmes, donc je pourrais signer une interdiction et la partager à d'autres parents."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.04,
+      "partage_proba": 0.2,
+      "raison": "Le climat me préoccupe, mais cette liste de mesures très larges, comme l'interdiction de la mise au rebut des retours en ligne ou le transfert des vols court-courriers vers le rail, me paraît peu réaliste, donc je ne la signerais pas."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.06,
+      "partage_proba": 0.25,
+      "raison": "Les forêts et le risque d'incendie me préoccupent, mais je ne suis pas militante et une pétition au Parlement sur un budget ne me mobilise que peu."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.15,
+      "partage_proba": 0.5,
+      "raison": "La drogue du viol et les réseaux d'abus touchent de près une mère seule qui veille sur ses enfants, c'est le sujet le plus proche de mes préoccupations ici, mais je signe rarement en ligne et une pétition ne suffit pas toujours à me faire agir."
+    }
+  ]
+}

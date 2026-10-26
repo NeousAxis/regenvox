@@ -1,0 +1,95 @@
+{
+  "id": "p18",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Notre armée doit pouvoir se défendre, et je tiens à ce que la Suisse garde des avions modernes pour protéger son ciel. Le coût me gêne un peu, mais je voterais oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le mariage ne devrait pas être pénalisé par les impôts ni par les assurances, et je reste attachée à la famille traditionnelle. Je pense que la Constitution doit le dire clairement."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.3,
+      "raison": "Je suis contre une hausse de la TVA qui pèse sur tous les ménages, y compris les plus modestes. Je trouve aussi injuste de relever l'âge de la retraite des femmes par une réforme décidée d'en haut."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.85,
+      "oui_proba": 0.85,
+      "raison": "La Constitution suisse doit primer sur les juges étrangers et sur les traités imposés de l'extérieur. Nos décisions doivent se prendre chez nous, comme les paysans décident de leurs champs."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Je veux que la Suisse décide seule de qui entre sur son territoire, sans règles dictées depuis Bruxelles. La libre circulation a trop ouvert la porte à mon goût, même si nos fermes dépendent parfois de main-d'oeuvre étrangère."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Un pays doit pouvoir protéger son espace aérien, et des avions modernes en font partie. Six milliards me paraissent un montant raisonnable, et je fais confiance au Conseil fédéral pour choisir le modèle."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "La recherche médicale a sauvé beaucoup de vies, et une interdiction totale ferait surtout venir des produits fabriqués ailleurs. Je comprends le souci des animaux, mais je ne suis pas convaincue par cette initiative."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "Nos éleveurs de la région font déjà de gros efforts pour le bien-être des bêtes. Imposer le cahier des charges Bio Suisse à tout le monde, avec des délais venus d'en haut, mettrait beaucoup de fermes en difficulté."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.35,
+      "raison": "L'AVS compte pour moi, mais une hausse de la TVA touche tout le monde, y compris ceux qui ont peu. Je ne suis pas convaincue qu'il faille payer davantage pour cette réforme."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.75,
+      "raison": "La neutralité a fait la force de la Suisse pendant des siècles, et je ne veux pas que nous nous liions à une alliance militaire. Une neutralité inscrite dans la Constitution me semble la meilleure protection de notre pays."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à nos paysans et je suis pour que la Suisse nourrisse davantage sa population. Mais réduire l'élevage et les produits phytosanitaires par une obligation générale touche nos fermes laitières, et je me méfie des règles venues d'en haut."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente AVS me touche directement, donc je suis partagée. Mais la TVA pèse sur tous les ménages, y compris les plus modestes, et je ne suis pas sûre qu'il faille augmenter les impôts pour cela."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Les pétards dérangent les animaux de nos fermes et la nature, et je comprends cette préoccupation. Mais interdire la vente et l'usage privé est une règle de plus venue d'en haut, et nos petites fêtes de village comptent aussi."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Le peuple a accepté l'imposition individuelle en mars, mais je veux que la Constitution garantisse que les couples mariés ne soient pas désavantagés. Le mariage doit rester un choix protégé, pas une pénalité fiscale."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Notre industrie d'armement fait travailler des gens chez nous, et la Suisse doit pouvoir livrer. Mais livrer à un pays impliqué dans un conflit me gêne au regard de notre neutralité, donc je voterais avec hésitation."
+    }
+  ]
+}

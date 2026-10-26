@@ -1,0 +1,197 @@
+{
+  "id": "p42",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.15,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0,
+      "oui_proba": 0.75,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0,
+      "oui_proba": 0.15,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0,
+      "oui_proba": 0.95,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0,
+      "oui_proba": 0.15,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "Pas encore en âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.35,
+      "oui_proba": 0.85,
+      "raison": "Je suis proche du PS, et une imposition sur ses propres revenus me paraît plus juste, surtout pour les jeunes et les personnes qui gagnent moins."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.05,
+      "raison": "Je trouve cette initiative dangereuse pour nos accords avec l'UE et pour la cohésion, et je vois à Delémont combien la population étrangère fait partie de la vie locale."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Je ne suis pas concernée par l'armée, mais restreindre l'accès au service civil pour ceux qui y sont déjà incorporés me paraît contraire à la liberté de conscience."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "La neutralité me tient à cœur, mais une neutralité armée et perpétuelle, avec des sanctions interdites, me semble trop rigide, et le PS recommande le non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible aux pesticides et à la qualité de l'eau, mais produire 70 % de l'alimentation en Suisse en dix ans me paraît irréaliste, et le PS recommande le non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.9,
+      "raison": "La 13e rente AVS aide les retraités modestes, et une hausse de TVA de 0,4 point sans toucher aux denrées alimentaires me paraît un financement raisonnable, en accord avec le PS."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Le bruit et la peur des animaux me dérangent en centre-ville et la protection de la nature me convainc, mais je tiens aux grandes fêtes comme le 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Je trouve juste l'imposition individuelle, et revenir à l'imposition commune pour les couples mariés me paraît un recul, même si le PS n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.08,
+      "raison": "Je refuse l'assouplissement des exportations d'armes vers des pays en conflit, le PS demande le non, et un référendum a été lancé contre cette loi."
+    }
+  ]
+}

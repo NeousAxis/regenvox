@@ -1,0 +1,17 @@
+{
+  "id": "p30",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Je n'ai pas vu l'annonce passer, et un questionnaire de 28 questions en mai ne rentrait pas dans mes soirées après le travail ; le quartier de la Susette ne me concerne pas directement, mais le projet des 900 logements derrière Palexpo peut revenir à table entre collègues."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.015,
+      "partage_proba": 0.02,
+      "raison": "Le sondage des Marronniers tombait en plein hiver, dans un quartier qui n'est pas le mien, et je n'en ai jamais entendu parler autour de moi, donc je ne m'y serais probablement pas arrêté."
+    }
+  ]
+}

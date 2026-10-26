@@ -1,0 +1,143 @@
+{
+  "id": "p08",
+  "portrait": "Je suis une femme de 62 ans, cadre dans une entreprise de la région bulloise, et je vis en couple dans le quartier résidentiel récent de Vuadens, depuis que nos enfants ont quitté la maison. Je me sens proche du Centre : je tiens à la nature qui entoure le village, mais je regarde l'agriculture avec pragmatisme, en voulant qu'elle puisse vivre sans qu'on lui demande de changer le monde à sa place.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Un paysan qui ne gagne pas sa vie ne pourra jamais être un bon ambassadeur de quoi que ce soit : il faut d'abord que le revenu tienne. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Mes soirées de semaine sont prises par le travail",
+        "Je crains un atelier surtout militant où l'on finit par faire la morale",
+        "Je connais peu le monde agricole de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur le revenu des exploitations de Vuadens, un format court en soirée et des agriculteurs qui parlent eux-mêmes de leurs contraintes."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter directement chez le paysan, je veux bien, mais devenir partenaire, concrètement ça veut dire payer plus cher ? »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le prix : je fais attention au budget du ménage",
+        "Je ne sais pas ce qu'on attendrait de nous comme partenaires",
+        "Pas le temps de visiter des fermes en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Un système simple d'achat depuis le quartier, avec un prix transparent et une information claire sur ce que cela change pour la ferme."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais dans trente ans, qui s'en souciera vraiment ? On a déjà assez de sujets pour aujourd'hui. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question trop abstraite pour moi",
+        "Je ne me sens pas directement concernée",
+        "Les démarches participatives me semblent souvent sans suite"
+      ],
+      "ce_qui_me_ferait_venir": "Un lien concret avec mon quartier, par exemple la qualité de l'eau ou le paysage que je vois depuis ma terrasse."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "« Reconnaître le travail des fermes, pourquoi pas, mais il faut que ça ait un effet concret, pas seulement une plaque sur la porte. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas comment on mesure ce qu'une ferme apporte aux sols ou à l'eau",
+        "Crainte d'un discours moralisateur adressé aux habitants",
+        "Le temps manque souvent pour les ateliers"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance adossée à des résultats mesurés et à des avantages réels pour les exploitations, présentée lors d'une soirée ouverte au village."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues et réseau professionnel dans la région bulloise, voisins du quartier, cercle d'amis du couple et réseau paroissial"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas pourquoi on plafonnerait les résidences secondaires à 20 % partout : la réalité des régions touristiques n'est pas la même que chez nous, et cela touche la propriété. Je suis sensible à la protection du paysage, mais pas comme ça."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Freiner l'étalement me paraît sensé : j'habite moi-même dans un quartier récent, je sais ce que ces constructions consomment en terres. Mais je ne veux pas qu'on bloque la construction pour les familles qui veulent rester au village."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Une empreinte équivalant à une seule planète d'ici 2050 sonne bien, mais l'objectif donne une idée de décroissance imposée. Notre économie a besoin de visibilité et d'objectifs qu'on peut tenir, pas d'exigences impossibles."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je comprends l'envie de sortir du nucléaire, mais arrêter les centrales après 45 ans sans solution de remplacement prête, c'est nous mettre à la merci du gaz et des importations. Je préfère une sortie qui se prépare."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "La Stratégie 2050 est un compromis raisonnable : sortie progressive du nucléaire, renouvelables et économies d'énergie, sans interdictions brutales. C'est la voie que je soutiens."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Des aliments produits dans de bonnes conditions, je suis d'accord sur le principe. Mais imposer des normes aux produits importés et renchérir l'alimentation va trop loin : les familles ne doivent pas payer seules une exigence morale."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Protéger les paysans d'ici me parle, surtout dans la Gruyère où l'on voit encore des fermes familiales. Mais les droits de douane et le rejet d'autres modèles ressemblent à du protectionnisme qui ferait monter les prix."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "L'eau propre, c'est indiscutable, mais lier tous les paiements directs à des conditions aussi strictes, sans période de transition, met les fermes sous pression. Je préfère aider les agriculteurs à changer plutôt que les punir."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Un pays sans pesticides de synthèse, j'aimerais bien, mais en dix ans et sans contrôle des importations, les paysans suisses seraient désavantagés et les produits viendraient d'ailleurs. Je suis pour réduire l'usage, pas pour tout interdire d'un coup."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Le climat, je le prends au sérieux et la loi est un compromis. Mais les taxes sur les billets d'avion et les normes pour les bâtiments me paraissent lourdes pour les familles. Je reste partagée et je penche pour un oui sans enthousiasme."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux, bien sûr. Mais imposer des exigences proches du cahier des charges Bio Suisse, y compris pour les importations et sur 25 ans, c'est un effort énorme pour nos éleveurs laitiers, sans garantie que le prix suive. Les fermes de la Gruyère ont besoin de stabilité."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Zéro émission nette en 2050 est un objectif que je soutiens. Les aides pour changer de chauffage et pour l'innovation me paraissent utiles. Je préfère la logique d'incitation à celle de l'interdiction."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis attachée à la nature autour du village, donc l'objectif me parle. Mais davantage de surfaces protégées et des obligations pour les agriculteurs, sans compensation claire, me font hésiter. Je serais plutôt pour des mesures négociées avec les paysans."
+    }
+  ]
+}

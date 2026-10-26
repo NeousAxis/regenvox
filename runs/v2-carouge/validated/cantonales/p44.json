@@ -1,0 +1,29 @@
+{
+  "id": "p44",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "La contraception reste une dépense que les femmes paient surtout seules, le PS et les Verts soutiennent l'initiative, et 20 millions par an me paraissent un coût raisonnable pour la santé."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Les bouchons à la frontière et le manque de bus me touchent au quotidien et le PS soutient le projet, mais je me méfie de financer des infrastructures en France après le refus populaire de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Devenir propriétaire de son logement peut tenter, mais le PS et l'ASLOCA craignent le retour des congés-ventes et la disparition de logements abordables, et je reste de leur côté."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "La formation compte pour l'avenir de mes enfants et le PS demande de maintenir 35 millions par an, je ne vois pas pourquoi une baisse de 2 millions serait justifiée."
+    }
+  ]
+}

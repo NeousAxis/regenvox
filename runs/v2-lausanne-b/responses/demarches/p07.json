@@ -1,0 +1,15 @@
+{
+  "id": "p07",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.006, "partage_proba": 0.02, "raison": "J'avais 14 ans et le sondage sur les établissements du lac ne me concernait pas, je n'ai sans doute jamais su qu'il existait."},
+    {"item_id": "lau01", "participe_proba": 0.015, "partage_proba": 0.04, "raison": "À 16 ans, ce budget participatif pilote ne m'a pas touchée, je n'ai pas voté et je n'en ai guère parlé."},
+    {"item_id": "lau02", "participe_proba": 0.02, "partage_proba": 0.04, "raison": "À 17 ans, pendant le Covid, je n'ai pas suivi ce vote des projets de quartier et je n'en ai entendu parler que par bribes à la maison."},
+    {"item_id": "lau10", "participe_proba": 0.045, "partage_proba": 0.05, "raison": "Un sondage en ligne de cinq minutes sur le visage du quartier m'aurait pris un moment, mais à 17 ans je n'y ai pas pensé et les démarches de la Ville me passaient au-dessus."},
+    {"item_id": "lau03", "participe_proba": 0.07, "partage_proba": 0.12, "raison": "Le bulletin est arrivé dans la boîte aux lettres de la maison quand j'avais 18 ans, mes parents l'ont sûrement vu avant moi, et j'en ai peut-être parlé à table sans vraiment voter."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Le questionnaire sur la fermeture des quais d'Ouchy m'a peut-être traversé l'esprit, mais quinze questions en ligne, je ne m'y mets presque jamais."},
+    {"item_id": "lau04", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Un bulletin nominatif est arrivé à mon nom à 19 ans, je l'ai posé sur la table sans y penser, et les projets de quartier ne m'accrochent pas assez pour que je me déplace."},
+    {"item_id": "lau09", "participe_proba": 0.015, "partage_proba": 0.025, "raison": "Le thème du racisme me touche, mais la consultation de la Ville ne m'a pas donné envie de répondre et je n'en ai pas parlé autour de moi."},
+    {"item_id": "lau05", "participe_proba": 0.08, "partage_proba": 0.12, "raison": "À 20 ans, j'ai reçu le bulletin nominatif à mon nom, je l'ai feuilleté sans trop m'y intéresser et je n'en ai parlé qu'en passant avec mes parents."},
+    {"item_id": "lau06", "participe_proba": 0.07, "partage_proba": 0.1, "raison": "Entre l'apprentissage, les sorties et l'idée que la Ville dépense déjà beaucoup, le vote du budget participatif passe après le reste, même si le bulletin reçu à la maison m'a peut-être fait voter une fois."}
+  ]
+}

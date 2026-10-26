@@ -1,0 +1,39 @@
+{
+  "id": "p48",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.22,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.14,
+      "ce_qui_doublerait_ma_venue": "Savoir qu'il y aura des habitants pas encore convaincus du bio, et qu'un agriculteur de la commune viendra expliquer son revenu et ses contraintes, avec une fin de séance avant 21 h."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.3,
+      "atelier_presentiel": 0.07,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Une liste précise des fermes de Vuadens qui vont vers le bio, avec la possibilité d'acheter chez elles sans aucun engagement de bénévolat."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.09,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une question plus concrète : quelles terres de Vuadens changent de pratique d'ici cinq ans, et ce que ça change pour mes enfants, dans un format court en soirée."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Comprendre concrètement ce que font les fermes de Vuadens pour l'eau et les sols, avec un exemple précis près de chez moi plutôt qu'une opération de reconnaissance générale."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes sur mon téléphone, le soir ou pendant une pause, c'est le seul format que je fais vraiment. L'atelier de deux heures trente me demande une soirée ou un samedi matin, et je sais que je ne m'y rendrais pas souvent. Le parcours à distance se transformerait vite en obligation que je repousserais."
+}

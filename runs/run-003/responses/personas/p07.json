@@ -1,0 +1,143 @@
+{
+  "id": "p07",
+  "portrait": "Je suis agriculteur à Vuadens, sur l'exploitation familiale où l'on élève des vaches laitières sur nos herbages, en production conventionnelle. Avec ma femme et nos enfants, on vit à la ferme, au hameau, et la journée commence tôt. Je vote quand un dossier touche le monde agricole, parce que c'est là que se jouent nos revenus, et le bio n'a jamais été pour nous une évidence.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Parler de revenu, d'accord, c'est le vrai problème, mais qu'on me demande de devenir promoteur du bio avec un objectif de pourcentage, non merci.",
+      "engagement": 1,
+      "freins_participation": [
+        "pas le temps entre la traite et les champs",
+        "méfiance envers un objectif chiffré décidé d'en haut",
+        "le sentiment que les décisions se prennent sans les agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres précis sur ce que le bio rapporte réellement à une exploitation laitière, et la garantie que la commune ne fera pas la leçon aux conventionnels."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les gens du village achètent leur lait et leur fromage, mais de là à se mêler de la façon dont on produit, je ne suis pas sûr qu'ils en aient vraiment envie.",
+      "engagement": 1,
+      "freins_participation": [
+        "beaucoup de nouveaux habitants connaissent mal le métier",
+        "pas de temps pour des réunions en semaine",
+        "la crainte d'être jugé sur mes pratiques"
+      ],
+      "ce_qui_me_ferait_venir": "Un achat concret, où les gens paient réellement un produit de la commune plus cher, et des rencontres sur le terrain plutôt qu'à la salle communale."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "La question de la relève me touche, parce que j'ai des enfants et je veux qu'il reste des fermes ici, mais je ne suis pas sûr que la réponse soit le bio.",
+      "engagement": 2,
+      "freins_participation": [
+        "un emploi du temps de travail très chargé",
+        "le sentiment que les démarches participatives servent surtout à se faire une image",
+        "une question trop abstraite pour un atelier"
+      ],
+      "ce_qui_me_ferait_venir": "Une discussion concrète sur la transmission des exploitations (reprise, terres, bâtiments) plutôt que sur des principes, animée par des agriculteurs."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "On se fait souvent critiquer par ceux qui ne voient que la prairie, alors si les gens reconnaissent ce qu'on fait, ça me plairait, à condition que ce ne soit pas des belles paroles.",
+      "engagement": 1,
+      "freins_participation": [
+        "une reconnaissance qui reste des mots si elle n'est pas payée",
+        "je ne suis pas à l'aise pour parler en public",
+        "peu de contacts entre les habitants et nos exploitations"
+      ],
+      "ce_qui_me_ferait_venir": "Des visites de fermes ouvertes à tous, avec des explications concrètes sur les prairies et l'eau, et des produits du village qui le racontent."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 60,
+    "role": "relai",
+    "cercle_type": "Famille élargie du hameau, voisins agriculteurs de la commune, membres de la fromagerie villageoise, collègues éleveurs rencontrés à la coopérative ou au syndicat, parents des camarades d'école des enfants."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Les résidences secondaires touchent peu le village et je ne vois pas le lien avec ma ferme. Je ne veux pas qu'on bloque la construction pour les familles d'ici, donc je voterais plutôt non."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Garder les terres agricoles, sur le principe je suis d'accord, ça évite le mitage. Mais si la commune ne peut plus s'étendre, ça peut toucher les terrains de la famille, alors je suis partagé."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Une empreinte d'une seule planète vise surtout la consommation des gens de la ville, pas le travail d'une ferme. Je me méfie des objectifs lointains venus de Berne."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "La traite, les frigos et le chauffage des bâtiments demandent beaucoup d'électricité, et on ne peut pas s'en passer. Sortir du nucléaire, pourquoi pas, mais pas sans solution sûre et abordable derrière."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Des panneaux solaires sur les toits de la grange et des aides pour les exploitations, c'est intéressant pour nous. Je vote oui pour l'énergie locale, même si je n'aime pas trop les nouvelles taxes."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Plus de normes pour les produits importés, c'est bien sur le principe, parce qu'on subit la concurrence des pays aux règles moins strictes. Mais imposer des critères écologiques et sociaux sans parler du prix payé aux producteurs, je m'en méfie."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "C'est ce que nous défendons : une agriculture d'ici, des prix qui permettent de vivre et une protection face aux importations à bas prix. Je vote oui."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.1,
+      "raison": "Réserver les paiements directs à ceux qui n'utilisent ni pesticides ni antibiotiques préventifs, ça vise les exploitations comme la mienne. C'est une façon de nous punir sans rien proposer en échange, donc non."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "Mes herbages demandent peu de traitements, mais interdire tous les produits de synthèse à toute l'agriculture du pays, sans alternative prête, c'est trop rapide. Je vote non, en gardant l'idée d'une réduction progressive."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Les hausses de taxes sur le mazout et les carburants pèsent sur les campagnes, pour le chauffage comme pour les machines. Les aides aux bâtiments, c'est bien, mais je n'ai pas confiance dans ces nouvelles taxes."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Je veux bien que les animaux soient mieux traités, je ne suis pas contre le bien-être des bêtes. Mais imposer des règles proches du bio à toutes nos vaches, en vingt-cinq ans et sans payer le surcoût, c'est une charge de plus. Non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Les aides pour changer de chauffage et investir dans les bâtiments peuvent aider une ferme. Mais zéro émission nette d'ici 2050, c'est loin, et j'ai peur que ce soient encore les campagnes qui paient."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Protéger la nature, je suis d'accord sur le principe. Mais davantage de surfaces mises en réserve, c'est moins de terres pour nourrir nos bêtes, et les agriculteurs font déjà beaucoup pour le paysage. Je vote non."
+    }
+  ]
+}

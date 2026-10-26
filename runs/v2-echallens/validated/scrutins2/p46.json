@@ -1,0 +1,197 @@
+{
+  "id": "p46",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.4,
+      "raison": "Le PLR s'oppose à la hausse de la TVA, mais je tiens à la solidité de l'AVS et je reste partagé sur un impôt de plus."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Une hausse temporaire de la TVA pour assainir l'AI, limitée dans le temps, me paraît acceptable et soutenue par le PLR."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.15,
+      "raison": "Je ne vois pas l'intérêt d'interdire l'exportation de matériel de guerre qui fait vivre des entreprises de la région, et le PLR recommande non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Je suis attaché à l'armée de milice et au service obligatoire, comme la plupart des hommes de ma génération."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.3,
+      "raison": "Je suis proche du PLR qui défend la libre circulation et l'économie, mais je comprends l'inquiétude face à la densité, donc je reste hésitant."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient le renouvellement de l'aviation de combat et la défense me paraît une tâche de l'État, je suis donc le parti."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Je ne vois pas la nécessité de graver le mariage dans la Constitution, et le PLR recommande non, ce qui me convient."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je suis concerné par la solidité des rentes, mais le PLR refuse la hausse de la TVA et je crains qu'on demande toujours plus au consommateur."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Une subvention pour garder les cornes me paraît superflue, et le PLR comme le Conseil fédéral recommandent non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible à la souveraineté, mais je ne veux pas remettre en cause les accords qui font la prospérité de la Suisse, donc non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le PLR et la majorité soutiennent la reprise de la directive européenne, et je fais confiance à l'alignement sur Schengen pour la sécurité."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "La libre circulation a profité à l'économie vaudoise et le PLR recommande non, je reste attaché aux accords bilatéraux."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "La régulation du loup me paraît raisonnable pour protéger les éleveurs de la région, et le PLR soutient la révision."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Le remplacement des avions de combat est une nécessité de défense, et le PLR comme le Conseil fédéral recommandent oui."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Interdire aux banques et aux caisses de pension de financer ces entreprises me paraît contraire à la liberté économique, donc non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à l'eau potable, mais l'initiative serait trop contraignante pour les exploitations, comme le disent le PLR et Le Centre."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à la nature, mais une interdiction totale des pesticides de synthèse en dix ans me paraît irréaliste pour l'agriculture."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient cette égalité des droits et je ne vois pas de raison de m'y opposer, même sans grande conviction."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.1,
+      "raison": "La recherche médicale nous a beaucoup apporté, et une interdiction totale de l'expérimentation me paraît excessive."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient la coopération Schengen et la protection des frontières, ce qui me paraît raisonnable."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être animal compte, mais les exigences à l'importation et la transition de 25 ans pèseraient sur les paysans, donc non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.75,
+      "raison": "AVS 21 et la hausse de la TVA pour l'AVS me paraissent nécessaires pour sauver les rentes, et le PLR soutient le texte."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "J'aime la nature, mais l'initiative coûterait cher et restreindrait les propriétaires et les agriculteurs, donc je serais plutôt non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.65,
+      "oui_proba": 0.75,
+      "raison": "Le PLR défend l'imposition individuelle, plus juste à mon sens, et je soutiens cette réforme."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je comprends l'inquiétude face à la densité, mais l'économie vaudoise dépend de la main-d'oeuvre et des accords, donc non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le PLR soutient le renforcement de l'armée de milice, et je trouve juste que ceux qui ont été incorporés aillent au bout."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "La neutralité m'est chère, mais une neutralité armée et rigide, sans sanctions, me paraît trop contraignante, comme le disent le PLR et le Conseil fédéral."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je comprends le souci de la nature et de l'eau, mais 70 % d'aliments indigènes d'ici dix ans me paraît irréaliste et ferait monter les prix."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "Je touche la 13e rente AVS et je sais qu'elle coûte cher, mais le PLR refuse une hausse de la TVA et je reste hésitant."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Le bruit des pétards me gêne en fin d'année, mais le PLR recommande non et je ne suis pas convaincu qu'il faille interdire la vente."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je vis seul et cela ne me touche pas directement, et je ne vois pas la nécessité de revenir sur l'imposition individuelle qui vient d'être acceptée."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le PLR soutient cette ouverture pour l'industrie d'armement et l'emploi, et je fais confiance au cadre de neutralité, même si cela me gêne un peu."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p41",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le Centre soutient l'initiative et je trouve juste qu'une contraception ne dépende pas de la bourse, même si je n'en ai plus besoin. Les 20 millions me font hésiter, donc je reste mesurée."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.55,
+      "raison": "Les bus et le tram me concernent directement, la circulation à Onex est pénible. Le Centre et le Conseil d'État disent oui, mais je me méfie de financer des projets en France alors que nos propres besoins attendent, et le refus de 2014 me revient en mémoire."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Dans un grand ensemble, je crains que les immeubles se vendent appartement par appartement et que les locataires âgés doivent partir. L'ASLOCA appelle à non, et je préfère la sécurité du bail à une idée de propriété qui ne me concerne pas."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Le Centre et la plupart des partis de droite disent oui, et former le personnel soignant et les enseignants sert tout le monde. La baisse de 2 millions par an me paraît modeste, donc je fais confiance à la recommandation, sans grande conviction."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "p03",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Jeune adulte de 22 ans, je fréquentais peu Sauvabelin et l'annonce m'a échappé."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Le premier budget participatif m'a surtout paru une affaire de militants de quartier, et je n'avais ni idée de projet ni le réflexe de voter en plein été."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "En 2020, entre le covid, mes stages et l'incertitude générale, le vote de l'automne m'est passé sous le nez."},
+    {"item_id": "lau10", "participe_proba": 0.05, "partage_proba": 0.04, "raison": "Un sondage de cinq minutes sur mon quartier aurait pu me tenter, mais je n'ai pas le souvenir de l'avoir vu passer."},
+    {"item_id": "lau03", "participe_proba": 0.07, "partage_proba": 0.10, "raison": "Le bulletin affranchi dans la boîte aux lettres m'a rappelé le vote, mais choisir trois projets sans connaître les quartiers m'a fait tout remettre à plus tard."},
+    {"item_id": "lau08", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Je passais parfois à vélo sur les quais, mais un questionnaire de quinze questions sur la fermeture du trafic ne m'a pas assez accroché pour le remplir."},
+    {"item_id": "lau04", "participe_proba": 0.07, "partage_proba": 0.09, "raison": "Le bulletin reçu à la maison en novembre a fini oublié sur la table, et je n'avais pas de projet de quartier à soutenir."},
+    {"item_id": "lau09", "participe_proba": 0.12, "partage_proba": 0.20, "raison": "Comme étranger et professionnel du social, le sujet me touche, mais la consultation est passée discrètement et je ne l'ai pas remplie."},
+    {"item_id": "lau05", "participe_proba": 0.13, "partage_proba": 0.15, "raison": "Le bulletin nominatif arrive chez nous avec des projets de quartier qui parlent de vie de famille, mais trier et choisir au moins trois projets passe souvent après le reste."},
+    {"item_id": "lau06", "participe_proba": 0.10, "partage_proba": 0.12, "raison": "Les projets de convivialité et de sport de proximité me parlent davantage aujourd'hui, mais le vote de fin d'été s'est perdu entre les sorties, le travail et la rentrée."}
+  ]
+}

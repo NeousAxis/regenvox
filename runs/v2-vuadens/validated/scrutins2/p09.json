@@ -1,0 +1,197 @@
+{
+  "id": "p09",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Je soutiens le financement de l'AVS et de l'AI par la solidarité entre générations, même si une hausse de TVA me gêne un peu."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Une hausse temporaire et limitée pour assainir l'AI me paraît raisonnable, et Vert'libéraux y est favorable."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible à l'éthique, mais je crains pour les emplois industriels de la région et mon parti laisse la liberté de vote."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis attaché au service militaire obligatoire comme pilier de notre système de milice, même si je reconnais ses limites."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.75,
+      "oui_proba": 0.12,
+      "raison": "Les soins, le social et l'école dépendent du personnel venu de l'étranger, et les accords bilatéraux avec l'UE me paraissent indispensables."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Je doute du coût des avions, mais une défense aérienne crédible fait partie de la sécurité du pays, et je n'ai pas de position tranchée."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je suis parent seul et non marié, cette définition restrictive du mariage ne me convient pas et les autres formes de famille méritent la même protection."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Je soutiens le financement de l'AVS dans le cadre d'une réforme équilibrée que Vert'libéraux soutient, même si je regrette la hausse de la TVA."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le bien-être animal me touche, mais je connais des éleveurs de Vuadens qui supporteraient mal une contribution fédérale liée aux cornes, et le sujet reste secondaire pour moi."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Je suis attaché aux accords avec l'UE et au droit international, et je ne veux pas que la Suisse dénonce ou renégocie des traités qui font tourner nos échanges."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "La reprise de la directive européenne sur les armes se fait dans le cadre de Schengen que je soutiens, avec des exceptions raisonnables pour les tireurs."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.1,
+      "raison": "Mettre fin à la libre circulation priverait mon secteur de personnel qui manque déjà, et Vert'libéraux s'y oppose clairement."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.65,
+      "oui_proba": 0.4,
+      "raison": "Je comprends les éleveurs face aux attaques de loups, mais je tiens à la protection des espèces et Vert'libéraux a dit non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.65,
+      "oui_proba": 0.5,
+      "raison": "La défense aérienne me paraît nécessaire, mais 6 milliards alors que l'AVS et le social sont sous pression me gênent, et Vert'libéraux soutient le projet."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Couper les financements aux fabricants d'armes est séduisant, mais la règle me paraît trop large pour la BNS et les caisses de pension, et Vert'libéraux dit non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "La qualité de l'eau et l'usage des antibiotiques me préoccupent, mais exiger la sortie totale des pesticides et des antibiotiques préventifs pour toucher les paiements directs est trop brutal pour nos exploitations."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "Je veux réduire les pesticides, mais un délai de dix ans sans transition réaliste est difficile pour les agriculteurs de la région, et Vert'libéraux laisse la liberté de vote."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.9,
+      "raison": "L'égalité des droits pour les couples de même sexe me paraît évidente, et dans mon travail auprès des familles je vois qu'elles ont les mêmes besoins."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Je travaille dans la santé et je sais que la recherche médicale a besoin d'essais, le texte me paraît trop absolu pour être raisonnable."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Je soutiens la coopération Schengen et la contribution suisse aux contrôles des frontières, même si les conditions de sauvetage en mer me paraissent insuffisantes."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "La dignité des animaux de rente me touche et Vert'libéraux soutient l'initiative, mais une transition de 25 ans et des exigences plus lourdes pour les éleveurs de la région me font hésiter."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Vert'libéraux soutient le financement de l'AVS avec des compensations, mais je comprends les critiques sur le relèvement de l'âge de la retraite des femmes, ce qui me rend réservé."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "La nature et les paysages comptent pour moi et Vert'libéraux soutient l'initiative, mais les surfaces demandées touchent directement l'agriculture de la commune que je ne veux pas fragiliser."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je ne suis pas marié donc l'impact direct me touche peu, mais une imposition individuelle me paraît plus juste pour les femmes et les couples, et Vert'libéraux la soutient."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.65,
+      "oui_proba": 0.12,
+      "raison": "Fixer un plafond de population et dénoncer la libre circulation menacerait le personnel de santé, du social et de l'école dont mon secteur a besoin, et Vert'libéraux dit non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Le service civil fournit du personnel aux soins et au social où je travaille, Vert'libéraux dit non, et durcir l'accès me paraît inutile."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je tiens à la neutralité, mais une neutralité perpétuelle et armée qui exclut les sanctions et la coopération compliquerait nos échanges et notre rôle de médiation, et Vert'libéraux dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je comprends la volonté de réduire les pesticides et de produire davantage localement, mais imposer moins de produits animaux menacerait l'élevage laitier de la région, et Vert'libéraux dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Financer la 13e rente AVS me paraît juste, et une hausse de TVA qui épargne l'alimentation et les médicaments reste acceptable à mes yeux."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Le bruit affole les animaux de l'élevage et perturbe les enfants et les personnes fragiles, mais je tiens à garder le 1er août et les grandes fêtes avec des exceptions."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Le retour à l'imposition commune me paraît injuste pour les personnes non mariées et les parents seuls, donc je suis réservé."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Assouplir les exportations d'armes vers des pays en conflit contredit les valeurs humanitaires que je défends dans mon travail, et Vert'libéraux n'a pas encore tranché."
+    }
+  ]
+}

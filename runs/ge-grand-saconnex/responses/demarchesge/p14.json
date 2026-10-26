@@ -1,0 +1,17 @@
+{
+  "id": "p14",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Je n'ai pas le réflexe de remplir un questionnaire en ligne de 28 questions sur un projet d'urbanisme à mon âge, le sujet me concerne peu au quotidien, et je n'en entendrais parler que si ma famille ou des connaissances en discutaient."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.07,
+      "raison": "Le sondage des Marronniers ne m'a jamais été présenté directement, je ne suis pas allé aux rendez-vous en présentiel et je n'en parlerais probablement qu'à mon entourage proche si le sujet revenait dans la presse locale."
+    }
+  ]
+}

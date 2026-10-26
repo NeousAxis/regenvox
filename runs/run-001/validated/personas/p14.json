@@ -1,0 +1,111 @@
+{
+  "id": "p14",
+  "portrait": "J'ai 30 ans, je suis suisse et je vis au centre de Vuadens avec mon compagnon, sans enfants. Je travaille dans la vente, avec des collègues de la restauration et du transport, donc je vois tous les jours ce que coûtent les prix trop bas comme les prix trop hauts. Je suis plutôt proche du PLR : je pense qu'il faut laisser les agriculteurs et les commerçants s'organiser et que l'État ne doit pas trop dicter ce qu'on produit.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans peuvent vivre de leur travail, je suis d'accord, mais c'est au marché de payer le bio, pas à l'État. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je travaille souvent le soir et le week-end, donc un atelier en semaine m'est difficile",
+        "Je ne me sens pas légitime pour parler de l'agriculture",
+        "J'ai l'impression que ces décisions se prennent déjà ailleurs"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier le soir ou le samedi, avec des agriculteurs qui présentent leurs chiffres concrets et pas seulement des intentions."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter directement à la ferme du village, pourquoi pas, mais il faut que ce soit accessible et que ça ne coûte pas plus cher à la caisse. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le prix : je regarde d'abord ce que coûte le panier",
+        "Je ne sais pas toujours quelles fermes sont en bio",
+        "Je n'ai pas le temps de m'engager sur un abonnement"
+      ],
+      "ce_qui_me_ferait_venir": "Une liste claire des fermes et de leurs produits, avec une formule simple, comme un stand au village ou un panier sans engagement."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais à trente ans je pense surtout à mon quotidien, et je trouve ça un peu abstrait. »",
+      "engagement": 1,
+      "freins_participation": [
+        "La question me paraît trop abstraite pour mon quotidien",
+        "Je n'ai pas le temps de réfléchir à un horizon de trente ans"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples concrets de ce que la commune peut changer d'ici quelques années et de ce que cela coûte aux habitants."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les agriculteurs du village travaillent dur, ils méritent d'être reconnus, mais un panneau ou une étiquette ne suffit pas à changer ce que je mets dans mon panier. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas très bien ce que font les fermes pour l'eau et la biodiversité",
+        "Je doute que cela change quelque chose dans les rayons des magasins"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte au public, où je peux voir les pratiques, parler avec les exploitants et goûter leurs produits."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues de la vente et de la restauration, amis du village, famille élargie, avec des échanges surtout en ligne et lors de rencontres informelles au village"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "L'idée d'aliments plus équitables me paraît sympathique, mais imposer des normes aux produits importés me semble compliqué et ça risque de faire monter les prix."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.35,
+      "oui_proba": 0.1,
+      "raison": "Je suis plutôt contre les droits de douane qui font monter les prix des courses, et je ne vois pas pourquoi il faudrait se fermer aux produits d'ailleurs."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis pour une eau propre, mais je ne veux pas que les paysans perdent leurs aides du jour au lendemain sans solution de transition."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas favorable aux pesticides de synthèse, mais une interdiction totale, avec l'interdiction des importations, me paraît trop rigide pour l'agriculture suisse."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas pourquoi les billets d'avion et le mazout deviendraient plus chers pour les familles, et comme je travaille dans le transport, ces coûts finissent toujours chez nous."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Le bien-être des animaux me touche, mais les exigences pour les importations me semblent difficiles à contrôler et elles pèsent sur les prix."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.65,
+      "oui_proba": 0.5,
+      "raison": "J'ai envie que la Suisse fasse sa part, et les aides pour changer de chauffage sont utiles, mais je veux que ce reste supportable pour les locataires et les petits budgets."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Protéger la nature, oui, mais si cela veut dire moins de terres pour les agriculteurs de la région, je ne suis pas sûre que ce soit la bonne voie."
+    }
+  ]
+}

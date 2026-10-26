@@ -1,0 +1,143 @@
+{
+  "id": "p07",
+  "portrait": "J'ai 55 ans, je travaille dans le social et je vis en couple avec des enfants au centre de Vuadens. Suisse, proche du Centre, je ne suis pas militant : je me méfie des démarches venues d'en haut avec de beaux slogans et je préfère juger sur le concret. Les paysans, je les croise tous les jours, ce sont nos voisins et d'anciens camarades d'école.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans d'ici travaillent plus que nous tous. Si on veut du bio, il faut d'abord qu'ils s'y retrouvent financièrement, sinon ça restera une belle idée sur le papier.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis pas agriculteur et, entre mon travail et la famille, je n'ai pas le temps",
+        "Les démarches participatives finissent souvent en discours où les décisions sont déjà prises",
+        "Le bio coûte cher et je ne veux pas qu'on me demande de payer plus sans explication claire"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes prennent la parole avec des chiffres concrets sur le revenu d'une ferme en bio, lors d'une séance en soirée au centre du village plutôt qu'à la commune."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Je veux bien acheter local, mais devenir partenaire d'une ferme sur ordre de la commune, ça fait beaucoup. Chacun fait son métier.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas envie de payer une contribution en plus de mes impôts pour soutenir une agriculture",
+        "Mon emploi du temps dans le social et en famille ne me laisse pas de disponibilité régulière",
+        "Ce genre de démarche donne l'impression de culpabiliser ceux qui achètent au supermarché"
+      ],
+      "ce_qui_me_ferait_venir": "Un dispositif simple et sans engagement lourd, comme des produits locaux à la cantine de l'école et au village, à prix raisonnables, avec des paysans qui viennent expliquer leur métier."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Mes enfants vont vivre ici, je veux qu'ils retrouvent des sols vivants et une eau propre. C'est une question de bon sens, pas de mode.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas à quoi ressemblerait concrètement une démarche participative, et ça peut vite devenir une réunion de plus",
+        "Je veux du concret et des moyens, pas seulement une belle vision",
+        "Mes horaires dans le social rendent les soirées de semaine difficiles à bloquer"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier sur un sujet précis comme l'eau du village ou la cantine scolaire, avec des paysans présents et la garantie que les propositions seront suivies d'effet."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Reconnaître les fermes, pourquoi pas, mais on a déjà une fromagerie qui fait du bon Gruyère. Ce qui compte, c'est qu'elles puissent vivre.",
+      "engagement": 1,
+      "freins_participation": [
+        "Ce sujet ne me touche pas directement, je connais déjà les agriculteurs du village",
+        "Je me méfie des labels et des chartes qui finissent par coûter de l'argent aux petites exploitations",
+        "Je lis peu les communications de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Une information claire dans le journal communal ou à la fromagerie, qui montre concrètement ce que fait chaque ferme pour l'eau, les sols et la vie sauvage."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 40,
+    "role": "relai",
+    "cercle_type": "Collègues du réseau santé et social du district, parents d'élèves de l'école du village, famille élargie et voisins du centre, quelques membres d'une société locale et des connaissances dans le monde agricole."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Une limite fixe de 20 % me paraît trop rigide pour un village qui doit pouvoir accueillir des familles, et elle risque de bloquer les constructions sans vraiment régler le problème."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Il faut arrêter de grignoter les champs et je suis d'accord avec une densification raisonnable, mais la commune doit garder les moyens de se développer pour l'école et les familles."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Une empreinte d'une seule planète pour 2050 n'est pas réaliste et ferait payer cher aux entreprises de la région et aux familles ; je préfère des mesures ciblées."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Le nucléaire pose des questions, mais une sortie après 45 ans sans alternative prête m'inquiète pour l'approvisionnement et pour les factures."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les énergies renouvelables et les économies d'énergie sont raisonnables, à condition que les factures des familles ne explosent pas ; le compromis me paraît acceptable."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Des produits sains et équitables, je suis pour, mais imposer des règles aux importations me paraît compliqué et risque de faire monter les prix sans vraiment aider nos paysans."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Une agriculture de chez nous, avec des paysans qui peuvent vivre de leur travail, je suis d'accord ; je me méfie en revanche des droits de douane et des prix imposés."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "J'aime l'idée d'une eau propre, mais lier tous les paiements directs à des conditions aussi strictes mettrait sous pression beaucoup de fermes du district, surtout les élevages."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Réduire les pesticides, oui, mais les interdire totalement sans alternative prête pour nos cultures me semble trop radical et ferait monter les prix."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Une taxe sur les billets d'avion et une hausse des taxes sur le mazout pèsent sur ceux qui vivent à la campagne et doivent se déplacer et se chauffer ; je penche pour le non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.12,
+      "raison": "Mes voisins éleveurs laitiers subiraient des normes très coûteuses sans garantie que les produits importés suivent les mêmes règles ; une mesure qui pénalise nos fermes ne me convainc pas."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Zéro émission nette d'ici 2050 est un objectif que je peux soutenir, et les aides pour changer de chauffage aident les familles ; j'aimerais simplement éviter des contraintes trop lourdes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "La nature de chez nous compte, mais le texte impose des surfaces et des contraintes aux paysans sans assez de moyens ; le contre-projet était plus raisonnable à mon avis."
+    }
+  ]
+}

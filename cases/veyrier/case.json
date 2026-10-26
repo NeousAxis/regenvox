@@ -1,0 +1,24 @@
+{
+ "id": "veyrier",
+ "cible": {
+  "type": "commune",
+  "nom": "Veyrier",
+  "canton": "GE",
+  "pays": "CH",
+  "description": "Commune résidentielle du sud du canton de Genève, au pied du Salève."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 30,
+  "seed": 20261117
+ },
+ "contexte_factuel": [
+  "Population : 12 225 habitants au 31 décembre 2025, dont 28 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 6 exploitations, 28 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Veyrier, PLR (23,4 %) (OFS)."
+ ],
+ "votations": []
+}

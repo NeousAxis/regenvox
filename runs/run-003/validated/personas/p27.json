@@ -1,0 +1,145 @@
+{
+  "id": "p27",
+  "portrait": "Je suis agricultrice à Vuadens, à la tête de l'exploitation laitière que j'ai reprise de mes parents, sur les herbages de la ferme au bout du village. Je vis seule depuis le décès de mon mari et je n'ai pas de successeur désigné, ce qui me pèse plus que je ne le laisse voir. Je ne fais pas de politique, mais je vote à chaque votation qui touche mon métier, et je me méfie de ceux qui parlent de la terre sans jamais avoir tenu une étable.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Le bio, on nous le vend depuis des années. Je veux bien qu'on m'aide à passer, mais si le lait ne paie pas davantage, je ne change rien à 65 ans.",
+      "engagement": 2,
+      "freins_participation": [
+        "l'âge et l'absence de repreneur",
+        "la peur d'un revenu plus bas pendant la période de conversion",
+        "les soirées de réunion après la traite du soir",
+        "le sentiment que ces décisions se prennent ailleurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres précis sur ce que gagne une ferme bio de la région, une garantie d'acheteur pour le lait, et des paysans qui ont franchi le pas venir raconter leur expérience sans rien vendre."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les gens du village veulent du lait pas cher et des vaches dans le pré pour la photo. Qu'ils viennent acheter à la ferme, pourquoi pas, mais je n'ai pas le temps de tenir une boutique.",
+      "engagement": 1,
+      "freins_participation": [
+        "la ferme est à l'écart du centre du village",
+        "pas le temps de gérer une vente directe",
+        "peu d'habitants connaissent vraiment le travail agricole",
+        "le sentiment que les nouveaux habitants nous donnent des leçons"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on m'amène des clients sans que j'aie à gérer la vente, par exemple un panier commun organisé par la commune, et des habitants qui viennent voir le travail réel plutôt que de juger mes méthodes."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Dans trente ans je ne serai plus là. La question de qui reprendra les terres, elle me travaille, mais ce n'est pas une salle de commune qui va trouver le repreneur.",
+      "engagement": 1,
+      "freins_participation": [
+        "la fatigue et l'âge",
+        "les discours généraux sans mesures concrètes",
+        "la distance entre la ferme et le centre où se tiennent les réunions"
+      ],
+      "ce_qui_me_ferait_venir": "Une discussion concrète sur la reprise, avec la possibilité pour un jeune de louer des bâtiments ou des prés, et des agriculteurs qui en parlent eux-mêmes plutôt que des autorités."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 4,
+      "citation": "Reconnaître ce qu'on fait, c'est bien, mais je n'ai pas besoin d'un panneau devant la ferme. On ne voit que le purin quand il sent fort et les tracteurs sur la route, pas les haies qu'on a entretenues ni les prés qu'on laisse fleurir.",
+      "engagement": 1,
+      "freins_participation": [
+        "le sentiment d'être jugée d'avance",
+        "une démarche venue de la commune plutôt que des agriculteurs",
+        "peu de temps pour les rencontres en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Un vrai échange où l'on demande aux agriculteurs ce qu'ils font et pourquoi, et non une campagne de communication sur la ferme idéale."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "Quelques agriculteurs voisins et d'autres associés de la fromagerie, d'anciens du village rencontrés à la société locale ou au café, et une famille élargie qui vit à l'extérieur. Peu de liens avec les nouveaux habitants venus de l'agglomération."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Le paysage m'importe, mais une limite aux résidences secondaires ne change pas grand-chose ici et je ne suis pas sûre de l'effet réel. Ça ne me touche pas beaucoup, je vote peu sur les sujets qui ne concernent pas mon métier."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Garder les terres agricoles, je suis d'accord sur le principe, mais une ferme doit pouvoir agrandir ses bâtiments. Si la loi empêche de construire une étable, je vote contre."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Une seule planète pour la Suisse en 2050, j'ai du mal à y croire et je ne vois pas comment un petit paysan y arriverait. Ça ressemble à une liste d'obligations pour nous."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Sortir du nucléaire, c'est bien sur le papier, mais sans centrale, qui fournit l'électricité quand il fait froid et que les étables tournent ? L'électricité coûte déjà cher à la ferme."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Des panneaux sur les toits de l'étable et des subventions pour le solaire, ça m'intéresse. Mais je me méfie des taxes qui suivent toujours les subventions."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "L'idée de produits équitables et écologiques me plaît, mais si on nous impose ça sans contrôler les importations, on se fait encore avoir. Je ne suis pas sûre que ça protège vraiment nos paysans."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.8,
+      "oui_proba": 0.75,
+      "raison": "Une agriculture paysanne indigène, protégée des importations, c'est ce que je défends depuis toujours. Je vote oui sans hésiter, et je m'inquiète de ne plus voir de jeunes reprendre les fermes."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques, et à l'alimentation des bêtes avec le fourrage de la ferme, c'est couper les vivres à ceux qui produisent du lait. Je vote non, même si je veux de l'eau propre."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Interdire les produits de synthèse en dix ans, sans solution pour nos cultures et sans règle équivalente pour les importations, ça ne tient pas. J'utilise ce qu'il faut et pas plus, et je ne veux pas qu'on me dise comment travailler mon champ."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je chauffe la maison au mazout et les taxes sur le mazout, je les sens dans mon budget. Les billets d'avion ne me concernent pas, mais je ne veux pas payer davantage pour me chauffer."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.25,
+      "raison": "Mes vaches sont dans les herbages en été et je les soigne bien, c'est mon métier. Mais des normes bio pour tous les animaux, y compris importés, avec une transition de 25 ans, je n'y crois pas : on nous impose des charges sans que le lait paie plus."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Zéro émission nette en 2050, c'est loin et flou pour une ferme. Les aides pour changer les chauffages, je les prendrais, mais je ne veux pas d'obligations qui coûtent cher à mes bâtiments."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.25,
+      "raison": "Protéger la nature, je le fais déjà avec mes haies et mes prés fleuris. Mais mettre des surfaces de côté et les sortir de la production, je ne suis pas d'accord : on prend nos terres pour les mettre en réserve, et on nous dit que c'est pour nous."
+    }
+  ]
+}

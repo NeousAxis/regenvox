@@ -1,0 +1,29 @@
+{
+  "id": "p53",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Je ne vois pas pourquoi la collectivité financerait la contraception de tous, sans condition de revenu, pour un coût pouvant atteindre 20 millions par an, position que partagent le PLR et le MCG."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le MCG est contre et le souvenir du refus populaire de 2014 me rend réticent, même si moins de véhicules franchissant la frontière chaque jour seraient utiles."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.72,
+      "raison": "Propriétaire moi-même, je trouve juste qu'un locataire ancien puisse acheter son logement à un prix plafonné et sans chasser les autres locataires, ce que soutiennent le PLR et le MCG."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "La formation professionnelle supérieure me paraît utile et une baisse de 2 millions par an, liée aux nouvelles taxes d'études, me semble acceptable, même si le MCG s'y oppose."
+    }
+  ]
+}

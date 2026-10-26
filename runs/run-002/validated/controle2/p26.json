@@ -1,0 +1,17 @@
+{
+  "id": "p26",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Le bio, ça veut dire des produits plus chers au supermarché, et mon budget est déjà serré. Si la commune veut que les champs soient bio, je veux bien croire que c'est bien pour l'environnement, mais je ne vois pas trop ce que j'ai à faire là-dedans.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je n'ai aucun lien avec les fermes ni les agriculteurs",
+      "Mes études et mon travail me prennent déjà presque tout mon temps",
+      "Mon budget est serré et les produits bio coûtent plus cher",
+      "La politique ne m'intéresse pas encore",
+      "Je ne sais pas très bien ce que la commune attend concrètement de moi"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier le soir ou le week-end, près de l'arrêt de bus, avec un repas ou une activité pour les jeunes, et une explication claire de ce que ça change pour mon quotidien (prix, goût, emplois locaux). Si d'autres jeunes du village y vont, je viendrais peut-être."
+  }
+}

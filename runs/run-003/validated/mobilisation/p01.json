@@ -1,0 +1,39 @@
+{
+  "id": "p01",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.12,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.35,
+      "ce_qui_doublerait_ma_venue": "Une séance le samedi matin plutôt que le soir, et un engagement écrit que rien n'est décidé d'avance."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Qu'une ferme du village me dise directement où acheter son bio, à un prix que je peux payer en retraitée."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une question qui parle concrètement des fermes que je connais, et une seule rencontre courte sans nouvel engagement."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.08,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.22,
+      "ce_qui_doublerait_ma_venue": "Une balade à pied dans le village avec un agriculteur qui m'explique ce que sa ferme apporte au paysage, sans documents techniques."
+    }
+  ],
+  "format_prefere": "atelier_presentiel",
+  "raison_format": "Je préfère l'atelier le samedi matin : je peux y voir des gens du village que je connais et dire ce que je pense en face, sans sortir la nuit. Le questionnaire me paraît trop impersonnel, et le parcours à distance demande trop de temps sur trois semaines."
+}

@@ -1,0 +1,112 @@
+{
+  "id": "p38",
+  "portrait": "J'ai 60 ans, je suis suisse et technicienne dans l'industrie de la région, avec des horaires parfois décalés. Je vis en couple avec nos enfants dans un quartier résidentiel récent de Vuadens, près de la zone d'activités, et je me reconnais chez les Vert'libéraux : j'aime l'idée d'une écologie qui fonctionne sans tout interdire. Je ne connais pas très bien les paysans d'ici, mais je vois les champs et les vaches chaque jour, et cela compte beaucoup pour moi.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Si un paysan ne peut pas vivre de son travail, le bio ne tiendra pas. Il faut un juste prix pour le lait et la viande, pas seulement des consignes venues d'en haut. Et dix ans, c'est vite. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Mes horaires à l'usine ne me laissent pas beaucoup de soirées libres",
+        "Je ne connais personne dans le monde agricole, donc j'ai peur de ne rien apporter",
+        "Je ne sais pas si la commune écoutera vraiment ce que disent les habitants"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que touche un producteur de lait aujourd'hui, et une soirée animée par des agriculteurs eux-mêmes, avec un repas local et un horaire compatible avec le travail."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« J'achète déjà à la ferme quand je peux, mais je ne sais pas à qui m'adresser à Vuadens. Si on m'explique comment acheter directement, je suis partante. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je n'ai pas beaucoup de temps en semaine",
+        "Les démarches de partenariat paraissent compliquées pour un particulier",
+        "Je crains un engagement financier sur la durée"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier le soir après le travail, avec la liste des fermes de la commune qui vendent en direct et des paniers à prix stables sur plusieurs mois."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Mes enfants vont boire cette eau et manger ce qui pousse ici. Alors oui, il faut y penser maintenant, pas dans vingt ans quand il sera trop tard. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne me sens pas assez compétente pour parler d'agriculture",
+        "Il faut un sujet concret, sinon ça reste des discours",
+        "Je n'ai pas toujours le temps de venir aux réunions"
+      ],
+      "ce_qui_me_ferait_venir": "Des projets concrets autour de l'eau potable et de l'école, par exemple une visite de ferme avec les classes, et un espace où les familles peuvent poser des questions sans jargon."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Une reconnaissance, oui, mais pas un label coûteux qu'on affiche sans rien changer. Je préfère qu'on ouvre les fermes et qu'on voie ce qui est fait. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je me méfie des labels et des beaux discours",
+        "Je ne suis pas sûre de l'intérêt pour ma vie de tous les jours"
+      ],
+      "ce_qui_me_ferait_venir": "Des portes ouvertes dans les fermes de Vuadens, avec des résultats visibles sur les sols, l'eau et les haies, plutôt qu'une cérémonie ou une affiche."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "collègues de l'atelier ou du bureau technique dans l'industrie, parents d'élèves de l'école primaire du village, voisins du quartier résidentiel, famille élargie ; peu de contacts directs avec le monde agricole"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Je suis d'accord sur le principe d'une alimentation saine et de conditions correctes pour les animaux, mais je me méfie des obligations qui font monter les prix pour les familles comme la mienne. Le volet importations me laisse perplexe."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je veux que les paysans d'ici vivent de leur travail, mais les droits de douane et la protection à tout prix me font penser à du protectionnisme, et je n'aime pas ça."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "L'eau potable est essentielle, et il me paraît normal que l'argent public aille aux fermes qui protègent l'eau. Je ne suis pas sûre que ce soit réaliste pour toutes les exploitations dès le départ."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis pour réduire les pesticides, mais une interdiction totale en dix ans, avec l'interdiction des importations, me paraît trop rigide. J'aurais préféré une voie progressive, portée par le marché et les agriculteurs."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Le climat me préoccupe et je trouve bien d'agir par des incitations, mais je veux que les petits revenus ne paient pas toute la facture et que l'argent redescende aux gens."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Le bien-être des animaux compte pour moi, et il est juste que les importations suivent les mêmes exigences. Je trouve la transition de 25 ans longue, mais je voterais probablement oui, en acceptant que ce soit un peu plus cher."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "Zéro émission nette en 2050 me paraît un objectif raisonnable, et aider à remplacer les chauffages fossiles est concret. Je vote oui en pensant à mes enfants."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "La nature de chez nous est belle et je veux qu'elle reste. Mais davantage de surfaces protégées veut dire davantage de contraintes pour les agriculteurs, et je ne suis pas certaine que ce soit la bonne voie."
+    }
+  ]
+}

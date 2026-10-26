@@ -1,0 +1,39 @@
+{
+  "id": "p42",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Qu'un paysan ou quelqu'un de la commune m'explique concrètement qui paie la différence de prix du bio et ce que ça change pour mon ménage, un soir en semaine, et que ce ne soit pas une réunion d'élus."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un atelier en soirée en semaine, annoncé par le courrier de la commune au moins deux semaines avant, où l'on me dit où acheter du lait ou des légumes de fermes du village, à quel prix, et où je ne suis pas obligé de travailler sur le terrain."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question ramenée à ce qui me touche aujourd'hui, le loyer, le boulot et ce qu'on met dans nos assiettes, avec une durée courte et un résultat que je puisse voir ensuite dans la commune."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Que la reconnaissance se traduise par quelque chose de concret pour moi, des produits de la ferme accessibles au village ou un effet sur le prix de ce que j'achète, et pas seulement des mots sur le paysage."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un avis en ligne ne me prend que 10 minutes sur mon téléphone, je peux le faire pendant une pause ou le soir sans prévoir un samedi. Le parcours à distance demande trois séances à suivre sur trois semaines, je l'oublierais. L'atelier de 2 h 30 ne colle pas à mes équipes qui changent d'une semaine à l'autre."
+}

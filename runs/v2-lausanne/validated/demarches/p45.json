@@ -1,0 +1,65 @@
+{
+  "id": "p45",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.04,
+      "raison": "J'avais une dizaine d'années, le lac de Sauvabelin était une sortie de famille, et je n'ai jamais vu passer ce sondage ni les ateliers."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Le vote était ouvert quel que soit l'âge, mais à 13 ans je n'avais aucun projet de quartier en tête et j'en ai à peine entendu parler."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "En 2020 j'avais 14 ans, le Covid occupait tout le monde et ce vote de quartier est passé sous mon radar, sauf si ma mère l'avait mentionné."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Un sondage de cinq minutes sur le plan d'affectation pourrait me tenter, mais à 14 ans je ne le remplissais pas seule et je ne me souviens pas l'avoir vu."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.14,
+      "partage_proba": 0.25,
+      "raison": "Le bulletin est arrivé à la maison et mes idées vertes me donnent envie d'en parler, mais à 15 ans c'est surtout la famille qui décide du vote."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Je vais rarement sur les quais d'Ouchy et je n'ai pas vu l'annonce du questionnaire, donc je n'y réponds probablement pas."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.22,
+      "raison": "Le budget participatif m'intéresse parce que je suis proche des Vert-e-s et que voter en ligne prend peu de temps, mais je n'ai pas de projet à déposer et je n'y pense qu'en cas de rappel."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.18,
+      "raison": "Le sujet du racisme me touche et un questionnaire en ligne se remplit vite, mais je n'ai pas entendu parler de cette consultation, donc je ne l'ai probablement pas vue passer."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.2,
+      "partage_proba": 0.3,
+      "raison": "Le bulletin nominatif arrive à mon nom, le vote en ligne prend deux minutes et le budget participatif me parle comme jeune de quartier, donc je vote probablement et j'en parle à quelques proches."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.2,
+      "partage_proba": 0.28,
+      "raison": "À 19 ans je vote facilement en ligne et les projets de quartier me parlent, donc je participe probablement, mais je n'ai pas lu les propositions en détail et j'en parle surtout à mes proches engagés."
+    }
+  ]
+}

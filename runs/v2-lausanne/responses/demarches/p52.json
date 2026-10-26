@@ -1,0 +1,15 @@
+{
+  "id": "p52",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je fréquente peu Sauvabelin et je ne réponds pas spontanément à une consultation sur un lieu qui ne me concerne pas directement."},
+    {"item_id": "lau01", "participe_proba": 0.06, "partage_proba": 0.10, "raison": "Ce premier budget participatif est peu visible, je n'ai ni le temps ni l'envie de monter un projet, et je ne vote que si je tombe sur une urne dans mon quartier."},
+    {"item_id": "lau02", "participe_proba": 0.08, "partage_proba": 0.10, "raison": "Pendant la pandémie je fréquente moins les urnes et les stands du marché, et le vote en ligne ne me motive pas assez pour que j'en parle beaucoup autour de moi."},
+    {"item_id": "lau10", "participe_proba": 0.03, "partage_proba": 0.06, "raison": "Ce sondage sur le plan d'affectation me paraît technique et éloigné de mon quotidien, et je n'ai pas le réflexe de répondre à une consultation d'urbanisme."},
+    {"item_id": "lau03", "participe_proba": 0.18, "partage_proba": 0.15, "raison": "Le bulletin préaffranchi envoyé à domicile rend le vote facile et je m'intéresse aux projets de quartier, mais je ne dépose rien et je vote seulement si je prends le temps."},
+    {"item_id": "lau08", "participe_proba": 0.06, "partage_proba": 0.14, "raison": "Le sujet touche à mon travail dans la restauration près d'Ouchy, donc je pourrais répondre, mais je laisse souvent passer les questionnaires en ligne et j'en parle surtout avec des collègues."},
+    {"item_id": "lau04", "participe_proba": 0.16, "partage_proba": 0.12, "raison": "Le bulletin revient à la maison et je vote en général, sans déposer de projet ni en parler beaucoup."},
+    {"item_id": "lau09", "participe_proba": 0.03, "partage_proba": 0.09, "raison": "Le racisme me touche, mais je réponds rarement aux questionnaires de la Ville et je n'ai pas repéré les papiers dans les lieux que je fréquente, donc j'en parlerais surtout avec des amis militants."},
+    {"item_id": "lau05", "participe_proba": 0.20, "partage_proba": 0.14, "raison": "Le bulletin nominatif arrive chez moi et le vote est simple, donc je vote probablement sans grand bruit, même si je ne dépose aucun projet."},
+    {"item_id": "lau06", "participe_proba": 0.13, "partage_proba": 0.09, "raison": "Le vote tombe en fin d'été et je suis moins motivé par des projets de quartier dont je ne vois pas toujours les effets, mais je pourrais voter si le bulletin traîne sur la table."}
+  ]
+}

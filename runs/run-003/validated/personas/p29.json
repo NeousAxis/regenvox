@@ -1,0 +1,140 @@
+{
+  "id": "p29",
+  "portrait": "J'ai 55 ans, je travaille dans la vente et la restauration, avec des horaires qui changent d'une semaine à l'autre, et je vis au centre de Vuadens avec mon compagnon ; nos enfants sont partis depuis quelques années. Suisse et proche du Centre, je vote aux fédérales sans trop m'emballer, et ce qui compte pour moi, c'est le prix du panier, le calme du village et que les gens d'ici ne soient pas oubliés.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Nos paysans travaillent plus que nous et ils gagnent presque rien ; si le bio peut les faire vivre, tant mieux, mais qui paie la différence au bout ? »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je travaille souvent en fin de journée et le week-end",
+        "Je ne me sens pas directement concernée, je ne suis pas agricultrice",
+        "Les démarches communales finissent souvent en brochure qu'on ne lit pas"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée au café du village ou à la fromagerie, organisée avec des agriculteurs qui parlent de leur quotidien et de ce que ça leur coûte, sans discours venu d'en haut."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Moi j'achète déjà le fromage à la fromagerie du village, je n'ai pas besoin d'un projet pour ça. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je pense que ça dépend surtout des prix et des gens qui ont le temps",
+        "Je n'ai pas l'impression qu'un projet communal change les habitudes d'achat"
+      ],
+      "ce_qui_me_ferait_venir": "Un point de vente clair au village, avec des prix affichés, ou un système simple pour acheter directement à une ferme sans paperasse."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans je ne serai plus là, moi je pense à demain matin et à la facture de chauffage. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question aussi large me paraît vague et je ne sais pas quoi répondre",
+        "On ne me demande jamais mon avis sur des choses concrètes"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet concret et proche, comme l'eau du robinet, la route du village ou les chemins que prennent les écoliers."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les paysans entretiennent déjà les champs et les haies, on ne les remercie jamais ; une reconnaissance oui, mais pas une étiquette de plus. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps de m'investir dans un groupe de travail",
+        "Je crains qu'une reconnaissance devienne une contrainte administrative pour les fermes"
+      ],
+      "ce_qui_me_ferait_venir": "Une manifestation simple dans le village, par exemple une journée portes ouvertes à la ferme, où je peux voir ce que font les agriculteurs."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues de la vente, de la restauration et du transport, voisinage du centre du village, famille élargie et enfants adultes, quelques membres d'une société locale. Je relaie surtout l'information à l'oral, dans les conversations du quotidien."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Les résidences secondaires ne sont pas un sujet chez nous, mais je n'aime pas qu'on limite ce que les gens peuvent faire de leur bien ; le paysage, je veux bien le protéger, pas en pénalisant les propriétaires."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Il faut arrêter de manger les champs, mais les jeunes du village n'ont plus de terrain pour construire ; je serais partagée et je ne suis pas sûre de ce que ça va changer pour nous."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "Une planète pour la Suisse en 2050, ça sonne bien mais personne ne sait comment on y arrive ; ça va surtout coûter cher aux entreprises et aux familles."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas contre le nucléaire par principe, mais je me demande ce qu'on mettra à la place et combien va coûter l'électricité."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Il faut bien changer de source d'énergie, mais les aides doivent aller aux gens et pas seulement aux grosses entreprises ; je voterais oui si ça ne pèse pas trop sur le budget de la maison."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Des aliments produits dans le respect des animaux et des gens, je suis pour ; mais je ne veux pas que ça fasse grimper les prix des courses et qu'on interdise tout le reste."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Soutenir les paysans d'ici et leur production indigène, c'est le bon sens chez nous ; je suis moins sûre des droits de douane qui vont faire payer les courses plus cher."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "L'eau propre, c'est important, mais obliger les fermes à nourrir leurs bêtes avec leur propre fourrage ne tient pas compte de la réalité de nos exploitations ; je ne veux pas les mettre en difficulté."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Moins de produits chimiques, je suis d'accord, mais tout interdire d'un coup sans transition pour les fermes et sans contrôle des importations, c'est trop brutal."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Taxer les billets d'avion et l'essence, quand on habite à la campagne et qu'on n'a pas le choix de la voiture, c'est une charge de plus ; je ne fais pas confiance à ces taxes."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être des animaux, je suis sensible, mais ça touche directement nos éleveurs de la commune ; on leur demande toujours plus sans les aider à payer."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Le climat me préoccupe, j'ai vu les étés plus chauds ; je voterais oui pour les aides au remplacement du chauffage, mais pas pour une loi qui se paie dans la facture des ménages."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "La nature et le paysage, c'est notre cadre de vie, je veux bien les protéger ; mais une initiative qui prend plus de terres aux agriculteurs, je n'en veux pas sans les avoir consultés."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p55",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Sauvabelin est loin de mon quartier, je n'ai pas le réflexe de répondre à ce genre de sondage et je n'en aurais sans doute pas parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Un budget participatif pilote, je l'ai peut-être lu dans le journal, mais sans projet à défendre et sans habitude de voter ce genre de chose, je n'ai pas bougé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Pendant le Covid, avec un dépôt prolongé et aucun projet à moi, j'ai suivi l'affaire de loin, sans voter ni en discuter beaucoup."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Un sondage de cinq minutes sur l'avenir de mon quartier me concerne, mais je ne suis pas certain de l'avoir rempli au milieu de tout ça, et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.18,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin envoyé à chaque foyer me rappelle la démarche et je le retourne parfois, mais je ne fais pas le tour des projets et j'en parle rarement."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.12,
+      "raison": "La fermeture des quais me touche un peu comme habitant du centre-ville, mais un questionnaire en ligne de quinze questions ne m'a pas tenté, en revanche j'en ai discuté au café."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.22,
+      "partage_proba": 0.13,
+      "raison": "Le bulletin postal préaffranchi est facile à renvoyer, je m'y prête de temps en temps, mais je ne me suis pas investi dans les projets déposés."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Une consultation sur le racisme ne me concerne pas directement et je n'ai ni répondu ni vraiment fait attention à cette démarche."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.25,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin nominatif arrive chez moi sans effort, je coche mes trois projets de temps en temps et j'en glisse parfois un mot à mon entourage."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.25,
+      "partage_proba": 0.15,
+      "raison": "Je retrouve le bulletin dans la boîte aux lettres, je le regarde et je vote quand un projet de mon quartier me parle, mais je n'en fais pas une habitude et j'en parle peu."
+    }
+  ]
+}

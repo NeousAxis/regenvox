@@ -1,0 +1,113 @@
+{
+  "id": "p25",
+  "portrait": "Je suis une femme de 91 ans, de nationalité suisse, retraitée, et je vis seule dans un quartier résidentiel récent de Vuadens. Je me sens proche du PLR : je pense que chacun doit répondre de ses choix et que l'État ne doit pas tout régler, mais je tiens à la campagne qui entoure le village et au travail des paysans.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Un paysan doit pouvoir vivre de son travail, c'est la base. Mais je ne veux pas qu'on lui impose le bio, je veux qu'on l'aide à y aller s'il le souhaite. »",
+      "engagement": 1,
+      "freins_participation": [
+        "mon âge et ma mobilité limitée",
+        "je ne connais pas assez le dossier agricole pour donner un avis utile",
+        "l'impression que ces décisions se prennent surtout entre spécialistes"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que gagne une ferme aujourd'hui et ce que coûte un passage au bio, présentés en journée dans la salle communale, avec un transport si besoin."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Si nos produits sont bons et qu'ils ne coûtent pas plus cher, j'achète chez nous, mais je n'aime pas qu'on me culpabilise. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je fais mes courses seule et en petites quantités, donc les gros paniers ou les abonnements ne me conviennent pas",
+        "je ne sais pas où acheter directement chez le producteur",
+        "la crainte que ce soit plus cher"
+      ],
+      "ce_qui_me_ferait_venir": "Un point de vente accessible à pied depuis le quartier, des prix affichés et une explication simple de ce que cela change pour le consommateur."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Je ne serai plus là dans trente ans, mais j'aimerais que les jeunes de Vuadens voient encore des champs et des vaches autour du village. »",
+      "engagement": 1,
+      "freins_participation": [
+        "ma santé et mon âge",
+        "une question aussi longue à l'horizon de trente ans me paraît floue",
+        "je n'aime pas les réunions le soir"
+      ],
+      "ce_qui_me_ferait_venir": "Un courrier clair dans la boîte aux lettres qui explique le projet, et une présentation à laquelle l'école participe, parce que c'est pour les enfants."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les paysans font déjà beaucoup, mais il faudrait le montrer simplement, sans slogans ni grands discours. »",
+      "engagement": 0,
+      "freins_participation": [
+        "les grands mots et les notions comme la vie sauvage ne me parlent pas",
+        "je ne vois pas bien ce qui se concrétiserait",
+        "je pense que les agriculteurs n'ont pas besoin d'une démarche de plus pour être reconnus"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte à tous, avec une vraie présentation du travail quotidien des agriculteurs, à un horaire de jour."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 6,
+    "role": "suiveur",
+    "cercle_type": "petit cercle de proches et de voisins du quartier, peu de liens avec le monde agricole, aucun engagement associatif ni politique actif"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "« Des aliments équitables, je suis d'accord sur le principe, mais une initiative qui oblige la Confédération à tout réglementer finit toujours par coûter cher, et nos paysans n'y gagnent rien. »"
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "« Nourrir le pays avec ce qu'on produit ici, je trouve ça bien, mais les droits de douane et les prix imposés, je n'en veux pas, je suis pour la liberté du commerce. »"
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "« Une eau propre, tout le monde est pour. Mais lier les paiements directs à la façon de cultiver, c'est une pression sur les agriculteurs, et je me méfie des obligations que l'État ajoute. »"
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.25,
+      "raison": "« Je n'aime pas les produits chimiques dans les champs, mais interdire les pesticides de synthèse en dix ans, c'est trop brutal pour nos exploitations, et l'on importerait des denrées produites avec les mêmes produits. »"
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.8,
+      "oui_proba": 0.45,
+      "raison": "« Le climat, je m'en préoccupe, mais les taxes sur les billets d'avion et sur le mazout, c'est la classe moyenne qui paie. C'est un vote qui me pèse. »"
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.4,
+      "raison": "« Le bien-être des animaux, je le vois dans nos prairies, les vaches sortent. Mais des normes aussi pour les importations, et une transition de vingt-cinq ans, ça touche directement les fermes. J'hésite. »"
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.8,
+      "oui_proba": 0.5,
+      "raison": "« Zéro émission d'ici 2050, je comprends cet objectif. Les aides pour changer les chauffages me paraissent raisonnables si elles restent incitatives et si l'on ne taxe pas les gens. »"
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "« La nature et le paysage, je les aime, c'est pour ça que je vis ici. Mais l'initiative demandait plus de surfaces et plus d'argent, donc moins de liberté pour les propriétaires et les agriculteurs. Je serais plutôt réservée. »"
+    }
+  ]
+}

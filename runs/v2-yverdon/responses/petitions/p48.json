@@ -1,0 +1,25 @@
+{
+  "id": "p48",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Cette affaire d'étudiants lausannois ne me concerne pas, et je n'aime pas les pétitions qui demandent à une direction d'exclure des entreprises par principe."},
+    {"item_id": "pet02", "participe_proba": 0.05, "partage_proba": 0.08, "raison": "Les canicules me fatiguent et je comprends l'inquiétude, mais cette lettre réclame des mesures lourdes à la Confédération et je ne signe pas volontiers ce type de texte."},
+    {"item_id": "pet03", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Je suis contre l'initiative de l'UDC sur les frontières, mais demander au Parlement de la déclarer invalide me paraît une façon de la contourner plutôt que de la combattre dans les urnes."},
+    {"item_id": "pet04", "participe_proba": 0.005, "partage_proba": 0.01, "raison": "C'est une affaire genevoise et judiciaire sur un débat politique très passionné autour de Gaza, et je ne prends pas position dans ce genre de querelle."},
+    {"item_id": "pet05", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Le détournement du protoxyde chez les jeunes est un vrai problème, mais c'est une affaire genevoise et je n'ai aucune raison de m'engager depuis Yverdon."},
+    {"item_id": "pet06", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Mon deuxième pilier doit d'abord être géré selon la sécurité des placements, et je ne veux pas qu'un collectif de soignants dicte à une caisse de pension où investir."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Cette proposition se dit elle-même fictive, et je ne signe pas un texte qui reconnaît n'être qu'une fiction, même si l'idée d'une concurrence entre caisses m'intéresse."},
+    {"item_id": "pet08", "participe_proba": 0.08, "partage_proba": 0.10, "raison": "L'AVS me concerne directement et je trouve sensé de la stabiliser sans recourir sans cesse à la hausse de la TVA, mais je me méfie des propositions qui mêlent cannabis et retraites."},
+    {"item_id": "pet09", "participe_proba": 0.004, "partage_proba": 0.01, "raison": "Ce projet de locaux à Versoix, dans le canton de Genève, se passe loin de chez moi et je n'ai aucun lien avec cette commune."},
+    {"item_id": "pet10", "participe_proba": 0.06, "partage_proba": 0.04, "raison": "Ce témoignage me touche et la situation me paraît injuste, mais je ne signe pas volontiers une pétition sur un sujet où je n'ai aucun lien personnel."},
+    {"item_id": "pet11", "participe_proba": 0.06, "partage_proba": 0.04, "raison": "L'accès aux soins psychiques compte pour moi, vivant seul, mais je n'ai pas suivi cette motion et je ne signe pas de lettres collectives adressées aux parlementaires."},
+    {"item_id": "pet12", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "J'aime les petites exploitations agricoles qui tiennent bon, mais Borex est loin de Yverdon et je ne signe pas une pétition pour une commune que je ne connais pas."},
+    {"item_id": "pet13", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Les violences domestiques sont inacceptables, mais c'est au canton du Jura de fixer ses priorités, et je me méfie des pétitions de campagne en ligne qui réclament une dépense sans la chiffrer."},
+    {"item_id": "pet14", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Je ne prends pas le tram lausannois et je n'ai pas d'avis sur ce tracé, même si les arbres me semblent une bonne idée en cas de canicule."},
+    {"item_id": "pet15", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Je fais confiance aux autorités fédérales pour appliquer les décisions d'asile et je ne connais la situation au Burundi que par la presse."},
+    {"item_id": "pet16", "participe_proba": 0.008, "partage_proba": 0.005, "raison": "Ce sujet ne me touche pas directement et je ne vois pas pourquoi je signerais une pétition sur la formation professionnelle des jeunes."},
+    {"item_id": "pet17", "participe_proba": 0.06, "partage_proba": 0.05, "raison": "L'idée d'être filmé à mon insu me déplaît, mais interdire un produit me paraît excessif, car le droit suisse protège déjà la vie privée."},
+    {"item_id": "pet18", "participe_proba": 0.006, "partage_proba": 0.02, "raison": "Ces mesures limitent la consommation et les choix de chacun, et je préfère une écologie qui fait confiance à l'innovation et à la responsabilité individuelle plutôt qu'à des interdictions."},
+    {"item_id": "pet19", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Les forêts me tiennent à cœur, mais je ne signe pas une pétition qui demande au Parlement de revenir sur une décision budgétaire que je n'ai pas étudiée."},
+    {"item_id": "pet20", "participe_proba": 0.08, "partage_proba": 0.15, "raison": "Protéger les victimes de drogues à leur insu me paraît indispensable, et j'en parlerais volontiers autour de moi, même si c'est d'abord aux polices cantonales d'agir."}
+  ]
+}

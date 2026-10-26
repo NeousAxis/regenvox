@@ -1,0 +1,29 @@
+{
+  "id": "p66",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Ce n'est pas au canton de payer la pilule de tout le monde, on a déjà assez de dépenses, et l'UDC dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Mon parti laisse la liberté de vote, mais je n'aime pas voir l'argent genevois partir en France après le refus de 2014, même si le trafic à la frontière me gêne."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Locataire depuis longtemps, l'idée d'acheter mon appartement me tente, mais je crains les congés-ventes et l'UDC est contre."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Former des gens en Suisse romande est utile, et deux millions de moins par an me paraissent raisonnables, donc je suis plutôt d'accord."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p31",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un samedi matin à la salle communale, avec des agriculteurs de Vuadens qui disent eux-mêmes combien ils gagnent et ce que le bio leur a coûté ou rapporté, et sans qu'on me demande de devenir bio."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une ferme du village qui a fait le passage, visitée avec les chiffres, plutôt qu'un programme. Je n'ai pas besoin qu'on m'explique comment acheter à la ferme."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un sujet concret sur les cinq prochaines années pour les fermes du village, avec des chiffres, plutôt que la commune dans quinze ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Une visite à pied d'un pré ou d'une ferme de la commune, le samedi matin, plutôt qu'une séance le soir dans la salle."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes que je peux remplir à mon rythme, sans sortir le soir ni parler devant les autres. Je ne le ferais que si les questions sont concrètes et ne demandent aucun engagement. Les trois séquences sur trois semaines et les grandes questions sur la commune dans quinze ans ne me concernent pas beaucoup."
+}

@@ -1,0 +1,64 @@
+{
+  "id": "p33",
+  "portrait": "J'ai 25 ans, je suis artisan indépendant dans le bâtiment et je vis en couple avec nos enfants dans le quartier résidentiel récent de Vuadens. Installé ici depuis peu comme étranger, je pense surtout à mes chantiers, à mes factures et à l'avenir de ma famille. La politique communale ne m'intéresse pas beaucoup pour l'instant, et les grands projets venus d'en haut me paraissent assez loin de mon quotidien.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les agriculteurs ont déjà assez de paperasse, et moi je dois déjà me battre pour être payé à temps.",
+      "engagement": 0,
+      "freins_participation": [
+        "je n'ai pas le temps entre mes chantiers et les enfants",
+        "ça ne me concerne pas directement",
+        "je ne sais pas à qui s'adresse cette démarche"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me montre concrètement ce que ça change pour le prix des produits et pour les petites entreprises comme la mienne, lors d'une réunion en soirée ou un samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si je peux acheter directement chez un agriculteur d'ici pour nos enfants, je suis partant, mais il faut que ça reste simple.",
+      "engagement": 2,
+      "freins_participation": [
+        "pas le temps d'aller à un atelier en semaine",
+        "les prix doivent rester abordables avec un petit budget de famille",
+        "je ne sais pas comment entrer en contact avec les fermes"
+      ],
+      "ce_qui_me_ferait_venir": "Un point de vente ou un panier de produits de la ferme près de chez nous, avec des prix clairs, et une info envoyée simplement par message ou sur le site de la commune."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Mes enfants vont grandir ici, donc une terre saine, j'en veux bien, mais je vois mal ce que moi je peux faire concrètement.",
+      "engagement": 1,
+      "freins_participation": [
+        "question trop générale pour moi",
+        "pas le temps de réfléchir à ça en ce moment",
+        "je préfère les actions concrètes aux grands discours"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples précis dans la commune, comme des haies, des arbres ou des bâtiments communaux à rénover, avec ce que ça coûte et ce que ça apporte."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Des labels et de belles phrases, ça ne paie ni les factures ni les salaires.",
+      "engagement": 0,
+      "freins_participation": [
+        "ça ressemble à de la communication de la commune",
+        "je ne vois pas l'utilité pour mon activité",
+        "aucun intérêt direct pour moi"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance qui se traduit par des contrats locaux, par exemple pour l'entretien des haies ou des chemins, et pas seulement par des mots."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 45,
+    "role": "relai",
+    "cercle_type": "Réseau de chantiers (clients, autres artisans, fournisseurs), quelques collègues de travail et des parents rencontrés à l'école et dans le quartier. Pas de cercle politique ni associatif."
+  },
+  "votes": []
+}

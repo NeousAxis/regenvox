@@ -1,0 +1,20 @@
+{
+  "id": "p07",
+  "votes": [
+    {"vote_id": "a2014-gripen", "participe_proba": 0.4, "oui_proba": 0.7, "raison": "L'armée doit pouvoir se défendre, donc je suis plutôt pour ces avions. Ce dossier ne me fait pas bouger, je vote surtout quand l'agriculture est concernée."},
+    {"vote_id": "a2016-couple", "participe_proba": 0.5, "oui_proba": 0.7, "raison": "Sur la ferme on travaille à deux, et le mariage c'est la base de la famille. Que les couples mariés ne soient pas pénalisés me paraît juste."},
+    {"vote_id": "a2017-avs-tva", "participe_proba": 0.55, "oui_proba": 0.45, "raison": "La TVA, c'est une hausse qui pèse sur la maison et sur la ferme. Mais l'AVS a besoin d'argent et le supplément de 70 francs aide les petites rentes, donc je suis partagé."},
+    {"vote_id": "a2018-autodetermination", "participe_proba": 0.75, "oui_proba": 0.8, "raison": "Je tiens à ce que notre Constitution passe avant les juges étrangers. Les accords avec l'UE nous ont déjà beaucoup liés."},
+    {"vote_id": "a2020-limitation", "participe_proba": 0.8, "oui_proba": 0.35, "raison": "Je comprends le ras-le-bol sur l'immigration, mais on a besoin de main-d'œuvre dans l'agriculture et l'artisanat. Les accords bilatéraux nous ont aussi ouvert des marchés, donc je reste prudent."},
+    {"vote_id": "a2020-avions", "participe_proba": 0.8, "oui_proba": 0.65, "raison": "Six milliards, c'est beaucoup, mais si l'on garde une armée il faut du matériel qui fonctionne."},
+    {"vote_id": "a2022-experimentation", "participe_proba": 0.45, "oui_proba": 0.25, "raison": "Je suis pour le bien-être des animaux, mais interdire la recherche sur les animaux et les essais humains touche aux médicaments et aux vaccins, y compris pour nos bêtes. Je pencherais pour le non."},
+    {"vote_id": "a2022-elevage", "participe_proba": 0.9, "oui_proba": 0.08, "raison": "C'est mon métier qu'on attaque : imposer les exigences du bio à tout l'élevage, y compris aux importations, en 25 ans, mettrait la production laitière en difficulté. Je vote non, sans hésiter."},
+    {"vote_id": "a2022-avs-tva", "participe_proba": 0.9, "oui_proba": 0.4, "raison": "C'est le même jour que l'élevage, donc j'irai voter. La TVA pèse, mais l'AVS a besoin d'argent, donc je reste partagé."},
+    {"vote_id": "h2026-neutralite", "participe_proba": 0.85, "oui_proba": 0.7, "raison": "La neutralité, c'est ce qui a fait la Suisse, et je veux qu'on reste hors des alliances militaires et des sanctions. Ça complique nos relations avec l'extérieur, mais je vote oui."},
+    {"vote_id": "h2026-alimentation", "participe_proba": 0.85, "oui_proba": 0.2, "raison": "Produire davantage chez nous, je suis pour. Mais moins d'aliments d'origine animale et moins d'engrais, c'est directement contre notre métier de producteur laitier conventionnel, donc je penche pour le non."},
+    {"vote_id": "p2026-avs-tva", "participe_proba": 0.6, "oui_proba": 0.45, "raison": "Encore une hausse de la TVA, ça pèse sur la maison et sur la ferme. La 13e rente aide les anciens et les aliments ne sont pas touchés, donc je reste partagé."},
+    {"vote_id": "p2026-feux", "participe_proba": 0.6, "oui_proba": 0.55, "raison": "Les pétards du 1er août font paniquer mes vaches, je suis plutôt pour limiter le bruit. Les exceptions pour les grandes fêtes me rassurent, mais je reste mitigé."},
+    {"vote_id": "p2026-couples", "participe_proba": 0.6, "oui_proba": 0.8, "raison": "Sur une ferme, on travaille souvent à deux sans que ça se voie sur le salaire. Que les couples mariés ne soient pas désavantagés me paraît juste, donc je vote oui."},
+    {"vote_id": "p2026-materiel-guerre", "participe_proba": 0.6, "oui_proba": 0.4, "raison": "Exporter des armes vers des pays en conflit me gêne par rapport à notre neutralité. Mais l'industrie de l'armement fait travailler du monde, donc je reste partagé et je penche pour le non."}
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "p42",
+  "portrait": "J'ai 40 ans, je suis ouvrier qualifié dans une entreprise de la zone industrielle et je vis avec ma compagne dans le centre du village, sans enfant. Je suis arrivé ici pour le travail et je suis resté. Je ne peux pas voter aux fédérales et je suis peu la politique, ce qui me touche, c'est mon boulot, les horaires, le loyer et ce qu'on met dans nos assiettes.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Aider les paysans à vivre de leur travail, d'accord, ils bossent dur. Mais leur dire de passer au bio d'ici dix ans, j'y crois moyen, et personne ne m'a expliqué qui paie la différence.",
+      "engagement": 1,
+      "freins_participation": [
+        "je connais très peu de paysans et je ne sais pas comment fonctionnent leurs exploitations",
+        "mes horaires en usine ne me laissent pas beaucoup de disponibilité en semaine",
+        "le sujet me semble réservé au monde agricole et aux élus"
+      ],
+      "ce_qui_me_ferait_venir": "Que les paysans eux-mêmes prennent la parole, avec des chiffres sur ce qu'ils gagnent, et que la discussion porte sur les conditions concrètes et pas seulement sur un objectif."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Si je peux acheter du lait ou des légumes directement à une ferme du coin, pourquoi pas. Mais je ne vais pas passer mon samedi à désherber des champs.",
+      "engagement": 2,
+      "freins_participation": [
+        "horaires décalés et équipes qui changent d'une semaine à l'autre",
+        "le prix des produits bio qui pèse sur le budget du ménage",
+        "je ne sais pas où ni quand la commune organise ce genre de rencontres"
+      ],
+      "ce_qui_me_ferait_venir": "Une proposition simple et concrète, par exemple un panier ou une visite de ferme le samedi matin ou le soir, avec un coût clair et une idée précise de ce que je peux y faire."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "C'est une belle question, mais dans trente ans je n'aurai peut-être plus rien à voir avec Vuadens. Moi, c'est le mois prochain qui m'occupe.",
+      "engagement": 0,
+      "freins_participation": [
+        "question trop abstraite pour que je me sente concerné",
+        "je n'ai pas de lien direct avec l'agriculture",
+        "les grandes questions de la commune, je les entends souvent sans voir de changement"
+      ],
+      "ce_qui_me_ferait_venir": "Une question qui touche à mon quotidien, comme les loyers, la circulation ou l'emploi dans la zone industrielle, ou une démarche qui me dise ce que ça change pour moi."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 1,
+      "citation": "Les champs et les haies, c'est joli quand on passe en voiture. Qu'on le dise, ça ne m'émeut pas plus que ça, ce qui compte c'est que la ferme tourne.",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne sais pas concrètement ce que les fermes apportent aux sols ou à l'eau",
+        "le sujet reste loin de mon quotidien d'ouvrier",
+        "une reconnaissance sans effet sur le revenu des paysans ne m'intéresse pas"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples visibles, par exemple une balade commentée dans les champs avec un agriculteur, sans réunion ni discours."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "collègues d'équipe à l'usine, quelques voisins du centre du village, compatriotes rencontrés en Suisse et famille de ma compagne, peu de liens avec le monde agricole sinon par la boucherie et l'épicerie du village"
+  },
+  "votes": []
+}

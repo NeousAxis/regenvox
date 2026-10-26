@@ -1,0 +1,15 @@
+{
+  "id": "p27",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je n'ai aucun lien avec l'Auberge de Sauvabelin, je n'ai pas vu le sondage et la ferme me prend déjà tout mon temps."},
+    {"item_id": "lau01", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "En 2019 je ne connaissais pas ce budget participatif, le vote se faisait en ligne ou dans des urnes de quartier, et je n'avais pas de projet à déposer à plusieurs."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "En 2020 le vote se faisait sur internet ou à des stands de marché, et entre le Covid et le travail à la ferme je n'ai pas suivi cette édition."},
+    {"item_id": "lau10", "participe_proba": 0.14, "partage_proba": 0.1, "raison": "Le plan d'affectation touche directement nos terres agricoles et forestières, donc je répondrais probablement au sondage en ligne de cinq minutes, mais je n'irais ni aux soirées d'information ni aux balades."},
+    {"item_id": "lau03", "participe_proba": 0.08, "partage_proba": 0.05, "raison": "Le bulletin arrive pour la première fois dans la boîte aux lettres, ce qui facilite le vote, mais je ne dépose aucun projet et je ne voterais que pour une idée qui concerne mon hameau."},
+    {"item_id": "lau08", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Les quais d'Ouchy ne me concernent pas, je n'y vais presque jamais et je ne remarque pas ce genre de sondage."},
+    {"item_id": "lau04", "participe_proba": 0.06, "partage_proba": 0.05, "raison": "Je n'ai pas le temps de monter un dépôt de projet et cette édition m'est passée sous le nez, sauf si un projet touche la nature près de chez moi."},
+    {"item_id": "lau09", "participe_proba": 0.08, "partage_proba": 0.07, "raison": "Je suis étrangère et ce sujet me parle, mais le questionnaire était distribué dans des maisons de quartier et à Infocité, des lieux que je ne fréquente pas, donc je ne l'ai probablement pas rempli."},
+    {"item_id": "lau05", "participe_proba": 0.12, "partage_proba": 0.08, "raison": "Le bulletin nominatif arrive à mon nom, ce qui facilite le vote, et je choisirais peut-être trois projets liés à la nature, mais je n'ai pas le temps de les comparer."},
+    {"item_id": "lau06", "participe_proba": 0.12, "partage_proba": 0.09, "raison": "La biodiversité urbaine me parle à cause de notre métier à la ferme, donc je voterais probablement avec le bulletin reçu à la maison, mais je n'en parlerais qu'à ma famille."}
+  ]
+}

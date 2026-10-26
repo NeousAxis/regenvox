@@ -1,0 +1,65 @@
+{
+  "id": "p12",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "En 2017 j'avais 59 ans, je n'ai pas vu l'annonce du sondage ni des ateliers, et un samedi après-midi à l'Auberge pour parler du lac ne me disait rien."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Le budget participatif était nouveau en 2019 et peu visible dans mon immeuble, je trouve que la Ville dépense déjà beaucoup, donc je n'ai pas pris le temps de voter."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "En 2020 la pandémie me tenait à l'écart des stands et des urnes, je n'ai pas reçu de bulletin, et ce vote n'était pas un sujet dont on parlait autour de moi."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Un sondage en ligne de cinq minutes sur le visage de mon quartier en 2030 m'aurait peut-être occupé un soir, mais sans annonce qui me touche et sans envie de sortir pendant la pandémie, je ne l'ai probablement pas rempli."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin affranchi reçu pour la première fois dans ma boîte aux lettres m'a donné une occasion, mais je l'ai probablement mis de côté, je ne vote pas volontiers sur des projets de quartier."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "La fermeture des quais aux voitures m'a agacé et un questionnaire m'aurait donné une tribune, mais je ne l'ai pas vu passer et il fallait aller le chercher sur le site de la Ville."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin préaffranchi à domicile me laisse une chance réelle, mais je ne suis pas un habitué de ces votes et je l'ai sans doute laissé de côté avec le reste du courrier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Ce thème ne me concerne pas directement, je n'ai pas vu la consultation, je n'ai pas cherché à la trouver et je n'en ai pas parlé à mes proches."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin nominatif est arrivé dans ma boîte aux lettres, je l'ai peut-être feuilleté, mais voter pour des projets de quartier ne me motive pas assez pour cocher au moins trois cases."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin à domicile et le vote en ligne rendent la chose facile, mais je ne suis pas quelqu'un qui suit ces projets et je n'ai pas vraiment de conversation à ce sujet avec mes voisins."
+    }
+  ]
+}

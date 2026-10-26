@@ -1,0 +1,39 @@
+{
+  "id": "p45",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un samedi matin à heure fixe, avec une garde d'enfants sur place, et un agriculteur de Vuadens présent pour expliquer concrètement où part l'argent du bio."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un écrit clair qui dit qu'il n'y a ni contrat, ni paiement d'avance, ni engagement dans la durée, et que je peux venir sans rien signer."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Savoir que ce qui se dit à l'atelier sera repris dans une décision de la commune, avec un retour écrit à chacun dans les deux mois."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une visite de ferme ou un exemple concret du coin qui montre ce que ces fermes apportent à l'eau, au sol et aux oiseaux."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je choisis le questionnaire en ligne parce qu'il ne prend que 10 minutes, que je peux remplir chez moi le soir quand la famille dort, et qu'il ne demande aucune compétence agricole. Je n'aime pas les soirées de réunion où l'on parle beaucoup sans rien décider, et mes horaires ne me permettent pas de bloquer un samedi matin à heure fixe."
+}

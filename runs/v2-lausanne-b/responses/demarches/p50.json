@@ -1,0 +1,15 @@
+{
+  "id": "p50",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.01, "partage_proba": 0.03, "raison": "Sauvabelin est loin de mon quartier, je n'ai pas eu connaissance de ce sondage et un samedi après-midi d'atelier ne m'attire pas."},
+    {"item_id": "lau01", "participe_proba": 0.05, "partage_proba": 0.08, "raison": "Premier essai pilote peu visible, sans bulletin reçu à domicile, et je ne voyais pas de projet de quartier qui me concerne vraiment."},
+    {"item_id": "lau02", "participe_proba": 0.07, "partage_proba": 0.09, "raison": "Édition marquée par le Covid et peu annoncée, le vote en ligne était simple mais je n'avais pas d'idée de projet à défendre."},
+    {"item_id": "lau10", "participe_proba": 0.11, "partage_proba": 0.14, "raison": "Un sondage de cinq minutes sur l'avenir de mon quartier m'intéresse, mais le confinement a relégué le sujet au second plan et je réponds rarement aux enquêtes municipales."},
+    {"item_id": "lau03", "participe_proba": 0.12, "partage_proba": 0.13, "raison": "Le bulletin arrive pour la première fois dans toutes les boîtes aux lettres, mais je ne remplis pas systématiquement ce genre de bulletin et je l'ai probablement mis de côté."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Je fréquente peu les quais d'Ouchy en semaine et un questionnaire sur leur fermeture à la circulation ne m'a pas paru concerner mon quotidien."},
+    {"item_id": "lau04", "participe_proba": 0.12, "partage_proba": 0.12, "raison": "Le bulletin arrive à domicile, mais les projets me paraissaient très locaux et je vote rarement quand il faut en choisir trois ou davantage."},
+    {"item_id": "lau09", "participe_proba": 0.09, "partage_proba": 0.12, "raison": "Le sujet me touche comme personne étrangère, mais la consultation est passée discrètement et répondre à un questionnaire sans savoir ce qu'il en sortira m'a découragée."},
+    {"item_id": "lau05", "participe_proba": 0.15, "partage_proba": 0.18, "raison": "Le bulletin nominatif arrive chez moi, y compris comme étrangère, et je le retourne si un projet de mon quartier me parle, ce qui n'arrive pas à chaque édition."},
+    {"item_id": "lau06", "participe_proba": 0.12, "partage_proba": 0.13, "raison": "Le bulletin arrive à la maison et la cabine de la Rue centrale est sur mon chemin, mais l'été et mon travail m'occupent et le budget participatif reste secondaire pour moi."}
+  ]
+}

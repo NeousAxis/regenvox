@@ -1,0 +1,39 @@
+{
+  "id": "p39",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Qu'un agriculteur de la commune vienne présenter lui-même son exploitation et ce que le bio lui rapporte, avec des chiffres simples que je peux vérifier, pour que je puisse en discuter sans me sentir incompétente."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.3,
+      "atelier_presentiel": 0.08,
+      "parcours_distance": 0.12,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Une date de samedi matin annoncée au moins un mois à l'avance, car mes horaires de soins changent d'une semaine à l'autre et je ne peux pas me libérer en semaine le soir."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.12,
+      "atelier_si_invite_par_un_proche": 0.14,
+      "ce_qui_doublerait_ma_venue": "Savoir à l'avance ce que la commune fera concrètement de ce qui sera dit, par exemple un engagement écrit sur des terres précises, pour être sûre que ma parole compte vraiment dans le débat."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Un résumé court et concret de ce que les fermes font pour l'eau et les sols, en quelques lignes, plutôt qu'un document qui sent la brochure."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, quand mes horaires le permettent, sans sortir le soir après une journée de travail ni devoir m'organiser pour un samedi. C'est le format le plus compatible avec ma vie, même si je sais que je ne m'y engagerai pas sur tous les angles."
+}

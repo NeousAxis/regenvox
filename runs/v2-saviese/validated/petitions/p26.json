@@ -1,0 +1,125 @@
+{
+  "id": "p26",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.002,
+      "partage_proba": 0.01,
+      "raison": "Question de surveillance sur un campus lausannois qui ne me concerne pas, et je ne m'engage pas pour une affaire d'étudiants."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "J'ai subi la chaleur de cet été à Savièse, mais une lettre ouverte qui réclame un plan d'urgence payé par les contribuables ne me convainc pas."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.001,
+      "partage_proba": 0.005,
+      "raison": "Je suis proche de l'UDC et cette pétition demande d'invalider une initiative de mon parti, donc je ne la signerai pas."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.008,
+      "partage_proba": 0.02,
+      "raison": "Cette affaire genevoise et le conflit à Gaza ne me touchent pas directement, et je me méfie des pétitions qui prennent parti dans un débat aussi chargé."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Le protoxyde d'azote touche les jeunes, mais c'est une affaire genevoise que je ne prends pas la peine de suivre ni de signer."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Mes placements de prévoyance ne me poussent pas à signer, et le ton militant de ce texte sur le climat me rebute."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "L'idée d'un cadre cantonal me parle un peu, mais le texte se présente lui-même comme fictif, donc il ne vaut pas la peine d'une signature."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Les retraites me concernent, mais je ne veux ni d'une TVA plus lourde ni d'une légalisation du cannabis pour les financer, et ce texte de jeunes Vert'libéraux ne me convainc pas."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.003,
+      "partage_proba": 0.01,
+      "raison": "Versoix est loin de Savièse et je ne connais pas ce projet de locaux, donc je n'ai aucune raison de signer."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.015,
+      "partage_proba": 0.04,
+      "raison": "Le drame décrit est douloureux et je le respecte, mais une pétition sur la maternité et le deuil ne fait pas partie de ce qui me pousse à signer."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.008,
+      "partage_proba": 0.02,
+      "raison": "Je ne connais pas la motion 26.4067 et la psychothérapie ne me concerne pas directement, donc je ne m'engage pas."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.006,
+      "partage_proba": 0.02,
+      "raison": "Une collection d'agrumes vaudoise est un beau patrimoine, mais je ne signe pas pour une commune qui n'est pas la mienne."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Les violences faites aux femmes sont graves, mais cette demande vise le canton du Jura et vient d'une organisation de campagnes en ligne que je ne suis pas."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.004,
+      "partage_proba": 0.01,
+      "raison": "Le tram lausannois ne me concerne pas, et un parcours de fraîcheur porté par les Vert'libéraux ne m'incite pas à signer."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.002,
+      "partage_proba": 0.005,
+      "raison": "Je reste attaché à une application stricte du droit d'asile et je ne vois pas pourquoi une pétition suspendrait les renvois, donc je ne la signerai pas."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.006,
+      "partage_proba": 0.02,
+      "raison": "Je n'ai pas d'apprenti dans mon entourage et je doute qu'un CFC étalé sur 4 à 6 ans soit réaliste, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Les lunettes connectées m'inquiètent un peu pour la vie privée, mais demander à la Confédération d'interdire un produit me paraît excessif, et je ne signe pas ce genre de campagne."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.004,
+      "partage_proba": 0.01,
+      "raison": "Cet appel général à un tournant écologique touche surtout la consommation et l'économie, et je n'adhère pas à ce type de texte."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Les incendies et la sécheresse sont réels en Valais, mais cette pétition demande au Parlement de contredire le conseiller fédéral Rösti, qui est UDC, sur un choix budgétaire, donc je ne la signe pas."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.06,
+      "partage_proba": 0.2,
+      "raison": "Je suis sensible à la protection des femmes et des enfants, mais je me méfie d'une task force intercantonale et d'une coopération accrue avec Europol, donc je reste réservé."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p42",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Je ne connais pas cette démarche, le lac de Sauvabelin est loin de mon quartier du centre et je n'y vais pas souvent, donc je n'ai pas vu l'annonce ni pensé à répondre."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "En 2019 le budget participatif est un projet pilote peu médiatisé et je n'ai pas de projet de quartier à défendre, même si l'ancienne cabine de vote du centre-ville est proche de chez moi."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Pendant la pandémie je sors peu et je me méfie des stands et des rassemblements, et même si le vote est possible en ligne ou au marché, je ne me sens pas assez concernée par les projets pour m'en occuper."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Un sondage en ligne de cinq minutes sur l'avenir de mon quartier m'intéresse un peu, mais je ne vais pas aux soirées ni aux balades sur inscription et je réponds rarement aux enquêtes."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin préaffranchi arrive dans ma boîte aux lettres, ce qui rend le vote facile, mais je ne suis pas sûre que mon choix change quelque chose et je n'ai pas l'habitude de ce genre de consultation."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Je marche parfois au bord du lac, mais un questionnaire d'une quinzaine de questions sur la circulation, annoncé seulement par un communiqué, ne m'a pas donné envie d'y répondre."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin nominatif envoyé à domicile facilite le vote, mais je ne suis pas très engagée dans les projets de quartier et je ne voterai que si un projet concerne directement le centre-ville, ce qui n'est pas évident."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Je suis étrangère et les questions de racisme et de discrimination me touchent, donc je pourrais répondre à un questionnaire papier, mais la consultation était peu visible et je ne fais pas spontanément ce type de démarche."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.11,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin m'est envoyé directement et la cabine de la place Centrale est proche, mais je ne vote qu'occasionnellement et je n'ai pas toujours le temps de comparer les projets proposés."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin préaffranchi et la cabine de la Rue centrale sont accessibles, et le thème des liens entre générations me parle, mais je sors peu, je vis seule et je ne suis pas sûre de prendre le temps de voter."
+    }
+  ]
+}

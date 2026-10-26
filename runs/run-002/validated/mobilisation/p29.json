@@ -1,0 +1,39 @@
+{
+  "id": "p29",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Une séance un samedi matin, avec un agriculteur de Vuadens qui vient présenter ses comptes, et la garantie écrite que le compte rendu sera publié et que nos idées pèseront sur la décision."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.2,
+      "ce_qui_doublerait_ma_venue": "Savoir ce que coûte concrètement un partenariat avec une ferme et à qui s'adresser, expliqué à l'atelier, et un moyen de m'y rendre sans devoir conduire le soir."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Parler de ce qu'on mangera demain, avec des exemples concrets pour mes petits-enfants, dans une séance courte qui aboutit à quelque chose de visible."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Que la commune s'engage sur un prix juste pour le travail des paysans, chiffres à l'appui, plutôt que de mettre les fermes en vitrine."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le plus court et le plus simple : je peux le faire chez moi, sans sortir et sans me retrouver face à des gens qui ont déjà un avis. Je doute quand même que ça change quoi que ce soit, donc je ne m'y mettrai sans doute que pour le premier angle."
+}

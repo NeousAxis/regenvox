@@ -1,0 +1,17 @@
+{
+  "id": "p21",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Je ne suis pas agriculteur et je vois pas trop ce que je peux faire là-dedans. Je prends des produits d'ici quand ça rentre dans mes courses, mais le bio c'est plus cher et moi je compte chaque franc. Si ça permet d'avoir des produits de la région à un prix correct, pourquoi pas, mais ça me concerne pas vraiment.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille beaucoup et je m'occupe seul des enfants, je n'ai pas le temps d'aller à des réunions le soir",
+      "Le bio coûte plus cher et avec le budget d'une famille monoparentale je regarde d'abord le prix",
+      "Je connais peu de monde au village et je ne sais pas où ça se passe ni qui organise quoi",
+      "La question agricole me paraît loin de ma vie de tous les jours, je ne me sens pas concerné par les décisions de la commune",
+      "Je ne suis pas sûr que mon avis compte beaucoup, je ne suis pas du coin et je ne connais pas bien la politique communale"
+    ],
+    "ce_qui_me_ferait_venir": "Un message simple qui explique ce que ça change concrètement pour mes courses et pour le prix des produits, une garde possible pour les enfants pendant un atelier, ou une visite de ferme avec mes enfants, annoncée par l'école ou par un voisin plutôt que par un courrier de la commune."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p11",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas vu l'annonce du sondage sur l'Auberge de Sauvabelin, je n'y vais qu'occasionnellement et un avis sur ces établissements ne me concerne pas beaucoup, donc je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "J'ai entendu parler du premier budget participatif sans bien comprendre comment il fonctionnait, voter pour des projets de quartier me semblait compliqué, et je n'ai pas eu le réflexe à l'automne."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Le vote était possible en ligne ou au marché, mais avec le Covid et le travail je n'y ai pas pensé, et j'en ai juste parlé une fois avec des collègues."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Un sondage de cinq minutes sur mon quartier m'aurait peut-être tentée, mais je ne l'ai pas remarqué pendant le confinement, et je n'en ai parlé qu'à mon conjoint."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin prépayé arrivé dans la boîte aux lettres peut finir rempli un soir si on a le temps, mais il reste souvent sur la table, et j'en parlerais sans doute une fois avec mon conjoint."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "J'ai profité des quais fermés à l'été 2020 avec les enfants, mais un questionnaire de quinze questions sur la circulation ne m'a pas tentée, et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif à domicile me donne une vraie occasion, mais entre le travail et les enfants je le remplis seulement quand je m'y prends à temps, et j'en discute parfois avec des amis du quartier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.1,
+      "partage_proba": 0.14,
+      "raison": "Le sujet me touche comme étrangère, mais je n'ai pas remarqué la consultation et je préfère ne pas m'exposer à une démarche officielle, alors qu'en parler avec des amis ou des collègues qui ont vécu des choses semblables me viendrait plus facilement."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.13,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif m'est arrivé comme à tous les habitants, mais je le mets souvent de côté, et j'en ai parlé une fois avec mon conjoint au moment de cocher les projets."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin prépayé est arrivé à la maison, mais entre les vacances et le travail je l'ai probablement laissé de côté, et je n'en ai parlé que brièvement à mon conjoint."
+    }
+  ]
+}

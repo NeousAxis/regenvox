@@ -1,0 +1,125 @@
+{
+  "id": "p09",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Je ne suis ni étudiante ni liée à l'EPFL, et ce débat sur Palantir me paraît lointain, même si l'idée d'une surveillance de masse m'inquiète."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.22,
+      "partage_proba": 0.25,
+      "raison": "Les canicules de cet été m'ont vraiment marquée, et je trouve normal que le Parlement agisse, même si je ne suis pas militante."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Je suis contre l'initiative de l'UDC, mais je doute qu'une pétition change quelque chose à une décision qui relève de l'Assemblée fédérale."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je ne connais pas bien cette affaire genevoise et je n'aime pas m'engager dans un conflit politique aussi chargé."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Le protoxyde circule beaucoup chez les jeunes et je vois parfois les bonbonnes traîner, mais c'est un problème genevois et je ne suis pas sûre que la régulation proposée soit la bonne."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Je m'inquiète un peu de ce que fait ma caisse de pension avec mon argent, mais je signe rarement ce genre de lettre sans savoir exactement ce qu'elle implique."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Le texte se présente lui-même comme fictif, et je ne vois pas à qui cette pétition s'adresserait réellement."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Je me demande si l'AVS tiendra pour ma génération et l'idée d'une durée de cotisation me parle, mais je me méfie d'un texte qui mêle cannabis et baisse de TVA."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "Ce projet concerne Versoix, une commune genevoise où je n'habite pas, et je ne connais pas ce local."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.14,
+      "partage_proba": 0.12,
+      "raison": "Ce témoignage me touche beaucoup, car le deuil d'un enfant pendant la grossesse est mal reconnu, et il est injuste de devoir passer par un arrêt maladie."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "L'accès aux soins psychiques me concerne indirectement, mais je ne suis pas sûre de bien comprendre les enjeux de cette motion fédérale."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "C'est une belle initiative vaudoise, mais je ne connais pas cette ferme et les décisions de Borex ne me concernent pas directement."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.09,
+      "partage_proba": 0.07,
+      "raison": "Je trouve scandaleux qu'un canton n'ait pas de maison d'accueil pour les femmes, mais je ne vis pas dans le Jura et je signe rarement des pétitions adressées à d'autres cantons."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "La chaleur minérale en ville me gêne et l'idée de plus d'arbres me paraît sensée, mais je ne prends pas souvent le tram lausannois et le texte vise surtout la Municipalité de Lausanne."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.13,
+      "partage_proba": 0.1,
+      "raison": "Les récits de torture et d'expulsions forcées me révoltent, et je trouve normal de demander une pause, même sans lien personnel avec les réfugiés burundais."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "L'idée d'une formation à temps partiel est intéressante pour les jeunes en difficulté, mais la réforme proposée est lourde et je ne suis pas sûre de la comprendre."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.3,
+      "partage_proba": 0.3,
+      "raison": "Être filmée à son insu dans un vestiaire ou une piscine me terrifie, et je trouve qu'il faut interdire ces lunettes avant qu'elles ne se banalisent."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.16,
+      "partage_proba": 0.14,
+      "raison": "Je partage le constat d'urgence climatique, mais la liste de mesures est très large et je doute qu'une pétition de plus fasse bouger le Parlement."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Les forêts qui brûlent cet été me préoccupent et supprimer les fonds d'adaptation me paraît absurde, mais je ne connais pas bien le dossier budgétaire fédéral."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.22,
+      "partage_proba": 0.25,
+      "raison": "La soumission chimique est un danger qui touche directement les femmes de mon âge en soirée, et je trouve que la Suisse est en retard sur ce sujet."
+    }
+  ]
+}

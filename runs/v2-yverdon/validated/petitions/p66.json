@@ -1,0 +1,125 @@
+{
+  "id": "p66",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.015,
+      "raison": "Ça concerne les étudiants de l'EPFL et une histoire de sécurité que je ne suis pas, et je n'ai aucun lien avec cette école."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Le climat me préoccupe, surtout après les canicules de cet été, mais je signe rarement les lettres ouvertes et celle-ci reste très générale."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "Je suis proche du PS et l'initiative de l'UDC me révolte, mais je ne signe que rarement les pétitions que je croise."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "C'est une affaire genevoise et un débat sur Gaza que je suis de loin, je ne connais pas le député et cela ne concerne pas mon canton."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.05,
+      "partage_proba": 0.07,
+      "raison": "Avec mes enfants, le protoxyde me préoccupe un peu, mais c'est une affaire genevoise et je ne signe pas les pétitions d'autres cantons."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Le texte est en anglais et s'adresse aux caisses de pension, et même si mon deuxième pilier me préoccupe, je ne signe pas ce genre de demande."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Le texte se présente lui-même comme fictif et la réforme reste floue, alors que les primes me pèsent, je ne signe pas une idée de ce genre."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "L'AVS me concerne directement et les métiers pénibles me parlent, mais cette pétition vient des jeunes libéraux et je ne la signe pas facilement."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.006,
+      "partage_proba": 0.005,
+      "raison": "Versoix est une commune genevoise que je ne connais pas, ce local ne me concerne pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Je comprends la douleur de cette mère, mais le sujet touche surtout les femmes et je ne signe pas facilement ce type de pétition, sauf si quelqu'un de mon entourage en parle."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je n'ai pas d'expérience directe de la psychothérapie et la motion au Conseil national est un sujet technique qui ne m'accroche pas."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.008,
+      "partage_proba": 0.01,
+      "raison": "Une ferme à Borex est à l'autre bout du canton et cela ne me touche pas, je n'ai pas de raison de m'engager pour elle."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "La violence domestique me touche et je soutiens la cause des femmes, mais cette demande concerne le Jura, un canton où je n'habite pas."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je vis à Yverdon et la canicule me pèse aussi, mais le tram lausannois ne me concerne pas directement et je ne signe pas souvent les pétitions lausannoises."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Je suis sensible au sort des réfugiés et je trouve la Suisse trop dure, mais je ne signe pas beaucoup de pétitions et je n'ai pas de lien direct avec le Burundi."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "La formation des jeunes en situation de handicap m'intéresse un peu, mais le texte est technique et je n'ai pas de proche concerné."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.06,
+      "partage_proba": 0.09,
+      "raison": "La vie privée et les enfants à la piscine m'inquiètent, je pourrais le partager à d'autres parents, mais je ne signe pas facilement."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Le climat me préoccupe, mais cet appel très large ne me donne pas envie de m'engager, je signe rarement ce type de texte."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Les forêts et les incendies me touchent un peu et je suis contre les coupes de Rösti, mais je ne me mobilise pas souvent pour une pétition nationale."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.08,
+      "partage_proba": 0.14,
+      "raison": "En tant que père, la protection contre les drogues qui facilitent les abus me touche beaucoup et je pourrais le partager, mais je ne signe pas forcément les pétitions nationales."
+    }
+  ]
+}

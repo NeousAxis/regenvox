@@ -1,0 +1,143 @@
+{
+  "id": "p02",
+  "portrait": "J'ai 26 ans et je travaille comme technicienne dans une entreprise de la zone industrielle de Vuadens. Je vis avec mon compagnon et nos enfants dans le quartier résidentiel récent où nous sommes installés depuis quelques années. Je vote plutôt de façon pragmatique, sans suivre la politique de près, et je regarde d'abord ce que ça coûte à la famille.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans d'ici bossent dur, donc si on arrive à les faire vivre correctement, c'est déjà bien. Le bio, par contre, je ne suis pas sûre que ça paie vraiment pour eux, et j'aimerais des chiffres avant de me prononcer.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je connais peu le monde agricole et je ne me sens pas légitime pour en parler",
+        "Mes horaires en usine me laissent peu de temps les soirs",
+        "Avec les enfants, les réunions du soir sont compliquées à caser"
+      ],
+      "ce_qui_me_ferait_venir": "Des informations claires sur ce que le passage au bio change concrètement pour les fermes et pour les prix, lors d'une soirée organisée à l'école du village plutôt que dans une salle éloignée."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement à la ferme du village, pourquoi pas, mais il faut que ça reste possible avec un budget de famille. Si c'est juste pour se donner bonne conscience, ça ne m'intéresse pas.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le prix des produits bio me freine beaucoup",
+        "Je ne sais pas comment s'organiserait un partenariat concret avec une ferme",
+        "Je n'ai pas toujours le temps de suivre les initiatives locales"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule simple, par exemple des paniers ou un point de vente au village, avec des prix que je peux tenir chaque semaine, et des agriculteurs qui viennent expliquer leur travail."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "C'est une grande question, et je pense surtout à mes enfants, mais honnêtement je n'ai pas de réponse toute faite. Je ne suis pas sûre que ce soit à nous de décider pour trente ans.",
+      "engagement": 0,
+      "freins_participation": [
+        "La question me paraît trop générale pour que je me sente concernée",
+        "Je n'ai pas le temps de me plonger dans un débat de ce type",
+        "Je ne me sens pas à ma place pour donner un avis sur l'avenir du territoire"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples concrets dans le village, avec leurs conséquences pour ma famille au quotidien, plutôt qu'une réflexion sur le long terme."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Reconnaître les fermes, ça ne veut pas dire grand-chose si c'est juste une plaquette ou un panneau. Si c'est payé par nos impôts, je veux savoir pour quoi.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je me méfie des démarches de la commune qui coûtent de l'argent",
+        "Je n'ai pas d'idée concrète à proposer",
+        "Ça ne me concerne pas directement dans mon quotidien"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres sur le coût réel et sur ce que la commune financerait, avec la garantie que ça n'alourdit pas les impôts des familles comme la mienne."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 8,
+    "role": "suiveur",
+    "cercle_type": "famille proche, quelques collègues de l'usine, parents rencontrés à l'école et voisins du quartier"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas encore en âge de voter, et les résidences secondaires ne concernent pas vraiment notre village. Sur le principe, limiter les constructions pour protéger le paysage me paraît raisonnable, mais je me méfierais des règles qui bloquent les projets des familles."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore en âge de voter. Freiner le mitage, je comprends la logique, mais notre quartier est justement une extension récente et je ne voudrais pas que les règles rendent les terrains introuvables pour les jeunes familles."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Pas encore en âge de voter. Une seule planète par habitant, l'objectif me paraît flou, et je crains que ce soient les entreprises de la zone industrielle qui paient, avec des emplois en jeu."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas encore en âge de voter. Sortir du nucléaire me plaît pour l'environnement, mais je me demande d'où viendrait l'électricité et ce que ça coûterait aux familles et aux entreprises."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Pas encore en âge de voter. Les énergies renouvelables et les économies d'énergie, c'est du bon sens, à condition que ça ne fasse pas exploser les factures de la famille."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.15,
+      "oui_proba": 0.5,
+      "raison": "J'avais tout juste l'âge, je ne me suis pas inscrite et je ne me souviens pas vraiment de la campagne. Des aliments sains et produits dans de bonnes conditions, je suis pour sur le principe, mais contrôler les importations et payer plus cher me faisait hésiter."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.15,
+      "oui_proba": 0.4,
+      "raison": "Je ne me souviens presque pas du sujet. Soutenir l'agriculture d'ici me parle, mais les droits de douane font monter les prix en magasin, et ça pèse sur un budget de famille."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "L'eau potable pour les enfants, c'est un sujet qui touche tout le monde. Réserver les aides aux fermes sans pesticides me semble juste, même si ça complique la vie de certains paysans de la région."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Une Suisse sans pesticides de synthèse, l'idée est belle, mais une interdiction totale, même avec dix ans de transition, me paraît trop brutale pour nos fermes et pour le prix des produits en magasin."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je prends la voiture pour aller au travail, donc une hausse de la taxe sur l'essence et le mazout me touche directement. Les aides pour les bâtiments et le fonds pour le climat, pourquoi pas, mais il faut que le ménage y gagne aussi."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux, je suis d'accord sur le principe, mais les éleveurs d'ici font déjà beaucoup et la transition de 25 ans me paraît vague. Ça toucherait directement les fermes de la commune et le prix de la viande."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Zéro émission nette d'ici 2050, c'est un objectif qu'il faut viser, et les aides pour changer de chauffage pourraient nous servir un jour. Je pencherais pour oui, en espérant que les contraintes restent raisonnables pour les familles."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Protéger la nature et le paysage, mes enfants adorent se promener à la campagne, c'est important. Mais l'initiative va très loin et les agriculteurs de la région seraient les premiers touchés, ça me retient."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "p38",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Il faut une armée qui tient la route et des avions pour remplacer les F-5, donc je dis oui, en espérant que l'argent sera bien géré."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Les couples mariés ne devraient pas être désavantagés, je le vois autour de moi, mais graver une définition du mariage dans la Constitution ne règle rien et divise inutilement."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.45,
+      "raison": "Les retraites me concernent et je sais combien mes collègues de l'usine comptent sur l'AVS, donc je comprends le besoin d'argent ; mais une TVA plus haute touche tout le monde et l'âge de la retraite des femmes me pose question."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je tiens à notre démocratie et à nos décisions, mais nos accords avec l'Europe font vivre notre industrie et nos exportations ; les dénoncer ou les mettre au-dessus de la Constitution me semble trop risqué."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "Notre industrie de la région a besoin de personnel qualifié et je connais des collègues arrivés grâce à la libre circulation ; y mettre fin avec l'Europe serait une mauvaise affaire pour notre économie."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Une armée a besoin de moyens modernes, mais six milliards c'est une grosse somme ; je veux que le choix du modèle soit sérieux et que le coût reste sous contrôle, alors je penche pour le oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible au bien-être des animaux, mais interdire toute recherche et l'importation de produits issus d'essais est une mesure trop large ; la médecine et la sécurité des produits ont besoin d'essais encadrés."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je connais des familles de paysans d'ici qui travaillent dur avec leurs vaches ; une transition de 25 ans avec des normes décidées depuis la ville est une charge de plus pour eux, même si le bien-être animal compte."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je m'approche de l'âge de la retraite et je comprends qu'il faut financer l'AVS, mais je n'aime pas une nouvelle hausse de la TVA ni un calendrier qui touche surtout les femmes."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je tiens à notre neutralité et à notre rôle de médiateur, et je n'aime pas les alliances militaires ; je penche pour le oui, avec des doutes sur l'interdiction des sanctions."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Je suis pour une alimentation locale et moins de pesticides, les paysans d'ici font déjà des efforts ; mais fixer 70 % de production indigène et moins de produits animaux par un texte national ne tient pas compte de nos réalités."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Je suis proche de la retraite et je tiens à l'AVS, donc je comprends le besoin de financer la 13e rente ; une hausse de 0,4 point reste une taxe, mais les denrées alimentaires et les médicaments n'y sont pas touchés."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Les pétards me gênent pour les animaux, la nature et les enfants, mais j'aime les fêtes du 1er août et les feux de village ; si les exceptions restent possibles, une limitation du bruit me paraît raisonnable."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour une imposition individuelle, plus juste pour chacun, et je n'ai pas envie de revenir à l'imposition commune ; même garantie, cela coûte cher à la Confédération et va contre l'autonomie de chacun."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas à l'aise avec l'idée d'exporter des armes vers des pays en conflit, même partenaires ; la neutralité doit primer, et je n'aime pas que le Conseil fédéral puisse déroger aux règles."
+    }
+  ]
+}

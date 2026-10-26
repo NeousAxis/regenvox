@@ -1,0 +1,29 @@
+{
+  "id": "p51",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Ça me concerne directement et 20 millions par an ne me semblent pas énormes, mais le MCG, dont je suis proche, est contre et je n'aime pas que l'État prenne tout en charge."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Payer des projets en France alors que le peuple avait refusé ce type de financement en 2014 me gêne, et le MCG, dont je suis proche, est contre."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Le MCG, dont je suis proche, soutient ce projet et l'accès à la propriété pour les locataires me parle, même si je crains un peu les congés-ventes pour les autres locataires."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "Le MCG, dont je suis proche, s'oppose à cette indemnité et je trouve déjà chères les taxes d'études, même si une baisse de 2 millions par an ne change pas vraiment la donne."
+    }
+  ]
+}

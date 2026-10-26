@@ -1,0 +1,65 @@
+{
+  "id": "p38",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Sondage et ateliers sur un lieu que je fréquente peu, annoncés surtout sur les canaux de la Ville et du site des établissements, donc je n'en ai probablement jamais rien su."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Je n'ai pas entendu parler de ce premier budget participatif, et voter demande de choisir au moins trois projets sans que personne de mon entourage ne m'y pousse."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.07,
+      "raison": "Le vote a eu lieu en pleine pandémie et j'ai pu voir un stand au marché, mais choisir trois projets de quartier que je ne connais pas ne me tente pas assez pour que je m'y mette."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.09,
+      "raison": "Le sondage de cinq minutes parle de mon quartier, mais je l'ai vu passer sans y répondre, et les soirées ou balades sur inscription ne sont pas vraiment mon genre."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.14,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi arrive directement dans la boîte aux lettres, ce qui facilite le geste, mais je ne le remplis pas systématiquement et j'en parle peu, à peine à mon conjoint."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je ne me souviens pas avoir vu l'annonce de ce sondage sur les quais, je ne fréquente pas assez Ouchy ou Belgique pour me sentir concernée, donc j'en parle très peu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.16,
+      "partage_proba": 0.13,
+      "raison": "Le bulletin nominatif arrive chez moi, ce qui rend la participation possible, mais je le laisse souvent de côté faute de projets qui me concernent directement, et j'en parle rarement."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.14,
+      "raison": "Le sujet me touche comme étrangère et le Bureau lausannois pour les immigrés m'est connu, mais je n'ai pas forcément vu le questionnaire papier, et j'en parlerais plutôt avec des amies étrangères."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "Chacun reçoit son propre bulletin dès quatre ans, ce qui facilite le vote, mais choisir au moins trois projets reste une démarche que je n'accomplis pas à chaque fois, et j'en parle peu."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.11,
+      "partage_proba": 0.1,
+      "raison": "Un bulletin est arrivé à la maison et je l'ai peut-être feuilleté, mais la fenêtre de vote de six semaines est vite passée et je n'en ai pas beaucoup parlé autour de moi."
+    }
+  ]
+}

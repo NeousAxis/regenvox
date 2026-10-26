@@ -1,0 +1,15 @@
+{
+  "id": "p19",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Sondage annoncé seulement sur le site et les réseaux de la Ville, et le lac de Sauvabelin ne fait pas partie de mon quotidien : à 36 ans, je ne m'y serais pas arrêtée."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Première année d'un budget participatif peu visible dans mon quartier ; voter demandait de suivre une démarche que je ne connaissais pas, et j'avais déjà beaucoup à gérer avec les enfants."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Année Covid, surcharge familiale et professionnelle à 39 ans ; un vote en ligne ou sur un stand de marché ne s'est pas imposé à moi."},
+    {"item_id": "lau10", "participe_proba": 0.05, "partage_proba": 0.04, "raison": "Un sondage de cinq minutes sur le visage du quartier m'aurait peut-être intéressée, mais pendant le confinement l'annonce est passée sous mon radar et je n'y ai pas répondu."},
+    {"item_id": "lau03", "participe_proba": 0.20, "partage_proba": 0.15, "raison": "Le bulletin arrive pour la première fois dans la boîte aux lettres de chaque foyer, ce qui facilite le vote, mais je ne vote que si un projet de quartier me parle, et j'en parle surtout si j'ai voté."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Le questionnaire portait sur les quais d'Ouchy, que je fréquente peu, et l'annonce était une simple communication de presse que je n'ai pas remarquée."},
+    {"item_id": "lau04", "participe_proba": 0.15, "partage_proba": 0.12, "raison": "Le bulletin arrive à domicile, ce qui aide, mais l'automne chargé avec les enfants et le travail fait oublier le vote ; si je vote, j'en parle alors à la maison."},
+    {"item_id": "lau09", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Consultation sur le racisme, un sujet qui me touche moins directement ; je n'ai pas répondu au questionnaire et je n'en ai pas parlé, sauf si la question revient au travail."},
+    {"item_id": "lau05", "participe_proba": 0.20, "partage_proba": 0.20, "raison": "Chaque membre du foyer reçoit son bulletin nominatif, dont les enfants dès 4 ans, ce qui en fait un sujet à table, mais l'envie de voter dépend du projet et de mon emploi du temps."},
+    {"item_id": "lau06", "participe_proba": 0.15, "partage_proba": 0.15, "raison": "À 44 ans et avec un emploi du temps chargé, je vote surtout si un projet d'animation ou de convivialité de mon quartier me parle ; le bulletin à domicile aide, mais la rentrée l'emporte souvent."}
+  ]
+}

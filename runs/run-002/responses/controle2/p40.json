@@ -1,0 +1,17 @@
+{
+  "id": "p40",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le bio, je veux bien, mais je ne veux pas qu'on demande aux paysans de Vuadens de tout changer sans qu'ils puissent vivre de leur travail, ni que le caddie de mes enfants coûte plus cher à cause d'une décision prise en haut.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille à plein temps dans la zone industrielle et je suis seule avec mes enfants, je n'ai pas le temps d'aller aux réunions du soir",
+      "Je ne m'y connais pas en agriculture biologique et je n'ai pas envie de donner un avis sur le métier des paysans",
+      "Crainte que la transition coûte cher aux exploitations et que cela se répercute sur les prix dans les magasins",
+      "Impression que la commune fixe un objectif sans vraiment écouter les agriculteurs qui travaillent la terre",
+      "Méfiance envers les normes supplémentaires, surtout si elles arrivent sans aide concrète pour les exploitations"
+    ],
+    "ce_qui_me_ferait_venir": "Une rencontre en fin de journée ou le samedi, avec des paysans de Vuadens qui expliquent concrètement ce que la conversion leur apporte et ce qu'elle leur coûte, un prix d'achat garanti pour les producteurs, et des produits bio locaux à la cantine de l'école à un prix raisonnable. Si les emplois de la zone industrielle et la fromagerie restent au centre du projet, je viendrais écouter."
+  }
+}

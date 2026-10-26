@@ -1,0 +1,143 @@
+{
+  "id": "p33",
+  "portrait": "J'ai 73 ans, je suis retraité et je vis seul au centre du village, à deux pas de la place. Suisse, je vote plutôt Vert'libéral : l'environnement me tient à cœur, mais je me méfie des grandes idées venues d'en haut qui finissent toujours par coûter cher aux gens du coin.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Un paysan doit pouvoir vivre de son lait ou de sa terre, sans attendre le prochain versement de subventions.",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne connais pas les chiffres de la filière laitière",
+        "les séances du soir ne sont plus faites pour moi",
+        "je ne veux pas qu'on me fasse la leçon sur ce que je dois penser"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée où les agriculteurs eux-mêmes expliquent leurs prix, leurs marges et ce qu'ils gagnent avec le bio, à la fromagerie par exemple."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Partenaire, le mot sonne bien, mais on sent déjà le formulaire et la commission derrière.",
+      "engagement": 1,
+      "freins_participation": [
+        "les démarches officielles et les formulaires me découragent",
+        "je ne vois pas ce que je peux apporter à une ferme",
+        "je ne veux pas que ça devienne une obligation morale"
+      ],
+      "ce_qui_me_ferait_venir": "Une offre qui vient des fermes elles-mêmes, avec un prix clair et une visite, que je puisse essayer sans m'engager sur des années."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Une terre en bon état, c'est une évidence pour un paysan, pas besoin de grands discours pour le dire.",
+      "engagement": 2,
+      "freins_participation": [
+        "les grandes questions sur trente ans me semblent vagues, et je me méfie des discours",
+        "je ne me vois pas dans une réunion où l'on parle de l'avenir pendant deux heures",
+        "je veux que les paysans décident eux-mêmes de leurs pratiques"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier court, avec des exemples concrets de sols et de cultures que je peux aller voir sur place, plutôt qu'une réflexion abstraite."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Une plaque ou une journée portes ouvertes, pourquoi pas, mais qui va vérifier ce que font vraiment les fermes ?",
+      "engagement": 1,
+      "freins_participation": [
+        "les exigences techniques sur les sols et l'eau me dépassent",
+        "je crains des contrôles et des obligations en plus pour les paysans",
+        "je ne suis pas concerné au quotidien"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte au public, où je vois la vie sur les champs sans discours."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 8,
+    "role": "relai",
+    "cercle_type": "Voisinage immédiat du centre du village, anciens collègues de travail, membres d'une société locale, et contacts réguliers avec des éleveurs par les achats de fromage. Influence informelle, jamais dans un engagement politique organisé."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je suis pour protéger le paysage, mais une limite de 20 % par commune me paraît rigide et touche à la propriété privée ; je pencherais plutôt pour le non, sans certitude."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Limiter l'étalement et garder les terres agricoles, c'est du bon sens : je voterais oui, même si mon village continue de grandir."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "L'idée d'une économie plus économe en ressources me plaît, mais des objectifs écologiques imposés par l'État me paraissent trop dirigistes pour l'économie."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je veux réduire le nucléaire à terme, mais fixer une sortie après 45 ans, sans alternatives chiffrées ni financement, me paraît trop brutal."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Une transition énergétique avec des incitations et des économies d'énergie, sans interdictions brutales, me convient : je voterais oui."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Le principe d'aliments produits dans de bonnes conditions me plaît, mais obliger les importations à suivre nos normes par des règles de l'État est lourd pour le commerce."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'attachement des paysans à la production indigène, mais les droits de douane et les prix garantis vont contre ma conviction du libre marché."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.7,
+      "oui_proba": 0.45,
+      "raison": "L'eau propre m'importe, mais réserver les paiements directs aux fermes sans pesticides ni antibiotiques préventifs me paraît trop directif pour les petites exploitations."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je suis pour réduire les pesticides, mais une interdiction totale de synthèse en dix ans touche la production et la concurrence ; je préfère des incitations ciblées."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Une taxe CO2 qui incite plutôt qu'elle n'interdit me convient, mais la taxe sur les billets d'avion et les carburants pèse sur ceux qui vivent loin des transports publics : c'est un oui hésitant."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être animal me tient à cœur, mais nos vaches sont déjà bien traitées ici, et imposer les normes Bio Suisse aux importations est une fausse bonne idée."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Zéro émission nette d'ici 2050 me paraît raisonnable, et les aides pour changer un vieux chauffage au mazout sont utiles ; je ne veux pas d'interdictions."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "La nature me tient à cœur, mais inscrire dans la Constitution plus de surfaces protégées et de fonds fédéraux, sans demander l'avis des agriculteurs, me paraît trop rigide."
+    }
+  ]
+}

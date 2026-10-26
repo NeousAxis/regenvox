@@ -1,0 +1,17 @@
+{
+  "id": "p30",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Le projet concerne surtout les habitant·e·s de Cointrin, alors que j'habite un quartier de villas plus loin, et un atelier un samedi après-midi avec goûter ne m'aurait pas attirée même si j'en avais entendu parler."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Les Assises de la culture m'intéressent de loin, mais je ne fréquente ni les associations ni les événements de la commune, et si j'ai rempli un questionnaire en ligne ce serait par hasard, tandis que j'en parlerais peut-être à une amie qui va au théâtre."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p20",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je ne fréquente pas l'Auberge de Sauvabelin et un sondage sur ces établissements ne m'aurait sans doute pas atteint, donc je n'en aurais pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Le budget participatif pilote était peu annoncé et je n'ai pas eu le réflexe de voter, mais le sujet pourrait revenir dans une discussion avec des militants de POP."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Pendant la pandémie, entre les chantiers et un vote en ligne ou dans des urnes que je ne croise pas au quotidien, je n'ai pas vu d'appel assez concret pour m'y mettre."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "Le plan d'affectation touche directement mon métier, donc j'ai pu répondre au sondage en ligne de cinq minutes, mais les soirées et les balades m'auraient pris du temps de chantier."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin affranchi arrive directement dans la boîte aux lettres, ce qui aide, mais entre mes chantiers et ma famille je le laisse souvent de côté, et j'en parle surtout quand un projet touche mon quartier."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Je passe rarement aux quais d'Ouchy ou de Belgique, même si la fermeture complique parfois le passage de mon camion, et un questionnaire en ligne d'un mois ne m'aurait probablement pas atteint."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le vote simple, mais la plateforme de dépôt de projets ne m'a pas attiré et je ne vote que si un projet de mon quartier me parle vraiment."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.12,
+      "raison": "Le sujet me touche et j'en discuterais volontiers avec des proches, mais une consultation sans relance ni objectif précis a peu de chances de me parvenir entre deux chantiers."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.16,
+      "partage_proba": 0.25,
+      "raison": "Le bulletin nominatif arrive à chaque membre de mon foyer, enfants compris, ce qui me rend plus susceptible de voter en famille, mais mon emploi du temps reste chargé et le vote n'est qu'une démarche parmi d'autres."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.13,
+      "partage_proba": 0.22,
+      "raison": "Le bulletin à domicile et le vote en ligne rendent la participation facile et je connais le dispositif, mais je ne vote pas à chaque édition et je n'ai pas suivi les projets en détail."
+    }
+  ]
+}

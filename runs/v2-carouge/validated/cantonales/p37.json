@@ -1,0 +1,29 @@
+{
+  "id": "p37",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Le MCG dit non et je ne vois pas pourquoi les contribuables paieraient la pilule et les préservatifs de tout le monde pour 20 millions par an, je ne suis pas directement concerné donc je ne me mobilise pas."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je ne veux pas que l'argent genevois finance des projets en France, le MCG est contre et les Genevois ont déjà refusé ce genre de financement en 2014, même si des bus et un tram pourraient désengorger la frontière."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Pouvoir acheter son logement à son locataire après trois ans d'occupation me semble juste et le MCG soutient ce projet, je pense à mon avenir de propriétaire même si je crains un peu les congés-ventes pour les autres locataires."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Le MCG est contre cette indemnité et je trouve normal que l'État fasse des économies sur la HES même si la baisse reste modeste, je ne suis pas sûr de voter mais si je vote ce sera plutôt non."
+    }
+  ]
+}

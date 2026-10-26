@@ -1,0 +1,29 @@
+{
+  "id": "p64",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je comprends que certaines femmes n'ont pas les moyens de payer leur contraception, mais 20 millions par an sans limite de revenu me paraissent trop, et le MCG est contre."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je n'ai pas envie que 39,5 millions partent pour des projets en France alors que nos quartiers manquent de moyens et que le peuple a déjà refusé ce type de financement en 2014, et le MCG est contre."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.65,
+      "raison": "Pouvoir acheter l'appartement qu'on loue depuis trois ans, avec un prix plafonné et l'obligation d'y habiter, me paraît juste pour les familles, et le MCG soutient le oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Deux millions de moins par an pour la HES me semble raisonnable dans un canton qui doit surveiller ses dépenses, même si je comprends que les étudiants en pâtissent, et le MCG est contre."
+    }
+  ]
+}

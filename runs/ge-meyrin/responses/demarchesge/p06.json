@@ -1,0 +1,17 @@
+{
+  "id": "p06",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je vis dans la cité de Meyrin, je ne reçois pas les flyers de Cointrin, et un samedi après-midi en famille avec les enfants je ne me vois pas aller à une concertation sur un quartier où je n'habite pas, donc je n'en parle guère."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "La culture de la ville m'intéresse et je suis proche du PS, donc un questionnaire en ligne court aurait pu me tenter, mais entre le travail et les enfants je n'ai pas suivi ces consultations municipales et j'en parle seulement à l'occasion."
+    }
+  ]
+}

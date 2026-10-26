@@ -1,0 +1,111 @@
+{
+  "id": "p47",
+  "portrait": "J'ai 44 ans, je travaille dans la vente et mes horaires tournent souvent le soir et le samedi, ce qui laisse peu de place aux réunions en semaine. Je vis en couple, sans enfant, au centre du village, et je suis proche du PLR : je tiens à la liberté d'entreprendre et je me méfie des obligations décidées de loin. J'aime manger local, mais je ne veux pas que les paysans deviennent les coupables de tous nos maux.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Si le paysan ne vit pas de son travail, il n'y aura plus de paysans et le bio restera une belle idée de bureau. Qu'il gagne sa vie d'abord, après on verra.",
+      "engagement": 2,
+      "freins_participation": [
+        "Mes horaires de vente ne me laissent pas le temps des ateliers en semaine",
+        "Je ne connais pas assez le métier agricole pour donner un avis utile",
+        "Je crains une réunion où l'on a déjà décidé à ma place"
+      ],
+      "ce_qui_me_ferait_venir": "Entendre directement des agriculteurs de la commune parler de leurs chiffres, un soir ou un samedi, sans discours militant."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "J'achète local quand je peux, mais je ne vais pas payer deux fois plus cher chaque semaine pour faire plaisir à un label.",
+      "engagement": 1,
+      "freins_participation": [
+        "Le prix : mon budget courses est serré",
+        "Je ne sais pas où acheter directement chez les fermes du village",
+        "Je n'ai pas le temps de m'engager dans une démarche suivie"
+      ],
+      "ce_qui_me_ferait_venir": "Une vente directe au village à un prix raisonnable, et un moment de découverte à la fromagerie ou sur un marché."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Bien sûr que je veux une belle terre pour mes neveux, mais ce genre de question ne se résout pas avec une phrase sur une affiche.",
+      "engagement": 1,
+      "freins_participation": [
+        "Une question trop large, je ne sais pas quoi y répondre concrètement",
+        "Pas d'atelier sur place compatible avec mon travail"
+      ],
+      "ce_qui_me_ferait_venir": "Des questions concrètes sur ce qui change pour mon quotidien, mon budget et les commerces du village."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Reconnaître les fermes, pourquoi pas, mais une étiquette qui fait monter les prix ne m'intéresse pas.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis pas agricultrice et je ne me sens pas directement concernée",
+        "Je n'ai pas de temps pour les démarches participatives"
+      ],
+      "ce_qui_me_ferait_venir": "Une démarche simple en ligne, avec un résultat visible au village (affichage, marché, fête communale), sans contrainte pour les commerçants."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues et clientèle régulière du lieu où je travaille, voisins et amis du village, famille élargie dans le district de la Gruyère"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Une alimentation saine et équitable me parle, mais une obligation qui renchérit les produits et ajoute des contrôles sur les importations me paraît excessive."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Des droits de douane plus élevés feraient monter les prix pour les familles, et je ne soutiens pas une protection du marché aussi large."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "J'ai envie d'une eau propre, mais lier les paiements directs à des règles aussi strictes sur les antibiotiques et le fourrage me paraît trop rigide pour les fermes."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Réduire les pesticides est souhaitable, mais une interdiction totale avec contrôle des importations me semble trop brutale pour les producteurs et pour les prix."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Le climat me préoccupe, mais je suis réticente aux taxes sur les billets d'avion et sur le chauffage, qui pèsent sur mon budget et sur mes déplacements."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être animal me tient à cœur, mais imposer les règles Bio Suisse aux importations et une transition pouvant aller jusqu'à vingt-cinq ans me paraît difficile à appliquer pour les éleveurs de la région."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je soutiens l'objectif zéro émission nette, mais je me méfie des subventions et des interdictions qui coûtent cher aux ménages et aux entreprises."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La nature mérite d'être protégée, mais des surfaces imposées et les moyens financiers qui vont avec me semblent trop contraignants pour les agriculteurs et pour la construction."
+    }
+  ]
+}

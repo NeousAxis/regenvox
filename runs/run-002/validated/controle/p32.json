@@ -1,0 +1,16 @@
+{
+  "id": "p32",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le bio, pourquoi pas, mais ce sont les paysans qui vont devoir faire les travaux et porter le risque, et si on ne leur garantit pas de quoi vivre, ils vont arrêter bien avant d'arriver à la moitié.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je ne suis pas agriculteur et je n'ai pas de terres, donc je ne vois pas concrètement ce que je pourrais faire",
+      "Ce genre d'objectif à dix ans se décide souvent sans beaucoup demander l'avis des gens du village",
+      "Le bio coûte plus cher, et avec deux enfants à la maison le budget des courses compte",
+      "Je me méfie des objectifs chiffrés à long terme qui changent avec les majorités et les subventions"
+    ],
+    "ce_qui_me_ferait_venir": "Un projet concret porté avec les paysans de la commune, une explication claire de qui paie la conversion et combien, et la garantie que les fermes qui se lancent ne se retrouvent pas en difficulté. Si la fromagerie ou les producteurs du village organisaient une vente directe ou une soirée d'information ouverte à tous, je passerais peut-être voir, mais je n'irai pas à une réunion qui ne parle que de règlements."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p19",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Une contraception remboursée pour toutes et tous, sans condition de revenu ni d'âge, relève de l'égalité et de la santé publique : je ne suis plus directement concernée, mais c'est une cause que je soutiens et que Les Vert-e-s défendent."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.8,
+      "oui_proba": 0.8,
+      "raison": "Moins de voitures qui franchissent la frontière chaque jour et des bus plus rapides profitent à l'air et à la qualité de vie à Onex ; je reste sceptique sur l'argent suisse investi en France, mais le projet me paraît utile et Les Vert-e-s le soutiennent."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "Dans les grands ensembles d'Onex, beaucoup de familles sont locataires et je crains que la vente à l'occupant ne serve de porte d'entrée aux congés-ventes, ce qui viderait peu à peu les immeubles de leurs habitants modestes : je vote non, comme Les Vert-e-s, le PS et l'ASLOCA."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "J'ai du respect pour la formation, mais les taxes d'études ont déjà augmenté pour les étudiants modestes et une coupe de 2 millions me paraît mal venue, donc je suivrais plutôt Les Vert-e-s, qui demandent de maintenir 35 millions, et je voterais probablement non."
+    }
+  ]
+}

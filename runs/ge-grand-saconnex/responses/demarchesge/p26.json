@@ -1,0 +1,17 @@
+{
+  "id": "p26",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Le questionnaire porte sur un quartier que je ne fréquente pas, et 28 questions en mai demandent un temps que mes journées de travail ne me laissent guère."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai probablement pas vu passer ce sondage et les Marronniers ne sont pas mon quartier, donc je n'avais aucune raison de m'y arrêter."
+    }
+  ]
+}

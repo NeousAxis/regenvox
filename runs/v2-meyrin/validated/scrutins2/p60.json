@@ -1,0 +1,197 @@
+{
+  "id": "p60",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais que 10 ans à cette date, donc je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Attachée à l'armée de milice comme l'UDC, je serais plutôt contre l'abrogation, mais à 19 ans et peu concernée en tant que femme, je ne suis pas sûre d'aller voter."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.65,
+      "raison": "Proche de l'UDC et inquiète de la densité dans ma commune, je veux que la Suisse reprenne la main, mais je vois au quotidien l'importance du personnel frontalier dans la santé, ce qui me retient."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "L'UDC et le PLR soutiennent le Gripen, et je trouve normal que l'armée soit correctement équipée, même si le coût me fait hésiter."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "En couple avec des enfants, je trouve injuste que le mariage soit pénalisé fiscalement et socialement, comme le demandent l'UDC et le PDC."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Proche de l'UDC, je me méfie de la hausse de la TVA et du relèvement de l'âge des femmes, mais mon travail dans le social me rend sensible à la solidité de l'AVS."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Le bien-être des animaux me touche, mais je suis proche de l'UDC qui juge la subvention coûteuse pour les paysans, donc je suis partagée."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je tiens à la souveraineté suisse et je pense que la Constitution doit primer sur les juges étrangers, comme le défend l'UDC."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Proche de l'UDC, je n'aime pas reprendre automatiquement le droit européen sur les armes, mais le sujet me touche peu et je n'ai pas vraiment tranché."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.65,
+      "raison": "Je pense que la Suisse doit reprendre la main sur l'immigration, comme le dit l'UDC, même si la libre circulation fait tourner les hôpitaux et les écoles."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je ne suis pas directement concernée à Meyrin, mais l'UDC défend la régulation du loup avant les dégâts aux troupeaux et je la suis sur ce point."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Je pense que l'armée doit être équipée sérieusement, comme le soutiennent l'UDC et le PLR, même si le montant de six milliards est élevé."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Proche de l'UDC, je vois mal la Banque nationale ou les caisses de pension se priver de financements sur ce seul critère, donc je serais plutôt contre."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Comme professionnelle de la santé, la qualité de l'eau et l'usage des antibiotiques me préoccupent, mais je crains une contrainte excessive pour les agriculteurs proches de chez moi, donc je suis partagée."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la santé et à l'eau, mais une interdiction totale des pesticides en dix ans me paraît trop brutale pour nos agriculteurs, comme le défend l'UDC."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Proche de l'UDC sur d'autres sujets, je suis plutôt ouverte à l'égalité des couples, car j'ai côtoyé des familles homoparentales au travail."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.1,
+      "raison": "Je travaille dans la santé et je sais que la recherche sur l'humain et l'animal reste indispensable, donc je voterais non comme la quasi-totalité des partis."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "Une frontière extérieure mieux contrôlée me paraît logique, comme le défend l'UDC, même si je me méfie des accords avec l'UE."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "L'élevage intensif me dérange, mais une exigence Bio sur les importations et une transition sur vingt-cinq ans me paraissent trop contraignantes pour nos paysans, comme le dit l'UDC."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "L'UDC soutient ce financement et je comprends la nécessité de consolider l'AVS, mais le relèvement de l'âge de la retraite des femmes me laisse hésitante."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "J'aime la nature autour de chez nous, mais l'UDC juge l'initiative trop coûteuse et contraignante pour les propriétaires et les agriculteurs, et je partage en partie ce point de vue."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Avec des enfants, je trouve que l'imposition commune protège mieux la famille, comme le défend l'UDC, donc je suis plutôt contre l'imposition individuelle."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "La croissance de la population pèse sur les écoles, les transports et le logement à Meyrin, donc je soutiens la limite à 10 millions comme le défend l'UDC."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "L'UDC veut limiter les sorties de l'armée, mais comme professionnelle du social et de la santé, je vois l'importance du service civil pour les établissements, donc je suis hésitante."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Je suis attachée à la neutralité et à l'indépendance de la Suisse, comme le défend l'UDC, même si je crains un isolement en cas de crise."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à une alimentation saine et locale, mais l'objectif de 70 % de production suisse et moins de produits animaux me paraît irréaliste, donc je serais plutôt non, comme l'UDC."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Financer la 13e rente est une promesse à tenir et je suis sensible au social, mais une hausse de la TVA pèse sur les familles, donc je reste partagée."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Les pétards bruyants gênent mes enfants et les animaux du quartier, donc je serais plutôt pour, même si je tiens aux feux du 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "Je trouve juste que les couples mariés ne soient pas désavantagés fiscalement, surtout avec des enfants, donc je serais plutôt pour, même si l'UDC n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Je trouve normal que la Suisse puisse livrer à des partenaires en tenant compte de sa neutralité, mais l'idée d'exporter vers des pays en conflit me gêne, donc je suis partagée."
+    }
+  ]
+}

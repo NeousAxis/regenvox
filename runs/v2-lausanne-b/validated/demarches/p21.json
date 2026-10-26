@@ -1,0 +1,65 @@
+{
+  "id": "p21",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "À 22 ans, je ne voyais pas l'intérêt de répondre à un sondage sur les établissements du lac de Sauvabelin, et un samedi après-midi de novembre était pris par le travail sur l'exploitation familiale."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.015,
+      "partage_proba": 0.04,
+      "raison": "Le premier budget participatif m'a échappé, et la période de vote d'août à octobre coïncide avec les vendanges, donc je n'ai probablement pas voté."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "En 2020 la priorité était la récolte et la situation sanitaire à la maison, et un vote sur un site que je ne suivais pas ne me semblait pas concerner mon quotidien."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Un sondage en ligne de cinq minutes sur le plan d'affectation pourrait m'intéresser parce que le foncier et la forêt comptent pour ma famille, mais je ne suivais pas ce genre de démarche et les séances tombaient en semaine."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.06,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin déposé dans chaque boîte aux lettres m'a probablement rappelé le budget participatif, mais entre les vendanges et le reste, je ne pense pas avoir pris le temps de voter en 2021."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "La fermeture des quais d'Ouchy ne me concerne pas au quotidien, et un questionnaire en ligne sans lien avec mon activité ne m'aurait probablement pas retenu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin préaffranchi reçu à domicile me donnait une chance de voter, mais la période de vote tombait à la fin de la saison de travail et je ne connaissais pas bien les projets du quartier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Une consultation sur le racisme, sur une plateforme que je ne consulte pas, n'a pas été un réflexe pour moi, et je n'en ai probablement jamais entendu parler dans mon entourage."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif envoyé à chaque personne de la famille m'a donné une vraie occasion de voter en 2023 et nous en avons peut-être parlé à la maison, mais la plupart des bulletins ne reviennent jamais et j'ai probablement laissé passer."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "En 2025 j'ai 30 ans, le bulletin préaffranchi est arrivé à la maison et mes enfants sont peut-être concernés à partir de 4 ans, donc j'ai une chance de voter ou au moins d'en parler, mais la période d'août à septembre reste chargée à la ferme."
+    }
+  ]
+}

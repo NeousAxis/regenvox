@@ -1,0 +1,29 @@
+{
+  "id": "p49",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Je comprends l'argument de santé publique, mais payer la contraception de tout le monde pour 20 millions par an, sans condition de revenu, c'est trop pour l'État, et mon parti est contre."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Les projets de mobilité et de santé à la frontière désengorgent Carouge et mon parti y est favorable, même si je reste méfiant depuis le refus de 2014 sur le financement d'infrastructures en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Un locataire qui habite son logement depuis trois ans doit pouvoir l'acheter à un prix plafonné, c'est une question de propriété, à condition que les autres locataires de l'immeuble ne soient pas poussés dehors."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Une formation supérieure de qualité mérite son financement, et deux millions de moins par an restent raisonnables pour l'État, donc je soutiendrai le contrat avec la HES-SO comme le PLR et les Vert'libéraux."
+    }
+  ]
+}

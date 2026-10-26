@@ -1,0 +1,197 @@
+{
+  "id": "p44",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je suis proche du PLR, qui dit non à la hausse de la TVA, et je n'aime pas taxer tout le monde pour une réforme qui ne me concerne pas encore."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Le financement temporaire de l'AI me paraît juste et limité dans le temps, et le PLR le soutient, donc je vote probablement oui."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Interdire l'exportation de matériel de guerre mettrait des emplois en danger, et le PLR s'y oppose, donc je dirais non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le service militaire fait partie de notre tradition et mes enfants l'ont accompli, donc je suis contre sa suppression, même si je comprends certaines critiques."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "Je vis dans un bourg où un quart des habitants sont étrangers et notre économie a besoin de la libre circulation défendue par le PLR, donc je dis non aux quotas."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "La défense du pays est une responsabilité, le PLR soutient ce financement et je fais confiance au Conseil fédéral pour le choix de l'avion, donc je dis oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je trouve que les couples mariés sont parfois pénalisés, mais le PLR dit non et je n'aime pas graver une définition du mariage dans la Constitution."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "L'AVS doit être sauvée, mais la hausse de la TVA pèse sur tous les ménages et le PLR dit non à ce paquet, donc je pencherai pour le non."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je comprends le respect dû aux animaux, mais une aide fédérale pour garder les cornes ne me paraît pas prioritaire et le PLR dit non, donc je voterai plutôt non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Je suis attachée aux accords avec l'Union européenne, que le PLR défend, et je ne veux pas qu'on renégocie ou dénonce nos traités, donc je dis non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Reprendre la directive européenne sur les armes fait partie de Schengen, qui nous facilite la vie et la sécurité, et le PLR le soutient, donc je vote oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Je vois les inquiétudes liées à la population, mais dénoncer la libre circulation mettrait en danger nos accords et notre économie, donc je vote non comme le PLR."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Autour d'Echallens les éleveurs souffrent des attaques de loups, et le PLR soutient cette loi, donc je vote probablement oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.65,
+      "oui_proba": 0.55,
+      "raison": "Notre armée a besoin de nouveaux avions et le PLR soutient, mais 6 milliards font réfléchir, donc je voterai oui sans enthousiasme."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Interdire aux banques et aux caisses de pension de financer l'armement me paraît excessif, et le PLR dit non, donc je vote non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "L'eau potable doit être propre, mais réserver les paiements directs aux exploitations sans pesticides ni antibiotiques va trop loin pour nos agriculteurs, et le PLR dit non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la santé et à la qualité de l'eau, mais interdire en dix ans tous les pesticides de synthèse et leurs importations est irréaliste, donc je dis non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Le mariage ouvert à tous les couples me paraît tout à fait normal et le PLR le soutient, donc je vote oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.15,
+      "raison": "Je comprends l'émotion des défenseurs des animaux, mais interdire toute recherche sur l'animal et l'humain mettrait notre santé en danger, donc non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Nous faisons partie de Schengen et la sécurité des frontières nous concerne tous, le PLR soutient cette participation, donc je dis oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être des animaux, mais ce texte imposerait des règles lourdes à nos paysans et aux importations, et le PLR dit non, donc je voterai plutôt non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "La réforme AVS 21 touche ma génération et ce financement me paraît nécessaire, le PLR soutient, donc je vote oui même si la TVA me déplaît."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "J'aime la nature qui entoure le bourg, mais le texte impose trop de contraintes aux agriculteurs et aux propriétaires, et le PLR dit non, donc je voterai plutôt non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "L'imposition individuelle est plus juste pour les personnes qui travaillent et le PLR la soutient, donc je vote oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "La croissance de la population pose des questions, mais la libre circulation est essentielle à notre économie et le PLR dit non, donc je vote non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je trouve normal que ceux qui ont été incorporés remplissent leurs obligations, le PLR soutient ce durcissement, donc je vote oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je tiens à la neutralité suisse, mais une neutralité armée perpétuelle et l'interdiction de sanctions nous couperaient de nos partenaires, et le PLR dit non, donc je vote non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Produire davantage ici est une bonne idée, mais 70 % des aliments en dix ans est irréaliste pour nos agriculteurs et le PLR dit non, donc je vote non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.5,
+      "raison": "Je touche la 13e rente, donc je suis personnellement intéressée à son financement, mais la TVA pèse sur tout le monde et le PLR dit non, je suis donc partagée."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Les pétards me gênent beaucoup, surtout pour les animaux, mais le PLR dit non et les feux du 1er août resteraient possibles, donc je pencherai pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Le peuple a accepté l'imposition individuelle en mars, je ne veux pas revenir dessus, et le PLR dit non, donc je vote non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "La neutralité doit rester crédible, mais le PLR et Le Centre soutiennent ce texte encadré par le Conseil fédéral, donc je voterai plutôt oui."
+    }
+  ]
+}

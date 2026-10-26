@@ -1,0 +1,65 @@
+{
+  "id": "p29",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Sauvabelin est un lieu que je fréquente peu, et un sondage sur l'avenir d'une buvette ne me concerne pas assez pour que je prenne le temps d'y répondre."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le budget participatif pilote m'intéresse sur le principe, mais en 2019 je travaillais beaucoup et je n'ai pas vraiment vu la campagne de vote, alors que j'en aurais parlé à des collègues engagés dans leur quartier."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Pendant la pandémie, entre mon travail dans le social et la santé et la fatigue générale, je me suis sans doute dit que je voterais, mais sans m'y mettre vraiment ; un projet de quartier m'aurait davantage motivée qu'une enveloppe générale."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.2,
+      "partage_proba": 0.18,
+      "raison": "Ce sondage de cinq minutes porte directement sur mon cadre de vie d'immeubles, je l'aurais probablement rempli, mais les soirées et les balades, en pleine crise sanitaire et avec mon rythme de travail, ne m'auraient pas attirée ; j'en aurais parlé à mon entourage."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.2,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin affranchi envoyé à chaque foyer rend le vote très simple, et le thème des projets de quartier me parle, donc je l'ai probablement rempli ; en revanche je ne m'engage pas dans les associations qui accompagnent les porteurs de projets."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Le sondage sur la fermeture des quais porte sur une mesure qui change peu mon quotidien, je n'habite pas au bord du lac et je ne me souviens pas avoir vu l'annonce, donc j'en parlerais peu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.18,
+      "partage_proba": 0.14,
+      "raison": "Le principe de choisir les projets de son quartier me plaît et le bulletin à domicile est facile à renvoyer, mais je vote de façon irrégulière et les jeunes ambassadeurs de la campagne ne m'ont pas touchée."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.15,
+      "partage_proba": 0.15,
+      "raison": "La lutte contre le racisme me touche, surtout au contact des familles dans mon métier, donc je réponds au questionnaire si je le vois, mais la démarche est peu visible et je n'en ai peut-être jamais entendu parler."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif envoyé à la maison et le vote en ligne rendent la participation facile, mais je n'ai pas de projet à défendre et le choix d'au moins trois projets me semble fastidieux en 2023."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Une édition 2025 peu relayée dans mon entourage, avec des projets de convivialité ou de sport de proximité qui me concernent peu, me fait penser que je n'ai probablement pas voté, mais je pourrais en parler si une amie s'y intéressait."
+    }
+  ]
+}

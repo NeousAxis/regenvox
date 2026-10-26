@@ -1,0 +1,29 @@
+{
+  "id": "p62",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Je ne vois pas pourquoi la collectivité paierait la pilule de tout le monde avec mes impôts alors que je n'en ai plus besoin depuis longtemps, 20 millions par an c'est trop pour un canton déjà très endetté, et le MCG est contre."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.1,
+      "raison": "Payer des bus et des trams en France avec l'argent genevois alors qu'on manque de places chez nous, c'est non, et le peuple a déjà refusé ce genre de financement en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.68,
+      "raison": "Un locataire qui habite là depuis trois ans doit pouvoir acheter son appartement sans que les autres soient mis dehors, c'est du bon sens pour les familles, et le MCG soutient ce texte même si je me méfie des congés-ventes."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas convaincu que la HES doive recevoir encore de l'argent public et le MCG est contre ce contrat, même si la baisse de 2 millions par an va dans le bon sens."
+    }
+  ]
+}

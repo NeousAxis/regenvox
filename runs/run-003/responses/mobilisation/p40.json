@@ -1,0 +1,39 @@
+{
+  "id": "p40",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une rencontre le samedi matin plutôt que le soir, avec une personne de confiance à mes côtés, et des chiffres simples sur ce que gagnent les fermes de la commune, présentés au début, pour que je ne me sente pas hors sujet."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une formule test simple, sans abonnement long, avec un panier de légumes à prix raisonnable pour une personne seule, et une ferme située sur mon trajet ou livrant dans mon quartier."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.14,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.09,
+      "ce_qui_doublerait_ma_venue": "Une action concrète à ma portée, comme soutenir un verger ou un projet de haies, et la certitude que les idées du groupe seront reprises par la commune et ne resteront pas dans un tiroir."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une visite de ferme concrète, avec des exemples précis de ce que les exploitants font pour le sol, l'eau et les oiseaux, plutôt qu'une plaque ou un label."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes que je peux remplir chez moi, sans soirée de réunion à affronter et sans avoir à me sentir légitime devant une salle. Le parcours à distance me demanderait de revenir trois fois, et l'atelier du soir me découragerait. Je n'ouvrirais le lien que si le courrier de la commune me donne envie de cliquer."
+}

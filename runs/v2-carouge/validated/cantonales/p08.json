@@ -1,0 +1,29 @@
+{
+  "id": "p08",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.75,
+      "oui_proba": 0.92,
+      "raison": "Entre la pilule et les stérilets, ça pèse vite sur un budget de famille comme le mien, et c'est une question de santé et d'égalité, donc je vote oui avec Les Vert-e-s et le PS."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Des bus à haut niveau de service et un tram prolongé, c'est moins de voitures qui traversent la frontière chaque jour, donc je vote oui comme Les Vert-e-s, même si je me méfie un peu de financer des projets en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.18,
+      "raison": "Le risque de congés-ventes et la perte de logements abordables à Carouge me font voter non, comme Les Vert-e-s et l'ASLOCA, même si l'accès à la propriété peut tenter certains locataires."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.22,
+      "raison": "La formation ne doit pas devenir la variable d'ajustement alors que les taxes d'études ont déjà augmenté, donc je suis le non des Vert-e-s et du PS."
+    }
+  ]
+}

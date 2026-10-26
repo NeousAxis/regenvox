@@ -1,0 +1,39 @@
+{
+  "id": "p42",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un prix garanti pour le lait bio pendant la conversion, avec un acheteur déjà identifié, et une séance en semaine après la traite, pas un samedi en plein foin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Un débouché concret pour mon lait ou mes veaux dans la commune, par exemple un commerce ou une coopérative du village qui achète local et s'engage à reprendre la production."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.14,
+      "ce_qui_doublerait_ma_venue": "Des mesures concrètes sur le foncier et les bâtiments pour les jeunes qui reprennent, annoncées à la fin de la démarche avec un calendrier, et pas seulement des discussions."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Que des représentants de la commune viennent voir nos prairies et nos pratiques sur place, plutôt que de parler de nos sols depuis la salle communale."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul qui ne me prend pas une demi-journée : dix minutes le soir après la traite, sans me déplacer, et je peux le faire d'un coup. Je ne m'engage pas plus loin tant que je ne vois pas ce qui en sortira."
+}

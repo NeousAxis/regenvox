@@ -1,0 +1,65 @@
+{
+  "id": "p34",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je passe parfois à Sauvabelin, mais l'annonce ne m'est pas parvenue et je ne réponds pas spontanément aux consultations de la Ville."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "Le budget participatif était tout nouveau en 2019 et je ne l'ai pas vraiment suivi, je n'ai probablement pas voté, même si j'en ai peut-être entendu parler dans le quartier."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Pendant la pandémie je sortais peu, le vote se faisait en ligne ou dans des urnes et je ne m'y suis probablement pas intéressé."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "Un sondage de cinq minutes sur l'avenir de mon quartier me concerne directement, je l'ai peut-être rempli, mais je n'en ai pas beaucoup parlé autour de moi."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.13,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin affranchi arrive dans ma boîte aux lettres, ce qui rend le vote plus facile, mais le budget participatif reste un sujet que je suis de loin."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je ne fréquente pas beaucoup les quais d'Ouchy, le questionnaire était peu annoncé et je ne l'ai probablement pas rempli."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin arrive à domicile et je vote parfois pour des projets de quartier, mais je ne le fais pas à chaque édition."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Le thème me touche moins directement, la consultation était peu relayée et je n'ai probablement pas pris le temps de répondre."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin nominatif m'est envoyé et le renvoi est gratuit, ce qui facilite le geste, mais je ne vote pas à chaque édition."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.13,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin arrive à domicile et les projets de quartier m'intéressent, mais l'habitude de voter à ces consultations reste faible."
+    }
+  ]
+}

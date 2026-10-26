@@ -1,0 +1,65 @@
+{
+  "id": "p50",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Je ne vais presque jamais à Sauvabelin et je n'ai pas souvenir d'un sondage sur le lac, donc je ne l'aurais probablement pas rempli."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Premier budget participatif, je n'ai pas le temps de m'occuper de projets de quartier et le vote m'a échappé, mais si une voisine m'en avait parlé j'aurais peut-être voté."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Pendant le Covid je sortais moins et l'annonce du vote en ligne m'est passée au-dessus, et je n'en parle pas beaucoup à mes collègues."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Un sondage de cinq minutes sur mon quartier aurait pu m'intéresser, mais je n'ai pas le réflexe de répondre aux sondages de la Ville et je ne l'ai pas vu passer."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin préaffranchi dans la boîte aux lettres m'aurait peut-être fait voter, mais ce genre de courrier finit souvent sur la table de la cuisine, et j'en aurais parlé à une collègue au mieux."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je ne fréquente guère les quais d'Ouchy et je n'ai pas vu l'annonce, un questionnaire de quinze questions sur la circulation ne m'aurait pas tentée."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.13,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin revient chaque automne dans la boîte aux lettres et je le remplis parfois quand un projet du quartier me parle, mais je n'en parle pas beaucoup autour de moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.09,
+      "partage_proba": 0.1,
+      "raison": "Étant moi-même étrangère en Suisse, le sujet me touche donc j'aurais pu répondre, mais la démarche ne m'a jamais été transmise et je n'en parle pas volontiers."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin nominatif est arrivé à tout le monde, y compris aux étrangers, et j'aurais pu voter, mais entre le travail et la famille il finit souvent à la pile des papiers à traiter plus tard."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Je ne suis pas très au courant des projets d'aujourd'hui et ce vote ne m'a pas accrochée, je ne vote que lorsqu'un projet touche directement mon quartier."
+    }
+  ]
+}

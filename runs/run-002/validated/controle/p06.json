@@ -1,0 +1,17 @@
+{
+  "id": "p06",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Je ne suis pas agricultrice, alors je ne vois pas trop ce que je pourrais changer à ça. J'essaie déjà d'acheter local quand c'est possible, mais le bio, avec trois enfants et un budget serré, ce n'est pas toujours possible.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je n'ai ni terres ni activité agricole, donc je ne vois pas concrètement ce que je pourrais faire",
+      "Mon temps est pris entre mon travail et la famille, je ne suis pas disponible pour des ateliers en semaine",
+      "Le bio coûte plus cher, et je ne veux pas que ce soit aux familles comme la mienne de payer la transition",
+      "Un objectif fixé pour les terres agricoles me semble d'abord concerner les agriculteurs, qui n'ont peut-être pas été assez consultés",
+      "Je ne connais pas assez les enjeux de l'agriculture bio pour donner un avis utile"
+    ],
+    "ce_qui_me_ferait_venir": "Des informations simples et concrètes : ce que la transition change pour les fermes du village, ce qu'elle coûte et qui la finance, et des occasions compatibles avec ma vie de famille, comme un marché de producteurs bio au village ou des produits bio à la cantine de l'école à un prix accessible."
+  }
+}

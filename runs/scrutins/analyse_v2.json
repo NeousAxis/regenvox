@@ -1,0 +1,1043 @@
+{
+  "runs": [
+    "v2-vuadens",
+    "v2-echallens",
+    "v2-saviese",
+    "v2-le-locle",
+    "v2-meyrin",
+    "v2-delemont"
+  ],
+  "k_retenu": 1,
+  "selection_k": [
+    {
+      "k": 0,
+      "ecart_moyen": 10.2,
+      "rmse": 13.4,
+      "n": 162
+    },
+    {
+      "k": 0.5,
+      "ecart_moyen": 10,
+      "rmse": 13,
+      "n": 162
+    },
+    {
+      "k": 1,
+      "ecart_moyen": 9.9,
+      "rmse": 12.9,
+      "n": 162
+    },
+    {
+      "k": 2,
+      "ecart_moyen": 9.9,
+      "rmse": 12.8,
+      "n": 162
+    },
+    {
+      "k": 4,
+      "ecart_moyen": 10.1,
+      "rmse": 12.9,
+      "n": 162
+    },
+    {
+      "k": 8,
+      "ecart_moyen": 10.3,
+      "rmse": 13.2,
+      "n": 162
+    },
+    {
+      "k": "infini",
+      "ecart_moyen": 10.8,
+      "rmse": 13.9,
+      "n": 162
+    }
+  ],
+  "rmse_methode": 12.9,
+  "validation_participation": {
+    "n": 120,
+    "ecart_moyen_quantiles": 7.9,
+    "ecart_moyen_mediane": 7.8
+  },
+  "hors_echantillon": {
+    "tous": {
+      "n": 12,
+      "ecart_moyen": 7.1,
+      "ecart_moyen_brut": 6.9,
+      "ecart_moyen_canton": 3.6,
+      "ecart_moyen_participation": 16.8,
+      "ecart_moyen_participation_reference": 6.9
+    },
+    "neutralite": {
+      "n": 6,
+      "ecart_moyen": 7.2,
+      "ecart_moyen_brut": 8.7,
+      "ecart_moyen_canton": 3.8,
+      "ecart_moyen_participation": 16.8,
+      "ecart_moyen_participation_reference": 6.9
+    },
+    "alimentation": {
+      "n": 6,
+      "ecart_moyen": 7.1,
+      "ecart_moyen_brut": 5.1,
+      "ecart_moyen_canton": 3.3,
+      "ecart_moyen_participation": 16.8,
+      "ecart_moyen_participation_reference": 6.9
+    }
+  },
+  "communes": [
+    {
+      "run": "v2-vuadens",
+      "cas": "vuadens-bio",
+      "commune": "Vuadens",
+      "electeurs": 38,
+      "participation_reference_pct": 47.9,
+      "cibles": [
+        {
+          "vote_id": "h2026-neutralite",
+          "titre": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+          "role": "hors_echantillon",
+          "famille": "souverainete",
+          "oui_brut_pct": 42.1,
+          "oui_pct": 41.5,
+          "ic90_panel_pct": [
+            39.6,
+            43.6
+          ],
+          "intervalle_pct": [
+            20.3,
+            62.7
+          ],
+          "participation_pct": 59.9,
+          "reel_oui_pct": 28.17,
+          "reel_participation_pct": 41.59,
+          "canton_oui_pct": 28.89,
+          "ecart": 13.3,
+          "ecart_brut": 13.9,
+          "ecart_canton": 0.7,
+          "ecart_participation": 18.3,
+          "ecart_participation_reference": 6.3
+        },
+        {
+          "vote_id": "h2026-alimentation",
+          "titre": "Initiative populaire « Pour une alimentation sûre, grâce au renforcement de la protection indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) »",
+          "role": "hors_echantillon",
+          "famille": "contrainte_agriculture",
+          "oui_brut_pct": 27.9,
+          "oui_pct": 16.7,
+          "ic90_panel_pct": [
+            15,
+            18.6
+          ],
+          "intervalle_pct": [
+            0,
+            37.9
+          ],
+          "participation_pct": 59.9,
+          "reel_oui_pct": 23.18,
+          "reel_participation_pct": 41.53,
+          "canton_oui_pct": 28.32,
+          "ecart": 6.5,
+          "ecart_brut": 4.7,
+          "ecart_canton": 5.1,
+          "ecart_participation": 18.4,
+          "ecart_participation_reference": 6.4
+        },
+        {
+          "vote_id": "p2026-avs-tva",
+          "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+          "role": "prevision",
+          "famille": "avs_tva",
+          "oui_brut_pct": 65.2,
+          "oui_pct": 52.3,
+          "ic90_panel_pct": [
+            47.8,
+            56.4
+          ],
+          "intervalle_pct": [
+            30.7,
+            73.8
+          ],
+          "participation_pct": 57.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-feux",
+          "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+          "role": "prevision",
+          "famille": "protection_animale",
+          "oui_brut_pct": 47.6,
+          "oui_pct": 42.8,
+          "ic90_panel_pct": [
+            40.2,
+            45.4
+          ],
+          "intervalle_pct": [
+            21.5,
+            64.1
+          ],
+          "participation_pct": 57.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-couples",
+          "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+          "role": "prevision",
+          "famille": "couples_maries",
+          "oui_brut_pct": 40.3,
+          "oui_pct": 42.6,
+          "ic90_panel_pct": [
+            39.4,
+            45.9
+          ],
+          "intervalle_pct": [
+            21.2,
+            64
+          ],
+          "participation_pct": 57.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-materiel-guerre",
+          "titre": "Modification de la loi fédérale sur le matériel de guerre",
+          "role": "prevision",
+          "famille": "armee",
+          "oui_brut_pct": 43.6,
+          "oui_pct": 39.1,
+          "ic90_panel_pct": [
+            36.2,
+            41.9
+          ],
+          "intervalle_pct": [
+            17.8,
+            60.4
+          ],
+          "participation_pct": 57.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        }
+      ]
+    },
+    {
+      "run": "v2-echallens",
+      "cas": "echallens",
+      "commune": "Echallens",
+      "electeurs": 42,
+      "participation_reference_pct": 51.9,
+      "cibles": [
+        {
+          "vote_id": "h2026-neutralite",
+          "titre": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+          "role": "hors_echantillon",
+          "famille": "souverainete",
+          "oui_brut_pct": 35.4,
+          "oui_pct": 31.7,
+          "ic90_panel_pct": [
+            29.7,
+            34.1
+          ],
+          "intervalle_pct": [
+            10.5,
+            53
+          ],
+          "participation_pct": 61.2,
+          "reel_oui_pct": 25.45,
+          "reel_participation_pct": 48.4,
+          "canton_oui_pct": 26.98,
+          "ecart": 6.3,
+          "ecart_brut": 9.9,
+          "ecart_canton": 1.5,
+          "ecart_participation": 12.8,
+          "ecart_participation_reference": 3.5
+        },
+        {
+          "vote_id": "h2026-alimentation",
+          "titre": "Initiative populaire « Pour une alimentation sûre, grâce au renforcement de la protection indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) »",
+          "role": "hors_echantillon",
+          "famille": "contrainte_agriculture",
+          "oui_brut_pct": 33.3,
+          "oui_pct": 18,
+          "ic90_panel_pct": [
+            16,
+            20.2
+          ],
+          "intervalle_pct": [
+            0,
+            39.3
+          ],
+          "participation_pct": 61.2,
+          "reel_oui_pct": 21.9,
+          "reel_participation_pct": 48.4,
+          "canton_oui_pct": 25.83,
+          "ecart": 3.9,
+          "ecart_brut": 11.4,
+          "ecart_canton": 3.9,
+          "ecart_participation": 12.8,
+          "ecart_participation_reference": 3.5
+        },
+        {
+          "vote_id": "p2026-avs-tva",
+          "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+          "role": "prevision",
+          "famille": "avs_tva",
+          "oui_brut_pct": 64.4,
+          "oui_pct": 61.5,
+          "ic90_panel_pct": [
+            56.7,
+            65.8
+          ],
+          "intervalle_pct": [
+            39.8,
+            83.1
+          ],
+          "participation_pct": 57.6,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-feux",
+          "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+          "role": "prevision",
+          "famille": "protection_animale",
+          "oui_brut_pct": 50.9,
+          "oui_pct": 45,
+          "ic90_panel_pct": [
+            42.6,
+            47.4
+          ],
+          "intervalle_pct": [
+            23.8,
+            66.3
+          ],
+          "participation_pct": 57.6,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-couples",
+          "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+          "role": "prevision",
+          "famille": "couples_maries",
+          "oui_brut_pct": 26.1,
+          "oui_pct": 35.2,
+          "ic90_panel_pct": [
+            32.4,
+            37.9
+          ],
+          "intervalle_pct": [
+            13.9,
+            56.5
+          ],
+          "participation_pct": 57.6,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-materiel-guerre",
+          "titre": "Modification de la loi fédérale sur le matériel de guerre",
+          "role": "prevision",
+          "famille": "armee",
+          "oui_brut_pct": 35.2,
+          "oui_pct": 35.1,
+          "ic90_panel_pct": [
+            32.3,
+            37.6
+          ],
+          "intervalle_pct": [
+            13.8,
+            56.4
+          ],
+          "participation_pct": 57.6,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        }
+      ]
+    },
+    {
+      "run": "v2-saviese",
+      "cas": "saviese",
+      "commune": "Savièse",
+      "electeurs": 40,
+      "participation_reference_pct": 56.3,
+      "cibles": [
+        {
+          "vote_id": "h2026-neutralite",
+          "titre": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+          "role": "hors_echantillon",
+          "famille": "souverainete",
+          "oui_brut_pct": 42,
+          "oui_pct": 40.6,
+          "ic90_panel_pct": [
+            38.5,
+            42.9
+          ],
+          "intervalle_pct": [
+            19.4,
+            61.9
+          ],
+          "participation_pct": 68.7,
+          "reel_oui_pct": 33.18,
+          "reel_participation_pct": 46.95,
+          "canton_oui_pct": 32.91,
+          "ecart": 7.4,
+          "ecart_brut": 8.8,
+          "ecart_canton": 0.3,
+          "ecart_participation": 21.7,
+          "ecart_participation_reference": 9.4
+        },
+        {
+          "vote_id": "h2026-alimentation",
+          "titre": "Initiative populaire « Pour une alimentation sûre, grâce au renforcement de la protection indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) »",
+          "role": "hors_echantillon",
+          "famille": "contrainte_agriculture",
+          "oui_brut_pct": 31,
+          "oui_pct": 17.9,
+          "ic90_panel_pct": [
+            16.3,
+            19.6
+          ],
+          "intervalle_pct": [
+            0,
+            39.1
+          ],
+          "participation_pct": 68.7,
+          "reel_oui_pct": 23.83,
+          "reel_participation_pct": 46.95,
+          "canton_oui_pct": 24.5,
+          "ecart": 6,
+          "ecart_brut": 7.1,
+          "ecart_canton": 0.7,
+          "ecart_participation": 21.7,
+          "ecart_participation_reference": 9.4
+        },
+        {
+          "vote_id": "p2026-avs-tva",
+          "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+          "role": "prevision",
+          "famille": "avs_tva",
+          "oui_brut_pct": 66,
+          "oui_pct": 56.5,
+          "ic90_panel_pct": [
+            51.8,
+            60.9
+          ],
+          "intervalle_pct": [
+            34.8,
+            78.1
+          ],
+          "participation_pct": 59.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-feux",
+          "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+          "role": "prevision",
+          "famille": "protection_animale",
+          "oui_brut_pct": 42.9,
+          "oui_pct": 39.4,
+          "ic90_panel_pct": [
+            37.1,
+            41.6
+          ],
+          "intervalle_pct": [
+            18.1,
+            60.6
+          ],
+          "participation_pct": 59.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-couples",
+          "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+          "role": "prevision",
+          "famille": "couples_maries",
+          "oui_brut_pct": 43.8,
+          "oui_pct": 48.7,
+          "ic90_panel_pct": [
+            45.5,
+            51.7
+          ],
+          "intervalle_pct": [
+            27.3,
+            70
+          ],
+          "participation_pct": 59.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-materiel-guerre",
+          "titre": "Modification de la loi fédérale sur le matériel de guerre",
+          "role": "prevision",
+          "famille": "armee",
+          "oui_brut_pct": 45.3,
+          "oui_pct": 44.7,
+          "ic90_panel_pct": [
+            42.1,
+            47.2
+          ],
+          "intervalle_pct": [
+            23.4,
+            66
+          ],
+          "participation_pct": 59.4,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        }
+      ]
+    },
+    {
+      "run": "v2-le-locle",
+      "cas": "le-locle",
+      "commune": "Le Locle",
+      "electeurs": 42,
+      "participation_reference_pct": 43.8,
+      "cibles": [
+        {
+          "vote_id": "h2026-neutralite",
+          "titre": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+          "role": "hors_echantillon",
+          "famille": "souverainete",
+          "oui_brut_pct": 39,
+          "oui_pct": 39.2,
+          "ic90_panel_pct": [
+            36.9,
+            42.5
+          ],
+          "intervalle_pct": [
+            17.9,
+            60.5
+          ],
+          "participation_pct": 53.1,
+          "reel_oui_pct": 30.66,
+          "reel_participation_pct": 36.69,
+          "canton_oui_pct": 24.42,
+          "ecart": 8.5,
+          "ecart_brut": 8.4,
+          "ecart_canton": 6.2,
+          "ecart_participation": 16.4,
+          "ecart_participation_reference": 7.2
+        },
+        {
+          "vote_id": "h2026-alimentation",
+          "titre": "Initiative populaire « Pour une alimentation sûre, grâce au renforcement de la protection indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) »",
+          "role": "hors_echantillon",
+          "famille": "contrainte_agriculture",
+          "oui_brut_pct": 36.7,
+          "oui_pct": 23.3,
+          "ic90_panel_pct": [
+            21,
+            25.6
+          ],
+          "intervalle_pct": [
+            2.1,
+            44.6
+          ],
+          "participation_pct": 53.1,
+          "reel_oui_pct": 31.27,
+          "reel_participation_pct": 36.68,
+          "canton_oui_pct": 34.51,
+          "ecart": 7.9,
+          "ecart_brut": 5.4,
+          "ecart_canton": 3.2,
+          "ecart_participation": 16.4,
+          "ecart_participation_reference": 7.2
+        },
+        {
+          "vote_id": "p2026-avs-tva",
+          "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+          "role": "prevision",
+          "famille": "avs_tva",
+          "oui_brut_pct": 71.7,
+          "oui_pct": 64.7,
+          "ic90_panel_pct": [
+            59.2,
+            70.2
+          ],
+          "intervalle_pct": [
+            42.8,
+            86.5
+          ],
+          "participation_pct": 46.9,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-feux",
+          "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+          "role": "prevision",
+          "famille": "protection_animale",
+          "oui_brut_pct": 51.5,
+          "oui_pct": 46.6,
+          "ic90_panel_pct": [
+            44.1,
+            48.8
+          ],
+          "intervalle_pct": [
+            25.3,
+            67.8
+          ],
+          "participation_pct": 46.9,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-couples",
+          "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+          "role": "prevision",
+          "famille": "couples_maries",
+          "oui_brut_pct": 25.7,
+          "oui_pct": 36,
+          "ic90_panel_pct": [
+            32,
+            40.5
+          ],
+          "intervalle_pct": [
+            14.4,
+            57.6
+          ],
+          "participation_pct": 46.9,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-materiel-guerre",
+          "titre": "Modification de la loi fédérale sur le matériel de guerre",
+          "role": "prevision",
+          "famille": "armee",
+          "oui_brut_pct": 30.3,
+          "oui_pct": 31.9,
+          "ic90_panel_pct": [
+            29.4,
+            34.2
+          ],
+          "intervalle_pct": [
+            10.6,
+            53.2
+          ],
+          "participation_pct": 46.9,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        }
+      ]
+    },
+    {
+      "run": "v2-meyrin",
+      "cas": "meyrin",
+      "commune": "Meyrin",
+      "electeurs": 42,
+      "participation_reference_pct": 45.7,
+      "cibles": [
+        {
+          "vote_id": "h2026-neutralite",
+          "titre": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+          "role": "hors_echantillon",
+          "famille": "souverainete",
+          "oui_brut_pct": 39.6,
+          "oui_pct": 41.5,
+          "ic90_panel_pct": [
+            39,
+            43.9
+          ],
+          "intervalle_pct": [
+            20.2,
+            62.8
+          ],
+          "participation_pct": 54.6,
+          "reel_oui_pct": 38.85,
+          "reel_participation_pct": 40.74,
+          "canton_oui_pct": 33.42,
+          "ecart": 2.6,
+          "ecart_brut": 0.7,
+          "ecart_canton": 5.4,
+          "ecart_participation": 13.8,
+          "ecart_participation_reference": 4.9
+        },
+        {
+          "vote_id": "h2026-alimentation",
+          "titre": "Initiative populaire « Pour une alimentation sûre, grâce au renforcement de la protection indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) »",
+          "role": "hors_echantillon",
+          "famille": "contrainte_agriculture",
+          "oui_brut_pct": 34.6,
+          "oui_pct": 28.3,
+          "ic90_panel_pct": [
+            25.2,
+            31
+          ],
+          "intervalle_pct": [
+            6.9,
+            49.6
+          ],
+          "participation_pct": 54.6,
+          "reel_oui_pct": 36.75,
+          "reel_participation_pct": 40.74,
+          "canton_oui_pct": 37.37,
+          "ecart": 8.5,
+          "ecart_brut": 2.1,
+          "ecart_canton": 0.6,
+          "ecart_participation": 13.8,
+          "ecart_participation_reference": 4.9
+        },
+        {
+          "vote_id": "p2026-avs-tva",
+          "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+          "role": "prevision",
+          "famille": "avs_tva",
+          "oui_brut_pct": 66.7,
+          "oui_pct": 53.2,
+          "ic90_panel_pct": [
+            48,
+            59
+          ],
+          "intervalle_pct": [
+            31.4,
+            75.1
+          ],
+          "participation_pct": 48.1,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-feux",
+          "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+          "role": "prevision",
+          "famille": "protection_animale",
+          "oui_brut_pct": 53.8,
+          "oui_pct": 58.4,
+          "ic90_panel_pct": [
+            56.1,
+            61
+          ],
+          "intervalle_pct": [
+            37.1,
+            79.7
+          ],
+          "participation_pct": 48.1,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-couples",
+          "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+          "role": "prevision",
+          "famille": "couples_maries",
+          "oui_brut_pct": 33,
+          "oui_pct": 42.3,
+          "ic90_panel_pct": [
+            39.5,
+            44.9
+          ],
+          "intervalle_pct": [
+            21,
+            63.7
+          ],
+          "participation_pct": 48.1,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-materiel-guerre",
+          "titre": "Modification de la loi fédérale sur le matériel de guerre",
+          "role": "prevision",
+          "famille": "armee",
+          "oui_brut_pct": 34.6,
+          "oui_pct": 31.1,
+          "ic90_panel_pct": [
+            28.8,
+            33
+          ],
+          "intervalle_pct": [
+            9.8,
+            52.3
+          ],
+          "participation_pct": 48.1,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        }
+      ]
+    },
+    {
+      "run": "v2-delemont",
+      "cas": "delemont",
+      "commune": "Delémont",
+      "electeurs": 40,
+      "participation_reference_pct": 46.6,
+      "cibles": [
+        {
+          "vote_id": "h2026-neutralite",
+          "titre": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+          "role": "hors_echantillon",
+          "famille": "souverainete",
+          "oui_brut_pct": 30.2,
+          "oui_pct": 24.8,
+          "ic90_panel_pct": [
+            23.4,
+            26.4
+          ],
+          "intervalle_pct": [
+            3.6,
+            46
+          ],
+          "participation_pct": 54.4,
+          "reel_oui_pct": 19.64,
+          "reel_participation_pct": 36.68,
+          "canton_oui_pct": 28.2,
+          "ecart": 5.2,
+          "ecart_brut": 10.6,
+          "ecart_canton": 8.6,
+          "ecart_participation": 17.8,
+          "ecart_participation_reference": 9.9
+        },
+        {
+          "vote_id": "h2026-alimentation",
+          "titre": "Initiative populaire « Pour une alimentation sûre, grâce au renforcement de la protection indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l’alimentation) »",
+          "role": "hors_echantillon",
+          "famille": "contrainte_agriculture",
+          "oui_brut_pct": 35.9,
+          "oui_pct": 26.4,
+          "ic90_panel_pct": [
+            23.4,
+            29.7
+          ],
+          "intervalle_pct": [
+            5.1,
+            47.8
+          ],
+          "participation_pct": 54.4,
+          "reel_oui_pct": 36,
+          "reel_participation_pct": 36.73,
+          "canton_oui_pct": 29.59,
+          "ecart": 9.6,
+          "ecart_brut": 0.1,
+          "ecart_canton": 6.4,
+          "ecart_participation": 17.7,
+          "ecart_participation_reference": 9.9
+        },
+        {
+          "vote_id": "p2026-avs-tva",
+          "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+          "role": "prevision",
+          "famille": "avs_tva",
+          "oui_brut_pct": 74.2,
+          "oui_pct": 67,
+          "ic90_panel_pct": [
+            63.2,
+            71.1
+          ],
+          "intervalle_pct": [
+            45.5,
+            88.6
+          ],
+          "participation_pct": 48.3,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-feux",
+          "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+          "role": "prevision",
+          "famille": "protection_animale",
+          "oui_brut_pct": 56.4,
+          "oui_pct": 53.2,
+          "ic90_panel_pct": [
+            50.8,
+            55.3
+          ],
+          "intervalle_pct": [
+            31.9,
+            74.4
+          ],
+          "participation_pct": 48.3,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-couples",
+          "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+          "role": "prevision",
+          "famille": "couples_maries",
+          "oui_brut_pct": 33,
+          "oui_pct": 37.6,
+          "ic90_panel_pct": [
+            34.6,
+            40.4
+          ],
+          "intervalle_pct": [
+            16.3,
+            58.9
+          ],
+          "participation_pct": 48.3,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        },
+        {
+          "vote_id": "p2026-materiel-guerre",
+          "titre": "Modification de la loi fédérale sur le matériel de guerre",
+          "role": "prevision",
+          "famille": "armee",
+          "oui_brut_pct": 29,
+          "oui_pct": 22.4,
+          "ic90_panel_pct": [
+            20.7,
+            24.1
+          ],
+          "intervalle_pct": [
+            1.2,
+            43.6
+          ],
+          "participation_pct": 48.3,
+          "reel_oui_pct": null,
+          "reel_participation_pct": null,
+          "canton_oui_pct": null,
+          "ecart": null,
+          "ecart_brut": null,
+          "ecart_canton": null,
+          "ecart_participation": null,
+          "ecart_participation_reference": null
+        }
+      ]
+    }
+  ]
+}

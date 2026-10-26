@@ -1,0 +1,39 @@
+{
+  "id": "p05",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Que l'atelier commence par des chiffres précis sur le prix du lait et sur ce que gagnent les fermes bio du village, et qu'il ait lieu un samedi matin après la traite. Et que la commune s'engage par écrit à transmettre ce qui sortira de la soirée à ceux qui achètent le lait."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on me demande une seule chose précise et limitée dans le temps, et que la commune prévoie elle-même les visites et l'animation, pour que la ferme n'ait rien à porter. Et une garantie que les habitants qui viendront achètent vraiment bio, pas seulement qu'ils en parlent."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Que la question soit ramenée à du concret, par exemple qui du village pourrait reprendre une exploitation et quelles aides existent pour un jeune qui s'installe en bio. Et un atelier en journée, pour que les jeunes et les jeunes parents puissent venir."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Que la commune nous associe à la façon de montrer ce qu'on fait pour les haies, les prairies et l'eau, avec des faits précis, et qu'elle s'engage sur une suite concrète. Une reconnaissance sans effet, ça reste un discours."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de dix minutes est le seul format que je peux glisser entre deux traites, sans sortir de la ferme et sans bloquer une soirée. L'atelier me prendrait toutes mes soirées, et les trois séquences à distance demandent une régularité que je n'ai pas."
+}

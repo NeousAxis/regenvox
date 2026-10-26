@@ -1,0 +1,237 @@
+{
+  "angles": [
+    {
+      "angle_id": 1,
+      "evenements": [
+        {
+          "mois": 1,
+          "evenement": "Rencontres informelles dans quelques fermes de la commune: les exploitants parlent de revenu avant de parler de bio, ce qui rassure les intéressés (45 % au départ) et donne un premier relais aux porteurs de départ.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 3,
+          "evenement": "Premières prises de parole dans le journal communal et sur les réseaux locaux: le thème « vivre honorablement de son travail » circule bien au-delà du cercle initial et le soutien dépasse un tiers de la population.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 5,
+          "evenement": "Des exploitants hésitants craignent qu'un virage vers le bio rime avec cahier des charges lourd et baisse de revenu; ils le disent lors de réunions entre agriculteurs et au café du village. Une première opposition active apparaît, mais elle reste très limitée.",
+          "effet": "frein"
+        },
+        {
+          "mois": 6,
+          "evenement": "Un marché ou une dégustation de produits locaux réunit exploitants et habitants: le soutien approche la moitié de la population.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 8,
+          "evenement": "Mi-parcours: un exploitant déjà engagé dans le bio témoigne publiquement de ses chiffres. La conversation passe du « faut-il » au « comment », et le soutien a parcouru la moitié de son trajet.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 12,
+          "evenement": "Premier bilan public d'une année: 67 % de soutien et une opposition qui reste sous 5 %. Le thème est devenu un sujet ordinaire de discussion dans la commune.",
+          "effet": "neutre"
+        },
+        {
+          "mois": 15,
+          "evenement": "Les personnes les plus réceptives ont déjà été atteintes: le rythme d'adhésion ralentit nettement, l'effet de bouche à oreille s'essouffle.",
+          "effet": "frein"
+        },
+        {
+          "mois": 20,
+          "evenement": "Le débat se déplace vers des questions pratiques (prix, débouchés, aides), qui intéressent surtout ceux qui sont déjà convaincus et touchent peu les personnes encore sans position.",
+          "effet": "neutre"
+        },
+        {
+          "mois": 24,
+          "evenement": "Plateau: environ 82 % de soutien, 7 % d'opposition active et 11 % de personnes encore sans position.",
+          "effet": "neutre"
+        }
+      ],
+      "declencheurs_cles": [
+        "Un discours centré sur le revenu des exploitants avant l'argument écologique.",
+        "Des témoignages d'agriculteurs entre pairs, plus crédibles que ceux d'acteurs extérieurs.",
+        "Des moments de rencontre concrets (visite de ferme, dégustation, marché) entre habitants et exploitants.",
+        "Une réponse claire aux craintes sur les contraintes et le risque de revenu, donnée au moment où les réticents s'expriment."
+      ],
+      "lecture": "C'est le plus rapide des quatre angles: le soutien passe de 27 % à 82 % en 24 mois, la moitié du trajet étant déjà parcourue au mois 8, et l'opposition plafonne à 7 %. Le point de départ est favorable (27 % de porteurs et 45 % d'intéressés), et le thème du revenu agricole parle aussi aux réticents, d'où une conversion rapide de la population non positionnée (73 % au départ, 11 % à la fin). La progression est la plus forte durant la première année, puis elle s'essouffle: au-delà du mois 15, il reste surtout des personnes difficiles à atteindre. Attention: le modèle ne dégage aucun co-porteur engagé à 24 mois. Ce large soutien est donc un soutien d'opinion, et le passage à l'action devra être travaillé à part."
+    },
+    {
+      "angle_id": 2,
+      "evenements": [
+        {
+          "mois": 1,
+          "evenement": "Lancement de l'invitation à devenir partenaire des fermes (achat direct, soutien, coup de main). Les intéressés, déjà nombreux (39 % au départ), se saisissent du message, mais le point de départ est très bas: 5 % de soutien seulement.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 3,
+          "evenement": "Premières réactions d'agacement: l'invitation est plausiblement perçue par certains comme une sollicitation ou une pression à s'engager, voire à payer. L'opposition active apparaît (3 %).",
+          "effet": "frein"
+        },
+        {
+          "mois": 6,
+          "evenement": "Réunion d'information ouverte à la salle communale: le débat est vif, les réticents (46 % au départ) s'y expriment et des camps commencent à se dessiner. Le soutien atteint 17 % et l'opposition 8 %.",
+          "effet": "frein"
+        },
+        {
+          "mois": 8,
+          "evenement": "Premières formules concrètes de partenariat entre habitants et fermes (paniers, soutien ponctuel, journées de coup de main): elles rassurent des indécis et nourrissent le bouche à oreille.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 10,
+          "evenement": "Mi-parcours: le soutien a parcouru la moitié de son chemin, mais l'opposition progresse presque aussi vite que lui. La question devient un sujet de division dans les conversations du village.",
+          "effet": "frein"
+        },
+        {
+          "mois": 12,
+          "evenement": "Un an après: 29 % de soutien, 17 % d'opposition et 54 % de personnes encore sans position. Les deux camps se structurent et chacun cherche à convaincre les indécis.",
+          "effet": "neutre"
+        },
+        {
+          "mois": 15,
+          "evenement": "Le rythme du soutien commence à baisser. La part sans position (44 %) diminue et ceux qui se positionnent rejoignent aussi bien le camp du soutien que celui de l'opposition.",
+          "effet": "frein"
+        },
+        {
+          "mois": 20,
+          "evenement": "Des habitants devenus partenaires racontent leur expérience à leur entourage: c'est le principal levier encore actif pour convaincre au-delà du noyau acquis.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 24,
+          "evenement": "Fin d'horizon: 45,5 % de soutien contre 33 % d'opposition, et 21,5 % de personnes encore sans position.",
+          "effet": "neutre"
+        }
+      ],
+      "declencheurs_cles": [
+        "La nature de ce que l'on demande aux habitants (acheter, payer, donner du temps): plus la demande est perçue comme une obligation, plus l'opposition grandit.",
+        "Le premier débat public, où les réticents se sentent soit écoutés, soit placés devant le fait accompli.",
+        "Les premières formules de partenariat concrètes et à petit engagement.",
+        "Les témoignages d'habitants déjà partenaires, plus crédibles que ceux des porteurs de la démarche."
+      ],
+      "lecture": "C'est l'angle le plus clivant: le soutien part de 5 % et atteint 45,5 % à 24 mois, mais l'opposition monte en parallèle jusqu'à 33 % et n'a pas encore atteint de plateau. Près de la moitié des personnes de départ sont réticentes (46 %), et le message place plausiblement l'habitant en position de s'engager, ce qui déclenche un rejet chez ceux qui y voient une pression. La mi-parcours arrive tard (mois 10). Le soutien reste supérieur à l'opposition, mais l'écart culmine vers le mois 18 (autour de 14 points) puis se resserre légèrement jusqu'à 12,5 points. Le modèle ne dégage aucun co-porteur engagé à 24 mois. Pour cet angle, la formulation et le niveau d'engagement demandé comptent plus que le rythme de diffusion."
+    },
+    {
+      "angle_id": 3,
+      "evenements": [
+        {
+          "mois": 1,
+          "evenement": "Lancement d'une réflexion ouverte sur la terre à transmettre, portée par des habitants plutôt que par des institutions. Aucun enjeu immédiat n'est en cause, donc peu de résistance.",
+          "effet": "neutre"
+        },
+        {
+          "mois": 3,
+          "evenement": "Des enfants et des jeunes de l'école et des sociétés locales s'emparent de la question (dessins, interviews d'anciens agriculteurs) et la ramènent dans leurs familles: le soutien atteint 20 %.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 6,
+          "evenement": "Balade commentée dans les champs avec des exploitants de plusieurs générations: la question devient tangible pour des habitants jusque-là indifférents (55 % au départ).",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 8,
+          "evenement": "Quelques voix jugent le thème trop vaste ou moralisateur, et certains exploitants redoutent d'être mis en accusation sur leurs pratiques. L'opposition apparaît mais reste très faible.",
+          "effet": "frein"
+        },
+        {
+          "mois": 10,
+          "evenement": "Mi-parcours: la question est reprise spontanément dans les associations et dans les discussions de village.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 12,
+          "evenement": "Restitution publique (exposition, soirée de présentation de ce qui a été recueilli): près de la moitié de la commune soutient la démarche (48,5 %).",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 15,
+          "evenement": "Le thème, consensuel mais abstrait, ne débouche pas sur des actions visibles: une partie des personnes touchées se contente d'approuver et le rythme de progression baisse.",
+          "effet": "frein"
+        },
+        {
+          "mois": 20,
+          "evenement": "Arrivée progressive des derniers publics, les plus éloignés du sujet, qui demandent plus d'efforts d'approche pour un gain de soutien de plus en plus faible.",
+          "effet": "frein"
+        },
+        {
+          "mois": 24,
+          "evenement": "Fin d'horizon: 73 % de soutien, 6 % d'opposition et 21 % de personnes encore sans position.",
+          "effet": "neutre"
+        }
+      ],
+      "declencheurs_cles": [
+        "L'entrée par les enfants, les jeunes et les anciens, qui touche les indifférents sans créer de clivage.",
+        "Des expériences sensibles sur le terrain (balade, rencontre) plutôt que des discours.",
+        "Le passage du thème général à des gestes concrets, faute de quoi le soutien s'arrête à l'approbation.",
+        "La manière de présenter la question aux exploitants, pour qu'ils ne se sentent pas jugés."
+      ],
+      "lecture": "C'est un angle consensuel au démarrage lent mais régulier: le soutien passe de 10 % à 73 % avec une croissance quasi constante pendant la première année, puis un net ralentissement. Il atteint surtout les indifférents (55 % au départ), que le thème de la transmission touche sans les mettre en cause, d'où une opposition qui ne dépasse jamais 6 %. La mi-parcours se situe au mois 10. Le risque principal n'est pas le rejet mais l'abstraction: sans gestes concrets, l'adhésion reste verbale, et le modèle ne dégage d'ailleurs aucun co-porteur engagé à 24 mois."
+    },
+    {
+      "angle_id": 4,
+      "evenements": [
+        {
+          "mois": 1,
+          "evenement": "Des fermes de la commune ouvrent leurs portes pour montrer ce qu'elles font pour le sol, l'eau et la faune (haies, prairies, mares): les intéressés (43 % au départ) relaient l'information.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 3,
+          "evenement": "Premiers articles et affichage sur la vie sauvage et l'eau de la commune: le soutien atteint 16 % et le thème sort du cercle des convaincus.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 5,
+          "evenement": "Des exploitants qui ne se reconnaissent pas dans le récit et des habitants sceptiques y voient une opération d'image, ou une manière de classer les fermes en bonnes et mauvaises. L'opposition active s'installe.",
+          "effet": "frein"
+        },
+        {
+          "mois": 8,
+          "evenement": "Un relevé simple de la vie sauvage (oiseaux, insectes, état d'un ruisseau), mené avec des habitants, rend les apports visibles et attire des indécis.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 10,
+          "evenement": "Mi-parcours: le thème s'installe dans les conversations, mais le débat sur qui est reconnu et selon quels critères commence à diviser.",
+          "effet": "neutre"
+        },
+        {
+          "mois": 12,
+          "evenement": "Un an après: 41 % de soutien, 9 % d'opposition et la moitié de la commune (50 %) encore sans position.",
+          "effet": "neutre"
+        },
+        {
+          "mois": 15,
+          "evenement": "La reconnaissance des fermes est perçue comme coûteuse ou favorable à certaines d'entre elles (aides, labels, mises en avant), ce qui nourrit une opposition qui continue de progresser (12 %).",
+          "effet": "frein"
+        },
+        {
+          "mois": 18,
+          "evenement": "La croissance du soutien ralentit. La part sans position tombe à un tiers environ et les nouveaux positionnés se partagent entre soutien et opposition.",
+          "effet": "frein"
+        },
+        {
+          "mois": 21,
+          "evenement": "Des fermes racontent leur propre expérience lors d'un événement communal: effet d'entraînement sur une partie des indécis restants.",
+          "effet": "acceleration"
+        },
+        {
+          "mois": 24,
+          "evenement": "Fin d'horizon: 63 % de soutien, 17 % d'opposition et 20 % de personnes encore sans position.",
+          "effet": "neutre"
+        }
+      ],
+      "declencheurs_cles": [
+        "Des preuves visibles et concrètes des apports des fermes (sol, eau, faune), faciles à constater par les habitants.",
+        "Le choix des critères de reconnaissance: ils décident si l'angle fédère toutes les fermes ou en laisse certaines de côté.",
+        "La perception d'une opération d'image ou d'un classement qui oppose les fermes entre elles.",
+        "Le relais par les fermes elles-mêmes lors d'événements communaux."
+      ],
+      "lecture": "C'est un angle intermédiaire: le soutien monte de 8 % à 63 % à un rythme régulier jusqu'au mois 12, avec une mi-parcours au mois 10. L'opposition progresse sans interruption jusqu'à 17 % à 24 mois et n'a pas marqué de plateau, ce qui suggère une résistance durable de personnes qui ne se reconnaissent pas dans la reconnaissance proposée ou la jugent partielle. Le soutien reste environ 3,7 fois supérieur à l'opposition, mais cette dernière ne s'est pas stabilisée à la fin de l'horizon. Le modèle ne dégage aucun co-porteur engagé à 24 mois: le soutien est d'opinion, pas encore d'action."
+    }
+  ]
+}

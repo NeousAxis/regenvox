@@ -1,0 +1,17 @@
+{
+  "id": "p17",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Un questionnaire de 28 questions en ligne, en mai, après mes journées de travail et les enfants le soir : je ne l'aurais probablement pas rempli, et les consultations d'urbanisme ne font pas partie de mes préoccupations. Si mes enfants avaient rapporté une animation de l'école, j'en aurais peut-être parlé à une amie, sans plus."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Un sondage en ligne qui court de décembre à mars, pendant une période chargée entre travail et famille, et qui ne me touche pas directement : je n'aurais sans doute pas pris le temps, et je n'en aurais guère parlé autour de moi."
+    }
+  ]
+}

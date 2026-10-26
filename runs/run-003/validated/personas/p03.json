@@ -1,0 +1,141 @@
+{
+  "id": "p03",
+  "portrait": "J'ai 64 ans et je travaille dans le commerce et l'administration, avec des trajets quotidiens vers la région de Bulle. Je vis en couple avec des enfants dans un quartier résidentiel récent de Vuadens, je me sens proche des Vert-e-s sans être militant, et je vote aux fédérales. Je regarde les fermes autour du village avec un intérêt sincère, mais je connais mal les gens qui les font vivre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Si le bio doit venir, il faut d'abord que le paysan y gagne sa vie. Sinon ce ne sont que de beaux discours venus de la ville.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je travaille à plein temps et les soirées d'atelier sont compliquées avec la famille",
+        "Je ne suis pas agriculteur et je crains de donner des leçons à des gens qui connaissent leur métier mieux que moi",
+        "Les ateliers sont souvent fréquentés par ceux qui sont déjà convaincus"
+      ],
+      "ce_qui_me_ferait_venir": "Une rencontre sur une ferme, un samedi matin, avec des éleveurs qui expliquent leurs chiffres, leurs difficultés et ce qu'il faudrait pour passer au bio sans y laisser la maison."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement chez le paysan du village, je le fais de temps en temps, mais je ne sais pas comment on devient vraiment partenaire d'une ferme.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le budget familial compte, et le bio coûte plus cher à la caisse",
+        "Je ne sais pas ce que l'engagement implique concrètement et j'ai peur d'un système trop contraignant",
+        "Mon emploi du temps ne me laisse pas beaucoup de disponibilité en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Un engagement clair et simple, par exemple un panier hebdomadaire à un prix annoncé à l'avance, avec la possibilité de voir la ferme et de savoir où va mon argent."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "La terre qu'on laissera à nos enfants, c'est une question juste, mais en réunion on finit toujours par parler de subventions et de chiffres.",
+      "engagement": 1,
+      "freins_participation": [
+        "Une question aussi vaste me semble trop floue pour que je m'y implique",
+        "Je crains que la commune ne sache pas faire autrement que des discours"
+      ],
+      "ce_qui_me_ferait_venir": "Des objectifs concrets avec des échéances précises et des terres ou des fermes nommées, plutôt qu'une grande vision pour l'avenir."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Une plaque ou un label pour les fermes, ça ne fera ni le lait ni le foin; ce qui compte, c'est qu'elles vivent.",
+      "engagement": 0,
+      "freins_participation": [
+        "Ça ne me touche pas directement, je ne fréquente pas les fermes du village au quotidien",
+        "Ce genre de reconnaissance me paraît surtout de la communication"
+      ],
+      "ce_qui_me_ferait_venir": "Que ça se traduise par des choses que je vois, comme des chemins bien entretenus, des haies, ou des produits locaux sur les étals de la commune."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Collègues de bureau, voisins du quartier récent, quelques amis proches des Vert-e-s, famille élargie. Peu de contacts réguliers avec les exploitations agricoles."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Le paysage me tient à cœur, mais j'habite moi-même dans un quartier de construction récente et je ne veux pas qu'on bloque les logements pour les familles. Je serais partagé."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Il faut arrêter de grignoter les champs autour des villages. Je suis favorable à densifier, même si ça ne plaît pas à tout le monde."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "L'idée me plaît, mais une seule planète d'ici 2050 me paraît irréaliste et les entreprises de la région en paieraient le prix. Je pencherais pour le oui par conviction, sans grand espoir."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.85,
+      "raison": "Je suis pour sortir du nucléaire et je trouve que 45 ans d'exploitation suffisent pour ces centrales."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "C'est une bonne loi qui donne un cadre aux renouvelables. J'espère seulement que les aides ne profiteront pas qu'aux gros propriétaires."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Je suis pour des aliments produits dans le respect des animaux, de l'environnement et des travailleurs, y compris pour ce qui est importé."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Je comprends l'envie de protéger les paysans d'ici, mais les droits de douane et les questions d'OGM me gênent. Je ne sais pas trop quoi choisir."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Lier les paiements directs à des pratiques qui ménagent l'eau me paraît juste. La pollution des nappes ne doit plus être payée par le contribuable."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.75,
+      "raison": "Je suis contre les pesticides de synthèse, mais un délai de dix ans reste court pour les paysans de la région. Je voterais plutôt oui."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Le climat nous concerne tous, mais je veux que les taxes ne pèsent pas seulement sur les familles qui doivent prendre la voiture pour travailler."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "La dignité des animaux de rente doit être garantie, importations comprises. Mais je sais que nos éleveurs laitiers font déjà beaucoup d'efforts."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Zéro émission nette d'ici 2050, c'est la bonne direction. Il faut aider ceux qui changent de chauffage, sinon ça ne marchera pas."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "La nature recule à grande vitesse, je soutiens l'initiative. Je comprends que les agriculteurs demandent qu'on leur laisse de la marge de manœuvre."
+    }
+  ]
+}

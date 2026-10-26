@@ -1,0 +1,197 @@
+{
+  "id": "p33",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'étais pas encore en âge de voter à cette date, donc je ne participe pas à ce scrutin."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'étais pas encore en âge de voter en 2009, donc je ne participe pas."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'étais pas encore en âge de voter en 2009, donc je ne participe pas."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Tout juste majeur, je vote encore peu ; l'obligation de servir me paraît normale, même si je n'ai pas envie de la voir tomber."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Le sujet touche mon quotidien au bourg, mais je ne veux pas casser la libre circulation : mes collègues de la restauration et du transport en dépendent, et le PDC appelle à voter non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Je veux une armée qui tienne debout et je fais confiance aux recommandations du Conseil fédéral et du Parlement, même si le prix me fait hésiter."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Le désavantage fiscal des couples mariés me parle et le PDC, dont je suis proche, dit oui, mais la définition du mariage dans la Constitution me paraît inutilement rigide."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Je trouve juste de financer l'AVS pour nos retraités, le PDC soutient le paquet, et la hausse de la TVA reste acceptable même si elle pèse sur mon budget."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible au bien-être des animaux, mais une contribution fédérale pour garder les cornes me paraît coûteuse, et le PDC dit non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Je tiens aux accords bilatéraux qui font tourner notre économie et je ne veux pas risquer la rupture avec l'UE que le texte ouvrirait, même si je comprends le besoin de souveraineté."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Schengen nous facilite la vie et le PDC soutient la reprise de la directive, même si l'usage des armes semi-automatiques me laisse perplexe."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Je vois les tensions sur les salaires et le logement dans le bourg, mais je pense que la libre circulation et les bilatérales rapportent plus qu'ils ne coûtent, et le PDC dit non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Les agriculteurs de la région s'inquiètent des loups, je comprends la régulation même si je ne suis pas chasseur, et le PDC dit oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "L'armée doit être équipée, mais six milliards me paraissent un montant lourd, et je fais confiance au Parlement pour contrôler le choix, le PDC dit oui."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Je suis réservé sur le financement de l'armement par les caisses de pension, mais je doute qu'une interdiction bancaire soit la bonne réponse, et le PDC dit non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je suis attentif à l'eau et aux pesticides, mais je ne veux pas que l'agriculture de la région perde ses paiements directs, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Les pesticides m'inquiètent pour mes enfants, mais une interdiction en dix ans me paraît trop brutale pour nos agriculteurs, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "L'amour entre deux personnes ne regarde pas l'État, Le Centre dit oui et je vote oui sans hésiter."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.15,
+      "raison": "La recherche médicale nous protège et je ne veux pas bloquer des progrès pour nos proches, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je veux que la Suisse prenne sa part de la sécurité de Schengen, et Le Centre soutient le texte, même si la question migratoire reste sensible."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible à la dignité des animaux et à la qualité de ce qu'on mange, mais une transition sur vingt-cinq ans me paraît lourde pour nos paysans, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je veux une AVS qui tienne pour mes enfants et Le Centre soutient le paquet, mais la hausse de la TVA pèse sur le budget de ma famille."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "La nature autour du bourg me tient à cœur et je vois les terres se bétonner, mais le texte me paraît trop large et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "En couple avec enfants, le sujet me concerne directement : l'imposition individuelle me semble juste sur le principe, mais Le Centre dit non et je ne sais pas encore si elle nous avantage."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "La croissance de la population se voit dans le bourg et sur les trains, mais je travaille avec des collègues étrangers et je ne veux pas fermer la porte, donc je vote non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Quand on a été incorporé, on doit aller au bout, Le Centre soutient le texte, et je comprends les jeunes qui hésitent sans les suivre."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "La neutralité fait partie de notre identité, mais un texte aussi rigide, qui limite les sanctions et les coopérations, ne me convainc pas, et Le Centre dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "J'aime manger local et sain, mais 70 % de production indigène en dix ans me paraît irréaliste pour nos prix et nos restaurants, donc je vote non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je trouve juste de financer la 13e rente AVS, Le Centre soutient le texte, et la TVA ne pèse que légèrement sur nos achats."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Les pétards bruyants stressent les enfants et les animaux, mais je tiens aux feux du 1er août, donc je pencherais pour un non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "L'imposition commune pourrait alléger un couple avec enfants comme le mien, mais le texte remet en cause le choix fait en mars, et Le Centre dit oui, donc je suis partagé."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "La Suisse doit rester crédible avec ses partenaires et nos entreprises ont besoin de marchés, mais la neutralité ne doit pas être bradée, donc je suis hésitant."
+    }
+  ]
+}

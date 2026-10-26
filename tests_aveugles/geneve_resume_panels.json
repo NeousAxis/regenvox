@@ -1,0 +1,162 @@
+[
+  {
+    "id": "gen01",
+    "commune": "Lancy",
+    "run": "ge-lancy",
+    "habitants_16_plus": 30566,
+    "taux_panel": 0.0276,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "67 ans, retraité·e : J'ai vaguement vu l'annonce dans le journal de la commune, mais une assemblée en semaine le soir ne m'attirait pas du tout, et je n'y suis pas allée ; je n'en ai pas fait un sujet de conversation, tout au plus une remarque à mon compagnon en lisant le journal.",
+      "64 ans, cadre ou profession libérale : Je suis sensible à la vie de la commune, mais cette assemblée ne m'a jamais été signalée et une soirée en semaine dans une salle du Petit-Lancy ne m'attirait pas, donc je n'y suis pas allé et j'en ai peu parlé autour de moi.",
+      "34 ans, ouvrier·ère ou technicien·ne dans l'industrie : Je ne connaissais pas ce dispositif avant qu'il se tienne et une soirée en semaine dans une salle communale, après le travail, ne m'a pas donné envie d'y aller, même si je suis sensible aux idées écologistes ; j'en aurais peut-être parlé à un ou deux proches engagés, sans plus.",
+      "71 ans, retraité·e : Retraité et seul, je suis peu concerné par les démarches de la Ville, je n'ai probablement pas eu connaissance de cette assemblée, et une soirée de débats en salle un mercredi ne fait pas partie de mes habitudes.",
+      "52 ans, professionnel·le de la santé, du social ou de l'éducation : Une assemblée en semaine de 18h à 20h30 se heurte à mon travail et à mes soirées avec les enfants, et je n'ai pas le réflexe de suivre ce genre de démarche communale, dont je n'ai peut-être même pas remarqué l'annonce.",
+      "34 ans, employé·e de commerce, de bureau ou d'administration : Une soirée en semaine à Petit-Lancy, avec de jeunes enfants à la maison et un dispositif que je ne suis pas de près : je l'aurais sans doute vu passer sans m'y intéresser, donc j'en aurais peu parlé autour de moi."
+    ]
+  },
+  {
+    "id": "gen02",
+    "commune": "Thônex",
+    "run": "ge-thonex",
+    "habitants_16_plus": 14010,
+    "taux_panel": 0.0289,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "17 ans, en formation (apprentissage ou études) : En juin 2024 j'avais 14 ou 15 ans, sous le minimum de 16 ans sauf accord parental, et une assemblée de quartier en soirée un mercredi ne faisait pas partie de mon quotidien, si bien que je n'en ai sans doute jamais entendu parler autour de moi.",
+      "31 ans, employé·e de la vente, de la restauration ou du transport : Même proche du PS, je ne suis pas du genre à suivre les affaires communales, et entre mes horaires de restauration et de vente, un mercredi soir de juin à la salle des fêtes me paraît peu réaliste, donc je n'en aurais sans doute pas entendu parler à temps ni n'en parlerais autour de moi.",
+      "53 ans, employé·e de commerce, de bureau ou d'administration : Je suis éligible, mais une soirée de lancement de 18h à 21h un mercredi de juin, avec mon travail et mes enfants à gérer, ne m'aurait pas incitée à y aller, et ce Conseil des habitants ne me paraît pas me concerner directement.",
+      "66 ans, retraité·e : Retraitée seule, 64 ans à l'époque, sans engagement dans la vie politique locale et peu sortie le soir, je n'aurais sans doute pas fait le déplacement jusqu'à la salle des fêtes pour une assemblée de lancement ; j'en aurais tout au plus entendu parler par le bulletin communal.",
+      "78 ans, retraité·e : Vivant seul et peu sorti le soir, je n'ai probablement jamais su qu'une assemblée avait lieu à la salle des fêtes, et je n'en aurais parlé qu'à quelques voisins si le thème de la sécurité m'avait intéressé.",
+      "40 ans, employé·e de commerce, de bureau ou d'administration : Assemblée de lancement un soir de semaine en juin 2024, sans mandat ni engagement local : il suit la politique de loin, sans réflexe de se déplacer à ce type de rencontre, et n'évoquerait le Conseil des habitant·e·s autour de lui que par hasard."
+    ]
+  },
+  {
+    "id": "gen08",
+    "commune": "Meyrin",
+    "run": "ge-meyrin",
+    "habitants_16_plus": 22194,
+    "taux_panel": 0.0158,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "39 ans, agriculteur·rice, exploitation familiale maraîchère et de grandes cultures, en production conventionnelle : Un samedi après-midi de juin 2024, en pleine saison de travail et de vente sur l'exploitation, pour un projet d'urbanisme sans lien direct avec son métier, annoncé par des flyers et une plateforme en ligne qui le touchent peu.",
+      "41 ans, cadre ou profession libérale : Je vis dans la cité de Meyrin, je ne reçois pas les flyers de Cointrin, et un samedi après-midi en famille avec les enfants je ne me vois pas aller à une concertation sur un quartier où je n'habite pas, donc je n'en parle guère.",
+      "28 ans, artisan·e ou indépendant·e du bâtiment : Le projet concerne Cointrin, rien ne me lie à ce quartier et je n'ai pas vu l'affichage ; un samedi après-midi entre chantiers et enfants, je n'aurais probablement pas fait le déplacement.",
+      "60 ans, employé·e de commerce, de bureau ou d'administration : La démarche visait surtout les habitants de Cointrin et je vis dans un hameau de la zone agricole, loin de là ; un samedi après-midi, je préfère rester avec mon conjoint, et rien dans la communication ne m'a donné envie de m'y rendre.",
+      "20 ans, jeune employé·e ou apprenti·e en fin de formation : J'habite la cité, pas Cointrin, et les flyers n'étaient distribués que dans les boîtes de Cointrin ; un samedi après-midi en paroisse ne me disait rien à 17 ou 18 ans, et je n'ai pas vu l'annonce.",
+      "22 ans, jeune employé·e ou apprenti·e en fin de formation : Cet atelier s'adresse aux habitant·e·s de Cointrin un samedi après-midi, et je vis dans le quartier des villas près du Centre, donc je n'ai probablement jamais vu le flyer."
+    ]
+  },
+  {
+    "id": "gen03",
+    "commune": "Meyrin",
+    "run": "ge-meyrin",
+    "habitants_16_plus": 22194,
+    "taux_panel": 0.0545,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.0358,
+    "raisons_echantillon": [
+      "25 ans, employé·e de la vente, de la restauration ou du transport : Il aurait pu remplir un court questionnaire en ligne s'il tombait dessus, mais la culture locale ne l'attire pas, il ne suit pas la politique culturelle de la ville et ses horaires rendent les ateliers difficiles, donc il en parlerait peut-être à sa compagne sans plus.",
+      "83 ans, retraité·e : Sans condition d'âge ni de résidence, la consultation sur la culture me concerne, mais à mon âge je réponds rarement aux questionnaires en ligne et je croise peu les médiateurs, donc j'y ai peu participé, et j'en ai surtout parlé si l'on m'en parlait à table ou dans l'immeuble.",
+      "43 ans, employé·e de commerce, de bureau ou d'administration : Un questionnaire en ligne sur la culture me paraît faisable, mais je ne suis pas très engagée dans la vie associative ou culturelle de la commune, donc je l'aurais probablement laissé passer.",
+      "40 ans, agriculteur·rice, exploitation familiale maraîchère et de grandes cultures, en bio : Un questionnaire en ligne demande peu de temps, mais entre l'exploitation et les enfants je réponds rarement à ce genre de consultation, et la culture municipale passe après les urgences de la ferme.",
+      "21 ans, agriculteur·rice, exploitation familiale maraîchère et de grandes cultures, en bio : La culture à Meyrin me concerne peu au quotidien, mais un questionnaire court en ligne pourrait me prendre cinq minutes si je tombe dessus, ce qui reste peu probable entre le travail des champs et la famille.",
+      "54 ans, ouvrier·ère ou technicien·ne dans l'industrie : Les Assises sont ouvertes à tous et un questionnaire court en ligne compterait, mais la culture passe après le travail et la famille, et je ne réponds pas spontanément à ce type de consultation."
+    ]
+  },
+  {
+    "id": "gen04",
+    "commune": "Le Grand-Saconnex",
+    "run": "ge-grand-saconnex",
+    "habitants_16_plus": 10454,
+    "taux_panel": 0.0459,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.0959,
+    "raisons_echantillon": [
+      "16 ans, en formation (apprentissage ou études) : En mai 2025 j'avais 14 ou 15 ans, un questionnaire sur un futur quartier ne m'aurait pas accrochée seule, même si l'école ou la fête de la Susette pouvait m'en faire parler.",
+      "46 ans, cadre ou profession libérale : Le questionnaire en ligne de 28 questions sur la Susette, en mai 2025, porte sur un secteur que je ne fréquente pas assez pour me sentir concerné, et entre le travail et la famille j'ai pu voir passer l'annonce sans y donner suite.",
+      "49 ans, professionnel·le de la santé, du social ou de l'éducation : Le questionnaire porte sur un quartier que je ne fréquente pas, et 28 questions en mai demandent un temps que mes journées de travail ne me laissent guère.",
+      "49 ans, professionnel·le de la santé, du social ou de l'éducation : Le questionnaire de 28 questions de mai 2025 demandait plus de temps que je n'en avais entre mon travail et les enfants, donc je ne l'ai probablement pas rempli, même si les animations en classe ont pu m'en faire parler à la maison.",
+      "28 ans, employé·e de la vente, de la restauration ou du transport : Je travaille en horaires décalés et je m'occupe seule de mes enfants, donc un questionnaire en ligne sur la Susette, un quartier qui ne me concerne pas directement depuis mes villas, m'est probablement passé sous les yeux sans que je prenne le temps de le remplir.",
+      "91 ans, retraité·e : À 90 ans, un questionnaire de 28 questions sur un site de l'État me rebute, le quartier de la Susette ne me touche pas directement et je n'ai pas vu d'invitation, donc je ne m'y suis probablement pas mis, et je n'en parlerais que si l'on me pose la question."
+    ]
+  },
+  {
+    "id": "gen05",
+    "commune": "Le Grand-Saconnex",
+    "run": "ge-grand-saconnex",
+    "habitants_16_plus": 10454,
+    "taux_panel": 0.0345,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "68 ans, retraité·e : Je n'ai pas vu passer ce sondage d'hiver sur les Marronniers, et un quartier qui n'est pas le mien au quotidien ne me pousse pas à en parler.",
+      "44 ans, ouvrier·ère ou technicien·ne dans l'industrie : Un sondage en ligne qui court de décembre à mars, pendant une période chargée entre travail et famille, et qui ne me touche pas directement : je n'aurais sans doute pas pris le temps, et je n'en aurais guère parlé autour de moi.",
+      "55 ans, professionnel·le de la santé, du social ou de l'éducation : Un sondage en ligne ouvert à toute la commune, mais le quartier des Marronniers ne me concerne pas directement et je n'ai pas le réflexe de répondre aux sondages quand le travail et la famille prennent le dessus.",
+      "65 ans, retraité·e : Je ne suis pas concernée par le quartier des Marronniers et je ne réponds presque jamais aux sondages en ligne sur participer.ge.ch ; si une voisine m'en parlait, j'en discuterais peut-être, mais je n'ai pas le réflexe de m'engager.",
+      "62 ans, artisan·e ou indépendant·e du bâtiment : Je n'ai pas de lien particulier avec le quartier des Marronniers et un sondage en ligne avec inscription, sans relance de ma part, ne fait pas partie de mes habitudes, donc je n'en parle guère non plus.",
+      "28 ans, employé·e de la vente, de la restauration ou du transport : Les Marronniers ne sont pas mon quartier, le sondage en ligne de l'hiver 2024-2025 demandait du temps que je n'avais pas, et les rencontres en présentiel tombaient sur mes heures de travail ou de garde."
+    ]
+  },
+  {
+    "id": "gen06",
+    "commune": "Genève",
+    "run": "ge-geneve",
+    "habitants_16_plus": 181127,
+    "taux_panel": 0.0187,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "64 ans, employé·e de commerce, de bureau ou d'administration : Je n'habite pas la Jonction, je travaille à plein temps et le soir je m'occupe de la famille, et une consultation sur un bâtiment universitaire ne m'a jamais accroché, je n'ai pas souvenir que le sujet soit venu à la maison ni au travail.",
+      "82 ans, retraité·e : À 79 ans, retraitée, sans lien avec l'université ni avec la Jonction, je n'ai très probablement jamais vu ce sondage en ligne fin 2023, et un centre de sciences universitaire n'est pas un sujet dont je parle avec mes proches.",
+      "43 ans, artisan·e ou indépendant·e du bâtiment : Artisane du bâtiment avec des enfants et des chantiers en fin d'année, je n'ai ni le temps ni l'envie de répondre à un sondage sur un bâtiment universitaire au bord de l'Arve, loin de mon quartier de villas, et ce genre de démarche de la ville ne me parvient presque jamais, donc je n'en parle pas autour de moi.",
+      "16 ans, en formation (apprentissage ou études) : En fin 2023 j'avais 13 ou 14 ans, je ne faisais pas partie du public visé (communauté universitaire ou habitant·e·s de la Jonction) et je n'ai probablement jamais vu ce sondage en ligne. Le sujet est aussi loin de mon quotidien d'adolescente, donc je n'en aurais parlé autour de moi que si un proche l'avait évoqué devant moi.",
+      "25 ans, cadre ou profession libérale : Le sondage en ligne a couru de fin décembre à début janvier, pendant les fêtes, sur un projet universitaire de la Jonction que je ne fréquentais pas ; je l'aurais vu passer sans m'y arrêter, et je n'en aurais probablement pas parlé à mon compagnon ou à mes amis.",
+      "64 ans, parent au foyer ou sans emploi : Je ne fais pas partie de la communauté universitaire, je vis au centre et non à la Jonction, et je n'ai pas vu passer ce sondage pendant les fêtes, donc je ne l'ai probablement pas rempli, et il est peu probable que j'en aie parlé autour de moi."
+    ]
+  },
+  {
+    "id": "gen07",
+    "commune": "Carouge",
+    "run": "ge-carouge",
+    "habitants_16_plus": 19122,
+    "taux_panel": 0.0267,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "62 ans, employé·e de la vente, de la restauration ou du transport : Mes horaires de travail rendent un atelier à 18h en semaine peu probable, et ce quartier ne me concerne pas directement, donc je n'ai sans doute même pas remarqué l'annonce.",
+      "92 ans, retraité·e : A 90 ans et seul, une visite de site et un atelier en soirée me paraissent hors de portée, même si le Tir-au-Canon m'intéresse et que je suis proche des Vert-e-s, et j'en aurais peut-être parlé à quelques camarades du parti sans plus.",
+      "65 ans, retraité·e : A 63 ans, retraité, je n'ai pas suivi cette concertation sur le Tir-au-Canon : une soirée en semaine à 18h, un projet d'urbanisme qui ne me touche pas directement et peu d'information reçue m'ont fait rester chez moi.",
+      "67 ans, retraité·e : Retraité et disponible le soir, je pourrais aller à un atelier par curiosité, mais un périmètre précis comme le Tir-au-Canon ne m'attire pas assez pour me déplacer, et je n'en parlerais guère qu'à mes proches si cela touchait directement mon quartier.",
+      "65 ans, retraité·e : Une soirée d'atelier avec visite de site, un mercredi de mai 2024, pour un quartier qui ne me touche pas directement : je n'y suis probablement pas allée, et j'en ai peu parlé, tout au plus une phrase à la maison.",
+      "39 ans, parent au foyer ou sans emploi : Un atelier en soirée (18h à 20h) en semaine est très difficile avec des enfants à la maison, et ce quartier précis ne me concerne pas directement, donc je n'en parlerais guère qu'à quelques proches engagés à gauche."
+    ]
+  },
+  {
+    "id": "gen09",
+    "commune": "Versoix",
+    "run": "ge-versoix",
+    "habitants_16_plus": 11436,
+    "taux_panel": 0.0232,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "39 ans, employé·e de commerce, de bureau ou d'administration : Un atelier un lundi soir de 18h30 à 20h30, entre le bain et le coucher des enfants, pour une démarche de quartier qui ne touche pas directement mon quotidien ; je n'irais que si quelqu'un de mon entourage m'y entraînait.",
+      "82 ans, retraité·e : Retraité de 81 ans qui vit seul, je ne suis probablement pas concerné par le chemin du Val-de-Travers et une soirée d'atelier en novembre me tente peu, mais l'aménagement du territoire touche aux Vert-e-s dont je suis proche, donc j'en parlerais peut-être à quelques amis.",
+      "34 ans, professionnel·le de la santé, du social ou de l'éducation : Un atelier en soirée un lundi, après mes journées dans la santé et le social, ne rentre pas dans mon quotidien, et le chemin du Val-de-Travers ne me concerne pas directement ; si quelqu'un au travail en parlait, j'en discuterais peut-être, mais je n'en aurais sans doute pas entendu parler.",
+      "52 ans, artisan·e ou indépendant·e du bâtiment : Un atelier le lundi soir sur inscription ne colle pas avec le planning d'une artisane qui a des enfants, et le sujet ne me touche pas directement, donc je n'y vais probablement pas et je n'en parle guère autour de moi.",
+      "34 ans, ouvrier·ère ou technicien·ne dans l'industrie : Je n'ai jamais entendu parler de cette démarche, et un atelier de deux heures un lundi soir, sur inscription, ne rentre pas dans mes habitudes après le travail, même si le quartier de la gare me touche un peu (je n'en parlerais guère qu'à ma compagne).",
+      "66 ans, retraité·e : Atelier du soir sur inscription, seule et sans lien direct avec le chemin du Val-de-Travers : je n'ai guère de raison d'y aller, et je n'ai pas le souvenir d'avoir beaucoup entendu parler de cette démarche, donc je n'en parlerais guère autour de moi."
+    ]
+  },
+  {
+    "id": "gen10",
+    "commune": "Veyrier",
+    "run": "ge-veyrier",
+    "habitants_16_plus": 9907,
+    "taux_panel": 0.0456,
+    "part_habitants_probabilite_10_pct_ou_plus": 0,
+    "raisons_echantillon": [
+      "30 ans, agriculteur·rice, exploitation familiale de grandes cultures, en production conventionnelle : Entre les semis d'automne et les travaux des champs au printemps, mon temps est pris par l'exploitation, et ce quartier de 120 logements au nord de la commune ne me concerne pas directement, donc je ne me suis pas déplacé et le sujet revient rarement dans mes discussions.",
+      "47 ans, cadre ou profession libérale : Je n'ai pas le réflexe de ces rencontres et je ne suis pas sûre d'avoir vu l'annonce, même si ce projet près du Bois Carré pourrait toucher notre quartier, ce qui m'aurait peut-être poussée à passer un samedi à la journée d'exposition.",
+      "59 ans, ouvrier·ère ou technicien·ne dans l'industrie : Entre mon poste dans l'industrie et les enfants à la maison, une exposition sur un quartier qui n'existe pas encore ne m'a pas attirée, et je n'en ai pas reparlé autour de moi, même si j'ai vaguement entendu parler du projet.",
+      "49 ans, employé·e de la vente, de la restauration ou du transport : Je n'ai rien vu passer de ce projet de quartier, et le seul rendez-vous ouvert à tous tombait un samedi, jour où je travaille souvent et où je n'ai personne pour garder les enfants ; si j'en ai parlé, ce serait au mieux avec des amis proches de la gauche.",
+      "59 ans, employé·e de commerce, de bureau ou d'administration : Je connais ce projet de loin, mes semaines de travail et ma famille prennent déjà l'essentiel de mon temps, et une exposition sur un plan de quartier ne m'attire pas assez pour y aller ni pour en parler autour de moi.",
+      "37 ans, employé·e de commerce, de bureau ou d'administration : Je n'ai pas le souvenir de cette démarche de Pré-des-Dames, je travaille à plein temps et je vis seul, donc une journée d'exposition ou une séance en soirée en semaine ne m'attire guère, et je n'en parlerais que si un collègue m'interrogeait sur le nouveau quartier."
+    ]
+  }
+]

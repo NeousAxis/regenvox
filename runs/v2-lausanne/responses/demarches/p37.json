@@ -1,0 +1,65 @@
+{
+  "id": "p37",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Je me promenais parfois à Sauvabelin, mais un sondage en ligne ou sur papier sur l'avenir des établissements ne m'aurait pas décidé à répondre, et je n'en aurais guère parlé hors de la famille."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Le budget participatif pilote de 2019 m'a échappé, le vote se faisait en ligne ou dans des urnes de quartier que je ne fréquentais pas, et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "En 2020, avec la pandémie et le vote en ligne ou aux stands du marché, je n'ai sans doute pas pris la peine de voter, même si j'ai pu en toucher un mot à ma femme."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.14,
+      "partage_proba": 0.22,
+      "raison": "Le visage de mon quartier d'immeubles me concerne directement et je suis proche des Verts, donc un sondage de cinq minutes peut me tenter, mais l'usage d'internet n'est pas mon fort et les soirées d'information me semblent lointaines."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.26,
+      "partage_proba": 0.3,
+      "raison": "Le bulletin de vote préaffranchi arrivant à domicile pour la première fois, je l'ai probablement rempli et renvoyé, et j'en ai parlé avec ma femme à table, sans aller plus loin."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Je me promène parfois au bord du lac, mais un questionnaire en ligne d'une quinzaine de questions sur la fermeture des quais ne m'attire pas et je n'ai pas d'avis assez marqué pour en parler."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.24,
+      "partage_proba": 0.14,
+      "raison": "Ayant pris l'habitude du bulletin préaffranchi reçu à domicile, je le remplis en général pour les projets de quartier, sans me passionner pour les détails, et j'en parle peu."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "La question du racisme me touche, mais la consultation, distribuée dans des maisons de quartier et des bureaux que je ne fréquente pas, m'a échappé et je n'ai pas eu l'occasion d'en parler."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.28,
+      "partage_proba": 0.18,
+      "raison": "Un bulletin nominatif envoyé dès quatre ans à toute la population, avec un retour gratuit par la poste, rend le vote facile, donc je l'ai probablement retourné, mais je n'en ai guère parlé au-delà de mon foyer."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.22,
+      "partage_proba": 0.12,
+      "raison": "À quatre-vingt-trois ans le vote par bulletin reste simple, mais les projets proposés ne me touchaient que de loin et l'échéance d'automne m'a sans doute fait oublier."
+    }
+  ]
+}

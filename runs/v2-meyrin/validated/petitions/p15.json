@@ -1,0 +1,125 @@
+{
+  "id": "p15",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Une question de surveillance et d'éthique à l'EPFL, à Lausanne, qui ne me touche pas directement et dont je ne suis pas familière, donc je passerais sans signer."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.25,
+      "partage_proba": 0.3,
+      "raison": "Les canicules de cet été m'inquiètent et je vois leurs effets dans mon travail auprès de publics fragiles, mais je signe rarement une lettre ouverte de coalition, donc je reste prudente."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.35,
+      "partage_proba": 0.2,
+      "raison": "Je suis opposée à cette initiative qui menacerait des personnes vulnérables et le droit d'asile, et Meyrin compte beaucoup de résidents étrangers, donc je signerais, mais je ne partagerais que dans un cercle proche."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Je me méfie des procédures-bâillon, mais cette affaire est très polarisée autour de Gaza et je ne suis pas assez informée pour prendre position à la légère, donc je m'abstiens le plus souvent."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.3,
+      "partage_proba": 0.25,
+      "raison": "En tant que professionnelle de la santé, je vois les dégâts neurologiques du protoxyde d'azote chez les jeunes, donc je signerais, et je le partagerais surtout auprès de parents ou de collègues concernés."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "La question climatique me touche, mais je ne sais pas où vont les placements de ma caisse de pension et le texte en anglais s'adresse à un public que je ne connais pas bien, donc je signe peu souvent ce type de pétition."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Le texte se présente lui-même comme fictif, propose une réforme très lourde de l'assurance-maladie et fragmente le système canton par canton, ce qui ne correspond pas à une demande que je porterais."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "La question de l'AVS me concerne de près à 56 ans, mais la pétition vient d'un parti libéral de jeunes et ses pistes (cannabis, tabac, spiritueux) ne me convainquent pas assez pour signer."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je n'habite pas à Versoix et ce projet local concerne une commune où je n'ai pas de vie quotidienne, donc je ne vois pas de raison de signer ce texte."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.25,
+      "partage_proba": 0.12,
+      "raison": "Ce témoignage m'émeut et je connais la détresse de ces situations par mon métier, donc je signerais, mais je ne partagerais pas un vécu aussi intime sans l'accord de la personne concernée."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.3,
+      "partage_proba": 0.35,
+      "raison": "Je travaille dans le social et la santé et je constate les délais d'attente pour une psychothérapie, donc cette motion me concerne directement et je relaierais volontiers la pétition auprès de collègues."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Une ferme privée d'agrumes à Borex, dans le canton de Vaud, ne me concerne pas, je n'ai aucun lien avec cette commune ni avec ce dossier d'activités touristiques."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Je suis sensible aux violences faites aux femmes et au manque de places d'accueil, mais le canton du Jura est loin de Genève et je ne signe pas facilement une pétition sur un autre canton."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Les canicules me préoccupent, mais ce tramway lausannois et le parti local qui le porte ne me concernent pas assez pour que je m'y engage."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.25,
+      "partage_proba": 0.2,
+      "raison": "Je suis sensible au sort des personnes exilées et aux rapports sur la torture au Burundi, Meyrin compte beaucoup de personnes étrangères, donc je signerais probablement et je le partagerais parfois auprès de personnes engagées dans l'aide aux réfugiés."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "La formation des jeunes en situation de handicap touche mon domaine éducatif, mais ce projet de réforme du CFC est très technique et trop abstrait pour que je le signe ou le relaie."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.22,
+      "partage_proba": 0.25,
+      "raison": "Les lunettes-caméras m'inquiètent surtout pour les enfants et pour les femmes filmées à leur insu, donc je signerais et je le partagerais à mes proches."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.18,
+      "partage_proba": 0.12,
+      "raison": "L'urgence climatique me préoccupe, mais cet appel général, sans demande précise qui me toucherait directement, me semble assez vague et je ne signe pas facilement ce type de texte."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.2,
+      "partage_proba": 0.15,
+      "raison": "Les incendies et la sécheresse me préoccupent et supprimer des fonds d'adaptation me paraît absurde, mais je vis en ville à Meyrin et je ne me sens pas concernée personnellement par les forêts."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.18,
+      "partage_proba": 0.15,
+      "raison": "Les abus facilités par la drogue sont un sujet grave que je connais par mon métier, mais je doute qu'une task force nationale soit la bonne réponse, donc je ne signe pas facilement ce type d'appel."
+    }
+  ]
+}

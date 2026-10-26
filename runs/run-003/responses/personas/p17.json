@@ -1,0 +1,140 @@
+{
+  "id": "p17",
+  "portrait": "J'ai 27 ans, je suis technicien de production dans l'industrie de la région, et je vis en couple avec nos enfants dans un quartier résidentiel récent de Vuadens. Je vote à gauche, proche du PS, sans être militant, et je m'intéresse surtout à ce qui touche mon budget et l'avenir des enfants. L'agriculture autour du village, je la vois comme un décor agréable, sans savoir vraiment comment vivent les paysans.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans ne peuvent pas vivre de leur travail, le bio ne tiendra pas. Moi aussi je compte chaque fin de mois, donc je veux qu'on parle de revenus avant de parler de labels. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je travaille souvent en équipes, je ne suis pas disponible en semaine",
+        "Je ne connais pas les agriculteurs de la commune, je ne saurais pas à qui parler"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur ce que gagne une ferme en bio par rapport à une ferme laitière classique, et une séance le soir ou le samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Acheter local pour la cantine des enfants, pourquoi pas. Devenir partenaire d'une ferme, ça me paraît un peu grand, je fais mes courses là où c'est le moins cher avec une famille à nourrir. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le bio reste plus cher, et le budget de la famille ne suit pas toujours",
+        "Je n'ai pas de voiture pour aller à la ferme le soir",
+        "L'idée de partenariat me paraît abstraite"
+      ],
+      "ce_qui_me_ferait_venir": "Des paniers ou un point de vente directement à Vuadens, un prix raisonnable, et une explication claire de ce que la famille y gagne."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Mes enfants vont grandir ici, et moi j'habite déjà dans un quartier récent, alors je veux qu'il reste des champs et de l'eau propre pour eux. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je suis d'accord avec la question, mais je ne vois pas bien ce que je peux faire concrètement à mon niveau",
+        "Après le travail, je n'ai pas toujours l'énergie pour une soirée de discussion"
+      ],
+      "ce_qui_me_ferait_venir": "Un message qui parle de l'école et des enfants, des exemples de réussites près de chez nous, et des habitants du village qui racontent leur expérience."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les paysans nourrissent tout le monde, ils n'ont pas besoin d'une reconnaissance de la commune, ils ont besoin d'un revenu correct. Les histoires de sols et de vie sauvage, c'est pas trop mon sujet. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Ces questions de sols et de biodiversité ne me touchent pas au quotidien",
+        "Ça sonne surtout comme un discours, je veux voir l'effet sur le revenu"
+      ],
+      "ce_qui_me_ferait_venir": "Que ça se traduise par un revenu supplémentaire visible pour les fermes, et pas seulement par des mots ou des panneaux."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "collègues de l'atelier, parents rencontrés à l'école et à la crèche, voisins du quartier récent, quelques copains du club de sport. Surtout des salariés de l'industrie et de jeunes familles, très peu de contacts dans le monde agricole."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas l'âge de voter à l'époque, et je n'avais pas encore d'avis sur les résidences secondaires."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "J'étais encore enfant, pas en âge de voter, et l'aménagement du territoire ne me parlait pas."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter, je ne suivais pas ces sujets."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter, je n'ai pas de souvenir d'un vrai débat sur ce sujet à la maison."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.35,
+      "oui_proba": 0.8,
+      "raison": "C'était la première année où je pouvais voter, et je vote peu à cette époque. Les règles pour les produits importés et les conditions de travail me parlent, je suis plutôt pour."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "J'aime l'idée de protéger ce qui est produit ici, mais des droits de douane qui font monter les prix et une interdiction des OGM sans vrai débat ne me convainquent pas. Je vais rarement voter."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.35,
+      "oui_proba": 0.75,
+      "raison": "L'eau potable pour mes enfants, c'est évident. Réserver les paiements directs aux fermes sans pesticides ni antibiotiques préventifs me paraît juste, même si ça pose la question du revenu des paysans."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour réduire les pesticides, mais une interdiction totale avec dix ans de transition touche des fermes qui vivent déjà difficilement. Je suis partagé, et je voterais oui à contrecœur."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le climat compte, mais une taxe sur les billets d'avion et des hausses sur le mazout et l'essence, avec un budget de famille et un véhicule pour aller travailler, ça me fait réfléchir. Je ne suis pas sûr de mon choix."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "La dignité des animaux de rente, je suis d'accord. Mais une transition de 25 ans et des normes sur les importations touchent les éleveurs de la région, et la campagne me paraît un peu caricaturale, donc je ne suis pas très motivé pour voter."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Le zéro net en 2050 et les aides pour changer le chauffage, je suis pour, ça aide les familles comme la mienne. Je veux que ça ne se fasse pas au détriment des salaires de l'industrie."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Protéger la nature, oui. Mais davantage de surfaces dédiées à la biodiversité veut aussi dire moins de terrain pour les fermes et moins de constructions, dans un village qui vit en partie de l'agriculture. Je suis partagé."
+    }
+  ]
+}

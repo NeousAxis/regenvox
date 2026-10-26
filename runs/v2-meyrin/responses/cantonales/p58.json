@@ -1,0 +1,29 @@
+{
+  "id": "p58",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je suis en couple sans enfants et je n'ai pas envie qu'on ajoute encore un remboursement de 20 millions par an payé par tout le monde, alors que l'assurance maladie me coûte déjà assez cher."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Les bouchons à la frontière, je les subis tous les jours à Meyrin et 15 000 voitures en moins me parlent, mais payer des bus et des tramways en France après le refus de 2014 ne passe pas bien chez moi."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Pouvoir acheter son appartement un jour me plairait, mais le risque de congés-ventes et de locataires poussés dehors me retient, et mon parti dit non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "La HES forme des gens utiles et deux millions de moins par an pour le canton, c'est un geste que l'UDC soutient, donc je vote oui sans trop me passionner pour le sujet."
+    }
+  ]
+}

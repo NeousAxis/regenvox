@@ -1,0 +1,29 @@
+{
+  "id": "p61",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.08,
+      "raison": "Je n'ai plus besoin de contraception, et je ne veux pas que l'État paie ça pour tout le monde, comme le dit l'UDC."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je ne vois pas pourquoi Genève financerait des bus et des tramways en France alors que nos routes et nos loyers posent problème, et on nous a déjà dit non en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Vendre les appartements aux locataires finit en congés-ventes, on met dehors les anciens de nos immeubles, donc je dis non, comme l'UDC."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Je suis le mot d'ordre de l'UDC, qui soutient la baisse de 2 millions pour la HES, et ces écoles ne me concernent plus vraiment."
+    }
+  ]
+}

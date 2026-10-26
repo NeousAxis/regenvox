@@ -1,0 +1,65 @@
+{
+  "id": "p73",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas de lien particulier avec les établissements de Sauvabelin, je n'ai pas le temps de répondre à des sondages en pleine saison de chantier, et je n'ai probablement pas vu l'annonce."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Le budget participatif venait d'être lancé en projet pilote et je ne le connaissais pas, alors qu'il fallait se déplacer jusqu'à une urne ou créer un compte pour voter."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "J'avais entendu parler de la deuxième édition, mais entre le Covid, mes chantiers et l'absence de bulletin à la maison, je n'ai pas pris le temps de voter."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Le plan d'affectation me concerne indirectement comme artisane du bâtiment et un sondage de cinq minutes pourrait me tenter, mais je n'ai probablement pas vu l'annonce et les soirées d'information demandent trop de temps."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.14,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin affranchi arrive dans la boîte aux lettres, ce qui aide, mais entre le travail, les enfants et le courrier administratif il risque de finir sous une pile, et les projets proposés ne me touchent pas assez pour que je m'en occupe."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.07,
+      "raison": "La fermeture des quais le week-end me concerne peu, puisque je circule surtout en semaine pour mes chantiers, et je n'ai probablement pas vu passer le questionnaire."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.18,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif arrive directement chez moi et je m'y mets parfois, surtout pour les projets qui profitent aux enfants, mais je n'ai pas déposé de projet et je vote de façon irrégulière."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "En tant qu'étrangère, la question du racisme me touche personnellement et je pourrais répondre si je tombais sur le questionnaire, mais je ne fréquente pas beaucoup les maisons de quartier où il était distribué."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.2,
+      "partage_proba": 0.1,
+      "raison": "Mon bulletin nominatif arrive à la maison et je vote parfois quand un projet d'enfants me parle, mais la plupart du temps je le laisse de côté faute de temps."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.22,
+      "partage_proba": 0.1,
+      "raison": "Après plusieurs éditions, voter est devenu une habitude légère, mais la période estivale et les journées chargées avec les enfants font que je ne m'y mets que si le bulletin reste bien en vue."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p49",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je ne suis pas contre aider les plus précaires, mais 20 millions de plus à payer par l'impôt, sans condition de revenu, ça ne me convainc pas, et le PLR dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.62,
+      "raison": "Les bouchons vers l'aéroport et la frontière me font perdre du temps sur mes chantiers, donc des bus et un tram qui désengorgent sont utiles, même si je n'aime pas payer en France : je voterai probablement oui."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je suis plutôt favorable à la propriété et le PLR soutient le texte, mais je me méfie des risques de congés pour les autres locataires, donc je pencherai pour le oui seulement si le cadre protège tout le monde."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.7,
+      "raison": "Réduire de 2 millions une indemnité déjà ajustée me paraît raisonnable, et former des techniciens et ingénieurs a son utilité, même si je ne suis pas un spécialiste de ce dossier."
+    }
+  ]
+}

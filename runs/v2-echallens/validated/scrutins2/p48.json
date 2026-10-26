@@ -1,0 +1,197 @@
+{
+  "id": "p48",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas l'âge de voter à cette date, donc je n'ai pas pris part à ce scrutin ; sur le fond, financer l'AVS me paraît juste."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.55,
+      "raison": "Pas encore en âge de voter à cette date ; aider l'AI pour les personnes qui ne peuvent plus travailler me paraît légitime, même si la TVA pèse sur les ménages."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas encore en âge de voter à cette date ; l'idée de limiter les exportations d'armes me parle, mais les emplois de l'industrie comptent aussi pour ma région."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Pas encore en âge de voter à cette date ; je ne suis pas concernée par le service militaire, et je trouve que le système actuel fonctionne plutôt bien."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Pas encore en âge de voter à cette date ; je comprends l'inquiétude sur l'immigration, mais je ne veux pas remettre en cause les accords avec l'UE qui soutiennent notre économie."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Pas encore en âge de voter à cette date ; acheter des avions pour notre défense me paraît raisonnable, et le PDC soutient la loi."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Pas encore en âge de voter à cette date ; la famille me tient à cœur et le PDC soutient l'initiative, donc je pencherais pour le oui."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Pas encore en âge de voter à cette date ; financer l'AVS avec la réforme des retraites me paraît nécessaire pour les générations qui suivent."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas encore en âge de voter à cette date ; le bien-être des animaux me touche, mais payer les éleveurs pour garder les cornes me semble difficile à justifier."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter à cette date ; je ne veux pas remettre en cause le droit international qui protège nos accords et nos échanges."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore 18 ans à cette date, je n'ai donc pas voté ; reprendre la directive européenne sur les armes me paraît raisonnable."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Majeure depuis peu, je suis plutôt contre la fin de la libre circulation : le PDC s'y oppose et mes collègues étrangers font partie de la vie de l'usine."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Le loup pose vraiment problème aux éleveurs de la région et le PDC soutient la loi, mais je n'ai pas un avis très construit sur la chasse."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Le PDC soutient l'achat et notre industrie profite de ces contrats, même si le montant de 6 milliards me fait réfléchir."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.25,
+      "oui_proba": 0.3,
+      "raison": "Empêcher les banques et les caisses de pension de financer l'industrie de défense me paraît excessif, car ces entreprises font travailler des gens de la région."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.3,
+      "oui_proba": 0.45,
+      "raison": "Je suis sensible à la qualité de l'eau, mais je ne veux pas pénaliser les paysans de la région, et le PDC dit non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "L'objectif me paraît juste, mais dix ans est un délai trop court pour nos agriculteurs, et le PDC dit non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Deux personnes qui s'aiment doivent pouvoir se marier, le PDC et une grande partie de la population soutiennent la réforme, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.25,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible au bien-être animal, mais interdire toute recherche médicale et tout essai sur l'humain me paraît irréaliste, et je fais confiance à la prudence des autorités."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "Le Centre soutient la reprise, et les accords de Schengen apportent de la sécurité et facilitent les échanges, même si je ne suis pas spécialiste de la question."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux compte pour moi, mais des exigences aussi strictes pour les importations et une transition de 25 ans font craindre des prix plus élevés, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Le Centre soutient ce financement de l'AVS, mais repousser à 65 ans l'âge de référence des femmes me pose question pour les métiers physiques."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "J'aime la nature autour d'Echallens et je suis sensible à la biodiversité, mais l'initiative me paraît trop contraignante pour les agriculteurs de la région, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Comme deuxième revenu du couple, je serais plutôt favorable à l'imposition individuelle, même si Le Centre s'y oppose."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Dans mon village, beaucoup de familles étrangères font partie du quotidien, et Le Centre dit non ; je comprends toutefois l'inquiétude sur le logement et les transports."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Le Centre soutient le durcissement, et je trouve juste que chacun fasse sa part, même si cela ne me touche pas directement."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La neutralité me paraît précieuse, mais interdire les sanctions et figer une neutralité armée va trop loin, et Le Centre dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Manger local et protéger l'eau me parlent, mais 70 % en dix ans est irréaliste pour nos paysans, et Le Centre dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "La 13e rente profitera à mes parents puis à moi, la hausse de 0,4 point reste modérée, l'alimentation et les médicaments en sont exclus, et Le Centre soutient le financement."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Le bruit des pétards me dérange avec les enfants et les animaux, mais les feux du 1er août et du Nouvel An font partie de la vie du village, et je ne suis pas certaine."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "J'avais plutôt approuvé l'imposition individuelle pour les femmes qui travaillent, mais Le Centre défend la famille et je ne sais pas encore quel effet cela aurait sur notre foyer."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Mon travail dans l'industrie dépend des exportations et Le Centre soutient la loi, mais l'idée de livrer du matériel à un pays en conflit me met mal à l'aise."
+    }
+  ]
+}

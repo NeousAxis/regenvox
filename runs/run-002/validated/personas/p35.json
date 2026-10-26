@@ -1,0 +1,139 @@
+{
+  "id": "p35",
+  "portrait": "J'ai 42 ans et je travaille comme technicienne dans l'industrie, dans la zone d'activités de Vuadens. Je vis en couple avec nos enfants dans le quartier résidentiel récent, je me sens proche de l'UDF et je me méfie naturellement de ce qui vient d'en haut. Ce qui compte pour moi, c'est que les gens d'ici qui travaillent la terre puissent vivre de leur métier.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Si les paysans ne peuvent pas vivre de leur travail, il ne restera plus personne pour entretenir nos champs.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je travaille en équipes décalées et mes soirées sont prises par les enfants et leurs activités",
+        "Je ne suis pas sûre que la commune écoute vraiment ou que la décision ne soit pas déjà prise"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes parlent, avec leurs chiffres de revenus, et qu'on sorte des discours d'experts."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Acheter local, oui, mais devenir partenaire d'une ferme, je ne vois pas très bien ce que ça veut dire concrètement.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps de suivre une démarche de plus",
+        "Je crains qu'on me demande de payer plus cher pour du bio sans que ça change grand-chose"
+      ],
+      "ce_qui_me_ferait_venir": "Un engagement simple et clair, avec un prix raisonnable, et des fermes du village qui m'invitent elles-mêmes à venir voir."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Dans trente ans, je pense surtout à l'avenir de mes enfants et à leur travail, la terre, ce sont les paysans qui s'en occupent.",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question aussi lointaine ne me donne pas envie de sortir un soir",
+        "Je n'ai pas l'impression que ça me concerne directement"
+      ],
+      "ce_qui_me_ferait_venir": "Un lien concret avec l'école ou les enfants, par exemple un verger ou un potager près du collège, plutôt qu'une réflexion générale."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les fermes entretiennent les haies et les prés qu'on voit tous les jours, ça devrait se savoir, mais sans leçons à la population.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas comment on mesurerait ce que les fermes apportent aux sols ou à l'eau",
+        "Les démarches de labels me paraissent surtout administratives"
+      ],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes à la ferme, où on voit concrètement ce qui est fait."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Collègues de l'entreprise, parents de l'école du village, voisins du quartier et famille élargie du côté de mon conjoint"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Ça ne concerne pas vraiment Vuadens, les résidences secondaires sont surtout ailleurs, et je n'aime pas qu'on restreigne ce que les gens peuvent faire de leur bien."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Il faut protéger les terres des paysans, mais je ne veux pas qu'on bloque les constructions pour les familles qui veulent rester au village."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Ça met beaucoup de contraintes sur l'économie, et dans l'industrie ce sont les emplois qui trinquent en premier."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas qu'on ferme les centrales sans savoir ce qui les remplace, avec mon travail dans l'industrie j'ai besoin d'une électricité stable."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Les énergies renouvelables, pourquoi pas, mais je ne veux pas que ça fasse grimper la facture des familles avec des taxes."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Manger sain et respecter les animaux, je suis d'accord, mais imposer les mêmes règles aux importations risque de faire monter les prix."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Protéger la production d'ici et nos paysans, ça me parle beaucoup, il faut qu'ils puissent vivre de leur travail."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Je suis pour une eau propre, mais priver les fermes de paiements directs si elles traitent leurs champs ou leurs bêtes, ça les met en difficulté."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je n'aime pas les produits chimiques, mais interdire les pesticides de synthèse, même avec dix ans de transition, va faire fermer des exploitations du coin."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Encore des taxes sur l'essence, le chauffage et les billets d'avion, les familles comme la mienne paient déjà assez, et je ne suis pas sûre que l'argent nous revienne."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le bien-être des animaux, je suis pour, mais imposer les exigences du label Bio Suisse à tout le monde, importations comprises, c'est des coûts en plus pour nos éleveurs et des assiettes plus chères."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Le climat, il faut s'en occuper, mais j'ai du mal avec les obligations pour les particuliers et les aides qui vont surtout aux grandes entreprises. Ça devrait profiter aux familles."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "La nature, on y tient tous, mais l'initiative demande plus de surfaces protégées et ça touche les paysans et les propriétaires. Je préfère que ça se règle entre gens du coin."
+    }
+  ]
+}

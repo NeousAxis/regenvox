@@ -1,0 +1,65 @@
+{
+  "id": "p03",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je ne fréquentais pas le site de Sauvabelin à l'époque et l'annonce ne visait que les usagers des établissements, donc je ne l'ai pas vue."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Premier budget participatif, peu médiatisé à mes yeux, et je n'avais pas encore de projet concret à défendre pour mon quartier."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "L'année Covid était chargée et le vote d'automne m'a échappé, même si je me souviens vaguement de l'annonce."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Un sondage de cinq minutes sur les quartiers me parle, mais je ne vais ni aux soirées ni aux balades, donc je ne réponds que si je tombe dessus."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Le bulletin affranchi dans la boîte aux lettres me rappelle la démarche, mais je le laisse souvent traîner avec le travail et j'oublie de le renvoyer."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Le questionnaire sur les quais m'aurait intéressé, mais je réponds rarement aux enquêtes de la Ville et l'annonce est passée sous mes yeux sans que je m'y arrête."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Je vote parfois quand le bulletin arrive à la maison, mais je connais mal les projets déposés par les habitants et je ne me sens pas concerné."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.14,
+      "partage_proba": 0.12,
+      "raison": "En tant qu'étranger je suis directement concerné par le racisme au quotidien, donc ce questionnaire me parle et j'en parlerais à mes collègues, même si je ne l'aurais pas forcément rempli sans le lien avec mon métier."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Le bulletin nominatif arrive chez nous et je le trie souvent parmi les courriers, donc je vote de temps en temps mais pas à chaque édition."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Entre la famille et le travail je n'ai pas le temps de suivre tous les projets, et cette année aucun ne touche directement mon quartier."
+    }
+  ]
+}

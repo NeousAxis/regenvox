@@ -1,0 +1,197 @@
+{
+  "id": "p14",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.92,
+      "raison": "À 65 ans je touche à la retraite et l'AVS me fera vivre, donc je soutiens son financement même si la TVA augmente un peu."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "L'assurance invalidité aide des gens que je connais dans le bourg, et une hausse temporaire de la TVA jusqu'en 2017 me paraît acceptable."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Je ne veux pas que notre pays vende du matériel de guerre, même si certaines entreprises de la région en vivent."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas convaincue qu'il faille imposer le service militaire à tous les jeunes, mais le sujet me touche peu et j'hésite."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.7,
+      "oui_proba": 0.12,
+      "raison": "Le bourg vit bien avec ses habitants étrangers, je ne veux pas fermer les frontières ni dénoncer les accords avec l'Europe."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je ne vois pas l'intérêt de dépenser des centaines de millions pour des avions de combat quand il manque de moyens pour les soins et les aides sociales."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Je vis seule et je ne veux pas qu'on définisse dans la Constitution ce qu'est une famille ni qu'on oppose les couples aux autres formes de vie commune."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Je soutiens le financement de l'AVS, mais le passage à 65 ans pour les femmes me paraît dur, alors je vote oui à contrecoeur."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Voir les vaches avec leurs cornes dans les prés me fait plaisir et les animaux méritent d'être respectés, mais je me demande si l'État doit payer pour cela."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Je ne veux pas que la Suisse passe au-dessus du droit international ni qu'elle dénonce des traités qui protègent les droits de tout le monde."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je suis pour la coopération avec l'Union européenne en matière de sécurité, et les exceptions pour les tireurs et l'arme d'ordonnance me paraissent raisonnables."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.08,
+      "raison": "Mettre fin à la libre circulation avec l'Union européenne serait une catastrophe pour l'économie et pour les familles d'ici, je vote non sans hésiter."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée aux loups et à la nature, je trouve dangereux de faciliter leur régulation avant même qu'ils ne fassent des dégâts."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Six milliards pour de nouveaux avions de combat, alors que l'AVS et les soins doivent se battre pour chaque franc, ça ne me convainc pas."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Je ne veux pas que la Banque nationale, les caisses de pension ou les fondations financent des fabricants de matériel de guerre, ça ne correspond pas à mes valeurs."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "L'eau du robinet et les champs autour du bourg doivent être propres, et je ne veux plus que l'argent public encourage les pesticides et les antibiotiques."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je suis inquiète pour l'eau et les sols, je pense que la transition est possible même si elle demande des efforts aux paysans de la région."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.9,
+      "raison": "C'est une question d'égalité élémentaire qui ne change rien pour moi, donc je dis oui sans difficulté."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je comprends l'envie de protéger les animaux, mais je dois ma santé à la recherche médicale et les partis que je suis disent non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je me méfie d'une agence qui renforce les contrôles aux frontières extérieures, on sait mal ce qu'elle fait réellement aux personnes migrantes, je vote non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Les animaux de rente méritent de meilleures conditions, y compris pour les produits importés, et je vois ce que donnent les fermes qui font les choses bien autour de nous."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.25,
+      "raison": "Relever l'âge de la retraite des femmes sans compensation suffisante est une injustice que j'ai vue de près autour de moi, alors je dis non."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Je vois les haies, les prairies et les oiseaux disparaître autour du bourg, donc je soutiens qu'on donne plus de place et de moyens à la nature."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "L'imposition individuelle me paraît plus juste pour les femmes et les couples mariés ne devraient pas payer plus à cause de leur mariage, même si je suis seule et peu concernée."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.1,
+      "raison": "Plafonner la population à 10 millions en dénonçant la libre circulation me paraît une fausse solution, et je refuse qu'on remette en cause les accords avec l'Europe."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Des jeunes qui ont déjà été à l'armée et veulent faire un service civil, je trouve ça dur de les en empêcher, donc je dis non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "La neutralité me tient à cœur, mais interdire toute sanction contre un agresseur me paraît dangereux et je ne veux pas la figer dans la Constitution."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "J'aime l'idée d'une eau propre et de moins de pesticides, mais imposer 70 % de production locale et moins de viande d'un coup me paraît difficile pour les prix et les paysans, je suis partagée."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.95,
+      "raison": "La 13e rente AVS m'aide à payer mes factures et je veux qu'elle soit financée, donc je vote oui à la hausse de la TVA."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Les pétards me font peur et font souffrir les animaux, donc j'aimerais qu'on limite le bruit, mais je tiens à ce que le 1er août reste une fête."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "J'ai soutenu l'imposition individuelle en mars et je ne vois pas pourquoi revenir en arrière, d'autant que je suis seule et pas concernée par l'imposition commune."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Livrer des armes à un pays impliqué dans un conflit ne me paraît pas compatible avec la neutralité, et je ne veux pas que la Suisse assouplisse ses règles pour les vendre."
+    }
+  ]
+}

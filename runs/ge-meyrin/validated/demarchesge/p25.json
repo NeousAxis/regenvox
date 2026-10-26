@@ -1,0 +1,17 @@
+{
+  "id": "p25",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Un samedi après-midi de juin, c'est la saison la plus chargée de mon exploitation maraîchère, et je n'ai jamais suivi ce genre d'atelier de quartier : si j'ai vu un flyer, je ne m'y suis pas arrêté."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "La culture n'est pas un sujet qui m'occupe, et les Assises demandent du temps que je n'ai pas en pleine saison : si j'ai répondu à quelque chose, c'est tout au plus à un questionnaire court, et je n'en ai sans doute parlé qu'à la maison."
+    }
+  ]
+}

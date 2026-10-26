@@ -1,0 +1,65 @@
+{
+  "id": "p25",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "J'avais seize ans, je ne fréquentais pas l'Auberge de Sauvabelin et je n'ai vu passer ni le sondage ni les ateliers du samedi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "C'était le premier budget participatif et je l'ai peut-être aperçu dans mon quartier, mais à 18 ans je n'ai pas pris le temps de choisir des projets."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Entre la pandémie et mes horaires dans la restauration, je n'ai pas suivi cette deuxième édition, même si voter en ligne aurait été simple."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.09,
+      "raison": "Un sondage de cinq minutes sur le visage de mon quartier m'aurait peut-être tentée, mais je ne suis pas tombée dessus et les soirées d'information ne m'attiraient pas."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin préaffranchi arrive directement chez moi, ce qui rend le vote facile, et des collègues m'en ont parlé, donc j'ai une vraie chance de le remplir."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Je fréquentais parfois les quais d'Ouchy l'été avec mes amies, donc le sujet me touche un peu, mais un questionnaire de quinze questions annoncé dans la presse ne m'a pas incitée à le remplir."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.09,
+      "partage_proba": 0.13,
+      "raison": "Le bulletin reçu à domicile m'aurait peut-être fait voter, mais en octobre et novembre mes horaires de travail étaient chargés et je ne connaissais pas encore bien les projets."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.12,
+      "raison": "Le racisme me révolte et j'en parlerais volontiers avec mes proches, mais je n'ai pas vu passer cette consultation et je ne suis pas sûre de vouloir témoigner en ligne."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.13,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin nominatif arrive à mon nom et voter prend dix minutes, mais entre mes horaires et le reste de ma semaine, je ne suis pas certaine de m'en souvenir au bon moment."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.11,
+      "partage_proba": 0.16,
+      "raison": "J'avais déjà entendu parler du budget participatif, donc le bulletin reçu chez moi aurait pu finir dans mon tri, mais entre mes horaires et mon quotidien à la maison, je ne suis pas sûre de l'avoir rempli."
+    }
+  ]
+}

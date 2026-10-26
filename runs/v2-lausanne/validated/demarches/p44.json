@@ -1,0 +1,65 @@
+{
+  "id": "p44",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le lac de Sauvabelin, on y va en famille le dimanche, mais un sondage sur les établissements je l'aurais laissé passer et les ateliers du samedi après-midi ne rentraient pas dans nos journées avec les enfants."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je ne me souviens pas d'avoir vu passer ce premier budget participatif, et même si j'en avais entendu parler, voter pour des projets de quartier que je ne connaissais pas n'avait rien d'évident."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "En 2020 le Covid occupait tout le monde, les stands du marché ne sont pas sur mon chemin le samedi matin, et je n'ai pas eu envie de m'intéresser à des projets qui ne touchaient pas mon quartier directement."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Un sondage de cinq minutes sur le visage de mon quartier, je l'aurais rempli un soir, mais je ne suis pas sûr de l'avoir vu passer, et les soirées d'information en pleine pandémie ne m'auraient pas attiré."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin affranchi arrive directement dans la boîte aux lettres, ce qui simplifie les choses, et j'en aurais parlé en famille, mais je ne vote pas à chaque édition, surtout quand les projets ne sont pas très visibles."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je passe parfois sur les quais d'Ouchy avec les enfants, donc le sujet me concerne un peu, mais un questionnaire de quinze questions sur le site de la Ville, je l'aurais probablement remis à plus tard puis oublié."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif arrive chez nous, je le remplis parfois, mais entre le travail et les enfants je l'ai souvent laissé traîner sur la table sans y revenir."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.11,
+      "raison": "Une consultation sur le racisme me touche de plus près en tant que résident étranger, mais je ne fréquente ni les maisons de quartier ni le Bureau pour les immigrés, et je n'ai pas vu les questionnaires papier, donc je ne crois pas l'avoir remplie."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif arrive avec ceux des enfants, et les projets de jeux et de quartier me parlent, mais je vote quand j'y pense, donc rarement, et il m'arrive d'en parler avec les voisins de l'immeuble."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin préaffranchi reste quelques jours sur la table de la cuisine et le vote prend cinq minutes, donc ça arrive, mais l'été et les vacances font qu'on l'oublie souvent, et je n'en parle guère hors de la famille."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p28",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.72,
+      "raison": "Le PS dit oui et une contraception remboursée pour tout le monde me paraît juste, même si je ne suis plus concerné directement, pour 20 millions par an c'est raisonnable."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Les bouchons à la frontière me pèsent chaque jour donc les bus et le tram me parlent, mais je me souviens du refus de 2014 et je n'aime pas payer des projets en France, je reste partagé."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Dans mon immeuble, beaucoup de voisins n'auraient jamais les moyens d'acheter, et le PS comme l'ASLOCA disent non : je ne vois pas pourquoi j'ouvrirais la porte aux congés-ventes."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "La HES me touche peu, mais comme le PS et le comité demandent de garder 35 millions par an, si je vote je dirai non à la baisse de l'indemnité."
+    }
+  ]
+}

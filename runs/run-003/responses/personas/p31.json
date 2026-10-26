@@ -1,0 +1,140 @@
+{
+  "id": "p31",
+  "portrait": "Je suis retraité, j'ai 89 ans et je vis au centre de Vuadens avec mon épouse, nos enfants sont partis depuis longtemps. Je suis Suisse, je vote depuis toujours et je suis proche de l'UDC : ce qui compte d'abord pour moi, c'est que le paysan puisse vivre de son travail sans qu'on lui impose des règles décidées à Berne ou en ville. Je ne suis pas contre la nature, mais je me méfie des grands projets présentés comme évidents, et je préfère qu'on me parle de choses concrètes.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Le paysan doit pouvoir vivre de son travail, c'est ça le principal. Le bio, si ça le fait vivre, tant mieux, mais on ne doit forcer personne.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai plus l'âge pour les soirées d'atelier",
+        "Je me méfie des projets qui viennent de la commune ou de loin, on a déjà beaucoup entendu de belles idées"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagne un agriculteur qui passe au bio, et la garantie que personne ne sera obligé de changer."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les gens viennent déjà acheter à la ferme quand ils en ont envie. Je ne vois pas pourquoi il faudrait un programme pour ça.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne me sens pas concerné par un partenariat de ce genre",
+        "Je ne m'engage plus dans les groupes depuis longtemps"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on m'explique ce que ça change concrètement pour le prix du lait ou pour l'entretien des chemins du village."
+    },
+    {
+      "angle_id": 3,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Dans trente ans je ne serai plus là. Ces grandes phrases, on en entend beaucoup, les actes c'est autre chose.",
+      "engagement": 0,
+      "freins_participation": [
+        "Ces questions sont trop larges pour moi",
+        "Les réunions du soir me fatiguent",
+        "Je ne serai plus là pour voir si ça a servi à quelque chose"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet concret, comme l'eau du village ou la façon dont on gère les champs près des maisons."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans entretiennent les prés et le paysage depuis toujours. Qu'on le reconnaisse, c'est juste, mais pas à coups de discours.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je me déplace moins facilement",
+        "Je ne vois pas très bien comment ça se concrétiserait"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance simple et visible, par exemple une information dans le bulletin communal sur ce que font nos agriculteurs."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 10,
+    "role": "relai",
+    "cercle_type": "Famille proche et voisins de longue date du centre du village, anciens collègues et camarades de sociétés locales, quelques agriculteurs de la commune avec qui je discute au quotidien. Peu de liens avec les nouveaux habitants ou les milieux bio."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Limiter les résidences secondaires, je ne vois pas trop l'intérêt chez nous, mais on touche à la propriété et je n'aime pas qu'on me dise quoi faire de mon terrain."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Les zones à bâtir, c'est aux communes de les gérer. Vuadens a besoin de terrains pour les jeunes et pour les entreprises, je ne veux pas qu'on bloque tout depuis Berne."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Une planète par personne, ça ne veut rien dire pour un paysan. Trop de contraintes pour l'économie, je vote non."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "On a besoin d'électricité et on ne ferme pas des centrales qui marchent. Il faut une alternative réaliste avant de fermer quoi que ce soit."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Une loi énergie avec des taxes et des subventions, c'est encore la facture pour les gens comme nous. Les énergies renouvelables, oui, mais pas à n'importe quel prix."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Des produits qui respectent les animaux et les travailleurs, on est pour, mais contrôler ça sur les importations, je n'y crois pas. Ça ferait juste des prix plus chers pour tout le monde."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Une agriculture paysanne indigène, sans OGM, qui nourrit le pays, c'est exactement ce que je défends. Ce sont les paysans d'ici qu'il faut protéger."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "On veut de l'eau propre, bien sûr. Mais lier les paiements directs à la suppression des pesticides et des antibiotiques, c'est mettre la pression sur des paysans qui font déjà attention."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Sans pesticides de synthèse dans dix ans, beaucoup de fermes ne tiendraient pas, et on importerait les produits de pays qui en utilisent. Ça ne règle rien."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Taxes sur l'essence, le mazout et les billets d'avion, normes pour les bâtiments : c'est toujours les mêmes qui paient. Je vote non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.12,
+      "raison": "Nos éleveurs de la région respectent déjà des règles strictes. Vouloir des normes plus dures pour tout le monde et pour les importations, avec une transition de vingt-cinq ans, c'est une contrainte de plus pour nos agriculteurs."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Zéro émission nette en 2050, c'est un objectif qu'on ne tiendra pas sans payer très cher. Les aides pour changer de chauffage, ça n'a jamais été gratuit pour les propriétaires."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La nature, on la protège depuis toujours, et les paysans le font déjà. Mais donner plus de surfaces et plus d'argent à la biodiversité, sans savoir qui paie, je me méfie."
+    }
+  ]
+}

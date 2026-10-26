@@ -1,0 +1,39 @@
+{
+  "id": "p26",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Des chiffres simples sur ce que gagnerait une ferme passée au bio, et une explication claire de ce que la commune peut vraiment faire sur les prix. Il me faudrait aussi un créneau compatible avec mes horaires irréguliers, par exemple une seule séance courte un soir en semaine avant 19 h ou un samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un prix d'achat direct qui ne soit pas plus cher pour une personne seule, et quelqu'un de la commune qui me dit concrètement à qui m'adresser pour acheter aux fermes."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une question concrète avec un rôle précis pour moi, par exemple dire quels trajets ou quels achats je pourrais changer, plutôt qu'une question sur les trente prochaines années."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Un effet que je vois dans ma vie de tous les jours, comme l'eau du robinet ou les sentiers autour de chez moi, sans qu'il faille que je m'implique beaucoup."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes sur mon téléphone se glisse entre deux services et ne demande aucun horaire fixe. Le parcours en trois séquences sur trois semaines me paraît trop engageant avec mes horaires irréguliers, et l'atelier du samedi ou du soir demande une présence que je ne tiendrai probablement pas, sauf si quelqu'un que je connais m'accompagne."
+}

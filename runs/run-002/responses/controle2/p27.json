@@ -1,0 +1,17 @@
+{
+  "id": "p27",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Un objectif bio fixé par la commune pour dix ans, je veux bien l'entendre, mais personne ne me demande si je peux payer deux ans de transition sans prix garanti. Le lait conventionnel me fait déjà vivre, et je ne sais même pas qui reprendra la ferme pour finir ce qu'on commence.",
+    "engagement": 1,
+    "freins_participation": [
+      "Deux ans de transition sans prix bio et des rendements plus faibles sur les prairies, ça se chiffre avant de se discuter en réunion",
+      "Je ne sais pas qui reprendra l'exploitation, je ne vais pas engager la ferme sur un horizon de dix ans qui dépasse ma propre retraite",
+      "Ce genre d'objectif vient de la commune et souvent de gens qui ne travaillent pas la terre, je me méfie des projets qui arrivent de la ville",
+      "Les normes et les obligations supplémentaires, on connaît le refrain : au final c'est toujours le paysan qui paie",
+      "Rien ne garantit que le marché du bio tienne son prix dans dix ans, et je n'ai pas envie de jouer ma ferme sur une mode"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres concrets, un prix du lait bio garanti qui couvre le surcoût, une aide claire pour la transition et pour une éventuelle reprise, et surtout des agriculteurs de la région qui ont déjà converti et qui viennent me montrer leurs comptes, pas une réunion organisée par la commune."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p53",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Sauvabelin n'était pas un endroit où je passais à l'époque, je n'ai pas vu l'annonce du sondage et je n'en ai jamais parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "C'était un projet pilote peu visible, mes journées de chantier ne laissent pas de temps pour voter, donc je n'ai probablement rien fait et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Entre la pandémie et mes chantiers, le budget participatif n'était pas dans mes priorités, je l'ai peut-être vu passer sur les réseaux sans voter."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Le plan d'affectation touche directement mon métier, donc je le suis davantage, mais un sondage de cinq minutes s'oublie vite entre deux devis et je n'ai pas assisté aux soirées."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin affranchi envoyé à domicile rend le vote facile, mais je le mets souvent de côté entre mes chantiers et mes enfants."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "La fermeture des quais me gênait pour mes déplacements en camionnette, mais un questionnaire de quinze questions sur un mois, je ne l'ai pas rempli, et j'en ai surtout parlé à des collègues en râlant."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin nominatif arrive à la maison et je vote parfois quand j'ai un moment, mais le budget participatif passe souvent sous le radar avec des enfants en bas âge et un agenda de chantier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Une consultation sans cadre scientifique, en ligne ou sur papier dans des lieux que je fréquente peu, n'a pas attiré mon attention, même si le sujet me touche comme citoyen."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.18,
+      "partage_proba": 0.25,
+      "raison": "Le bulletin nominatif est aussi envoyé aux enfants dès 4 ans, ce qui fait qu'on en parle en famille et qu'on vote parfois ensemble, sans que ce soit une priorité."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.15,
+      "partage_proba": 0.2,
+      "raison": "Les projets de quartier me parlent, notamment le sport de proximité, mais entre les chantiers de fin d'été et les enfants je ne vote que si le bulletin arrive à temps."
+    }
+  ]
+}

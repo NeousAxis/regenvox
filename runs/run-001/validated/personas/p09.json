@@ -1,0 +1,113 @@
+{
+  "id": "p09",
+  "portrait": "J'ai 58 ans, je suis technicien dans l'industrie, dans la zone d'activités de Vuadens, et je vis seul au centre du village. Suisse, je vote à chaque fédérale que je peux, et je suis proche du PLR : je crois à la responsabilité de chacun et je me méfie des règles qui tombent d'en haut. J'ai grandi avec les fermes autour du village, je respecte le travail des paysans, mais je pense que c'est à eux et au marché de décider ce qui se cultive, pas à la commune.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Qu'ils vivent de leur travail, d'accord, c'est la base. Mais que la commune leur demande de devenir les promoteurs du bio, je n'y crois pas trop : ça doit venir du prix qu'on leur paie. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas comment le budget serait calculé",
+        "Je travaille en horaires décalés et je ne peux pas être disponible en semaine",
+        "J'ai l'impression que ça concerne surtout les agriculteurs eux-mêmes"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que ça coûte aux fermes et à qui ça profite, présentés par les agriculteurs eux-mêmes lors d'une soirée d'information au village."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Acheter directement chez le paysan d'ici, je le fais déjà quand je peux. Mais devenir partenaire d'une ferme, ça veut dire s'engager, et je ne veux pas qu'on me demande de payer plus cher pour un label. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne veux pas payer à l'avance pour une ferme",
+        "Le prix, je le regarde à la caisse",
+        "Les ateliers ne sont pas mon style, je n'y vais jamais"
+      ],
+      "ce_qui_me_ferait_venir": "Que ce soit simple et sans engagement, avec un gain concret pour mon porte-monnaie, par exemple des produits locaux vendus au même prix qu'au supermarché."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans, je ne serai plus là. Ce que je souhaite, c'est que le village garde ses fermes et que la terre reste bien travaillée, pour le reste je ne sais pas. »",
+      "engagement": 0,
+      "freins_participation": [
+        "La question est trop abstraite pour moi",
+        "Je n'ai pas de proche concerné par la reprise d'une ferme",
+        "Ça ne me touche pas directement dans ma vie de tous les jours"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet posé en termes concrets, comme la reprise des fermes du village ou le prix des terres, plutôt qu'une grande question de société."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Que les fermes soient reconnues pour ce qu'elles font, c'est juste. Mais une reconnaissance sans rien dans la poche, ça ne sert pas à grand-chose, il faut que ça se voie dans le prix. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas ce qui serait réellement mesuré",
+        "Je me méfie des labels qui coûtent cher à mettre en place",
+        "Je ne me considère pas comme un militant de l'environnement"
+      ],
+      "ce_qui_me_ferait_venir": "Un affichage simple dans le village, par exemple sur les produits vendus à la fromagerie, avec des résultats mesurés et publiés chaque année."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Collègues de l'entreprise, quelques voisins du centre du village, membres d'une société locale, habitués du café, et un petit cercle de proches vivant hors de la commune"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "« Plus de règles et des produits plus chers pour les gens comme moi, et on touche aussi aux importations. Le consommateur doit choisir, pas la Confédération. »"
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "« Que les paysans d'ici vivent, je comprends. Mais les droits de douane et les prix fixés, ça renchérit tout pour tout le monde, je ne suis pas pour. »"
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "« Une eau propre, bien sûr. Mais conditionner tous les paiements directs aux pratiques, c'est forcer les fermes, et je n'aime pas que l'État dicte les règles. »"
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.15,
+      "raison": "« Une interdiction totale en dix ans, avec les importations, c'est irréaliste et ça ferait monter les prix. Je préfère des incitations, pas des interdits. »"
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "« Le climat, je suis d'accord qu'il faut agir. Mais la taxe sur les billets d'avion et la hausse sur le fioul touchent d'abord ceux qui ont peu de moyens, et le fonds m'a paru flou. »"
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "« Le bien-être animal, d'accord. Mais imposer les normes Bio Suisse aux importations et une transition de vingt-cinq ans, ça ne tient pas, et ça tombe sur nos paysans d'ici. »"
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "« L'objectif zéro net en 2050, je le trouve raisonnable. Mais les aides pour changer les chauffages, c'est encore de l'argent public, et j'hésite à dire oui à tout. »"
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "« La nature, je suis pour la protéger. Mais retirer des surfaces à la production et imposer plus de zones protégées, les fermes d'ici en pâtiraient d'abord. »"
+    }
+  ]
+}

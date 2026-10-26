@@ -1,0 +1,29 @@
+{
+  "id": "p49",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Je n'ai pas de revenu et la pilule me coûte de l'argent chaque mois, donc ça me concerne directement, même si le MCG dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Je ne vois pas pourquoi on finance des bus et des parkings en France alors que chez nous les bus sont déjà pleins, et le MCG est contre."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Mon parti soutient cette loi et l'idée d'être propriétaire me tente, même si je crains la vente de nos immeubles et la perte de logements abordables."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.25,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas concernée par la HES, le MCG est contre, et je pense qu'il faut faire attention à l'argent de l'État."
+    }
+  ]
+}

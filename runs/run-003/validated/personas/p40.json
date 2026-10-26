@@ -1,0 +1,142 @@
+{
+  "id": "p40",
+  "portrait": "Je suis retraitée, j'ai 65 ans et je vis seule dans un quartier résidentiel récent de Vuadens, à quelques minutes des fermes mais loin de leur quotidien. Suisse, je suis proche du PS depuis longtemps, sensible aux questions sociales et à l'environnement, et je vote à chaque grand rendez-vous fédéral. Je connais le village surtout par ce que je vois de ma fenêtre, au marché et chez les voisins, et je me méfie un peu des projets décidés en haut lieu.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Un paysan doit pouvoir vivre de son travail, c'est la base. Si le bio lui rapporte vraiment plus, tant mieux, mais on ne peut pas lui demander encore des efforts sans le payer. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas les chiffres des exploitations de la commune",
+        "Les réunions du soir me découragent, surtout en hiver",
+        "Je ne me sens pas légitime pour parler de l'agriculture, je n'y connais pas grand-chose"
+      ],
+      "ce_qui_me_ferait_venir": "Un résumé clair des revenus réels des fermes, présenté par les agriculteurs eux-mêmes, et un atelier près de chez moi, en journée ou tôt le soir."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« J'achète déjà un peu au marché, mais je ne sais pas comment m'engager avec une ferme. Si on me propose quelque chose de simple, un panier de légumes par exemple, je veux bien essayer. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le prix, avec une retraite qui n'est pas très large",
+        "Je vis seule et je n'aime pas m'engager sur un abonnement que je ne pourrais pas honorer",
+        "Le trajet jusqu'à une ferme, si ce n'est pas sur mon chemin"
+      ],
+      "ce_qui_me_ferait_venir": "Une offre concrète et abordable, sans engagement à long terme, avec la possibilité de la retirer ou de la faire livrer près de chez moi."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Ce qu'on laisse à ceux qui viendront, c'est la question qui compte le plus. Les sols, l'eau, les oiseaux, on les abîme sans les voir, et après il est trop tard pour revenir en arrière. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Une question sur trente ans me paraît lointaine, et je ne sais pas quoi faire concrètement à mon âge",
+        "Je crains que ce soit un débat entre gens qui ont déjà décidé"
+      ],
+      "ce_qui_me_ferait_venir": "Une question ancrée dans le village, par exemple les ruisseaux, les haies ou les abeilles qu'on voit déjà moins, avec des exemples précis."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Valoriser les fermes, pourquoi pas, mais une plaque ou un label ne remplit pas le frigo. J'aimerais qu'on parle de ce qu'elles font vraiment pour la terre et pour le village. »",
+      "engagement": 1,
+      "freins_participation": [
+        "J'ai l'impression que ce genre de démarche reste entre initiés",
+        "Les informations de la commune me passent souvent à côté",
+        "Un discours de plus, sans effet concret, finit par me lasser"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme organisée pour le quartier, en journée, avec un café et des explications simples."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Voisinage immédiat du quartier, groupe de marche et association de retraités, quelques anciens collègues de travail, sympathisants PS de la région de Bulle"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Les résidences secondaires qui gardent les volets fermés six mois par an, c'est triste pour un village. Je suis pour limiter."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Moins de béton sur les champs, c'est une évidence pour moi, même si ça complique la vie de certains propriétaires."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "L'idée me parle, mais le texte est flou et je n'arrive pas à voir ce que ça change concrètement dans ma vie."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Après Fukushima, sortir du nucléaire me paraît raisonnable. Je n'ai pas envie de vivre près d'une centrale qui a déjà tant d'années."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "La stratégie énergétique va dans le bon sens. Ce qui m'inquiète, c'est la facture, quand on vit avec une petite retraite."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Des produits équitables et écologiques, d'accord, mais je me demande comment on contrôle ce qui vient de l'étranger et si les prix suivront."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "J'aime l'idée de soutenir nos paysans, mais les droits de douane et les prix plus élevés pèsent surtout sur les familles modestes."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Une eau potable propre, c'est une évidence. Lier les paiements directs à des pratiques plus douces me paraît juste."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Je ne veux pas de pesticides de synthèse partout, mais dix ans de transition, je ne suis pas sûre que ce soit faisable pour les agriculteurs d'ici."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Je suis pour le climat, mais les taxes sur l'essence, le chauffage et les billets d'avion touchent d'abord les petits budgets. Je vote oui quand même, car le fonds pour le climat aide les ménages."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le bien-être des animaux compte pour moi, mais une transition sur vingt-cinq ans me paraît longue et risque de peser sur les éleveurs de la région."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Zéro émission nette d'ici 2050, c'est le bon cap. Les aides pour remplacer un vieux chauffage au mazout aident les ménages, donc oui."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Protéger la nature et le paysage, c'est ce qui rend notre région agréable à vivre. Je vote oui, sans trop de doutes."
+    }
+  ]
+}

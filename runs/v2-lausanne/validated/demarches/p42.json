@@ -1,0 +1,65 @@
+{
+  "id": "p42",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Sauvabelin est loin de mon quartier du centre et l'annonce ne passait que par le site et les réseaux de la Ville et quelques guichets, donc je n'ai sans doute rien vu et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "C'était une première édition peu annoncée et voter pour des projets de quartier ne me parle pas beaucoup, même si la cabine du centre était proche, donc je n'ai probablement pas voté et j'en ai guère parlé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Le stand du marché et les urnes du centre m'auraient permis de voter, mais avec le Covid je sors moins et les projets de quartier ne m'accrochent pas assez pour que j'en parle."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Un sondage de cinq minutes sur l'avenir de mon quartier me concerne, mais il faut tomber dessus au bon moment et la pandémie m'a éloignée des rencontres, donc je l'ai sans doute laissé passer et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin affranchi arrive chez moi et voter ne demande presque aucun effort, mais je ne suis pas très attachée aux projets de quartier et je n'en parle guère."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je passe parfois aux quais d'Ouchy, mais la fermeture du trafic ne m'a pas dérangée au point de répondre à un questionnaire en ligne de quinze questions, et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.15,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin nominatif arrive à la maison et je le renvoie quand j'y pense, mais je ne suis pas toujours sûre de bien connaître les projets proposés, et j'en parle peu."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "En tant que personne étrangère, la lutte contre le racisme me touche, mais je réponds rarement à ce type d'enquête, le questionnaire papier ne m'est jamais tombé sous les yeux et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.15,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin nominatif m'arrive chez moi, sans condition de nationalité, et voter reste simple, mais les projets ne m'intéressent pas assez pour que j'en parle beaucoup."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.15,
+      "partage_proba": 0.08,
+      "raison": "À 71 ans je suis disponible, le bulletin arrive à la maison et la cabine de la rue Centrale n'est pas loin, mais je ne vote pas à chaque édition et j'en parle peu."
+    }
+  ]
+}

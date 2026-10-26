@@ -1,0 +1,39 @@
+{
+  "id": "p41",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Des chiffres précis sur le prix du lait bio, présentés par des agriculteurs qui le pratiquent, et une séance qui ne tombe ni pendant la traite ni pendant les foins."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une rencontre sans visite de la ferme ni accueil du public pendant la saison des travaux, à un moment qui ne me coupe pas du travail."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Un engagement limité à quelques années plutôt qu'à trente ans, et des échanges en petit groupe avec des gens qui connaissent un peu le métier."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.3,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.1,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Savoir noir sur blanc comment la commune reconnaîtrait nos haies, nos bandes fleuries et nos prairies extensives, sans paperasse en plus ni obligation de passer au bio."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de 10 minutes sur téléphone est le seul format que je peux glisser le soir après la traite, sans bloquer un samedi matin ni quitter la ferme. L'atelier de 2 h 30 est exclu pendant la saison, et le parcours sur trois semaines finirait par m'échapper."
+}

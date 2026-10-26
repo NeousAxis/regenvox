@@ -1,0 +1,65 @@
+{
+  "id": "p71",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "J'avais une dizaine d'années, je n'ai jamais entendu parler de ce sondage sur le lac et les ateliers du samedi après-midi ne me concernaient pas."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Le vote était ouvert quel que soit l'âge, mais à 11 ans je ne connaissais pas ce dispositif et mes parents n'en parlaient pas à la maison."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "À 12 ans, entre l'école et la pandémie, cette deuxième édition n'a pas retenu mon attention, même si le vote était ouvert à tous."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Un sondage en ligne de cinq minutes m'aurait peut-être tenté, mais je n'en ai pas entendu parler et je ne voyais pas l'intérêt à cet âge."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin est arrivé dans la boîte aux lettres de la famille quand j'avais 13 ans, mes parents l'ont peut-être rempli avec moi, mais je n'en garde pas de souvenir personnel."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "J'ai remarqué la fermeture des quais l'été précédent, mais je n'ai pas vu passer le questionnaire en ligne, donc je ne l'ai pas rempli."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "À 14 ans je n'avais aucun projet à déposer et le vote ne concernait pas mon cercle d'amis, donc je ne me suis pas mobilisé."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "Le sujet me touche de près comme étranger, mais je n'ai pas vu passer cette consultation, donc je ne l'ai pas remplie, alors que j'aurais peut-être pu en parler à des amis."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.09,
+      "raison": "À 15 ans, le bulletin nominatif m'était adressé et je l'ai peut-être glissé dans l'urne avec mes parents, sans conviction forte pour les projets."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "À 16 ou 17 ans, en formation, j'ai reçu le bulletin à la maison et je le laisse souvent de côté, car la plupart de mes proches ne votent pas pour ces projets de quartier."
+    }
+  ]
+}

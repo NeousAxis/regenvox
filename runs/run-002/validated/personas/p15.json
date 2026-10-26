@@ -1,0 +1,141 @@
+{
+  "id": "p15",
+  "portrait": "Je suis un homme de 86 ans, retraité et Suisse, en couple, nos enfants ont quitté la maison depuis longtemps. J'habite un quartier résidentiel assez récent de Vuadens, je n'exploite rien moi-même mais je connais les paysans du village et je tiens à ce qu'ils puissent vivre de leur travail. Je vote plutôt au centre et je me méfie des grands objectifs décidés d'en haut, surtout quand on me parle de la majorité des terres en bio d'ici dix ans.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Un paysan qui n'arrive pas à vivre de son étable n'ira jamais vers le bio, il faut d'abord des prix qui tiennent la route.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne me déplace plus très bien et les soirées en salle, je n'y vais plus",
+        "Je doute que mon avis change quoi que ce soit"
+      ],
+      "ce_qui_me_ferait_venir": "Un échange concret avec des agriculteurs de la commune, avec des chiffres sur ce que touchent les fermes, et une rencontre en journée près de chez moi."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Acheter local, je le fais déjà quand je peux, mais je ne vais pas me mêler de la façon dont un fermier travaille.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas ce qu'on attend de moi comme partenaire",
+        "Les démarches participatives ressemblent souvent à des formulaires",
+        "Je n'ai pas envie de jouer les contrôleurs du bio"
+      ],
+      "ce_qui_me_ferait_venir": "Une proposition simple et précise, par exemple acheter directement à une ferme de la commune, sans obligation ni réunion."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Je ne verrai pas la campagne dans trente ans, mais mes petits-enfants y vivront, et c'est pour eux que je m'y intéresse.",
+      "engagement": 1,
+      "freins_participation": [
+        "À mon âge, je ne me projette pas au-delà de quelques années",
+        "Le thème est large, je ne sais pas par où commencer"
+      ],
+      "ce_qui_me_ferait_venir": "Une question plus concrète, sur les chemins, les haies ou les terres qu'on pourrait encore louer ou reprendre au village."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Une reconnaissance, c'est bien, mais une plaque ne paie pas la facture de l'agriculteur.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne vois pas à quoi servirait une reconnaissance officielle",
+        "Je ne suis pas un expert des sols ni de l'eau",
+        "Le soir, ce n'est pas pour moi"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme organisée en journée, avec un repas servi sur place et un trajet prévu, plutôt qu'une réunion dans une salle."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Famille élargie dans la région, anciens collègues du monde de l'artisanat, voisins du quartier et quelques connaissances du village liées aux sociétés locales et au parti du centre."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je ne vois pas pourquoi l'État fixerait un plafond aux résidences secondaires, c'est toucher à la propriété. Je voterais probablement non, sans passion."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Quand on voit ce qui s'est construit autour du village, je comprends qu'on veuille freiner l'étalement. Mais je crains que ça bloque les terrains de ceux qui voudraient bâtir pour leurs enfants."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Une planète par personne me paraît irréaliste et ça ferait peser les coûts sur l'industrie et l'artisanat. Je n'ai pas envie de suivre des objectifs chiffrés venus de loin."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "On a besoin d'électricité et les centrales tournent bien. Sortir du nucléaire dans cette échéance me paraît risqué pour l'approvisionnement, donc plutôt non."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Il faut économiser et développer le renouvelable, mais sans charges supplémentaires pour les gens de mon âge. Je voterais oui, avec une certaine prudence."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Des aliments produits dans de bonnes conditions, ça me parle, je préfère le produit d'ici. Mais si on impose ces règles aux importations, les prix montent, et ça je n'aime pas."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Protéger la production indigène et les paysans d'ici, c'est mon idée de la Suisse et de notre région. Les droits de douane me gênent un peu, mais je dirais oui au principe."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Personne ne veut polluer l'eau potable. Mais lier les paiements directs à des règles aussi strictes, c'est mettre les paysans en difficulté, donc je serais plutôt réservé."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'inquiétude, mais interdire d'un coup les pesticides de synthèse sans vraie transition, les paysans ne s'en sortiront pas. Je dirais non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je vois la nécessité, mais la taxe sur le mazout et les billets d'avion touche les petites gens. J'hésite, probablement non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Bien traiter les animaux, je l'ai toujours pensé. Mais inscrire ça dans la Constitution avec un cahier des charges imposé aux élevages et aux importations met les fermes à genoux. Je voterais non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Le zéro net est un bel objectif, mais il faut des mesures qui ne pèsent pas sur le portefeuille. J'hésite et je penche pour le non."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La nature, je la respecte, et les paysans d'ici l'entretiennent depuis toujours. Mais plus de surfaces protégées veut dire moins de terres pour les agriculteurs, donc je serais réservé."
+    }
+  ]
+}

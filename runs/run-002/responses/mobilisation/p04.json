@@ -1,0 +1,39 @@
+{
+  "id": "p04",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.08,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Des agriculteurs de Vuadens qui vivent de leur métier, présents pour parler revenus et prix concrets (et qui paie), et un samedi matin plutôt qu'un soir de semaine."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Une offre concrète au village : des produits bio locaux accessibles à mon budget, que je peux acheter sur place, sans qu'on me dise quoi acheter."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question ramenée à ce qui se passe au village cette année, avec une décision concrète à la clé et un effet visible sur mon quotidien."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.10,
+      "ce_qui_doublerait_ma_venue": "Un moment simple et visible au village, par exemple une visite de ferme le samedi matin, plutôt qu'une démarche de label ou de certification."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de dix minutes est le seul format que je peux glisser dans une soirée sans rien bloquer. Les ateliers me prennent du temps que je n'ai pas en semaine, et je n'ai pas envie d'une démarche de plus."
+}

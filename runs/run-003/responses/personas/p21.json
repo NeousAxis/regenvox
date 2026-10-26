@@ -1,0 +1,127 @@
+{
+  "id": "p21",
+  "portrait": "J'ai 27 ans et je tiens seule, avec mes enfants, l'exploitation familiale de bovins laitiers sur herbages à Vuadens, en production conventionnelle. Je vis au hameau, je suis suisse et je n'ai pas de temps à perdre : le matin c'est la traite, l'après-midi l'école et les devoirs. Je vote, mais la politique agricole, je la subis plus que je ne la suis.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Vivre de notre travail, d'accord, c'est le vrai sujet. Mais le bio ne rapporte pas forcément plus, il faut un prix du lait qui suive, sinon on perd.",
+      "engagement": 1,
+      "freins_participation": ["Je n'ai pas le temps entre la traite et mes enfants", "Je me méfie des démarches décidées d'en haut", "J'ai déjà vu des projets agricoles qui ne tenaient pas sur le prix"],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur ce que gagne une ferme en bio à Vuadens, et un acheteur ou un prix garanti avant de changer quoi que ce soit."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Les gens d'ici achètent au supermarché sans se demander ce qu'il y a dans nos prés. Ils ne vont pas devenir nos partenaires du jour au lendemain.",
+      "engagement": 1,
+      "freins_participation": ["La plupart des habitants ne se sentent pas concernés par l'agriculture", "Ces démarches restent souvent des discussions sans suite", "Je n'ai pas le temps de les convaincre"],
+      "ce_qui_me_ferait_venir": "Une vente directe ou une visite de ferme organisée pour les familles, avec un vrai débouché pour nos produits."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Mes enfants reprendront peut-être, ou pas. Ce que je veux, c'est qu'il reste des fermes et des prés, pas seulement des lotissements.",
+      "engagement": 2,
+      "freins_participation": ["Une ferme ne s'arrête jamais, le temps me manque", "La question est trop vaste, on reste dans les grands discours", "Je ne peux pas venir le soir sans garde pour les enfants"],
+      "ce_qui_me_ferait_venir": "Un atelier en journée ou avec une garderie, et des jeunes agriculteurs de la commune qui parlent de leur avenir concret."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Qu'on reconnaisse le travail qu'on fait pour les prés et l'eau, oui, ça ferait du bien. Mais sans nous coller une étiquette et sans nous faire la leçon.",
+      "engagement": 2,
+      "freins_participation": ["On a l'impression que la commune nous juge plutôt que de nous écouter", "Je suis fatiguée des démarches où on parle de nous sans nous", "Je n'ai pas le temps pour une campagne d'image"],
+      "ce_qui_me_ferait_venir": "Que la fromagerie et la commune mettent en avant nos fermes sur un vrai produit ou un panneau au village, sans discours moralisateur."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 20,
+    "role": "relai",
+    "cercle_type": "Famille proche, quelques agriculteurs du village avec qui je partage du matériel et l'entraide, parents d'élèves de l'école, et la fromagerie."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Je n'avais pas l'âge de voter en 2012. Les résidences secondaires ne touchaient pas beaucoup notre hameau à l'époque."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.55,
+      "raison": "Pas encore l'âge. Protéger les terres, je suis pour, mais limiter les constructions agricoles, c'est une autre affaire."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore 18 ans. Une empreinte d'une seule planète, pour nous les paysans, ça sonne comme une liste de restrictions."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore l'âge de voter en novembre 2016. Sur le nucléaire, je n'avais pas d'avis tranché."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "Je venais d'avoir 18 ans, je n'avais encore jamais voté et je n'étais pas sûre d'être inscrite. Les biogaz et le solaire sur les toits des fermes m'intéressaient un peu."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Des produits équitables et écologiques, sur le papier je suis d'accord. Mais si on impose nos normes aux importations sans protéger nos prix, les fermes d'ici en pâtissent d'abord."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "C'est proche de ce qu'on vit : protéger la production indigène, des prix équitables, plus de paysans. Ça me parle, même si je n'ai pas tout lu."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques met mon exploitation conventionnelle en danger. Je comprends l'objectif d'une eau propre, mais je vote non."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Interdire les pesticides de synthèse sans solution pour les rendements, c'est irréaliste pour nos cultures et nos prés. Je vote non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Une taxe sur les carburants et le chauffage pèse sur une ferme qui roule au diesel. Je vois la nécessité climatique, mais je n'aime pas les nouvelles taxes."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.08,
+      "raison": "C'est directement mon métier : des exigences aussi strictes que le bio pour tous les animaux de rente, importations comprises, en vingt-cinq ans. Une ferme laitière conventionnelle ne tiendrait pas. Non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Zéro émission nette d'ici 2050, je comprends l'objectif, mais les aides pour le chauffage et l'innovation ne m'aident pas directement. Je suis partagée."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Plus de surfaces protégées et plus de moyens pour la nature, je veux bien, mais cela veut dire moins de terres à exploiter sur nos herbages. Pour une ferme qui vit de ses prés, c'est non."
+    }
+  ]
+}

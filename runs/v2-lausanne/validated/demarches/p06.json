@@ -1,0 +1,65 @@
+{
+  "id": "p06",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "À 75 ans, je ne fréquente pas beaucoup le site de Sauvabelin, je ne réponds pas spontanément aux sondages sur des lieux que je visite peu, et l'atelier du samedi après-midi ne m'attire pas."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Ce premier budget participatif demandait de voter en ligne ou dans une urne, sans bulletin envoyé à domicile, et je n'aurais probablement pas fait l'effort de me déplacer, même si l'idée m'aurait intéressé à raconter."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.08,
+      "raison": "En pleine pandémie et à 78 ans, je limite mes sorties et mes contacts, et le vote en ligne, aux urnes ou au stand du marché ne m'a pas incité à m'impliquer dans ce deuxième budget participatif."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.16,
+      "partage_proba": 0.22,
+      "raison": "Le plan d'affectation touche directement le visage de mon quartier du centre-ville et la protection du patrimoine, sujets qui me tiennent à cœur, mais les rencontres se tenaient en soirée ou en balade en pleine crise sanitaire, et je n'ai pas toujours le réflexe de répondre à un sondage en ligne."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.25,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin de vote affranchi envoyé dans chaque foyer me permet de voter sans me déplacer, ce qui me rend plus susceptible de le remplir, mais je ne m'intéresse qu'aux projets de mon quartier et je ne dépose rien moi-même."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.14,
+      "raison": "Je marche souvent au bord du lac et la fermeture des quais me concerne, mais je réponds rarement aux questionnaires en ligne de la Ville, et celui-ci ne m'a pas paru assez important pour que je m'y mette."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.25,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin préaffranchi reçu à domicile me donne une occasion simple de voter, mais je ne dépose pas de projet et je n'utilise guère la plateforme en ligne, donc je reste un électeur qui lit la liste."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.09,
+      "partage_proba": 0.1,
+      "raison": "Le sujet me touche, mais je n'ai pas d'expérience personnelle du racisme à rapporter, et ce questionnaire, distribué dans des lieux que je fréquente peu, ne m'a pas paru valoir mon temps."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.23,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin nominatif renvoyé gratuitement par la poste rend le vote facile, mais le minimum de trois projets à évaluer demande un effort de lecture que je ne fais pas toujours, surtout si je n'ai pas le temps de m'intéresser aux propositions."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "À 83 ans, je peux voter avec le bulletin reçu à domicile ou à la cabine de la Rue centrale que je croise, mais la fatigue et une moindre attention aux démarches de la Ville me font probablement laisser le bulletin de côté."
+    }
+  ]
+}

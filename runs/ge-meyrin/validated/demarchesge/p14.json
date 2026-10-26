@@ -1,0 +1,17 @@
+{
+  "id": "p14",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "Cointrin n'est pas mon quartier, l'annonce était diffusée dans les boîtes aux lettres de Cointrin et je ne l'ai jamais vue, donc je ne me suis pas rendue à l'atelier."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Les Assises pouvaient me concerner via la médiation dans l'espace public, mais je ne suis pas habituée à répondre aux consultations de la ville et l'inscription en ligne sur participer.ge.ch me freine, donc je n'ai probablement rien fait."
+    }
+  ]
+}

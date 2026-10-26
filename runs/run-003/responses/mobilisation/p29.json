@@ -1,0 +1,39 @@
+{
+  "id": "p29",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre combien gagne un paysan sur chaque produit bio et qui paie la différence, avec un atelier qui finit avant 19 h ou le samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Qu'on me prouve que le bio ne fait pas grimper le prix de mon panier au village, et que l'atelier se tienne près de chez moi, un samedi matin."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur ma facture de chauffage ou sur le prix du panier, pas une question sur la commune dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Savoir précisément ce que les fermes font pour les sols, l'eau et les haies, avec une reconnaissance qui ne crée aucune démarche administrative pour les paysans."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je peux répondre à un questionnaire de 10 minutes sur mon téléphone le soir ou entre deux services, sans horaire à bloquer. Un atelier de 2 h 30 ne tient pas avec mes horaires qui changent chaque semaine, et les parcours en ligne sur trois semaines, je les laisserais traîner comme les brochures."
+}

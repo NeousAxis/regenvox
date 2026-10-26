@@ -1,0 +1,95 @@
+{
+  "id": "p29",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas passionnée par l'armée et le prix des avions me fait réfléchir, mais je pense que le pays doit pouvoir se défendre, donc je pencherais pour oui si j'y vais."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "L'injustice fiscale entre couples mariés et les autres me touche, mais graver dans la Constitution une définition du mariage me gêne, je ne suis pas sûre de m'y rendre."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La retraite des femmes à 65 ans me concerne de près et la TVA touche mon panier tous les jours, donc je suis partagée et je pencherais plutôt pour non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "On a besoin des accords avec l'Europe pour nos fromages et nos entreprises, je ne vois pas l'intérêt de passer devant les traités, je voterais non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Dans la restauration et le transport, les collègues venus d'ailleurs font tourner les choses et l'accord avec l'Europe nous protège, donc je dirais non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Six milliards, c'est énorme quand on regarde le prix du panier, mais un pays doit pouvoir défendre son espace aérien, donc je pencherais pour oui sans enthousiasme."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible au bien-être des animaux, mais interdire la recherche médicale et les médicaments importés me paraît trop large, et je ne m'y intéresse pas beaucoup."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Nos éleveurs de la région font déjà beaucoup, et imposer le cahier des charges Bio Suisse aux importations ferait monter les prix du panier, donc je dirais non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "Travailler jusqu'à 65 ans dans la vente et la restauration, c'est dur, je ne suis pas d'accord avec cette hausse, même si l'AVS a besoin d'argent et que les mesures de compensation aident un peu."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "La neutralité fait partie de notre identité et je veux la garder, même si l'idée de ne plus pouvoir sanctionner un agresseur me met mal à l'aise."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Manger ce qui se produit ici et soutenir nos paysans me parle beaucoup, mais réduire les produits d'origine animale dans une région de lait comme la nôtre me fait peur pour les éleveurs et les fromageries."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "La 13e rente est une bonne chose pour les retraités et la TVA ne touche ni les aliments ni les médicaments, donc mon panier ne change pas beaucoup, je voterais oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Le calme du village compte pour moi, et les pétards qui durent jusqu'à minuit affolent les animaux et les enfants, donc je serais pour une limitation en gardant la fête du 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Une imposition commune pour les mariés serait un retour en arrière alors que le peuple vient d'accepter l'imposition individuelle, je suis partagée et je ne suis pas sûre de m'y rendre."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je veux que la Suisse reste neutre et ne livre pas d'armes à des pays en guerre, donc je serais contre cet assouplissement, même si je ne suis pas sûre d'aller voter."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p27",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je comprends que la pilule coûte cher aux jeunes, mais 20 millions par an pris sur les impôts pour une dépense personnelle ne me convainc pas, d'autant que le Conseil d'État recommande non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.65,
+      "oui_proba": 0.42,
+      "raison": "Les files à la frontière me pèsent, mais payer des projets en France après le refus de 2014 me gêne et je me méfie des promesses de réduction du trafic."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je trouve normal qu'un locataire installé depuis des années puisse acheter son logement, mais je crains les congés-ventes et la perte de logements locatifs abordables."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Une baisse de 2 millions par an me paraît raisonnable quand l'État doit regarder chaque franc, même si les études supérieures ont besoin de moyens."
+    }
+  ]
+}

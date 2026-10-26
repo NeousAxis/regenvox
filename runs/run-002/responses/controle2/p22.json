@@ -1,0 +1,16 @@
+{
+  "id": "p22",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Mettre un objectif de bio sur dix ans, c'est facile depuis la mairie. Les paysans du coin ont déjà assez de paperasse et des prix du lait qui stagnent. Si le bio doit leur rapporter, qu'on le dise clairement et qu'on commence par les écouter.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je suis en apprentissage et je rentre tard, les rencontres en soirée en semaine me conviennent mal",
+      "Je ne suis pas agriculteur et je n'ai pas de terre, je ne vois pas bien ce que j'aurais à faire",
+      "Ce genre d'objectif arrive souvent de la commune sans que les éleveurs soient vraiment consultés",
+      "Le bio coûte plus cher à produire et je ne veux pas payer davantage mon fromage ou mon lait sans savoir qui en profite"
+    ],
+    "ce_qui_me_ferait_venir": "Que les paysans qui passent au bio soient payés plus cher de façon garantie, avec des chiffres publiés, et que la commune les consulte d'abord. Un atelier le soir à la fromagerie ou sur une ferme du village, où on parle des vrais coûts, m'intéresserait."
+  }
+}

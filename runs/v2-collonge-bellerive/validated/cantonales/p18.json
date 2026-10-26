@@ -1,0 +1,29 @@
+{
+  "id": "p18",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je vois dans mon travail les conséquences des grossesses non désirées, mais 20 millions de francs par an payés par l'impôt, sans condition de revenu, me semblent relever d'une responsabilité personnelle plutôt que de la collectivité."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je me méfie de payer des infrastructures en France après le refus de 2014, même si la baisse du trafic frontalier me touche aussi, donc je penche pour le non sans en être sûr."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Mon parti dit non et je crains la disparition de logements locatifs abordables, même si l'idée qu'un locataire puisse acheter son appartement après trois ans me semble juste."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je travaille dans le social, la santé ou l'éducation et je connais la qualité de la formation de la HES, la baisse de 2 millions par an est modeste et mon parti soutient ce texte, donc je voterais oui."
+    }
+  ]
+}

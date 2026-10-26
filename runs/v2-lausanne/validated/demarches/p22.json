@@ -1,0 +1,65 @@
+{
+  "id": "p22",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je ne savais pas que la Ville consultait sur les établissements de Sauvabelin, j'y vais très rarement avec les enfants et je n'ai donc rien rempli."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "J'ai entendu parler du budget participatif après le vote, et entre mes horaires et les enfants je n'ai pas fait la démarche d'aller voter en urne ou en ligne."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Pendant le Covid je n'allais pas aux stands du marché et voter en ligne demandait un effort que je n'ai pas fait seule avec les enfants."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Un petit sondage sur mon quartier m'aurait intéressée, mais je n'ai pas vu l'annonce et les soirées d'information tombaient en semaine à l'heure où je suis au travail."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin affranchi arrivé dans la boîte aux lettres m'a donné une vraie occasion de voter sans me déplacer, et j'en ai parlé à quelques voisines."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Les quais d'Ouchy sont loin de mon quotidien et je n'ai pas vu le questionnaire, donc je n'ai pas répondu ni eu l'occasion d'en parler."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Je connais le bulletin envoyé à domicile, mais je n'ai pas pris le temps de comparer les projets, et j'en ai parlé surtout à une amie qui fréquente la maison de quartier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "Le sujet me touche en tant qu'étrangère, mais le questionnaire était peu visible et je n'écris pas facilement, donc j'en parlerais plutôt avec des personnes qui ont vécu la même chose."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin nominatif arrive pour chacun de mes enfants, ce qui rend le vote en famille facile par la poste, même si je ne suis pas toujours sûre de trouver trois projets qui me plaisent."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin à domicile me donne la possibilité de voter, mais avec le travail et les enfants je ne prends pas toujours le temps, et les projets ne me touchent pas tous."
+    }
+  ]
+}

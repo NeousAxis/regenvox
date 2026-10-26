@@ -1,0 +1,109 @@
+{
+  "id": "p04",
+  "portrait": "J'ai 45 ans, je suis suisse et je vis seul au centre de Vuadens, où je travaille au contact des patients, des familles et des élèves. Je me sens proche du PLR : je crois à la responsabilité individuelle et je me méfie des obligations qui arrivent d'en haut, mais je veux que les paysans d'ici puissent vivre dignement de leur travail. Je m'informe sur les grands dossiers sans être militant, et je vote surtout quand un sujet me touche concrètement.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Le bio ne tiendra que si le paysan y gagne sa vie. Sinon on aura de beaux discours et des fermes qui ferment. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne connais pas le quotidien d'une exploitation et je n'ai pas envie de parler à la place des agriculteurs",
+        "Mes horaires en tournus me laissent peu de soirées libres"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes prennent la parole, avec des chiffres concrets sur le revenu d'une exploitation en bio comparé à une exploitation classique, et une rencontre à un horaire compatible avec mon travail."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si je peux acheter directement à la ferme du coin, je le fais déjà. Mais il faut que ce soit simple et pas plus cher qu'au supermarché. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je travaille souvent en horaires décalés, donc les ateliers en semaine en soirée, je les rate",
+        "Je n'ai pas envie d'une réunion où l'on me demande de changer de vie"
+      ],
+      "ce_qui_me_ferait_venir": "Un dispositif concret, par exemple un panier hebdomadaire ou un point de retrait au village, avec des prix clairs et une explication de ce que mon achat change pour la ferme."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Trente ans, c'est loin. Moi je pense à ce qu'on mange demain et à ce que la commune fait pour les jeunes qui restent ici. »",
+      "engagement": 1,
+      "freins_participation": [
+        "La question est trop générale pour que je voie ce que je peux y apporter",
+        "Je n'ai pas le temps de suivre un long processus"
+      ],
+      "ce_qui_me_ferait_venir": "Une question plus concrète, liée à un terrain ou à un projet précis du village, avec un résumé court de ce qui est proposé et un sondage simple pour donner mon avis."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Un label de plus pour les fermes, je n'y crois pas trop. Les gens ne lisent pas les étiquettes, ils regardent le prix. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas ce qu'une reconnaissance changerait pour moi ni pour la commune",
+        "Je me méfie des démarches qui ajoutent de la bureaucratie aux agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance visible et concrète, par exemple une visite de ferme ouverte à tout le village ou un affichage au centre, qui montre ce que les exploitations apportent aux sols, à l'eau et aux oiseaux."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 45,
+    "role": "relai",
+    "cercle_type": "Collègues et partenaires du réseau de soins et de l'école, parents d'élèves, voisins et sociétés locales du centre du village, quelques sympathisants de centre-droit."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je suis d'accord pour que les produits respectueux de l'environnement et des animaux soient mieux identifiés, mais je n'aime pas que l'État se mette à réglementer l'offre, y compris les importations. Le marché et les consommateurs doivent faire ce travail, pas une nouvelle loi."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Les droits de douane et la protection de la production indigène vont à l'encontre de ce que je pense de l'économie. Je comprends l'attachement à l'agriculture du pays, mais je ne veux pas d'une fermeture des frontières, qui finit par coûter cher aux consommateurs."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "Comme soignant, je suis sensible à la qualité de l'eau et à l'usage des antibiotiques. Mais conditionner les paiements directs à une série de règles crée de la bureaucratie et pénalise les exploitations qui n'ont pas le choix. Je préfère des incitations à des obligations."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Le problème de santé est réel, mais dix ans pour interdire les produits de synthèse, sans filet pour les exploitations, mettraient des familles en difficulté et renchériraient les importations. Je voterais non, avec un doute."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Le climat est un enjeu, je ne le nie pas. Mais les taxes sur le carburant et les billets d'avion touchent d'abord ceux qui n'ont pas d'alternative, comme moi qui prends la voiture pour travailler. Je préfère des solutions techniques et une liberté de choix."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis d'accord que les animaux doivent être bien traités. Mais inscrire dans la Constitution des exigences très élevées, avec une transition longue, coûterait cher aux éleveurs d'ici sans garantir grand-chose pour les importations. Je voterais plutôt non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "L'objectif zéro émission nette en 2050 me paraît raisonnable, et les aides pour remplacer un vieux chauffage au mazout sont concrètes. Je n'aime pas les taxes et les contraintes en plus, mais le texte reste assez souple. Je suis partagé, je pencherais peut-être pour le oui."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour la nature et les paysages, mais des surfaces protégées supplémentaires signifient moins de terres pour les paysans et de nouvelles contraintes. Je préfère des accords avec les agriculteurs plutôt qu'une règle inscrite dans la Constitution."
+    }
+  ]
+}

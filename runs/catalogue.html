@@ -1,0 +1,187 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Catalogue Résonance</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Mise en page : une colonne éditoriale, des bandes de preuve (graphique, tableaux) qui s'élargissent. Thème clair unique, choisi par Régénère Plus. */
+:root{--paper:#FBF8F3;--paper2:#F3EEE4;--card:#FFFFFF;--ink:#212E53;--soft:#56607A;--rule:#DDD5C6;--teal:#4A919E;--coral:#CE6A6B;--sage:#BED3C3;--salmon:#EBACA2;
+--display:Fraunces,Georgia,serif;--body:Inter,system-ui,sans-serif;--mono:"JetBrains Mono",ui-monospace,monospace;color-scheme:light}
+body{background:var(--paper);color:var(--ink);font:15.5px/1.62 var(--body);margin:0;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1060px;margin:0 auto;padding-block:44px 72px;display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-family:var(--display);font-weight:500;letter-spacing:-.01em;text-wrap:balance;margin:0}
+h1{font-size:clamp(32px,5.2vw,52px);line-height:1.06;max-width:22ch}h2{font-size:clamp(23px,3vw,30px);margin-bottom:10px}h3{font-size:18px;margin-bottom:6px}
+p{margin:0}.lede{font-family:var(--display);font-size:clamp(17px,2vw,20px);color:var(--soft);max-width:62ch}
+.eyebrow{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);font-weight:600}
+section{display:flex;flex-direction:column;gap:16px}section>p{max-width:70ch}
+.small{font-size:13px;color:var(--soft)}
+.badges{display:flex;flex-wrap:wrap;gap:8px}.badge{font-size:12.5px;border:1px solid var(--rule);background:var(--card);border-radius:999px;padding:4px 12px}.badge.warn{border-color:var(--coral);color:#8f3637}
+.levels{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.level{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.level.open{background:var(--paper2);border-style:dashed}
+.level b{font-family:var(--display);font-size:20px;font-weight:500}
+ol.flow{list-style:none;counter-reset:s;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+ol.flow li{counter-increment:s;background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:12px 14px 12px 46px;position:relative;min-width:0}
+ol.flow li::before{content:counter(s);position:absolute;left:14px;top:12px;font-family:var(--mono);font-size:13px;color:var(--teal);font-weight:500}
+ol.flow li.sup{border-color:var(--teal);background:#EEF5F4}
+ol.flow b{display:block;font-weight:600}ol.flow span{font-size:13px;color:var(--soft)}
+.proof{background:var(--card);border:1px solid var(--rule);border-radius:14px;padding:22px}
+.bars{display:flex;flex-direction:column;gap:14px}
+.bar-row{display:grid;grid-template-columns:190px minmax(0,1fr);gap:14px;align-items:start}
+.bar-lbl{font-weight:600;font-size:13.5px;text-align:right;padding-top:1px}.bar-row.t .bar-lbl{color:var(--coral)}
+.bar-track{display:flex;flex-direction:column;gap:4px;min-width:0}
+.bar-line{position:relative;height:16px;display:flex;align-items:center}
+.bar-line.s{height:10px}
+.b{display:block;height:100%;border-radius:3px}.b.fav{background:var(--teal)}.b.neg{background:var(--salmon);position:absolute;right:0;top:0}.b.sout{background:var(--sage)}
+.v{font:500 11.5px var(--mono);margin-left:6px;white-space:nowrap}.v.n{position:absolute;right:6px;top:1px;margin:0}.v.s{color:var(--soft)}
+.bar-axis{display:flex;justify-content:space-between;font-size:11px;color:var(--soft);border-top:1px solid var(--rule);padding-top:4px}
+.bar-row.axis{margin-top:-4px}
+@media (max-width:560px){.bar-row{grid-template-columns:1fr;gap:6px}.bar-lbl{text-align:left}.bar-row.axis>span{display:none}}
+.legend{display:flex;flex-wrap:wrap;gap:16px;font-size:12.5px;color:var(--soft)}.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-2px}
+.verdict{border-left:3px solid var(--teal);background:#EAF2EE;padding:14px 18px;border-radius:6px;font-family:var(--display);font-size:17px;max-width:none}
+.verdict.warn{border-color:var(--coral);background:#F8ECE9}
+.tbl{overflow-x:auto;background:var(--card);border:1px solid var(--rule);border-radius:12px}
+table{border-collapse:collapse;width:100%;font-size:14px;min-width:680px}th,td{border-bottom:1px solid var(--rule);padding:10px 12px;text-align:left;vertical-align:top}
+th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--soft);font-weight:600;background:var(--paper2)}tr:last-child td{border-bottom:0}
+td.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}td small{color:var(--soft)}td .q{font-family:var(--display);font-size:15px}
+tr.reco td{background:#F1F7F5}.tag{display:inline-block;font-size:11px;font-weight:600;border-radius:999px;padding:1px 9px;background:var(--paper2);border:1px solid var(--rule);color:var(--soft);white-space:nowrap}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.tile{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.tile b{font-family:var(--display);font-size:34px;font-weight:500;font-variant-numeric:tabular-nums}.tile small{color:var(--soft);font-size:12px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:8px;min-width:0}
+blockquote{margin:0;font-family:var(--display);font-style:italic;font-size:16px;border-left:2px solid var(--sage);padding-left:12px}
+ul.att{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+ul.att li{background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:6px;min-width:0}
+ul.lim{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;max-width:75ch}
+.foot{font-size:12.5px;color:var(--soft);border-top:1px solid var(--rule);padding-top:18px}
+@media (prefers-reduced-motion:no-preference){.b.fav,.b.sout{transform-origin:left center;animation:grow .7s ease-out both}.b.neg{transform-origin:right center;animation:grow .7s ease-out both}@keyframes grow{from{transform:scaleX(.001)}}}
+</style>
+<div class="wrap">
+<header style="display:flex;flex-direction:column;gap:16px">
+  <span class="eyebrow">Régénère Plus · moteur Résonance · catalogue de tests</span>
+  <h1>Avant de mobiliser une commune, tester l'angle. Voici ce que le moteur a réellement produit.</h1>
+  <p class="lede">Un cas complet : Vuadens, 2 580 habitants, commune de la Gruyère dans le canton de Fribourg, en Suisse. Joué deux fois avec deux panels différents, confronté aux votations réelles de la commune et attaqué par son propre Contradicteur. Tout ce qui suit sort des fichiers des runs.</p>
+  <div class="badges"><span class="badge warn">Cas d'étude simulé, sans mandat de la commune</span><span class="badge">378 réponses d'agents contrôlées</span><span class="badge">25 rejetées puis corrigées</span><span class="badge">2 panels de 48 personas</span><span class="badge">8 votations réelles de test</span></div>
+</header>
+
+<section>
+  <h2>Le principe</h2>
+  <p>En phase 1, le décideur teste à huis clos une manière de poser la question sur un panel virtuel calibré sur les statistiques publiques de sa commune. Il cherche l'angle qui mobilise sans fermer la réponse. En phase 2, la question choisie part en participation réelle, en présentiel accompagné par la plateforme ou entièrement à distance.</p>
+  <div class="levels">
+    <div class="level"><span class="eyebrow">Enjeu · nommé par le décideur</span><b>Le problème</b><p class="small">Accompagner l'agriculture de la commune vers des pratiques biologiques qui préservent les sols, l'eau et la biodiversité, sans fragiliser des exploitations familiales qui doivent pouvoir vivre de leur travail.</p></div>
+    <div class="level"><span class="eyebrow">Objectif · nommé par le décideur</span><b>L'état visé</b><p class="small">Que la majorité des terres agricoles de la commune soient cultivées en bio d'ici dix ans, avec des agriculteurs qui en sont les premiers porteurs.</p></div>
+    <div class="level open"><span class="eyebrow">Chemins · laissés au terrain</span><b>Les manières d'y aller</b><p class="small">Aides, filières, accompagnement, débouchés, règles : le décideur ne les tranche pas. Ils sont inventés en phase 2 par les habitants et les agriculteurs.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Le système multi-agents</h2>
+  <p>Chaque agent est un appel isolé, qui ne voit que ce dont il a besoin. Les agents en vert ne produisent rien : ils contrôlent. Les chiffres de propagation, de mobilisation et de backtest sont calculés par du code, jamais par un modèle de langage.</p>
+  <ol class="flow">
+    <li><b>Formulateur d'angle</b><span>garde l'angle du décideur, propose d'autres angles ouverts</span></li>
+    <li class="sup"><b>Gardien de la méthode</b><span>vérifie les six principes de la prospective rétrocausale</span></li>
+    <li><b>Démographe</b><span>tire 48 profils par quotas sur les données OFS</span></li>
+    <li><b>48 personas isolés</b><span>réagissent aux angles et votent sur les votations passées sans connaître le résultat</span></li>
+    <li class="sup"><b>Administrateur du cadre</b><span>contrôles automatiques : format, âge, citations exactes, chiffres, chemins imposés</span></li>
+    <li><b>Mobilisation et angle témoin</b><span>probabilités de venir par format, réaction à une question imposée</span></li>
+    <li><b>Propagation et backtest</b><span>diffusion sur réseau social, comparaison aux votations réelles</span></li>
+    <li><b>Sociologue et Facilitateur</b><span>segments, objections citées mot pour mot, freins à la participation</span></li>
+    <li class="sup"><b>Contradicteur</b><span>attaque les conclusions sous huit postures</span></li>
+    <li class="sup"><b>Gardien final, puis Traducteur</b><span>contrôle doctrinal, rapport au Conseil communal sans chiffre inventé</span></li>
+  </ol>
+</section>
+
+<section>
+  <h2>Premier test : le panel sait-il dire non ?</h2>
+  <p>Un panel qui approuve tout ne sert à rien. Le même panel a donc reçu, à part, une question volontairement contraire à la méthode, le témoin 1 : « Le Conseil communal a décidé que la majorité des terres agricoles de Vuadens seront cultivées en bio d'ici dix ans. Comment allez-vous contribuer à cet objectif ? »</p>
+  <p>Le Contradicteur a objecté que ce témoin mélange deux choses : le ton imposé et l'objectif chiffré, que les quatre angles ne mentionnent pas. Un second témoin garde l'objectif chiffré mais pose une question ouverte : « La commune s'est fixé l'objectif que la majorité des terres agricoles de Vuadens soient cultivées en bio d'ici dix ans. Comment pourrions-nous y parvenir ensemble, agriculteurs et habitants ? »</p>
+  <div class="proof"><div class="bars" role="img" aria-label="Accueil des angles et de l'angle témoin"><div class="bar-row"><span class="bar-lbl">Angle 1 (décideur)</span><div class="bar-track">
+  <div class="bar-line"><span class="b fav" style="width:72.4%"></span><span class="v">72 %</span><span class="b neg" style="width:15.7%"></span><span class="v n">16 %</span></div>
+  <div class="bar-line s"><span class="b sout" style="width:81.9%"></span><span class="v s">82 % à 24 mois</span></div></div></div><div class="bar-row"><span class="bar-lbl">Angle 2</span><div class="bar-track">
+  <div class="bar-line"><span class="b fav" style="width:43.3%"></span><span class="v">43 %</span><span class="b neg" style="width:46.4%"></span><span class="v n">46 %</span></div>
+  <div class="bar-line s"><span class="b sout" style="width:47.5%"></span><span class="v s">48 % à 24 mois</span></div></div></div><div class="bar-row"><span class="bar-lbl">Angle 3</span><div class="bar-track">
+  <div class="bar-line"><span class="b fav" style="width:43.1%"></span><span class="v">43 %</span><span class="b neg" style="width:2.2%"></span><span class="v n">2 %</span></div>
+  <div class="bar-line s"><span class="b sout" style="width:70.9%"></span><span class="v s">71 % à 24 mois</span></div></div></div><div class="bar-row"><span class="bar-lbl">Angle 4</span><div class="bar-track">
+  <div class="bar-line"><span class="b fav" style="width:50.5%"></span><span class="v">51 %</span><span class="b neg" style="width:27.1%"></span><span class="v n">27 %</span></div>
+  <div class="bar-line s"><span class="b sout" style="width:62.6%"></span><span class="v s">63 % à 24 mois</span></div></div></div><div class="bar-row t"><span class="bar-lbl">Témoin 2 : objectif chiffré, question ouverte</span><div class="bar-track">
+  <div class="bar-line"><span class="b fav" style="width:14.4%"></span><span class="v">14 %</span><span class="b neg" style="width:65.9%"></span><span class="v n">66 %</span></div>
+  <div class="bar-line s"><span class="b sout" style="width:17.2%"></span><span class="v s">17 % à 24 mois</span></div></div></div><div class="bar-row t"><span class="bar-lbl">Témoin 1 : décision imposée</span><div class="bar-track">
+  <div class="bar-line"><span class="b fav" style="width:11.9%"></span><span class="v">12 %</span><span class="b neg" style="width:63.6%"></span><span class="v n">64 %</span></div>
+  <div class="bar-line s"><span class="b sout" style="width:17.4%"></span><span class="v s">17 % à 24 mois</span></div></div></div><div class="bar-row axis"><span></span><div class="bar-axis"><span>0 %</span><span>50 %</span><span>100 %</span></div></div></div><div class="legend" style="margin-top:12px"><span><i style="background:var(--teal)"></i>favorables au départ</span><span><i style="background:var(--salmon)"></i>réticents ou opposés au départ</span><span><i style="background:var(--sage)"></i>soutien après propagation</span></div></div>
+  <p class="verdict">Sur l'angle témoin, 64 % du panel est réticent ou opposé d'emblée, contre 16 % pour l'angle du décideur. Aucun des agriculteurs du panel n'y est favorable. Après propagation, son soutien plafonne à 17 %, contre 82 % pour l'angle du décideur. Le panel distingue une question qui ouvre d'une décision qui s'impose.</p>
+  <p class="verdict warn">Avec l'objectif chiffré posé en question ouverte, 14 % du panel est favorable au départ (0 sur 8 agriculteurs) et le soutien atteint 17 % après propagation, contre 17 % pour la décision imposée. C'est donc l'objectif chiffré lui-même qui fait fuir, quelle que soit la manière de le poser. La question ouverte ne change qu'une chose : l'opposition active retombe de 67 % à 54 %. Les angles ouverts gagnent leur soutien en ne nommant pas cet objectif. Pour la méthode, c'est un signal fort : annoncer d'entrée l'objectif chiffré risque de refermer la porte que l'angle ouvre, et la phase 2 doit dire comment l'objectif sera discuté avec le terrain.</p>
+</section>
+
+<section>
+  <h2>Les quatre angles, deux panels</h2>
+  <p>Le premier chiffre vient du panel de référence, le second, en petit, d'un panel tiré avec une autre graine, sans aucun profil commun. Les écarts entre les deux donnent l'ordre de grandeur de l'incertitude due au tirage.</p>
+  <div class="tbl"><table><thead><tr><th>Angle</th><th>Soutien à 24 mois</th><th>Opposition</th><th>Agriculteurs favorables</th><th>Habitants à l'atelier</th></tr></thead><tbody><tr class="reco"><td><b>Angle 1</b> <span class="tag">décideur</span><br><span class="q">Comment faire pour que le monde agricole puisse vivre honorablement de son travail et devenir promoteur du bio ?</span></td>
+<td class="n">82 %<br><small>84 %</small></td>
+<td class="n">7 %<br><small>5 %</small></td>
+<td class="n">5 sur 8<br><small>3 sur 8</small></td>
+<td class="n">78<br><small>73</small></td></tr><tr><td><b>Angle 2</b><br><span class="q">Comment les habitants de Vuadens peuvent-ils devenir les premiers partenaires des fermes de leur commune sur le chemin du bio ?</span></td>
+<td class="n">48 %<br><small>39 %</small></td>
+<td class="n">31 %<br><small>33 %</small></td>
+<td class="n">0 sur 8<br><small>1 sur 8</small></td>
+<td class="n">59<br><small>47</small></td></tr><tr><td><b>Angle 3</b><br><span class="q">Quelle terre voulons-nous transmettre à celles et ceux qui cultiveront Vuadens dans trente ans ?</span></td>
+<td class="n">71 %<br><small>84 %</small></td>
+<td class="n">7 %<br><small>4 %</small></td>
+<td class="n">7 sur 8<br><small>8 sur 8</small></td>
+<td class="n">48<br><small>45</small></td></tr><tr><td><b>Angle 4</b><br><span class="q">Comment les fermes de Vuadens peuvent-elles être reconnues par toute la commune pour ce qu'elles apportent aux sols, à l'eau et à la vie sauvage ?</span></td>
+<td class="n">63 %<br><small>69 %</small></td>
+<td class="n">17 %<br><small>11 %</small></td>
+<td class="n">3 sur 8<br><small>3 sur 8</small></td>
+<td class="n">51<br><small>49</small></td></tr></tbody></table></div>
+  <p class="small">Le soutien est un score de comparaison entre formulations, pas une part d'habitants qui voteraient oui : sur les initiatives qui contraignent l'agriculture, le panel surestime le oui de la commune.</p>
+</section>
+
+<section>
+  <h2>Mobiliser les habitants</h2>
+  <p>Chaque persona a estimé sa probabilité de participer réellement à chaque format si la commune écrit à tous les ménages. Pour l'angle 1, sur 2139 résidents de 16 ans et plus :</p>
+  <div class="tiles"><div class="tile"><span class="eyebrow">Avis en ligne</span><b>171</b><span>habitants, estimation prudente</span><small>questionnaire de 10 minutes · plafond 228 · second panel 252</small></div><div class="tile"><span class="eyebrow">Atelier présentiel</span><b>59</b><span>habitants, estimation prudente</span><small>2 h 30, samedi matin ou soir · plafond 78 · second panel 74</small></div><div class="tile"><span class="eyebrow">Parcours à distance</span><b>51</b><span>habitants, estimation prudente</span><small>trois séquences de 20 minutes · plafond 69 · second panel 81</small></div><div class="tile"><span class="eyebrow">Atelier, invité par un proche</span><b>164</b><span>habitants, estimation prudente</span><small>la même soirée, avec quelqu'un qu'on connaît · plafond 219 · second panel 219</small></div></div>
+  <p class="verdict">L'invitation personnelle par un proche multiplie la venue à l'atelier par 2,8 (3,0 sur le second panel). Pour mobiliser, des ambassadeurs comptent plus qu'un tous-ménages.</p>
+  <p class="small">Le plafond additionne les probabilités annoncées par les personas. L'estimation prudente les multiplie par 0,75 : sur les 4 votations les moins suivies, Vuadens a voté à ce rythme par rapport à ce que le panel annonçait. Un atelier mobilise encore moins qu'une votation : la phase de participation réelle servira à étalonner ces chiffres.</p>
+</section>
+
+<section>
+  <h2>Le panel face aux votations réelles de Vuadens</h2>
+  <p>Avant de juger des angles, les personas électeurs ont voté sur 8 votations fédérales de 2018 à 2024 liées à l'agriculture, à l'écologie et au climat, sans en connaître le résultat. Le résultat est corrigé par famille de votations, en validation croisée.</p>
+  <div class="tbl"><table><thead><tr><th>Votation</th><th>Oui simulé corrigé</th><th>Oui réel</th><th>Écart</th><th>Écart du résultat cantonal</th></tr></thead><tbody><tr><td>Initiative pour des aliments équitables<br><small>23.09.2018</small></td><td class="n">50,6 %<br><small>44,7 %</small></td><td class="n"><b>52,1 %</b></td><td class="n">1,5</td><td class="n">3,4</td></tr><tr><td>Initiative pour la souveraineté alimentaire<br><small>23.09.2018</small></td><td class="n">53,7 %<br><small>52,0 %</small></td><td class="n"><b>47,3 %</b></td><td class="n">6,4</td><td class="n">4,0</td></tr><tr><td>Initiative pour une eau potable propre<br><small>13.06.2021</small></td><td class="n">31,0 %<br><small>27,6 %</small></td><td class="n"><b>19,6 %</b></td><td class="n">11,4</td><td class="n">11,6</td></tr><tr><td>Initiative pour une Suisse sans pesticides de synthèse<br><small>13.06.2021</small></td><td class="n">25,5 %<br><small>22,1 %</small></td><td class="n"><b>23,4 %</b></td><td class="n">2,1</td><td class="n">9,5</td></tr><tr><td>Loi sur le CO2<br><small>13.06.2021</small></td><td class="n">43,1 %<br><small>43,0 %</small></td><td class="n"><b>36,9 %</b></td><td class="n">6,2</td><td class="n">7,5</td></tr><tr><td>Initiative sur l'élevage intensif<br><small>25.09.2022</small></td><td class="n">15,4 %<br><small>17,5 %</small></td><td class="n"><b>18,0 %</b></td><td class="n">2,6</td><td class="n">9,1</td></tr><tr><td>Loi sur le climat et l'innovation<br><small>18.06.2023</small></td><td class="n">51,2 %<br><small>51,3 %</small></td><td class="n"><b>57,6 %</b></td><td class="n">6,4</td><td class="n">4,3</td></tr><tr><td>Initiative biodiversité<br><small>22.09.2024</small></td><td class="n">22,3 %<br><small>23,8 %</small></td><td class="n"><b>27,8 %</b></td><td class="n">5,5</td><td class="n">6,5</td></tr></tbody></table></div>
+  <p class="verdict">Écart moyen : 5,7 points sur les 6 votations corrigées (second panel n.d.), 5,3 en y ajoutant les 2 votations restées brutes, contre 7,0 points en reprenant simplement le résultat cantonal. Bon camp : 7/8, autant que le canton (7/8), et la règle « toujours non » fait 6/8. Le premier panel, sans mémoire politique, faisait n.d. points.</p>
+  <p class="small">Huit votations seulement, des familles définies après avoir vu les premiers résultats, 37 électeurs dans le panel. Le test montre que le panel capte le sens et l'ordre de grandeur du vote local sur ces sujets. Il ne prouve pas qu'il prédit une démarche participative.</p>
+</section>
+
+<section>
+  <h2>Ce que les contrôleurs ont attrapé</h2>
+  <div class="cards">
+    <div class="card"><span class="eyebrow">Gardien · angle du décideur</span><h3>« Faire pour que » les agriculteurs deviennent promoteurs</h3><p class="small">Violation du principe 5, non structurante : « Comment faire pour que le monde agricole [...] devienne promoteur du bio » fait des agriculteurs l'objet d'une action extérieure (« faire pour que ») et les désigne comme un bloc (« le monde agricole »), alors que l'objectif parle de premiers porteurs et que les quatre acteurs listés sont distincts. Le mot « promoteur » relève du plaidoyer et de la persuasion, là où la méthode demande des co-porteurs, artisans du changement.</p></div>
+    <div class="card"><span class="eyebrow">Gardien puis personas · angle 2</span><h3>Une alerte doctrinale confirmée par le terrain simulé</h3><p class="small">Le Gardien jugeait que l'angle 2 présuppose des fermes déjà engagées vers le bio. Sans connaître cet avis, les agriculteurs du panel l'ont rejeté : 0 sur 8 favorables au départ, et l'opposition monte à 31 % de la population.</p></div>
+    <div class="card"><span class="eyebrow">Gardien final · leviers</span><h3>Des chemins glissés dans les recommandations</h3><p class="small">Alignement partiel : une part de ces leviers est saine, une autre fixe des chemins ou traite des acteurs en cibles. Aligné : le segment des défenseurs de la liberté (démarche portée par les agriculteurs, conversion qui reste le choix de chaque exploitant), le frein « tout est déjà décidé » (dire ce qui reste ouvert, laisser les exploitants fixer le rythme, restituer ce qui a été retenu), le groupe de travail d'agriculteurs qui fixe lui-même son rythme, et tout le volet logistique de participation (garde d'enfants, horaires doublés, covoiturage, langage simple, courrier court), qui lève des obstacles sans dicter de route.</p></div>
+    <div class="card"><span class="eyebrow">Administrateur</span><h3>25 réponses rejetées et refaites</h3><p class="small">Jeunes électeurs qui sautaient des votations, citations qui n'existaient pas mot pour mot, formats trop longs, JSON cassé, probabilités incohérentes avec l'engagement déclaré. Rien n'entre dans les calculs sans passer ces contrôles.</p></div>
+  </div>
+  <h3 style="margin-top:8px">Le Contradicteur</h3><ul class="att"><li><span class="eyebrow">statisticien</span><p>Le panel surestime massivement le oui sur les quatre votations qui contraignaient l'agriculture, c'est-à-dire la famille de sujets dont relève l'objectif (convertir la majorité des terres en bio). Sur ces quatre scrutins, il fait systématiquement pire que la simple reprise du résultat cantonal, et l'étalonnage aggrave encore l'écart. Or les soutiens des angles (81,9 %, 70,9 %, 62,6 %, 47,5 %) sont publiés bruts, sans correction de ce biais mesuré de -0,81 en logit. Sur le sujet même de la démarche, le panel est nettement plus vert que Vuadens.</p></li><li><span class="eyebrow">journaliste</span><p>Aucun des quatre angles ouverts ne mentionne l'objectif réel (la majorité des terres en bio d'ici dix ans). Le panel a donc mesuré l'adhésion à des questions consensuelles (que les paysans vivent bien, transmettre une bonne terre), pas au projet. Le seul angle qui énonce l'objectif est le témoin, qui le combine avec une décision imposée : sa chute à 17,4 % mélange deux effets, le ton descendant et le contenu, sans permettre de les séparer. Le témoin prouve que le panel rejette une injonction, pas qu'il accepterait l'objectif présenté ouvertement.</p></li><li><span class="eyebrow">économiste</span><p>La simulation mesure la sympathie pour une démarche, pondérée sur toute la population, alors que l'objectif dépend de la décision d'une vingtaine d'exploitants conventionnels. Les agriculteurs ne pèsent que 3,0 % dans le soutien global : 97 % du poids des 81,9 % vient d'habitants qui ne cultivent aucun hectare. Aucune métrique ne mesure l'intention de conversion, et l'indicateur qui s'en approche le plus (part de coporteurs chez les agriculteurs) vaut 0 pour tous les angles. L'objectif d'agriculteurs « premiers porteurs » n'est atteint dans aucun scénario simulé.</p></li><li><span class="eyebrow">statisticien</span><p>Le backtest ne démontre pas de valeur prédictive propre. Le modèle brut fait moins bien que la référence naïve cantonale, l'étalonnage dégrade à la fois l'écart et le sens, et le sens correct n'est meilleur que d'une votation par rapport à une règle qui répond toujours non. Les intervalles à 90 % sont beaucoup trop étroits : le résultat réel en sort dans 5 votations test sur 8. La seule version qui bat la référence cantonale (correction par famille en leave-one-out, 5,3 points) est ajustée sur les votations test elles-mêmes, dont deux tenues le même jour.</p></li><li><span class="eyebrow">organisation agricole</span><p>Toutes les conclusions sur les agriculteurs, acteurs décisifs de l'objectif, reposent sur 8 personas fictifs jamais confrontés à une donnée réelle : le backtest valide (mal) l'électorat, pas les paysans, qui n'y pèsent que 3 %. Leur sensibilité politique est même inférée par le persona faute de donnée locale. Avec 8 personas, chaque agriculteur vaut 12,5 points, et les écarts invoqués pour départager les angles 1 et 3 chez les agriculteurs valent moins d'un persona. Le panel montre en outre des réponses alignées sur l'étiquette partisane, signe de stéréotypes plutôt que de nuances locales.</p></li><li><span class="eyebrow">organisation agricole</span><p>Le levier central de l'angle 1, un lait bio mieux payé, ne dépend d'aucun acteur que la démarche maîtrise. Il suppose que la fromagerie villageoise puisse fabriquer et vendre du Gruyère AOP bio, donc une collecte séparée ou la conversion de l'ensemble de ses fournisseurs, et que la filière lui ouvre des débouchés en bio. La conversion devient alors une décision collective à seuil, prise au niveau de la société de fromagerie, que le modèle traite comme une somme de décisions individuelles sur un réseau de 4 voisins.</p></li></ul>
+</section>
+
+<section>
+  <h2>Erreurs trouvées et corrigées</h2>
+  <p>Chaque ligne a modifié le moteur. Plusieurs corrections ont rendu les résultats moins flatteurs : c'est le but.</p>
+  <div class="tbl"><table><thead><tr><th>Problème constaté</th><th>Correction</th><th>Trouvé par</th></tr></thead><tbody><tr><td>Le premier panel faisait moins bien que le simple résultat cantonal sur les votations réelles (15,0 points d'écart contre 7,0) et la propagation saturait à presque 100 % de soutien.</td><td>Mémoire politique sourcée de la commune (votations 1995 à 2017), consigne de réalisme pour les personas, propagation avec érosion du soutien.</td><td><span class="tag">Backtest</span></td></tr><tr><td>Le tirage aléatoire du panel déformait la commune (âges, nationalités) d'un run à l'autre.</td><td>Tirage par quotas sur les statistiques publiques, agriculteurs suréchantillonnés puis repondérés à leur part réelle.</td><td><span class="tag">Autotest</span></td></tr><tr><td>Les contrôles de texte ignoraient les mots accentués (« réglementation » passait sans être vu).</td><td>Frontières de mots compatibles avec les accents.</td><td><span class="tag">Autotest</span></td></tr><tr><td>Les votations d'étalonnage des années 1990 étaient hors de portée des jeunes personas, qui n'avaient pas l'âge de voter.</td><td>Étalonnage déplacé sur 2012 à 2017 ; consigne claire pour les votations antérieures à la majorité. Le second panel a été validé à 48 sur 48 du premier coup.</td><td><span class="tag">Administrateur</span></td></tr><tr><td>L'étalonnage sur les votations anciennes aggravait l'erreur (12,6 points au lieu de 10,2) : un biais mesuré sur d'autres sujets ne se transpose pas.</td><td>Correction par famille de votations (soutien à l'agriculture, contrainte sur l'agriculture, climat), en validation croisée.</td><td><span class="tag">Backtest</span></td></tr><tr><td>La validation croisée laissait deux votations du même jour se corriger l'une l'autre.</td><td>Les votations du même jour sont exclues ensemble. L'écart corrigé passe de 4,3 à 5,3 points : moins flatteur, plus honnête.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Le Facilitateur appelait « co-porteurs » des habitants qui soutiennent sans s'engager.</td><td>Distinction explicite entre soutien et co-porteurs dans sa consigne, lecture refaite.</td><td><span class="tag">Relecture</span></td></tr><tr><td>Mesurer la participation sur une échelle de 0 à 4 écrasait tout : un seul persona sur 336 réactions viendrait à un atelier.</td><td>Étape Mobilisation : probabilité de participer à chaque format (avis en ligne, atelier présentiel, parcours à distance, atelier avec un proche).</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Le contrôle de cohérence de la mobilisation rejetait 6 personas sur 10 dont les probabilités basses étaient réalistes.</td><td>Seuils abaissés : l'écart entre intention et probabilité réelle est précisément ce qu'on mesure, l'exiger poussait à surestimer.</td><td><span class="tag">Administrateur</span></td></tr><tr><td>Les agriculteurs, suréchantillonnés pour être entendus, pesaient dans la propagation comme 17 % de la commune au lieu de 3 %.</td><td>Influence sociale pondérée par la part de population représentée.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Aucun persona n'était opposant au départ : rien ne prouvait que le panel sache dire non.</td><td>Angle témoin volontairement descendant, présenté au même panel.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Des affirmations de personas risquaient d'être reprises comme des faits sur la commune.</td><td>Le Sociologue écrit « selon tel persona, à vérifier » pour tout fait non sourcé, et compte toute répartition partisane sur les identifiants.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Le Sociologue et le Contradicteur ne recevaient pas les faits sourcés de la commune : ils ont pris un chiffre officiel (3 exploitations bio sur 23, OFS) pour une invention de persona.</td><td>Les faits sourcés leur sont transmis ; la fromagerie, seul fait sans source, a été vérifiée et sourcée.</td><td><span class="tag">Recoupement</span></td></tr><tr><td>Le Traducteur reprenait une critique du Contradicteur que le second témoin avait déjà tranchée.</td><td>La lecture des témoins est calculée par le code et prime sur les critiques antérieures.</td><td><span class="tag">Relecture</span></td></tr><tr><td>Deux réponses de personas arrivaient tronquées d'une accolade finale.</td><td>Réparation automatique limitée aux accolades manquantes, tracée dans le journal.</td><td><span class="tag">Administrateur</span></td></tr><tr><td>« 7 votations sur 8 dans le bon camp » paraissait solide, mais la règle naïve « toujours non » en obtient 6 sur 8.</td><td>Références naïves ajoutées au backtest : résultat cantonal et « toujours non ».</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Le premier angle témoin mélangeait le ton imposé et l'objectif chiffré : impossible de savoir lequel faisait fuir le panel.</td><td>Second témoin : le même objectif chiffré, posé comme une question ouverte.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Le facteur de réalisme de la mobilisation (0,97) masquait des erreurs qui se compensent : le panel sous-estime les grands scrutins et surestime les petits.</td><td>Correction calculée sur les votations les moins suivies, plus proches d'un atelier ; les effectifs bruts deviennent des plafonds.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>L'écart moyen du backtest mélangeait 6 votations corrigées et 2 restées brutes.</td><td>Les deux chiffres sont publiés séparément.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Les fourchettes de soutien étaient présentées comme des intervalles de confiance.</td><td>Renommées « variabilité du modèle » : elles ne mesurent pas l'erreur réelle.</td><td><span class="tag">Contradicteur</span></td></tr><tr><td>Le troisième niveau s'appelait « solution », alors que la méthode refuse toute solution préétablie.</td><td>Renommé « chemins » : le décideur nomme l'enjeu et l'objectif, jamais les chemins (principe 6 du Gardien).</td><td><span class="tag">Cyril Léger</span></td></tr></tbody></table></div>
+</section>
+
+<section>
+  <h2>Limites à connaître</h2>
+  <ul class="lim">
+    <li>Les personas sont des modèles de langage nourris de statistiques publiques. Ils ne remplacent aucun habitant réel, et la phase 2 reste indispensable.</li>
+    <li>Les agriculteurs ne sont que 8 dans chaque panel : leurs pourcentages bougent de 12,5 points avec un seul persona.</li>
+    <li>La propagation repose sur des paramètres d'influence non étalonnés sur des données de terrain. Les angles 1 et 3 sont au coude à coude : leurs fourchettes se recouvrent et le second panel les place à égalité.</li>
+    <li>Aucun persona n'est opposant au départ sur les angles ouverts, alors que la commune a rejeté nettement les initiatives agricoles récentes. Seuls les témoins font apparaître des opposants : la résistance aux angles ouverts est probablement sous-estimée.</li>
+    <li>Les deux mesures de participation ne concordent pas : sur l'échelle déclarative, l'angle 2 obtient le plus d'avis en ligne, sur les probabilités c'est l'angle 1. L'écart reste à expliquer.</li>
+    <li>Les personas étrangers ne votent pas au niveau fédéral : leurs réponses ne sont pas vérifiées par le backtest.</li>
+    <li>L'objectif se mesure en hectares, le modèle ne connaît que des personnes. Surfaces, exploitations et baux communaux restent à documenter avant toute communication.</li>
+    <li>La commune n'a qu'une partie des leviers : prix du lait, paiements directs et règles de reconversion relèvent de la filière, du canton et de la Confédération.</li>
+  </ul>
+</section>
+
+<footer class="foot">Régénère Plus · moteur Résonance, open source, en développement · Cas d'étude simulé sans mandat de la commune de Vuadens. Sources : OFS (STATPOP, STATENT, élections au Conseil national 2023), résultats officiels des votations fédérales. Runs run-002 et run-003.</footer>
+</div>

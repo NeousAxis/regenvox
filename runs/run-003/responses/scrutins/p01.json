@@ -1,0 +1,95 @@
+{
+  "id": "p01",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je vote toujours, et une armée qui peut se défendre me paraît normale, même si ces avions coûtent cher et que j'ai du mal à juger ce qu'il faut vraiment."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je trouve juste que les couples mariés ne soient pas pénalisés par rapport aux autres, même si la définition du mariage écrite dans la Constitution me laisse perplexe."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "L'AVS, c'est ce qui fait vivre les retraités comme mes amis du village, donc je soutiens son financement. Une hausse de TVA pèse sur tout le monde, mais je préfère ça plutôt que de voir les rentes baisser."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "J'aime que la Suisse décide elle-même, mais je n'aime pas qu'on mette la Constitution au-dessus de tous les accords sans nuance. Nos accords nous ont plutôt bien servis, donc je ne vois pas pourquoi les dénoncer."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.25,
+      "raison": "Je connais des familles étrangères du village et des ouvriers de la zone industrielle, je ne veux pas qu'on ferme la porte. L'Europe, c'est aussi nos échanges, nos produits et nos voisins."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.5,
+      "raison": "Notre pays doit pouvoir se défendre, donc je suis en principe pour renouveler nos avions. Six milliards, c'est beaucoup d'argent, et je me méfie des achats dont on ne maîtrise pas bien les détails."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible au bien-être des animaux, mais interdire toute recherche médicale et l'importation de nouveaux produits me paraît excessif. On a besoin de médicaments."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je comprends que les bêtes doivent être bien traitées, mais imposer aux paysans de chez nous les normes Bio Suisse, avec des délais décidés d'en haut, ne me convient pas. Ce sont nos voisins qui paieraient le prix, et je leur fais confiance pour bien faire."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.75,
+      "raison": "Je suis à la retraite et l'AVS compte beaucoup pour moi. Un petit point de TVA me paraît raisonnable pour la garder, même si le relèvement de l'âge de la retraite des femmes me laisse perplexe."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "La neutralité, c'est notre fierté, on me l'a apprise à l'école et j'y tiens. Je voterais oui pour qu'elle soit inscrite dans la Constitution, à condition qu'on puisse toujours aider et dialoguer avec les autres pays."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.4,
+      "raison": "Je suis pour manger suisse et soutenir nos paysans, et notre village a toujours soutenu la sécurité alimentaire. Mais imposer 70 % en dix ans et réduire le lait et la viande, c'est trop pour nos éleveurs, et je n'aime pas les objectifs décidés d'en haut."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.85,
+      "raison": "La 13e rente, c'est bien pour nous les retraités, et si la TVA finance ça sans toucher aux denrées alimentaires, je trouve ça juste."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les pétards la nuit effraient les animaux et dérangent les personnes âgées, donc je serais plutôt pour limiter le bruit. Je garde quand même une petite tendresse pour le feu du 1er août dans le village."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Je trouve normal que les couples mariés ne paient pas plus d'impôts que deux personnes seules, c'est une question de justice pour les familles de chez nous."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Notre neutralité est ce qui nous distingue, et livrer des armes à des pays en guerre me met mal à l'aise. Je voterais plutôt non, même si je fais confiance au Conseil fédéral."
+    }
+  ]
+}

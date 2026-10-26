@@ -1,0 +1,17 @@
+{
+  "id": "p21",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 2,
+    "citation": "Le bio, pourquoi pas, mais je regarde d'abord le prix à la caisse. Si c'est plus cher, qui paie la différence ?",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille à plein temps et je m'occupe seul de mes enfants, donc je n'ai pas de créneau libre pour un atelier en semaine",
+      "Mon budget est serré : je ne veux pas payer davantage pour le bio sans savoir ce que ça change concrètement",
+      "Je connais peu les familles et les agriculteurs du village, et je ne me sens pas forcément invité à participer aux décisions de la commune",
+      "La question agricole me paraît lointaine, je n'ai pas de lien direct avec les fermes ni avec le lait ou le fromage d'ici",
+      "Je ne sais pas comment on participe concrètement à ce genre de projet, et je doute que mon avis pèse beaucoup"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier près de chez moi, à une heure compatible avec mon travail, avec une garde ou une activité pour les enfants. Je veux des informations simples : ce que ça change pour mes courses, combien ça coûte, qui en profite, et ce que je peux faire concrètement. Si mes enfants peuvent visiter une ferme ou manger bio à la cantine à un prix raisonnable, je viendrais avec eux."
+  }
+}

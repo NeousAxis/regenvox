@@ -1,0 +1,29 @@
+{
+  "id": "p02",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Je paie ma pilule moi-même et je suis directement concernée, mais le MCG est contre et je me méfie des nouvelles dépenses de l'État."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Les questions de transports me touchent un peu, mais le MCG refuse de financer des infrastructures en France et je me range à son avis."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.25,
+      "oui_proba": 0.6,
+      "raison": "Je vis chez mes parents et le sujet ne me concerne pas directement, mais devenir propriétaire un jour me parle et le MCG dit oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je suis en formation et les taxes d'études ont déjà augmenté, donc je reste méfiante envers toute baisse de l'indemnité de la HES, et le MCG dit non."
+    }
+  ]
+}

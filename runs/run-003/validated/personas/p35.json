@@ -1,0 +1,141 @@
+{
+  "id": "p35",
+  "portrait": "J'ai 55 ans et je tiens l'exploitation familiale de vaches laitières sur les prairies de Vuadens, en production conventionnelle. Je vis seul à la ferme, avec la traite matin et soir, et je compte chaque franc qui rentre. Je vote, mais je me méfie des projets venus de la ville ou de Berne, surtout quand ils touchent à mes revenus.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Qu'on me montre combien je gagne en bio, chiffres à l'appui, et je regarderai. Sinon c'est de la théorie.",
+      "engagement": 2,
+      "freins_participation": [
+        "Les soirées d'atelier après la traite du soir",
+        "Trop de discours et pas assez de chiffres sur le prix payé au producteur",
+        "Le sentiment que ces décisions se prennent ailleurs"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier entre agriculteurs de la commune, avec un calcul concret pour chaque ferme sur le prix, les aides et la perte de rendement pendant la transition."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Ça fait des années qu'on nous dit que les gens veulent du bio. À la caisse ils prennent le moins cher, et moi je ne vais pas leur faire la morale.",
+      "engagement": 0,
+      "freins_participation": [
+        "Pas le temps d'accueillir du public sur une exploitation qui tourne tous les jours de l'année",
+        "Des visites qui finissent en photo dans le journal",
+        "Je ne crois pas que ça change ce que les gens achètent"
+      ],
+      "ce_qui_me_ferait_venir": "Un achat direct qui paie mieux le lait ou la viande produits à la ferme, plutôt qu'une visite de plus à organiser."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Une terre avec de la vie dans le sol et de l'eau propre, c'est ce qu'il faut laisser. Mais si personne n'a envie de reprendre une ferme, parler de 2050 ne sert pas à grand-chose.",
+      "engagement": 2,
+      "freins_participation": [
+        "Des discussions trop lointaines alors que le prix du lait se règle aujourd'hui",
+        "La question de la reprise, difficile à mettre sur la table en public"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier où anciens et jeunes parlent de la reprise, avec des propositions concrètes sur l'accès aux terres et l'aide au démarrage."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "La reconnaissance ne paie pas la facture d'aliment. Si on veut que nous fassions davantage pour le sol et l'eau, qu'on nous paie ce que ça coûte.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis pas un homme de communication et les présentations en public me gênent",
+        "On nous a déjà demandé beaucoup d'efforts sans que ça se voie dans le revenu"
+      ],
+      "ce_qui_me_ferait_venir": "Que la reconnaissance se traduise par des achats locaux à un prix juste, et non par des panneaux ou des discours."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Réseau agricole local : d'autres exploitants laitiers du village et des environs, quelques proches de la fromagerie villageoise, et le voisinage du hameau. Peu de contacts réguliers avec les habitants arrivés récemment ou venus de la ville."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Les résidences secondaires ne me touchent pas directement. Mais fixer une limite de 20 % dans la Constitution me paraît trop rigide, et je préfère que la commune décide elle-même de son développement."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Garder les terres agricoles, c'est la base, sans terres il n'y a plus de fermes. Mais si la loi bloque les constructions dont une exploitation a besoin, je ne suis plus d'accord."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Que la Suisse ne consomme pas plus d'une planète d'ici 2050, ça veut dire des normes et des taxes qui tombent d'abord sur nous, les paysans et les petites entreprises, pendant que les importations continuent. Non."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas expert. Fermer les centrales après 45 ans, ça veut dire acheter du courant à l'étranger, et ça me fait peur pour les prix et l'approvisionnement. Je reste réservé, sans conviction forte."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Des panneaux solaires sur les bâtiments agricoles, ça m'intéresse, c'est un revenu possible. Je n'aime pas les taxes, mais là c'est surtout de l'encouragement. Je dis oui, avec un doute sur ce que ça coûte à la facture."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Que les produits importés respectent nos normes, je trouve ça juste, c'est une concurrence loyale. Mais l'initiative ajoute des règles et de la paperasse, et je ne vois pas qui va payer. Je serais plutôt réservé."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Protéger la production d'ici, des prix équitables et plus de paysans sur les fermes, c'est ce qu'il faut. Je vote oui sans hésiter."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.1,
+      "raison": "Lier les paiements directs à l'absence de pesticides, à l'absence d'antibiotiques préventifs et au fourrage de la ferme, ça me vise directement. Mes paiements directs font vivre l'exploitation. Non, même si je comprends l'objectif d'une eau propre."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.08,
+      "raison": "Interdire les produits de synthèse partout, dans les cultures, l'entretien et même à l'importation, sans alternative réaliste à court terme, ça ne tient pas. Je fais attention à mon usage, mais pas à l'interdiction totale. Non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Une taxe de plus sur le mazout, les billets d'avion et des normes pour les bâtiments, pour une exploitation qui n'a pas de marge, je n'en veux pas. Le climat reste une vraie question, mais je voterais plutôt non, sans enthousiasme."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.08,
+      "raison": "Une norme au niveau de Bio Suisse pour toutes les étables, y compris pour les importations, ça ferait fermer des fermes de la région. Nos éleveurs soignent leurs bêtes, et ça ne se règle pas par un texte de plus. Non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Zéro émission nette en 2050, je veux bien que chacun fasse sa part, mais les vaches sont souvent pointées du doigt. Les aides pour changer les chauffages sont utiles. Je suis partagé et je pencherais pour un oui hésitant."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "La biodiversité, je n'ai rien contre, je fais déjà ma part sur mes prairies. Mais plus de surfaces protégées et plus de moyens sur le papier, ça veut dire moins de terres pour produire. Plutôt non."
+    }
+  ]
+}

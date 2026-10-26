@@ -1,0 +1,17 @@
+{
+  "id": "p38",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le Conseil a décidé pour les champs, mais ce sont les paysans qui les travaillent. Passer de 21 % à plus de la moitié en dix ans, sans leur demander leur avis et sans leur garantir un prix correct, ça ne me convainc pas.",
+    "engagement": 1,
+    "freins_participation": [
+      "Un objectif fixé par la commune sans concertation avec les agriculteurs",
+      "Des coûts et des contraintes supplémentaires pour les paysans sans compensation suffisante",
+      "Des taxes ou des normes qui se cachent derrière l'écologie",
+      "Un emploi du temps déjà chargé entre le travail, les enfants et le ménage",
+      "Le sentiment que ce sont toujours les mêmes qui paient"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier sur place avec les paysans de Vuadens, où ils expliquent leurs contraintes, leurs marges et ce qui les aiderait vraiment à passer au bio, et la garantie que le choix reste aux exploitants, avec des débouchés locaux à un prix correct."
+  }
+}

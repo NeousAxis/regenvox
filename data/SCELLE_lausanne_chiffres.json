@@ -1,0 +1,505 @@
+{
+ "demarches": [
+  {
+   "id": "lau01",
+   "participants_publies": 2482,
+   "votants_publies": 2482,
+   "ce_que_mesure": "Nombre de voix (votes) comptabilisées par la Ville pendant la phase de vote du 27 août au 13 octobre 2019, présenté dans le communiqué du 29 octobre 2019 comme une participation de près de 2% de la population lausannoise. Le communiqué ne dit pas si ce chiffre compte des bulletins bruts ou des votants vérifiés.",
+   "autres_mesures": [
+    {
+     "libelle": "Votes récoltés selon l'évaluation externe du dispositif (Centre pour la démocratie d'Aarau, rapport de mai 2022)",
+     "valeur": 1111,
+     "ce_que_mesure": "Nombre de votes de la phase de vote 2019 cité par l'évaluation, qui l'estime à près de 1% de la population lausannoise. Part du vote électronique 52% et du vote papier 48% selon la même évaluation.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12559"
+    }
+   ],
+   "projets_deposes": 34,
+   "projets_soumis_au_vote": 19,
+   "projets_finances": 8,
+   "enveloppe_chf": 100000,
+   "population_concernee": {
+    "valeur": 146277,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin octobre 2019, mois de clôture du vote. Fin août 2019: 144592. Fin septembre 2019: 145909. Le corps votant (domicilié à Lausanne, sans condition d'âge ni de nationalité en 2019) n'est pas chiffré séparément.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2019.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 1.7,
+    "methode": "2482 / 146277, calcul de l'agent, non publié. Avec la valeur de l'évaluation externe (1111): 0.76%."
+   },
+   "divergences_et_reserves": "Deux valeurs incompatibles (2482 et 1111). Indice de cohérence, calcul de l'agent et non conclusion de la Ville: les 8 projets lauréats totalisent 2748 voix, plus que 2482, donc 2482 n'est pas la somme des voix par projet. Comme chaque votant choisit au minimum trois projets, 2482 votants valides donneraient au moins 7446 voix au total, soit au moins 4698 voix pour les 11 autres projets (plus de 427 en moyenne, alors que le huitième lauréat n'en a que 207); c'est difficile à concilier avec les données, même si des projets très votés mais trop chers n'ont pas été financés. La valeur 1111 de l'évaluation externe est peut-être plus proche d'un nombre de votants vérifiés. Fiabilité de la mesure principale: faible à moyenne.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 29 octobre 2019: Budget participatif, les projets lauréats sont annoncés",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=9109"
+    },
+    {
+     "nom": "Zentrum für Demokratie Aarau, Le budget participatif dans la ville de Lausanne, rapport final d'évaluation du projet pilote 2019-2021 (mai 2022), section 4.2.3.1",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12559"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2019",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2019.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 14 janvier 2019: La Ville lance un appel aux projets citoyens",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=8323"
+    },
+    {
+     "nom": "Ville de Lausanne, communiqué du 27 août 2019: Ouverture des votes pour les projets citoyens",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=8921"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau02",
+   "participants_publies": 4004,
+   "votants_publies": 4004,
+   "ce_que_mesure": "Nombre de voix comptabilisées par la Ville pendant la phase de vote du 10 octobre au 29 novembre 2020. Le communiqué de résultats (embargo du 16 décembre 2020) présente aussi ce chiffre comme celui des Lausannoises et Lausannois qui ont glissé leur bulletin dans l'urne ou voté en ligne, sans préciser si les bulletins ont été vérifiés. Plus de la moitié des votes se sont faits à distance (électronique et par correspondance).",
+   "autres_mesures": [
+    {
+     "libelle": "Votes récoltés selon l'évaluation externe du dispositif (Centre pour la démocratie d'Aarau, rapport de mai 2022)",
+     "valeur": 2819,
+     "ce_que_mesure": "Formulé « plus de 2819 votes », environ 2% de la population lausannoise; près de 70% des votes à distance, 67% de vote électronique selon la même évaluation.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12559"
+    },
+    {
+     "libelle": "Votants 2020 déduits du communiqué de résultats 2021 (valeur calculée, non publiée telle quelle)",
+     "valeur": 1934,
+     "ce_que_mesure": "Le communiqué du 18 décembre 2021 donne 3078 votants en 2021, soit 1144 de plus que l'année précédente, ce qui implique 1934 votants vérifiés en 2020.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=11800"
+    }
+   ],
+   "projets_deposes": 29,
+   "projets_soumis_au_vote": 26,
+   "projets_finances": 9,
+   "enveloppe_chf": 150000,
+   "population_concernee": {
+    "valeur": 145973,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin novembre 2020, mois de clôture du vote. Fin octobre 2020: 145989. Le corps votant (toute personne vivant à Lausanne, sans condition d'âge ni de nationalité) n'est pas chiffré séparément.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2020.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 2.74,
+    "methode": "4004 / 145973, calcul de l'agent, non publié. Avec 2819: 1.93%. Avec 1934: 1.32%."
+   },
+   "divergences_et_reserves": "Trois valeurs incompatibles (4004, 2819, 1934). Indice de cohérence, calcul de l'agent et non conclusion de la Ville: les 9 lauréats totalisent 3953 voix; avec un minimum de trois projets par votant, 4004 votants valides donneraient au moins 12012 voix au total, soit au moins 8059 voix pour les 17 autres projets (plus de 470 en moyenne, alors que le neuvième lauréat n'en a que 324); c'est difficile à concilier avec les données, même si des projets très votés mais trop chers n'ont pas été financés. 4004 est peut-être un compte brut; 1934 (valeur impliquée par la Ville en 2021) et 2819 sont plus proches d'un nombre de votants vérifiés. Fiabilité de la mesure principale: faible. Édition marquée par le Covid-19: la Ville cite deux vagues pendant le processus.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 15 décembre 2020 (embargo 16.12.2020): Budget participatif, les projets lauréats dévoilés",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=10280"
+    },
+    {
+     "nom": "Ville de Lausanne, communiqué du 18 décembre 2021 (3e édition): 1144 votants de plus que l'année dernière",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=11800"
+    },
+    {
+     "nom": "Zentrum für Demokratie Aarau, rapport final d'évaluation du projet pilote 2019-2021 (mai 2022), section 4.2.3.2",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12559"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2020",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2020.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 20 janvier 2020: La Ville lance son 2e appel aux projets citoyens",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=9284"
+    },
+    {
+     "nom": "Ville de Lausanne, communiqué du 8 octobre 2020: Les Lausannois·es choisissent leurs projets citoyens",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=9991"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau03",
+   "participants_publies": 3078,
+   "votants_publies": 3078,
+   "ce_que_mesure": "Nombre de bulletins valides, présentés aussi comme votants vérifiés, comptabilisés par la Ville pour la phase de vote de mi-octobre à fin novembre 2021 (communiqué du 18 décembre 2021). Les votes pouvaient se faire dans dix-huit urnes de quartier, par internet ou par bulletin tout-ménage préaffranchi.",
+   "autres_mesures": [
+    {
+     "libelle": "Votes comptés avant vérification (relayé par un moteur de recherche à partir du document de résultats publié sur participer.lausanne.ch, document non relu par l'agent)",
+     "valeur": 3442,
+     "ce_que_mesure": "Nombre de votes comptabilisés du 18 octobre au 30 novembre 2021 avant vérification via le registre des habitants. À vérifier sur le document original, dont le lien signé n'est plus accessible.",
+     "source": "document PDF 20211218_resultats_BPar.pdf publié sur participer.lausanne.ch (lien signé expiré, non relu), chiffre relayé par une recherche web"
+    },
+    {
+     "libelle": "Votes récoltés selon l'évaluation externe du dispositif (Centre pour la démocratie d'Aarau, rapport de mai 2022)",
+     "valeur": 3080,
+     "ce_que_mesure": "Cité comme environ 2,2% de la population lausannoise dans la section sur la phase de vote (le rapport indique ailleurs 2,5%). Rapport rédigé avant la fin du vote, donc valeur à considérer comme provisoire.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12559"
+    }
+   ],
+   "projets_deposes": 23,
+   "projets_soumis_au_vote": 15,
+   "projets_finances": 11,
+   "enveloppe_chf": 175000,
+   "population_concernee": {
+    "valeur": 147141,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin novembre 2021, mois de clôture du vote. Fin octobre 2021: 146753. Le corps votant (toute personne vivant à Lausanne, sans condition d'âge ni de nationalité) n'est pas chiffré séparément.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2021.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 2.09,
+    "methode": "3078 / 147141, calcul de l'agent, non publié. L'évaluation externe donne 2,2% (3080 votes)."
+   },
+   "divergences_et_reserves": "Écart entre votes comptés (3442, non revérifié) et bulletins valides (3078). Les dates de clôture du vote varient d'un communiqué à l'autre (26, 28 ou 30 novembre 2021). Le communiqué de résultats 2022 reprend 3078 comme base de comparaison. Les 11 lauréats totalisent 12250 voix, cohérent avec un minimum de trois projets par votant (au moins 9234 voix pour 3078 votants). Fiabilité de la mesure principale: bonne.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 18 décembre 2021: 11 projets se répartiront 175'000 CHF",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=11800"
+    },
+    {
+     "nom": "Zentrum für Demokratie Aarau, rapport final d'évaluation du projet pilote 2019-2021 (mai 2022), sections 4.2.3.3 et 4.3.1",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12559"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2021",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2021.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué de février 2021: La ville lance son 3e appel aux projets citoyens",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=10505"
+    },
+    {
+     "nom": "Ville de Lausanne, communiqué du 18 octobre 2021: Budget participatif, les votes sont ouverts",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=11502"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau04",
+   "participants_publies": 18355,
+   "votants_publies": 18355,
+   "ce_que_mesure": "Nombre de votants dont le bulletin a été validé après vérification (doublons, domicile à Lausanne), pour la phase de vote du 3 octobre au 30 novembre 2022, communiqué de résultats de décembre 2022. Le communiqué précise qu'il y a 15277 votants de plus qu'en 2021 grâce à l'envoi tout-ménage d'un bulletin à chaque personne habitant Lausanne.",
+   "autres_mesures": [
+    {
+     "libelle": "Bulletins comptabilisés avant validation",
+     "valeur": 20005,
+     "ce_que_mesure": "Nombre de bulletins comptés avant vérification; le titre du communiqué annonce « plus de 20'000 » Lausannoises et Lausannois.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=13099"
+    }
+   ],
+   "projets_deposes": 28,
+   "projets_soumis_au_vote": 21,
+   "projets_finances": 12,
+   "enveloppe_chf": 175000,
+   "population_concernee": {
+    "valeur": 149079,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin novembre 2022, mois de clôture du vote. Fin octobre 2022: 148697. Le corps votant (personnes habitant Lausanne) n'est pas chiffré séparément; la condition d'âge n'est pas précisée dans les communiqués de 2022.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2022.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 12.31,
+    "methode": "18355 / 149079, calcul de l'agent, non publié. Avec 20005 bulletins comptabilisés: 13.42%."
+   },
+   "divergences_et_reserves": "Rupture de série par rapport aux éditions précédentes: introduction d'un bulletin nominatif envoyé à chaque personne habitant Lausanne (l'édition 2021 envoyait un bulletin par foyer). La mesure principale est un nombre de votants validés; pour 2023 et 2025 la Ville annonce un nombre de votes dont seule une part est validée (voir lau05 et lau06). Fiabilité de la mesure principale: bonne.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne, communiqué de décembre 2022: Grâce à la participation de plus de 20'000 Lausannoises et Lausannois, 12 projets seront subventionnés",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=13099"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2022",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2022.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 27 janvier 2022: La Ville met son budget en débat",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=11858"
+    },
+    {
+     "nom": "Ville de Lausanne, communiqué d'ouverture du vote 2022 (automne 2022): Budget participatif 2022",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12863"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau05",
+   "participants_publies": 18370,
+   "votants_publies": 18370,
+   "ce_que_mesure": "Nombre de Lausannoises et Lausannois dont le vote a été comptabilisé pour la phase de vote du 16 octobre au 19 novembre 2023, tel que présenté dans le titre du communiqué de résultats du 18 décembre 2023. Le corps du communiqué parle de presque 18500 suffrages dépouillés manuellement et indique que 87% des votes ont pu être validés, sans dire si 18370 est le total compté ou le total validé.",
+   "autres_mesures": [
+    {
+     "libelle": "Suffrages dépouillés, selon le corps du communiqué",
+     "valeur": 18500,
+     "ce_que_mesure": "Formulé « presque 18'500 suffrages » dépouillés manuellement par une quinzaine de personnes; valeur approximative par défaut.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=14524"
+    },
+    {
+     "libelle": "Votes validés, valeur calculée par l'agent à partir de 87% de 18370, non publiée",
+     "valeur": 15982,
+     "ce_que_mesure": "Estimation du nombre de votes validés si 18370 est le total compté et 87% la part validée.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=14524"
+    }
+   ],
+   "repartition_modes_publiee": "Selon le communiqué: environ 89% par bulletin nominatif postal, environ 10% par vote électronique, environ 1% dans les urnes (pourcentages par projet entre 84% et 91% pour le courrier).",
+   "projets_deposes": 31,
+   "projets_soumis_au_vote": 20,
+   "projets_finances": 13,
+   "enveloppe_chf": 200000,
+   "population_concernee": {
+    "valeur": 150326,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin novembre 2023, mois de clôture du vote. Fin octobre 2023: 149975. Le corps votant (dès 4 ans, étrangers inclus) n'est pas chiffré séparément.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2023.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 12.22,
+    "methode": "18370 / 150326, calcul de l'agent, non publié. Avec 15982 votes validés estimés: 10.63%."
+   },
+   "divergences_et_reserves": "Ambiguïté sur la nature de 18370 (compté ou validé) et sur le rapport avec 87% de validation. La comparaison avec 2022 (18355 validés) n'est donc pas à armes égales. Le communiqué annonce qu'une analyse par âge et par quartier paraîtra, non retrouvée par l'agent. Fiabilité de la mesure principale: moyenne.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 18 décembre 2023: 13 projets portés par des Lausannoises et Lausannois seront financés en 2024",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=14524"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2023",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2023.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 16 octobre 2023: 5e édition du Budget participatif, votez pour vos projets préférés",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=14248"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau06",
+   "participants_publies": 18630,
+   "votants_publies": 18630,
+   "ce_que_mesure": "Nombre d'habitantes et habitants ayant participé à la phase de vote du 18 août au 30 septembre 2025, selon le titre du communiqué de résultats du 16 décembre 2025. Le corps du communiqué indique que 18630 votes ont été comptabilisés puis vérifiés manuellement, et que 89% des bulletins ont été validés.",
+   "autres_mesures": [
+    {
+     "libelle": "Bulletins validés, valeur calculée par l'agent à partir de 89% de 18630, non publiée",
+     "valeur": 16581,
+     "ce_que_mesure": "Estimation du nombre de bulletins validés si 18630 est le total compté et 89% la part validée.",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=17166"
+    }
+   ],
+   "repartition_modes_publiee": "Selon le communiqué: 97% des suffrages par bulletin nominatif envoyé à domicile, 3% par vote électronique.",
+   "projets_deposes": 30,
+   "projets_soumis_au_vote": 22,
+   "projets_finances": 13,
+   "enveloppe_chf": 200000,
+   "population_concernee": {
+    "valeur": 151028,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin septembre 2025, mois de clôture du vote. Fin août 2025: 150655. Le corps votant (personnes domiciliées à Lausanne dès 4 ans) n'est pas chiffré séparément.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2025.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 12.34,
+    "methode": "18630 / 151028, calcul de l'agent, non publié. Avec 16581 bulletins validés estimés: 10.98%."
+   },
+   "divergences_et_reserves": "Même ambiguïté qu'en 2023: le titre parle de participants (18630) alors que le corps indique 89% de bulletins validés. Vote tenu de la mi-août à fin septembre, plus tôt dans l'année que les éditions 2020 à 2023 (octobre à novembre); première édition après le passage à un rythme biennal. Fiabilité de la mesure principale: moyenne à bonne.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 16 décembre 2025: 13 projets imaginés par des Lausannoises et Lausannois verront le jour en 2026",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=17166"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2025",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2025.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 18 août 2025: 6e édition du Budget participatif, à vous de décider",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=16567"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau07",
+   "participants_publies": 423,
+   "votants_publies": null,
+   "ce_que_mesure": "Nombre de réponses aux sondages de la consultation Sauvabelin 2017: 373 réponses au sondage en ligne et 50 formulaires papier récoltés aux réceptions du Service du logement et des gérances et à la Pinte de Sauvabelin. Les ateliers du 18 novembre 2017 sont comptés à part.",
+   "autres_mesures": [
+    {
+     "libelle": "Participants aux ateliers sur place du 18 novembre 2017",
+     "valeur": 100,
+     "ce_que_mesure": "« Une centaine de personnes » ont participé aux ateliers dans l'Auberge; un tiers se serait déplacé pour l'occasion, les autres étant déjà sur place ou invitées fortuitement.",
+     "source": "https://participer.lausanne.ch/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57e68fd040e562d3a3adacd0ff0f4bb7b1ca4a99/ResultatsConsultationSauvabelin.pdf"
+    },
+    {
+     "libelle": "Total cumulé non dédoublonné (calcul de l'agent)",
+     "valeur": 523,
+     "ce_que_mesure": "373 + 50 + environ 100, en supposant qu'aucune personne n'ait participé par plusieurs canaux; recoupement inconnu.",
+     "source": "calcul de l'agent"
+    }
+   ],
+   "projets_deposes": null,
+   "projets_soumis_au_vote": null,
+   "projets_finances": null,
+   "enveloppe_chf": null,
+   "population_concernee": {
+    "valeur": 145224,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin novembre 2017. La démarche s'adressait aussi aux usagers du site hors de Lausanne; population visée non chiffrée.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2017.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 0.29,
+    "methode": "423 / 145224, calcul de l'agent, non publié, indicatif seulement car le public n'est pas limité aux habitants."
+   },
+   "divergences_et_reserves": "Aucune divergence repérée. Le compte rendu ne donne pas la durée d'ouverture du sondage. Chiffres issus d'un rapport rédigé par le bureau mandataire. Fiabilité: bonne.",
+   "sources": [
+    {
+     "nom": "sanu future learning sa pour la Ville de Lausanne: compte rendu de la consultation du 18 novembre 2017 et des sondages papier et électronique, Quel avenir pour les établissements publics du lac de Sauvabelin",
+     "url": "https://participer.lausanne.ch/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57e68fd040e562d3a3adacd0ff0f4bb7b1ca4a99/ResultatsConsultationSauvabelin.pdf"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2017",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2017.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Introduction du compte rendu sanu future learning sa (section 1.1, contexte et appel à participer)",
+     "url": "https://participer.lausanne.ch/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57e68fd040e562d3a3adacd0ff0f4bb7b1ca4a99/ResultatsConsultationSauvabelin.pdf"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau08",
+   "participants_publies": 4607,
+   "votants_publies": null,
+   "ce_que_mesure": "Nombre de personnes ayant répondu au questionnaire de satisfaction en ligne (15 questions) sur la fermeture des quais d'Ouchy et de Belgique à l'été 2020, enquête menée par le bureau CBRE du 19 mars au 19 avril 2021 auprès des habitants de Lausanne et de la région. Le rapport écrit « près de 4607 personnes ».",
+   "autres_mesures": [
+    {
+     "libelle": "Répondants ayant laissé un commentaire final",
+     "valeur": 1400,
+     "ce_que_mesure": "Environ 30% des répondants ont ajouté un commentaire ou une suggestion à la fin du questionnaire (« près de 1400 »).",
+     "source": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=11051"
+    }
+   ],
+   "projets_deposes": null,
+   "projets_soumis_au_vote": null,
+   "projets_finances": null,
+   "enveloppe_chf": null,
+   "population_concernee": {
+    "valeur": 145358,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin avril 2021, mois de clôture du sondage. Fin mars 2021: 145771. Le sondage s'adressait aussi aux habitants de la région, donc la population visée est plus large que ce total.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2021.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 3.17,
+    "methode": "4607 / 145358, calcul de l'agent, non publié, indicatif seulement car le public n'est pas limité aux habitants lausannois."
+   },
+   "divergences_et_reserves": "Le communiqué de lancement indique par erreur les dates du 18 mars au 18 avril 2020; le rapport donne 2021. Participation volontaire, non représentative selon le rapport (répondants plus diplômés, plus souvent suisses). Fiabilité: bonne.",
+   "sources": [
+    {
+     "nom": "CBRE Research and Consulting pour la Ville de Lausanne, Enquête de satisfaction sur la fermeture des quais d'Ouchy en été 2020, rapport final du 21 mai 2021, section 1.2",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=11051"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2021",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2021.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 18 mars 2021: Fermeture des quais au trafic, Lausanne sonde sa population",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=10698"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau09",
+   "participants_publies": 273,
+   "votants_publies": null,
+   "ce_que_mesure": "Nombre de questionnaires retournés et analysés lors de la consultation publique 2022 sur le racisme et les discriminations (formulé « quelques 273 »), en ligne, en PDF et sur papier, du 16 mai au 31 août 2022.",
+   "autres_mesures": [],
+   "projets_deposes": null,
+   "projets_soumis_au_vote": null,
+   "projets_finances": null,
+   "enveloppe_chf": null,
+   "population_concernee": {
+    "valeur": 146839,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin août 2022, mois de clôture de la consultation. Fin mai 2022: 147457. La synthèse précise que le public touché était plus large que les seuls Lausannois (réseaux du Bureau lausannois pour les immigrés, festivals d'été, participants de la journée de réflexion du 25 mars), donc la population visée dépasse ce total.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2022.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 0.19,
+    "methode": "273 / 146839, calcul de l'agent, non publié, indicatif seulement car les répondants ne sont pas tous lausannois."
+   },
+   "divergences_et_reserves": "Consultation sans visée scientifique, échantillon non représentatif (63% de femmes, 70% de répondants avec des études supérieures selon la synthèse). Le communiqué de lancement annonçait une clôture au 17 juillet 2022, la synthèse indique le 31 août. Fiabilité: bonne.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne et Bureau lausannois pour les immigrés, synthèse Réinventons ensemble nos actions contre le racisme, résultats de la journée du 25 mars 2022 et de la consultation publique 2022",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=13336"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2022",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2022.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 16 mai 2022: La population lausannoise invitée à proposer des actions contre le racisme et les discriminations",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=12295"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  },
+  {
+   "id": "lau10",
+   "participants_publies": 700,
+   "votants_publies": null,
+   "ce_que_mesure": "Nombre de personnes, habitants et usagers, ayant répondu au grand sondage en ligne de la démarche participative PACom 2020 et 2021, formulé « plus de 700 », donc valeur plancher. Le sondage est resté ouvert pendant une année environ.",
+   "autres_mesures": [
+    {
+     "libelle": "Participants aux rencontres dans les quartiers (soirées d'information, balades participatives, micro-trottoirs), de mars 2020 à avril 2021",
+     "valeur": 200,
+     "ce_que_mesure": "La Ville écrit que ces rencontres ont rassemblé 200 participants, sans préciser si ce sont des personnes distinctes ou des présences cumulées.",
+     "source": "https://www.lausanne.ch/pacom"
+    }
+   ],
+   "projets_deposes": null,
+   "projets_soumis_au_vote": null,
+   "projets_finances": null,
+   "enveloppe_chf": null,
+   "population_concernee": {
+    "valeur": 145358,
+    "precision": "Total des habitants du contrôle des habitants de la Ville de Lausanne (tous âges, étrangers inclus) à fin avril 2021, fin de la démarche. Fin mars 2020: 146921. Le sondage était ouvert aux habitants et aux usagers des quartiers, donc la population visée dépasse ce total.",
+    "source": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2021.html"
+   },
+   "taux_calcule_agent": {
+    "valeur_pct": 0.48,
+    "methode": "700 / 145358, calcul de l'agent, non publié, valeur plancher et indicative."
+   },
+   "divergences_et_reserves": "Chiffres publiés sans date de relevé précise et sous forme arrondie (« plus de 700 », « 200 »). Les nombres de balades (17 ou près de vingt) varient selon les communiqués. La Ville a rapporté en août 2020 que des centaines de réponses étaient déjà arrivées avant le début des balades. Démarche perturbée par le semi-confinement de mars 2020. Fiabilité: moyenne.",
+   "sources": [
+    {
+     "nom": "Ville de Lausanne, page PACom: démarche participative 2020 et 2021 (200 participants aux rencontres, plus de 700 répondants au sondage en ligne)",
+     "url": "https://www.lausanne.ch/pacom"
+    },
+    {
+     "nom": "Ville de Lausanne, Service du contrôle des habitants: évolution mensuelle du nombre d'habitants en 2021",
+     "url": "https://www.lausanne.ch/de/officiel/administration/securite-et-economie/controle-des-habitants/a-propos/statistiques/evolution-mensuelle-nombre-habitants-2021.html"
+    }
+   ],
+   "sources_texte": [
+    {
+     "nom": "Ville de Lausanne, communiqué du 9 mars 2020: Lausanne 2030, Quel visage pour votre quartier en 2030 ?",
+     "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=9398"
+    }
+   ],
+   "lu_le": "2026-10-25"
+  }
+ ]
+}

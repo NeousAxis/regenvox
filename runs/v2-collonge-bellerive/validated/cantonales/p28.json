@@ -1,0 +1,29 @@
+{
+  "id": "p28",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Le Centre dit oui et l'accès à la contraception compte pour les jeunes femmes de mon entourage, mais le coût et la recommandation négative des autorités me retiennent."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le Centre, le PS et le PLR disent oui à des projets qui allégeraient le trafic, mais je garde en tête le refus de 2014 sur l'argent versé en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "L'accès à la propriété me parle et le Centre dit oui, mais je crains la disparition de logements locatifs et je me méfie des congés-ventes."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas directement concernée par la HES et je suis la position du Centre, qui dit oui, sans trop m'inquiéter des deux millions en moins."
+    }
+  ]
+}

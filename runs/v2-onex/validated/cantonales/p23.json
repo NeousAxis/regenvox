@@ -1,0 +1,29 @@
+{
+  "id": "p23",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "La contraception relève de la santé et du couple, et je comprends que certaines femmes peinent à la payer, mais 20 millions de plus à la charge du canton alors que les primes et les impôts montent déjà, ça me fait hésiter."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Les bouchons du matin à la frontière, on les subit tous à Onex, donc des bus et un tram qui désengorgent, c'est bien, mais payer 39,5 millions pour des projets en France me gêne un peu."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Pouvoir acheter le logement qu'on occupe depuis des années est une bonne chose pour une famille, mais je crains que les immeubles se vident de leurs locataires, donc je suis partagée."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "Les formations comptent pour le pays, et une baisse de deux millions par an ne me paraît pas dramatique, donc je dirais oui sans trop m'y intéresser."
+    }
+  ]
+}

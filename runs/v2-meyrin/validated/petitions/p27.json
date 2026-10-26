@@ -1,0 +1,125 @@
+{
+  "id": "p27",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Je suis attentive à la surveillance de masse, mais cette pétition vient d'étudiants lausannois et concerne un événement de l'EPFL qui ne me touche pas, donc je ne m'y arrête pas."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.22,
+      "partage_proba": 0.18,
+      "raison": "Les canicules de cet été m'ont éprouvée et je suis convaincue qu'il faut agir au niveau fédéral, donc je signerais cette lettre si elle me parvenait par une association que je connais, et je la transmettrais à mes amies du quartier."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Je m'oppose à l'initiative de l'UDC et à l'expulsion de personnes qui risquent la torture, mais demander à l'Assemblée d'invalider une initiative populaire me gêne, donc je n'irais pas jusqu'à signer."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je suis peu informée de l'affaire Thévoz et des procès qui opposent des élus genevois à la CICAD, donc je ne signe pas un appel de ce type sans en savoir davantage."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "Les jeunes qui inhalent du protoxyde m'inquiètent, surtout à cause de la route, mais une pétition sur le gaz hilarant ne fait pas partie des textes que je signe spontanément."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.08,
+      "raison": "Mon deuxième pilier est investi quelque part et je ne veux pas que ma retraite finance les énergies fossiles, mais la pétition est en anglais et je doute que la commission réagisse, donc j'hésite."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Le texte se présente lui-même comme fictif et une telle réforme exigerait une initiative fédérale, donc je ne vois pas l'intérêt de signer une pétition qui n'a pas de cible réelle."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je suis retraitée et l'AVS compte beaucoup pour moi, mais une réforme portée par des jeunes libéraux, avec le cannabis et un âge de référence remis en cause, ne correspond pas à ma façon de voir, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "Je ne suis pas versoisienne et ce débat communal ne me concerne pas, donc je n'y pense même pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je suis touchée par ce deuil, mais la question de la protection après le décès d'un enfant pendant la grossesse ne me concerne plus, et je ne partage pas ce genre de témoignage personnel."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "La santé mentale des personnes âgées me préoccupe, mais je ne suis pas concernée par ce délai d'attente ni par cette motion, donc je n'agis pas."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "C'est une belle collection, mais la ferme se trouve à Borex en terre vaudoise et les pétitions de soutien à une activité locale ne sont pas mon genre, donc je passe mon chemin."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je soutiens le principe d'une maison d'accueil pour les femmes victimes de violences, mais le canton du Jura est loin de Meyrin et je ne signe pas les pétitions qui concernent un autre canton."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "L'idée de rues fraîches me parle car la chaleur me fatigue, mais c'est un dossier lausannois porté par un parti libéral et je ne le suivrai pas au point de signer."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.15,
+      "partage_proba": 0.1,
+      "raison": "Je suis révoltée par les renvois vers le Burundi décrits dans ce texte et il y a beaucoup de familles étrangères autour de moi à Meyrin, donc je signerais peut-être si l'appel me parvenait, et je le partagerais surtout auprès de mes amies engagées."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La formation à temps partiel pour les jeunes handicapés est une bonne idée, mais je ne suis plus concernée par l'apprentissage et ce texte ne croisera pas mon chemin."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Les caméras cachées dans des lunettes me font peur pour les femmes et les enfants, donc je signerais probablement une pétition de ce genre, et je pourrais la transmettre à quelques proches pour les mettre en garde."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Je vis les canicules et j'ai déjà soutenu des textes sur le climat, donc cet appel me parle, même si ses six volets me semblent trop larges pour que je le signe sans réserve."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.18,
+      "partage_proba": 0.12,
+      "raison": "Les forêts autour de Genève et leur risque d'incendie me touchent et je n'approuve pas le projet du conseiller fédéral Albert Rösti, donc je signerais volontiers ce texte court et clair s'il arrivait dans ma boîte."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Les abus facilités par la drogue sont révoltants et je suis sensible aux violences faites aux femmes, mais je ne crois pas qu'une task force suffise et je ne suis pas familière de ce dossier."
+    }
+  ]
+}

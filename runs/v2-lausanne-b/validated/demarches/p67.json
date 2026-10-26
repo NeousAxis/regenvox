@@ -1,0 +1,65 @@
+{
+  "id": "p67",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Je ne fréquente pas le lac de Sauvabelin et un sondage annoncé surtout sur les réseaux de la Ville ne m'aurait probablement pas atteinte."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Ce pilote était peu visible, sans bulletin à domicile, et voter en ligne ou dans une urne ne me motivait pas; j'en aurais peut-être parlé sans y participer."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Pendant le Covid, la campagne a été discrète et les modes de vote (en ligne, urnes, stands du marché) ne m'incitaient pas à me déplacer."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Un sondage de cinq minutes sur l'urbanisme m'intéresse peu, et les balades et soirées sur inscription demandent un effort que je ne fais pas en semaine."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin envoyé dans chaque boîte aux lettres m'aurait rappelé le budget participatif, je l'aurais probablement rempli une fois et j'en aurais parlé à mon compagnon."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je fréquente peu les quais d'Ouchy et un questionnaire en ligne sans rappel m'aurait fait passer, sauf si la fermeture m'avait vraiment gênée."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin préaffranchi reçu à domicile me rappelle le budget participatif et je vote parfois, mais je ne me suis pas engagée pour un projet."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.015,
+      "partage_proba": 0.01,
+      "raison": "Le thème me paraît légitime, mais une consultation sans suite visible et sans lien avec mon quotidien ne me pousse pas à répondre, et je n'en parlerais guère."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif dans ma boîte aux lettres me fait voter de temps en temps, surtout pour un projet de quartier, et j'en parlerais peut-être avec mon compagnon ou des voisins."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Je vote parfois quand le bulletin arrive à la maison, mais les projets proposés en 2025 ne me touchent pas personnellement, donc je n'en parle pas beaucoup."
+    }
+  ]
+}

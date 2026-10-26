@@ -1,0 +1,65 @@
+{
+  "id": "p15",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Sondage et ateliers sur un lieu de Sauvabelin que je ne fréquente pas, annoncés surtout sur les sites de la Ville, donc je ne l'ai probablement pas vu et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.07,
+      "partage_proba": 0.08,
+      "raison": "Premier budget participatif peu relayé et pas encore dans mes habitudes, donc je n'ai guère voté ni rien raconté autour de moi."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.09,
+      "partage_proba": 0.06,
+      "raison": "Le vote en ligne est simple et le sujet m'intéresse un peu, mais la pandémie occupait toute mon attention et je n'en ai pas beaucoup parlé."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.07,
+      "raison": "Un sondage en ligne de cinq minutes sur mon quartier, je le remplirais peut-être si je tombais dessus, mais les soirées et les balades sur inscription ne sont pas pour moi, et j'en parle peu."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin arrive pour la première fois dans ma boîte aux lettres, ce qui me donne une vraie chance de le remplir, mais je le laisse souvent traîner et j'en parle rarement."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.10,
+      "partage_proba": 0.10,
+      "raison": "Je ne fréquente guère les quais d'Ouchy, donc un questionnaire anonyme de quelques minutes me tenterait seulement si je le voyais passer, et j'en discuterais peu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.14,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin reçu à domicile pourrait me rappeler de voter, mais je me souviens à peine des éditions précédentes et je ne suis pas sûr d'avoir suivi les projets, donc j'en parle peu."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.10,
+      "partage_proba": 0.07,
+      "raison": "Le sujet me touche et je suis sensible à la lutte contre le racisme, mais la consultation a été peu annoncée et je n'ai pas vu de questionnaire dans mon quartier, donc j'en ai peu discuté."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.18,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif m'est adressé personnellement avec retour gratuit par la poste, ce qui pèse, mais je repousse ce genre de démarche et je n'en parle guère."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin reçu à domicile et le vote en ligne rendent la participation simple, mais l'été et un emploi du temps chargé me font souvent oublier ce genre de vote, et je n'en parle pas beaucoup."
+    }
+  ]
+}

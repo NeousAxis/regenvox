@@ -1,0 +1,143 @@
+{
+  "id": "p48",
+  "portrait": "J'ai 29 ans, je suis technicienne dans une entreprise industrielle de la zone d'activités de Vuadens, et je vis seule dans un appartement du quartier résidentiel récent du village. Je suis suisse, je vote et je me sens plutôt proche du PLR : je pense qu'il faut laisser les entreprises et les gens décider, et que l'État doit rester sobre. L'agriculture, je la vois surtout en passant devant les champs et les pâturages, je n'ai pas d'attache directe dans le milieu.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si un paysan ne gagne pas sa vie, il arrête, peu importe le label. La commune peut aider sur les prix et la paperasse, mais pas en faisant la leçon à ceux qui travaillent la terre.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas bien le fonctionnement des exploitations",
+        "Mes horaires en équipes ne me laissent pas toujours le temps d'une soirée",
+        "Je n'ai pas envie d'un débat qui tourne au procès des agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur le revenu d'une ferme bio comparé à une ferme conventionnelle, et la garantie que le projet ne coûte pas plus cher aux contribuables."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Si la ferme du coin fait de bons produits, je les achète, mais je n'ai pas besoin qu'on me demande d'être partenaire de quoi que ce soit.",
+      "engagement": 0,
+      "freins_participation": [
+        "Le bio coûte plus cher et mon budget reste serré",
+        "Je n'ai pas le temps d'aller à la ferme ni aux ateliers",
+        "L'idée de partenariat citoyen me paraît un peu militante"
+      ],
+      "ce_qui_me_ferait_venir": "Un système simple d'achat direct ou de panier à la ferme, avec des prix clairs et sans obligation de temps."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Une terre en bon état, je la souhaite à tout le monde. Mais je ne vois pas bien ce que je peux décider à mon niveau pour les générations qui viennent.",
+      "engagement": 1,
+      "freins_participation": [
+        "La question paraît trop vaste pour un atelier",
+        "Je ne suis pas agricultrice et je n'ai pas de terrain",
+        "Les soirées en semaine sont souvent prises par mon travail et mes sorties"
+      ],
+      "ce_qui_me_ferait_venir": "Un bilan simple de l'état des sols et de l'eau dans la commune, présenté clairement, pour voir concrètement ce qui est en jeu."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Les paysans sont déjà payés pour les sols, l'eau et le paysage. Je ne vois pas pourquoi il faudrait en plus les mettre en vitrine comme des exemples.",
+      "engagement": 0,
+      "freins_participation": [
+        "Ce genre de reconnaissance sonne comme une campagne de communication",
+        "Je n'ai pas d'avis tranché sur ce que chaque ferme apporte vraiment",
+        "Je ne fréquente pas le milieu agricole"
+      ],
+      "ce_qui_me_ferait_venir": "Que la reconnaissance serve à quelque chose de concret pour les exploitants, comme un débouché local, et pas seulement une plaquette."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "suiveur",
+    "cercle_type": "Collègues de l'atelier dans la zone industrielle, voisins et amis du quartier récent, quelques proches de la région de Bulle ; peu de contacts réguliers avec le monde agricole."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter, je suis encore à l'école. Avis hypothétique : je suis plutôt contre les limites imposées à la propriété, même si je comprends qu'on veuille protéger le paysage."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore en âge de voter, je suis encore à l'école. Avis hypothétique : je comprends qu'on freine l'étalement, mais je n'aime pas qu'on bloque les constructions au nom du paysage, surtout quand les jeunes cherchent à se loger."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "J'avais tout juste l'âge de voter et je me sentais peu informée. Une empreinte écologique limitée à une planète d'ici 2050, ça touche directement l'industrie et les emplois, et je ne vois pas comment on y arriverait sans de fortes contraintes."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas militante du nucléaire, mais fermer des centrales après 45 ans sans alternative prête fait peur à l'industrie, qui a besoin d'une énergie stable, comme celle où je travaille."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je trouve la Stratégie 2050 raisonnable : développer le renouvelable et économiser l'énergie sans interdire, c'est dans la ligne de ce que je pense. Je reste vigilante sur le coût de l'électricité pour les entreprises et les ménages."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'envie de mieux manger, mais exiger des conditions sociales et écologiques pour les produits importés, c'est de nouvelles normes et de la bureaucratie pour les entreprises et les commerçants. Je préfère laisser le consommateur choisir."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "La commune est très attachée à ses paysans et je comprends ce sentiment, mais les droits de douane et les prix garantis me semblent contraires à la liberté du marché, et l'ouverture des frontières profite aussi aux ménages qui ont un petit budget."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour une eau propre, mais lier les paiements directs à l'absence de pesticides et d'antibiotiques, d'un coup, pénaliserait des fermes d'ici sans transition réaliste. Je préfère des objectifs progressifs et des aides plutôt que des conditions strictes."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Une interdiction totale des pesticides de synthèse, importations comprises, sans alternative prête pour nos agriculteurs, ça ne tient pas la route. Je suis plutôt pour une réduction progressive, portée par le marché et l'innovation."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le CO2 doit être traité, mais une taxe sur les billets d'avion et une hausse de la taxe sur les combustibles, ce sont surtout les gens qui n'ont pas le choix qui paient. Pour quelqu'un qui doit prendre sa voiture pour aller au travail, c'est non, même si l'idée d'un fonds climat me plaît un peu."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Le bien-être animal me touche, mais imposer le cahier des charges Bio Suisse à tous les élevages, importations comprises, avec une transition de 25 ans, c'est une charge pour les éleveurs d'ici et une exigence que les produits importés ne suivront pas. Je voterais non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Les aides pour remplacer un chauffage fossile et pour l'innovation des entreprises me conviennent mieux que les interdictions. L'objectif zéro émission nette en 2050 me semble lointain et on ne chiffre pas assez ce que ça coûte, donc je reste hésitante."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je suis pour protéger la nature, mais une obligation de surfaces protégées et de moyens publics supplémentaires, ce sont des terres agricoles en moins et des coûts pour la collectivité. Je reste sceptique sur ces nouvelles obligations."
+    }
+  ]
+}

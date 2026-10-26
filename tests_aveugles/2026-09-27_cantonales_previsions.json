@@ -1,0 +1,357 @@
+{
+  "ecrit_le": "2026-10-25T13:14:09.895Z",
+  "methode": "Méthode v2 gelée (commit e016514), panel brut sans correction faute d'analogues cantonaux ; intervalle à 90 % combinant l'échantillonnage du panel et l'erreur de validation croisée du panel brut sur les analogues fédéraux (13,9 points).",
+  "runs": [
+    "v2-echallens",
+    "v2-yverdon",
+    "v2-nyon",
+    "v2-meyrin",
+    "v2-carouge",
+    "v2-onex",
+    "v2-collonge-bellerive"
+  ],
+  "previsions": [
+    {
+      "commune": "Echallens",
+      "ofs": 5518,
+      "canton": "VD",
+      "vote_id": "c2026-vd-impots",
+      "objet_ogd": 604617,
+      "titre": "Initiative populaire « Baisse d'impôts pour tous, redonner du pouvoir d'achat à la classe moyenne »",
+      "recommandation": "non",
+      "oui_pct": 38,
+      "ic90_panel_pct": [
+        31.6,
+        44.4
+      ],
+      "intervalle_pct": [
+        14.3,
+        61.8
+      ]
+    },
+    {
+      "commune": "Yverdon-les-Bains",
+      "ofs": 5938,
+      "canton": "VD",
+      "vote_id": "c2026-vd-impots",
+      "objet_ogd": 604617,
+      "titre": "Initiative populaire « Baisse d'impôts pour tous, redonner du pouvoir d'achat à la classe moyenne »",
+      "recommandation": "non",
+      "oui_pct": 36.7,
+      "ic90_panel_pct": [
+        29.4,
+        43.6
+      ],
+      "intervalle_pct": [
+        12.7,
+        60.6
+      ]
+    },
+    {
+      "commune": "Nyon",
+      "ofs": 5724,
+      "canton": "VD",
+      "vote_id": "c2026-vd-impots",
+      "objet_ogd": 604617,
+      "titre": "Initiative populaire « Baisse d'impôts pour tous, redonner du pouvoir d'achat à la classe moyenne »",
+      "recommandation": "non",
+      "oui_pct": 33.1,
+      "ic90_panel_pct": [
+        26.9,
+        39.4
+      ],
+      "intervalle_pct": [
+        9.3,
+        56.8
+      ]
+    },
+    {
+      "commune": "Meyrin",
+      "ofs": 6630,
+      "canton": "GE",
+      "vote_id": "c2026-ge-contraception",
+      "objet_ogd": 633962,
+      "titre": "Initiative populaire 198 « Pour une contraception gratuite »",
+      "recommandation": "non",
+      "oui_pct": 51.5,
+      "ic90_panel_pct": [
+        43.9,
+        58.6
+      ],
+      "intervalle_pct": [
+        27.5,
+        75.5
+      ]
+    },
+    {
+      "commune": "Meyrin",
+      "ofs": 6630,
+      "canton": "GE",
+      "vote_id": "c2026-ge-transfrontalier",
+      "objet_ogd": 634116,
+      "titre": "Loi 13725 ouvrant un crédit de 39,5 millions de francs pour accélérer des projets transfrontaliers de mobilité, d'environnement et de santé",
+      "recommandation": "oui",
+      "oui_pct": 56.1,
+      "ic90_panel_pct": [
+        51,
+        61.1
+      ],
+      "intervalle_pct": [
+        32.7,
+        79.5
+      ]
+    },
+    {
+      "commune": "Meyrin",
+      "ofs": 6630,
+      "canton": "GE",
+      "vote_id": "c2026-ge-ldtr",
+      "objet_ogd": 634117,
+      "titre": "Loi 13025 modifiant la LDTR, pour que les locataires puissent devenir, s'ils le souhaitent, propriétaires de leur propre logement",
+      "recommandation": "oui",
+      "oui_pct": 40.4,
+      "ic90_panel_pct": [
+        35.5,
+        45.6
+      ],
+      "intervalle_pct": [
+        17,
+        63.8
+      ]
+    },
+    {
+      "commune": "Meyrin",
+      "ofs": 6630,
+      "canton": "GE",
+      "vote_id": "c2026-ge-hes",
+      "objet_ogd": 634118,
+      "titre": "Loi 13579 accordant une indemnité à la Haute école spécialisée de Suisse occidentale, Genève, pour les années 2025 à 2028",
+      "recommandation": "oui",
+      "oui_pct": 47.7,
+      "ic90_panel_pct": [
+        42.7,
+        52.9
+      ],
+      "intervalle_pct": [
+        24.3,
+        71.1
+      ]
+    },
+    {
+      "commune": "Carouge",
+      "ofs": 6608,
+      "canton": "GE",
+      "vote_id": "c2026-ge-contraception",
+      "objet_ogd": 633962,
+      "titre": "Initiative populaire 198 « Pour une contraception gratuite »",
+      "recommandation": "non",
+      "oui_pct": 58.1,
+      "ic90_panel_pct": [
+        50.3,
+        64.9
+      ],
+      "intervalle_pct": [
+        34.1,
+        82.1
+      ]
+    },
+    {
+      "commune": "Carouge",
+      "ofs": 6608,
+      "canton": "GE",
+      "vote_id": "c2026-ge-transfrontalier",
+      "objet_ogd": 634116,
+      "titre": "Loi 13725 ouvrant un crédit de 39,5 millions de francs pour accélérer des projets transfrontaliers de mobilité, d'environnement et de santé",
+      "recommandation": "oui",
+      "oui_pct": 63.1,
+      "ic90_panel_pct": [
+        58.4,
+        68.2
+      ],
+      "intervalle_pct": [
+        39.7,
+        86.4
+      ]
+    },
+    {
+      "commune": "Carouge",
+      "ofs": 6608,
+      "canton": "GE",
+      "vote_id": "c2026-ge-ldtr",
+      "objet_ogd": 634117,
+      "titre": "Loi 13025 modifiant la LDTR, pour que les locataires puissent devenir, s'ils le souhaitent, propriétaires de leur propre logement",
+      "recommandation": "oui",
+      "oui_pct": 37,
+      "ic90_panel_pct": [
+        32.2,
+        42
+      ],
+      "intervalle_pct": [
+        13.6,
+        60.4
+      ]
+    },
+    {
+      "commune": "Carouge",
+      "ofs": 6608,
+      "canton": "GE",
+      "vote_id": "c2026-ge-hes",
+      "objet_ogd": 634118,
+      "titre": "Loi 13579 accordant une indemnité à la Haute école spécialisée de Suisse occidentale, Genève, pour les années 2025 à 2028",
+      "recommandation": "oui",
+      "oui_pct": 45.5,
+      "ic90_panel_pct": [
+        40.4,
+        51.2
+      ],
+      "intervalle_pct": [
+        22,
+        69
+      ]
+    },
+    {
+      "commune": "Onex",
+      "ofs": 6631,
+      "canton": "GE",
+      "vote_id": "c2026-ge-contraception",
+      "objet_ogd": 633962,
+      "titre": "Initiative populaire 198 « Pour une contraception gratuite »",
+      "recommandation": "non",
+      "oui_pct": 49.6,
+      "ic90_panel_pct": [
+        42,
+        57.7
+      ],
+      "intervalle_pct": [
+        25.4,
+        73.8
+      ]
+    },
+    {
+      "commune": "Onex",
+      "ofs": 6631,
+      "canton": "GE",
+      "vote_id": "c2026-ge-transfrontalier",
+      "objet_ogd": 634116,
+      "titre": "Loi 13725 ouvrant un crédit de 39,5 millions de francs pour accélérer des projets transfrontaliers de mobilité, d'environnement et de santé",
+      "recommandation": "oui",
+      "oui_pct": 51.8,
+      "ic90_panel_pct": [
+        45.2,
+        58.4
+      ],
+      "intervalle_pct": [
+        28,
+        75.6
+      ]
+    },
+    {
+      "commune": "Onex",
+      "ofs": 6631,
+      "canton": "GE",
+      "vote_id": "c2026-ge-ldtr",
+      "objet_ogd": 634117,
+      "titre": "Loi 13025 modifiant la LDTR, pour que les locataires puissent devenir, s'ils le souhaitent, propriétaires de leur propre logement",
+      "recommandation": "oui",
+      "oui_pct": 38.5,
+      "ic90_panel_pct": [
+        32.5,
+        45.6
+      ],
+      "intervalle_pct": [
+        14.7,
+        62.3
+      ]
+    },
+    {
+      "commune": "Onex",
+      "ofs": 6631,
+      "canton": "GE",
+      "vote_id": "c2026-ge-hes",
+      "objet_ogd": 634118,
+      "titre": "Loi 13579 accordant une indemnité à la Haute école spécialisée de Suisse occidentale, Genève, pour les années 2025 à 2028",
+      "recommandation": "oui",
+      "oui_pct": 45.1,
+      "ic90_panel_pct": [
+        40.3,
+        50
+      ],
+      "intervalle_pct": [
+        21.7,
+        68.4
+      ]
+    },
+    {
+      "commune": "Collonge-Bellerive",
+      "ofs": 6616,
+      "canton": "GE",
+      "vote_id": "c2026-ge-contraception",
+      "objet_ogd": 633962,
+      "titre": "Initiative populaire 198 « Pour une contraception gratuite »",
+      "recommandation": "non",
+      "oui_pct": 39.5,
+      "ic90_panel_pct": [
+        32.5,
+        48.3
+      ],
+      "intervalle_pct": [
+        15.3,
+        63.7
+      ]
+    },
+    {
+      "commune": "Collonge-Bellerive",
+      "ofs": 6616,
+      "canton": "GE",
+      "vote_id": "c2026-ge-transfrontalier",
+      "objet_ogd": 634116,
+      "titre": "Loi 13725 ouvrant un crédit de 39,5 millions de francs pour accélérer des projets transfrontaliers de mobilité, d'environnement et de santé",
+      "recommandation": "oui",
+      "oui_pct": 56.6,
+      "ic90_panel_pct": [
+        51.5,
+        61.1
+      ],
+      "intervalle_pct": [
+        33.2,
+        80
+      ]
+    },
+    {
+      "commune": "Collonge-Bellerive",
+      "ofs": 6616,
+      "canton": "GE",
+      "vote_id": "c2026-ge-ldtr",
+      "objet_ogd": 634117,
+      "titre": "Loi 13025 modifiant la LDTR, pour que les locataires puissent devenir, s'ils le souhaitent, propriétaires de leur propre logement",
+      "recommandation": "oui",
+      "oui_pct": 47.3,
+      "ic90_panel_pct": [
+        41.9,
+        52.3
+      ],
+      "intervalle_pct": [
+        23.8,
+        70.7
+      ]
+    },
+    {
+      "commune": "Collonge-Bellerive",
+      "ofs": 6616,
+      "canton": "GE",
+      "vote_id": "c2026-ge-hes",
+      "objet_ogd": 634118,
+      "titre": "Loi 13579 accordant une indemnité à la Haute école spécialisée de Suisse occidentale, Genève, pour les années 2025 à 2028",
+      "recommandation": "oui",
+      "oui_pct": 59.4,
+      "ic90_panel_pct": [
+        55.2,
+        63.7
+      ],
+      "intervalle_pct": [
+        36.2,
+        82.7
+      ]
+    }
+  ]
+}

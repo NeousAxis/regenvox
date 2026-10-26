@@ -1,0 +1,29 @@
+{
+  "id": "p35",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Une contraception qui ne coûte rien, c'est un vrai soulagement quand on gagne un petit salaire et qu'on a des enfants, et Le Centre soutient l'initiative, mais je ne suis pas certaine que le canton puisse tenir le coût d'environ 20 millions par an."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Je fais la route à la frontière presque tous les jours et les bouchons me pèsent, donc des bus plus fréquents et des parkings de transit me semblent bienvenus, et la plupart des partis que je suis disent oui."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je loue mon logement depuis des années et l'idée de pouvoir l'acheter me tente, mais avec mon salaire je ne suis pas sûre d'en avoir les moyens et je crains que les ventes d'appartements aux locataires fassent partir d'autres habitants de l'immeuble."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Les formations de la Haute école spécialisée comptent pour moi et Le Centre dit oui, mais je n'ai pas suivi ce dossier de près et la baisse de 2 millions par an me laisse hésitante, donc je suis un peu les consignes du parti."
+    }
+  ]
+}

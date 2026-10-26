@@ -1,0 +1,15 @@
+{
+  "id": "p10",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "L'annonce sur le site de la Ville ne m'a pas accrochée, je ne fréquente pas beaucoup Sauvabelin et un sondage sur les établissements du lac ne me concerne pas vraiment."},
+    {"item_id": "lau01", "participe_proba": 0.05, "partage_proba": 0.08, "raison": "Ce premier budget participatif pilote était peu visible pour moi, je n'avais pas de projet de quartier en tête et je n'ai pas pensé à voter."},
+    {"item_id": "lau02", "participe_proba": 0.07, "partage_proba": 0.10, "raison": "En pleine crise du Covid, le vote en ligne ou dans les urnes ne m'a pas motivée, et les projets proposés ne me touchaient pas directement."},
+    {"item_id": "lau10", "participe_proba": 0.10, "partage_proba": 0.14, "raison": "Ce sondage de cinq minutes sur le visage du quartier me concerne puisque j'habite le centre-ville, mais je ne suis pas certaine de l'avoir rempli au milieu de tout le reste."},
+    {"item_id": "lau03", "participe_proba": 0.20, "partage_proba": 0.15, "raison": "Le bulletin affranchi arrive directement dans ma boîte aux lettres, ce qui facilite les choses, mais je ne m'intéresse que moyennement aux projets et je le laisse souvent de côté."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Les quais d'Ouchy sont loin de mon quotidien, je n'y vais pas souvent et ce questionnaire sur la circulation ne m'a pas accrochée."},
+    {"item_id": "lau04", "participe_proba": 0.22, "partage_proba": 0.15, "raison": "Le bulletin nominatif reçu chez nous en novembre se remplit en famille à l'occasion, mais je ne suis pas très investie dans les projets et j'en parle peu."},
+    {"item_id": "lau09", "participe_proba": 0.07, "partage_proba": 0.10, "raison": "Le thème du racisme me touche en tant qu'étrangère vivant en Suisse, mais je n'ai pas le réflexe de répondre à une consultation si personne autour de moi n'en parle."},
+    {"item_id": "lau05", "participe_proba": 0.25, "partage_proba": 0.18, "raison": "Avec un bulletin nominatif envoyé à chacun dès 4 ans, nous votons en famille, les enfants y tiennent, donc on prend le temps de choisir ensemble."},
+    {"item_id": "lau06", "participe_proba": 0.18, "partage_proba": 0.12, "raison": "Le bulletin est arrivé à la maison et je compte voter si les projets du quartier me plaisent, mais la campagne a été discrète et le temps me manque souvent."}
+  ]
+}

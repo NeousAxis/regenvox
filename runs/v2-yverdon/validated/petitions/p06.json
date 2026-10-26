@@ -1,0 +1,125 @@
+{
+  "id": "p06",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.08,
+      "partage_proba": 0.3,
+      "raison": "Je suis sensible à la surveillance de masse, mais je ne suis pas étudiante à l'EPFL et ce retrait me paraît davantage une question de sécurité qu'un vrai engagement éthique."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.3,
+      "partage_proba": 0.45,
+      "raison": "Les canicules de cet été m'ont vraiment inquiétée et une lettre ouverte qui réclame un plan climatique juste rejoint ce que je pense, même si je doute que le Parlement agisse."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.42,
+      "partage_proba": 0.4,
+      "raison": "Je suis clairement contre l'initiative de l'UDC sur les frontières, qui toucherait des droits fondamentaux, et Campax est une plateforme que je vois souvent passer."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.2,
+      "raison": "Je suis attachée à la liberté de débattre, mais le dossier Gaza est très polarisé et je ne connais pas assez les faits de cette plainte genevoise pour m'engager."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.25,
+      "raison": "Je vois des jeunes de mon âge consommer du protoxyde, donc le sujet me touche, mais la pétition vise surtout Genève et je ne suis pas sûre que l'interdiction soit la bonne réponse."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.3,
+      "raison": "Je m'intéresse au climat et à ma future retraite, mais je ne sais pas dans quoi investit ma caisse de pension et cette pétition s'adresse aux autorités de surveillance plutôt qu'à moi."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Le texte se présente lui-même comme fictif, donc je ne vois pas de raison de signer une réforme qui n'existe pas."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "Je me sens concernée par ma future AVS et l'équité entre générations me parle, mais je me méfie des propositions des Jeunes Vert'libéraux qui misent surtout sur une baisse de la TVA et sur le cannabis."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Je ne vis pas à Versoix et ce projet concerne une commune genevoise, donc je ne me sens pas légitime pour signer."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.22,
+      "partage_proba": 0.25,
+      "raison": "Je n'ai pas vécu cette situation, mais le récit de cette femme me touche et l'idée qu'une protection soit refusée parce que son cas ne rentre pas dans les cases administratives me révolte."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.24,
+      "partage_proba": 0.35,
+      "raison": "Les délais pour voir un psychothérapeute sont déjà longs, donc une motion qui ajoute une étape médicale obligatoire me paraît contre-productive et je m'en sens proche."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Je ne connais pas cette ferme et la décision relève d'une commune de la Côte, donc je ne me sens pas concernée."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.2,
+      "partage_proba": 0.3,
+      "raison": "Les violences domestiques me révoltent et une maison d'accueil dans le Jura est une demande concrète, mais ce canton reste loin de mon quotidien à Yverdon."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.06,
+      "partage_proba": 0.15,
+      "raison": "Un tram plus frais me paraît utile, mais cette pétition vient d'un parti que je ne soutiens pas et je ne suis pas directement concernée par le tracé lausannois."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.34,
+      "partage_proba": 0.35,
+      "raison": "Je suis favorable à un traitement humain de l'asile, et le récit de la famille ligotée pour être renvoyée me touche profondément, même si je ne m'engage pas souvent."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "Je suis en formation et les modèles à temps partiel me parlent, mais je trouve la proposition d'allonger les CFC peu réaliste pour les entreprises et je ne suis pas directement concernée par un handicap."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.3,
+      "partage_proba": 0.45,
+      "raison": "Filmer des femmes à leur insu avec des lunettes me paraît dangereux et la demande d'interdiction est concrète, même si je ne suis pas sûre qu'une interdiction suffise."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.15,
+      "partage_proba": 0.25,
+      "raison": "Le climat compte pour moi, mais ce texte est très large avec six domaines différents et je ne signerais pas forcément chacune des mesures."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.18,
+      "partage_proba": 0.25,
+      "raison": "Les incendies et la sécheresse de cet été m'inquiètent, mais je ne suis pas spécialement attentive à la politique forestière et je ne lis pas les détails budgétaires."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.15,
+      "partage_proba": 0.5,
+      "raison": "Je partagerais surtout pour alerter mes amies sur les risques de soumission chimique, mais je doute que la réponse soit une task force fédérale et je ne signe pas facilement ce genre de texte."
+    }
+  ]
+}

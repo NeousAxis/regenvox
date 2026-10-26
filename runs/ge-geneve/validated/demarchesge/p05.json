@@ -1,0 +1,11 @@
+{
+  "id": "p05",
+  "reactions": [
+    {
+      "item_id": "gen06",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je vis dans le centre, sans lien avec la Jonction ni avec l'université, et un sondage en ligne sur un bâtiment scientifique pendant les fêtes ne m'aurait probablement pas accroché, donc je n'en aurais guère parlé autour de moi."
+    }
+  ]
+}

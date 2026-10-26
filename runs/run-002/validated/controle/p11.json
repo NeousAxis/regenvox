@@ -1,0 +1,16 @@
+{
+  "id": "p11",
+  "reaction": {
+    "position": "porteur",
+    "intensite": 3,
+    "citation": "Bio partout, pourquoi pas, ça me parle, mais moi je n'ai pas de terres, je peux juste acheter bio, et avec deux enfants chaque franc compte au panier.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je n'ai ni terres ni lien direct avec les agriculteurs du village",
+      "Seule avec mes enfants, je n'ai pas le temps d'assister à des séances",
+      "Le bio coûte plus cher et mon budget compte à chaque course",
+      "Je ne vois pas bien ce qu'une commune peut imposer sur des terres qui appartiennent aux exploitants"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier en soirée ou le samedi avec des agriculteurs de la commune qui expliquent leurs contraintes, une garde d'enfants sur place, et des chiffres clairs sur le coût pour les familles et sur les effets concrets pour le paysage et l'eau."
+  }
+}

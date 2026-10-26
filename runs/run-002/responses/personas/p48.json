@@ -1,0 +1,141 @@
+{
+  "id": "p48",
+  "portrait": "J'ai 39 ans et je travaille dans le social, à un poste qui me met en contact avec des familles au quotidien. Je vis à Vuadens dans un quartier résidentiel récent avec ma famille, je suis suisse et proche du PS sans être militant. Je m'intéresse à ce qu'on mange et à ce qu'on fait du paysage, mais le temps manque souvent pour aller plus loin que les journaux et les votations.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Si les paysans ne peuvent pas vivre du bio, ça restera une affaire de vitrine. Il faut que le prix paie le travail, pas seulement une subvention de plus.",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne connais pas le métier agricole et je ne me sens pas légitime pour en parler",
+        "mes horaires dans le social me laissent peu de disponibilité",
+        "je crains une réunion entre gens déjà convaincus"
+      ],
+      "ce_qui_me_ferait_venir": "Des agriculteurs qui racontent leur quotidien et leurs chiffres, pas des experts, avec un créneau en soirée ou le samedi matin et une garde d'enfants possible."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement à une ferme du village, pourquoi pas. Mais je n'ai pas envie d'être sollicité pour un bénévolat permanent.",
+      "engagement": 2,
+      "freins_participation": [
+        "je ne sais pas quelles fermes sont concernées",
+        "le temps manque entre le travail et les enfants",
+        "je ne veux pas d'un engagement qui dure"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte à la famille, un panier au prix clair et une façon de consommer local sans effort supplémentaire."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "C'est la question qui me touche le plus, parce que nos enfants hériteront de ce qu'on décide maintenant. La formulation reste un peu grandiloquente.",
+      "engagement": 1,
+      "freins_participation": [
+        "une question aussi large ne donne pas envie de venir, on ne sait pas quoi répondre concrètement",
+        "le soir je suis souvent fatigué après le travail"
+      ],
+      "ce_qui_me_ferait_venir": "Une question concrète sur l'eau du robinet, les produits utilisés près de l'école ou l'état des chemins de promenade."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Reconnaître les fermes, ça ne me parle pas trop. Je ne saurais même pas dire lesquelles sont à Vuadens.",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne connais pas les agriculteurs de la commune",
+        "ça ressemble à une opération de communication"
+      ],
+      "ce_qui_me_ferait_venir": "Un marché ou une fête villageoise où les paysans présenteraient leur travail simplement, sans discours."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "collègues du secteur social et de l'éducation, parents de l'école du village, voisins du quartier, quelques amis attentifs à l'alimentation et à l'environnement"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour freiner le mitage du paysage, mais une limite fixe à 20 % me paraît rigide pour les communes touristiques. Je ne suis pas sûr que ce soit la bonne réponse."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Limiter l'extension des zones à bâtir et densifier, c'est la base. Le quartier où je vis est un exemple de l'étalement qu'on voudrait moins voir."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "L'idée d'une seule planète me parle, mais je me demande comment on mesure l'empreinte et qui paie la transition."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Sortir du nucléaire après 45 ans d'exploitation me paraît raisonnable, à condition que les renouvelables suivent."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "C'est la stratégie que je soutiens, avec des économies d'énergie et davantage de renouvelable."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "Manger sain et produit dans des conditions correctes, j'y suis favorable. Le contrôle des importations me laisse toutefois des doutes."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "L'idée d'une agriculture indigène et diversifiée me parle, mais les droits de douane et les prix imposés me semblent trop rigides."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques préventifs me paraît logique pour l'eau potable. L'autonomie en fourrage est plus difficile pour les petites fermes."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.75,
+      "raison": "Les pesticides de synthèse dans les champs, dans l'eau et dans le paysage, je suis pour une sortie, avec un délai suffisant. Je sais que cela inquiète les agriculteurs de la région."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je soutiens la politique climatique, mais la taxe sur les billets d'avion et les hausses sur le mazout me font hésiter, surtout à la campagne où on dépend de la voiture."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "La dignité des animaux de rente me touche, mais un délai pouvant aller jusqu'à 25 ans est long. Je doute que cela change vite les pratiques."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Zéro émission nette d'ici 2050 me paraît nécessaire, et les aides pour remplacer les chauffages fossiles sont concrètes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Plus de surfaces et de moyens pour la nature et le paysage, c'est dans la continuité de ce que je défends. Reste à savoir qui finance."
+    }
+  ]
+}

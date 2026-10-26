@@ -1,0 +1,29 @@
+{
+  "id": "p56",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Le PS soutient la gratuité de la contraception et, en élevant mes enfants seul, je sais ce que coûte la pilule, donc je voterais oui même si le Conseil d'État dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Un bus à haut niveau de service ou un tram qui désengorge Onex m'intéresse et le PS dit oui, mais payer des projets en France après le refus de 2014 me gêne."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Je crains le retour des congés-ventes qui pousseraient les locataires restants hors de leur immeuble et feraient disparaître des logements abordables, donc je vote non comme le PS et l'ASLOCA."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "Ce vote technique me touche peu, mais je ne veux pas que l'État coupe 2 millions par an dans la formation, donc je pencherais pour non avec le PS."
+    }
+  ]
+}

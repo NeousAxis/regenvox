@@ -1,0 +1,95 @@
+{
+  "id": "p33",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "La défense du pays me parle, mais un fonds alimenté par le budget de l'armée pour acheter des avions chers me paraît être une dépense venue d'en haut. Je voterais sans doute, par devoir, mais sans enthousiasme."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je comprends qu'un couple marié ne doive pas être désavantagé, mais inscrire une définition du mariage dans la Constitution me paraît inutile et trop fermé. Ce sujet ne me touche pas au quotidien, donc je me déplacerais sans doute peu."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je suis retraité, donc l'AVS me concerne directement et je comprends qu'il faille la financer. Mais une hausse de la TVA touche tout le monde, y compris les petits revenus de la région, et je me méfie des impôts qui augmentent."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à notre indépendance, mais je ne veux pas couper la Suisse des accords qui font vivre nos entreprises et nos échanges avec les voisins. Un droit suisse qui prime sur les traités me semble risqué pour le pays."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.15,
+      "raison": "Notre commune compte beaucoup d'emplois industriels et des travailleurs venus d'ailleurs, et les accords avec l'Union européenne ont aidé les entreprises d'ici. Mettre fin à la libre circulation me paraît une erreur, même si je comprends certaines inquiétudes sur l'immigration."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "La défense a son importance, mais six milliards pour de nouveaux avions de combat me paraissent une somme très lourde venue d'en haut. Je pencherais plutôt pour un non, même si je comprends l'argument de la sécurité."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible à la protection des animaux, mais interdire la recherche et l'importation de nouveaux produits me paraît excessif, surtout pour les médicaments dont on dépend tous un jour. Je voterais probablement non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.15,
+      "raison": "Je suis attaché à l'environnement, mais à Vuadens on vit de l'élevage laitier et nos paysans ne peuvent pas suivre des normes de ce type du jour au lendemain. Imposer ça à tout le pays et aux importations, sans les moyens pour nos fermes, me paraît une idée venue d'en haut."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je profite de l'AVS, donc je ne veux pas qu'elle manque d'argent, mais la TVA pèse sur tout le monde, y compris sur les petites retraites. Je ne suis qu'à moitié convaincu par ce lien avec la retraite des femmes."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Je suis attaché à la neutralité suisse, c'est une part de notre identité et de notre réputation. Mais une neutralité sans aucune sanction ni alliance me paraît trop rigide, et je voudrais garder une marge pour agir avec nos partenaires."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "L'idée d'une production indigène et d'une eau propre me parle, surtout à Vuadens où l'on tient à notre terroir. Mais viser 70 % d'aliments produits ici avec moins d'aliments d'origine animale menace nos fermes laitières, et je me méfie des objectifs fixés d'en haut."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "La 13e rente AVS est utile aux retraités comme moi et je suis content qu'elle soit financée. Une hausse de 0,4 point de TVA reste un impôt de plus pour tout le monde, mais je l'accepte pour l'AVS."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le bruit des feux d'artifice gêne les animaux, les bêtes des fermes et les personnes seules comme moi, et je suis sensible à la nature. Mais le 1er août et les fêtes du village font partie de nos traditions, et une interdiction venue de Berne me déplaît un peu."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je vis seul, donc ce sujet ne me touche pas directement, et je trouve que l'imposition individuelle vient d'être votée. Revenir à l'imposition commune compliquerait le système et ferait perdre de l'argent à l'État."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour une Suisse neutre, et je n'aime pas que notre pays livre des armes à des États engagés dans un conflit. Les exceptions que pourrait accorder le Conseil fédéral m'inquiètent, donc je voterais probablement non."
+    }
+  ]
+}

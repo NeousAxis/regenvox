@@ -1,0 +1,29 @@
+{
+  "id": "p02",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Je suis sensible à la santé des femmes et je comprends l'argument, mais je trouve anormal de financer par l'impôt une dépense que la plupart des couples peuvent assumer, et le PLR, dont je suis proche, dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Meyrin subit chaque matin les bouchons vers la frontière et les transports manquent, donc je trouve normal que le canton cofinance des bus et des parkings-relais, même côté français, à condition que la part suisse reste limitée."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Je suis plutôt favorable à ce que les locataires puissent devenir propriétaires s'ils le souhaitent, en espérant que les congés-ventes ne reviennent pas, et le PLR soutient le oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Je pense que la HES-SO Genève doit rester correctement financée, et une baisse de 2 millions par an me paraît raisonnable, même si le comité référendaire voudrait garder 35 millions."
+    }
+  ]
+}

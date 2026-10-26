@@ -1,0 +1,15 @@
+{
+  "id": "p32",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "J'avais 19 ans, le sondage et les ateliers de Sauvabelin n'étaient annoncés que sur le site de la Ville et ses réseaux, et je n'ai aucun réflexe de répondre à ce genre de consultation."},
+    {"item_id": "lau01", "participe_proba": 0.06, "partage_proba": 0.05, "raison": "C'était un premier budget participatif très peu relayé, avec un vote en ligne ou dans des urnes que je n'ai pas remarqué à 21 ans, même si je suis proche du PS et que ce type de projet m'intéresse."},
+    {"item_id": "lau02", "participe_proba": 0.07, "partage_proba": 0.05, "raison": "Pendant le Covid j'ai peut-être voté en ligne, mais la plupart des projets concernaient d'autres quartiers et je n'en garde aucun souvenir, donc je n'en parle presque jamais autour de moi."},
+    {"item_id": "lau10", "participe_proba": 0.08, "partage_proba": 0.03, "raison": "Un sondage en ligne de cinq minutes sur mon quartier aurait pu m'intéresser, mais pendant le confinement je n'ai pas vu l'annonce et les soirées et balades ne sont pas mon genre."},
+    {"item_id": "lau03", "participe_proba": 0.18, "partage_proba": 0.10, "raison": "Le bulletin affranchi arrivé dans la boîte aux lettres m'a donné une vraie occasion de voter, et j'ai probablement rempli le mien, mais je n'en ai parlé qu'à quelques proches."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Je passe parfois sur les quais d'Ouchy en été, mais le questionnaire annoncé par communiqué de presse ne m'est pas passé sous les yeux et je ne réponds pas aux sondages de la Ville."},
+    {"item_id": "lau04", "participe_proba": 0.16, "partage_proba": 0.08, "raison": "Le bulletin préaffranchi reçu à domicile rend le vote facile, mais le dépôt de projets demande du temps que mon travail à plein temps ne me laisse pas toujours, donc je vote sans suivre tout de près."},
+    {"item_id": "lau09", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "Le thème du racisme me touche, mais la consultation était peu visible, sur une plateforme et dans des maisons de quartier que je ne fréquente pas, donc je ne l'ai probablement pas remplie ni relayée."},
+    {"item_id": "lau05", "participe_proba": 0.20, "partage_proba": 0.12, "raison": "Le bulletin nominatif arrive chez moi et voter en ligne ne prend que cinq minutes, ce qui me donne une vraie chance de le faire, mais mes horaires de bureau font que je repousse souvent ce genre de choses."},
+    {"item_id": "lau06", "participe_proba": 0.14, "partage_proba": 0.09, "raison": "Le bulletin reçu à domicile puis le vote en ligne rendent la participation simple, mais entre le travail et la vie de famille je n'ai pas toujours le temps de comparer les projets, et j'en parle surtout à mon entourage proche."}
+  ]
+}

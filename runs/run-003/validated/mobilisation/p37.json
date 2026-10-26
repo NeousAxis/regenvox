@@ -1,0 +1,39 @@
+{
+  "id": "p37",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Des chiffres concrets sur le revenu d'une ferme bio du village, comparés à ceux d'une ferme conventionnelle, présentés par un agriculteur qui accepte de répondre aux questions."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une explication en une phrase de ce que je paierais en plus et de ce que j'y gagnerais, sans l'expression « premiers partenaires » qui sonne comme une obligation morale."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question liée à ma vie de tous les jours, comme le prix du panier de la ferme ou la qualité de l'eau du robinet, plutôt qu'une question posée pour trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Savoir comment la reconnaissance serait décernée et la voir accompagnée d'un soutien concret, par exemple un prix d'achat garanti aux fermes ou une aide pour passer au bio."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, le soir quand les enfants sont couchés, c'est le seul format que je ferais vraiment. Je ne me déplace pas pour deux heures et demie à la salle communale, et trois séquences sur trois semaines, je laisserais tomber en route."
+}

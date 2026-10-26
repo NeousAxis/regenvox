@@ -1,0 +1,95 @@
+{
+  "id": "p20",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je me méfie des grosses dépenses d'armement, et un fonds de plusieurs milliards pour des avions de combat ne me paraît pas une priorité face aux besoins sociaux et de santé. Je comprends toutefois l'argument de la défense du pays."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Je ne veux pas inscrire dans la Constitution une définition du mariage qui exclut d'autres formes de couples. Je comprends que certains couples mariés soient pénalisés fiscalement, mais la réponse proposée me paraît discriminatoire."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Je soutiens l'AVS, mais le lien avec le relèvement de l'âge de la retraite des femmes à 65 ans me pose problème, surtout dans les métiers du social et de la santé où l'on use beaucoup les personnes."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Je tiens aux accords avec l'Union européenne et au respect du droit international. Cette initiative me paraît dangereuse pour la place de la Suisse et pour la protection des personnes."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.05,
+      "raison": "Je vois au quotidien le travail des personnes étrangères et frontalières dans le social et la santé. Je ne veux pas remettre en cause la libre circulation, qui protège aussi les droits des travailleurs."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je ne vois pas pourquoi dépenser six milliards pour des avions de combat alors que les besoins sociaux et de santé sont sous-financés, même si je reconnais que la question de la défense aérienne se pose."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.15,
+      "raison": "Je comprends l'exigence de limiter les tests sur les animaux, mais interdire toute recherche sur l'être humain et l'importation de nouveaux produits me paraît risqué pour les soins et les médicaments dont les patients ont besoin."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être animal me touche, mais dans mon village beaucoup d'exploitations laitières font déjà des efforts. Une obligation alignée sur un cahier des charges strict, avec une transition de 25 ans, pourrait mettre des familles d'agriculteurs en difficulté."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "Je veux une AVS solide, mais je n'aime pas que la hausse de TVA serve à faire payer la réforme surtout aux femmes. Je reste méfiante devant un recul de l'âge de la retraite, même avec des mesures de compensation."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La neutralité fait partie de notre identité et je suis attachée à la médiation. Mais je refuse qu'on interdise les sanctions contre un agresseur et qu'on ferme la porte à la coopération avec nos voisins européens."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "Je me soucie de ce que l'on mange et de l'eau que l'on boit. Je soutiens une production indigène plus durable, moins de pesticides et une meilleure protection de l'eau, même si 70 % d'aliments produits en Suisse en dix ans me semble ambitieux."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Financer la 13e rente AVS est une juste reconnaissance pour les retraités, en particulier les femmes à petit revenu. La hausse de 0,4 point ne touche ni les denrées alimentaires ni les médicaments, je vote oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le bruit des pétards fait peur aux enfants, aux personnes âgées, aux animaux et aux personnes fragiles que je côtoie. Je suis favorable à limiter les pièces bruyantes tout en gardant les fêtes officielles."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Après le vote de mars sur l'imposition individuelle, je ne veux pas revenir en arrière. L'imposition commune des couples mariés maintiendrait une inégalité entre les femmes et les hommes au sein du couple."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.75,
+      "oui_proba": 0.05,
+      "raison": "Exporter davantage d'armes vers des pays impliqués dans un conflit armé, avec des dérogations du Conseil fédéral et la fin de l'interdiction de réexportation, me paraît contraire à la neutralité et à la tradition humanitaire de la Suisse. Je vote non sans hésiter."
+    }
+  ]
+}

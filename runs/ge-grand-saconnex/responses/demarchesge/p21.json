@@ -1,0 +1,17 @@
+{
+  "id": "p21",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Je ne me souviens pas avoir vu ce questionnaire en mai 2025, le quartier de la Susette, derrière Palexpo, ne me touche pas directement, et je suis peu à l'aise avec les formulaires en ligne : si je tombais dessus, je l'aurais sans doute laissée de côté."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Je ne suis pas concernée par le quartier des Marronniers et je ne réponds presque jamais aux sondages en ligne sur participer.ge.ch ; si une voisine m'en parlait, j'en discuterais peut-être, mais je n'ai pas le réflexe de m'engager."
+    }
+  ]
+}

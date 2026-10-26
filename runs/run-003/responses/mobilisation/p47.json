@@ -1,0 +1,39 @@
+{
+  "id": "p47",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un soir en semaine près de chez moi, avec un repas offert et des chiffres concrets sur ce que le bio change pour les fermes et pour les prix en magasin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre concrètement ce que coûte le bio dans nos magasins du village, et qu'on ne me demande ni désherbage ni bénévolat."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question qui parle de mon avenir professionnel et de mon logement, pas une question de conférence sur la commune dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une explication claire de ce que le label apporterait concrètement, sans paperasse ni contrôle supplémentaire pour les paysans."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de 10 minutes sur mon téléphone est le seul format que je ferais entre deux cours ou le soir, sans trajet ni créneau à bloquer. Je le ferais sans doute pour un sujet concret, mais la plupart du temps je laisserais le courrier de côté, et je ne me vois pas dans une réunion de 2 h 30 un samedi matin."
+}

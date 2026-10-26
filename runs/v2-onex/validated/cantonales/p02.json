@@ -1,0 +1,29 @@
+{
+  "id": "p02",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je suis proche du PS qui soutient l'initiative et je trouve juste que la contraception soit remboursée, même si cela ne me concerne plus, mais je me demande si le canton peut vraiment financer cela."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Le PS et le Conseil d'État disent oui, et des liaisons mieux organisées avec la France réduiraient le nombre de voitures qui traversent la frontière chaque jour, donc je voterais oui."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Je vis dans un grand ensemble et je crains le retour des congés-ventes et la disparition des logements abordables, donc je suis le PS et les locataires qui disent non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le PS s'oppose à la baisse de l'indemnité et je pense que la formation ne doit pas servir de variable d'ajustement, donc je pencherais pour non, sans en être certain."
+    }
+  ]
+}

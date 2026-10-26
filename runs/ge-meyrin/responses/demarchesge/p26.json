@@ -1,0 +1,17 @@
+{
+  "id": "p26",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "Cointrin est un autre quartier que la cité où j'habite, l'atelier tombe un samedi après-midi et je n'ai pas vu de flyer, donc je n'y suis probablement pas allé et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Je crois avoir vu passer l'info sur les Assises de la culture, mais entre le travail et les enfants je n'ai pas pris le temps de répondre à un questionnaire qui ne me concerne pas directement, et j'en parle seulement si ça touche la famille."
+    }
+  ]
+}

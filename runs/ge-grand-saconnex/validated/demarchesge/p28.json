@@ -1,0 +1,17 @@
+{
+  "id": "p28",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Ce projet près de Palexpo ne me concerne pas directement, et un questionnaire de 28 questions en mai 2025 ne faisait pas partie de mes priorités entre le travail et la famille."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "Je ne réponds pas souvent aux enquêtes en ligne de la commune, et le projet des Marronniers ne touche pas directement mon quotidien."
+    }
+  ]
+}

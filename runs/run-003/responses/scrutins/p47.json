@@ -1,0 +1,20 @@
+{
+  "id": "p47",
+  "votes": [
+    {"vote_id": "a2014-gripen", "participe_proba": 0, "oui_proba": 0.7, "raison": "Je n'avais pas encore l'âge de voter à cette date. Si j'avais pu, j'aurais sans doute soutenu cet achat pour une armée qui doit rester crédible."},
+    {"vote_id": "a2016-couple", "participe_proba": 0, "oui_proba": 0.2, "raison": "Je n'avais pas encore l'âge de voter. Je ne vois pas l'intérêt d'inscrire une définition du mariage dans la Constitution, mais je suis d'accord que les couples mariés ne soient pas désavantagés."},
+    {"vote_id": "a2017-avs-tva", "participe_proba": 0, "oui_proba": 0.35, "raison": "Je n'avais pas encore l'âge de voter. Je comprends qu'il faille financer l'AVS, mais une hausse de la TVA qui touche tout le monde m'aurait gênée."},
+    {"vote_id": "a2018-autodetermination", "participe_proba": 0, "oui_proba": 0.35, "raison": "Je n'avais pas encore l'âge de voter. Je suis attachée à la souveraineté suisse, mais je ne voudrais pas risquer nos accords qui facilitent le commerce de nos entreprises."},
+    {"vote_id": "a2020-limitation", "participe_proba": 0, "oui_proba": 0.3, "raison": "Je n'avais pas encore l'âge de voter. La libre circulation a ouvert des possibilités de travail et de formation aux jeunes, donc je n'aurais pas voulu y mettre fin."},
+    {"vote_id": "a2020-avions", "participe_proba": 0, "oui_proba": 0.65, "raison": "Je n'avais pas encore l'âge de voter. J'aurais probablement soutenu le renouvellement de l'armée, mais le montant de 6 milliards m'aurait fait hésiter."},
+    {"vote_id": "a2022-experimentation", "participe_proba": 0, "oui_proba": 0.3, "raison": "Je n'avais pas encore l'âge de voter. Je suis sensible au bien-être des animaux, mais je ne voudrais pas freiner la recherche médicale qui protège les gens."},
+    {"vote_id": "a2022-elevage", "participe_proba": 0, "oui_proba": 0.3, "raison": "Je n'avais pas encore l'âge de voter. Mon village vit beaucoup de l'élevage, et je ne veux pas que Berne impose aux paysans des règles qu'ils n'ont pas choisies, même si le bien-être animal compte."},
+    {"vote_id": "a2022-avs-tva", "participe_proba": 0, "oui_proba": 0.35, "raison": "Je n'avais pas encore l'âge de voter. Je comprends le besoin de financer l'AVS, mais je suis contre une hausse de la TVA qui pèse sur tout le monde."},
+    {"vote_id": "h2026-neutralite", "participe_proba": 0.55, "oui_proba": 0.3, "raison": "Je tiens à la neutralité suisse, mais cette initiative la rendrait rigide : elle interdirait les sanctions et toute coopération de défense, ce qui nuirait à notre place en Europe. Je voterai probablement non."},
+    {"vote_id": "h2026-alimentation", "participe_proba": 0.4, "oui_proba": 0.3, "raison": "J'aime que notre lait et notre fromage soient d'ici, et le bio progresse chez nous, mais je n'aime pas que l'État dicte ce que les gens mangent. L'objectif de 70 % me paraît irréaliste en dix ans."},
+    {"vote_id": "p2026-avs-tva", "participe_proba": 0.45, "oui_proba": 0.25, "raison": "Je n'ai pas un gros salaire d'apprentie et je ne veux pas payer davantage de TVA, même pour une 13e rente utile. Je voterai probablement non."},
+    {"vote_id": "p2026-feux", "participe_proba": 0.3, "oui_proba": 0.35, "raison": "Le bruit des pétards me dérange parfois, mais je pense que c'est aux communes de gérer leurs fêtes, pas à la Confédération. Je ne me sens pas très concernée."},
+    {"vote_id": "p2026-couples", "participe_proba": 0.4, "oui_proba": 0.25, "raison": "Le peuple vient de choisir l'imposition individuelle en mars, je ne vois pas l'intérêt de revenir en arrière pour les couples mariés. Je voterai probablement non."},
+    {"vote_id": "p2026-materiel-guerre", "participe_proba": 0.35, "oui_proba": 0.6, "raison": "Je pense que la Suisse doit pouvoir exporter du matériel de guerre pour soutenir son industrie, tout en restant neutre. Je ne suis pas très au clair sur les conditions, donc je pourrais m'abstenir."}
+  ]
+}

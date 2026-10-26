@@ -1,0 +1,17 @@
+{
+  "id": "p17",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Le bio, pourquoi pas, mais je ne suis pas agriculteur et je n'ai pas de terres, donc je ne vois pas bien ce que je peux faire là-dedans.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je n'ai ni terres ni activité agricole, donc la question concerne surtout les paysans",
+      "Je n'ai pas beaucoup de temps libre : je m'occupe seul des enfants, des devoirs et de la maison",
+      "Les produits bio coûtent plus cher et le budget de la famille est serré",
+      "Je ne vote pas aux fédérales, donc j'ai l'impression que ces décisions se prennent sans moi",
+      "Je ne sais pas à qui m'adresser ni quelle action serait concrète"
+    ],
+    "ce_qui_me_ferait_venir": "Des repas bio à la cantine ou à la garderie qui ne coûtent pas plus cher aux parents, et une information simple sur ce que ça change pour mes enfants, à un horaire compatible avec mes journées."
+  }
+}

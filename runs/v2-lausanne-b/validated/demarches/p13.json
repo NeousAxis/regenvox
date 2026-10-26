@@ -1,0 +1,65 @@
+{
+  "id": "p13",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "J'avais 14 ans, ce sondage sur les établissements du lac de Sauvabelin ne me concernait pas et je ne l'ai jamais vu passer."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "À 16 ans, ce budget participatif pilote était peu visible pour moi, je n'ai pas pensé à voter ni à en parler."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "En pleine pandémie et à 17 ans, je suivais surtout les cours à distance, la deuxième édition ne m'a pas accrochée et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Un sondage de cinq minutes aurait pu me prendre, mais à 17 ans je ne me sentais pas concernée par l'urbanisme et l'info ne m'a pas atteinte."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin est arrivé à la maison, mais entre l'école et mes premiers mois de formation à 18 ans, je ne l'ai probablement pas rempli et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je n'ai pas vu passer ce questionnaire sur les quais d'Ouchy, et un sondage en ligne sans relance ne m'a pas donné envie de le chercher."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Mon bulletin nominatif a pu arriver chez moi, mais voter pour des projets de quartier reste une démarche que je fais rarement, donc j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Le sujet du racisme me touche davantage que les autres, mais je ne suis pas tombée sur ce questionnaire ni sur les formulaires papier, et j'ai peu relayé l'information."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Mon bulletin nominatif m'a fait penser au vote, mais entre la formation et le quotidien je l'ai sans doute laissé de côté, et je n'ai pas incité mon entourage."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Le vote en ligne est simple et je trouve bien que la Ville demande l'avis des habitants pour leur quartier, mais cette édition est passée sous mes radars et j'en ai peu parlé."
+    }
+  ]
+}

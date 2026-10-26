@@ -1,0 +1,15 @@
+{
+  "id": "p24",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je ne fréquente guère Sauvabelin, un sondage sur l'avenir de cette auberge m'aurait probablement échappé et je n'en aurais pas parlé."},
+    {"item_id": "lau01", "participe_proba": 0.08, "partage_proba": 0.05, "raison": "Le principe me plaît, mais cette première édition pilote peu visible m'aurait sans doute fait passer à côté du vote, et je n'en aurais guère parlé."},
+    {"item_id": "lau02", "participe_proba": 0.10, "partage_proba": 0.06, "raison": "Le vote était ouvert à tous et je suis sensible à la démocratie locale, mais l'année covid et des urnes peu visibles rendaient la participation peu probable, et j'en aurais peu parlé."},
+    {"item_id": "lau10", "participe_proba": 0.20, "partage_proba": 0.15, "raison": "Mon quartier est directement concerné et un sondage de cinq minutes en ligne se remplit vite, mais je n'aurais pas forcément vu l'annonce ni pris le temps, et j'en aurais peut-être parlé à un voisin."},
+    {"item_id": "lau03", "participe_proba": 0.22, "partage_proba": 0.15, "raison": "Le bulletin nominatif envoyé dans chaque boîte aux lettres rend le vote bien plus probable qu'une urne, et le budget participatif me parle, mais je vote rarement sans relance et j'en parlerais surtout à quelques proches."},
+    {"item_id": "lau08", "participe_proba": 0.10, "partage_proba": 0.07, "raison": "La question des quais touche la vie du centre-ville, mais un questionnaire en ligne de quinze questions se remplit rarement sans relance, et je n'en aurais guère parlé."},
+    {"item_id": "lau04", "participe_proba": 0.18, "partage_proba": 0.12, "raison": "Le bulletin préaffranchi reçu à domicile me donne une vraie chance de voter, mais j'avais d'autres priorités et le budget participatif reste un sujet secondaire, peu discuté autour de moi."},
+    {"item_id": "lau09", "participe_proba": 0.05, "partage_proba": 0.04, "raison": "Le sujet du racisme me touche et je suis proche du PS, mais une consultation sans visée scientifique, diffusée sur une plateforme peu connue, m'aurait probablement échappé, et j'en aurais peu parlé."},
+    {"item_id": "lau05", "participe_proba": 0.18, "partage_proba": 0.12, "raison": "Le bulletin nominatif envoyé à domicile rend le vote facile, mais je n'y prête qu'une attention modérée, et je n'en aurais parlé qu'à quelques proches."},
+    {"item_id": "lau06", "participe_proba": 0.17, "partage_proba": 0.11, "raison": "Le bulletin reçu à domicile rend le vote possible, mais je ne vote pas à chaque édition et cette démarche a été peu relayée à mes yeux, donc j'en aurais peu parlé."}
+  ]
+}

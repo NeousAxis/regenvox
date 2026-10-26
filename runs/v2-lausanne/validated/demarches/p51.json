@@ -1,0 +1,65 @@
+{
+  "id": "p51",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Un sondage sur l'avenir d'une auberge au bord du lac ne m'accroche pas, je n'ai pas vu l'annonce et les ateliers du samedi après-midi ne m'auraient pas tenté."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Un budget pour les projets de quartier me parle, mais la première édition était peu visible et voter demandait de se déplacer ou de passer par internet, si bien que je n'y ai probablement pas pensé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Pendant la pandémie les stands et les ateliers ne m'attiraient pas, le vote en ligne m'obligeait à y penser moi-même, et déposer un projet à plusieurs me semblait trop lourd."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Le sondage de cinq minutes sur le plan d'affectation m'aurait pris un moment, mais je n'ai pas vu les annonces et les soirées d'information se tiennent en semaine, à une heure où je rentre fatigué du travail."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.3,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin affranchi arrivé dans la boîte aux lettres rend le vote presque automatique et les projets de quartier me concernent, mais je ne prends pas toujours le temps de les étudier pour choisir."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je ne fréquente pas beaucoup les quais d'Ouchy et de Belgique, le questionnaire d'un mois ne m'est pas parvenu et la fermeture au trafic me touche peu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.22,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi reçu à domicile en novembre me fait voter quand j'ai le temps, mais je n'ai jamais eu envie de déposer un projet sur la plateforme, donc je reste un votant occasionnel."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Le racisme est un sujet qui me touche, mais je n'ai pas vu le questionnaire papier déposé dans les maisons de quartier et je ne réponds pas spontanément aux consultations en ligne."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.28,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin nominatif envoyé chez moi rend le vote simple et les projets de quartier me parlent, mais je n'ai pas forcément le temps de sélectionner au moins trois projets."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.25,
+      "partage_proba": 0.12,
+      "raison": "Le vote par bulletin reçu à domicile me permet de participer sans effort, mais choisir trois projets demande du temps que mes horaires d'équipe ne me laissent pas toujours."
+    }
+  ]
+}

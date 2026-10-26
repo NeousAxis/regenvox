@@ -1,0 +1,65 @@
+{
+  "id": "p64",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "A 29 ans, je fréquente peu le lac de Sauvabelin, je n'ai pas vu l'annonce du sondage et ce sujet ne m'atteint pas dans mon quotidien."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "A 31 ans, le premier budget participatif me parle pour mon quartier, mais je l'ai découvert de loin et voter demande un effort que je ne fais pas souvent."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "A 32 ans, entre mon travail et les enfants, je n'ai pas pris le temps de déposer ni de voter pour un projet pendant la deuxième édition, même si le vote se faisait aussi sur le marché."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "A 32 ans, j'ai peu entendu parler de la révision du plan d'affectation, et les balades comme les soirées demandaient une inscription que je n'ai pas faite."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.10,
+      "raison": "A 33 ans, le bulletin posté à chaque foyer est le seul moyen qui m'atteint vraiment, donc je peux voter, mais le sujet reste secondaire dans une semaine chargée."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "A 33 ans, la fermeture des quais d'Ouchy et de Belgique me concerne peu, je ne vais presque jamais là-bas, et un questionnaire en ligne sur le site de la Ville ne me pousse pas à répondre."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.10,
+      "partage_proba": 0.09,
+      "raison": "A 34 ans, le bulletin préaffranchi reçu à domicile me rappelle la démarche, je vote quand un projet concerne mon quartier, mais je n'en parle guère autour de moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "A 34 ans, en tant qu'étranger, le racisme me touche personnellement et je pourrais répondre au questionnaire anonyme, mais je n'ai pas vu les papiers dans les lieux que je fréquente et j'en parlerais surtout à des proches."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.11,
+      "raison": "A 35 ans, le bulletin nominatif arrive chez moi et il vient aussi pour mes enfants dès 4 ans, ce qui peut m'amener à voter pour des projets de jeux ou d'animation dans le quartier, mais je n'ai pas le réflexe à chaque édition."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.10,
+      "raison": "A 37 ans, le vote s'est tenu pendant l'été, entre les vacances des enfants et mes horaires d'équipe, si bien que je l'ai probablement laissé passer, même si le bulletin arrive à domicile."
+    }
+  ]
+}

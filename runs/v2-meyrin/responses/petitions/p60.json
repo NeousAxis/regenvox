@@ -1,0 +1,25 @@
+{
+  "id": "p60",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.02, "partage_proba": 0.08, "raison": "Affaire d'étudiants lausannois autour d'une entreprise américaine, je ne suis pas concernée et je n'ai pas d'avis tranché sur la surveillance dans les écoles."},
+    {"item_id": "pet02", "participe_proba": 0.03, "partage_proba": 0.15, "raison": "Les canicules me préoccupent comme professionnelle et comme mère, mais je ne soutiens pas un plan climatique qui impose des contraintes à l'économie, et ce ton militant ne me convainc pas."},
+    {"item_id": "pet03", "participe_proba": 0.01, "partage_proba": 0.10, "raison": "Je suis proche de l'UDC et je soutiens en partie cette initiative sur les frontières, donc une pétition qui demande de l'invalider ne me touche pas."},
+    {"item_id": "pet04", "participe_proba": 0.02, "partage_proba": 0.10, "raison": "L'affaire Thévoz et le débat sur Gaza sont très clivants, et une pétition de soutien à un élu opposé à la CICAD ne fait pas partie de ce qui me pousse à signer."},
+    {"item_id": "pet05", "participe_proba": 0.25, "partage_proba": 0.35, "raison": "Les jeunes qui inhalent du protoxyde d'azote me préoccupent dans mon métier et comme mère, et interdire la vente aux mineurs et dans la rue me paraît une mesure de bon sens."},
+    {"item_id": "pet06", "participe_proba": 0.04, "partage_proba": 0.10, "raison": "Texte en anglais sur les placements des caisses de pension, un sujet éloigné de mon quotidien, et je ne vois pas bien ce que cette pétition changerait pour moi."},
+    {"item_id": "pet07", "participe_proba": 0.05, "partage_proba": 0.08, "raison": "Le texte se présente lui-même comme fictif et propose une réforme de l'assurance-maladie trop floue à mes yeux, donc je ne signe pas une pétition qui n'existe pas vraiment."},
+    {"item_id": "pet08", "participe_proba": 0.03, "partage_proba": 0.10, "raison": "Je suis inquiète pour l'AVS, mais la légalisation du cannabis et le ton de cette pétition des Jeunes Vert'libéraux ne me conviennent pas."},
+    {"item_id": "pet09", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Je ne suis pas versoisienne, je vis à Meyrin, et une dépense communale dans une autre commune genevoise ne me concerne pas directement."},
+    {"item_id": "pet10", "participe_proba": 0.15, "partage_proba": 0.25, "raison": "Ce témoignage me touche en tant que femme et mère et je comprends le manque de reconnaissance juridique, donc je pourrais signer par empathie, sans avoir vécu ce cas."},
+    {"item_id": "pet11", "participe_proba": 0.10, "partage_proba": 0.25, "raison": "Je vois les longues listes d'attente autour de moi dans le milieu de la santé, donc une étape de diagnostic psychiatrique me semble un obstacle, mais je ne suis pas sûre que la pétition ait tous les arguments."},
+    {"item_id": "pet12", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "C'est une ferme vaudoise à Borex, loin de Genève, et je ne suis pas concernée par ces restrictions communales."},
+    {"item_id": "pet13", "participe_proba": 0.04, "partage_proba": 0.15, "raison": "La violence domestique me touche, mais c'est une question cantonale jurassienne, et je ne signe généralement pas de pétitions sur un canton où je ne vis pas."},
+    {"item_id": "pet14", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Le tram lausannois et la fraîcheur urbaine concernent Lausanne et le canton de Vaud, et je n'ai pas de raison de soutenir ce parti."},
+    {"item_id": "pet15", "participe_proba": 0.01, "partage_proba": 0.05, "raison": "Je suis réservée sur l'asile et les expulsions, et je ne vois pas de raison de suspendre tous les renvois de ressortissants burundais sur la base de rapports dont je ne suis pas sûre."},
+    {"item_id": "pet16", "participe_proba": 0.05, "partage_proba": 0.10, "raison": "Le handicap et l'apprentissage me touchent par mon métier, mais la réforme proposée, avec un CFC allongé à six ans, paraît coûteuse et peu réaliste pour les entreprises."},
+    {"item_id": "pet17", "participe_proba": 0.12, "partage_proba": 0.35, "raison": "Les enregistrements clandestins et les enfants filmés dans les piscines me préoccupent comme mère, mais une interdiction nationale de la vente me paraît excessive, je signerais peut-être après réflexion."},
+    {"item_id": "pet18", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Ce discours climatique général et ses mesures très contraignantes, comme l'interdiction des retours ou le transfert des vols vers le rail, ne sont pas ma façon de voir les choses."},
+    {"item_id": "pet19", "participe_proba": 0.04, "partage_proba": 0.08, "raison": "Les forêts et les incendies m'inquiètent, mais je n'aime pas m'opposer à un conseiller fédéral de l'UDC sur une coupe budgétaire que je trouve défendable."},
+    {"item_id": "pet20", "participe_proba": 0.28, "partage_proba": 0.40, "raison": "Les abus facilités par la drogue touchent les femmes et les jeunes, ce qui concerne directement mon travail et mes enfants, et une task force de l'État me paraît un appel légitime et peu clivant."}
+  ]
+}

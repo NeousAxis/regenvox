@@ -1,0 +1,65 @@
+{
+  "id": "p36",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Le sondage et l'atelier étaient annoncés surtout sur le site de l'établissement et sur ses réseaux, je ne suis pas un habitué du lac de Sauvabelin et je n'aurais pas pensé à faire le déplacement un samedi après-midi de novembre."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "C'était le premier budget participatif, encore peu visible, et choisir au moins trois projets demande du temps, donc je l'ai probablement laissé passer même si j'en ai entendu parler."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.025,
+      "partage_proba": 0.06,
+      "raison": "L'édition 2020 s'est déroulée en pleine période Covid avec un vote surtout en ligne, je n'ai pas suivi le dépôt des projets et le vote a été noyé dans les autres urgences du quotidien."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Un sondage en ligne de cinq minutes sur mon propre quartier attire, mais il faut tomber dessus, et les soirées et balades s'accordent mal avec mes soirées de famille et l'incertitude sanitaire."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin affranchi envoyé à domicile rend le vote plus facile, mais départager au moins trois projets reste une corvée et je n'ai pas le réflexe de suivre ces démarches, même si la foire de la place Centrale, proche de chez moi, pourrait m'attirer."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Ce questionnaire d'une quinzaine de questions porte sur les quais d'Ouchy, un secteur que je fréquente peu, et il n'était annoncé que par communiqué, je ne l'aurais probablement pas vu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.13,
+      "raison": "Le bulletin préaffranchi reçu à domicile et la possibilité de voter en ligne en font une vraie occasion, mais l'effort de départager les projets reste modeste face à mes priorités familiales et professionnelles."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Le thème me concerne comme étranger résident, mais la consultation était peu relayée, sur papier dans quelques lieux ou sur une plateforme peu connue, et je n'y ai probablement pas pensé ; j'en aurais plutôt parlé avec des proches."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin nominatif est envoyé à tout le foyer, enfants dès 4 ans compris, ce qui permet de voter en famille et augmente nettement la chance de le remplir, même si beaucoup de ménages le laissent traîner."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin préaffranchi à domicile et le vote en ligne, avec la routine acquise lors des éditions précédentes, me donnent une chance réelle, mais la fin de l'été et la rentrée chargée laissent peu de place aux décisions de quartier."
+    }
+  ]
+}

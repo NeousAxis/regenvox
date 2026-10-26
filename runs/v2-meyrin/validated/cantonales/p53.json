@@ -1,0 +1,29 @@
+{
+  "id": "p53",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.88,
+      "raison": "Dans mon métier je vois des femmes renoncer à une contraception trop chère, et 20 millions par an me paraissent un prix raisonnable, même si le Conseil d'État recommande non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Les bouchons à la frontière pèsent sur Meyrin, près de l'aéroport et du CERN, et le PS soutient ces projets de bus et de tram, donc je voterais oui."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Accéder à la propriété me tente, mais le PS, les Verts et l'ASLOCA craignent les congés-ventes et la perte de logements abordables, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je travaille dans le social et la santé et je sais l'importance de la HES pour former les professionnels, mais le PS demande de maintenir les 35 millions, donc je pencherais pour non."
+    }
+  ]
+}

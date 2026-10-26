@@ -1,0 +1,39 @@
+{
+  "id": "p13",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.22,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un atelier de 1 h 30 maximum, à un créneau qui laisse le temps entre les deux traites (vers 13 h), hors période de foin, avec des agriculteurs de la commune qui ont passé ou essaient le bio et qui donnent les vrais chiffres : prix payé, charges, rendement."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Qu'on me dise concrètement ce qu'un habitant achète à la ferme (quel produit, à quel prix, par quel canal), et qu'un paysan qui vend déjà en direct soit présent pour répondre."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Que la discussion porte sur la reprise concrète des fermes (terres, bâtiments, revenu), en dehors de la période de foin et sans arriver avec des leçons sur ce qu'on fait mal."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Que la commune montre ce qui est déjà mesuré (sols, eau, haies) plutôt que d'annoncer un discours, et que les fermes ne soient pas présentées comme les coupables."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur le téléphone, faisables le soir ou entre deux traites, sans créneau à bloquer, sans déplacement et sans avoir à débattre devant les autres. C'est le seul format que je ferais vraiment, et seulement si le sujet me touche."
+}

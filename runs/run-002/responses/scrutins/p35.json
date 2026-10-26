@@ -1,0 +1,95 @@
+{
+  "id": "p35",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Il faut une armée qui protège le pays, mais ces avions de combat représentent une grosse somme décidée là-haut, et ça me laisse sceptique."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Le couple et la famille, c'est la base chez nous, et je trouve injuste que les couples mariés soient pénalisés par rapport aux autres formes de vie commune."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je veux que l'AVS tienne, mais une TVA qui monte pour tout le monde et une retraite des femmes repoussée à 65 ans, sans qu'on nous demande notre avis, ça me fait hésiter et je penche pour le non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "La Suisse doit décider de ses lois elle-même, sans juges étrangers qui nous dictent ce qu'on fait chez nous, et c'est exactement ce que je pense."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.5,
+      "raison": "Je veux que la Suisse reprenne la main sur l'immigration, mais dans notre zone industrielle beaucoup de collègues viennent d'ailleurs, et rompre les accords avec l'UE pourrait coûter des emplois, donc je suis partagée."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.55,
+      "raison": "Il faut des avions pour défendre le pays, mais six milliards, c'est beaucoup d'argent demandé aux gens d'ici, et je n'aime pas qu'on tranche ça sans nous."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je suis pour le bien-être des animaux, mais interdire toute recherche sur les animaux et les humains, et les produits qui en viennent, c'est aller trop loin pour moi."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Cette initiative ferait grimper les coûts de nos paysans de la région qui vivent du lait, avec des règles plus strictes que le bio et une transition de 25 ans, et je ne fais pas confiance à ce qui vient d'en haut pour décider ça à leur place."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.4,
+      "raison": "Je comprends qu'il faut financer l'AVS, mais la TVA, c'est tout le monde qui paie, et le relèvement de l'âge des femmes me touche directement, donc je penche pour le non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Je suis attachée à une Suisse neutre et indépendante, sans alliance militaire ni sanctions dictées de l'étranger, mais je m'inquiète un peu des conséquences économiques pour nos emplois."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Produire davantage ici pour nourrir le pays, c'est ce que je défends pour nos paysans, mais moins de produits animaux et moins de traitements pourraient toucher nos fermes laitières, donc je suis partagée."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "La 13e rente, c'est juste pour ceux qui ont travaillé dur toute leur vie, mais je n'aime pas payer davantage de TVA, même si les denrées alimentaires ne sont pas touchées."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Les feux font partie de nos traditions au village et j'aime les grandes fêtes, mais les pétards bruyants affolent les bêtes, et une interdiction venue d'en haut ne me convainc pas tout à fait, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Je trouve normal que les couples mariés ne soient pas pénalisés par rapport aux autres contribuables, c'est la base de la famille, et je suis favorable à une imposition commune."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "La neutralité doit rester la règle, et je ne veux pas que la Suisse livre des armes à un pays en guerre sur simple décision du Conseil fédéral, donc je penche pour le non."
+    }
+  ]
+}

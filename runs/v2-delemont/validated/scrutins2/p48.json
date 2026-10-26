@@ -1,0 +1,197 @@
+{
+  "id": "p48",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je suis plutôt contre une hausse de la TVA, que mon parti combat, même si l'AVS mérite d'être financée durablement."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Une hausse temporaire et limitée pour assainir l'AI me paraît acceptable, à condition qu'elle prenne fin comme prévu."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "L'industrie de la défense fait partie de notre tissu économique et une interdiction totale des exportations me paraît excessive."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Le service militaire obligatoire reste à mes yeux un pilier de la milice et de la sécurité du pays, je ne veux pas l'abolir."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "Je vois des tensions liées à l'immigration, mais la fin de la libre circulation avec l'UE coûterait cher à notre économie et à nos échanges."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Une défense aérienne crédible est nécessaire et le financement par le budget de l'armée reste raisonnable, même si le coût est élevé."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je comprends le souci des couples mariés face aux désavantages fiscaux, mais inscrire une définition du mariage dans la Constitution me paraît inutile."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "La réforme PV 2020 est nécessaire, mais je n'apprécie pas la hausse de TVA que mon parti refuse, même si l'AVS doit être financée."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je connais les contraintes des paysans de la région, et une contribution fédérale pour garder les cornes n'est pas la bonne réponse."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Le droit international et les accords avec l'UE sont indispensables à notre prospérité, je ne veux pas primer le droit suisse sur ces engagements."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Reprendre la directive européenne sur les armes fait partie des accords de Schengen dont dépendent nos échanges, et les exceptions sont raisonnables."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Mettre fin à la libre circulation mettrait en péril nos entreprises et nos accords bilatéraux, je ne soutiens pas cette rupture."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Dans une région rurale, les dégâts du loup sur les troupeaux sont concrets et une régulation facilitée me semble nécessaire."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Renouveler la flotte de combat est nécessaire pour la sécurité du pays, et le plafond de 6 milliards me paraît encadré."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Interdire aux banques et aux caisses de pension de financer les fabricants de matériel de guerre affaiblirait l'industrie suisse de sécurité."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible à la qualité de l'eau, mais lier les paiements directs à des conditions aussi strictes pénaliserait les exploitations de la région."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Certains produits de synthèse restent nécessaires à la production, et une interdiction en dix ans est trop brutale pour nos agriculteurs."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Le mariage civil ouvert à tous les couples me paraît une évolution logique et conforme aux valeurs libérales de mon parti."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.1,
+      "raison": "La recherche médicale a besoin d'expérimentations encadrées, une interdiction totale mettrait en danger les progrès pour la santé."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "La coopération avec Frontex et la sécurité des frontières extérieures de Schengen me semblent utiles pour notre pays."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je respecte le bien-être animal, mais les exigences imposées aux éleveurs suisses sans contrôle des importations me paraissent disproportionnées."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Le financement de l'AVS demande un effort et l'alignement de l'âge de référence des femmes est juste, même si la TVA reste une hausse pénible."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "La biodiversité compte, mais retirer davantage de surfaces à l'agriculture et ajouter des contraintes me paraît excessif."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "L'imposition individuelle correspond à l'équité fiscale que défend mon parti, même si elle complique la situation fiscale de notre couple."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "La croissance démographique pose des défis, mais fixer un plafond et dénoncer la libre circulation mettrait en péril nos accords et notre économie."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.45,
+      "oui_proba": 0.65,
+      "raison": "Limiter les départs de l'armée me semble juste envers ceux qui servent, et le principe de la milice doit être préservé."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "La neutralité est une tradition suisse, mais l'inscrire de façon absolue dans la Constitution nous empêcherait de coopérer et de sanctionner utilement."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Un objectif de 70 % de production indigène me paraît irréaliste, et les contraintes sur les engrais et les produits phytosanitaires seraient trop lourdes."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je ne souhaite pas une nouvelle hausse de la TVA pour financer la 13e rente, il faut d'abord stabiliser les dépenses de l'AVS."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis attaché aux feux du 1er août, et une interdiction des pièces bruyantes me paraît une restriction excessive, même si le bruit gêne certains."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "L'imposition individuelle vient d'être acceptée et je ne souhaite pas revenir en arrière, même si l'imposition commune peut sembler équitable pour les couples mariés."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Les règles actuelles font perdre des marchés à l'industrie suisse, et les conditions liées à la neutralité et aux intérêts du pays restent encadrées."
+    }
+  ]
+}

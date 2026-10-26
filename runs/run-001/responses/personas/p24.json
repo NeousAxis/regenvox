@@ -1,0 +1,60 @@
+{
+  "id": "p24",
+  "portrait": "J'ai 34 ans, je vis seule dans une maison isolée, au bout d'un hameau de Vuadens, et je travaille dans la vente, la restauration ou le transport, avec des horaires qui changent d'une semaine à l'autre. Je ne suis pas d'ici à l'origine, et j'ai parfois l'impression que le village fonctionne entre des familles et des associations qui se connaissent depuis toujours. Je vois les champs et les vaches depuis ma fenêtre, mais je connais peu les fermes et les gens qui les font vivre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Un paysan qui travaille tous les jours doit pouvoir vivre de son métier, ça, je le comprends mieux que la plupart. Mais si le bio coûte plus cher à produire, je veux savoir qui paie et combien.",
+      "engagement": 1,
+      "freins_participation": [
+        "Mes horaires changent chaque semaine, je travaille souvent le soir et le week-end",
+        "Je n'ai pas de connaissances en agriculture pour juger ce qui est juste"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que touche réellement une exploitation, expliqués sans jargon, et des rencontres à un moment où je peux être là."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement chez le paysan du coin, pourquoi pas, mais je ne peux pas me permettre de payer le double sur tout. Si on me propose un panier simple, je regarde.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le budget, je compte chaque franc pour les courses",
+        "Mes horaires dans la restauration ou le transport ne me laissent pas libre pour les rendez-vous de la semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Un panier ou une vente directe avec des prix clairs, que je peux commander en ligne et récupérer à un horaire qui colle à mes shifts."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Dans trente ans, je ne sais pas où je serai. Pour l'instant, je pense surtout au mois prochain.",
+      "engagement": 0,
+      "freins_participation": [
+        "Ça me paraît très loin et très abstrait",
+        "Les décisions se prennent entre gens du village, je n'ai pas l'impression d'avoir mon mot à dire"
+      ],
+      "ce_qui_me_ferait_venir": "Un exemple concret de ce qui a déjà changé dans la commune, quelque chose que je peux voir de chez moi, plutôt qu'une vision lointaine."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Une fête à la ferme ou un panneau à l'entrée du village, ça ne me dit pas ce qu'ils font vraiment dans leurs champs.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas les fermes, donc je ne sais pas ce qu'elles apportent",
+        "Les événements du village ne sont pas faits pour quelqu'un qui vit seule au bout du hameau"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme un samedi matin, sans inscription compliquée, où je peux poser des questions simples à des gens qui parlent de leur travail et pas de politique."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 6,
+    "role": "isole",
+    "cercle_type": "Quelques collègues de travail, une ou deux amies arrivées en Suisse comme moi, et des voisins du hameau que je salue sans vraiment les fréquenter. Pas d'association ni de groupe local."
+  },
+  "votes": []
+}

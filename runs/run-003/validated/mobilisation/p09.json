@@ -1,0 +1,39 @@
+{
+  "id": "p09",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre que le choix reste libre pour les fermes et qu'on arrête de me parler de normes. Sans ça, je n'ai aucune raison de venir."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.22,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un exemple concret : un contact de ferme précis, un panier local à petit prix et la liste des étapes pour devenir partenaire. Sans ça, je repousse."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question moins abstraite, avec un enjeu que je vois déjà autour de chez moi, comme l'eau du robinet ou les champs que je croise chaque jour."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un moment sans discours, un samedi matin, où les paysans du coin montrent leur travail sur place. Si un proche de mon âge y va, je viens aussi."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul format qui tient dans une pause sur mon téléphone, sans me déplacer ni devoir me justifier devant les autres. Je sais que j'oublierai si je ne le fais pas dans la semaine, donc je ne compte pas dessus à fond."
+}

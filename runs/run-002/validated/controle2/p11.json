@@ -1,0 +1,17 @@
+{
+  "id": "p11",
+  "reaction": {
+    "position": "interesse",
+    "intensite": 3,
+    "citation": "Le bio sur les champs, pourquoi pas, c'est dans le sens de ce que je défends. Mais avec mes enfants et mon budget, je veux surtout savoir qui paie la différence et ce que ça change concrètement pour nous.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je n'ai pas de garde pour les soirs d'atelier",
+      "Mon budget ne me permet pas de payer plus cher le bio",
+      "Je connais peu d'agriculteurs du village et je ne sais pas vers qui me tourner",
+      "Je ne vois pas encore ce que l'objectif changerait pour les champs autour de chez nous",
+      "Entre le travail et les enfants, je manque de temps"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier en soirée avec une garde d'enfants sur place, des chiffres clairs sur le surcoût réel du bio pour une famille, et des agriculteurs de la commune qui viennent expliquer leur réalité. Un marché ou une cantine scolaire qui proposent du bio local à prix accessible me donnerait une raison concrète de m'engager."
+  }
+}

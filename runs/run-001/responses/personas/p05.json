@@ -1,0 +1,60 @@
+{
+  "id": "p05",
+  "portrait": "Je ne suis pas né en Suisse, et je vis à Vuadens avec ma famille depuis mon installation dans le canton, dans un quartier résidentiel assez récent. Je travaille comme employé de bureau dans le commerce de la région, et mes journées se passent davantage en ville que dans les champs. Je vois les prés et les vaches autour du village sans toujours savoir qui les cultive ni comment vivent les familles qui les travaillent, et cette question me touche surtout à cause de mes enfants.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans peuvent vivre de leur travail, le bio suivra, mais personne ne se lance s'il y perd de l'argent. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je connais mal le métier d'agriculteur et les chiffres des exploitations",
+        "Le temps, entre mon travail et les enfants"
+      ],
+      "ce_qui_me_ferait_venir": "Un résumé clair de ce que gagne une ferme en bio par rapport à une ferme classique, avec des exemples concrets pris dans la commune."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« J'achèterais volontiers local, mais être partenaire d'une ferme, je ne vois pas très bien ce que ça veut dire pour moi. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas à quoi m'engager concrètement",
+        "Pas le temps de participer à des réunions en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Des propositions simples et concrètes, comme un panier hebdomadaire ou une demi-journée de coup de main à la ferme, sans engagement lourd."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Mes enfants vivront ici longtemps, alors la qualité de la terre et de l'eau me concerne directement. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je doute qu'un atelier puisse vraiment peser sur les décisions",
+        "Les soirées en semaine, avec les devoirs et les activités des enfants"
+      ],
+      "ce_qui_me_ferait_venir": "La certitude que mon avis sera repris dans une décision, et une rencontre courte en fin de journée près de l'école ou du centre du village."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Reconnaître les fermes, pourquoi pas, mais on ne voit leur travail que dans les produits en magasin. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas concrètement ce que font les fermes pour la biodiversité",
+        "Je ne fréquente pas vraiment le monde agricole"
+      ],
+      "ce_qui_me_ferait_venir": "Une journée de portes ouvertes dans une ferme avec des explications simples, ou un moment convivial organisé au village."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "collègues de bureau, parents d'élèves de l'école du village, voisins du quartier"
+  },
+  "votes": []
+}

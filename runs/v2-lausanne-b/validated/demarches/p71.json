@@ -1,0 +1,65 @@
+{
+  "id": "p71",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Enfant de 9 ans en 2017, je n'étais pas visé par ce sondage d'usagers et je n'en aurais rien su sans mes parents."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "À 11 ans, le budget participatif me dépasse et je ne le connais que de nom, même si mes parents auraient pu voter."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "En 2020, entre le Covid et l'école, je n'aurais sans doute pas pris le temps de voter, l'idée ne me serait pas venue."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Un sondage de cinq minutes sur le plan d'affectation me paraît lointain à 12 ans, je l'aurais sans doute laissé de côté."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin arrive dans la boîte aux lettres du foyer, mes parents le trient, et je ne le remarquerais pas vraiment à 13 ans."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Je vais parfois au bord du lac en été, donc le questionnaire sur Ouchy m'aurait concerné, mais je ne l'aurais probablement pas vu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "À 14 ans, un bulletin nominatif arrive à la maison, je le mettrais de côté et je finirais par l'oublier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Le sujet me touche de près en tant qu'étranger, mais la consultation était peu visible et j'aurais surtout eu envie d'en parler autour de moi."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "À 15 ans, avec un bulletin nominatif chez mes parents, j'aurais pu cocher quelques projets, mais ce n'est pas une habitude."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Les thèmes sport et animation des quartiers m'intéressent, donc j'en parlerais à mes amis, mais je vote rarement sans un rappel."
+    }
+  ]
+}

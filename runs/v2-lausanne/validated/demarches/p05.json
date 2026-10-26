@@ -1,0 +1,65 @@
+{
+  "id": "p05",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Je ne fréquente pas Sauvabelin et je n'ai aucune raison de répondre à un sondage sur une auberge qui ne me concerne pas."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "En 2019 je ne connaissais pas encore ce budget participatif et je n'ai vu aucune urne sur mon chemin, donc je n'ai sans doute pas voté."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Entre le Covid, mon travail et ma compagne, je ne me suis pas penché sur des projets de quartier, et je me méfie un peu des démarches organisées par la Ville."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Un sondage en ligne de cinq minutes pourrait m'intéresser si je tombe dessus, mais je ne suis pas allé chercher l'information sur le site de la Ville."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin arrive dans la boîte aux lettres et je pourrais le remplir si un projet proche de chez moi me parle, mais le plus souvent je le mets de côté."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.15,
+      "partage_proba": 0.25,
+      "raison": "La fermeture des quais à la circulation me gêne, donc je répondrais peut-être au questionnaire pour dire mon avis, et j'en parlerais sans doute à des collègues ou à ma compagne."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.07,
+      "raison": "Je m'intéresse peu à ce budget participatif et je ne vote que si le bulletin me tombe sous la main et si un projet me paraît vraiment utile."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Ce genre de consultation sur un thème de société ne me concerne pas vraiment, et je n'ai pas envie de remplir un questionnaire sur ce sujet."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "Je retourne parfois le bulletin nominatif, mais la plupart des projets ne me touchent pas assez pour prendre le temps de cocher trois choix."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Les thèmes de cette édition, convivialité et animation culturelle, m'intéressent peu, donc je ne voterai probablement pas."
+    }
+  ]
+}

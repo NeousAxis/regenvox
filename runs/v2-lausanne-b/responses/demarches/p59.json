@@ -1,0 +1,65 @@
+{
+  "id": "p59",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "En 2017 je ne suivais pas les réseaux de la Ville, je n'ai pas vu l'annonce, et un atelier de trois heures le samedi après-midi ne correspondait pas à mes habitudes."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.15,
+      "partage_proba": 0.2,
+      "raison": "Un budget participatif pour les quartiers me plaît et les Verts en parlaient, donc je pourrais voter en ligne ou à l'urne, mais je n'ai pas déposé de projet et je ne suis pas sûre de m'être mobilisée à temps."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "Pendant le Covid je sortais peu et les stands du marché ne m'attiraient pas, mais un vote en ligne m'aurait peut-être décidée si un proche me l'avait rappelé."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.16,
+      "partage_proba": 0.1,
+      "raison": "Un sondage de cinq minutes sur mon quartier me plairait, mais je n'ai pas forcément vu l'annonce et je ne sortais pas pour les soirées d'information pendant la pandémie."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.25,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin affranchi arrive chez nous pour la première fois et il me rappellera de voter, mais je devrai choisir trois projets que je connais, et je n'ai pas le réflexe d'en parler avec mes voisins."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Je marche parfois au bord du lac mais je fréquente peu les quais d'Ouchy, et un questionnaire sur la fermeture de ces quais aux voitures ne me concerne pas beaucoup."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.24,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin affranchi arrive à domicile et je pourrais le remplir tranquillement, mais je n'ai pas suivi les projets de près et j'en parle peu autour de moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Le racisme me révolte, mais ce questionnaire sans visée scientifique se faisait surtout en ligne ou dans des lieux que je ne fréquente pas, et l'annonce ne m'a pas atteinte directement."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.27,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin nominatif arrive chez moi et je choisirais volontiers quelques projets de quartier, mais je le remplirais sans doute à la dernière minute et ce n'est pas un sujet de conversation pour moi."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.22,
+      "partage_proba": 0.12,
+      "raison": "J'aime les projets de convivialité et de liens entre générations, et le bulletin arrive à domicile, mais je ne suis pas certaine de le renvoyer sans un coup de pouce de ma famille."
+    }
+  ]
+}

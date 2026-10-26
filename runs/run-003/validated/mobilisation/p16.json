@@ -1,0 +1,39 @@
+{
+  "id": "p16",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants prévue sur place pendant les deux heures et demie, et un samedi matin plutôt qu'un soir de semaine."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.015,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Savoir que le bio acheté à la ferme du village ne coûte pas plus cher pour les produits de base, et pouvoir commander sans faire le tour des fermes."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Une question claire sur ce qui change concrètement pour mes enfants dans le village, et un engagement de la commune que je peux vérifier dans deux ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Que les enfants soient invités à l'événement, ou une action concrète qui fasse vivre les fermes, pas seulement une plaque ou un discours."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone quand les enfants dorment, sans personne en face : je n'ai pas de temps libre en semaine ni le soir, et je n'aurais pas peur de dire une bêtise dans un questionnaire."
+}

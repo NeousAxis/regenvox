@@ -1,0 +1,95 @@
+{
+  "id": "p34",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Il faut une armée qui tient debout et des avions en état pour défendre le pays. Les compensations industrielles promises aux entreprises suisses comptent aussi pour moi."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le mariage entre un homme et une femme doit rester la base de la famille. Je trouve normal que les couples mariés ne soient pas désavantagés par rapport aux autres, surtout pour les impôts et les assurances."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas une hausse de la TVA qui touche tout le monde, et la retraite des femmes à 65 ans est passée dans le même paquet. Je vote non à ce paquet imposé d'en haut."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.9,
+      "oui_proba": 0.9,
+      "raison": "La Suisse doit rester maîtresse de ses lois, et le peuple doit l'emporter sur des juges étrangers et sur des traités signés sans nous demander. C'est une question de démocratie que je défends depuis longtemps."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.9,
+      "oui_proba": 0.75,
+      "raison": "Je veux que la Suisse règle elle-même l'immigration. La libre circulation a trop mis la pression sur les salaires et les places de travail dans l'industrie, donc je vote oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.85,
+      "oui_proba": 0.8,
+      "raison": "Une défense aérienne moderne est indispensable, et il faut un plafond de dépense clair avec le choix du modèle laissé au Conseil fédéral. Je soutiens l'armée et l'industrie, même si la facture reste lourde."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible au bien-être des animaux, mais une interdiction générale de la recherche me paraît excessive, car la médecine et la sécurité des produits en dépendent. Ce texte radical fixe trop de choses d'en haut."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "La plupart des éleveurs laitiers de la région travaillent déjà dans le respect des animaux. Je ne veux pas qu'on impose des normes Bio Suisse à tous en vingt-cinq ans et qu'on pénalise nos paysans, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "L'AVS me concerne directement puisque j'approche de la retraite, mais je n'aime pas qu'on augmente la TVA pour la financer. La retraite des femmes à 65 ans me paraît aussi difficile à avaler, je suis partagé et je vote plutôt non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "La neutralité armée a protégé la Suisse pendant des générations. Je ne veux ni alliance militaire ni sanctions qui nous lient à des guerres qui ne sont pas les nôtres, donc je vote oui."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Produire davantage chez nous, je suis d'accord, c'est une question de sécurité et de travail pour nos paysans. Mais réduire les aliments d'origine animale et les engrais touche directement nos exploitations laitières, et ça sent la norme venue d'en haut, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente AVS est acquise et j'approche de l'âge de la retraite, donc je comprends l'enjeu. Les denrées alimentaires et les médicaments restent épargnés, mais je paie quand même la hausse sur tout le reste, je suis partagé."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le bruit des pétards affole les bêtes et dérange bien du monde, les éleveurs me le disent. Mais je n'aime pas les interdictions décidées en ville, et les exceptions pour le 1er août me conviendraient, donc je suis partagé et plutôt contre une interdiction générale."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Le couple marié doit être protégé et ne pas payer plus d'impôts que les autres contribuables. Je soutiens l'imposition commune, parce que la discrimination du mariage ne doit pas continuer."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Nos entreprises doivent pouvoir exporter, c'est du travail pour les ouvriers et les techniciens comme moi. Tant que la neutralité reste respectée et que les règles restent strictes, je soutiens cet assouplissement."
+    }
+  ]
+}

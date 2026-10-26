@@ -1,0 +1,125 @@
+{
+  "id": "p34",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "La surveillance de masse et l'armement m'inquiètent, mais ce débat d'étudiants lausannois autour d'un forum de l'EPFL me paraît lointain et je ne le croise pas souvent."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.18,
+      "partage_proba": 0.3,
+      "raison": "Les canicules de cet été m'ont marqué et un plan climat sérieux me paraît nécessaire, mais je signe rarement une lettre ouverte de coalition, alors je la partagerais surtout si elle circule déjà autour de moi."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.35,
+      "raison": "Je suis opposé à l'initiative de l'UDC et l'argument du droit impératif me parle, mais je ne signe que les campagnes que je vois revenir plusieurs fois, donc je ne suis pas sûr de passer à l'acte."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.04,
+      "partage_proba": 0.12,
+      "raison": "Je défends la liberté de débat et je me méfie des procédures-bâillon, mais cette affaire genevoise, liée au conflit à Gaza, me rend réticent à prendre position par une pétition."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.2,
+      "raison": "Le détournement du protoxyde d'azote chez les jeunes m'inquiète et une interdiction de la vente me paraît logique, mais c'est une affaire genevoise que je ne croise pas à Yverdon."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.2,
+      "raison": "Mon deuxième pilier me concerne et je suis sensible au climat après cet été, mais je ne sais pas comment ma caisse investit et une pétition de professionnels de la santé adressée à la surveillance ne me pousse pas à signer."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Les primes d'assurance maladie me pèsent, mais ce texte se présente lui-même comme fictif, ne dit pas clairement qui paie et je ne signe pas une proposition aussi floue."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "L'AVS me préoccupe et je ne veux pas que la hausse de la TVA soit la seule réponse, mais cette pétition des Jeunes Vert'libéraux, qui réclame une durée de cotisation et la légalisation du cannabis, ne correspond pas à ma vision de la solidarité."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je ne suis pas de Versoix et ce local social genevois ne me concerne pas, donc je ne vois aucune raison de signer ou de transmettre cette pétition."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.25,
+      "raison": "Ce témoignage m'émeut et le besoin de protection après un deuil me paraît légitime, mais je ne suis pas directement concerné, alors je signerais surtout si ma compagne m'en parlait."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.07,
+      "partage_proba": 0.15,
+      "raison": "Imposer un diagnostic psychiatrique avant toute psychothérapie me paraît contre-productif, mais je ne suis pas en traitement et je signe rarement des pétitions adressées aux parlementaires."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Une collection d'agrumes à Borex, loin de chez moi, ne me touche pas assez pour signer ou partager cette pétition."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Les violences domestiques me révoltent et l'absence de maison d'accueil dans le Jura est un vrai problème, mais le canton est loin de Yverdon et je ne signe ce type de texte que lorsque j'ai un cas proche."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Les canicules me pèsent et des aménagements de fraîcheur sont utiles, mais ce tram concerne Lausanne et la pétition vient d'une section locale d'un parti que je ne soutiens pas spontanément."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.12,
+      "partage_proba": 0.25,
+      "raison": "Renvoyer des personnes vers un pays où l'on rapporte tortures et exécutions me révolte, mais je ne connais pas de réfugiés burundais et je ne signe pas souvent ce genre de pétition, sauf si une histoire me touche."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je connais le système des CFC par mon travail et un allongement à quatre à six ans avec une charge réduite me paraît peu réaliste pour les entreprises, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.13,
+      "partage_proba": 0.22,
+      "raison": "Filmer des gens à leur insu dans une piscine ou un vestiaire me révolte et je suis favorable à un encadrement strict, mais une interdiction totale de la vente me paraît excessive, donc je ne signerais qu'après une lecture attentive."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "Les étés de 2026 m'ont convaincu qu'il faut agir sur le climat et plusieurs mesures me parlent, mais cet appel général contient beaucoup d'exigences et je signe rarement ce genre de texte sans y être invité directement."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Je m'oppose à la suppression des fonds d'adaptation des forêts défendue par Albert Rösti et cette adaptation me paraît logique, mais la pétition reste abstraite pour moi et je ne m'implique pas beaucoup dans les questions forestières."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.08,
+      "partage_proba": 0.25,
+      "raison": "Les abus facilités par la drogue sont un problème grave et une coopération avec Europol me paraît utile, mais cette pétition repose surtout sur des cas médiatiques et je ne la signerais que si un de mes proches était touché."
+    }
+  ]
+}

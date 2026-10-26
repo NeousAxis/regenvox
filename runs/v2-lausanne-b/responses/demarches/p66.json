@@ -1,0 +1,15 @@
+{
+  "id": "p66",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "À 20 ans, je ne fréquentais pas Sauvabelin, et le sondage n'était annoncé que sur le site de la Ville et ses réseaux : je ne l'ai ni rempli ni évoqué autour de moi."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "À 22 ans, je suivais de loin la vie de la Ville : j'ai vaguement entendu parler de ce budget participatif pilote, mais sans savoir où voter ni de quoi il s'agissait, je n'ai pas participé."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.06, "raison": "À 23 ans, le budget participatif ne m'intéressait pas assez pour que je m'organise, et le vote pendant la pandémie a rendu l'affaire encore plus lointaine."},
+    {"item_id": "lau10", "participe_proba": 0.10, "partage_proba": 0.08, "raison": "Un sondage en ligne de cinq minutes sur le visage de mon quartier m'aurait peut-être tenté, mais à 23 ans, en plein confinement, je ne l'ai pas vu passer et je n'en ai pas parlé."},
+    {"item_id": "lau03", "participe_proba": 0.08, "partage_proba": 0.07, "raison": "Le bulletin affranchi dans la boîte aux lettres a attiré mon attention, mais à 24 ans je l'ai laissé traîner sur la table sans voter ni déposer de projet, faute de temps."},
+    {"item_id": "lau08", "participe_proba": 0.10, "partage_proba": 0.08, "raison": "Je passe parfois sur les quais d'Ouchy, et un questionnaire d'une quinzaine de questions sur la fermeture au trafic m'aurait intéressé, mais je ne l'ai pas vu pendant le mois où il était ouvert."},
+    {"item_id": "lau04", "participe_proba": 0.08, "partage_proba": 0.07, "raison": "À 25 ans, le bulletin nominatif envoyé à domicile m'a rappelé la démarche, mais je ne vote pas pour les petits projets de quartier et je l'ai finalement mis de côté."},
+    {"item_id": "lau09", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Une consultation sur le racisme ouverte à tous ne me concernait pas directement, et je n'ai pas croisé de questionnaire papier dans les lieux que je fréquente, donc je n'ai pas répondu."},
+    {"item_id": "lau05", "participe_proba": 0.07, "partage_proba": 0.08, "raison": "Le bulletin nominatif reçu à la maison m'a rappelé la démarche à 26 ans, mais je ne vote que pour les projets qui touchent directement mon quartier, ce qui arrive rarement, et je n'en ai guère parlé autour de moi."},
+    {"item_id": "lau06", "participe_proba": 0.06, "partage_proba": 0.10, "raison": "À 28 ans, j'ai vu le bulletin préaffranchi arriver avec le courrier, mais entre le travail et la famille je n'ai pas pris le temps de comparer les projets, et je n'ai rien voté, même si j'en ai parlé avec mes proches."}
+  ]
+}

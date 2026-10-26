@@ -1,0 +1,15 @@
+{
+  "id": "p39",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.012, "partage_proba": 0.03, "raison": "À vingt ans, je ne fréquentais pas Sauvabelin et le sondage visait surtout les usagers du lac, donc je ne m'y suis probablement pas intéressé."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.06, "raison": "Premier budget participatif très peu relayé, avec un vote en ligne ou en urne sans bulletin à domicile, et je n'avais ni projet de quartier ni réseau pour le porter."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.07, "raison": "Pendant la pandémie la démarche était peu visible, et le dépôt de projets demandait un groupe d'au moins trois personnes que je n'avais pas."},
+    {"item_id": "lau10", "participe_proba": 0.06, "partage_proba": 0.03, "raison": "Le sondage de cinq minutes était facile, mais le plan d'affectation me touchait peu et les rencontres en présentiel étaient rares pendant la crise sanitaire."},
+    {"item_id": "lau03", "participe_proba": 0.10, "partage_proba": 0.12, "raison": "Le bulletin préaffranchi envoyé à domicile rend le vote simple, mais je n'avais pas de projet à défendre et je suivais peu la vie municipale."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Le questionnaire sur la fermeture des quais visait surtout les usagers et les commerçants d'Ouchy, et je ne m'en sentais pas concerné."},
+    {"item_id": "lau04", "participe_proba": 0.11, "partage_proba": 0.11, "raison": "Le bulletin nominatif à domicile rappelle le vote, mais sans projet personnel ni relais dans mon quartier je ne vote pas à chaque édition."},
+    {"item_id": "lau09", "participe_proba": 0.10, "partage_proba": 0.16, "raison": "En tant que personne étrangère résidant en Suisse, le sujet me touche directement, mais la consultation était peu visible et je n'ai pas forcément franchi le pas."},
+    {"item_id": "lau05", "participe_proba": 0.13, "partage_proba": 0.09, "raison": "Le bulletin nominatif m'arrive comme à tout habitant dès quatre ans, mais voter reste une démarche que je fais rarement sans y être poussé par mon entourage."},
+    {"item_id": "lau06", "participe_proba": 0.09, "partage_proba": 0.08, "raison": "Le bulletin à domicile est pratique, mais je ne suis pas un habitant engagé dans les démarches de la ville et le vote d'août et septembre passe souvent inaperçu."}
+  ]
+}

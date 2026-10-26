@@ -1,0 +1,39 @@
+{
+  "id": "p23",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.08,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Un engagement écrit de la commune sur le revenu des fermes qui passent au bio, présenté avant tout objectif de surfaces."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Que l'atelier se tienne à la ferme, avec une visite des prairies et des bêtes, et non à la salle communale."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.09,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.18,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'annonce à l'avance que le revenu et la relève seront au centre de l'atelier, avec des paysans qui décident."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Un paiement à sa juste valeur de ce que nous faisons déjà pour l'eau et les prairies, sans nouveau contrôle à la clé."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le moins contraignant : dix minutes à faire une fois les bêtes rentrées, sans bloquer la traite. Je ne viendrai pas à des séances du soir, et un questionnaire ne règle pas la question du revenu."
+}

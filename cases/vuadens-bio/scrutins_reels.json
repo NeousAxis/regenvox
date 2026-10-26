@@ -1,0 +1,93 @@
+{
+ "_note": "Résultats officiels lus dans les données ouvertes OFS / Chancellerie fédérale le 25.10.2026. Seuls les rôles analogue servent à la correction ; les hors_echantillon servent uniquement à la comparaison finale.",
+ "resultats": [
+  {
+   "vote_id": "a2014-gripen",
+   "vuadens_oui": 36.94,
+   "vuadens_participation": 59.27,
+   "fribourg_oui": 40.6,
+   "suisse_oui": 46.59,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140518-eidgAbstimmung.json (objet 5840, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2016-couple",
+   "vuadens_oui": 53.97,
+   "vuadens_participation": 67.46,
+   "fribourg_oui": 53.6,
+   "suisse_oui": 49.16,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20160228-eidgAbstimmung.json (objet 5960, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2017-avs-tva",
+   "vuadens_oui": 49.44,
+   "vuadens_participation": 42.1,
+   "fribourg_oui": 56.09,
+   "suisse_oui": 49.95,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20170924-eidgAbstimmung.json (objet 6140, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2018-autodetermination",
+   "vuadens_oui": 29.63,
+   "vuadens_participation": 43.65,
+   "fribourg_oui": 27.31,
+   "suisse_oui": 33.73,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6240, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2020-limitation",
+   "vuadens_oui": 38.5,
+   "vuadens_participation": 58.87,
+   "fribourg_oui": 35.44,
+   "suisse_oui": 38.29,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6310, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2020-avions",
+   "vuadens_oui": 43.21,
+   "vuadens_participation": 59.69,
+   "fribourg_oui": 45.65,
+   "suisse_oui": 50.13,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6350, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2022-experimentation",
+   "vuadens_oui": 19.22,
+   "vuadens_participation": 35.67,
+   "fribourg_oui": 20.65,
+   "suisse_oui": 20.86,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220213-eidgAbstimmung.json (objet 6510, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2022-elevage",
+   "vuadens_oui": 18.03,
+   "vuadens_participation": 56.54,
+   "fribourg_oui": 27.06,
+   "suisse_oui": 37.13,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6580, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "a2022-avs-tva",
+   "vuadens_oui": 45.49,
+   "vuadens_participation": 56.23,
+   "fribourg_oui": 48.25,
+   "suisse_oui": 55.07,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6590, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "h2026-neutralite",
+   "vuadens_oui": 28.17,
+   "vuadens_participation": 41.59,
+   "fribourg_oui": 28.89,
+   "suisse_oui": 29.84,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6880, geoLevelnummer 2160)"
+  },
+  {
+   "vote_id": "h2026-alimentation",
+   "vuadens_oui": 23.18,
+   "vuadens_participation": 41.53,
+   "fribourg_oui": 28.32,
+   "suisse_oui": 27.47,
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6890, geoLevelnummer 2160)"
+  }
+ ]
+}

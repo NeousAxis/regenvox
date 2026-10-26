@@ -1,0 +1,29 @@
+{
+  "id": "p24",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.1,
+      "raison": "L'UDC et les autorités disent non, et je ne vois pas pourquoi l'État paierait 20 millions par an pour une dépense que chacun doit assumer lui-même."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.35,
+      "raison": "Les bouchons à la frontière me gênent, mais je ne veux pas que l'argent des contribuables suisses finance des bus et des trams en France, surtout après le refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je suis attaché à la propriété, mais je crains les congés-ventes et la disparition de logements locatifs abordables, et mon parti appelle à voter non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Mon parti soutient la HES et une économie de 2 millions par an me paraît raisonnable, même si je ne suis pas un grand connaisseur de ces questions."
+    }
+  ]
+}

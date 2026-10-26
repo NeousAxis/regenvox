@@ -1,0 +1,197 @@
+{
+  "id": "p45",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.82,
+      "raison": "L'AVS doit être financée et le PDC soutient ce relèvement, donc je voterai oui même si la TVA pèse un peu sur mon budget."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.72,
+      "raison": "Je soutiens l'AI pour les personnes handicapées et la hausse est temporaire, donc je suis plutôt favorable même si la TVA ne me réjouit pas."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "J'aime l'idée de paix, mais interdire l'exportation pénaliserait des emplois de l'industrie suisse et le PDC recommande non, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Le service militaire obligatoire fait partie de notre tradition et le PDC recommande non, donc je voterai non à son abolition."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.4,
+      "raison": "Je vois la pression sur nos villages et nos routes, mais toucher aux accords avec l'UE me semble risqué pour nos emplois et le PDC recommande non, donc je reste hésitante à voter oui."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Notre armée doit être équipée et le PDC soutient l'achat, mais le prix est élevé, donc je vote oui sans enthousiasme."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je trouve injuste que les couples mariés soient plus lourdement imposés que les autres, et le PDC soutient cette initiative, donc je voterai oui même si le Conseil fédéral recommande non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Le financement de l'AVS est nécessaire et le PDC soutient la réforme, mais le relèvement de l'âge de la retraite des femmes me touche directement, donc mon oui reste hésitant."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je suis attachée au bien-être des animaux, mais verser de l'argent fédéral pour laisser des cornes aux vaches me paraît accessoire et le PDC recommande non, donc je voterai probablement non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.75,
+      "oui_proba": 0.25,
+      "raison": "La Suisse doit tenir ses engagements avec ses voisins, et le PDC recommande non, donc je vote non à cette initiative."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Les exceptions pour les tireurs et l'arme d'ordonnance me rassurent et le PDC soutient cette reprise de règles européennes, donc je vote oui même si Schengen m'éloigne un peu."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.2,
+      "raison": "Mettre fin à la libre circulation avec l'UE fragiliserait nos entreprises et nos échanges, et le PDC recommande non, donc je voterai non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Les attaques de loups sur les bêtes de nos alpages et de nos agriculteurs sont un vrai problème, donc je soutiens une loi qui permet de réguler plus vite."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "L'armée doit disposer d'avions modernes et le PDC soutient cet achat, mais six milliards représentent beaucoup d'argent, donc je vote oui avec réserve."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas qu'on interdise à la Banque nationale ou aux caisses de pension de financer des entreprises industrielles suisses, et le PDC recommande non, donc je voterai non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "L'eau potable me tient à cœur, mais ces conditions mettraient en difficulté nos agriculteurs et viticulteurs de la commune et le Centre recommande non, donc je voterai non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible aux risques des produits chimiques, mais une interdiction en dix ans mettrait la viticulture valaisanne en difficulté et le Centre recommande non, donc je voterai non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Le Centre soutient le mariage pour tous et chacun doit pouvoir se marier, même si j'ai grandi dans une tradition plus stricte, donc je pencherais pour oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible au bien-être des animaux, mais je ne veux pas freiner la recherche médicale qui protège nos proches, donc je voterai non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "La sécurité des frontières de l'espace Schengen me paraît raisonnable à soutenir et le Centre recommande oui, donc je voterai oui sans trop d'hésitation."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je comprends le souci du bien-être animal, mais imposer les exigences du Bio à toutes les fermes et aux importations me semble irréaliste, donc je voterai non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.6,
+      "raison": "L'AVS doit être financée et les mesures de compensation me rassurent, mais je suis directement concernée par l'âge de la retraite des femmes, donc mon oui reste partagé."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "J'aime la nature de notre coteau, mais l'initiative prendrait trop de terres aux agriculteurs de la commune et le Centre recommande non, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.75,
+      "oui_proba": 0.35,
+      "raison": "Le Centre s'oppose à l'imposition individuelle parce qu'elle affaiblit la famille, et je partage ce souci, donc je voterai non."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "La croissance de la population me préoccupe pour nos villages et nos infrastructures, mais dénoncer la libre circulation mettrait en péril nos emplois et le Centre recommande non, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Il est normal que ceux qui ont été incorporés finissent leur service, et le Centre soutient ce durcissement, donc je voterai oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je tiens à notre neutralité, mais l'inscrire dans la Constitution de façon figée me paraît trop rigide et le Centre recommande non, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Manger local me touche, surtout pour nos producteurs de la commune, mais l'objectif de 70 % en dix ans me paraît irréaliste et le Centre recommande non, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Je serai bientôt à la retraite et la 13e rente est une bonne chose pour nos budgets, donc je soutiens son financement par la TVA."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Les pétards m'agacent et effraient les animaux, mais les fêtes du village et le 1er août en ont besoin, donc je ne sais pas encore trancher et je penche légèrement pour oui."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "Je veux que les couples mariés ne soient pas désavantagés par rapport aux autres, et le Centre soutient cette initiative, donc je voterai oui."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Les règles d'exportation doivent rester compatibles avec la neutralité, et le Centre soutient cet assouplissement pour nos entreprises, mais je reste prudente sur les livraisons à des pays en guerre, donc je voterai oui."
+    }
+  ]
+}

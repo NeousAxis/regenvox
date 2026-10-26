@@ -1,0 +1,39 @@
+{
+  "id": "p38",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'un agriculteur de Vuadens vienne lui-même raconter en cinq minutes comment il vit de son métier, un samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un atelier qui finit avant 19 h en semaine, pour que je puisse y aller en sortant de chantier."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Un sujet concret, comme ce que deviendront les terrains autour de mon quartier dans dix ans, plutôt que dans trente."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Voir sur place une ferme de Vuadens, pour comprendre concrètement ce qu'elle fait pour la terre."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le format en ligne est le seul que je peux caser dans mes journées : dix minutes sur mon téléphone, le soir ou entre deux chantiers, sans horaire ni groupe à rejoindre. Je ne suis pas certaine que je le remplirai, mais c'est le moins lourd. L'atelier demande une soirée ou un samedi matin que je n'ai en général pas, et le parcours en trois séquences représente trois engagements à tenir."
+}

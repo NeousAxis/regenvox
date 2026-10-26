@@ -1,0 +1,25 @@
+{
+  "id": "p16",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.01, "partage_proba": 0.15, "raison": "Le débat sur Palantir et Forum EPFL concerne surtout des étudiant·es lausannois·es, donc je ne signerais probablement pas, et je n'en parlerais guère autour de moi."},
+    {"item_id": "pet02", "participe_proba": 0.08, "partage_proba": 0.35, "raison": "Les canicules et la sécheresse de cet été ont frappé mes vignes et mes cultures, donc si je signe, je le partage volontiers avec les autres agriculteurs de la région."},
+    {"item_id": "pet03", "participe_proba": 0.03, "partage_proba": 0.25, "raison": "Demander à l'Assemblée fédérale d'invalider une initiative populaire relève d'un débat juridique et politique qui ne me touche pas directement."},
+    {"item_id": "pet04", "participe_proba": 0.01, "partage_proba": 0.10, "raison": "L'affaire du député genevois et de la CICAD se joue loin de mon quotidien à Savièse, et je ne suis engagé dans aucun camp sur ce sujet."},
+    {"item_id": "pet05", "participe_proba": 0.02, "partage_proba": 0.25, "raison": "Le protoxyde d'azote touche surtout les jeunes des villes, je ne signe pas une pétition genevoise, mais je pourrais la partager si un ami s'en inquiète."},
+    {"item_id": "pet06", "participe_proba": 0.03, "partage_proba": 0.15, "raison": "Les placements des caisses de pension restent abstraits pour moi à 24 ans, même si les canicules me préoccupent, je n'y vois pas de lien direct avec ma vie."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.10, "raison": "Le texte se présente lui-même comme un projet fictif de réforme de l'assurance maladie cantonale, je ne peux pas le juger et je passe mon chemin."},
+    {"item_id": "pet08", "participe_proba": 0.10, "partage_proba": 0.30, "raison": "Mon avenir d'agriculteur et les cotisations qui pèsent sur mon exploitation me font penser à l'AVS, mais je n'attends pas grand-chose d'une pétition de jeunes Vert'libéraux."},
+    {"item_id": "pet09", "participe_proba": 0.005, "partage_proba": 0.05, "raison": "Versoix est une commune genevoise sans lien avec mon village, et les anciens locaux Fust ne me concernent pas."},
+    {"item_id": "pet10", "participe_proba": 0.01, "partage_proba": 0.30, "raison": "Le témoignage est bouleversant et le deuil périnatal me touche, mais je ne me sens pas concerné par cette protection juridique, donc je ne signerais pas, même si j'en parlerais à ma famille."},
+    {"item_id": "pet11", "participe_proba": 0.01, "partage_proba": 0.15, "raison": "L'accès à la psychothérapie est un sujet important, mais il relève d'un vote au Conseil national que je ne suis pas en position de suivre de près."},
+    {"item_id": "pet12", "participe_proba": 0.05, "partage_proba": 0.25, "raison": "En tant que producteur, je comprends les difficultés à financer des serres et des collections, donc je peux signer une pétition sur une ferme agricole, mais Borex est loin de chez moi."},
+    {"item_id": "pet13", "participe_proba": 0.01, "partage_proba": 0.10, "raison": "Le manque de maisons d'accueil pour femmes dans le Jura me révolte, mais je n'ai pas de lien avec ce canton et je ne signe pas les pétitions de Campax."},
+    {"item_id": "pet14", "participe_proba": 0.01, "partage_proba": 0.10, "raison": "Le tram lausannois et la fraîcheur des arrêts ne me concernent pas directement, même si la chaleur de l'été m'a marqué."},
+    {"item_id": "pet15", "participe_proba": 0.01, "partage_proba": 0.15, "raison": "Les expulsions de réfugiés burundais relèvent du droit d'asile et d'un débat fédéral dans lequel je ne me reconnais pas assez pour signer."},
+    {"item_id": "pet16", "participe_proba": 0.03, "partage_proba": 0.10, "raison": "La formation à temps partiel me parle en tant qu'ancien apprenti, mais je ne vois pas en quoi une pétition nationale changerait ma situation."},
+    {"item_id": "pet17", "participe_proba": 0.04, "partage_proba": 0.30, "raison": "Les lunettes qui filment à l'insu des gens me semblent dangereuses, donc je pourrais signer et le partager sur les réseaux, mais ce n'est pas une priorité."},
+    {"item_id": "pet18", "participe_proba": 0.07, "partage_proba": 0.25, "raison": "L'appel demande de limiter le gaspillage et d'orienter les transports et l'énergie, ce qui rejoint une partie de ma pratique bio, donc je le signerais peut-être après réflexion."},
+    {"item_id": "pet19", "participe_proba": 0.12, "partage_proba": 0.35, "raison": "Les forêts valaisannes et les feux extrêmes me préoccupent directement, et couper les fonds d'adaptation me paraît absurde, donc c'est la pétition qui a le plus de chances de me convaincre."},
+    {"item_id": "pet20", "participe_proba": 0.02, "partage_proba": 0.20, "raison": "Les abus facilités par la drogue sont un sujet grave, mais le texte parle de réseaux et de coopération internationale qui sortent de mon champ, donc je n'agirais pas sans plus d'information."}
+  ]
+}

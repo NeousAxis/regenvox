@@ -1,0 +1,17 @@
+{
+  "id": "p05",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "En mai 2025 mes chantiers occupaient toutes mes journées, et un questionnaire de 28 questions sur un quartier qui n'existe pas encore m'aurait paru trop long pour y consacrer une soirée, sauf si le sujet m'avait touché de près."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Ce sondage en ligne ouvert pendant l'hiver ne m'a pas accroché, car je ne l'ai pas vu passer dans mon quotidien d'artisan et les démarches de la commune restent loin de mes préoccupations, même si je pourrais le remplir par curiosité si quelqu'un me le montrait."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "p26",
+  "portrait": "Je suis Suisse, j'ai 26 ans et je travaille dans la santé ou le social, un métier où les horaires et les dossiers s'enchaînent. Je vis seule dans un quartier résidentiel récent de Vuadens et je me sens proche du PS : l'alimentation et la nature me touchent, mais le bio n'est pas au centre de mon quotidien, et je me méfie un peu des projets décidés d'en haut.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Si les paysans peuvent vivre correctement du bio, je suis pour. Je ne vois pas encore très bien comment on y arrive, mais la question du revenu me parle. »",
+      "engagement": 1,
+      "freins_participation": [
+        "peu de temps entre mes horaires irréguliers",
+        "je ne connais pas le milieu agricole de la commune",
+        "je doute que la commune ait réellement la main sur les prix"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que gagne une ferme bio de la commune, et une visite sur place plutôt qu'une réunion en soirée."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter directement aux fermes de Vuadens, pourquoi pas. Mais si c'est plus cher, je ne tiendrai pas sur la durée. »",
+      "engagement": 2,
+      "freins_participation": [
+        "budget limité quand on vit seule",
+        "horaires irréguliers qui rendent les engagements réguliers difficiles",
+        "je ne sais pas à qui m'adresser dans la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Une offre concrète et simple, par exemple un panier à prix fixe ou une possibilité de rencontrer les fermes près de chez moi, sans engagement lourd."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« La terre dans trente ans, c'est aussi mon avenir. Mais une question aussi large reste floue pour moi si on ne me dit pas ce qui change concrètement. »",
+      "engagement": 1,
+      "freins_participation": [
+        "une question trop abstraite pour un atelier",
+        "je ne vois pas bien quel rôle j'aurais",
+        "peu de disponibilité en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Un exemple concret de ce qui changerait pour les sols et l'eau d'ici dix ans, et la possibilité de donner mon avis en ligne plutôt qu'en salle."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Reconnaître les fermes pour leur travail sur les sols, je comprends l'idée, mais ça ne me concerne pas beaucoup. Je ne vois pas ce que ça change pour moi au quotidien. »",
+      "engagement": 0,
+      "freins_participation": [
+        "un sujet qui me paraît surtout concerner les agriculteurs",
+        "pas d'effet visible dans ma vie de tous les jours",
+        "pas le temps"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de précis pour l'instant. Un événement convivial au centre du village, sans engagement, pourrait me faire venir par curiosité."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Collègues du secteur de la santé ou du social, amis de la région de Bulle, quelques voisins du quartier récent, et une partie de la famille qui vit hors du monde agricole."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "J'étais bien trop jeune pour voter."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "J'étais bien trop jeune pour voter."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.3,
+      "oui_proba": 0.8,
+      "raison": "Je venais tout juste d'atteindre l'âge de voter, je ne suis pas encore une votante régulière. Des produits équitables et écologiques me paraissent justes, même si cela peut coûter plus cher."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible à l'agriculture paysanne et sans OGM, mais les droits de douane et la protection des frontières me gênent. Je serais hésitante."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "L'eau potable et l'alimentation saine sont des enjeux que je comprends bien, surtout dans mon travail. Lier les paiements directs à des pratiques plus propres me paraît juste."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Je suis contre les pesticides de synthèse et une transition sur dix ans me paraît raisonnable. Je m'inquiète quand même pour les petites exploitations qui n'auraient pas les moyens de suivre."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je suis plutôt favorable à l'action pour le climat, mais la taxe sur les billets d'avion et les hausses sur les combustibles pèsent sur mon budget. Je pencherais pour le oui, sans certitude."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "La dignité des animaux de rente me touche. Une transition sur 25 ans me paraît acceptable, et l'exigence aussi pour les importations me semble juste."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Zéro émission nette en 2050 et des aides pour changer de chauffage vont dans le bon sens, à condition que le coût pour les ménages reste supportable."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Protéger la nature et le paysage me touche, surtout autour de chez moi. Je voterais oui, même si je vois les contraintes que cela peut poser aux agriculteurs."
+    }
+  ]
+}

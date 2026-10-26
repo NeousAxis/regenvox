@@ -1,0 +1,39 @@
+{
+  "id": "p22",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique clairement qui paie la facture et ce que la démarche change concrètement pour mon budget, avec un exemple chiffré."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.2,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une formule d'achat simple, au prix du magasin, avec un point de retrait sur mon trajet du retour : une raison concrète de m'impliquer."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un lien avec ce que je vois et mange aujourd'hui (l'eau du robinet, les produits du marché), plutôt qu'une question sur les trente prochaines années."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Que la reconnaissance soit suivie d'effets visibles dans mon quotidien, par exemple des produits locaux faciles à acheter."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, quand j'ai le temps, sans sortir le soir ni bloquer un samedi matin : c'est le seul format que je ferais vraiment. Le parcours à distance demande trois rendez-vous sur trois semaines, et je ne tiendrais pas le rythme. L'atelier de deux heures trente, je ne m'y rendrais que si un proche m'accompagne."
+}

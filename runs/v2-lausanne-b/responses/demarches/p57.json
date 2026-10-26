@@ -1,0 +1,65 @@
+{
+  "id": "p57",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "J'avais 8 ans, le sondage et les ateliers sur l'avenir de l'Auberge de Sauvabelin ne me concernaient pas, et je n'en ai probablement jamais entendu parler."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "À 10 ans, le budget participatif ne me parlait pas, je n'ai pas pensé à voter ni à déposer de projet, et je n'en ai sans doute jamais discuté."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "À 11 ans, pendant la pandémie, j'étais surtout occupé par l'école à distance et je n'ai pas remarqué la campagne de vote."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Un sondage de cinq minutes sur l'avenir du quartier aurait pu être rempli sur l'ordinateur familial, mais je n'étais pas informé et je n'en ai pas parlé."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin est arrivé à la maison et c'est surtout ma famille qui l'a rempli, mais l'école a peut-être évoqué le budget participatif avec ma classe."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le questionnaire sur la fermeture des quais s'adressait surtout aux usagers adultes, et je ne l'ai probablement pas vu passer."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Un bulletin nominatif est peut-être arrivé à la maison, mais à 13 ans le budget participatif ne m'intéressait guère et j'en ai peut-être entendu parler grâce aux jeunes ambassadeurs du quartier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.07,
+      "raison": "Le thème du racisme me concerne davantage que les autres consultations, mais à 13 ans je n'ai pas répondu à un questionnaire de la Ville et j'en ai peut-être discuté avec des amis."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "J'avais mon propre bulletin à 14 ans, mais c'est surtout ma famille qui s'occupait de ces papiers, et j'en ai parlé seulement si on le faisait ensemble."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "À 16 ans, j'avais accès au vote à domicile ou en ligne, mais le budget participatif reste un sujet secondaire pour moi et je n'en ai guère parlé autour de moi."
+    }
+  ]
+}

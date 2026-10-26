@@ -1,0 +1,17 @@
+{
+  "id": "p12",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "On nous annonce une décision déjà prise pour les dix ans à venir et on nous demande maintenant comment on va contribuer, alors que la vraie question pour nous c'est combien on sera payés pour le lait et si ça tient avec les vaches.",
+    "engagement": 1,
+    "freins_participation": [
+      "Passer en bio veut dire toute l'exploitation et deux ans de conversion sans le prix bio, avec une baisse de rendement sur les prairies",
+      "Le revenu est déjà juste avec les bâtiments et la stabulation à rembourser, on ne peut pas se permettre un trou",
+      "Rien ne garantit que la fromagerie du village paiera du lait bio, et sans débouché la conversion ne vaut rien",
+      "Décision prise par le conseil sans nous demander notre avis, ça donne envie de se méfier de la suite",
+      "Les contrôles et la paperasse en plus, avec le travail à la ferme et les enfants, on n'a pas le temps"
+    ],
+    "ce_qui_me_ferait_venir": "Un prix du lait bio garanti par la fromagerie sur plusieurs années, des aides à la conversion chiffrées, et un conseiller qui vienne voir notre exploitation pour montrer les chiffres sur notre cas."
+  }
+}

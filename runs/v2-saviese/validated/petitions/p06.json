@@ -1,0 +1,125 @@
+{
+  "id": "p06",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.003,
+      "partage_proba": 0.02,
+      "raison": "Une affaire d'étudiants lausannois qui ne me touche pas, et je ne signe pas les appels qui visent une entreprise dans un événement que je ne fréquente pas."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.12,
+      "raison": "J'ai vu les canicules et la sécheresse de cet été en Valais, mais une lettre ouverte aux Chambres ne me fait pas changer d'avis, et un plan d'urgence aux huit axes me paraît trop dirigiste."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.015,
+      "partage_proba": 0.06,
+      "raison": "Je ne suis pas d'accord avec l'UDC sur tout, mais demander au Parlement d'invalider une initiative populaire me semble contraire au vote du peuple, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.004,
+      "partage_proba": 0.03,
+      "raison": "Je connais mal cette affaire genevoise et les débats sur le Proche-Orient me sont lointains, donc je ne me sens pas concerné par cet appel."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Le protoxyde d'azote touche surtout les jeunes des villes, et je ne vois pas en quoi cela me regarde à Savièse, même si je comprends la demande d'encadrement."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Ma rente est fixée et je n'aime pas qu'on dicte aux caisses de pension où placer l'argent des cotisants, même si l'argument climatique se défend."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Une caisse cantonale me paraît être une étatisation de l'assurance-maladie, et le texte se présente lui-même comme fictif, donc je le laisse de côté."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.25,
+      "raison": "L'AVS est ma rente et je veux qu'elle tienne, mais je ne signe pas une pétition de jeunes qui mêle cannabis, tabac et réforme des cotisations, même si l'équité entre générations me touche."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.006,
+      "partage_proba": 0.05,
+      "raison": "C'est une affaire de Versoix, dans le canton de Genève, et je ne me mêle pas des décisions d'un conseil municipal qui n'est pas le mien."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.025,
+      "partage_proba": 0.12,
+      "raison": "Je ne suis pas concerné par ce vécu, mais je comprends le drame de ces familles et la protection proposée me paraît juste, sans que je me sente appelé à signer."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Je n'ai jamais eu besoin d'une psychothérapie et ces débats sur une motion au Conseil national me semblent techniques et loin de mon quotidien."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Une belle collection d'agrumes sous serre, mais je n'ai pas de lien avec Borex, et je ne signe pas les pétitions de soutien à une exploitation privée qui demande des autorisations."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.01,
+      "partage_proba": 0.07,
+      "raison": "La violence contre les femmes est inacceptable, mais le Jura est loin de Savièse et je pense que ce sont les cantons concernés qui doivent régler cela."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.008,
+      "partage_proba": 0.05,
+      "raison": "Le tram lausannois ne me concerne pas, et l'aménagement des rues de Lausanne relève des Lausannois, même si je reconnais que la chaleur est un problème."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.005,
+      "partage_proba": 0.04,
+      "raison": "Je ne connais pas la situation des réfugiés burundais, et les décisions de renvoi relèvent pour moi du Conseil fédéral et du droit d'asile, que je ne veux pas trancher par une pétition."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.012,
+      "partage_proba": 0.06,
+      "raison": "L'apprentissage à temps partiel est un sujet que je connais mal, et je pense que le système actuel fonctionne pour la plupart des jeunes."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.035,
+      "partage_proba": 0.12,
+      "raison": "Les lunettes connectées me mettent mal à l'aise et l'idée d'être filmé à son insu est désagréable, mais une interdiction nationale d'un produit me paraît excessive."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Un appel général contre le gaspillage me paraît vague, et je n'aime pas les mesures qui imposeraient des interdictions aux entreprises et aux consommateurs."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.06,
+      "partage_proba": 0.2,
+      "raison": "Je vois les forêts de Savièse souffrir de la sécheresse et je connais le risque d'incendie, donc la question me touche, même si je me méfie des pétitions qui contredisent un projet fédéral sans chiffres précis."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Les abus facilités par la drogue sont un danger réel et je trouve légitime que l'État protège les victimes, mais le texte reste vague sur les moyens et je ne signe pas facilement."
+    }
+  ]
+}

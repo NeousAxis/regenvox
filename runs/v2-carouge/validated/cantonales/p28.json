@@ -1,0 +1,29 @@
+{
+  "id": "p28",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.62,
+      "oui_proba": 0.82,
+      "raison": "Une contraception gratuite me paraît juste, surtout pour les personnes qui n'ont pas de revenu, et je fais davantage confiance aux Vert-e-s qu'au Conseil d'État sur ce sujet."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.58,
+      "oui_proba": 0.62,
+      "raison": "Moins de voitures à la frontière et un meilleur entretien de l'Arve me paraissent utiles, même si je me souviens du refus de 2014 et que je reste prudente sur l'argent envoyé en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je loue sans doute mon appartement et je crains que les congés-ventes fassent disparaître des logements abordables, comme le disent l'ASLOCA et les Vert-e-s, donc je vote probablement non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.52,
+      "oui_proba": 0.3,
+      "raison": "Une école qui forme les soignants mérite un financement solide, mais je partage plutôt l'avis des Vert-e-s et du PS qui demandent de maintenir le budget, sans être sûre que j'irai voter."
+    }
+  ]
+}

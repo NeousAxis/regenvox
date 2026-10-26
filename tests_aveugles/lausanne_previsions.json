@@ -1,0 +1,76 @@
+{
+  "ecrit_le": "2026-10-25T15:46:46.406Z",
+  "run": "v2-lausanne",
+  "previsions": [
+    {
+      "id": "lau01",
+      "annee": 2019,
+      "nom": "Budget participatif de la Ville de Lausanne, 1re édition (projet pilote 2019)",
+      "taux_prevu_16_plus": 0.0457,
+      "naif_participants_estimes": 3000
+    },
+    {
+      "id": "lau02",
+      "annee": 2020,
+      "nom": "Budget participatif de la Ville de Lausanne, 2e édition (2020)",
+      "taux_prevu_16_plus": 0.0552,
+      "naif_participants_estimes": 3500
+    },
+    {
+      "id": "lau03",
+      "annee": 2021,
+      "nom": "Budget participatif de la Ville de Lausanne, 3e édition (2021)",
+      "taux_prevu_16_plus": 0.1395,
+      "naif_participants_estimes": 8000
+    },
+    {
+      "id": "lau04",
+      "annee": 2022,
+      "nom": "Budget participatif de la Ville de Lausanne, 4e édition (2022)",
+      "taux_prevu_16_plus": 0.1277,
+      "naif_participants_estimes": 12000
+    },
+    {
+      "id": "lau05",
+      "annee": 2023,
+      "nom": "Budget participatif de la Ville de Lausanne, 5e édition (2023)",
+      "taux_prevu_16_plus": 0.1473,
+      "naif_participants_estimes": 14000
+    },
+    {
+      "id": "lau06",
+      "annee": 2025,
+      "nom": "Budget participatif de la Ville de Lausanne, 6e édition (vote 2025)",
+      "taux_prevu_16_plus": 0.125,
+      "naif_participants_estimes": 13000
+    },
+    {
+      "id": "lau07",
+      "annee": 2017,
+      "nom": "Quel avenir pour les établissements publics du lac de Sauvabelin ? (consultation de la population et des usagers)",
+      "taux_prevu_16_plus": 0.0232,
+      "naif_participants_estimes": 450
+    },
+    {
+      "id": "lau08",
+      "annee": 2021,
+      "nom": "Fermeture des quais d'Ouchy et de Belgique au trafic : sondage en ligne de satisfaction (Lausanne sonde sa population)",
+      "taux_prevu_16_plus": 0.0402,
+      "naif_participants_estimes": 4000
+    },
+    {
+      "id": "lau09",
+      "annee": 2022,
+      "nom": "Consultation en ligne « Réinventons ensemble nos actions contre le racisme » (Ville de Lausanne et Bureau lausannois pour les immigrés)",
+      "taux_prevu_16_plus": 0.0643,
+      "naif_participants_estimes": 300
+    },
+    {
+      "id": "lau10",
+      "annee": 2020,
+      "nom": "Lausanne 2030 : « Quel visage pour votre quartier en 2030 ? » (démarche participative pour la révision du Plan d'affectation communal, PACom)",
+      "taux_prevu_16_plus": 0.0737,
+      "naif_participants_estimes": 3000
+    }
+  ]
+}

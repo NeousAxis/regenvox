@@ -1,0 +1,65 @@
+{
+  "id": "p08",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "À 13 ans, je n'étais pas dans la boucle de ce genre de consultation, je n'ai pas vu passer le sondage ni les ateliers du samedi, et je n'en aurais parlé qu'en passant."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le budget participatif pilote de 2019 m'a échappé à 15 ans, personne autour de moi n'en parlait et voter depuis un hameau ne faisait pas partie de mes réflexes."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "À 16 ans, je n'ai pas voté parce que les urnes et les stands du marché étaient loin de chez nous et que le sujet ne revenait jamais dans les conversations familiales."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.10,
+      "raison": "Le PACom touche à la zone agricole où travaille la famille, donc le sujet m'intéresse un peu, mais c'est surtout mon père qui répond aux enquêtes et je n'en aurais parlé qu'à table."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.09,
+      "raison": "À 17 ans, le bulletin postal arrive au foyer mais je le laisse en général à mes parents, qui ne suivent pas forcément ce type de projet, et j'en aurais peut-être parlé en le voyant sur la table."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Les quais d'Ouchy sont loin de notre exploitation, je n'y allais qu'occasionnellement à 17 ans et je n'ai pas pris le temps de répondre au questionnaire en ligne."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "À 18 ans, le bulletin reçu à la maison m'a rappelé le budget participatif, mais les projets me semblaient lointains et je ne vote pas souvent, surtout à l'automne après les vendanges."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Le questionnaire sur le racisme ne me concernait pas directement, je ne crois pas l'avoir rempli, et je n'en parlerais que si la question venait dans une discussion."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "À 19 ans, le bulletin nominatif arrive directement chez moi, ce qui rend le vote facile, mais le budget reste un sujet de ville et je ne vote que quand un projet touche directement mon quartier."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.07,
+      "partage_proba": 0.12,
+      "raison": "À 21 ans, je vote plus volontiers qu'avant, mais le vote se termine le 30 septembre, pendant les vendanges, donc les chances sont faibles et j'en parlerais surtout à mes parents."
+    }
+  ]
+}

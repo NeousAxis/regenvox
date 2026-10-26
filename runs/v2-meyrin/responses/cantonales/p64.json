@@ -1,0 +1,29 @@
+{
+  "id": "p64",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.25,
+      "oui_proba": 0.15,
+      "raison": "Ça ne me concerne pas directement, l'UDC dit non, et je n'ai pas envie de payer ça avec les impôts de tout le monde."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "Les bouchons vers la frontière me saoulent, mais je ne veux pas que l'argent suisse finance des projets en France, donc je suis partagé."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Avec mon salaire je n'achèterai jamais, et je crains que ça fasse disparaître des logements à louer, donc je dirais non comme l'UDC."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.2,
+      "oui_proba": 0.6,
+      "raison": "La HES ne me touche pas beaucoup, mais l'UDC dit oui et je ne vois pas l'intérêt de couper dans la formation."
+    }
+  ]
+}

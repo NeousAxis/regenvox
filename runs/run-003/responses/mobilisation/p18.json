@@ -1,0 +1,39 @@
+{
+  "id": "p18",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.25,
+      "ce_qui_doublerait_ma_venue": "Qu'un agriculteur de Vuadens vienne me dire lui-même, en dix minutes, comment il travaille aujourd'hui et ce que le bio change pour son revenu, avec la garantie que rien ne sera imposé, et que la rencontre ait lieu un samedi matin."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique clairement ce que la commune me demande, qu'on me garantisse que je ne paierai pas plus cher mes produits, et qu'un paysan de Vuadens soit présent pour dire ce qu'il attend de nous."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une question précise sur les terres et les chemins de Vuadens que je connais, plutôt que la commune dans quinze ans, et qu'une personne de mon entourage vienne avec moi."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique à quoi servirait un label, qui le paierait et qu'il ne coûte rien aux agriculteurs, sinon je ne vois pas l'intérêt."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes à la maison est le seul format que je ferais sans me sentir obligée de sortir le soir, et il n'y a pas de discours à écouter. Je ne me sens pas légitime pour donner un avis technique, mais je peux répondre à des questions simples sur ce que je veux pour le village, à condition que le questionnaire soit facile à remplir. Je préfère une participation qui laisse une trace plutôt que des soirées où l'on tourne en rond."
+}

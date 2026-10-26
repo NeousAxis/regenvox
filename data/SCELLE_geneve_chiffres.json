@@ -1,0 +1,204 @@
+{
+  "demarches": [
+    {
+      "id": "gen01",
+      "commune": "Lancy",
+      "nombre": 200,
+      "precision": "Approximatif: le document dit « Près de 200 personnes étaient venues découvrir ce nouveau dispositif de démocratie participative ».",
+      "mesure": "Personnes présentes à l'assemblée constitutive du Conseil des habitant·e·s de Lancy, le 31 mai 2023 à la salle communale du Petit-Lancy (comptage de présence arrondi, pas un décompte d'inscrits).",
+      "autres_chiffres": [
+        "Environ 50 personnes (une cinquantaine de Lancéennes et Lancéens) ont siégé dans les deux tables délibératives tirées au sort, soit le plafond prévu par le dispositif",
+        "32 propositions développées par les tables délibératives (mesure de production, pas de participation)"
+      ],
+      "population_reference": {
+        "valeur": 34828,
+        "definition": "Population résidante totale de la commune de Lancy à fin 2022 (OCSTAT, tableau T 01.01.3.01)",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Conseil des habitant-es, Document de restitution, 29.05.2024 (Ville de Lancy), avant-propos",
+        "url": "https://participer.ge.ch/processes/lancy",
+        "note": "Le PDF est rattaché à la page de la démarche (lien signé expirant); la phrase figure dans l'avant-propos. Page de la démarche lue le 25.10.2026."
+      }
+    },
+    {
+      "id": "gen02",
+      "commune": "Thônex",
+      "nombre": 150,
+      "precision": "Approximatif: « une soirée qui a réuni près de 150 personnes ».",
+      "mesure": "Personnes réunies à l'assemblée de lancement du Conseil des habitant·e·s de Thônex, le 12 juin 2024 à la salle des fêtes (soirée avec vote des thèmes et inscriptions aux tables).",
+      "autres_chiffres": [
+        "Plus d'une centaine de personnes se sont inscrites lors de cette même soirée pour participer à l'une des deux tables délibératives (nombre de volontaires, avant tirage au sort)",
+        "Environ 50 personnes (cinquantaine) ont siégé dans les deux tables délibératives, après tirage au sort"
+      ],
+      "population_reference": {
+        "valeur": 16764,
+        "definition": "Population résidante totale de la commune de Thônex à fin 2023 (OCSTAT, tableau T 01.01.3.01)",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Conseil des Habitant.e.s de la Ville de Thônex, rapport de restitution et réponses des autorités, juin 2025, chapitre Rétrospective",
+        "url": "https://conseildeshabitants.ch/wp-content/uploads/2025/06/CdH_ReponseThonex_2025.pdf",
+        "note": "Page de la démarche: https://participer.ge.ch/processes/Thonex"
+      }
+    },
+    {
+      "id": "gen03",
+      "commune": "Meyrin",
+      "nombre": 1027,
+      "precision": "Chiffre publié sous la forme « près de 1'027 contributions ».",
+      "mesure": "Nombre de contributions recueillies (ateliers, interventions dans l'espace public et dispositifs en ligne confondus) depuis l'automne 2025 dans le cadre des Assises de la culture. Ce sont des contributions et non des personnes distinctes; la page ne donne pas la ventilation par format ni la date d'arrêt du comptage.",
+      "autres_chiffres": [],
+      "population_reference": {
+        "valeur": 27000,
+        "definition": "Population résidante totale de la commune de Meyrin à fin 2024 (OCSTAT, tableau T 01.01.3.01); la démarche était aussi ouverte aux partenaires du Grand Genève",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Page « Assises de la culture, Ville de Meyrin » sur participer.ge.ch, section « Où en sommes-nous ? »",
+        "url": "https://participer.ge.ch/processes/Assises-culture-Meyrin",
+        "note": "Page lue le 25.10.2026; le chiffre peut encore évoluer si le comptage est mis à jour."
+      }
+    },
+    {
+      "id": "gen04",
+      "commune": "Le Grand-Saconnex",
+      "nombre": 46,
+      "precision": "Exact: « 46 personnes ont répondu au questionnaire qui comportait 28 questions ».",
+      "mesure": "Personnes ayant répondu au questionnaire en ligne sur le futur quartier de la Susette, ouvert pendant tout le mois de mai 2025 (habitants, personnes y travaillant ou curieux).",
+      "autres_chiffres": [],
+      "population_reference": {
+        "valeur": 12971,
+        "definition": "Population résidante totale de la commune du Grand-Saconnex à fin 2024 (OCSTAT, tableau T 01.01.3.01)",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "SUS_Restitution_Finale.pdf (concertation Susette), synthèse du questionnaire en ligne, introduction",
+        "url": "https://participer.ge.ch/processes/Susette",
+        "note": "PDF attaché à la page de la démarche, qui présente aussi la Fête de la Susette des 14 et 15 juin 2025."
+      }
+    },
+    {
+      "id": "gen05",
+      "commune": "Le Grand-Saconnex",
+      "nombre": 33,
+      "precision": "Exact selon l'affiche de résultats (« 33 personnes, 900 contributions »).",
+      "mesure": "Personnes ayant participé au sondage en ligne « L'Écho des Marronniers » (décembre 2024 à mars 2025). Le même sondage a généré 900 contributions (constats et souhaits).",
+      "autres_chiffres": [
+        "Événement et exposition du 9 janvier 2025 à la Maison des projets: environ 40 personnes, 42 contributions",
+        "Micros-trottoirs du 23 janvier 2025: environ 30 personnes, 126 contributions",
+        "Circuit-atelier du 8 février 2025: environ 15 personnes, 105 contributions",
+        "Total de la démarche: 1'172 contributions (166 constats et 1'006 souhaits)"
+      ],
+      "population_reference": {
+        "valeur": 12971,
+        "definition": "Population résidante totale de la commune du Grand-Saconnex à fin 2024 (OCSTAT, tableau T 01.01.3.01)",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Affiche « L'Écho des Marronniers, démarche participative, résultats » (20250811_Affiche_DPA_resultats_v3.pdf)",
+        "url": "https://participer.ge.ch/processes/Marronniers-Grand-Saconnex",
+        "note": "PDF attaché à la page de la démarche (lien signé expirant)."
+      }
+    },
+    {
+      "id": "gen06",
+      "commune": "Genève (quartier de la Jonction)",
+      "nombre": 200,
+      "precision": "Approximatif: « Le sondage a permis de récolter près de 200 réponses d'utilisateurs/trices du secteur ».",
+      "mesure": "Réponses au sondage en ligne (et sur tablettes sur site) mettant en discussion les principes directeurs citoyens du CSPM, fin décembre 2023 à début janvier 2024. Ce sont des réponses de personnes du secteur (communauté universitaire et quartier).",
+      "autres_chiffres": [
+        "161 utilisateurs et utilisatrices du secteur sondés lors des enquêtes de terrain du diagnostic sensible (4, 5 et 7 octobre 2023)",
+        "Plus de 400 personnes ont pu contribuer ou réagir sur l'ensemble de la démarche (enquêtes, micro-trottoirs, ateliers, sondage)"
+      ],
+      "population_reference": {
+        "valeur": null,
+        "definition": "Non publiée: le public cible (communauté universitaire des sciences et usagers du secteur de la Jonction) n'a pas d'effectif de référence publié. À titre de contexte seulement, la commune de Genève comptait 205'839 habitants à fin 2023 (OCSTAT).",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Page « CSPM ensemble ! » sur participer.ge.ch (Université de Genève)",
+        "url": "https://participer.ge.ch/processes/CSPM-Ensemble",
+        "note": "Page lue le 25.10.2026."
+      }
+    },
+    {
+      "id": "gen07",
+      "commune": "Carouge",
+      "nombre": 65,
+      "nombre_min": 60,
+      "nombre_max": 70,
+      "precision": "Fourchette publiée: « Environ 60-70 personnes ». La valeur 65 est le milieu de la fourchette.",
+      "mesure": "Personnes présentes (Carougeois·es, riverain·e·s, propriétaires du quartier, hors équipes organisatrices) à la visite du site et au premier atelier participatif du 22 mai 2024, selon le compte rendu de la visite.",
+      "autres_chiffres": [
+        "Séance de restitution du 9 octobre 2024: environ 60 participants, riverains et personnes intéressées (compte rendu de la séance)"
+      ],
+      "population_reference": {
+        "valeur": 22600,
+        "definition": "Population résidante totale de la commune de Carouge à fin 2023 (OCSTAT, tableau T 01.01.3.01); le public visé est surtout le voisinage du périmètre",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Projet Tir-au-Canon, Carouge, Compte-rendu de la visite du 22 mai 2024 (Compte_rendu_atelier_1.pdf)",
+        "url": "https://participer.ge.ch/processes/Tir-au-Canon-Carouge",
+        "note": "PDF attaché à la page de la démarche (lien signé expirant)."
+      }
+    },
+    {
+      "id": "gen08",
+      "commune": "Meyrin (Cointrin)",
+      "nombre": 25,
+      "precision": "Exact selon le compte rendu (« Nombre de participant(e)s : 25 »).",
+      "mesure": "Participant·e·s à l'atelier de concertation du 22 juin 2024, de 14h à 16h, à la paroisse Saint-Pie-X (hors équipes organisatrices et hors animation créative et goûter ultérieurs).",
+      "autres_chiffres": [],
+      "population_reference": {
+        "valeur": 26871,
+        "definition": "Population résidante totale de la commune de Meyrin à fin 2023 (OCSTAT, tableau T 01.01.3.01); le public visé est le quartier de Cointrin, dont l'effectif n'est pas publié",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Compte rendu de séance, atelier de concertation du 22 juin 2024, Promenade des Ailes (restitution.pdf)",
+        "url": "https://participer.ge.ch/processes/Promenade-Ailes-Meyrin",
+        "note": "PDF attaché à la page de la démarche (lien signé expirant)."
+      }
+    },
+    {
+      "id": "gen09",
+      "commune": "Versoix",
+      "nombre": 32,
+      "precision": "Exact selon la synthèse du diagnostic (« les 32 personnes présentes »), puis décrit comme « la trentaine de personnes présentes ».",
+      "mesure": "Personnes présentes à l'atelier participatif du 17 novembre 2025 (18h30 à 20h30, Maison Charron), habitants, habitantes, usagers et usagères du chemin du Val-de-Travers, hors représentants du Canton, de la FPLC et de l'équipe conceptrice.",
+      "autres_chiffres": [
+        "Le sondage en ligne ouvert du 27 octobre au 24 novembre 2025 a récolté 78 contributions, dont la moitié via des enquêteurs sur tablettes dans la rue et l'autre moitié en autonomie sur participer.ge.ch"
+      ],
+      "population_reference": {
+        "valeur": 13928,
+        "definition": "Population résidante totale de la commune de Versoix à fin 2024 (OCSTAT, tableau T 01.01.3.01); le public visé est surtout le voisinage du chemin du Val-de-Travers",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Versoix Val-de-Travers, diagnostic participatif (Versoix_VDT_diagnostic_participatif_VF.pdf), chapitre 1",
+        "url": "https://participer.ge.ch/processes/Val-de-Travers",
+        "note": "PDF attaché à la page de la démarche (lien signé expirant)."
+      }
+    },
+    {
+      "id": "gen10",
+      "commune": "Veyrier",
+      "nombre": 130,
+      "precision": "Approximatif: « Ces trois rendez-vous ont réuni au total près de 130 participantes et participants, adultes et jeunes confondus ».",
+      "mesure": "Total des participant·e·s aux trois rendez-vous (atelier jeunes du 5 septembre 2025, journée d'exposition et d'ateliers du 4 octobre 2025, séance de dialogue du 23 juin 2026), avec un risque de double compte des personnes venues plusieurs fois; la ventilation par rendez-vous n'est pas publiée.",
+      "autres_chiffres": [],
+      "population_reference": {
+        "valeur": 12076,
+        "definition": "Population résidante totale de la commune de Veyrier à fin 2024 (OCSTAT, tableau T 01.01.3.01)",
+        "url": "https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_3_01.xlsx"
+      },
+      "source": {
+        "titre": "Synthèse de la participation, Pré-des-Dames à Veyrier (Synthese_Pre_des_dames_Participation_Vdef.pdf), chapitre 1 « La démarche en contexte »",
+        "url": "https://participer.ge.ch/processes/Pre-des-Dames",
+        "note": "PDF attaché à la page de la démarche (lien signé expirant); document rédigé après la soirée du 23 juin 2026, dont il reprend les questions et réponses."
+      }
+    }
+  ]
+}

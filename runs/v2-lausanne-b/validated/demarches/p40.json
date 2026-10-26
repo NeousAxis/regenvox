@@ -1,0 +1,65 @@
+{
+  "id": "p40",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Un sondage de trois questions sur un lieu que je fréquente peu, et des ateliers le samedi après-midi qui ne collent pas avec ma vie de parent seule : je n'aurais sans doute rien fait."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Premier budget participatif, peu visible et sans mode d'emploi clair à l'époque : j'en ai peut-être parlé avec des collègues, mais le vote en urne me paraissait peu pratique avec les enfants."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.09,
+      "partage_proba": 0.1,
+      "raison": "L'idée me plaît et les stands du marché peuvent me faire passer, mais en pleine pandémie avec mes horaires et mes enfants, je reporte souvent ce genre de vote."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Un sondage en ligne de cinq minutes sur le visage de mon quartier me concerne, mais l'annonce est passée pendant la pandémie et je ne suis pas sûre de l'avoir remarquée."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.16,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin affranchi glissé dans ma boîte aux lettres rend le vote presque sans effort, donc je pourrais le renvoyer, mais je doute de connaître assez de projets pour choisir trois favoris."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Un questionnaire anonyme sur la fermeture des quais, un sujet qui me concerne peu car je me déplace autrement, et je n'ai pas vu l'annonce passer."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.14,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le vote simple, mais ma routine de parent seule me fait souvent repousser ce genre de démarche à plus tard."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le racisme touche mon travail dans le social et l'éducation, mais cette consultation était surtout relayée dans les réseaux associatifs et je ne suis pas sûre de l'avoir vue passer."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.16,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin nominatif arrive chez moi, y compris pour les enfants dès 4 ans, et le vote est gratuit par poste ou en ligne : c'est facile, donc je pourrais voter, sans être sûre de connaître tous les projets."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin préaffranchi reçu à domicile et le vote en ligne facilitent les choses, mais je ne vois pas toujours les projets de mon quartier, et la charge de parent seule freine l'envie de m'y mettre."
+    }
+  ]
+}

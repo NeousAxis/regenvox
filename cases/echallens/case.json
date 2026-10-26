@@ -1,0 +1,24 @@
+{
+ "id": "echallens",
+ "cible": {
+  "type": "commune",
+  "nom": "Echallens",
+  "canton": "VD",
+  "pays": "CH",
+  "description": "Commune du canton de Vaud, chef-lieu du district du Gros-de-Vaud, bourg régional au nord de Lausanne."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 55,
+  "seed": 20261101
+ },
+ "contexte_factuel": [
+  "Population : 6 817 habitants au 31 décembre 2025, dont 25 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 14 exploitations, 33 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Echallens, PS (25,1 %) (OFS)."
+ ],
+ "votations": []
+}

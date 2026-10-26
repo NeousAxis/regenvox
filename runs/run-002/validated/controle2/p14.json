@@ -1,0 +1,16 @@
+{
+  "id": "p14",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le bio, pourquoi pas, mais pas à coups d'objectifs tombés d'en haut. Qu'on me demande mon avis et qu'on me dise combien ça va me coûter avant de décider à ma place.",
+    "engagement": 1,
+    "freins_participation": [
+      "Mes horaires irréguliers me laissent peu de soirs libres pour des réunions",
+      "Je me méfie d'un objectif fixé par la commune sans que les agriculteurs et les habitants aient vraiment le choix",
+      "Si le bio coûte plus cher, je n'achèterai pas davantage pour un objectif politique",
+      "Ce sujet ne me touche pas directement dans mon travail ni dans mon budget de tous les jours"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier le samedi matin, sur place au village, avec des chiffres clairs sur le coût pour les ménages et pour les paysans, et la garantie que chacun reste libre de ses choix. Si les commerces du village proposent des produits locaux abordables, je suis prête à y aller voir."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p47",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un format plus court, d'une heure environ, sur un créneau en fin de journée ou un samedi matin qui tienne compte de mes horaires décalés, et l'assurance que le bio ne sera pas imposé aux agriculteurs."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Voir concrètement ce que coûte un produit bio de la ferme du village par rapport à celui du supermarché, et être certaine qu'on ne me demandera pas de changer ma façon de consommer."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Que la question soit ramenée à aujourd'hui : ce que la démarche change pour les gens du village dès maintenant, par exemple sur les prix, les chemins ou la vente directe."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.08,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.2,
+      "ce_qui_doublerait_ma_venue": "Un moment convivial sur place, à la ferme ou sur un marché, d'une heure environ, plutôt qu'une réunion, avec de la dégustation et la possibilité de parler directement aux agriculteurs."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je réponds sur mon téléphone quand j'ai un moment calme, entre deux services ou pendant une pause, sans me déplacer ni bloquer une soirée ou un samedi. Dix minutes, c'est une demande raisonnable pour quelqu'un qui a peu de temps libre. Le parcours à distance demande trois rendez-vous répartis sur trois semaines, et je ne tiendrais pas cette cadence. L'atelier de deux heures trente me paraît trop long et trop difficile à caler avec mes horaires."
+}

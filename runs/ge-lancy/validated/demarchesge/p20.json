@@ -1,0 +1,11 @@
+{
+  "id": "p20",
+  "reactions": [
+    {
+      "item_id": "gen01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Je n'étais pas à l'assemblée du mercredi 31 mai 2023, après une journée de travail, et ce conseil m'est resté lointain, donc j'en ai très peu parlé autour de moi."
+    }
+  ]
+}

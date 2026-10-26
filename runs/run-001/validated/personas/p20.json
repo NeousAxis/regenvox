@@ -1,0 +1,113 @@
+{
+  "id": "p20",
+  "portrait": "Je suis une femme de 53 ans, de nationalité suisse, qui travaille dans la santé, le social ou l'éducation, et je vis en couple depuis que nos enfants ont quitté la maison. J'habite au centre du village et je vois les champs depuis chez moi : je sais que les paysans travaillent dur pour un revenu souvent modeste, ce qui me met mal à l'aise quand on parle de bio comme si c'était une évidence. Proche du PS, je trouve qu'on parle beaucoup des agriculteurs sans leur demander vraiment ce qu'ils vivent.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Si le bio ne permet pas aux paysans de vivre de leur travail, il ne tiendra pas. Le revenu doit suivre, sinon on demande aux agriculteurs de tout porter seuls. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne suis pas agricultrice et je n'ai pas le savoir technique pour discuter des cultures et des rendements",
+        "Mes horaires dans le social rendent difficile une soirée ou une matinée en semaine",
+        "Je crains que le débat soit dominé par les voix les plus fortes du village"
+      ],
+      "ce_qui_me_ferait_venir": "Des agriculteurs qui parlent de leurs chiffres concrets, un horaire compatible avec mon travail, et la garantie que les petites exploitations comptent autant que les grandes."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "« Moi je veux bien acheter dans les fermes d'ici, mais il faut qu'on me dise quelle ferme fait quoi, et à quel prix. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le budget des courses ne me permet pas toujours de payer plus cher",
+        "Je connais mal les exploitations de la commune et ce qu'elles proposent",
+        "Je n'ai pas envie de m'engager sur quelque chose sans savoir ce que ça demande en temps"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte un samedi matin, ou une présentation simple de ce que chaque exploitation propose, avec des points de vente accessibles dans le village."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 5,
+      "citation": "« Ce que je veux laisser, c'est une terre qu'on peut encore cultiver dans trente ans. Les jeunes du village doivent pouvoir se projeter dans un métier de la terre. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Une discussion trop abstraite sur trente ans, sans lien avec ce qui se passe aujourd'hui",
+        "Peu de temps libre en dehors du travail",
+        "Je ne me sens pas à l'aise pour prendre la parole face à des gens qui s'y connaissent mieux que moi"
+      ],
+      "ce_qui_me_ferait_venir": "Un format court, ouvert aux familles et aux jeunes, avec des questions concrètes sur les terrains, la transmission et ce que les jeunes peuvent y trouver."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Reconnaître les fermes, c'est bien, mais pas avec un panneau de plus. Ce qui compte, c'est que les gens sachent ce qu'elles font concrètement pour l'eau et les haies. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien ce que ça change dans ma vie de tous les jours",
+        "Trop de labels et de logos me brouillent plus qu'ils ne m'aident",
+        "Je ne lis pas beaucoup les documents de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Un message court et clair, relayé dans les bulletins de la commune ou sur les réseaux, avec des exemples précis de ce que font les fermes de Vuadens."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Collègues du secteur santé, social et éducation, parents d'élèves du village, voisins du centre, et quelques sympathisants de gauche"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Je trouve normal que les produits qu'on mange respectent les animaux, l'environnement et les travailleurs, y compris ceux qu'on importe. Il me semble juste que nos règles ne s'arrêtent pas à la frontière."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je comprends l'envie de soutenir les paysans d'ici, mais je me méfie des droits de douane et des prix garantis, qui finissent par se payer dans nos courses. Je ne veux pas qu'on oppose les agriculteurs aux consommateurs."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.75,
+      "oui_proba": 0.9,
+      "raison": "L'eau potable et une alimentation saine passent avant tout. Que les aides directes aillent aux fermes qui n'utilisent pas de pesticides et qui nourrissent leurs bêtes avec leur propre fourrage me paraît juste."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.75,
+      "oui_proba": 0.75,
+      "raison": "Je ne veux plus de pesticides de synthèse dans nos sols et nos rivières. Mais dix ans, c'est court pour une ferme, et je préférerais qu'on accompagne les paysans plutôt que de les sanctionner."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Le climat est une urgence et cette loi va dans le bon sens. Je reste attentive à ce qu'elle ne pèse pas trop sur les ménages modestes, mais je pense qu'il faut la soutenir."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "La dignité des animaux de rente me touche, et je trouve normal d'exiger des règles au moins aussi strictes pour les importations. Une transition qui peut aller jusqu'à 25 ans me paraît assez longue pour que les éleveurs s'adaptent."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Zéro émission nette en 2050 est un objectif que je soutiens, et les aides pour changer de chauffage ou pour innover sont utiles. Je voudrais simplement qu'elles ne profitent pas qu'aux plus aisés."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Protéger la nature et les paysages est indispensable, et ça passe en grande partie par les agriculteurs. Je voudrais qu'on les soutienne financièrement pour le faire, pas qu'on leur demande des efforts sans contrepartie."
+    }
+  ]
+}

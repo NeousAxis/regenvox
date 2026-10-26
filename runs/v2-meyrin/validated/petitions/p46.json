@@ -1,0 +1,125 @@
+{
+  "id": "p46",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.006,
+      "partage_proba": 0.02,
+      "raison": "Je ne suis pas étudiante à l'EPFL et une affaire Palantir dans un forum lausannois ne me mobilise pas, même si la surveillance de masse me préoccupe un peu."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.15,
+      "raison": "La canicule de cet été m'a marquée, mais cette lettre demande un plan climatique avec des exigences larges sur la finance et les multinationales, ce n'est pas le genre de texte que je signe."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Je trouve qu'on ne doit pas invalider une initiative déposée par le peuple, même si je sais que des juristes contestent ses effets, et je me méfie des campagnes en ligne qui demandent ce genre de chose."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je ne connais pas bien cette affaire, elle se mêle au conflit de Gaza, un sujet sur lequel je préfère ne pas signer d'appels, même si la liberté de débattre me paraît importante."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.28,
+      "partage_proba": 0.35,
+      "raison": "Je suis mère, les bonbonnes retrouvées dans le lac et les jeunes qui conduisent sous influence me touchent, c'est local et concret, ce qui me pousserait à signer, et je partagerais surtout dans mon cercle de parents."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Mes placements de caisse de pension m'intéressent, mais un appel adressé aux caisses sur le climat et la santé me paraît militant, et je ne signe pas ce type de texte."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.07,
+      "partage_proba": 0.12,
+      "raison": "Les primes d'assurance-maladie pèsent lourd pour ma famille et l'idée d'une caisse cantonale m'intéresse, mais la pétition se présente elle-même comme fictive, ce qui m'empêche de la prendre au sérieux."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.12,
+      "partage_proba": 0.18,
+      "raison": "L'avenir de l'AVS concerne mes enfants et je suis d'accord avec une durée de cotisation de référence, mais la légalisation du cannabis comme source de financement me gêne et je ne signe pas les textes des jeunes partis."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Je n'habite pas Versoix et je suis réservée sur les dépenses de location et de fonctionnement de locaux municipaux, donc je ne signe pas une pétition qui fait pression sur un conseil municipal qui n'est pas le mien."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.2,
+      "partage_proba": 0.3,
+      "raison": "Je suis mère et je comprends que ces femmes aient besoin d'une reconnaissance et d'un temps de récupération distinct de la maladie, cette histoire me touche, mais je ne signe pas toutes les pétitions de santé qui circulent."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Je fais confiance au cadre médical en place et un diagnostic psychiatrique avant une psychothérapie me paraît raisonnable, je ne vois pas pourquoi je signerais contre une motion du Conseil national."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "La Ferme aux Agrumes est en Vaud, à Borex, je ne l'ai jamais visitée et je n'ai donc pas de raison personnelle de signer, même si le patrimoine me paraît intéressant."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.025,
+      "partage_proba": 0.04,
+      "raison": "La violence contre les femmes me révolte, mais ce dossier concerne le canton du Jura et je ne signe pas les appels qui touchent des régions où je ne vis pas."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "La chaleur sur les quais et dans les rues me gêne, mais ce tram est lausannois et je ne signe pas d'habitude les projets urbains d'autres cantons."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.008,
+      "partage_proba": 0.02,
+      "raison": "Je ne suis pas sensible à une demande qui vise à suspendre des renvois décidés par l'État, je fais confiance aux autorités sur l'asile et je ne signe pas les pétitions qui veulent freiner l'exécution des décisions."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Je suis sensible à l'accès à la formation pour les personnes handicapées, mais réformer tout l'apprentissage par une pétition me paraît excessif, et allonger le CFC à six ans ne me convainc pas."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.15,
+      "partage_proba": 0.3,
+      "raison": "Filmer des femmes et des enfants à leur insu dans les vestiaires me révolte, mais je préfère une régulation ciblée à une interdiction totale demandée par une campagne en ligne, et je signe rarement ce type de texte."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Je suis sensible à la chaleur de cet été, mais cet appel empile des mesures générales de sobriété, comme interdire les retours ou freiner la mode, qui ne me touchent pas assez pour que je signe."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.07,
+      "partage_proba": 0.12,
+      "raison": "La protection des forêts m'intéresse et je vois les étés secs, mais le motif budgétaire me paraît défendable et je n'aime pas les pétitions qui demandent au Parlement de revenir sur ses choix."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.3,
+      "partage_proba": 0.4,
+      "raison": "La soumission chimique me fait peur pour mes enfants et je suis favorable à une réponse policière coordonnée avec l'Europe, mais la pétition reste vague sur les moyens et je me méfie des textes qui circulent sur les réseaux."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p13",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.85,
+      "oui_proba": 0.9,
+      "raison": "Dans mon métier je vois des femmes renoncer à une contraception trop chère, et 20 millions par an me paraissent un prix raisonnable pour l'éviter, donc je vote oui même si le Conseil d'État recommande non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.8,
+      "oui_proba": 0.75,
+      "raison": "Des bus, un tram et des mesures pour l'Arve et la santé réduiraient le trafic qui pèse sur la région, et la gauche comme le centre soutiennent ce crédit, donc je vote oui tout en restant prudente sur le financement en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Je travaille dans le social et je vois le risque que les congés-ventes chassent des locataires modestes, donc je vote non avec le PS, les Vert-e-s et l'ASLOCA, même si l'idée d'accéder à la propriété peut séduire."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je sais combien la HES forme le personnel soignant et social, mais baisser son indemnité au moment où les taxes d'études montent pénalise les étudiants, donc je penche pour le non comme les Vert-e-s."
+    }
+  ]
+}

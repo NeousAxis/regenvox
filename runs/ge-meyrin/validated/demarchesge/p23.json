@@ -1,0 +1,17 @@
+{
+  "id": "p23",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je n'habite pas Cointrin, l'atelier s'adresse surtout aux riverains, je n'ai jamais reçu de flyer dans ma boîte aux lettres, et un samedi après-midi de juin ne m'attire pas pour un projet d'aménagement que je ne connais pas."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Je ne suis pas un habitué des consultations culturelles et les rencontres en journée ne m'attirent pas, mais un questionnaire court en ligne prend cinq minutes, donc je l'aurais peut-être rempli si je l'avais croisé, et j'en aurais glissé un mot à un collègue sans plus."
+    }
+  ]
+}

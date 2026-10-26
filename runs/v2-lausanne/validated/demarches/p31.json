@@ -1,0 +1,65 @@
+{
+  "id": "p31",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je ne suis pas tombé sur l'annonce, et un atelier un samedi après-midi au bord du lac ne faisait pas partie de mes habitudes."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le budget participatif était tout nouveau et peu relayé, et je ne me sentais pas concerné par des projets de quartier à monter soi-même."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "En 2020 mon attention était ailleurs avec le Covid et le télétravail, et je n'ai pas vu la campagne de vote."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Ce sondage de cinq minutes sur l'avenir du quartier m'aurait peut-être occupé un soir, mais je ne suis pas tombé dessus et ce sujet ne vient pas dans nos discussions à la maison."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin préaffranchi arrive dans la boîte aux lettres, je pourrais le remplir, mais entre le travail et les enfants il finit souvent sur la table sans être traité."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je vais parfois au bord du lac avec les enfants et la question me concerne un peu, mais je n'ai pas réagi à l'annonce du sondage."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "Je remplis le bulletin seulement si j'ai une soirée calme, et je ne cherche jamais les projets sur internet, donc ça passe souvent à la trappe."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "En tant qu'étranger le sujet me touche, mais je n'ai pas vu la consultation, ni sur papier ni en ligne, et ce n'est pas un sujet dont on parle beaucoup à la maison."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif arrive à la maison, je pourrais cocher trois projets pour le quartier, mais le temps manque et il finit souvent en pile de courrier."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.07,
+      "raison": "Je reçois le bulletin à domicile et je vote parfois en ligne en quelques minutes, mais je ne suis pas allé consulter la liste des projets."
+    }
+  ]
+}

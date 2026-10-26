@@ -1,0 +1,17 @@
+{
+  "id": "p24",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Je n'ai ni le temps ni l'habitude de remplir ce genre de questionnaire en mai, entre le travail et les enfants, et la Susette, près de Palexpo, ne me touche pas directement, donc je n'en aurais parlé que si un collègue de l'usine ou une info de la commune l'avait mis sur mon chemin."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Un sondage sur un quartier qui n'est pas le mien, lancé en plein hiver et noyé parmi les courriels du travail, je l'aurais probablement laissé passer, et je n'en aurais guère parlé autour de moi."
+    }
+  ]
+}

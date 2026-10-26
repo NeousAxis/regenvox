@@ -1,0 +1,17 @@
+{
+  "id": "p04",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.15,
+      "raison": "Le devenir de la Susette m'intéresse surtout pour la densité et les espaces verts, mais je n'ai pas vu passer l'annonce du questionnaire de mai 2025, et j'aurais sans doute trouvé les 28 questions trop longues, donc j'en ai peu parlé, seulement à quelques collègues."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Je connais mal le quartier des Marronniers au quotidien, je n'ai pas remarqué le sondage ouvert entre décembre 2024 et mars 2025, et je n'en ai guère parlé autour de moi."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p34",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "À 51 ans, il ne suit pas la vie des établissements de Sauvabelin et n'a probablement pas vu l'annonce : un sondage de trois questions reste possible, mais l'atelier du samedi après-midi ne l'attire pas et il n'en parlerait guère."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Premier budget participatif, peu médiatisé : il n'a probablement pas entendu parler du vote en ligne ou en urne, et il n'a pas de réseau de quartier pour être informé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Vote étalé sur deux mois pendant la pandémie, avec des stands au marché qu'il croise rarement : il pourrait voter en ligne, mais la démarche reste peu visible pour lui et il n'en parlerait qu'à de rares proches."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.09,
+      "partage_proba": 0.04,
+      "raison": "Sondage en ligne de cinq minutes sur l'avenir de son quartier, un sujet concret pour un habitant d'immeubles : il peut répondre, mais il n'a pas suivi les soirées d'information et ne relaierait guère l'appel."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.06,
+      "raison": "Bulletin affranchi déposé dans sa boîte aux lettres, le moyen le plus simple de voter : il peut s'en servir, mais il doit choisir trois projets et il ne suit pas la vie de son quartier au quotidien."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Questionnaire en ligne sur la fermeture des quais, un sujet qui touche peu sa vie quotidienne : aucune raison particulière de répondre, et il ne l'évoquerait pas autour de lui."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.11,
+      "partage_proba": 0.05,
+      "raison": "Bulletin reçu à domicile comme en 2021, avec un vote en ligne possible : il pourrait répondre, mais l'intérêt reste modeste et les projets sont portés par des associations auxquelles il ne participe pas."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.015,
+      "raison": "Questionnaire sur le racisme, ouvert à tous mais peu relayé dans son quotidien : rien dans son profil ne le pousse à répondre, et il n'en a probablement pas entendu parler."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.17,
+      "partage_proba": 0.08,
+      "raison": "Bulletin nominatif envoyé à tout le foyer, vote en ligne ou par courrier : c'est facile, et sa proximité avec Vert'libéraux le rend plus attentif à la ville, mais il doit choisir trois projets et l'enjeu lui paraît limité."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.15,
+      "partage_proba": 0.07,
+      "raison": "Bulletin reçu à domicile et vote en ligne possible, avec des thèmes proches de la vie de quartier (convivialité, biodiversité) : il peut voter, mais reste une participation de quelques minutes sans enjeu personnel fort."
+    }
+  ]
+}

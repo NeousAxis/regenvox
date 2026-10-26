@@ -1,0 +1,29 @@
+{
+  "id": "p31",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "La contraception doit rester accessible à tous, et mes proches de solidaritéS et du POP disent oui, donc je penche pour oui malgré la recommandation du Conseil d'État."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Les bus, le tram et les crues de l'Arve concernent directement Carouge, et la gauche soutient ce crédit, donc je penche pour oui tout en restant attentif au financement côté France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Je redoute la disparition des logements locatifs abordables et le retour des congés-ventes dans mon immeuble, donc je suis les opposants et je penche pour non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Question technique qui me touche peu, mais je penche pour non : une baisse de 2 millions pour la HES-SO alors que les taxes d'études augmentent me paraît une économie sur la formation, et solidaritéS demande de maintenir 35 millions."
+    }
+  ]
+}

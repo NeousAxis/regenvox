@@ -1,0 +1,17 @@
+{
+  "id": "p10",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Atelier un samedi après-midi à Cointrin, annoncé surtout dans les boîtes aux lettres de ce quartier et sur participer.ge.ch ; avec mon travail et les enfants, je ne m'y serais probablement pas rendu sans l'avoir vu relayé autour de moi."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Consultation étalée sur neuf mois avec un questionnaire en ligne court faisable le soir, mais je n'ai pas le réflexe de répondre aux consultations culturelles et les ateliers en présentiel ne cadrent pas avec mon emploi du temps de parent ; le sujet touche un peu mon métier, donc il a pu revenir dans une discussion avec des collègues ou d'autres parents."
+    }
+  ]
+}

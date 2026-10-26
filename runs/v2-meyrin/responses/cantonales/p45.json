@@ -1,0 +1,29 @@
+{
+  "id": "p45",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Proche du PS, je pense qu'une contraception remboursée pour tous, sans condition de revenu, relève de la santé publique et coûte peu au regard du budget cantonal, même si je ne suis pas directement concerné."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.45,
+      "oui_proba": 0.78,
+      "raison": "Les files du matin à la frontière de Meyrin me touchent tous les jours, et des bus à haut niveau de service et des parkings-relais désengorgeraient la commune, même si le refus de 2014 sur le financement en France me rend prudent."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "L'accès à la propriété me parle, mais je suis proche du PS qui craint le retour des congés-ventes et la baisse des logements locatifs abordables, et je ne veux pas que les locataires en place subissent la pression."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je suis proche du PS qui demande de maintenir 35 millions par an, et une hausse des taxes d'études ne me plaît pas, mais la différence de 2 millions reste modeste et la HES forme des professionnels dont Genève a besoin."
+    }
+  ]
+}

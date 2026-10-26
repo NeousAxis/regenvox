@@ -1,0 +1,17 @@
+{
+  "id": "p22",
+  "reaction": {
+    "position": "opposant",
+    "intensite": 4,
+    "citation": "Le Conseil décide dans son coin, et au final ce sont les éleveurs qui vont se taper la paperasse et des prix qui ne suivent pas.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je ne suis pas agriculteur, donc on ne me demandera pas mon avis sur le fond",
+      "Je travaille en apprentissage et je n'ai pas de soirées libres pour un atelier",
+      "Le Conseil a déjà tranché, venir après coup ne changera rien",
+      "Je ne crois pas qu'un prix plus élevé pour le bio arrive vraiment dans la poche des paysans",
+      "La conversion coûte cher et les normes s'ajoutent sans qu'on enlève les anciennes"
+    ],
+    "ce_qui_me_ferait_venir": "Que la décision se prenne avec les éleveurs et pas à leur place, avec des chiffres clairs sur le prix payé au producteur, une aide qui couvre vraiment la transition et moins de paperasse. Si la fromagerie du village garantit un meilleur prix pour le lait, je viendrais écouter à un atelier sur place."
+  }
+}

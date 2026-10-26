@@ -1,0 +1,125 @@
+{
+  "id": "p02",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Débat étudiant lausannois sur une entreprise de surveillance à l'EPFL, qui ne la concerne pas et qu'elle ne suit pas."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Les canicules de cet été la préoccupent, mais le plan demandé, avec la fin du financement des fossiles et une empreinte climatique globale, reste trop étatique pour sa sensibilité PLR."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Demander l'invalidation d'une initiative populaire UDC au nom du droit impératif lui paraît contestable sur le plan démocratique, et la campagne ne la mobilise pas."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Affaire genevoise liée au conflit à Gaza, très polarisée, qu'elle ne suit pas de près et sur laquelle elle n'a pas d'avis tranché."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.13,
+      "partage_proba": 0.07,
+      "raison": "Problème local concret pour Genève (jeunes, bonbonnes dans le lac, conducteurs sous influence) qui touche la sécurité publique, mais elle ne signe que rarement ce type de pétition."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Pétition en anglais sur les placements des caisses de pension, un sujet de gouvernance financière qu'elle ne suit pas et qui ne la touche pas directement."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les primes la concernent, mais ce projet présenté comme fictif, avec des partenaires privés et une institution cantonale, la laisse sceptique, et elle ne signe pas un texte qui se dit irréaliste."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "La prise en compte des années de garde d'enfants et un esprit libéral sur la durée de cotisation lui parlent, mais elle ne signe les pétitions en ligne que très rarement."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Projet d'une autre commune, Versoix, qui demande une dépense publique supplémentaire qu'elle ne soutiendrait probablement pas, et sans lien avec sa vie à Meyrin."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.11,
+      "partage_proba": 0.03,
+      "raison": "Un témoignage humain et juste qui la touche émotionnellement, mais elle ne se sent pas directement concernée et ne relaie pas ce type de récit."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "L'accès aux soins psychiques peut la concerner, mais la motion est technique et la pétition vient de professionnelles, ce qui la laisse peu mobilisée."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Une ferme vaudoise sans lien avec sa vie genevoise, et une question d'aménagement communal dont elle ne connaît pas le dossier."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "La violence domestique la touche en tant que femme, mais le canton du Jura est loin de Meyrin et la pétition, lancée par une campagne en ligne, ne l'incite pas à agir."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "La chaleur en ville la préoccupe, mais ce tram lausannois est loin de son quotidien genevois, même si le parti signataire est proche de ses sensibilités."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Appel contre les renvois de réfugiés, sujet d'asile qui divise son camp politique et ne la touche pas directement, elle ne signe généralement pas ce type d'appel."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Réforme lourde de la formation professionnelle, sans rapport avec sa situation, et l'allongement du CFC heurte son attachement au système dual actuel."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Un risque concret pour la vie privée, notamment des femmes et des enfants, qui la touche et qu'elle partagerait volontiers, mais une interdiction de vente va plus loin que ce qu'elle soutient d'ordinaire."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "La chaleur l'inquiète, mais les interdictions proposées, comme celle des retours en ligne ou le transfert des vols vers le rail, heurtent son attachement à la liberté de choix."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les incendies de forêt la préoccupent peu à Meyrin, et une coupe budgétaire fédérale est un argument que son camp peut défendre."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.2,
+      "partage_proba": 0.14,
+      "raison": "La sécurité des femmes face à la soumission chimique la touche directement, et elle relaierait volontiers une alerte entre amies, même si elle ne signe pas souvent de pétitions."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "p01",
+  "reactions": [
+    {
+      "item_id": "gen07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je vis dans un quartier de villas loin du Tir-au-Canon, mes soirées en semaine sont prises par mon travail et mes enfants, donc un atelier le mercredi soir a peu de chances de me voir, et je n'en parlerais probablement qu'à ma famille si je tombais sur l'annonce."
+    }
+  ]
+}

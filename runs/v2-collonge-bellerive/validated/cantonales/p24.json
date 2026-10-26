@@ -1,0 +1,29 @@
+{
+  "id": "p24",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je vois au travail l'utilité d'une bonne prévention, mais 20 millions par an sans financement clair et la ligne de mon parti me font pencher pour le non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Moins de véhicules à la frontière et une part suisse minoritaire dans chaque projet, c'est sensé, même si le refus de 2014 me rappelle que le sujet est sensible."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "Je suis sensible à l'accès à la propriété pour les locataires, mais les craintes sur les congés-ventes et la baisse de logements abordables me laissent hésitant."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.72,
+      "raison": "La HES forme les métiers que je côtoie tous les jours et une baisse de 2 millions par an reste modeste, donc je voterais oui sans grand enthousiasme."
+    }
+  ]
+}

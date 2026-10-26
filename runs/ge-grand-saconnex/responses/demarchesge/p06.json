@@ -1,0 +1,17 @@
+{
+  "id": "p06",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Le chantier de la Susette touche mon métier, mais un questionnaire de 28 questions en pleine saison de chantiers, sans relance personnelle, me passe sous le nez, et j'en parlerais surtout si un client ou un collègue m'interrogeait sur le futur quartier."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas de lien particulier avec le quartier des Marronniers et un sondage en ligne avec inscription, sans relance de ma part, ne fait pas partie de mes habitudes, donc je n'en parle guère non plus."
+    }
+  ]
+}

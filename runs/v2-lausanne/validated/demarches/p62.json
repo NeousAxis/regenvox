@@ -1,0 +1,65 @@
+{
+  "id": "p62",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Sauvabelin est un lieu où nous allons parfois avec les enfants, mais je n'ai pas le réflexe de répondre à un sondage municipal sur l'Auberge et je ne serais pas venu aux ateliers du samedi après-midi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Ce premier budget participatif était très peu visible, je ne suis pas sûr de l'avoir remarqué, et monter ou soutenir un projet de quartier ne me mobilise pas à l'époque."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Pendant la pandémie, entre le télétravail et la garde des enfants, le vote d'un budget de quartier passe après tout le reste et je n'ai pas de souvenir d'avoir voté."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "L'avenir de mon quartier d'immeubles me concerne, mais je n'aurais vu ce sondage que par hasard et les soirées ou les balades demandent une disponibilité que je n'ai pas, donc j'en aurais tout au plus parlé à ma compagne."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin arrive à domicile, ce qui facilite le vote, mais beaucoup de ces envois finissent sur la pile du courrier et je ne vote que pour un projet qui touche directement mon quartier."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Je fréquente parfois les quais d'Ouchy le samedi avec les enfants donc la question me parle, mais je remplis rarement un questionnaire en ligne sans y être relancé, et j'en aurais peut-être parlé en famille."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin préaffranchi envoyé à domicile rend le vote simple, mais le budget participatif reste un sujet que je suis de loin et je ne vote que si un projet concret du quartier me convainc."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.09,
+      "raison": "Le sujet me touche de près en tant qu'étranger installé ici, mais la consultation était peu visible hors de la plateforme et je n'aurais pas cherché à la trouver, même si j'en aurais parlé en famille."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif arrive pour chaque membre de la famille dès 4 ans, ce qui rend le vote concret, et les projets pour les enfants et les quartiers me parlent, donc on en discute parfois à la maison avant de voter."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Le vote tombe pendant les vacances d'été et la rentrée, le bulletin se perd souvent dans le courrier, et les projets de convivialité ou de sport de proximité ne me motivent pas assez pour que je m'en occupe."
+    }
+  ]
+}

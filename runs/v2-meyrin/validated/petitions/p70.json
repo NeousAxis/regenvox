@@ -1,0 +1,125 @@
+{
+  "id": "p70",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Cette affaire d'étudiants lausannois autour d'un forum de l'EPFL n'a pas de prise sur sa vie de retraité à Meyrin, il la laisserait passer sans la lire."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.22,
+      "partage_proba": 0.08,
+      "raison": "Il est sensible au climat et les canicules de cet été l'ont marqué, mais une lettre ouverte adressée à Berne lui paraît sans effet et il signe rarement ce type de texte."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.3,
+      "partage_proba": 0.12,
+      "raison": "Il est opposé à l'UDC, attaché au droit international et aux droits humains, et ce sujet rejoint assez ses convictions socialistes pour qu'il signe."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.07,
+      "partage_proba": 0.02,
+      "raison": "Il tient à la liberté du débat et se méfie des procédures contre les élus, mais l'affaire Thévoz et le conflit à Gaza le touchent peu directement."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.03,
+      "raison": "Il voit des jeunes traîner à Meyrin et entend parler de bonbonnes abandonnées, ce qui l'inquiète un peu, mais il n'a pas d'avis tranché sur cette régulation."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.02,
+      "raison": "Retraité, il se soucie de ce que deviennent les fonds de pension, mais le texte en anglais et la destination auprès de la commission de surveillance ne l'accrochent pas."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Le texte présente lui-même le projet comme fictif, et l'idée d'ouvrir l'assurance de base à des partenaires privés ne le convainc pas."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.01,
+      "raison": "L'AVS le concerne directement en tant que retraité, mais une demande portée par les Jeunes Vert'libéraux, avec cannabis et TVA, ne correspond pas à ses priorités."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Il habite Meyrin et non Versoix, le projet ne le concerne pas et il ne se sent pas visé par une pétition adressée au conseil municipal de cette commune."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Le témoignage de cette mère le touche, mais la question juridique précise de la maternité après un décès ne le concerne pas et il ne signe pas ce genre de demande."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.05,
+      "partage_proba": 0.01,
+      "raison": "Vivant seul, il s'intéresse à la santé psychique, mais il ne suit pas les débats du Conseil national sur les psychothérapies et n'a pas le réflexe de signer."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Cette ferme d'agrumes se trouve dans une autre commune et un autre canton, même si l'idée d'un patrimoine menacé pourrait lui plaire."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.06,
+      "partage_proba": 0.02,
+      "raison": "La violence domestique l'indigne, mais une maison d'accueil dans le Jura, canton qu'il ne connaît guère, ne le pousse pas à signer."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Un tram lausannois et une canicule vaudoise sont loin de ses préoccupations genevoises, et une section locale d'un parti libéral ne l'attire pas."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.13,
+      "partage_proba": 0.04,
+      "raison": "Attaché au droit d'asile et à la solidarité avec les réfugiés, il trouve inquiétants les renvois vers le Burundi, mais il signe rarement des pétitions adressées à un conseiller fédéral."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "L'inclusion des personnes handicapées l'intéresse, mais la formation professionnelle à temps partiel ne le touche pas directement et il n'a pas de proche concerné."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Les lunettes filmantes l'inquiètent, surtout pour les piscines et les vestiaires, et il pourrait en parler à ses proches, mais il n'adopte pas ce genre de technologie et signe peu."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.12,
+      "partage_proba": 0.04,
+      "raison": "Il partage l'inquiétude climatique et la critique de la surconsommation, mais le texte très large et la liste d'exigences le laissent sceptique sur sa portée concrète."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.17,
+      "partage_proba": 0.06,
+      "raison": "La protection des forêts et la prévention des incendies l'intéressent, et l'idée de supprimer des fonds climatiques proposée par un conseiller fédéral UDC lui paraît injustifiée, mais il signe rarement ce genre de texte."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Les abus facilités par la drogue le révoltent et il partagerait volontiers un appel visant à protéger des femmes, mais la forme de task force et la référence à Europol le laissent indécis, donc il signe peu."
+    }
+  ]
+}

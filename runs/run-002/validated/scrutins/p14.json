@@ -1,0 +1,95 @@
+{
+  "id": "p14",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "En mai 2014, je n'avais pas encore l'âge de voter ou tout juste, donc je n'ai pas participé. Une armée équipée me paraît normale pour un pays comme la Suisse, donc j'aurais probablement dit oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Je ne vois pas l'intérêt d'inscrire une définition du mariage dans la Constitution, la vie de couple relève de la liberté de chacun. Le sujet ne me touche pas directement, donc je ne suis pas sûre d'aller voter."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "L'AVS a besoin d'un financement, et aligner l'âge de la retraite des femmes sur celui des hommes me paraît juste. Je n'aime pas les hausses d'impôts, mais un point de TVA lié à une réforme équilibrée reste acceptable."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "L'initiative mettrait en danger les accords bilatéraux avec l'UE, qui facilitent les échanges dont dépend mon travail. Je suis attachée à notre démocratie, mais je ne veux pas casser cette voie pour un principe, donc je dirais non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Les restaurants et le commerce de notre région dépendent beaucoup de personnel venu d'Europe, et les horaires irréguliers sont déjà difficiles à pourvoir. Je suis pour une économie ouverte et la libre circulation, donc je voterais non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Une défense crédible relève de la responsabilité de l'État, et ces avions servent à notre sécurité aérienne. Je reste prudente sur le montant de 6 milliards, donc un oui n'est pas automatique."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Interdire toute expérimentation sur l'animal et l'humain freinerait la recherche médicale dont nous profitons tous. Je veux bien un encadrement strict, mais une interdiction générale décidée d'en haut ne me convainc pas."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être des animaux et je vois l'effort de nos fermes du village, mais imposer le cahier des charges Bio Suisse à toute la production et aux importations renchérirait les prix. Je préfère que les paysans et les consommateurs gardent une part de choix."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Aligner l'âge de la retraite des femmes sur celui des hommes me paraît équitable, et l'AVS doit être financée sans attendre. Une hausse de TVA limitée reste supportable, même si je n'aime pas les nouveaux impôts."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je suis attachée à la neutralité, mais une interdiction absolue de sanctions et de coopération avec des alliances nous fermerait des portes avec nos partenaires. Le texte est trop rigide pour une Suisse qui doit pouvoir décider au cas par cas."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Manger local et utiliser moins de pesticides me parle, mais imposer 70 % d'aliments indigènes en dix ans est irréaliste et ferait monter les prix de la vie quotidienne. Je fais confiance aux producteurs de la région plutôt qu'à un objectif fixé d'en haut."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "La 13e rente est déjà acceptée, mais je n'aime pas qu'on la finance par un nouvel impôt sur ma consommation, même si l'alimentation est épargnée. Je préfère des économies d'abord, donc je serais plutôt contre."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Le bruit des pétards la nuit dérange les animaux et ceux qui se lèvent tôt ou travaillent tard comme moi, je comprends le ras-le-bol. Mais interdire la vente et l'usage privé des pièces bruyantes reste une règle venue d'en haut, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Le principe de l'imposition individuelle, que le peuple vient d'accepter, me paraît plus juste et plus libre. Revenir à une imposition commune inscrite dans la Constitution serait un pas en arrière, donc je dirais non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Notre tissu industriel doit pouvoir exporter comme nos voisins européens, avec des garde-fous du Conseil fédéral. Je reste partagée à cause de la neutralité, mais je fais davantage confiance au cadre actuel qu'à une interdiction générale."
+    }
+  ]
+}

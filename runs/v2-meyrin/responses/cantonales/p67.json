@@ -1,0 +1,29 @@
+{
+  "id": "p67",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.85,
+      "oui_proba": 0.2,
+      "raison": "À mon âge la contraception ne me concerne plus, mon parti dit non, et 20 millions de plus par an pour l'Etat me paraissent beaucoup."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.85,
+      "oui_proba": 0.12,
+      "raison": "Je ne veux pas que l'argent genevois serve à financer des projets en France alors que nos bus et nos routes à Meyrin sont déjà saturés, et le MCG dit non."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.8,
+      "oui_proba": 0.5,
+      "raison": "Je ne me vois pas acheter à 91 ans, mais je comprends que des locataires installés depuis longtemps veuillent devenir propriétaires, et mon parti soutient le oui, même si je crains des pressions sur les anciens locataires."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je n'ai pas suivi ce dossier de près, mais le MCG dit non et je me méfie des dépenses pour une école qui ne profite pas toujours aux Genevois de mon quartier."
+    }
+  ]
+}

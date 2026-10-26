@@ -1,0 +1,95 @@
+{
+  "id": "p32",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "L'armée doit pouvoir se renouveler, et financer les avions par son propre budget sans nouvel impôt me paraît raisonnable. Ce n'est pas un sujet qui me passionne, je n'irai peut-être pas voter."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je comprends qu'un couple marié ne doive pas être pénalisé fiscalement, c'est une question d'équité que je vois autour de moi. Mais graver une définition du mariage dans la Constitution me paraît inutile et trop rigide, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.52,
+      "raison": "Les caisses AVS sont sous pression et il faut trouver des recettes, la TVA répartie sur tous me semble moins injuste qu'une hausse des cotisations. Le paquet lié, avec la retraite des femmes à 65 ans, me laisse hésitant, je pencherais à peine pour oui."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je suis attaché à notre souveraineté et à la démocratie directe, mais nos accords bilatéraux font tourner nos entreprises et nos exportations. L'initiative créerait une insécurité juridique que je ne veux pas, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je vois la pression sur les salaires et le logement dans la région, et certains voisins se plaignent, je le comprends. Mais dénoncer l'accord avec l'UE ruinerait nos échanges et la voie bilatérale, donc je voterais non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Notre armée doit être équipée, et l'achat d'avions pour protéger notre ciel ne me choque pas en soi. Mais six milliards c'est une somme énorme et je me méfie des décisions prises de loin, donc je suis partagé et penche légèrement pour non."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible au bien-être des animaux, mais je ne suis pas convaincu qu'une interdiction totale soit réaliste pour la recherche médicale, et les essais sur l'humain posent aussi question. Je vote probablement non, sans m'être beaucoup informé."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être animal compte pour moi, mais cette initiative mettrait une pression énorme sur les petites fermes de notre région, avec une transition de 25 ans trop floue. Les exigences à l'importation me paraissent difficiles à contrôler, donc je vote non, en pensant aux paysans du village."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Il faut assurer les rentes AVS, et la TVA répartie sur tous me paraît plus juste qu'une hausse des cotisations salariales. Le passage à 65 ans pour les femmes me fait hésiter, mais c'est un compromis que je peux accepter, je voterais oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La neutralité fait partie de notre identité et je suis attaché à notre rôle de médiation, mais une neutralité armée et l'interdiction de toute sanction me paraissent trop rigides. Je pencherais pour non, même si je comprends les arguments des partisans."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je suis d'accord qu'il faut produire davantage chez nous, mais réduire fortement les aliments d'origine animale menacerait directement nos fermes laitières et la filière du Gruyère. Les objectifs de 70 % et la réduction des produits phytosanitaires imposeraient des contraintes lourdes à nos paysans, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "La 13e rente a été acceptée par le peuple, il faut bien la financer, et une TVA de 0,4 point qui épargne l'alimentation et les médicaments me paraît supportable. Je reste attentif à notre budget de famille, mais je voterais oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Les pétards en pleine nuit effraient les bêtes des fermes et dérangent les familles, je suis favorable à une limitation des pièces bruyantes. Les exceptions pour le 1er août me paraissent raisonnables, donc je voterais probablement oui."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "L'idée qu'un couple marié ne soit pas désavantagé me parle, je vois des couples autour de moi qui paient plus d'impôts à deux. Mais le peuple vient de se prononcer en mars pour l'imposition individuelle, revenir en arrière me paraît confus, donc je suis hésitant."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Nos entreprises d'armement veulent pouvoir exporter, je le comprends, mais livrer du matériel à un pays impliqué dans un conflit me gêne au regard de notre neutralité. Je reste réservé et je penche pour non, sans avoir suivi le dossier en détail."
+    }
+  ]
+}

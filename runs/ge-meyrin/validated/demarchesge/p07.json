@@ -1,0 +1,17 @@
+{
+  "id": "p07",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Un atelier un samedi après-midi, en pleine saison de travail à la ferme, pour un projet urbain de Cointrin qui ne concerne pas directement mon exploitation : je n'y serais probablement pas allée et je n'en parlerais guère autour de moi."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Un questionnaire en ligne demande peu de temps, mais entre l'exploitation et les enfants je réponds rarement à ce genre de consultation, et la culture municipale passe après les urgences de la ferme."
+    }
+  ]
+}

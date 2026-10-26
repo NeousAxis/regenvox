@@ -1,0 +1,15 @@
+{
+  "id": "p14",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.01, "raison": "À 17 ans, je ne suivais pas les affaires de la Ville et je ne savais pas qu'il y avait une consultation sur Sauvabelin, donc je n'ai rien rempli ni déplacé."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Le budget participatif était un projet pilote que je n'ai pas remarqué, et je ne voyais pas quel projet de quartier pouvait vraiment me concerner, donc j'en ai peu parlé."},
+    {"item_id": "lau02", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Pendant le Covid, les projets de quartier restaient loin de mes préoccupations et le vote se faisait surtout en ligne ou dans des urnes que je ne croisais pas, donc je n'ai pas voté."},
+    {"item_id": "lau10", "participe_proba": 0.04, "partage_proba": 0.02, "raison": "Un sondage de cinq minutes sur le visage du quartier en 2030 m'aurait peut-être pris si je l'avais vu, mais je ne lis pas les annonces de la Ville et les balades me semblaient trop engageantes."},
+    {"item_id": "lau03", "participe_proba": 0.08, "partage_proba": 0.05, "raison": "Le bulletin dans la boîte aux lettres m'a sans doute donné l'occasion de voter une fois, mais je ne suis pas certain de l'avoir rempli, et j'en ai peut-être parlé à la personne avec qui je vis."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Le questionnaire en ligne sur les quais d'Ouchy était court et anonyme, mais je ne fréquentais pas ce secteur pendant l'été et je ne l'ai pas vu passer, donc je ne l'ai pas rempli."},
+    {"item_id": "lau04", "participe_proba": 0.06, "partage_proba": 0.03, "raison": "Le dépôt de projets sur une plateforme ne m'intéressait pas, mais le bulletin reçu à domicile m'a peut-être donné une occasion de voter, sans que j'en parle beaucoup autour de moi."},
+    {"item_id": "lau09", "participe_proba": 0.05, "partage_proba": 0.03, "raison": "Le sujet du racisme me touche en tant qu'étranger en Suisse, mais la consultation n'avait aucun relais visible pour moi et je ne l'ai probablement pas remarquée, donc je n'ai ni répondu ni partagé."},
+    {"item_id": "lau05", "participe_proba": 0.09, "partage_proba": 0.04, "raison": "Le bulletin nominatif envoyé à toute la population avec affranchissement payé rend le vote facile, mais je ne suis pas sûr de le remplir et je n'en ai pas parlé autour de moi."},
+    {"item_id": "lau06", "participe_proba": 0.07, "partage_proba": 0.04, "raison": "En 2025 je travaille à plein temps et le bulletin arrive à la maison, mais je pense rarement aux projets de quartier, donc je ne vote probablement pas et j'en parle peu."}
+  ]
+}

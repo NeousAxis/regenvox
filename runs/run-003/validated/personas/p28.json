@@ -1,0 +1,143 @@
+{
+  "id": "p28",
+  "portrait": "J'ai 50 ans et je travaille comme technicien dans une entreprise de la zone industrielle de Vuadens. Je suis suisse, je vis en famille dans le quartier résidentiel récent du village, et je vote plutôt à droite, proche de l'UDC. Je respecte les paysans qui travaillent dur, mais je me méfie des projets venus de la commune ou de la ville qui prétendent savoir mieux que nous ce qu'il faut faire.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si le bio paie mieux, les paysans passeront au bio tout seuls, ils n'ont pas besoin qu'on leur fasse la leçon. Mais si on leur impose des obligations pour gagner moins, ça ne marchera pas, et on finira par importer.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je travaille souvent en horaires décalés et je n'ai pas le temps pour des soirées de discussion",
+        "Je me méfie des démarches communales qui finissent par ne rien changer",
+        "Le sujet me touche surtout par le prix payé aux producteurs, pas par les discours sur la nature"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que touche un paysan et sur la marge du bio, présentés par les agriculteurs eux-mêmes, et une rencontre sur une ferme plutôt que dans la salle communale."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "J'achète du lait et de la viande de la région quand je peux, mais pour une famille avec des enfants, le bio au magasin c'est trop cher. Je n'ai pas envie qu'on me demande de devenir partenaire d'un projet qui va faire monter mes courses. Si la ferme du coin vend bien son lait, je l'achète, c'est tout.",
+      "engagement": 0,
+      "freins_participation": [
+        "Le budget de la famille ne permet pas de payer davantage pour le bio",
+        "Je ne me sens pas concerné par une démarche de la commune sur l'alimentation",
+        "Je n'ai pas le temps ni l'envie de participer à des ateliers"
+      ],
+      "ce_qui_me_ferait_venir": "Une vraie baisse de prix ou une offre directe de la ferme du village, sans label à payer et sans obligation, avec des agriculteurs qui parlent de leur travail."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Mes enfants feront ce qu'ils voudront de leurs terres, je ne vais pas leur dire comment cultiver. Dans trente ans, ce qui compte c'est qu'il y ait encore des paysans à Vuadens, le reste ce sont des grands mots.",
+      "engagement": 0,
+      "freins_participation": [
+        "La question me paraît abstraite et trop lointaine pour ma vie de tous les jours",
+        "Je pense que ce genre de réflexion se fait entre gens qui ont le temps",
+        "J'ai déjà vu des démarches de la commune qui n'aboutissaient pas"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me montre concrètement ce que ça change pour les fermes et pour le prix du logement ou de l'eau du robinet, pas des images de la terre dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Les paysans entretiennent les chemins, les prés et le paysage depuis toujours, et personne ne les remercie. Qu'on le reconnaisse, très bien, mais qu'on les paie pour ce travail, ça vaudrait mieux que des beaux discours.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je pense que les belles démarches restent souvent au stade des discours",
+        "Je n'aime pas les réunions organisées à des heures où je travaille",
+        "Je ne veux pas qu'on me mette dans une case écolo"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance concrète et payante pour les fermes, par exemple un coup de main de la commune sur les chemins ou les prés, plutôt qu'un label ou une cérémonie."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "collègues de l'entreprise et de la zone industrielle, membres d'une société locale du village, voisins du quartier et parents rencontrés à l'école"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je n'aime pas qu'on limite ce que les gens peuvent faire de leur propriété. Les résidences secondaires ne concernent pas vraiment Vuadens, donc je ne vois pas pourquoi on nous impose ça."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Il faut protéger les terres agricoles, ça je comprends, mais la loi bloque les zones à bâtir et les communes ne peuvent presque plus rien faire. Les familles du village ont besoin de pouvoir construire, et les paysans qui vendent leurs terrains aussi."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Une économie qui doit tenir dans une seule planète, ça veut dire fermer les usines ou les faire partir à l'étranger. Je travaille dans l'industrie, je ne vote pas pour ça."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "L'électricité doit rester sûre et pas trop chère pour l'industrie. Sortir du nucléaire à coups de décisions politiques, sans alternative prête, ça me fait peur pour les emplois et pour les factures."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Il y a trop de subventions, trop de taxes et de prescriptions qui finissent sur la facture des gens. Je ne suis pas contre les économies d'énergie, mais l'État décide trop de choses."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Des produits suisses bien contrôlés, oui. Mais exiger les mêmes conditions sur les importations, c'est compliqué à contrôler et ça fait monter les prix, donc je suis réticent."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Ce sont nos paysans qui nourrissent nos familles. Protéger la production d'ici, avec des droits de douane et des prix équitables, c'est logique. Je vote oui pour les agriculteurs de la région."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Conditionner les paiements directs à des méthodes précises, ça revient à menacer les exploitations qui font déjà attention. Nos fermes sont contrôlées, et retirer l'argent aux paysans, c'est les pousser à arrêter."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je comprends le souci de réduire les produits chimiques, mais une interdiction totale d'un coup, avec dix ans de transition et sans solution pratique pour les cultures, pousse les paysans dans le mur et on importe de l'étranger. Je suis plutôt contre."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Taxer l'essence, le mazout et les billets d'avion, ce sont toujours les mêmes qui paient. Pour aller au travail en voiture et chauffer la maison, je n'ai pas le choix, et l'État nous impose encore des normes."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Nos vaches sont dehors et les paysans d'ici s'occupent bien de leurs bêtes. Ce texte vise l'élevage en général et voudrait imposer aussi des règles aux importations, ça pénalise nos fermes alors qu'on ne contrôle pas l'étranger."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Des aides pour remplacer un vieux chauffage au mazout, pourquoi pas. Mais l'objectif zéro émission d'ici 2050, avec des contraintes, fait peur aux gens qui travaillent et aux petites entreprises. Je suis plutôt réservé."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Protéger la nature, je suis d'accord, mais pas en prenant des terres aux paysans ni en imposant des surfaces protégées. Les agriculteurs de Vuadens font déjà beaucoup pour le paysage, il ne faut pas les contraindre davantage."
+    }
+  ]
+}

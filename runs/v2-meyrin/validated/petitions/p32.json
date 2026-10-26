@@ -1,0 +1,125 @@
+{
+  "id": "p32",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.004,
+      "partage_proba": 0.01,
+      "raison": "Palantir, l'EPFL et Forum à Lausanne : c'est une affaire d'étudiants vaudois qui ne me concerne pas, je n'ouvre pas ce genre de texte."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.2,
+      "raison": "La canicule de cet été, je l'ai sentie dans mon appartement avec les enfants, donc le sujet me touche, mais une lettre ouverte aux Chambres et les grands mots de plan d'urgence ne me donnent pas envie de signer."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je n'aime pas qu'on dise au peuple que son initiative ne vaut rien : si les gens ont voté pour la protection des frontières, c'est à eux de trancher, pas à l'Assemblée fédérale."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Une histoire entre un député genevois et la CICAD, sur fond de Gaza : je ne veux pas entrer là-dedans, ça divise trop et ça ne change rien pour moi."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.22,
+      "partage_proba": 0.35,
+      "raison": "Des bonbonnes de gaz qui traînent au bord du lac et des jeunes qui se défoncent, c'est concret ; j'ai des enfants à Meyrin, je signe et je partage à d'autres parents."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Pétition en anglais, pour des caisses de pension dont je ne vois pas bien l'intérêt pour moi : je ne cotise presque plus à une caisse de pension."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "Les primes d'assurance-maladie m'étranglent, donc une caisse cantonale m'intéresse, mais le texte dit lui-même qu'il est fictif : je ne signe pas une pétition qui se présente comme un exercice."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je comprends que l'AVS inquiète, mais cannabis et impôts sur l'alcool proposés par les Jeunes vert'libéraux, ça ne passe pas pour moi ; je préfère qu'on parle de nos salaires."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Versoix n'est pas ma commune et je ne connais pas ce local ; je ne signe pas ce genre de pétition municipale qui ne me concerne pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Je suis mère et l'idée qu'une femme doive se faire arrêter pour maladie après avoir perdu son bébé me révolte ; je signe, mais je ne suis pas sûre de le partager publiquement."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Attendre des mois pour voir un psy, je connais des gens qui en ont besoin, donc je signe volontiers contre cette motion, même si je doute que ça change grand-chose."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.008,
+      "partage_proba": 0.01,
+      "raison": "Une ferme à Borex, dans le canton de Vaud : je n'y vais jamais, les agrumes ne me touchent pas, et je ne signe pas pour une collection privée."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Les violences faites aux femmes me touchent en tant que mère seule, mais une maison d'accueil dans le Jura ne me concerne pas ; je signe rarement les pétitions d'une autre région."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Le tram lausannois ne me concerne pas, et je ne vais pas signer pour un parti vaudois que je ne connais pas, même si l'argument chaleur me parle."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Les personnes déboutées de l'asile doivent en principe repartir ; je ne vais pas signer pour suspendre les renvois, surtout avec les difficultés de logement et de places d'accueil qu'on connaît ici."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas de handicap dans ma famille, et allonger les apprentissages me paraît compliqué à financer pour des familles déjà serrées ; je ne signe pas une réforme aussi lourde."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.25,
+      "partage_proba": 0.3,
+      "raison": "Des caméras dans des lunettes à la piscine ou aux vestiaires, c'est exactement ce qui me fait peur pour mes enfants ; je signe et je partage, même si je doute que l'interdiction soit réaliste."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je fais attention à mes sous et je n'aime pas les injonctions à consommer moins ; les interdictions de retours et les règles sur la mode me semblent des leçons de morale."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Je me promène souvent dans les bois autour de Meyrin, donc les forêts comptent pour moi, mais je ne veux pas que l'État dépense sans fin, et ce n'est pas un combat que je mène."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.18,
+      "partage_proba": 0.22,
+      "raison": "Droguer une femme pour en abuser, c'est une peur de mère et de femme ; je signe, je partage à mes amies, et je trouve que l'État devrait agir plutôt que de fermer les yeux."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p57",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0,
+      "partage_proba": 0.02,
+      "raison": "À 8 ans, l'avenir des établissements du lac de Sauvabelin ne me concerne pas et je n'en ai probablement jamais entendu parler."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "À 9 ou 10 ans, le budget participatif reste hors de ma portée : mes parents votent si besoin, sans que je sois impliqué."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "À 10 ou 11 ans, je n'ai pas l'idée de voter pour des projets de quartier ; j'en aurais tout au plus entendu parler à l'école."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Un sondage de cinq minutes sur le plan d'affectation n'a aucune prise sur ma vie à 10 ou 11 ans, et je n'y ai probablement pas pensé."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin tout-ménage est arrivé chez mes parents quand j'avais 11 ou 12 ans ; je ne l'ai probablement pas rempli, mais je l'ai peut-être vu traîner sur la table."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Un questionnaire en ligne de quinze questions sur la fermeture des quais à 11 ou 12 ans est peu probable, et je ne pense pas que cette question ait été discutée à la maison."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "À 12 ou 13 ans, le bulletin nominatif du budget participatif a pu être rempli avec mes parents, mais le choix des projets de quartier ne m'intéresse pas assez pour que je m'en occupe."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Je suis étranger en Suisse et le racisme peut me toucher, mais à 12 ou 13 ans je n'ai guère de raison de répondre à une consultation de la Ville ; j'en aurais peut-être parlé avec des camarades."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.12,
+      "raison": "Un bulletin nominatif est arrivé à mon nom à 13 ou 14 ans : je pourrais le remplir avec mes parents, mais je le laisse le plus souvent de côté, et j'en parle surtout si un projet concerne les jeunes."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.15,
+      "raison": "À 15 ou 16 ans, en formation et chez mes parents, je peux voter en ligne pour des projets comme le sport ou la biodiversité, mais la plupart de mes camarades ne le font pas, et j'en parle seulement si un projet me plaît."
+    }
+  ]
+}

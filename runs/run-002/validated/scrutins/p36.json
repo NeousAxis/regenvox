@@ -1,0 +1,95 @@
+{
+  "id": "p36",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas une militante de l'armée, mais un avion pour défendre le pays me paraît normal, surtout si l'argent est mis de côté sans toucher aux autres budgets. Je voterais oui sans grand enthousiasme."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Je trouve injuste qu'un couple marié paie plus d'impôts ou perde des avantages, mais écrire dans la Constitution ce qu'est le mariage me gêne, ça ne regarde pas l'État. Je ne suis pas sûre d'aller voter."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "J'ai travaillé toute ma vie et je sais que l'AVS a besoin d'argent, mais je suis touchée directement par le recul de l'âge des femmes et je n'aime pas payer plus de TVA sur tout ce que j'achète. Je serais plutôt hésitante."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je suis attachée à l'indépendance de la Suisse, mais si on dénonce les accords avec l'Europe, les entreprises de la région et nos exportations vont en souffrir. Les juges étrangers, je ne vois pas bien ce que ça change au quotidien."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "On voit beaucoup de monde arriver dans la région et je comprends qu'on s'inquiète, mais la libre circulation a permis à l'industrie d'ici et aux soins de tourner. Je ne veux pas casser les accords avec l'Union européenne pour ça."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Notre armée a besoin d'avions qui tiennent la route, donc je veux bien un nouvel appareil, mais six milliards, c'est beaucoup d'argent pour un pays comme le nôtre. Je dirais oui à contrecœur."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "J'aime les animaux, j'ai mon chat, mais interdire toute recherche sur les animaux et sur les humains me paraît irréaliste, on a tous besoin des médicaments mis au point ainsi. Je voterais non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je respecte les bêtes, mais cette initiative mettrait en difficulté les éleveurs de chez nous, que je connais et qui font un travail dur. Imposer les mêmes règles aux importations, on ne pourra pas le contrôler. Je préfère la discussion avec les paysans."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je suis proche de l'âge de la retraite et je comprends que l'AVS a besoin d'argent, mais la hausse de TVA touche aussi les petits revenus, et on a fait travailler les femmes plus longtemps sans compenser celles de ma génération. Je serais hésitante."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "La neutralité fait partie de ce qui me rend fière d'être suisse, je n'ai pas envie qu'on entre dans une alliance militaire. Par contre, interdire les sanctions me paraît compliqué à comprendre, je ne suis pas sûre que ce soit une bonne idée."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "J'aimerais qu'on mange davantage ce qui pousse chez nous, comme on l'a voulu avec la sécurité alimentaire. Mais produire moins de viande et de lait ferait mal à nos fermes du coin, alors je suis partagée."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.72,
+      "raison": "Je touche ma rente AVS et la 13e rente m'a fait plaisir, il est normal de la financer. Une hausse de 0,4 point de TVA, sans les denrées alimentaires ni les médicaments, me paraît raisonnable."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Mon chat a peur des pétards et les bêtes des fermes souffrent aussi, il est normal de limiter les pièces bruyantes. Je garderais les feux pour le 1er août, c'est bien de pouvoir encore faire un feu de fête."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je vis seule, donc ça ne me touche pas directement, mais je trouve juste qu'un couple marié ne paie pas plus qu'un autre. Je n'ai pas bien suivi ce qui se passe au niveau fédéral, je ne sais pas si j'irai voter."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas qu'on livre des armes à des pays en guerre, la neutralité devrait compter avant tout. Je voterais plutôt non, même si je comprends que les entreprises veulent exporter."
+    }
+  ]
+}

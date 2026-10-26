@@ -1,0 +1,24 @@
+{
+ "id": "le-locle",
+ "cible": {
+  "type": "commune",
+  "nom": "Le Locle",
+  "canton": "NE",
+  "pays": "CH",
+  "description": "Ville des Montagnes neuchâteloises (canton de Neuchâtel), centre horloger dont l'urbanisme est inscrit avec La Chaux-de-Fonds au patrimoine mondial de l'UNESCO."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 61,
+  "seed": 20261103
+ },
+ "contexte_factuel": [
+  "Population : 10 912 habitants au 31 décembre 2025, dont 33 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 33 exploitations, 74 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Le Locle, POP ou solidaritéS (23,6 %) (OFS)."
+ ],
+ "votations": []
+}

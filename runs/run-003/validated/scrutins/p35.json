@@ -1,0 +1,95 @@
+{
+  "id": "p35",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "L'armée doit tenir debout et je ne suis pas contre des avions, mais ces millions pris sur le budget me font penser à mes factures de l'étable. Je ne sais pas si je me déplace pour un vote de mai."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Je suis seul et ça ne me touche pas directement, mais je comprends qu'on veuille protéger la famille traditionnelle chez nous. Je ne vois pas trop ce que ça changerait concrètement, donc je ne suis pas très motivé."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je veux que l'AVS tienne, je compte sur ma rente comme tout le monde, mais chaque hausse de TVA est un impôt de plus sur tout ce que j'achète. Et ce paquet vient de Berne, je me méfie des paquets ficelés là-bas."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Que la Suisse décide chez elle, je suis d'accord sur le principe. Mais si on dénonce les accords avec l'Union européenne, ce sont nos fromages et nos exportations qui trinquent, donc je reste partagé."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas qu'on ferme la porte aux gens qui travaillent chez nous, et les accords avec l'Europe nous servent pour le fromage et les exportations. Je vote non, même si l'immigration me préoccupe un peu à Vuadens."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Il faut une armée qui tienne, donc je suis d'accord pour renouveler les avions. Six milliards, c'est beaucoup, mais je préfère ça plutôt que de se retrouver sans protection. Je vote oui en gardant un œil sur les dépassements de budget."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "J'ai du respect pour les bêtes, mais interdire toute recherche sur les animaux et sur l'humain, je ne vois pas comment on fait avancer les médicaments, y compris ceux pour le vétérinaire qui soigne mes vaches. Je vote probablement non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.08,
+      "raison": "C'est mon métier qu'on attaque, avec des normes Bio Suisse pour tout le monde, importations comprises, et une transition pouvant aller jusqu'à 25 ans. Ça peut limiter les importations, mais moi je suis en conventionnel, ça voudrait dire tout changer à la ferme. Je vote non, catégorique."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.5,
+      "raison": "Il faut financer l'AVS, je compte dessus comme tout le monde et j'ai déjà travaillé des décennies pour elle. Mais chaque hausse de TVA me pèse, donc c'est plutôt moitié-moitié pour moi."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "La neutralité, c'est une valeur de chez nous, mes grands-parents en parlaient déjà, et je suis pour qu'on reste à l'écart des alliances militaires. Par contre, ne plus pouvoir sanctionner peut compliquer nos échanges, donc je ne suis pas tout à fait convaincu."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Produire davantage chez nous, c'est ce qu'on dit depuis longtemps, je suis d'accord sur le principe. Mais moins de produits animaux et moins d'engrais, ça veut dire moins de lait et des prairies moins productives, et c'est moi qui paie la facture. Je vote non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "La 13e rente, ça plaît aux retraités, et moi je le serai un jour, donc je comprends qu'on veuille la financer. Mais une hausse de TVA, c'est encore un coup pour tout le monde, y compris pour les petits revenus comme le mien. Je balance encore."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Mes vaches paniquent au bruit des pétards, et la faune aussi. Les pièces bruyantes, je suis pour qu'on les interdise. Pour le 1er août, qu'on garde des exceptions, ça me paraît normal."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis seul, et je trouve que les couples mariés ont déjà assez d'avantages. On vient de voter l'imposition individuelle, je ne vois pas pourquoi on remettrait ça sur la table à Berne."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Vendre des armes à des pays impliqués dans un conflit, je n'aime pas ça, ça ne colle pas avec notre neutralité. Et le Conseil fédéral aurait trop de marge à lui tout seul, c'est justement ce qui me gêne."
+    }
+  ]
+}

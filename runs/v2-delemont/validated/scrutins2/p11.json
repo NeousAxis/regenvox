@@ -1,0 +1,197 @@
+{
+  "id": "p11",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Le financement de l'AVS me paraît indispensable et le PS soutient le projet, donc je vote oui, sans enthousiasme pour la hausse de la TVA."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.8,
+      "raison": "Une hausse temporaire de la TVA pour assainir l'assurance invalidité me paraît raisonnable, et le PS comme le PLR la soutiennent, donc oui."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je suis sensible à la responsabilité de la Suisse dans les exportations d'armes et le PS soutient l'initiative, mais l'interdiction totale me paraît un peu radicale."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "L'obligation de servir me paraît dépassée et le PS soutient l'initiative, mais je doute qu'un service purement volontaire suffise à la sécurité du pays, donc je suis partagée."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "Je défends la libre circulation avec l'Union européenne, qui fait vivre l'économie de la région, et le PS s'y oppose, donc non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Le PS combat l'achat de ce Gripen et je trouve la dépense militaire lourde face aux besoins sociaux, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.05,
+      "raison": "Je refuse qu'on inscrive une définition du mariage dans la Constitution et qu'on désavantage les autres formes de vie commune, donc non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Le financement de l'AVS est nécessaire et le PS soutient le compromis, mais porter la retraite des femmes à 65 ans me gêne, donc je vote oui à contrecoeur."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Le bien-être des animaux me touche et le PS soutient l'initiative, mais une subvention fédérale pour garder des cornes me paraît artificielle, donc je suis partagée et je penche pour oui."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.07,
+      "raison": "Je tiens aux accords bilatéraux et au droit international, et placer la Constitution au-dessus des traités me paraît dangereux pour l'économie du canton, donc non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "La reprise de la directive européenne sur les armes fait partie de Schengen, que je soutiens, et le PS, le PLR et le PDC la soutiennent aussi, donc oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.06,
+      "raison": "Mettre fin à la libre circulation pour limiter l'immigration me paraît néfaste pour Delémont, pour nos entreprises et pour les familles, donc non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis plutôt contre la régulation facilitée du loup, car les organisations de protection de la nature me convainquent, mais les dégâts aux éleveurs me touchent un peu, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "Six milliards pour des avions de combat me paraissent excessifs alors que les besoins sociaux et climatiques sont pressants, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.65,
+      "raison": "Je trouve choquant que la Banque nationale ou les caisses de pension financent des fabricants de matériel de guerre, donc je vote oui en doutant un peu de la portée réelle."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Une eau potable propre et une agriculture moins chimique me tiennent à coeur, et je ne veux pas subventionner des produits controversés, donc oui."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je suis sensible à la santé et à la biodiversité, mais l'interdiction en dix ans me paraît abrupte pour les paysans de la région, donc je vote probablement oui avec des doutes sur le calendrier."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.95,
+      "raison": "Ouvrir le mariage civil à tous les couples me paraît une évidence d'égalité, et le PS comme le PLR le soutiennent, donc oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je comprends le souci des animaux, mais une interdiction totale des essais sur l'être humain me paraît dangereuse pour la recherche médicale, et tous les partis disent non, donc non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le PS critique le respect des droits humains aux frontières et je suis proche de sa position, mais je tiens à la coopération Schengen, donc je penche pour non sans certitude."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Je trouve l'élevage intensif choquant et les exigences de l'initiative rejoignent ce que je pense du bien-être animal, donc oui, avec des doutes sur les coûts pour les paysans."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je ne veux pas que l'âge de la retraite des femmes soit relevé à 65 ans sans compensation suffisante, et le PS s'y oppose, donc non."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "La protection de la nature et des paysages du Jura me tient à coeur, et le PS comme les Vert'libéraux soutiennent l'initiative, donc oui."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "L'imposition individuelle met fin à une inégalité entre femmes et hommes mariés, le PS et le PLR la soutiennent, et même si je suis célibataire je la trouve juste, donc oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "Plafonner la population et dénoncer la libre circulation me paraît contraire à l'intérêt de Delémont et de la Suisse, même si la question de la croissance me préoccupe, donc non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Restreindre le service civil pour les personnes déjà incorporées me paraît une atteinte à l'objection de conscience, et le PS s'y oppose, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "Une neutralité perpétuelle et armée m'inquiète pour la solidarité européenne et pour les sanctions face à un agresseur, et le PS s'y oppose, donc non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à l'eau propre et à une alimentation plus végétale, mais l'objectif de 70 % d'aliments produits en Suisse en dix ans me paraît irréaliste, donc je penche pour non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.65,
+      "raison": "Financer la 13e rente AVS me paraît juste, et le PS comme le Centre le soutiennent, donc je vote oui, même si la hausse de la TVA pèse sur la consommation."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Le bruit des pétards gêne les animaux, les personnes âgées et les quartiers du centre-ville, donc je suis tentée par le oui, même si je tiens aux fêtes du 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.08,
+      "raison": "Je ne veux pas revenir sur l'imposition individuelle qui protège l'autonomie financière des femmes mariées, et les Verts sont contre, donc non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.7,
+      "oui_proba": 0.1,
+      "raison": "Assouplir les exportations d'armes vers des pays en conflit me paraît incompatible avec la neutralité et la responsabilité de la Suisse, et le PS comme les Verts s'y opposent, donc non."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p13",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Passer de 21 % à plus de la moitié des terres en bio en dix ans, ça se décide en mairie, mais c'est nous qui allons perdre du rendement et de l'argent pendant la transition.",
+    "engagement": 1,
+    "freins_participation": [
+      "Le prix du lait bio ne compense pas la baisse de rendement sur des herbages conventionnels",
+      "Une conversion ratée pourrait coûter cher à l'exploitation familiale que je reprendrai",
+      "Des objectifs fixés par la commune et l'administration, sans que les paysans aient vraiment été consultés",
+      "Aucun débouché sûr pour le lait bio, ni à la fromagerie villageoise ni chez les acheteurs",
+      "Des habitants de la ville qui réclament du bio sans en assumer le coût"
+    ],
+    "ce_qui_me_ferait_venir": "Un prix garanti pour le lait bio et un débouché local signé avant toute conversion, des aides qui couvrent la période de transition, et une discussion entre paysans voisins plutôt qu'un objectif décidé d'en haut."
+  }
+}

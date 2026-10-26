@@ -1,0 +1,95 @@
+{
+  "id": "p02",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Une défense du pays, je trouve ça normal, on sait ce que ça veut dire protéger son territoire. Mais des avions de combat à ce prix, alors que le lait ne couvre pas toujours le travail, j'ai du mal à dire oui sans réserve."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je vis seul, donc le mariage ne me touche pas directement. Je pense que l'État ne devrait pénaliser personne, mais graver une définition du mariage dans la Constitution me paraît compliqué et loin de mes soucis de ferme."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis indépendant, l'AVS c'est ma retraite, donc je veux qu'elle tienne. Mais une hausse de la TVA touche tout le monde, y compris ce que j'achète pour la ferme, et je n'aime pas payer pour des choix faits à Berne."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis d'accord que les décisions importantes doivent se prendre ici et pas à l'étranger, je le dis depuis longtemps. Mais nos accords avec l'UE protègent aussi le fromage et le lait qu'on exporte, et je ne veux pas risquer ça pour un slogan."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Sur mon exploitation, les accords avec l'UE comptent pour l'export de notre fromage et pour la main-d'œuvre quand il faut. Je comprends qu'on en ait assez des décisions prises à Bruxelles, mais couper ces accords par une initiative, je n'en suis pas convaincu."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Protéger l'espace aérien, c'est une tâche de l'État que je comprends. Six milliards, c'est beaucoup, et je ne suis pas sûr que le choix du modèle se fasse au mieux, mais je ne veux pas que l'armée reste sans avions."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.15,
+      "raison": "Je n'ai pas de lien direct avec ce sujet. La recherche médicale et vétérinaire protège aussi les bêtes et les gens, donc une interdiction totale me paraît trop rigide, et je ne me sens pas concerné au point d'aller voter pour ça."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.9,
+      "oui_proba": 0.2,
+      "raison": "C'est mon métier qui est visé directement. Des normes au niveau de Bio Suisse pour toutes les bêtes, y compris les importées, avec une transition pouvant aller jusqu'à 25 ans, ça veut dire des étables à refaire et un lait plus cher à produire, alors que mes vaches sont déjà sur l'herbe et que les règles sont strictes."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "En tant qu'indépendant, je sais qu'il faut financer l'AVS, donc je comprends la nécessité. Mais c'est une TVA en plus sur tout ce que j'achète, et je ne vois pas pourquoi on demande un effort aux gens avant d'avoir regardé les dépenses."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "Je tiens à la neutralité, c'est ce qui permet à la Suisse de rester en paix sans se mêler aux guerres des autres, et c'est une décision qu'on prend ici. Je me méfie des sanctions qu'on nous impose depuis l'étranger, mais une neutralité inscrite à vie dans la Constitution, il faudrait bien voir ce qu'elle coûte."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.9,
+      "oui_proba": 0.35,
+      "raison": "Produire davantage ici, c'est ce que je défends depuis toujours, et l'approvisionnement du pays me tient à cœur. Mais on me demande de produire moins d'aliments d'origine animale et de mettre moins d'engrais et de produits, sans dire qui paie la différence, et c'est mon revenu qui est visé directement."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "La 13e rente a été acceptée par le peuple, il faut la financer et je ne le nie pas. Mais une hausse de la TVA, c'est un impôt de plus sur tout ce que j'achète, et pour un agriculteur dont le revenu dépend du prix du lait, chaque franc compte."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Les pétards du 1er août et du Nouvel An font paniquer mes vaches, et j'ai déjà vu des bêtes s'emballer dans l'étable. Limiter les pièces bruyantes, je suis pour, à condition que les grandes fêtes restent possibles et que ça ne devienne pas une interdiction générale décidée à Berne."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je vis seul, donc ça ne me concerne pas directement. Revenir sur l'imposition individuelle qui vient d'être décidée pour remettre les couples mariés dans une catégorie à part, ça coûte cher à l'État et ça désavantage les personnes seules."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Livrer des armes à un pays impliqué dans un conflit me met mal à l'aise. Je tiens à notre image de pays qui ne prend pas parti, et je ne veux pas que la neutralité serve d'argument commercial. Je ne suis pas contre l'industrie, mais pas à ce prix."
+    }
+  ]
+}

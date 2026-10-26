@@ -1,0 +1,97 @@
+{
+  "id": "p29",
+  "portrait": "J'ai 77 ans et je suis retraitée après une carrière dans l'administration. Avec mon conjoint, nous vivons depuis une quinzaine d'années dans un quartier résidentiel récent de Vuadens, et nos enfants ont quitté la maison depuis longtemps. Je vote à chaque scrutin fédéral, je suis proche du PS et je m'intéresse à la manière dont on prend soin de la nature, de l'eau et de ceux qui travaillent la terre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Si les paysans ne peuvent pas vivre de leur travail, le bio restera un luxe pour les gens comme nous qui pouvons payer plus cher.",
+      "engagement": 2,
+      "freins_participation": ["je connais mal le métier d'agriculteur", "les réunions en soirée me fatiguent"],
+      "ce_qui_me_ferait_venir": "Un rendez-vous en journée avec des agriculteurs qui expliquent leurs chiffres, et la garantie que les aides profitent aussi aux petites exploitations familiales."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Je veux bien acheter directement à la ferme, mais je ne sais pas par où commencer et je n'ai pas envie de m'imposer.",
+      "engagement": 1,
+      "freins_participation": ["je ne sais pas à qui m'adresser", "je crains d'être une intruse dans le monde agricole", "je n'ai pas de voiture pour aller jusqu'aux fermes"],
+      "ce_qui_me_ferait_venir": "Une liste claire des fermes proches, avec une visite organisée à laquelle je pourrais aller avec des voisins."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Ce qui me touche, c'est que mes petits-enfants trouvent encore une eau propre et des prairies fleuries, pas seulement des champs nus.",
+      "engagement": 2,
+      "freins_participation": ["les débats sur l'avenir restent trop abstraits pour moi", "j'ai le sentiment que ce sont les spécialistes qui décident"],
+      "ce_qui_me_ferait_venir": "Des exemples concrets de ce que deviendraient les sols et l'eau, et un compte rendu écrit des propositions retenues."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Il faudrait que les agriculteurs soient fiers de ce qu'ils font et qu'on le voie, par exemple lors d'une fête à la ferme.",
+      "engagement": 1,
+      "freins_participation": ["je n'aime pas prendre la parole en public", "les périodes de travaux agricoles rendent les échanges difficiles"],
+      "ce_qui_me_ferait_venir": "Une fête de village ou une journée portes ouvertes à la ferme, plutôt qu'une séance formelle."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 20,
+    "role": "relai",
+    "cercle_type": "Voisinage du quartier, anciennes relations du milieu associatif, groupe de retraités et quelques proches engagés dans la section locale du parti."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Je cherche des produits équitables et respectueux de l'environnement, même si je ne suis pas sûre que cela change vraiment la vie des petits paysans."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible aux petites fermes, mais une initiative qui parle de droits de douane et d'OGM me paraît trop fermée sur elle-même."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "L'eau potable est essentielle, et lier les paiements directs à des pratiques moins chimiques me paraît juste."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.65,
+      "raison": "Je comprends la volonté d'interdire les pesticides de synthèse, mais une interdiction en dix ans peut mettre des fermes en difficulté, ce qui me fait hésiter."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Je soutiens la protection du climat et les aides pour changer de chauffage, mais la taxe sur les billets d'avion et les hausses sur les combustibles pèsent sur les budgets modestes."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "La dignité des animaux de rente me touche, et des règles proches du cahier des charges Bio Suisse me semblent raisonnables, avec une transition longue pour les fermes."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Zéro émission nette d'ici 2050 est un objectif que je soutiens, et les aides pour remplacer les chauffages fossiles aident les familles."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Protéger la nature et le paysage, c'est exactement ce que je souhaite pour Vuadens et pour nos enfants."
+    }
+  ]
+}

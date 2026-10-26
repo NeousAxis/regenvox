@@ -1,0 +1,11 @@
+{
+  "id": "p12",
+  "reactions": [
+    {
+      "item_id": "gen01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Éligible sur le papier, mais l'assemblée tombait un mercredi soir de mai 2023, sans indice qu'il ait vu l'annonce ni suivi la vie communale, et ses horaires de vente ou de restauration rendent une soirée fixe difficile, tandis que vivant seul, il en parlerait rarement."
+    }
+  ]
+}

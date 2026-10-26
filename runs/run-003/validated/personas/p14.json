@@ -1,0 +1,143 @@
+{
+  "id": "p14",
+  "portrait": "J'ai 60 ans, je suis technicien dans l'industrie de la région, et je vis à Vuadens avec ma femme et nos enfants, dans un quartier résidentiel récent. Je vote plutôt UDC parce que j'ai l'impression qu'on demande toujours aux gens de mon milieu de payer et de se taire, pendant que les décisions se prennent ailleurs. Les idées venues de la ville, je m'en méfie un peu, mais je respecte les paysans qui travaillent dur pour nourrir le pays.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si le paysan gagne bien sa vie, le reste suivra tout seul, mais qu'on ne vienne pas nous dire comment cultiver. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Les soirées en semaine après le travail",
+        "Je n'ai pas de lien direct avec le monde agricole",
+        "L'impression que les décisions sont déjà prises ailleurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur le prix du lait et les débouchés, présentés par des agriculteurs que je connais, avec la garantie que le choix reste libre."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Être partenaire d'une ferme, c'est un joli mot, mais qui va payer la différence de prix quand on passe au bio ? »",
+      "engagement": 0,
+      "freins_participation": [
+        "Mon budget ne permet pas de payer plus cher pour l'alimentation",
+        "Je ne vois pas ce que j'apporterais à une ferme",
+        "Ce genre de démarche finit souvent en discours"
+      ],
+      "ce_qui_me_ferait_venir": "Un vrai circuit local avec des prix raisonnables, par exemple une vente directe au village, sans qu'on me fasse la leçon sur mes courses."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans, je ne serai plus là. Les jeunes feront ce qu'ils voudront, et je ne sais pas si la terre sera encore cultivée. »",
+      "engagement": 0,
+      "freins_participation": [
+        "La question est trop vague pour moi",
+        "Je ne vois pas ce que je peux faire concrètement",
+        "Je ne fréquente pas ce genre d'ateliers"
+      ],
+      "ce_qui_me_ferait_venir": "Une question concrète sur les terres à reprendre, la succession des fermes et l'aide aux jeunes qui veulent s'installer."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Les paysans font déjà beaucoup pour les haies et les prairies. Reconnaître ça, c'est bien, mais ça ne paie pas la facture. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Ça me semble surtout être du discours",
+        "Je ne vois pas bien ce que la reconnaissance changerait",
+        "Je n'ai pas le temps de m'investir"
+      ],
+      "ce_qui_me_ferait_venir": "Une démarche concrète, comme une journée portes ouvertes dans les fermes, où l'on voit ce qui se fait réellement sur le terrain."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 10,
+    "role": "suiveur",
+    "cercle_type": "collègues de l'atelier, famille élargie, voisins du quartier et quelques membres d'une société locale du village"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Chez nous il n'y a pas de chalets de vacances, donc ça ne me touche pas directement. Je n'aime pas qu'on décide depuis Berne ce qu'on a le droit de construire."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Limiter les zones à bâtir, je comprends le principe, mais on manque déjà de terrains pour nos enfants. Je ne veux pas d'immeubles partout dans le village."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Une seule planète par personne en 2050, c'est irréaliste. Ça ferait fermer des entreprises de la zone industrielle et des fermes avec elles."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je travaille dans l'industrie, il me faut une électricité stable. Sortir du nucléaire sans alternative claire fait monter les prix, et ça, je l'ai vu sur ma facture."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Les économies d'énergie, d'accord, mais les subventions et les taxes finissent toujours sur la facture des gens comme moi."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Manger des produits d'ici, je suis pour. Mais une initiative qui veut des conditions équitables partout dans le monde reste floue et rendra les produits plus chers."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Protéger la production indigène et l'agriculture paysanne, ça me parle, c'est ce qui fait vivre les fermes d'ici. Je me méfie quand même d'un texte qui veut tout inscrire dans la Constitution."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques met la pression sur les paysans. Ils savent ce qu'ils font, pas besoin d'une loi pour les contrôler."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Sans produits, les rendements baissent et les paysans risquent de perdre leur revenu. Réduire, je veux bien, mais interdire, non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Taxe sur les billets d'avion et taxe CO2 qui augmente, ça pèse sur le budget des familles. Protéger le climat, oui, mais pas en nous faisant payer plus cher le chauffage."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Les éleveurs d'ici ont déjà des règles strictes et des contrôles. Cette initiative veut aller plus loin, ça coûte cher aux fermes et ça ne règle rien à l'étranger."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Zéro émission nette en 2050, c'est un objectif lointain, et les aides servent surtout à remplacer les chauffages. Je n'aime pas qu'on me dise comment me chauffer."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "La nature, personne n'est contre. Mais on a déjà mis des surfaces en réserve et les agriculteurs perdent des terres. Plus de surfaces et plus d'argent, je me demande qui paie."
+    }
+  ]
+}

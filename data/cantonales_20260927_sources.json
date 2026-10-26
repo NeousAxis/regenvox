@@ -1,0 +1,191 @@
+[
+  {
+    "canton": "VD",
+    "titre": "Initiative populaire « Baisse d’impôts pour tous – Redonner du pouvoir d’achat à la classe moyenne »",
+    "resume_neutre": "Un oui introduirait une loi réduisant de 12 % l'impôt cantonal sur le revenu et sur la fortune des personnes physiques, dès la période fiscale 2027. Cette baisse de 12 % remplacerait la réduction de 7 % de l'impôt sur le revenu déjà prévue pour 2027 (le Conseil d'État présenterait un projet de loi pour l'annuler, afin d'éviter un cumul) et rendrait caduque la réforme du bouclier fiscal décidée par le Grand Conseil. Selon la brochure, les autorités estiment le coût réel à 272 millions de francs par an (536 millions de baisse, moins 264 millions déjà prévus), tandis que le comité d'initiative estime que l'État a les moyens d'absorber la baisse.",
+    "recommandation_autorites": {
+      "conseil_etat": "NON (rejet de l'initiative ; position prise le 18 septembre 2024)",
+      "grand_conseil": "NON (rejet de l'initiative)",
+      "vote_grand_conseil": "91 non, 31 oui, 14 abstentions (séance plénière du 4 décembre 2024)",
+      "note": "La brochure officielle indique : « Le Conseil d'État et le Grand Conseil recommandent de voter NON ». La Commission des finances avait proposé le rejet à une très large majorité."
+    },
+    "mots_d_ordre": {
+      "PLR": "OUI",
+      "PS": "NON",
+      "UDC": "OUI",
+      "Le Centre": "NON (assemblée des membres du 25 juin 2026 à Crissier, « une majorité des membres a voté contre cette initiative » ; décompte non indiqué sur la page du parti)",
+      "Vert-e-s": "NON",
+      "Vert'libéraux": "OUI",
+      "Ensemble à Gauche / POP": "NON",
+      "MCG": "non applicable (parti sans groupe au Grand Conseil vaudois, absent du tableau officiel)",
+      "origine_tableau": "PLR, PS, UDC, Vert-e-s, PVL et Ensemble à Gauche/POP : document officiel « Positions des formations politiques représentées par un groupe au Grand Conseil vaudois », daté d'août 2026. Le Centre : page du parti publiée le 26 juin 2026."
+    },
+    "sources": [
+      "https://www.vd.ch/fileadmin/user_upload/themes/etat_droit/votations_elections/fichiers_pdf/VD260927_Brochure_cantonale.pdf",
+      "https://www.vd.ch/fileadmin/user_upload/themes/etat_droit/votations_elections/fichiers_pdf/CHVD260927_Position_des_partis.pdf",
+      "https://vd.le-centre.ch/12-pourcents/"
+    ]
+  },
+  {
+    "canton": "GE",
+    "titre": "Initiative populaire 198 « Pour une contraception gratuite » (IN 198)",
+    "resume_neutre": "Un oui demanderait au Grand Conseil de définir un cadre légal permettant au canton de prendre en charge l'ensemble des frais liés à la contraception dont l'efficacité est prouvée (contraception orale y compris d'urgence, implants, contraceptifs injectables, patchs, anneaux vaginaux, dispositifs intra-utérins, préservatifs), sans distinction de revenu ni d'âge ; l'interruption de grossesse est exclue. Aujourd'hui, la contraception n'est pas remboursée par l'assurance-maladie et les frais restent à la charge des personnes concernées. Le Grand Conseil a refusé l'initiative sans contreprojet, et les autorités estiment le coût à environ 20 millions de francs par an au maximum, hors frais d'organisation.",
+    "recommandation_autorites": {
+      "conseil_etat": "NON",
+      "grand_conseil": "NON (recommandation de vote du Grand Conseil)",
+      "vote_grand_conseil": "55 non, 30 oui, 1 abstention (séance du 13 février 2025)",
+      "note": "Le Conseil d'État privilégie des dispositifs ciblés sur les publics les plus concernés plutôt qu'une prise en charge universelle, et relève que la gratuité ne suffit pas sans information et accompagnement."
+    },
+    "mots_d_ordre": {
+      "PLR": "NON",
+      "PS": "OUI",
+      "UDC": "NON",
+      "Le Centre": "OUI",
+      "Vert-e-s": "OUI",
+      "Vert'libéraux": "NON",
+      "MCG": "NON",
+      "Libertés et Justice sociale (LJS)": "OUI",
+      "Ensemble à Gauche": "inconnu en tant que tel (non listé dans la brochure) ; composantes listées : solidaritéS OUI, Parti du Travail OUI, Union populaire OUI",
+      "autres_organisations_brochure": {
+        "Comité d'initiative": "OUI",
+        "CGAS": "OUI",
+        "FEMMES DU CENTRE": "OUI",
+        "JDC (Jeunes du Centre)": "OUI",
+        "Jeunes Libéraux-Radicaux": "NON",
+        "Jeunes Vert-e-s": "OUI",
+        "Jeunesse socialiste": "OUI",
+        "SIT": "OUI",
+        "SSP": "OUI",
+        "Perspective catholique": "NON"
+      }
+    },
+    "sources": [
+      "https://www.ge.ch/votations/20260927/doc/Brochure-cantonale.pdf"
+    ]
+  },
+  {
+    "canton": "GE",
+    "titre": "Loi ouvrant un crédit au titre de subvention cantonale d’investissement de 39 500 000 francs visant à accélérer la réalisation de projets transfrontaliers structurants pour Genève en matière de mobilité, d’environnement et de santé (13725), du 12 février 2026",
+    "resume_neutre": "Un oui ouvrirait un crédit de 39,5 millions de francs de subvention cantonale d'investissement pour cofinancer des projets situés sur sol français : 34,5 millions pour des infrastructures de mobilité en première couronne transfrontalière (bus à haut niveau de service, prolongement de tram, parkings-relais) dont le coût total est d'environ 183 millions, et 5 millions pour des projets d'environnement et de santé (crues de l'Arve, sécheresses, formation du personnel soignant). La part suisse (canton et Confédération) resterait inférieure à 50 % du coût de chaque projet, les partenaires français finançant le reste. Les autorités estiment que ces projets réduiraient d'environ 15 000 le nombre de véhicules franchissant chaque jour la frontière ; la loi est soumise au corps électoral par référendum obligatoire.",
+    "recommandation_autorites": {
+      "conseil_etat": "OUI",
+      "grand_conseil": "OUI (recommandation de vote du Grand Conseil)",
+      "vote_grand_conseil": "81 oui, 11 non, 1 abstention (séance du 12 février 2026)",
+      "note": "La minorité du Grand Conseil rappelle le refus populaire de 2014 sur un financement d'infrastructures situées en France et craint un manque de maîtrise genevoise et de réciprocité."
+    },
+    "mots_d_ordre": {
+      "PLR": "OUI",
+      "PS": "OUI",
+      "UDC": "inconnu dans la brochure (« --- ») ; liberté de vote selon une dépêche ATS du 27 août 2026",
+      "Le Centre": "OUI",
+      "Vert-e-s": "OUI",
+      "Vert'libéraux": "OUI",
+      "MCG": "NON",
+      "Libertés et Justice sociale (LJS)": "OUI",
+      "Ensemble à Gauche": "inconnu en tant que tel (non listé dans la brochure) ; composantes listées : solidaritéS OUI, Parti du Travail OUI, Union populaire OUI",
+      "autres_organisations_brochure": {
+        "CGAS": "OUI",
+        "CCIG": "OUI",
+        "FER Genève": "OUI",
+        "TCS": "OUI",
+        "Association transports et environnement": "OUI",
+        "Comité unitaire (15 000 véhicules par jour en moins)": "OUI",
+        "FEMMES DU CENTRE": "OUI",
+        "JDC (Jeunes du Centre)": "OUI",
+        "Jeunes Libéraux-Radicaux": "OUI",
+        "Jeunes Vert-e-s": "OUI",
+        "Jeunesse socialiste": "OUI",
+        "SIT": "OUI",
+        "SSP": "OUI",
+        "Comités opposés (« 40 millions en plus aux frontaliers, 2 millions en moins pour les étudiants », « Non aux ~40 millions versés à la France », « P+R français, ne soyons pas les dindons de la farce »)": "NON"
+      }
+    },
+    "sources": [
+      "https://www.ge.ch/votations/20260927/doc/Brochure-cantonale.pdf",
+      "https://latele.ch/articles/large-coalition-derriere-les-39-5-millions-pour-reduire-le-trafic"
+    ]
+  },
+  {
+    "canton": "GE",
+    "titre": "Loi modifiant la loi sur les démolitions, transformations et rénovations de maisons d’habitation (mesures de soutien en faveur des locataires et de l’emploi) (LDTR) (Pour que les locataires puissent devenir, s’ils le souhaitent, propriétaires de leur propre logement) (L 5 20 – 13025), du 12 décembre 2025",
+    "resume_neutre": "Un oui assouplirait la LDTR pour faciliter l'achat de son logement par un locataire : le département autoriserait la vente à un locataire qui occupe l'appartement depuis au moins 3 ans et à qui la protection contre le congé-vente a été notifiée, à condition que les autres locataires de l'immeuble aient la garantie de ne pas être contraints d'acheter ou de partir. Le prix de vente du mètre carré PPE ne pourrait pas dépasser le prix moyen des opérations en PPE approuvées en zone de développement durant les 3 dernières années, et le logement devrait être occupé par l'acquéreur pendant 5 ans, sauf justes motifs. La loi est soumise au vote suite à un référendum ; ses opposants y voient un risque de retour des congés-ventes, ses partisans un moyen de favoriser l'accès à la propriété.",
+    "recommandation_autorites": {
+      "conseil_etat": "ne prend pas position",
+      "grand_conseil": "OUI (recommandation de vote du Grand Conseil)",
+      "vote_grand_conseil": "59 oui, 33 non, 1 abstention (séance du 12 décembre 2025)",
+      "note": "La brochure indique que seul le Grand Conseil invite à voter OUI, le Conseil d'État ne prenant pas position. Deux minorités du Grand Conseil s'y opposent : crainte du retour des congés-ventes, et crainte d'une diminution du parc locatif abordable et d'un frein aux rénovations énergétiques."
+    },
+    "mots_d_ordre": {
+      "PLR": "OUI",
+      "PS": "NON",
+      "UDC": "NON",
+      "Le Centre": "OUI",
+      "Vert-e-s": "NON",
+      "Vert'libéraux": "OUI",
+      "MCG": "OUI",
+      "Libertés et Justice sociale (LJS)": "NON",
+      "Ensemble à Gauche": "inconnu en tant que tel (non listé dans la brochure) ; composantes listées : solidaritéS NON, Parti du Travail NON, Union populaire NON",
+      "autres_organisations_brochure": {
+        "Comité référendaire contre la loi modifiant la LDTR": "NON",
+        "ASLOCA": "NON",
+        "Locataires contre les congés-ventes": "NON",
+        "CGAS": "NON",
+        "SIT": "NON",
+        "SSP": "NON",
+        "Chambre genevoise immobilière": "OUI",
+        "CCIG": "OUI",
+        "FER Genève": "OUI",
+        "Pour devenir propriétaire": "OUI",
+        "Pour un libre choix": "OUI",
+        "Acheter son logement à prix accessible": "OUI",
+        "Acheter son logement sans déménager": "OUI",
+        "JDC (Jeunes du Centre)": "NON",
+        "Jeunes Libéraux-Radicaux": "OUI",
+        "Jeunes Vert-e-s": "NON",
+        "Jeunesse socialiste": "NON"
+      }
+    },
+    "sources": [
+      "https://www.ge.ch/votations/20260927/doc/Brochure-cantonale.pdf"
+    ]
+  },
+  {
+    "canton": "GE",
+    "titre": "Loi accordant une indemnité à la Haute école spécialisée de Suisse occidentale – Genève pour les années 2025 à 2028 (13579), du 12 décembre 2025",
+    "resume_neutre": "Un oui ratifierait le contrat de prestations 2025 à 2028 entre l'État et la HES-SO Genève et fixerait l'indemnité cantonale à 35 187 886 francs en 2025, 33 351 038 francs en 2026, 33 480 692 francs en 2027 et 33 555 020 francs en 2028. Ces montants intègrent une diminution de 2 millions de francs par an dès 2026 par rapport aux 35 millions initialement prévus, décidée pour tenir compte de la hausse des taxes d'études (estimée à 3 millions de francs par an) entrée en vigueur à la rentrée 2025. La loi est soumise au corps électoral parce qu'elle a fait l'objet d'un référendum.",
+    "recommandation_autorites": {
+      "conseil_etat": "OUI",
+      "grand_conseil": "OUI (recommandation de vote du Grand Conseil)",
+      "vote_grand_conseil": "50 oui, 44 non, 0 abstention (séance du 12 décembre 2025)",
+      "note": "Le Conseil d'État soutient la loi et rappelle que le financement cantonal est subsidiaire aux autres ressources de la HES-SO Genève. La minorité du Grand Conseil et le comité référendaire demandent de maintenir les 35 millions par an."
+    },
+    "mots_d_ordre": {
+      "PLR": "OUI",
+      "PS": "NON",
+      "UDC": "OUI",
+      "Le Centre": "OUI",
+      "Vert-e-s": "NON",
+      "Vert'libéraux": "OUI",
+      "MCG": "NON",
+      "Libertés et Justice sociale (LJS)": "OUI",
+      "Ensemble à Gauche": "inconnu en tant que tel (non listé dans la brochure) ; composantes listées : solidaritéS NON, Parti du Travail NON, Union populaire NON",
+      "autres_organisations_brochure": {
+        "Comité référendaire contre la loi 13579": "NON",
+        "Front populaire contre les coupes dans la formation": "NON",
+        "« 40 millions en plus aux frontaliers, 2 millions en moins pour les étudiants : 2 fois NON ! »": "NON",
+        "« Non aux ~40 millions versés à la France »": "NON",
+        "CGAS": "NON",
+        "SIT": "NON",
+        "SSP": "NON",
+        "Commission Contributive Citoyenne": "NON",
+        "JDC (Jeunes du Centre)": "NON",
+        "Jeunes Libéraux-Radicaux": "OUI",
+        "Jeunes Vert-e-s": "NON",
+        "Jeunesse socialiste": "NON"
+      }
+    },
+    "sources": [
+      "https://www.ge.ch/votations/20260927/doc/Brochure-cantonale.pdf"
+    ]
+  }
+]

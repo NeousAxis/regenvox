@@ -1,0 +1,29 @@
+{
+  "id": "p36",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "La pilule et le reste, à mon âge ça ne me concerne plus vraiment, et je ne vois pas pourquoi l'État paierait 20 millions alors que nos primes ne cessent d'augmenter, l'UDC dit non à ces dépenses et je suis de cet avis."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Payer des tramways et des bus en France avec l'argent des Genevois, alors qu'on attend les transports chez nous depuis des années et que les frontaliers nous prennent déjà les places de travail, ça ne passe pas pour moi."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Locataire depuis des années, je n'ai pas les moyens d'acheter mon appartement, et j'ai peur que ça serve aux propriétaires pour vendre et faire partir les gens comme avec les anciens congés-ventes, donc l'UDC et le PS disent non, et je pense comme eux."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.55,
+      "raison": "Les hautes écoles me concernent peu, mais l'UDC et le PLR disent oui, et deux millions de moins par an pour la HES ne vont pas la mettre à genoux, je ne suis pas certaine donc je suivrais la consigne de mon parti."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p33",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.92,
+      "raison": "L'AVS doit rester solide pour mes parents et pour les générations qui suivent, et le PS soutient ce relèvement de la TVA."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.85,
+      "raison": "Une hausse temporaire de la TVA pour assainir l'AI me paraît juste, car l'AI aide des personnes qui n'ont pas les moyens de se défendre seules."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.72,
+      "raison": "Je ne veux pas que la Suisse vende des armes à des pays en guerre, c'est la position du PS, même si le texte est peut-être trop strict."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Le service obligatoire me paraît dépassé, mais je doute qu'un service volontaire suffise à assurer la défense du pays, donc je suis partagée."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.08,
+      "raison": "Mettre fin à la libre circulation avec l'UE mettrait en danger nos emplois, nos accords et les familles qui vivent ici, je vote non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je ne suis pas convaincue qu'il faille affecter tant d'argent à des avions de combat alors que les besoins sociaux sont criants."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Inscrire dans la Constitution une définition du mariage qui désavantagerait les autres formes de vie commune me paraît injuste, je vote non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Je suis partagée: l'AVS a besoin de cet argent, mais je n'aime pas que l'âge de la retraite des femmes monte à 65 ans."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Je suis sensible au bien-être des animaux, mais je ne vois pas pourquoi l'État devrait payer pour que des vaches gardent leurs cornes."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.55,
+      "oui_proba": 0.06,
+      "raison": "Je tiens aux accords avec nos voisins et au respect des droits humains, et ce texte mettrait la Suisse en conflit avec ses engagements internationaux."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.8,
+      "raison": "Je soutiens la coopération Schengen, et les exceptions prévues pour les tireurs et l'arme d'ordonnance rendent la reprise de la directive raisonnable."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "La libre circulation a permis à des proches de travailler ici, et cette initiative mettrait nos accords avec l'UE en danger, je vote non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je suis attachée à la protection du loup et des espèces sauvages, et cette loi facilite trop les tirs de régulation, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Six milliards pour de nouveaux avions de combat me paraissent beaucoup alors que les besoins sociaux et climatiques sont là, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Je ne veux pas que la Banque nationale ou les caisses de pension financent la fabrication d'armes, et je rejoins la position du PS sur ce point."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "L'eau potable et la santé des sols me préoccupent, je penche pour le oui, même si je pense aussi aux paysans de la région."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Je veux moins de pesticides, mais l'interdiction totale de la synthèse en dix ans me paraît trop brutale pour nos agriculteurs, je reste indécise."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.95,
+      "raison": "Chaque couple doit pouvoir se marier civilement, et ce changement ne retire rien à personne, c'est une évidence pour moi."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la cause animale, mais je pense que la recherche médicale a besoin d'essais encadrés, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je suis attachée à Schengen, mais je doute de Frontex lorsqu'il s'agit du traitement des migrants, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Des standards de bien-être animal identiques pour les importations me paraissent justes, même si la transition de 25 ans est longue."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.3,
+      "raison": "L'AVS a besoin d'argent, mais je n'accepte pas que l'âge de la retraite des femmes monte à 65 ans sans compensation suffisante, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je constate autour de Delémont la perte de prairies et de nature, et ce texte donne des moyens concrets pour les protéger."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Je vis seule et ce changement me touche peu, mais chaque personne doit être imposée sur ses propres revenus, c'est une question d'égalité."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.07,
+      "raison": "Dénoncer la libre circulation mettrait nos accords avec l'UE et nos emplois en danger, et un plafond de 10 millions ne règle rien à mon avis."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je trouve injuste de durcir l'accès au service civil pour les personnes déjà incorporées dans l'armée, donc je penche pour le non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "La neutralité me tient à cœur, mais ce texte rendrait la Suisse trop rigide face aux conflits et empêcherait certaines coopérations internationales, donc je penche pour le non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible aux pesticides et à l'eau potable, mais viser 70 % d'aliments produits en Suisse en dix ans me paraît irréaliste et ferait monter des prix que mon budget de retraitée ne supporte pas."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.95,
+      "raison": "Je touche la 13e rente AVS et elle compte beaucoup dans mon budget, et cette hausse épargne les denrées et les médicaments, donc je vote oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Les pétards du Nouvel An me font peur et effraient les animaux du quartier, et je trouve raisonnable de garder des exceptions pour le 1er août, donc je penche pour le oui."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Le peuple vient de choisir l'imposition individuelle en mars, et revenir à l'imposition commune remettrait en cause l'égalité entre époux, donc je vote non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Livrer des armes à un pays impliqué dans un conflit me paraît contraire à la neutralité humanitaire que je défends, donc je vote non."
+    }
+  ]
+}

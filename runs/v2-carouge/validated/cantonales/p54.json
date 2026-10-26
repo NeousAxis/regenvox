@@ -1,0 +1,29 @@
+{
+  "id": "p54",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Avec des enfants à la maison, je sais ce que coûtent la pilule et les autres moyens de contraception, donc l'idée me parle et 20 millions par an me paraissent raisonnables, même si je me demande si c'est à l'État de payer plutôt qu'à l'assurance-maladie."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Les bouchons à la frontière, je les subis tous les jours, donc un tram et des bus à haut niveau de service me paraissent utiles, mais financer des projets en France alors que le trafic pèse chez nous passe mal, surtout après le refus populaire de 2014, et je reste partagé."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.42,
+      "raison": "Acheter son logement à un prix plafonné peut être une vraie chance pour un locataire, mais le risque de congés-ventes et la baisse des logements abordables me font pencher pour le non, même si je comprends l'envie de devenir propriétaire."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.25,
+      "oui_proba": 0.5,
+      "raison": "Je n'ai pas suivi ce dossier de près, 2 millions de moins par an me paraissent un ajustement raisonnable et les partis de droite recommandent le oui, donc je pencherais pour le oui sans grande conviction."
+    }
+  ]
+}

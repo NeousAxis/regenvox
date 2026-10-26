@@ -1,0 +1,29 @@
+{
+  "id": "p60",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Je n'en ai plus l'usage à mon âge, mais c'est une mesure de santé publique juste que Le Centre défend, et 20 millions par an restent raisonnables pour le canton ; je reste attentive au coût."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.78,
+      "raison": "Les bouchons à la frontière me pèsent chaque matin, et des transports qui désengorgent Genève sont utiles, même si la part suisse doit rester strictement limitée."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "J'aime l'idée qu'un locataire puisse devenir propriétaire de son logement, et le plafonnement du prix me rassure, mais je crains que des congés-ventes ne se multiplient et ne fassent disparaître des logements locatifs abordables."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.62,
+      "raison": "Une haute école qui forme bien les jeunes de la région compte pour Genève, et la baisse de deux millions reste modeste, même si le comité référendaire a peut-être raison de demander 35 millions."
+    }
+  ]
+}

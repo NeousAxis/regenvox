@@ -1,0 +1,140 @@
+{
+  "id": "p43",
+  "portrait": "Je suis retraitée, j'ai 71 ans, et je vis avec mon mari dans un quartier résidentiel assez récent de Vuadens, nos enfants ont quitté la maison depuis longtemps. Je suis proche du Centre : je crois au travail bien fait et aux gens du pays, et je me méfie des projets venus d'en haut ou de la ville qui arrivent avec beaucoup de grands mots. Je m'intéresse à ce qui se passe au village, mais je n'ai ni le temps ni l'envie de m'engager dans tout ce qui se propose.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Si nos paysans ne peuvent pas vivre de leur travail, il n'y aura plus rien dans nos champs. Le bio, pourquoi pas, mais à condition qu'il les fasse vivre. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne connais pas bien les chiffres du bio et je n'ai pas envie de donner un avis sur ce que je ne maîtrise pas",
+        "les soirées en semaine, je n'aime pas sortir le soir"
+      ],
+      "ce_qui_me_ferait_venir": "Entendre les agriculteurs de Vuadens raconter eux-mêmes leurs comptes, sans experts venus de la ville."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Acheter local, je veux bien, mais avec ma retraite je regarde chaque franc, et je ne vais pas payer le double pour des œufs. »",
+      "engagement": 0,
+      "freins_participation": [
+        "je n'ai ni le temps ni le budget pour payer plus cher",
+        "je ne sais pas comment on devient partenaire d'une ferme",
+        "j'ai l'impression que ce sont toujours les mêmes personnes qui s'impliquent"
+      ],
+      "ce_qui_me_ferait_venir": "Un marché de producteurs au village, avec des prix raisonnables et des gens que je connais."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Je pense à mes petits-enfants. J'aimerais qu'il reste des vaches et des prés fleuris par ici, mais je ne sais pas ce qu'il faudra faire pour ça. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je n'ai pas de vision précise de l'agriculture de demain",
+        "un atelier sur trente ans me paraît très abstrait"
+      ],
+      "ce_qui_me_ferait_venir": "Une question concrète sur ce que ça change pour mon quartier, mes impôts et le paysage autour de chez moi."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les paysans entretiennent les prés depuis toujours, je ne vois pas pourquoi il faudrait une démarche spéciale pour le leur dire. »",
+      "engagement": 0,
+      "freins_participation": [
+        "ça ne me concerne pas directement",
+        "on nous sollicite déjà beaucoup avec des démarches participatives"
+      ],
+      "ce_qui_me_ferait_venir": "Un geste simple et concret, comme une fête au village ou un panneau à l'entrée des fermes, pour que je m'y intéresse."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 20,
+    "role": "suiveur",
+    "cercle_type": "Famille proche (enfants et petits-enfants installés ailleurs), voisins du quartier, quelques connaissances du club local, dont certaines travaillent dans l'artisanat ou l'agriculture."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je ne vois pas pourquoi on limiterait les maisons des gens qui ont travaillé pour les acheter, même si je comprends qu'il faut protéger le paysage."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Il faut arrêter de grignoter les champs, je le vois bien autour du village, mais il faut aussi laisser les familles construire."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Une planète par personne, ça fait peur aux entreprises de la région et aux paysans qui doivent investir, je reste sur mon avis."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas pour le nucléaire à tout prix, mais on ne ferme pas une centrale sans savoir par quoi la remplacer, et les factures vont monter."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Les énergies renouvelables, pourquoi pas, mais les subventions et les taxes, c'est toujours le citoyen qui paie, donc je suis partagée."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Que les produits importés respectent les mêmes règles que chez nous, c'est juste pour nos paysans, mais je crains que ça fasse monter les prix."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Nourrir notre pays avec nos paysans, c'est important, mais les droits de douane font monter les prix, et les retraités comme nous paient la note."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "De l'eau propre, je la veux, mais supprimer les paiements directs, c'est la fin de beaucoup de fermes d'ici, ça je ne peux pas l'accepter."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "Les pesticides m'inquiètent pour l'eau, mais dix ans pour tout arrêter, nos paysans ne tiendront pas, il faut y aller par étapes."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je veux bien faire ma part, mais les taxes sur l'essence et l'avion pèsent surtout sur ceux qui vivent à la campagne et doivent prendre la voiture."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Les animaux doivent être bien traités, mais je connais des éleveurs qui font déjà bien leur travail, et cette initiative les mettrait en difficulté face aux importations."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Le climat, c'est sérieux, mais il faut que les aides aillent aussi aux gens qui doivent changer leur chauffage, pas seulement aux entreprises."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Protéger la nature, oui, mais on n'a pas besoin de nouvelles interdictions dans les champs, les paysans font déjà beaucoup."
+    }
+  ]
+}

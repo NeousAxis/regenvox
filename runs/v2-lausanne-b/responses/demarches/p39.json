@@ -1,0 +1,15 @@
+{
+  "id": "p39",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.008, "partage_proba": 0.02, "raison": "Consultation ciblée sur les usagers du site de Sauvabelin, avec un atelier de trois heures un samedi après-midi : à 20 ans et en centre-ville, je n'ai aucune raison de m'y rendre et je n'en entends probablement pas parler."},
+    {"item_id": "lau01", "participe_proba": 0.025, "partage_proba": 0.04, "raison": "Premier budget participatif, peu médiatisé à l'époque : je ne suis pas sûr de l'avoir remarqué, et si je vote, c'est par curiosité, rarement."},
+    {"item_id": "lau02", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Deuxième édition pendant la pandémie, avec un vote en ligne ou en urne peu visible, et aucun projet précis qui me touche directement."},
+    {"item_id": "lau10", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "Sondage en ligne de cinq minutes sur le plan d'affectation, un thème urbanistique abstrait pour moi : je l'ai peut-être vu passer sans y répondre, et je n'en parle presque jamais."},
+    {"item_id": "lau03", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Le bulletin préaffranchi arrive à mon domicile, ce qui facilite le vote, mais le budget participatif reste peu concret pour moi et je ne m'implique pas dans la vie de mon quartier."},
+    {"item_id": "lau08", "participe_proba": 0.05, "partage_proba": 0.05, "raison": "Questionnaire anonyme de quinze questions sur la fermeture des quais, sans lien direct avec ma vie quotidienne : je réponds peut-être si je tombe sur l'annonce, mais je n'en ai probablement pas entendu parler."},
+    {"item_id": "lau04", "participe_proba": 0.05, "partage_proba": 0.07, "raison": "Bulletin nominatif envoyé à domicile, mais le vote s'étale sur six semaines et le budget participatif n'est pas un sujet de discussion dans mon entourage, donc je le laisse souvent passer."},
+    {"item_id": "lau09", "participe_proba": 0.07, "partage_proba": 0.09, "raison": "Consultation sur le racisme qui touche mon quotidien d'étranger en Suisse, avec des questionnaires papier au Bureau lausannois pour les immigrés que je pourrais croiser : je réponds peut-être, mais sans suite concrète visible pour moi."},
+    {"item_id": "lau05", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Bulletin nominatif envoyé à toute la population, étrangers compris : je pourrais voter en prenant le temps, mais entre mes obligations familiales et mon quotidien, je le mets souvent de côté."},
+    {"item_id": "lau06", "participe_proba": 0.04, "partage_proba": 0.06, "raison": "Bulletin préaffranchi reçu à domicile et vote en ligne possible, mais aucun projet ne me pousse à voter et mon emploi du temps de parent seul me laisse peu de disponibilité."}
+  ]
+}

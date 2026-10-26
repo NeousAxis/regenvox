@@ -1,0 +1,17 @@
+{
+  "id": "p21",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "En juin 2024 je n'avais pas vraiment entendu parler de cette promenade, et un atelier un samedi après-midi à Cointrin, dans un quartier qui n'est pas le mien, ne m'aurait pas donné envie d'y aller."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "Un questionnaire en ligne sur la culture me paraît faisable, mais je ne suis pas très engagée dans la vie associative ou culturelle de la commune, donc je l'aurais probablement laissé passer."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "p08",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Ce débat concerne surtout les étudiants de l'EPFL et je ne suis pas touchée par la question de Palantir."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Les canicules m'inquiètent, surtout pour les personnes âgées que j'accompagne, mais je me méfie des longues listes d'exigences adressées au Parlement."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je trouve l'initiative excessive, mais je ne signe pas une demande pour la déclarer invalide, je préfère que le peuple tranche."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Cette affaire genevoise ne me concerne pas et je n'aime pas les pétitions de soutien dans un débat politique aussi tendu."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Le sujet touche mon métier et les jeunes, mais c'est une affaire genevoise et je ne signe pas les pétitions d'un autre canton."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Le lien entre santé et climat me parle, mais demander aux caisses de pension de changer leurs placements relève de la gestion financière, que je ne suis pas en mesure de juger."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "L'idée d'une assurance cantonale reste théorique, et le texte reconnaît lui-même qu'il s'agit d'un projet fictif, ce qui ne m'incite pas à signer."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.2,
+      "partage_proba": 0.1,
+      "raison": "L'AVS me concerne directement, et une durée de cotisation plutôt qu'un âge unique me paraît juste, surtout pour les femmes qui ont interrompu leur carrière pour élever leurs enfants."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Versoix ne fait pas partie de ma commune, je ne connais pas ce projet et je n'ai pas d'avis sur ce local."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.2,
+      "partage_proba": 0.1,
+      "raison": "Ce deuil est mal reconnu, et dans mon métier j'ai vu combien les familles concernées manquent de protection et de temps pour se remettre."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.12,
+      "partage_proba": 0.06,
+      "raison": "Dans mon travail je vois les délais d'attente pour une prise en charge, donc le sujet me concerne, mais je signe rarement les pétitions adressées aux parlementaires fédéraux."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je ne connais pas cette ferme vaudoise et je n'ai pas de lien avec la commune de Borex."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Les violences conjugales me touchent professionnellement, mais le Jura est loin de Savièse et je ne signe pas les campagnes en ligne sans lien avec ma région."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Lausanne est loin de chez moi et je ne connais pas ce tracé, même si la chaleur en ville est un vrai problème."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Les récits de renvois me bouleversent, mais je n'ai pas les éléments pour juger la situation et je fais confiance aux décisions de la Confédération en matière d'asile."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "Je comprends le besoin de formations adaptées, mais allonger le CFC à 4 à 6 ans me paraît peu réaliste pour les entreprises comme pour les finances publiques."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Filmer des femmes ou des enfants à leur insu me choque, mais une interdiction générale me paraît excessive, je préfère une réglementation précise de l'usage."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Le climat me préoccupe, mais ce texte demande des restrictions de consommation trop larges pour que je m'y associe."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.15,
+      "partage_proba": 0.08,
+      "raison": "Je vis sur le coteau au-dessus de Sion et je vois la sécheresse, donc la question des forêts me parle, mais je reste attentive à la maîtrise des dépenses publiques."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Le sujet est grave et je côtoie des victimes dans mon travail, mais ce texte reste très général et j'aurais besoin de savoir précisément ce que ferait la task force."
+    }
+  ]
+}

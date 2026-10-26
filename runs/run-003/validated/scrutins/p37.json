@@ -1,0 +1,95 @@
+{
+  "id": "p37",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Une armée qui protège le pays doit être équipée, et un fonds dédié évite de peser sur le budget ordinaire. Je voterai oui sans grande passion, à condition que le prix reste maîtrisé."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je n'ai pas envie d'inscrire une définition du mariage dans la Constitution, même si l'idée de ne pas pénaliser les couples mariés me parle. Le texte me paraît trop rigide, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "L'AVS doit être financée pour la génération de mes enfants, et la réforme reste équilibrée. La hausse de la TVA pèse sur les familles, mais je l'accepte à contrecœur."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à la sécurité juridique de nos accords avec l'Europe. Faire primer la Constitution sur tous les traités risquerait de fragiliser notre économie, même si je comprends l'attachement à la souveraineté."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "La libre circulation a soutenu nos entreprises et le marché du travail de la région. Mettre fin à l'accord avec l'Union européenne menacerait des emplois et nos échanges, donc je vote non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Une défense crédible a un coût, et le plafond de 6 milliards reste raisonnable. Je reste vigilant sur les dépenses, mais je fais confiance au Conseil fédéral pour choisir le bon modèle."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "La recherche médicale a besoin d'essais encadrés, et une interdiction totale me paraît excessive. Le sujet me touche peu au quotidien, je ne me déplacerais probablement pas."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je fais confiance aux éleveurs de la région, qui travaillent déjà correctement. Imposer des normes aux importations et une transition de 25 ans ferait monter les prix pour les familles, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "La réforme est nécessaire pour la pérennité des rentes, et la hausse de TVA reste limitée. C'est un effort raisonnable, même si chaque point de TVA compte pour un budget familial."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je suis attaché à la neutralité, mais un texte aussi rigide sur les sanctions et les alliances nous enfermerait et fragiliserait nos relations économiques. Je penche pour le non, sans être catégorique."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je soutiens l'agriculture de chez nous et les paysans du village, mais un objectif de 70 % d'aliments indigènes imposé en dix ans ferait monter les prix. Je préfère que la production s'adapte par le marché et les producteurs eux-mêmes."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je comprends qu'il faille financer la 13e rente, mais une hausse de TVA touche directement mon budget de famille. J'attends d'abord d'autres pistes d'économies, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Le bruit et la peur chez les animaux sont réels, surtout à la campagne, mais je n'aime pas les interdictions générales. Je pourrais dire oui si les cantons gardent la main sur les exceptions, c'est une question de bon sens."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Une famille avec enfants doit être traitée de manière juste, et l'imposition commune peut alléger certains couples. Mais nous venons d'accepter l'imposition individuelle en mars, et revenir en arrière me semble compliqué, donc je reste partagé."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Notre industrie de défense a besoin de règles claires, et la neutralité reste un garde-fou sous contrôle du Conseil fédéral. Je suis hésitant, car livrer des armes à un partenaire impliqué dans un conflit me dérange un peu."
+    }
+  ]
+}

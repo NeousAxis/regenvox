@@ -1,0 +1,17 @@
+{
+  "id": "p31",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le bio, pourquoi pas, mais c'est aux paysans de décider comment ils travaillent, pas à la commune ni à Berne. Moi je suis en formation, je ne vois pas ce que je peux changer à ça.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je ne suis pas agriculteur et je n'ai pas de terres à convertir",
+      "Je suis en formation, je n'ai ni le temps ni l'argent pour changer mes habitudes",
+      "Le bio coûte plus cher et je fais attention à mon budget",
+      "Je vis loin du centre, je ne vais pas aux ateliers organisés au village",
+      "Je me méfie des objectifs décidés en haut sans qu'on demande l'avis des gens d'ici"
+    ],
+    "ce_qui_me_ferait_venir": "Qu'on m'explique concrètement ce que ça change pour les paysans du village et qu'on leur garantisse un prix correct pour passer au bio. Si la commune le demandait vraiment aux gens d'ici, avec des chiffres sur les aides et les débouchés, je viendrais peut-être écouter, mais pas pour une simple réunion sur un objectif déjà fixé."
+  }
+}

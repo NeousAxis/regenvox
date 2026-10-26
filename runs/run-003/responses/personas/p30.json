@@ -1,0 +1,141 @@
+{
+  "id": "p30",
+  "portrait": "J'ai 31 ans, je suis artisan indépendant dans le bâtiment et je passe mes journées sur des chantiers de rénovation et de petites constructions entre Bulle et les villages alentour. Je vis avec ma compagne et nos enfants dans le quartier résidentiel récent de Vuadens, et je vote plutôt à droite, proche de l'UDC sur l'essentiel : je veux pouvoir travailler sans qu'on me complique la vie et que l'État me prenne le moins possible. Je vote quand un sujet me concerne, sans être un passionné de politique.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Les paysans ont besoin de vendre leur lait et leur viande à un prix correct, pas qu'on leur explique depuis la commune comment cultiver. Le bio, si ça marche pour certains, tant mieux, mais on ne transforme pas une ferme par décret. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps entre les chantiers et les enfants",
+        "Je ne crois pas qu'un atelier communal change le prix payé aux producteurs",
+        "Les démarches venues d'en haut me donnent l'impression que la décision est déjà prise"
+      ],
+      "ce_qui_me_ferait_venir": "Des garanties concrètes sur le revenu des agriculteurs, des prix d'achat qui suivent le coût de production, et l'assurance que la démarche n'ajoute ni contrôles ni paperasse pour les exploitations."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« J'achète déjà des œufs et de la viande chez le voisin quand je peux, mais le bio en magasin, c'est trop cher pour une famille avec des enfants. Si la commune met les fermes et les habitants en contact, ça peut aider, à condition que ce ne soit pas une obligation. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le budget d'un ménage avec enfants ne laisse pas de marge pour payer plus cher",
+        "Je ne vois pas bien ce que je ferais concrètement dans un partenariat",
+        "Les réunions le soir, après mes journées de chantier, ça ne tient pas"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule simple, par exemple des paniers ou des achats directs à prix réel, et une information claire sur ce que je paierais en plus, ou pas."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans, j'y pense surtout pour mes enfants, mais honnêtement je pense d'abord aux factures de cette année. Les terres doivent rester cultivées, et c'est tout. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question aussi lointaine ne me touche pas dans mon quotidien",
+        "Je ne vois pas ce qu'un atelier peut changer"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me montre ce que ça change concrètement pour mes enfants et pour le quartier, et que ça ne se fasse pas au détriment des exploitations existantes."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Un agriculteur qui bosse bien, tout le village le sait, pas besoin d'un label de plus. Si on veut les mettre en valeur, qu'on le fasse simplement, sans nouvelle usine à gaz. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je me méfie des labels et des classements qui finissent par coûter cher aux agriculteurs",
+        "Je ne suis pas à l'aise dans les réunions publiques sur des sujets que je ne maîtrise pas"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance simple et locale, portée par les agriculteurs eux-mêmes, qui valorise leur travail sans leur imposer de nouvelles normes."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Clients et partenaires artisans du bâtiment, famille élargie, collègues de chantier, parents d'élèves de l'école du village et quelques contacts au club sportif local."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "En mars 2012 je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "À cette date je n'avais pas encore l'âge de voter."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.3,
+      "oui_proba": 0.1,
+      "raison": "J'étais jeune et je votais peu, je n'ai pas suivi le sujet. Un objectif d'empreinte écologique pour toute la Suisse me paraît théorique et coûteux pour les petites entreprises."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Sortir du nucléaire après 45 ans d'exploitation sans alternative prête, ça fait monter les factures. Je n'ai pas un avis très fort sur l'atome, mais je suis plutôt contre."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La Stratégie 2050 ajoute des taxes et des subventions que je finance à travers mes factures et mes impôts. Les rénovations peuvent faire travailler les artisans comme moi, mais je vois surtout une hausse des coûts pour les ménages."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Des normes environnementales, sociales et animales appliquées aux importations, ça veut dire plus de contrôles et des produits plus chers. Je n'aime pas qu'on dicte aux consommateurs ce qu'ils doivent acheter."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Soutenir une agriculture indigène et protéger la production suisse par des droits de douane me parle, c'est aussi la base de la sécurité d'approvisionnement. Je me méfie un peu des promesses, mais je vote plutôt oui."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Lier les paiements directs aux pratiques des exploitations, sans antibiotiques préventifs ni fourrage acheté, touche directement les éleveurs. Je trouve ça punitif pour les paysans qui font déjà attention."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.15,
+      "raison": "Interdire les pesticides de synthèse ici, sans alternative prête, c'est un coup dur pour les rendements et pour les exploitations. Il faudrait aussi que la même règle s'applique aux produits importés, et ça, personne ne le garantit."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.1,
+      "raison": "Taxe sur les billets d'avion, hausse de la taxe sur le mazout et les carburants, normes sur les bâtiments : pour moi qui roule chaque jour avec mon véhicule de chantier et qui chauffe une maison, c'est une facture de plus. Je vote non sans hésiter."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Dans la région, beaucoup vivent du lait et de la viande. Une exigence de type Bio Suisse imposée à tout le monde, y compris aux importations, ce sont des coûts qui retombent sur les fermes."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Un objectif de zéro émission nette d'ici 2050 me paraît trop ambitieux pour l'économie. Les aides pour changer les chauffages peuvent faire travailler des artisans comme moi, mais je me méfie des obligations qui suivent."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Plus de surfaces protégées et plus d'argent pour la biodiversité, ça veut dire moins de terres pour les paysans et de nouvelles contraintes. La nature mérite d'être protégée, mais pas en retirant du terrain à ceux qui cultivent."
+    }
+  ]
+}

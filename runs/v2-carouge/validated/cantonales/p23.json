@@ -1,0 +1,29 @@
+{
+  "id": "p23",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Le Centre dit oui et la pilule comme le stérilet coûtent cher à mes enfants, mais 20 millions par an pour le canton me font hésiter faute de cadre clair."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.75,
+      "raison": "Le trafic à la frontière touche tout le monde à Carouge, et un bus à haut niveau de service plus rapide vaut bien une part de 39,5 millions, même si je reste méfiant envers ce qui se fait côté français."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Racheter son appartement après trois ans de location peut aider une famille, mais je crains la disparition des logements locatifs et le prix plafonné ne me rassure qu'à moitié."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "La HES me concerne peu, mais Le Centre et les partis de droite disent oui, et deux millions de moins par an sur 33 ne me paraissent pas dramatiques."
+    }
+  ]
+}

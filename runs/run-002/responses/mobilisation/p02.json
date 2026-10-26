@@ -1,0 +1,39 @@
+{
+  "id": "p02",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.07,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un chiffrage écrit du prix du litre de lait bio, garanti par la laiterie ou la commune, et quelqu'un pour assurer la traite du soir le temps de la séance. Une séance en semaine en début d'après-midi, pas le soir après la journée sur le tracteur."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une visite de la ferme sur un créneau court en matinée, avec d'autres agriculteurs de la commune présents, pour que ce ne soient pas des habitants qui me donnent des leçons sur mon métier."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur qui reprendra les fermes de la commune et à quelles conditions, plutôt qu'une vision à trente ans. Je pense en termes de l'année qui vient, il faut partir de là."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Que la commune paie une reconnaissance concrète, par exemple un soutien pour les haies et les bandes fleuries déjà en place, et que ce soient les agriculteurs qui parlent, sans experts venus d'ailleurs pour faire la leçon."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul format qui tient dans mes journées : dix minutes sur le téléphone le soir, après la traite, sans quitter la ferme. Une séance de deux heures et demie, un samedi matin ou un soir de semaine, je ne peux pas la caser avec les vaches. Les parcours étalés sur trois semaines, je les abandonnerais en cours de route."
+}

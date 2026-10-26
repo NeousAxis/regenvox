@@ -1,0 +1,39 @@
+{
+  "id": "p41",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un atelier d'une heure le samedi matin avec une garde d'enfants sur place, et un exemple chiffré de ce que le passage au bio change pour les fermes et pour le prix de ce qu'on achète au village."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un interlocuteur précis à la commune pour savoir à qui s'adresser, et un calcul simple de ce que coûte un partenariat avec une ferme pour une famille avec enfants."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Un engagement écrit de la commune sur la suite donnée aux propositions recueillies, et un créneau le samedi matin avec garde d'enfants sur place."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.01,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre ce que la reconnaissance des fermes change concrètement pour l'eau du robinet ou pour le prix de ce qu'on achète, avec un exemple du village."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes sur mon téléphone, ouvert pendant un mois, se glisse entre deux équipes et après le coucher des enfants sans rien bloquer, et je n'ai pas besoin de connaître qui que ce soit. Le parcours à distance demande trois rendez-vous à tenir sur trois semaines, et l'atelier me prendrait une soirée ou tout un samedi matin."
+}

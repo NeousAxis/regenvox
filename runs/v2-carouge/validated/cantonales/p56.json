@@ -1,0 +1,29 @@
+{
+  "id": "p56",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.35,
+      "oui_proba": 0.18,
+      "raison": "Je ne vois pas pourquoi l'État paierait la pilule de tout le monde avec mes impôts alors que l'UDC et les autorités disent non, donc je ne me déplacerai probablement pas pour ça."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Des bus et un tram me feraient gagner du temps sur la route, mais payer des projets en France alors que nous avons nos propres problèmes me reste en travers de la gorge, comme en 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Devenir propriétaire de mon appartement serait une chance, mais l'UDC et le PS disent non et je crains les congés-ventes qui chassent les locataires des immeubles."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "La HES forme du personnel utile et l'UDC soutient le financement, deux millions de moins par an me paraissent acceptables, donc je voterais probablement oui sans trop m'y intéresser."
+    }
+  ]
+}

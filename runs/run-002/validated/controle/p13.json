@@ -1,0 +1,16 @@
+{
+  "id": "p13",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Décider de nos terres depuis la mairie, sans nous demander comment on paie la facture, ça ne passe pas, mais si le lait bio se vend mieux, je veux bien regarder les chiffres.",
+    "engagement": 1,
+    "freins_participation": [
+      "Une décision déjà prise par le Conseil communal, sans consultation réelle des exploitants du village",
+      "Aucun débouché garanti pour le lait bio à un prix qui compense la baisse de rendement",
+      "Des séances en soirée animées par des gens de la ville qui n'ont jamais mis les mains dans le purin",
+      "Mon temps déjà pris par la traite, les prés et la reprise future de l'exploitation de mes parents"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres concrets sur les coûts de conversion, le prix payé pour le lait bio et les paiements directs, et un atelier où les exploitants décident du rythme. Si la fromagerie villageoise garantissait un prix pour le lait bio, ou si un voisin qui a converti venait raconter sa première année sans enjoliver, je viendrais."
+  }
+}

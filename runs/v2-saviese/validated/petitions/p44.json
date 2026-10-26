@@ -1,0 +1,125 @@
+{
+  "id": "p44",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.005,
+      "partage_proba": 0.003,
+      "raison": "Palantir à l'EPFL concerne un collectif d'étudiants lausannois, un monde éloigné de mon apprentissage en Valais, et je ne me sens pas concerné par ce débat."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Les canicules me touchent en Valais, mais une lettre ouverte de coalition qui réclame un plan climatique ambitieux et des mesures coûteuses ne correspond pas à ma sensibilité UDC."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.004,
+      "partage_proba": 0.002,
+      "raison": "Je suis proche de l'UDC, donc je n'aurais aucune envie de signer une pétition qui veut faire invalider l'initiative de mon propre parti."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.006,
+      "partage_proba": 0.003,
+      "raison": "Une affaire de justice genevoise entre un député et la CICAD ne me parle pas, et le débat sur Gaza me semble trop éloigné de mon quotidien pour que je m'y engage."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.015,
+      "raison": "Le détournement du protoxyde d'azote par des jeunes est un sujet que je vois autour de moi et la restriction de la vente libre me parle, mais la pétition concerne Genève et je ne signe pas souvent ce genre de texte."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.005,
+      "partage_proba": 0.003,
+      "raison": "Les placements des caisses de pension et les énergies fossiles sont loin de mes préoccupations, et un appel de soignants sur ce sujet ne m'atteint pas."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Les primes de l'assurance de base me pèsent et l'idée d'une gestion cantonale me plaît un peu, mais le texte se présente comme fictif et les partenaires privés me laissent sceptique."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "L'AVS me concerne directement puisque je vais cotiser longtemps, et le refus des hausses de TVA me parle, mais l'origine jeune libérale de la pétition et la légalisation du cannabis me freinent."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.005,
+      "partage_proba": 0.002,
+      "raison": "Versoix est une commune genevoise qui n'est pas la mienne, et un projet de locaux communaux ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.02,
+      "partage_proba": 0.012,
+      "raison": "Le deuil d'une grossesse touche ma sensibilité, mais je n'ai aucun lien avec ce cas et une demande de reconnaissance de la maternité ne fait pas partie de mes sujets."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Je connais des jeunes qui peinent à trouver un psychologue, donc l'accès aux soins m'interpelle, mais une motion du Conseil national sur la facturation ne me pousse pas à signer."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.015,
+      "partage_proba": 0.008,
+      "raison": "Une ferme d'agrumes dans le canton de Vaud est loin de mon village valaisan, même si l'attachement au terroir rural me parle un peu."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "La violence domestique est un drame réel, mais une nouvelle maison d'accueil dans le canton du Jura ne concerne pas mon canton et les demandes de nouveaux financements me laissent sceptique."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.006,
+      "partage_proba": 0.004,
+      "raison": "Le tram lausannois est un projet vaudois qui ne me concerne pas, et la fraîcheur en ville me touche peu depuis mon village."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.003,
+      "partage_proba": 0.002,
+      "raison": "Je suis plutôt favorable à une politique migratoire ferme et au respect des décisions d'asile, donc une demande de suspension des renvois ne me convainc pas."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Mon apprentissage m'a fait voir la pression de la formation, mais un droit au temps partiel et un CFC allongé à quatre ou six ans ne correspondent pas à ma vision de la formation."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "La vie privée et les lunettes avec caméra me préoccupent, et le sujet circule chez les jeunes, mais interdire un produit sur le marché reste une intervention lourde que je ne soutiens pas facilement."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.008,
+      "partage_proba": 0.004,
+      "raison": "Les mesures contraignantes sur les retours en ligne, la fast fashion et les vols court-courriers vont à l'encontre de ce que je pense, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Les forêts valaisannes et le risque d'incendie me touchent concrètement, mais la pétition vise un projet du conseiller fédéral Rösti, ce qui me gêne à cause de ma proximité avec l'UDC."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.05,
+      "partage_proba": 0.035,
+      "raison": "Le risque de soumission chimique en soirée concerne les jeunes de mon âge, et une task force contre les réseaux m'intéresse, mais je ne signe que rarement ce genre de pétition."
+    }
+  ]
+}

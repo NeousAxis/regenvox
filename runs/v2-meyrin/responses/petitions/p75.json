@@ -1,0 +1,25 @@
+{
+  "id": "p75",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.01, "partage_proba": 0.1, "raison": "Affaire d'étudiants lausannois sur l'EPFL et Palantir, je n'ai aucun lien avec ce milieu ni avec ce débat."},
+    {"item_id": "pet02", "participe_proba": 0.08, "partage_proba": 0.35, "raison": "Les canicules et les sécheresses me touchent directement sur les cultures, mais la lettre parle surtout de finance et de multinationales sans mesure concrète pour les paysans, donc je ne signe pas sans hésiter."},
+    {"item_id": "pet03", "participe_proba": 0.04, "partage_proba": 0.15, "raison": "Je ne suis pas un militant de ce genre de campagne en ligne et je ne connais pas assez l'initiative pour prendre position, donc je ne la signe pas."},
+    {"item_id": "pet04", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Le débat sur Gaza et la CICAD ne me concerne pas directement, je préfère rester à l'écart de ces affaires politiques."},
+    {"item_id": "pet05", "participe_proba": 0.14, "partage_proba": 0.4, "raison": "Je suis parent et des ados de la région consomment ce gaz, ce qui m'inquiète, mais je ne suis pas sûr qu'une interdiction de vente règle le problème, et si je la signe je la partage surtout entre parents."},
+    {"item_id": "pet06", "participe_proba": 0.03, "partage_proba": 0.08, "raison": "Je suis indépendant et les caisses de pension collectives me concernent peu, le texte est en anglais et s'adresse à des institutions que je ne fréquente pas, donc je passe mon chemin."},
+    {"item_id": "pet07", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Le texte se présente lui-même comme fictif, je paie déjà des primes lourdes et une réforme qui n'existe pas ne me donne pas envie de signer."},
+    {"item_id": "pet08", "participe_proba": 0.08, "partage_proba": 0.2, "raison": "Je suis jeune et je paie déjà des cotisations d'indépendant, l'équilibre de l'AVS m'inquiète, mais je me méfie de la légalisation du cannabis comme solution, donc je ne signe qu'après réflexion."},
+    {"item_id": "pet09", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Je n'habite pas Versoix et ce projet de locaux associatifs ne me concerne pas, je n'ai pas de raison de m'engager dans ce dossier."},
+    {"item_id": "pet10", "participe_proba": 0.07, "partage_proba": 0.2, "raison": "Je ne suis pas directement concerné, mais le cas de cette mère me touche comme parent, et si je signe j'en parlerais probablement autour de moi."},
+    {"item_id": "pet11", "participe_proba": 0.03, "partage_proba": 0.08, "raison": "Je n'ai aucun contact avec la psychothérapie et la question de cette motion me paraît technique et lointaine, donc je ne signe pas."},
+    {"item_id": "pet12", "participe_proba": 0.05, "partage_proba": 0.1, "raison": "Je comprends la difficulté économique d'une exploitation de serres, mais c'est une affaire vaudoise que je ne connais pas, donc je reste à l'écart."},
+    {"item_id": "pet13", "participe_proba": 0.03, "partage_proba": 0.08, "raison": "Les violences conjugales sont un vrai problème, mais c'est une affaire jurassienne et les pétitions lancées par Campax me laissent souvent sceptique, donc je ne signe pas."},
+    {"item_id": "pet14", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Le tram lausannois ne me concerne pas, je suis genevois, même si la chaleur des zones minérales me fatigue, donc je ne signe pas une pétition vaudoise."},
+    {"item_id": "pet15", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Le dossier des renvois de ressortissants burundais est éloigné de mon quotidien et je ne me sens pas assez informé pour demander à un conseiller fédéral de suspendre une décision."},
+    {"item_id": "pet16", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "J'ai formé des apprentis sur la ferme et je sais que le CFC est exigeant, mais allonger la formation et la rendre à temps partiel compliquerait la gestion d'une exploitation, donc je n'y vois pas de réponse concrète pour mon entreprise."},
+    {"item_id": "pet17", "participe_proba": 0.1, "partage_proba": 0.3, "raison": "Je suis parent et l'idée qu'on filme des enfants à la piscine me révolte, mais une interdiction nationale me paraît excessive, donc je pourrais signer par précaution sans trop y réfléchir."},
+    {"item_id": "pet18", "participe_proba": 0.04, "partage_proba": 0.1, "raison": "La liste est large et touche beaucoup de domaines qui ne sont pas les miens, comme les retours en ligne ou la mode rapide, ce qui me fait douter de la portée de l'appel."},
+    {"item_id": "pet19", "participe_proba": 0.07, "partage_proba": 0.15, "raison": "Les coupes budgétaires de la Confédération me touchent aussi sur l'exploitation, mais la pétition parle surtout de forêts et je ne signerais qu'après avoir vérifié ce qui se joue pour l'agriculture."},
+    {"item_id": "pet20", "participe_proba": 0.12, "partage_proba": 0.35, "raison": "Je suis parent et la drogue du violeur me fait peur pour mes enfants, mais je trouve la demande de task force nationale vague, donc je signerais peut-être par réflexe de parent et je le partagerais à mes proches."}
+  ]
+}

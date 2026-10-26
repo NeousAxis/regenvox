@@ -1,0 +1,95 @@
+{
+  "id": "p16",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Je suis encore jeune et peu attentif à ces sujets. Un fonds alimenté par le budget de l'armée, sans nouvel impôt, me paraît raisonnable pour renouveler la défense aérienne, même si le prix reste élevé."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Je trouve normal qu'un couple ne soit pas pénalisé fiscalement par rapport à d'autres formes de vie commune. Mais graver la définition du mariage dans la Constitution me paraît superflu, et je préfère des corrections concrètes et chiffrées."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "L'AVS doit être financée sur la durée, et la réforme avec l'âge de la retraite des femmes porté à 65 ans me paraît cohérente économiquement. La hausse de TVA pèse un peu sur le budget familial, mais elle reste limitée et progressive."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Les accords avec l'UE garantissent l'accès à notre marché et la sécurité juridique de nos entreprises. Je ne veux pas risquer cela au nom d'une souveraineté qui serait surtout symbolique, même si je comprends le besoin de clarifier le rapport entre droit suisse et droit international."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Dans une zone d'activités comme la nôtre, la libre circulation fait tourner les entreprises et comble les besoins en main-d'œuvre qualifiée. Je comprends que l'immigration soit un sujet, mais résilier l'accord avec l'UE coûterait beaucoup trop cher à l'économie suisse."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Le renouvellement de la défense aérienne est nécessaire, et le plafond de 6 milliards rassure sur le contrôle des coûts, même si la facture reste lourde pour les finances publiques."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible au bien-être animal, mais une interdiction totale de l'expérimentation freinerait la recherche médicale et l'industrie suisse de la santé. Des règles strictes existent déjà, je ne vois pas l'intérêt d'une interdiction absolue."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être animal compte, mais exiger les normes Bio Suisse aussi pour les importations ferait monter les prix et pèserait sur la concurrence, sans être plus efficace que des améliorations progressives."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "AVS 21 est un compromis raisonnable face au vieillissement de la population, avec l'âge de référence des femmes aligné et des mesures de compensation. La TVA pèse un peu sur le budget des ménages, mais je préfère une réforme qui tient économiquement à un financement improvisé."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La neutralité nous a bien servis, mais le texte interdirait les sanctions et toute coopération avec une alliance, ce qui fermerait des portes utiles à nos entreprises. Je préfère une neutralité qui s'adapte aux situations plutôt qu'une règle gravée dans la Constitution."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Soutenir la production locale et notre fromagerie me parle, mais viser 70 % d'aliments indigènes en dix ans est irréaliste et risque de renchérir les courses des familles. La baisse de l'élevage fragiliserait aussi les exploitations de la région."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La 13e rente AVS est acquise, mais la financer par une hausse de TVA pèse sur le budget des familles, et les besoins futurs ne sont pas chiffrés. Je préfère une solution qui tienne économiquement sur la durée."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Les pétards effraient mes enfants et dérangent les animaux et les paysans du coin. J'aime toutefois les feux du 1er août, et j'aurais préféré une réglementation cantonale plus souple à une interdiction fédérale."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Un couple marié ne devrait pas payer plus d'impôts qu'un couple non marié, c'est une question d'équité qui me touche en tant que famille. Mais l'allègement coûterait jusqu'à 3 milliards par an sans financement clair, et l'imposition individuelle vient d'être acceptée."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Nos entreprises d'armement perdent des marchés à cause de règles trop strictes, et l'industrie compte beaucoup dans notre région. Les garde-fous de neutralité et les conditions posées me rassurent, même si le sujet me touche moins que l'économie locale."
+    }
+  ]
+}

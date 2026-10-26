@@ -1,0 +1,343 @@
+{
+  "id": "2026-11-29_votations-federales_romandie",
+  "publie_le": "2026-10-25",
+  "evenement": {
+    "type": "votation_federale",
+    "date": "2026-11-29",
+    "description": "Votations fédérales du 29 novembre 2026, 6 communes romandes (Vuadens, Echallens, Savièse, Le Locle, Meyrin, Delémont)"
+  },
+  "methode": {
+    "moteur": "Résonance v2, étape scrutins2 (personas Claude Haiku, sous-agents isolés)",
+    "runs": [
+      "v2-vuadens",
+      "v2-echallens",
+      "v2-saviese",
+      "v2-le-locle",
+      "v2-meyrin",
+      "v2-delemont"
+    ],
+    "correction": "Personas informés des recommandations officielles et des mots d'ordre connus au 2026-10-25. Biais du panel corrigé en logit par famille de votations analogues (même thème, sens du oui pris en compte), ramené vers zéro selon le nombre d'analogues (k = 1, choisi en validation croisée sur les seuls analogues : écart moyen 9,9 points). Intervalle à 90 % : échantillonnage du panel combiné à l'erreur de validation croisée (12,9 points). Participation : correspondance de quantiles sur les jours de votation analogues. Cette prévision s'ajoute à celle de Vuadens publiée plus tôt (2026-11-29_votations-federales), qui reste inchangée."
+  },
+  "criteres_reussite": [
+    "Critère principal : écart moyen absolu sur le oui, sur les 24 prévisions (6 communes, 4 objets), inférieur à l'écart moyen du résultat cantonal de chaque commune au résultat de la commune.",
+    "Bon camp (majorité de oui ou de non dans la commune) au moins aussi souvent que le résultat cantonal.",
+    "Résultat réel dans l'intervalle de prévision pour au moins 18 prévisions sur 24.",
+    "La correction doit faire mieux que le panel brut (écart moyen corrigé inférieur à l'écart moyen brut).",
+    "Participation : écart moyen inférieur à celui de la médiane des participations réelles des jours analogues (participation_reference_pct).",
+    "Vuadens : la méthode v2 doit faire mieux que la v1 publiée dans 2026-11-29_votations-federales."
+  ],
+  "previsions": [
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "oui_pct": 52.3,
+      "oui_brut_pct": 65.2,
+      "intervalle_pct": [
+        30.7,
+        73.8
+      ],
+      "participation_pct": 57.4,
+      "participation_reference_pct": 47.9
+    },
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "oui_pct": 42.8,
+      "oui_brut_pct": 47.6,
+      "intervalle_pct": [
+        21.5,
+        64.1
+      ],
+      "participation_pct": 57.4,
+      "participation_reference_pct": 47.9
+    },
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "oui_pct": 42.6,
+      "oui_brut_pct": 40.3,
+      "intervalle_pct": [
+        21.2,
+        64
+      ],
+      "participation_pct": 57.4,
+      "participation_reference_pct": 47.9
+    },
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "oui_pct": 39.1,
+      "oui_brut_pct": 43.6,
+      "intervalle_pct": [
+        17.8,
+        60.4
+      ],
+      "participation_pct": 57.4,
+      "participation_reference_pct": 47.9
+    },
+    {
+      "commune": "Echallens",
+      "objet": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "oui_pct": 61.5,
+      "oui_brut_pct": 64.4,
+      "intervalle_pct": [
+        39.8,
+        83.1
+      ],
+      "participation_pct": 57.6,
+      "participation_reference_pct": 51.9
+    },
+    {
+      "commune": "Echallens",
+      "objet": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "oui_pct": 45,
+      "oui_brut_pct": 50.9,
+      "intervalle_pct": [
+        23.8,
+        66.3
+      ],
+      "participation_pct": 57.6,
+      "participation_reference_pct": 51.9
+    },
+    {
+      "commune": "Echallens",
+      "objet": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "oui_pct": 35.2,
+      "oui_brut_pct": 26.1,
+      "intervalle_pct": [
+        13.9,
+        56.5
+      ],
+      "participation_pct": 57.6,
+      "participation_reference_pct": 51.9
+    },
+    {
+      "commune": "Echallens",
+      "objet": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "oui_pct": 35.1,
+      "oui_brut_pct": 35.2,
+      "intervalle_pct": [
+        13.8,
+        56.4
+      ],
+      "participation_pct": 57.6,
+      "participation_reference_pct": 51.9
+    },
+    {
+      "commune": "Savièse",
+      "objet": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "oui_pct": 56.5,
+      "oui_brut_pct": 66,
+      "intervalle_pct": [
+        34.8,
+        78.1
+      ],
+      "participation_pct": 59.4,
+      "participation_reference_pct": 56.3
+    },
+    {
+      "commune": "Savièse",
+      "objet": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "oui_pct": 39.4,
+      "oui_brut_pct": 42.9,
+      "intervalle_pct": [
+        18.1,
+        60.6
+      ],
+      "participation_pct": 59.4,
+      "participation_reference_pct": 56.3
+    },
+    {
+      "commune": "Savièse",
+      "objet": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "oui_pct": 48.7,
+      "oui_brut_pct": 43.8,
+      "intervalle_pct": [
+        27.3,
+        70
+      ],
+      "participation_pct": 59.4,
+      "participation_reference_pct": 56.3
+    },
+    {
+      "commune": "Savièse",
+      "objet": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "oui_pct": 44.7,
+      "oui_brut_pct": 45.3,
+      "intervalle_pct": [
+        23.4,
+        66
+      ],
+      "participation_pct": 59.4,
+      "participation_reference_pct": 56.3
+    },
+    {
+      "commune": "Le Locle",
+      "objet": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "oui_pct": 64.7,
+      "oui_brut_pct": 71.7,
+      "intervalle_pct": [
+        42.8,
+        86.5
+      ],
+      "participation_pct": 46.9,
+      "participation_reference_pct": 43.8
+    },
+    {
+      "commune": "Le Locle",
+      "objet": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "oui_pct": 46.6,
+      "oui_brut_pct": 51.5,
+      "intervalle_pct": [
+        25.3,
+        67.8
+      ],
+      "participation_pct": 46.9,
+      "participation_reference_pct": 43.8
+    },
+    {
+      "commune": "Le Locle",
+      "objet": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "oui_pct": 36,
+      "oui_brut_pct": 25.7,
+      "intervalle_pct": [
+        14.4,
+        57.6
+      ],
+      "participation_pct": 46.9,
+      "participation_reference_pct": 43.8
+    },
+    {
+      "commune": "Le Locle",
+      "objet": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "oui_pct": 31.9,
+      "oui_brut_pct": 30.3,
+      "intervalle_pct": [
+        10.6,
+        53.2
+      ],
+      "participation_pct": 46.9,
+      "participation_reference_pct": 43.8
+    },
+    {
+      "commune": "Meyrin",
+      "objet": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "oui_pct": 53.2,
+      "oui_brut_pct": 66.7,
+      "intervalle_pct": [
+        31.4,
+        75.1
+      ],
+      "participation_pct": 48.1,
+      "participation_reference_pct": 45.7
+    },
+    {
+      "commune": "Meyrin",
+      "objet": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "oui_pct": 58.4,
+      "oui_brut_pct": 53.8,
+      "intervalle_pct": [
+        37.1,
+        79.7
+      ],
+      "participation_pct": 48.1,
+      "participation_reference_pct": 45.7
+    },
+    {
+      "commune": "Meyrin",
+      "objet": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "oui_pct": 42.3,
+      "oui_brut_pct": 33,
+      "intervalle_pct": [
+        21,
+        63.7
+      ],
+      "participation_pct": 48.1,
+      "participation_reference_pct": 45.7
+    },
+    {
+      "commune": "Meyrin",
+      "objet": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "oui_pct": 31.1,
+      "oui_brut_pct": 34.6,
+      "intervalle_pct": [
+        9.8,
+        52.3
+      ],
+      "participation_pct": 48.1,
+      "participation_reference_pct": 45.7
+    },
+    {
+      "commune": "Delémont",
+      "objet": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "oui_pct": 67,
+      "oui_brut_pct": 74.2,
+      "intervalle_pct": [
+        45.5,
+        88.6
+      ],
+      "participation_pct": 48.3,
+      "participation_reference_pct": 46.6
+    },
+    {
+      "commune": "Delémont",
+      "objet": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "oui_pct": 53.2,
+      "oui_brut_pct": 56.4,
+      "intervalle_pct": [
+        31.9,
+        74.4
+      ],
+      "participation_pct": 48.3,
+      "participation_reference_pct": 46.6
+    },
+    {
+      "commune": "Delémont",
+      "objet": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "oui_pct": 37.6,
+      "oui_brut_pct": 33,
+      "intervalle_pct": [
+        16.3,
+        58.9
+      ],
+      "participation_pct": 48.3,
+      "participation_reference_pct": 46.6
+    },
+    {
+      "commune": "Delémont",
+      "objet": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "oui_pct": 22.4,
+      "oui_brut_pct": 29,
+      "intervalle_pct": [
+        1.2,
+        43.6
+      ],
+      "participation_pct": 48.3,
+      "participation_reference_pct": 46.6
+    }
+  ]
+}

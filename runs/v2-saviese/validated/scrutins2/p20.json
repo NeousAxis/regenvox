@@ -1,0 +1,197 @@
+{
+  "id": "p20",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.25,
+      "oui_proba": 0.3,
+      "raison": "Le respect des animaux me touche, mais Le Centre recommande non et les exigences sur les importations pèseraient lourd sur nos agriculteurs de la commune."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le Centre soutient le relèvement pour sécuriser les rentes, mais la TVA touche aussi mon budget de formation, donc je penche pour le oui sans enthousiasme."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à la nature de la commune, mais Le Centre et les agriculteurs du village s'opposent aux contraintes supplémentaires, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis célibataire et le sujet me touche peu, mais Le Centre et la tradition familiale du village me font pencher pour le maintien de l'imposition commune."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La croissance de la population me préoccupe pour Savièse et ses infrastructures, mais Le Centre recommande non et la libre circulation fait vivre les emplois et les échanges avec l'UE, donc je reste réservé."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Le sujet me concerne directement comme jeune homme, Le Centre et le PLR soutiennent le texte et je comprends le besoin de limiter les départs de l'armée, donc je penche pour le oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis attaché à la neutralité suisse, mais une neutralité perpétuelle et armée inscrite dans la Constitution me paraît trop rigide, et Le Centre recommande non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'envie de manger local et de protéger l'eau, mais 70 % de production indigène en dix ans me paraît irréaliste pour nos exploitations, et Le Centre recommande non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Le Centre soutient la 13e rente, mais la TVA touche tout le monde et je m'inquiète du coût pour ma génération, donc mon oui reste hésitant."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "Les pétards privés me gênent, mais j'aime les feux du village et une interdiction large me paraît excessive, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas marié et le sujet me touche peu, mais Le Centre soutient l'initiative et je reste attaché aux valeurs familiales du village."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Le Centre et le PLR soutiennent l'assouplissement et l'industrie d'armement fait vivre des emplois en Suisse, mais la neutralité me fait hésiter sur les livraisons à des pays en conflit."
+    }
+  ]
+}

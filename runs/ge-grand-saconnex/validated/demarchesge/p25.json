@@ -1,0 +1,17 @@
+{
+  "id": "p25",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.07,
+      "raison": "La Susette est loin de mon quartier de villas et un questionnaire de 28 questions en ligne ne m'attire pas, donc je l'ai probablement laissé passer et je n'en ai guère parlé autour de moi."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.08,
+      "partage_proba": 0.09,
+      "raison": "Le sondage des Marronniers dure quatre mois et s'adresse à toute la commune, donc j'ai pu le remplir si j'y ai pensé, mais le sujet reste lointain de mon quartier et je n'en parlerais que si l'occasion se présente."
+    }
+  ]
+}

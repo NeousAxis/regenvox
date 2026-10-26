@@ -1,0 +1,258 @@
+{
+ "_note": "Résultats officiels (données ouvertes OFS / Chancellerie fédérale), lus le 25.10.2026. Seules les votations de rôle analogue servent à la correction.",
+ "commune": 6630,
+ "resultats": [
+  {
+   "vote_id": "a2004-avs-tva",
+   "commune_oui": 29.39,
+   "commune_participation": 57.19,
+   "canton_oui": 31.98,
+   "suisse_oui": 31.42,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20040516-eidgAbstimmung.json (objet 5080, commune 6630)"
+  },
+  {
+   "vote_id": "a2009-ai-tva",
+   "commune_oui": 60.84,
+   "commune_participation": 46.01,
+   "canton_oui": 65.91,
+   "suisse_oui": 54.56,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20090927-eidgAbstimmung.json (objet 5430, commune 6630)"
+  },
+  {
+   "vote_id": "a2009-exportation",
+   "commune_oui": 44.42,
+   "commune_participation": 54.19,
+   "canton_oui": 48.23,
+   "suisse_oui": 31.77,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20091129-eidgAbstimmung.json (objet 5460, commune 6630)"
+  },
+  {
+   "vote_id": "a2013-service",
+   "commune_oui": 38.39,
+   "commune_participation": 45.34,
+   "canton_oui": 42.12,
+   "suisse_oui": 26.79,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20130922-eidgAbstimmung.json (objet 5720, commune 6630)"
+  },
+  {
+   "vote_id": "a2014-immigration",
+   "commune_oui": 48.27,
+   "commune_participation": 55.76,
+   "canton_oui": 39.11,
+   "suisse_oui": 50.33,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140209-eidgAbstimmung.json (objet 5800, commune 6630)"
+  },
+  {
+   "vote_id": "a2014-gripen",
+   "commune_oui": 33.73,
+   "commune_participation": 54.45,
+   "canton_oui": 32.24,
+   "suisse_oui": 46.59,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140518-eidgAbstimmung.json (objet 5840, commune 6630)"
+  },
+  {
+   "vote_id": "a2016-couple",
+   "commune_oui": 50.23,
+   "commune_participation": 52.76,
+   "canton_oui": 46.7,
+   "suisse_oui": 49.16,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20160228-eidgAbstimmung.json (objet 5960, commune 6630)"
+  },
+  {
+   "vote_id": "a2017-avs-tva",
+   "commune_oui": 36.63,
+   "commune_participation": 44.02,
+   "canton_oui": 42.57,
+   "suisse_oui": 49.95,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20170924-eidgAbstimmung.json (objet 6140, commune 6630)"
+  },
+  {
+   "vote_id": "a2018-vaches",
+   "commune_oui": 61.0,
+   "commune_participation": 40.22,
+   "canton_oui": 59.85,
+   "suisse_oui": 45.27,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6230, commune 6630)"
+  },
+  {
+   "vote_id": "a2018-autodetermination",
+   "commune_oui": 30.06,
+   "commune_participation": 40.22,
+   "canton_oui": 24.71,
+   "suisse_oui": 33.73,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6240, commune 6630)"
+  },
+  {
+   "vote_id": "a2019-armes",
+   "commune_oui": 65.26,
+   "commune_participation": 40.78,
+   "canton_oui": 72.82,
+   "suisse_oui": 63.74,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20190519-eidgAbstimmung.json (objet 6280, commune 6630)"
+  },
+  {
+   "vote_id": "a2020-limitation",
+   "commune_oui": 38.8,
+   "commune_participation": 50.9,
+   "canton_oui": 31.03,
+   "suisse_oui": 38.29,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6310, commune 6630)"
+  },
+  {
+   "vote_id": "a2020-chasse",
+   "commune_oui": 37.19,
+   "commune_participation": 50.9,
+   "canton_oui": 36.94,
+   "suisse_oui": 48.07,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6320, commune 6630)"
+  },
+  {
+   "vote_id": "a2020-avions",
+   "commune_oui": 38.23,
+   "commune_participation": 50.9,
+   "canton_oui": 37.23,
+   "suisse_oui": 50.13,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6350, commune 6630)"
+  },
+  {
+   "vote_id": "a2020-materiel",
+   "commune_oui": 50.52,
+   "commune_participation": 44.56,
+   "canton_oui": 53.12,
+   "suisse_oui": 42.55,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20201129-eidgAbstimmung.json (objet 6370, commune 6630)"
+  },
+  {
+   "vote_id": "a2021-eau",
+   "commune_oui": 42.91,
+   "commune_participation": 47.68,
+   "canton_oui": 46.87,
+   "suisse_oui": 39.31,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6410, commune 6630)"
+  },
+  {
+   "vote_id": "a2021-pesticides",
+   "commune_oui": 43.72,
+   "commune_participation": 47.68,
+   "canton_oui": 49.33,
+   "suisse_oui": 39.44,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6420, commune 6630)"
+  },
+  {
+   "vote_id": "a2021-mariage",
+   "commune_oui": 56.71,
+   "commune_participation": 46.95,
+   "canton_oui": 65.15,
+   "suisse_oui": 64.1,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210926-eidgAbstimmung.json (objet 6470, commune 6630)"
+  },
+  {
+   "vote_id": "a2022-experimentation",
+   "commune_oui": 26.3,
+   "commune_participation": 37.82,
+   "canton_oui": 24.22,
+   "suisse_oui": 20.86,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220213-eidgAbstimmung.json (objet 6510, commune 6630)"
+  },
+  {
+   "vote_id": "a2022-frontex",
+   "commune_oui": 61.19,
+   "commune_participation": 36.62,
+   "canton_oui": 63.47,
+   "suisse_oui": 71.48,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220515-eidgAbstimmung.json (objet 6570, commune 6630)"
+  },
+  {
+   "vote_id": "a2022-elevage",
+   "commune_oui": 45.07,
+   "commune_participation": 44.32,
+   "canton_oui": 47.34,
+   "suisse_oui": 37.13,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6580, commune 6630)"
+  },
+  {
+   "vote_id": "a2022-avs-tva",
+   "commune_oui": 35.94,
+   "commune_participation": 44.32,
+   "canton_oui": 42.55,
+   "suisse_oui": 55.07,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6590, commune 6630)"
+  },
+  {
+   "vote_id": "a2024-biodiversite",
+   "commune_oui": 48.46,
+   "commune_participation": 36.34,
+   "canton_oui": 51.16,
+   "suisse_oui": 36.96,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20240922-eidgAbstimmung.json (objet 6710, commune 6630)"
+  },
+  {
+   "vote_id": "a2026-imposition",
+   "commune_oui": 63.71,
+   "commune_participation": 45.29,
+   "canton_oui": 67.84,
+   "suisse_oui": 54.26,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260308-eidgAbstimmung.json (objet 6850, commune 6630)"
+  },
+  {
+   "vote_id": "a2026-10-millions",
+   "commune_oui": 41.42,
+   "commune_participation": 48.77,
+   "canton_oui": 34.58,
+   "suisse_oui": 45.21,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6860, commune 6630)"
+  },
+  {
+   "vote_id": "a2026-service-civil",
+   "commune_oui": 43.83,
+   "commune_participation": 48.77,
+   "canton_oui": 43.79,
+   "suisse_oui": 52.46,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6870, commune 6630)"
+  },
+  {
+   "vote_id": "h2026-neutralite",
+   "commune_oui": 38.85,
+   "commune_participation": 40.74,
+   "canton_oui": 33.42,
+   "suisse_oui": 29.84,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6880, commune 6630)"
+  },
+  {
+   "vote_id": "h2026-alimentation",
+   "commune_oui": 36.75,
+   "commune_participation": 40.74,
+   "canton_oui": 37.37,
+   "suisse_oui": 27.47,
+   "commune_nom_ogd": "Meyrin",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6890, commune 6630)"
+  }
+ ]
+}

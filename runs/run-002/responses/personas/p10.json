@@ -1,0 +1,127 @@
+{
+  "id": "p10",
+  "portrait": "Je suis retraitée, j'ai 72 ans, et je vis à Vuadens avec mon conjoint dans un quartier de maisons récentes, nos enfants sont partis depuis longtemps. Je suis suisse et je me sens proche de l'UDC : je tiens au bon sens et au travail bien fait, et je n'aime pas qu'on me donne des leçons venues d'en haut. Je suis attentive à ce qui se passe au village, sans être militante de quoi que ce soit.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans doivent pouvoir vivre de leur travail, c'est la base. Si le bio paie, tant mieux, mais qu'on ne leur impose rien.",
+      "engagement": 1,
+      "freins_participation": ["je ne suis pas dans le milieu agricole", "je ne vois pas ce que je pourrais apporter"],
+      "ce_qui_me_ferait_venir": "Une rencontre à la fromagerie ou dans une ferme du village, avec des agriculteurs qui expliquent simplement leurs comptes et leurs choix."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Partenaires, c'est un drôle de mot. Moi je fais mes courses et je regarde le prix, je n'ai pas besoin d'un contrat avec une ferme.",
+      "engagement": 0,
+      "freins_participation": ["les produits bio sont trop chers pour mon budget", "les démarches venues d'en haut me méfient", "je ne vois pas ce que ça change pour moi"],
+      "ce_qui_me_ferait_venir": "Une vente directe à un prix correct, près de chez moi, sans paperasse ni engagement à long terme."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Dans trente ans je ne serai plus là. Les belles phrases ne remplissent pas le frigo, il faut d'abord que les fermes tiennent aujourd'hui.",
+      "engagement": 0,
+      "freins_participation": ["la question est trop générale pour moi", "je doute qu'un atelier change quoi que ce soit"],
+      "ce_qui_me_ferait_venir": "Une question concrète, par exemple qui reprendra la ferme du coin et à quelles conditions."
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Les paysans entretiennent la campagne depuis toujours. Qu'on le reconnaisse, très bien, mais pas à coups de règlements et de contrôles.",
+      "engagement": 1,
+      "freins_participation": ["je ne sais pas comment on mesure ce genre de choses", "je n'ai pas envie de passer mes soirées en réunion"],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes dans une ferme du village, avec un repas et des explications simples."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "voisinage du quartier, famille élargie, quelques connaissances du village rencontrées au club et à la paroisse, peu de contacts directs avec le monde agricole"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Les résidences secondaires vides ne font pas vivre un village, mais je n'aime pas qu'on bride la propriété des gens."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Protéger les terres agricoles, je suis pour, mais la commune doit pouvoir se développer, sinon les jeunes partent."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Vivre avec une seule planète veut dire des quotas et des taxes, et ça finit toujours sur le dos des petits."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Sortir du nucléaire sans solution de remplacement claire, avec des factures qui montent, je n'y crois pas."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Je ne veux pas de nouvelles taxes ni de subventions qui coûtent cher aux ménages sans résultat visible."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Ce qui vient de l'étranger doit respecter les mêmes règles que nos paysans, ça je veux bien, mais je ne veux pas que l'État se mêle de tout."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.85,
+      "oui_proba": 0.85,
+      "raison": "Nos paysans doivent pouvoir produire ici avec des prix qui tiennent, c'est le bon sens et la base de notre sécurité alimentaire."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.15,
+      "raison": "Retirer les paiements directs aux fermes qui soignent leurs bêtes autrement, c'est les mettre à genoux. L'eau, on la protège déjà."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.12,
+      "raison": "Interdire tous les produits de synthèse sans solution pratique pour les fermes, c'est irréaliste, le paysan sait ce qu'il fait."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Taxes sur les billets d'avion et sur le mazout, ce sont encore les mêmes qui paient, ceux qui n'ont que leur voiture."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être des animaux, je suis pour, mais imposer le standard bio à toutes les étables en 25 ans, ça ferme des fermes de la région."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Zéro émission nette, des aides pour changer de chauffage, je n'ai pas confiance, au final ce sont les citoyens qui paient la facture."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "La nature, on en prend soin ici depuis toujours, mais mettre davantage de terres hors production, les paysans n'en veulent pas."
+    }
+  ]
+}

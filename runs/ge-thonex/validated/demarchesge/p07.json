@@ -1,0 +1,11 @@
+{
+  "id": "p07",
+  "reactions": [
+    {
+      "item_id": "gen02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Je n'ai pas le souvenir d'avoir vu cette annonce, une soirée de semaine seule à une assemblée de la commune ne me tente pas, et je n'en aurais parlé autour de moi que si la sécurité du quartier y avait été discutée."
+    }
+  ]
+}

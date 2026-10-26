@@ -1,0 +1,65 @@
+{
+  "id": "p48",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Je ne vais pas au lac de Sauvabelin pour manger et l'annonce n'était que sur le site des établissements et sur les réseaux de la Ville, donc je ne l'ai probablement pas vue."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.025,
+      "partage_proba": 0.04,
+      "raison": "Le premier budget participatif était peu connu, voter demandait de se renseigner sur des projets de quartier et je ne m'y suis pas intéressé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Le vote en ligne est simple, mais sans bulletin reçu à domicile et sans projet qui me touche directement, je l'ai probablement laissé passer."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Un sondage de cinq minutes sur mon quartier m'aurait peut-être tenté un soir, mais le plan d'affectation est un sujet technique que je ne suis pas et dont je n'aurais pas parlé."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin préaffranchi arrive chez moi et le vote prend deux minutes, mais je le laisse souvent traîner et je ne suis pas sûr de le renvoyer."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Je ne fréquente pas beaucoup les quais d'Ouchy et un questionnaire d'une quinzaine de questions sur une fermeture estivale ne m'a pas attiré, même si j'en ai peut-être discuté avec des collègues."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin reçu à domicile me rappelle le vote, mais je ne suis pas un habitué des consultations et je participe surtout quand un projet proche de chez moi me parle."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Le sujet me concerne un peu comme étranger, mais je ne réponds pas souvent aux enquêtes et j'en aurais surtout parlé avec un ou deux collègues."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Le bulletin nominatif arrive chez moi et le vote est facile, mais je ne vote qu'à certaines éditions, quand une proposition me semble utile à mon quartier."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "Voter par bulletin ou en ligne prend peu de temps, mais avec mon emploi du temps je ne vote pas à chaque édition et je n'en ai pas parlé autour de moi."
+    }
+  ]
+}

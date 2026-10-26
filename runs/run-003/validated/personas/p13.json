@@ -1,0 +1,143 @@
+{
+  "id": "p13",
+  "portrait": "J'ai 53 ans et je suis technicienne en production dans une entreprise de la zone industrielle de Vuadens, où je travaille depuis longtemps. Je vis avec mon conjoint et nos enfants dans le quartier résidentiel construit il y a quelques années, et je me sens plutôt proche du PLR, parce que je tiens à la liberté d'entreprendre et à ce que le travail paie. Je suis suisse et je vote aux fédérales, mais la politique agricole me touche surtout quand elle se retrouve dans les prix et les impôts.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Que les paysans puissent vivre de leur travail, ça me parle, c'est du travail comme le nôtre. Mais le bio doit venir de leur choix et du marché, pas d'une obligation venue d'en haut. »",
+      "engagement": 2,
+      "freins_participation": [
+        "je connais mal le monde agricole de la commune",
+        "je n'ai pas le temps après une journée de travail",
+        "je me méfie des démarches où l'on décide à la place des paysans"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagne un paysan et sur ce que coûte la transition, présentés par les agriculteurs eux-mêmes, un soir en semaine."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Acheter local, oui, je le fais quand je peux ; devenir partenaire d'une ferme, ça demande un engagement que je n'ai pas. »",
+      "engagement": 0,
+      "freins_participation": [
+        "ça me paraît destiné aux gens qui ont déjà un lien avec la campagne",
+        "je ne vois pas ce que ça change pour ma famille",
+        "je ne veux pas prendre d'engagement à long terme"
+      ],
+      "ce_qui_me_ferait_venir": "Une offre simple et concrète, par exemple un panier de légumes ou de viande d'une ferme du village livré près de chez nous, avec des prix clairs."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais dans trente ans, qui sait ce qui se passera ; moi, ce qui compte, c'est que mes enfants trouvent du travail ici. »",
+      "engagement": 0,
+      "freins_participation": [
+        "la question me paraît trop vague",
+        "le long terme ne fait pas partie de mes préoccupations du moment",
+        "je n'ai pas de lien direct avec les terres agricoles"
+      ],
+      "ce_qui_me_ferait_venir": "Un lien avec mon quotidien, par exemple un chemin de promenade près de chez nous réaménagé avec les agriculteurs, ou un projet qui concerne l'école des enfants."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Reconnaître le travail des paysans, pourquoi pas, mais je veux voir ce que ça donne concrètement, pas seulement des affiches et des discours. »",
+      "engagement": 1,
+      "freins_participation": [
+        "le sujet me paraît abstrait",
+        "je ne vois pas bien ce qu'on entend par « apports à la vie sauvage »",
+        "les démarches de la commune ont souvent peu de suite visible"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme organisée pour les familles du quartier, avec des résultats mesurés sur l'eau ou les haies, présentés sans jargon."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "collègues d'atelier et d'équipe, voisins du quartier, parents d'élèves de l'école primaire, et quelques proches restés en contact avec la campagne"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Limiter les résidences secondaires à 20 % des logements touche à la propriété et au marché de la construction, qui fait vivre des gens chez nous. Je vote plutôt non, même si je comprends qu'on ne veut pas de villages vides."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Il faut préserver les champs, mais je ne veux pas qu'on freine la construction de logements pour les familles. Je suis partagée et je voterais oui si la loi laisse de la marge aux communes."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Une empreinte d'une seule planète d'ici 2050, c'est irréaliste pour notre industrie et pour notre pouvoir d'achat. Ce genre d'objectif fait partir les emplois à l'étranger."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Sortir du nucléaire, je le comprends, mais fermer les centrales après 45 ans sans solution de remplacement ferait monter l'électricité pour les entreprises. Je n'aime pas une date fixée à l'avance."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Il faut diversifier l'énergie et économiser, je suis d'accord avec le principe, mais je refuse qu'on subventionne tout avec l'argent des familles. Je voterais oui à contrecœur, sans enthousiasme."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Que les produits importés respectent les mêmes règles que nos paysans, je trouve ça juste. Mais un État qui dicte tout fait monter les prix pour les familles, donc je reste prudente."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Protéger la production indigène, je suis sensible à ça pour nos agriculteurs. Les droits de douane et les prix imposés, en revanche, je n'en veux pas : c'est le consommateur qui paie."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Lier toutes les aides à des règles aussi strictes punit les fermes d'ici qui font déjà des efforts. Je voterais non, mais je comprends l'envie d'une eau plus propre."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Interdire tous les pesticides de synthèse, sans solution de remplacement prête pour nos cultures, ferait baisser les récoltes et monter les prix. Je vote non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Certaines mesures sont raisonnables, les aides pour changer de chauffage par exemple, mais la taxe sur les billets d'avion et les normes pour les bâtiments pèsent sur les familles. Je suis plutôt réticente."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "Le bien-être des animaux, je n'y suis pas opposée, mais imposer un cahier des charges bio à l'élevage et aux importations menace les exploitations d'ici. Je ne veux pas que l'État décide à leur place."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Des aides pour remplacer les chauffages fossiles et pour l'innovation des entreprises, c'est utile. Mais je veux que ça reste raisonnable et que ça ne coûte pas trop cher aux locataires et aux PME."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Protéger la nature, j'y suis favorable, mais réserver davantage de terres à la biodiversité réduit ce que peuvent cultiver nos paysans. Dans une commune où l'agriculture compte, je vote plutôt non."
+    }
+  ]
+}

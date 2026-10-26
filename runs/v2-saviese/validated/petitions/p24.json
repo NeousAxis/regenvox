@@ -1,0 +1,125 @@
+{
+  "id": "p24",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Je ne suis ni étudiante ni liée à l'EPFL, et une demande visant une entreprise américaine dans un forum lausannois ne me concerne pas assez pour que je signe."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.25,
+      "raison": "Les canicules de cet été en Valais m'ont marquée, mais cette lettre ouverte générale qui réclame la fin du financement des fossiles ne me convainc pas, et je ne signe pas volontiers les appels adressés au Parlement."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Je suis opposée à cette initiative de l'UDC, mais je n'aime pas demander au Parlement d'invalider une initiative populaire, car je tiens à la démocratie directe même quand je n'approuve pas le texte."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "C'est une affaire genevoise liée à un débat sur le Proche-Orient dans lequel je ne me reconnais pas, et je n'ai pas d'avis tranché sur la CICAD."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.25,
+      "raison": "Le protoxyde d'azote inquiète aussi chez les jeunes, mais la pétition vise le Grand Conseil genevois et je ne signe pas les textes d'un autre canton, même si je serais favorable à limiter la vente aux mineurs."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Mon deuxième pilier me concerne, mais je trouve la demande de désinvestir des fossiles mal calibrée, et je ne me sens pas en mesure d'influencer les caisses de pension par une pétition."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.12,
+      "raison": "L'idée d'un assureur cantonal m'intéresse en théorie, mais le texte se présente lui-même comme fictif, donc je ne vois pas ce que je signerais."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.3,
+      "raison": "À 46 ans, l'avenir de l'AVS me concerne directement, et je partage l'idée d'une réforme structurelle plutôt que de nouvelles hausses de TVA, mais je me méfie de la légalisation du cannabis présentée comme une recette."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "C'est une commune genevoise et un projet de locaux qui ne me touchent pas, je n'ai aucune raison de m'y intéresser."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.2,
+      "raison": "Je suis touchée par ce deuil et par le vide juridique qu'elle décrit, mais je ne suis pas concernée directement, et je ne signe qu'une fois sur dix ce type d'appel, même par empathie."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.04,
+      "partage_proba": 0.12,
+      "raison": "Je comprends la question des délais d'attente, mais une motion qui cherche à maîtriser les coûts me paraît légitime, et je ne signe pas une pétition sur la politique de santé qui ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "La ferme de Borex est vaudoise et je ne la connais pas, même si je comprends la difficulté à financer une petite exploitation qui doit se diversifier pour survivre."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.05,
+      "partage_proba": 0.2,
+      "raison": "Les violences domestiques me révoltent, mais ce canton est loin de Savièse et la demande porte sur un financement cantonal qui ne me concerne pas, donc je ne signe que rarement ce type d'appel."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Le jeu de mots me plaît et la chaleur en ville m'intéresse, mais le tram lausannois et ses arrêts ne me concernent pas au quotidien."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Les témoignages sur les renvois me bouleversent, mais je fais confiance aux procédures du SEM, et une pétition adressée à un conseiller fédéral ne me convainc pas de réclamer un moratoire."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "La formation à temps partiel est un sujet intéressant pour les employeurs, mais l'allongement des CFC et un droit légal à 50 % ne me paraissent pas réalistes, et je ne suis pas concernée."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.05,
+      "partage_proba": 0.2,
+      "raison": "La vie privée me préoccupe, mais je préférerais une régulation de l'usage et de l'enregistrement plutôt qu'une interdiction de vente, que je trouve trop large pour quelqu'un attaché à la liberté d'entreprendre."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Je retiens certains points, comme la rénovation plutôt que la démolition, mais un appel à limiter systématiquement la consommation et à interdire la mise au rebut des retours me paraît trop dirigiste."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.1,
+      "partage_proba": 0.35,
+      "raison": "Sur mon coteau de Savièse, les forêts et le risque d'incendie sont une réalité, et l'argument que la prévention coûte moins cher que les dégâts me convainc, même si je n'aime pas beaucoup les pétitions adressées au Parlement."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.09,
+      "partage_proba": 0.3,
+      "raison": "Les soumissions chimiques touchent des femmes de mon âge en soirée et la sécurité me parle, mais la demande de task force nationale me paraît un peu vague pour que je la signe, alors je la partagerais plutôt comme alerte."
+    }
+  ]
+}

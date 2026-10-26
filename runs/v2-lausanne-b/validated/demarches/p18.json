@@ -1,0 +1,65 @@
+{
+  "id": "p18",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je ne fréquente pas le secteur de Sauvabelin, l'atelier du samedi après-midi ne me convenait pas et je n'ai pas le souvenir d'avoir vu ce sondage passer."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Pilote peu visible à l'époque, avec un vote en ligne ou en urne sans bulletin reçu à la maison, et je n'avais pas de projet de quartier à défendre."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Vote en ligne ou dans des urnes pendant la pandémie, je n'avais pas de projet à soutenir et la démarche restait peu visible dans mon entourage."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Un sondage en ligne de cinq minutes sur mon quartier m'intéresse et je le remplirais si je le voyais passer, mais je ne vais ni aux soirées ni aux balades."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin affranchi arrive dans la boîte aux lettres et je le remplis parfois en famille, mais le choix de trois projets reste une démarche que je repousse souvent faute de temps."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Le sujet des quais me concerne un peu et le questionnaire ne prend que quelques minutes, mais je ne l'ai pas vu passer et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.2,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin préaffranchi reçu à domicile me pousse à voter, mais la contrainte du temps en famille fait que je ne le remplis pas systématiquement, et j'en parle parfois autour de moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Le thème me touche et je répondrais volontiers à un questionnaire, mais la consultation était peu annoncée autour de moi et je ne me sens pas assez concernée pour la chercher."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.25,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin nominatif arrive à tout le foyer dès 4 ans, donc nous le remplissons souvent en famille, mais je ne suis pas certaine de le garder en tête assez tôt pour voter."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.22,
+      "partage_proba": 0.16,
+      "raison": "Le bulletin préaffranchi et le vote en ligne rendent la participation facile, mais l'enthousiasme pour ces budgets reste modéré et je vote seulement si le bulletin tombe dans une période calme."
+    }
+  ]
+}

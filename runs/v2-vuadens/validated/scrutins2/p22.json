@@ -1,0 +1,197 @@
+{
+  "id": "p22",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore né à cette date, je n'avais pas l'âge de voter ; si j'avais pu voter, j'aurais soutenu le financement de l'AVS et de l'AI que défend le PS."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Pas encore né, donc pas de vote possible ; une hausse temporaire de la TVA pour sauver l'AI aurait été acceptable pour moi, comme pour le PS."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Pas encore né, donc pas de vote possible ; interdire d'exporter du matériel de guerre aurait été proche de ce que défend le PS et de mon attachement à la paix."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Trop jeune pour voter ; un service militaire volontaire aurait eu mon soutien, car je ne vois pas pourquoi l'obligation devrait être la seule voie."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Trop jeune pour voter ; remettre en cause la libre circulation avec l'UE me paraît risqué pour nos entreprises et nos voisins, donc j'aurais voté non comme le PS."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Trop jeune pour voter ; dépenser autant pour de nouveaux avions de combat ne me convainc pas, donc j'aurais probablement suivi le PS et voté non."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.15,
+      "raison": "Trop jeune pour voter ; inscrire dans la Constitution une seule forme de famille me paraît fermé, donc j'aurais voté non comme le PS."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Trop jeune pour voter ; j'aurais soutenu le financement de l'AVS même avec une TVA plus élevée, car la réforme apportait aussi l'égalité de l'âge de la retraite entre hommes et femmes."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Trop jeune pour voter ; le bien-être des animaux de rente me touche et je connais les fermes du village, donc j'aurais probablement voté oui."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Trop jeune pour voter ; placer la Constitution au-dessus du droit international me paraît risqué pour nos accords, donc j'aurais voté non comme le PS."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Trop jeune pour voter ; reprendre la directive européenne sur les armes me paraît raisonnable pour rester dans Schengen, donc j'aurais voté oui comme le PS et le PLR."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0,
+      "oui_proba": 0.1,
+      "raison": "Trop jeune pour voter ; mettre fin à la libre circulation me paraît risqué pour l'économie de la région, donc j'aurais voté non comme le PS."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Trop jeune pour voter ; je comprends les éleveurs qui perdent du bétail, mais je suis proche du PS et je tiens à la protection des espèces, donc j'aurais plutôt voté non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Trop jeune pour voter ; six milliards pour de nouveaux avions me paraissent beaucoup, et le PS était contre, donc j'aurais plutôt voté non."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Trop jeune pour voter ; empêcher la BNS et les caisses de pension de financer les fabricants d'armes me paraît juste, donc j'aurais voté oui comme le PS."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.85,
+      "raison": "Trop jeune pour voter ; réserver les paiements directs aux exploitations sans pesticides ni antibiotiques préventifs me semble juste, donc j'aurais voté oui sans hésiter."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.8,
+      "raison": "Trop jeune pour voter ; l'idée de sortir des pesticides de synthèse me plaît, même si dix ans me semblent courts pour les agriculteurs, donc j'aurais voté oui comme le PS."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0,
+      "oui_proba": 0.9,
+      "raison": "Trop jeune pour voter ; ouvrir le mariage civil à tous les couples me paraît évident, donc j'aurais voté oui sans hésiter."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Trop jeune pour voter ; je suis sensible à la souffrance animale, mais la recherche médicale a besoin d'essais, donc j'aurais plutôt voté non comme le PS."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0,
+      "oui_proba": 0.25,
+      "raison": "Trop jeune pour voter ; je reste méfiant envers une hausse des moyens de contrôle aux frontières et le PS était contre, donc j'aurais plutôt voté non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Trop jeune pour voter ; le bien-être des animaux me touche, même si la transition demandée inquiète les fermes de la région, donc j'aurais probablement voté oui."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Trop jeune pour voter ; le PS était contre cette réforme et la hausse de TVA liée au relèvement de l'âge de la retraite des femmes me gêne, donc j'aurais plutôt voté non."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Proche du PS, je suis sensible à la nature et aux paysages de la région, mais je pense aussi aux exploitations du village qui craignent de perdre des surfaces, donc un oui probable mais pas certain."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Proche du PS, je trouve juste que chaque personne soit imposée sur ses propres revenus, même si ça me touche peu en vivant chez mes parents, donc je voterais probablement oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Je reste attaché à la libre circulation et proche du PS, donc je voterais non, même si la croissance rapide de la population me préoccupe un peu quand je vois les routes et les quartiers se densifier."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Homme suisse, je peux être concerné par ces règles, et fermer la porte au service civil à ceux qui changent d'avis me paraît injuste, donc je voterais plutôt non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "La neutralité fait partie de notre identité et je la défends, mais une neutralité perpétuelle et armée avec des limites aux sanctions me paraît rigide, donc je voterais plutôt non comme le PS."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "J'aime l'idée de moins de pesticides et d'une eau plus propre, mais 70 % d'aliments produits dans le pays en dix ans risquent de fragiliser les fermes et la fromagerie du village, donc plutôt non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.8,
+      "raison": "Je trouve normal de financer la 13e rente AVS acceptée en mars 2024, même si une TVA plus élevée pèse sur les petits revenus, donc je voterais probablement oui comme le PS."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.25,
+      "oui_proba": 0.55,
+      "raison": "Les pétards me dérangent, notamment pour les animaux et le sommeil, mais j'aime les feux du 1er août, donc je suis indécis et je penche légèrement pour un oui."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "Le peuple vient d'accepter l'imposition individuelle que je soutiens, revenir à l'imposition commune me paraît un recul, donc je voterais plutôt non même si je comprends les couples mariés."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Le PS est contre, et je ne veux pas que la Suisse livre des armes à des pays impliqués dans un conflit au nom de la neutralité, donc je voterais plutôt non malgré le soutien du PLR et du Centre."
+    }
+  ]
+}

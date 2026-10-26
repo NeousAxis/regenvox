@@ -1,0 +1,39 @@
+{
+  "id": "p07",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une garantie écrite que la commune ne fixera aucun objectif de pourcentage sans les agriculteurs, et que la question du revenu des fermes sera traitée en premier, avec des chiffres concrets sur ce que le bio rapporte réellement ici."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une rencontre à la ferme, en fin d'après-midi après la traite, où les habitants viendraient voir le travail concret plutôt qu'une réunion en salle, organisée par quelqu'un qui me connaît."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un atelier le samedi matin, limité à deux heures et organisé en petits groupes, centré sur la transmission des fermes et les moyens concrets d'aider les jeunes à reprendre une exploitation, avec un compte rendu envoyé aux participants et une suite donnée aux propositions."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une reconnaissance concrète et payée, par un achat local, un contrat ou une aide, plutôt que des mots, et un format où je ne parle pas seul devant la salle, par exemple une visite de la prairie en petit groupe."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul format qui ne me prend ni la soirée ni la demi-journée : dix minutes sur le téléphone, quand les bêtes sont rentrées. Je ne m'attends pas à ce que ça change grand-chose, mais je le ferais plus volontiers qu'une réunion que je n'arrive pas à caser entre la traite et les champs."
+}

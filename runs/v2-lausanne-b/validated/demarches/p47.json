@@ -1,0 +1,65 @@
+{
+  "id": "p47",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Démarche très locale, annoncée surtout sur le site des établissements et sur les réseaux de la Ville, et je ne fréquentais pas Sauvabelin à l'époque, si bien que l'atelier de samedi après-midi ne m'aurait pas attirée."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.07,
+      "raison": "Premier budget participatif, peu visible à l'époque, et je n'avais pas le réflexe de voter pour des projets de quartier sans raison précise."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Le vote en ligne était facile pendant le Covid et les projets me parlaient un peu plus, mais je n'avais pas de projet précis à soutenir et le budget restait limité."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Un sondage en ligne de cinq minutes sur l'avenir de mon quartier me semble faisable malgré mon emploi du temps, alors que je ne viendrais probablement ni aux soirées ni aux balades."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.14,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin envoyé à chaque foyer m'atteint directement chez moi et voter prend peu de temps, mais je n'ai pas toujours le temps de me documenter sur les projets présentés."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Les quais d'Ouchy m'intéressent comme promeneuse, mais je réponds rarement aux questionnaires en ligne de la Ville et l'enquête n'était ouverte qu'un mois."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.16,
+      "raison": "Le bulletin préaffranchi reçu à domicile et le vote en ligne rendent la participation simple, mais je ne suis pas sûre de suivre assez les projets pour en choisir au moins trois."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.1,
+      "partage_proba": 0.22,
+      "raison": "Le sujet me concerne personnellement comme résidente étrangère et j'en parlerais volontiers, mais ce type de consultation me touche rarement et je n'ai pas repéré la démarche dans mon quotidien."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin nominatif qui m'est adressé augmente mes chances de voter, mais ma motivation reste limitée quand les projets ne concernent pas directement mon immeuble."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin reçu à domicile est pratique, mais la période estivale et les contraintes familiales réduisent le temps que je consacre à ce genre de choix."
+    }
+  ]
+}

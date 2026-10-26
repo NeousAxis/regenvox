@@ -1,0 +1,141 @@
+{
+  "id": "p36",
+  "portrait": "J'ai 69 ans, je suis retraitée et je vis seule dans une maison isolée sur les hauts de Vuadens, avec un petit jardin et mon chat. J'ai travaillé toute ma vie comme employée de commerce à Bulle, je vote plutôt au centre sans être militante, et je fais davantage confiance aux paysans que je connais qu'aux beaux discours venus de la ville.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Nos paysans doivent pouvoir vivre de leur travail, c'est la première chose. Si le bio leur fait travailler plus pour gagner moins, ça ne tient pas. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je me méfie des formulaires en ligne et je ne suis pas à l'aise avec internet",
+        "Les réunions le soir sont difficiles pour moi, je ne conduis plus de nuit"
+      ],
+      "ce_qui_me_ferait_venir": "Une lettre dans ma boîte aux lettres avec les chiffres pour les fermes, et des agriculteurs de Vuadens qui expliquent eux-mêmes ce que ça change pour leur budget."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« J'achète déjà à la fromagerie et les œufs au voisin. Je ne vois pas ce que moi, une retraitée, je peux faire de plus. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne me sens pas concernée, je n'ai ni terre ni exploitation",
+        "Les décisions se prennent entre quelques personnes de la commune, j'ai l'impression que ça se fait sans nous",
+        "Le bio en magasin coûte déjà cher, je regarde chaque franc"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me dise concrètement ce que je peux acheter ou faire sans que ça me coûte plus cher, par exemple une vente directe à la ferme à côté de chez moi."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Pour mes petits-enfants, je voudrais qu'il reste des champs ouverts et des vaches dans les prés, pas des lotissements. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Les soirées de réunion me fatiguent et je n'aime pas rentrer tard",
+        "Je pense que ce sont les plus jeunes qui doivent se prononcer sur l'avenir"
+      ],
+      "ce_qui_me_ferait_venir": "Une rencontre de jour, au village, avec un café offert et un moyen simple de revenir chez moi, car je ne conduis plus le soir."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« On n'a pas besoin de labels pour savoir qui travaille bien. Les agriculteurs de Vuadens, on les voit tous les jours. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Ces démarches de reconnaissance me semblent venir de gens de l'extérieur",
+        "Je ne crois pas beaucoup aux étiquettes ni aux panneaux",
+        "Je n'ai pas envie d'ajouter une réunion à mes semaines"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes proposent une visite de leur ferme, par exemple un samedi matin, et que ce ne soit pas une campagne organisée par la commune."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 8,
+    "role": "suiveur",
+    "cercle_type": "Voisinage direct de la maison, quelques proches au village, anciennes collègues de Bulle, et bons rapports avec des familles d'agriculteurs. Peu présente dans les associations, je parle surtout aux gens que je croise à la fromagerie et au marché."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Je suis pour protéger le paysage et je ne veux pas voir des maisons de vacances partout, mais je ne suis pas sûre que ce genre de limite tienne la route pour un village comme le nôtre."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Il faut arrêter de grignoter les champs, mais je ne voudrais pas que les terrains des familles d'agriculteurs soient bloqués pour rien."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Une planète par personne, ça veut dire des normes en plus pour les paysans et les petites entreprises de la zone industrielle. Je n'en veux pas."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Il faut de l'électricité, et je ne suis pas sûre que le solaire et l'éolien suffisent en hiver. Je ne veux pas changer ça sans savoir par quoi on remplace."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Les énergies renouvelables, pourquoi pas, mais les hausses sur la facture et les subventions me font peur quand on a une petite retraite."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Des aliments produits dans le respect des animaux et de l'environnement, je suis d'accord, mais si cela veut dire contrôler et taxer les importations, les prix vont monter pour nous."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Mangeons ce qui pousse chez nous, c'est mon avis depuis toujours. Les paysans d'ici doivent pouvoir vivre de leur travail et leur production doit être protégée."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "L'eau potable, personne n'est contre. Mais réserver les paiements directs à ceux qui n'utilisent pas de produits crée des gagnants et des perdants parmi les paysans d'ici."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Sans produits de synthèse, les rendements baissent et ce sont les petites fermes qui paient. Dix ans de transition ne suffisent pas à changer les habitudes."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Taxer le mazout et les billets d'avion, pour moi qui habite loin de tout et qui n'ai plus le choix de la voiture, c'est une punition."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Les animaux doivent être bien traités, je suis d'accord, mais exiger les normes bio de tous les éleveurs, y compris pour les importations, me paraît difficile à tenir pour nos agriculteurs."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Zéro émission nette en 2050 est un objectif que je comprends, mais je me demande qui va payer les chauffages remplacés, et j'ai peur que ce soient les propriétaires comme moi."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "La nature, nos paysans la soignent depuis toujours. Mettre davantage de surfaces sous protection, c'est prendre des terres à ceux qui les travaillent."
+    }
+  ]
+}

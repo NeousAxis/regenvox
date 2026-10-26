@@ -1,0 +1,24 @@
+{
+ "id": "carouge",
+ "cible": {
+  "type": "commune",
+  "nom": "Carouge",
+  "canton": "GE",
+  "pays": "CH",
+  "description": "Ville du canton de Genève, au sud de la ville de Genève, au bord de l'Arve, ancienne cité sarde."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 67,
+  "seed": 20261106
+ },
+ "contexte_factuel": [
+  "Population : 22 783 habitants au 31 décembre 2025, dont 37 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 1 exploitations, 2 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Carouge, PS (20,4 %) (OFS)."
+ ],
+ "votations": []
+}

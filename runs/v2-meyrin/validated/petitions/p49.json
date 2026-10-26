@@ -1,0 +1,125 @@
+{
+  "id": "p49",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.004,
+      "partage_proba": 0.05,
+      "raison": "Affaire interne à l'EPFL et à Lausanne qui ne touche ni mon métier ni ma commune, donc je passe mon chemin."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "Les canicules me marquent, mais ce plan d'urgence à huit axes et ces exigences adressées à l'État sont loin de ce que je soutiens, donc je le signerais peut-être sans le partager."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.015,
+      "partage_proba": 0.1,
+      "raison": "Je n'aime pas qu'une pétition demande au Parlement d'écarter une initiative populaire, même si je ne suis pas d'accord avec tout l'UDC, donc je ne m'engage pas."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.005,
+      "partage_proba": 0.05,
+      "raison": "Cette querelle genevoise autour de la CICAD et de Gaza est un débat politique que je préfère éviter, donc je ne la signe pas."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.3,
+      "raison": "Le problème est concret et local (jeunes, bonbonnes, conduite sous influence), donc je le signerais volontiers et le partagerais peut-être à des voisins ou à des parents."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.015,
+      "partage_proba": 0.05,
+      "raison": "Le deuxième pilier et ses placements ne sont pas un sujet qui m'occupe, et une pétition de soignants sur le climat ne me pousse pas à agir."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Le texte se présente comme fictif et une caisse cantonale avec partenaires privés ne correspond pas à ma position proche du PLR, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.25,
+      "raison": "Une réforme structurelle de l'AVS sans hausse de TVA ni de cotisations colle à ma situation d'indépendant, même si je me méfie des jeunes partis, donc je signerais peut-être."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.005,
+      "partage_proba": 0.04,
+      "raison": "Ce projet concerne Versoix, une autre commune que Meyrin, et je n'ai aucun lien avec ces locaux."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Le récit me touche, mais la protection de la maternité après une perte ne me concerne pas directement, donc je n'ai guère de raison de signer ou de partager."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.01,
+      "partage_proba": 0.04,
+      "raison": "La motion sur le diagnostic psychiatrique relève d'un sujet médical qui ne me touche pas, donc je ne m'y engage pas."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "Une ferme d'agrumes du canton de Vaud est sympathique mais hors de ma vie quotidienne à Meyrin, donc je n'ai pas de raison de signer."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.006,
+      "partage_proba": 0.05,
+      "raison": "La cause est juste, mais une maison d'accueil dans le Jura concerne un autre canton et je ne signe pas les appels qui ne me concernent pas."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.012,
+      "partage_proba": 0.08,
+      "raison": "Le tram lausannois ne passe pas à Meyrin, et la question de la fraîcheur, bien qu'intéressante, reste lointaine pour moi."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Je comprends les cas difficiles, mais une suspension générale des renvois ne me convainc pas, donc je ne la signe pas."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Un apprentissage à mi-temps me paraît irréaliste pour une entreprise du bâtiment, même si la question du handicap compte."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.05,
+      "partage_proba": 0.2,
+      "raison": "Le risque de filmer quelqu'un à son insu me parle, surtout dans un immeuble, mais demander une interdiction de vente au niveau fédéral est excessif, donc je signerais peut-être sans aller plus loin."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.015,
+      "partage_proba": 0.05,
+      "raison": "L'appel est général et cumule des mesures lourdes, peu praticables pour un artisan, donc je ne le signe pas."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Je suis sensible au risque d'incendie, mais la pétition conteste une économie du Conseil fédéral sans que je dispose des éléments pour trancher, donc je ne m'engage pas."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.06,
+      "partage_proba": 0.2,
+      "raison": "Lutter contre les drogues qui servent à abuser des gens me paraît juste, mais réclamer une task force nationale est une demande d'État que je ne signerais qu'après réflexion, donc je passe."
+    }
+  ]
+}

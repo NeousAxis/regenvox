@@ -1,0 +1,143 @@
+{
+  "id": "p22",
+  "portrait": "J'ai 22 ans, je suis en apprentissage et je vis encore chez mes parents, dans une maison isolée au-dessus du village. Je suis suisse, je me sens plus proche de l'UDC et je vote quand j'ai le temps, parce que j'ai l'impression que les décisions se prennent toujours en ville et qu'on finit par payer les idées des autres. Je vois de près ce que les éleveurs du coin endurent avec les prix et la paperasse, sans être agriculteur moi-même.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Qu'ils gagnent bien leur vie, d'accord, mais que le bio devienne une obligation déguisée, ça non. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je n'ai pas de lien direct avec les fermes",
+        "les chiffres sur le revenu agricole ne me parlent pas beaucoup",
+        "les projets de la commune arrivent souvent sans qu'on nous demande notre avis"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagne une ferme, et la garantie que le paysan reste maître de sa décision."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 4,
+      "citation": "« Moi je fais mes courses là où c'est le moins cher, je vais pas me sentir coupable parce que la commune me demande de payer le bio pour le paysan. »",
+      "engagement": 0,
+      "freins_participation": [
+        "le bio reste trop cher pour mon budget",
+        "je n'ai pas le temps d'aller à des ateliers",
+        "ça sonne moralisateur, comme si on me faisait la morale"
+      ],
+      "ce_qui_me_ferait_venir": "Que le projet ne me demande pas de payer plus cher, et que ce soient les agriculteurs qui décident de ce qu'ils cultivent."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Ça tout le monde est d'accord sur le principe, mais la terre se transmet d'abord à ceux qui la travaillent, pas à ceux qui en parlent. »",
+      "engagement": 1,
+      "freins_participation": [
+        "c'est très général, je ne vois pas ce que je peux faire concrètement",
+        "les décisions se prennent ailleurs que dans le village",
+        "mon apprentissage et mes soirées me prennent déjà beaucoup de temps"
+      ],
+      "ce_qui_me_ferait_venir": "Une question concrète sur la reprise des fermes du village, avec des jeunes qui peuvent vraiment s'installer."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les paysans du coin entretiennent les prairies et les haies depuis toujours, c'est bien de le reconnaître, mais qu'on ne vienne pas leur faire la leçon sur la nature. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne vois pas comment on reconnaît concrètement une ferme",
+        "une reconnaissance ça ne paie pas les factures",
+        "je ne vais pas à des réunions pour ça"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance accompagnée d'un débouché local pour le lait et la viande, ou d'un soutien financier qui se voit dans les comptes des fermes."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 20,
+    "role": "suiveur",
+    "cercle_type": "famille proche, amis d'enfance du village, collègues d'apprentissage, club sportif local, quelques groupes de discussion en ligne"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais hésité : les résidences secondaires gênent parfois le village, mais une limite imposée d'en haut me déplaît."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais trouvé que des règles venues de Berne compliquent la construction au village, même si je comprends l'intérêt de préserver les terres."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Pas encore en âge de voter. Une empreinte limitée à une seule planète d'ici 2050 ressemble à une contrainte pour les entreprises de la région, donc j'aurais dit non."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais été partagé : sortir du nucléaire sans alternative claire m'inquiète pour le prix de l'électricité."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais pesé les coûts pour les ménages et les agriculteurs, sans être contre les économies d'énergie."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais trouvé l'idée juste pour les paysans suisses, mais une règle qui touche aussi les produits importés me paraît difficile à contrôler."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais dit oui : protéger la production indigène et les paysans d'ici me parle, même si je n'aime pas qu'on mette tout dans la même initiative."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais refusé une taxe qui fait monter le prix de l'essence et des billets d'avion, surtout pour ceux qui habitent loin de tout."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Pas encore en âge de voter. L'eau propre est importante, mais réserver les paiements directs à certaines fermes me paraît une pression sur les paysans."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore en âge de voter. Si j'avais voté, j'aurais dit non : interdire les pesticides de synthèse sans solution pour les rendements me paraît irréaliste pour les fermes d'ici."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Je viens tout juste d'avoir 18 ans et je vote rarement. Cette initiative vise les éleveurs de la région avec des règles plus strictes, y compris pour les importations, et je dirais non à une réglementation qui pèse sur les fermes."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je vote surtout pour les sujets qui touchent mon quotidien. Zéro émission nette d'ici 2050 me paraît lointain et flou, et les aides pour changer de chauffage profitent d'abord à ceux qui ont de l'argent."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Protéger la nature me semble bien, mais davantage de surfaces dédiées à la biodiversité veut dire moins de terres pour les fermes. Je ne me déplace pas forcément pour ce genre de vote."
+    }
+  ]
+}

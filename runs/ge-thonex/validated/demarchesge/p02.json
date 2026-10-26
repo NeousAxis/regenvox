@@ -1,0 +1,11 @@
+{
+  "id": "p02",
+  "reactions": [
+    {
+      "item_id": "gen02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.07,
+      "raison": "Vivant seul et peu sorti le soir, je n'ai probablement jamais su qu'une assemblée avait lieu à la salle des fêtes, et je n'en aurais parlé qu'à quelques voisins si le thème de la sécurité m'avait intéressé."
+    }
+  ]
+}

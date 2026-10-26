@@ -1,0 +1,65 @@
+{
+  "id": "p38",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "En 2017, avec de jeunes enfants, je passais parfois à Sauvabelin, mais je n'ai pas vu l'annonce du sondage et je ne réponds pas spontanément aux consultations de la Ville."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Ce budget participatif pilote m'est passé sous le nez : je n'ai pas su qu'on pouvait voter et personne autour de moi n'en parlait."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Avec le Covid et les stands du marché que je ne fréquente pas, je n'ai pas eu l'occasion de voter, même si l'idée me plaît."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Un sondage de cinq minutes sur mon quartier m'aurait intéressée, mais je ne l'ai pas vu passer et je n'ai pas le réflexe de répondre en ligne."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin envoyé dans toutes les boîtes aux lettres me donne une vraie chance de voter, mais je ne suis pas sûre de m'intéresser assez aux projets pour en cocher trois."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Je vais parfois au bord du lac à Ouchy, mais un questionnaire en ligne sur la circulation ne m'a pas attirée et je ne l'ai pas remarqué."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le vote facile, mais je ne vote pas à chaque édition et je ne connais pas les projets de mon quartier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le sujet du racisme me touche directement en tant qu'étrangère, mais je n'ai pris connaissance du questionnaire que tard et je ne suis pas certaine d'avoir pris le temps d'y répondre."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin nominatif envoyé à toute la population, étrangers compris, me concerne, mais je vote rarement et j'hésite à choisir trois projets sans en connaître les auteurs."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.07,
+      "partage_proba": 0.09,
+      "raison": "À 44 ans je suis moins dans la routine des démarches municipales, et même avec un bulletin à domicile je pense qu'il resterait sur la table sans que je le remplisse."
+    }
+  ]
+}

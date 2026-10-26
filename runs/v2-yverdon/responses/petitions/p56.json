@@ -1,0 +1,25 @@
+{
+  "id": "p56",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.005, "partage_proba": 0.01, "raison": "Je ne suis pas à l'EPFL et ce débat sur Palantir me paraît très lointain, d'autant que le retrait a été décidé pour des raisons de sécurité et non de morale."},
+    {"item_id": "pet02", "participe_proba": 0.04, "partage_proba": 0.06, "raison": "Les canicules de cet été m'ont vraiment fatiguée au travail et le sujet compte pour moi, mais une lettre ouverte aussi large, avec la fin des énergies fossiles et une aide climatique internationale, ne me pousse pas à signer."},
+    {"item_id": "pet03", "participe_proba": 0.01, "partage_proba": 0.01, "raison": "Cette initiative vient du parti dont je me sens le plus proche sur la sécurité et les frontières, je n'ai aucune envie de signer un texte qui veut la faire invalider."},
+    {"item_id": "pet04", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "L'affaire se passe à Genève, je ne connais pas bien les déclarations de ce député et je ne m'engage pas sur un sujet aussi politisé."},
+    {"item_id": "pet05", "participe_proba": 0.10, "partage_proba": 0.15, "raison": "Dans mon travail je rencontre des jeunes qui consomment ce gaz, donc je soutiens l'interdiction de la vente aux mineurs et à des fins récréatives, même si le texte concerne surtout Genève."},
+    {"item_id": "pet06", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Je suis sensible au climat mais je n'ai aucune prise sur les placements de mon deuxième pilier et ce sujet technique ne me motive pas à signer."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Le texte se présente lui-même comme un projet fictif sans véritable réforme, donc je n'ai pas de raison de m'engager, même si les primes me pèsent."},
+    {"item_id": "pet08", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Je m'inquiète pour ma future retraite et l'idée d'une durée de cotisation de référence me parle, mais je ne suis pas favorable à la légalisation du cannabis et je ne veux pas d'une hausse de la TVA."},
+    {"item_id": "pet09", "participe_proba": 0.005, "partage_proba": 0.01, "raison": "Je ne vis pas à Versoix, je ne connais pas le local de l'ancien Fust et ce projet communal ne me concerne pas."},
+    {"item_id": "pet10", "participe_proba": 0.10, "partage_proba": 0.10, "raison": "Le témoignage me touche et le décalage entre deuil et droits est réel, mais je ne signe pas facilement ce genre de demande sans qu'elle me parvienne par mon réseau."},
+    {"item_id": "pet11", "participe_proba": 0.15, "partage_proba": 0.20, "raison": "Dans mon métier je vois les délais d'attente pour les soins psychiques, donc je rejette une exigence qui allongerait encore l'accès et je signerais probablement en relayant l'appel à mes collègues."},
+    {"item_id": "pet12", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Borex est loin de chez moi et je ne connais pas cette ferme, même si l'idée de préserver un patrimoine agricole rare me plaît."},
+    {"item_id": "pet13", "participe_proba": 0.05, "partage_proba": 0.05, "raison": "Les violences faites aux femmes me touchent et la demande me paraît légitime, mais le Jura n'est pas mon canton et je ne signe probablement pas une pétition pour une autre région."},
+    {"item_id": "pet14", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Je trouve la chaleur en ville difficile, mais ce tram lausannois ne concerne pas Yverdon et la demande vient d'un parti éloigné de mes idées."},
+    {"item_id": "pet15", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Je suis plutôt favorable à une politique d'asile ferme et je ne suis pas convaincue par un appel à stopper des renvois dont je ne connais pas les détails."},
+    {"item_id": "pet16", "participe_proba": 0.05, "partage_proba": 0.06, "raison": "Le handicap et la formation des jeunes me parlent à cause de mon métier, mais ce texte réclame une réforme lourde dont je ne mesure pas les conséquences, donc je ne m'engage pas."},
+    {"item_id": "pet17", "participe_proba": 0.14, "partage_proba": 0.25, "raison": "Le risque de se faire filmer à son insu me semble très réel, surtout dans des vestiaires ou des lieux de soin, donc je signerais probablement ce texte et je le partagerais à mes contacts."},
+    {"item_id": "pet18", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Les mesures proposées sont trop contraignantes pour les habitudes de consommation de tous les jours et je n'adhère pas à ce type d'appel global."},
+    {"item_id": "pet19", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "La proposition vient d'un conseiller fédéral de mon parti et je n'ai pas envie de signer contre lui, d'autant que les forêts ne me concernent pas directement."},
+    {"item_id": "pet20", "participe_proba": 0.12, "partage_proba": 0.25, "raison": "Les soumissions chimiques touchent des jeunes femmes de mon âge en sortie et je trouve la demande légitime, je la partagerais à mes amies même si je doute des suites données."}
+  ]
+}

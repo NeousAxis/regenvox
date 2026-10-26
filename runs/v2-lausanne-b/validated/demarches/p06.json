@@ -1,0 +1,65 @@
+{
+  "id": "p06",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Je ne fréquente pas Sauvabelin, je n'ai pas le souvenir d'avoir vu ce sondage et je n'irais pas aux ateliers exprès pour lui."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.07,
+      "partage_proba": 0.15,
+      "raison": "C'était une première édition peu visible, et je ne voyais pas quel projet de quartier au centre-ville me concernerait assez pour me déplacer jusqu'à une urne."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Pendant la pandémie je sortais peu, et un vote en ligne ou aux stands du marché ne m'a pas donné envie de m'en occuper."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.18,
+      "partage_proba": 0.25,
+      "raison": "Le plan d'affectation touche à la protection du patrimoine qui me tient à cœur, donc j'aurais pu répondre au sondage de cinq minutes, mais je n'assisterais pas aux soirées."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.2,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin envoyé à domicile me permet de voter sans effort, mais je ne dépose aucun projet et je ne suis pas toujours attentif aux échéances."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "La fermeture des quais d'Ouchy me touche peu et je ne réponds pas souvent aux enquêtes de la Ville, même courtes."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.2,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin préaffranchi arrive chez moi et je peux voter sans me déplacer, mais la plateforme de dépôt de projets ne m'attire pas."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.2,
+      "raison": "Le sujet me tient à cœur et j'en parlerais volontiers, mais je n'ai pas vu la consultation annoncée et je ne suis pas sûr de remplir un questionnaire papier."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.2,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin nominatif arrive chez moi et je le renverrais probablement, mais choisir trois projets sans les avoir vus me décourage un peu."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.15,
+      "partage_proba": 0.15,
+      "raison": "À 83 ans je réponds moins aux démarches qu'autrefois, mais le bulletin à domicile reste simple et je pourrais encore le renvoyer."
+    }
+  ]
+}

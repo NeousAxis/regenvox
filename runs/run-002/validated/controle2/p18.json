@@ -1,0 +1,17 @@
+{
+  "id": "p18",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "« Bio, très bien, mais qui paie la différence sur le litre de lait ? Le prix du lait, la fromagerie et la relève, c'est ça qui me tracasse, pas les objectifs de la commune. »",
+    "engagement": 1,
+    "freins_participation": [
+      "Je suis seul sur l'exploitation, les vaches n'attendent pas : pas le temps d'aller aux soirées d'information en semaine",
+      "Des objectifs chiffrés venus de la commune, sans calcul de rentabilité pour une ferme laitière, ça ne tient pas la route",
+      "Passer en bio sans débouché garanti et sans prix du lait qui suit, c'est prendre un risque que je ne peux pas porter seul",
+      "Une conversion sur herbages demande du temps et peut faire baisser les rendements avant que les primes arrivent",
+      "Je n'ai pas envie qu'on me dise dans quoi produire depuis le bureau de la commune"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres concrets : le prix du lait bio garanti par la fromagerie du village, le calcul de la conversion pour une exploitation comme la mienne, et un accompagnement technique donné par des agriculteurs de la région. Si c'est une rencontre au hameau, le soir, avec des collègues et les gens de la fromagerie autour de la table, je viendrais."
+  }
+}

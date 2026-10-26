@@ -1,0 +1,17 @@
+{
+  "id": "p02",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "En mai 2025 j'avais 14 ou 15 ans, un questionnaire sur un futur quartier ne m'aurait pas accrochée seule, même si l'école ou la fête de la Susette pouvait m'en faire parler."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Le sondage de décembre 2024 à mars 2025 visait surtout les habitants adultes du quartier des Marronniers, je n'y ai pas pensé et j'en aurais peu parlé autour de moi."
+    }
+  ]
+}

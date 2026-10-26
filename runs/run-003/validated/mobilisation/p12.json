@@ -1,0 +1,39 @@
+{
+  "id": "p12",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Que la commune me dise concrètement ce qu'elle va faire et combien ça coûte, pour que je ne craigne pas un projet venu d'en haut qui finit par coûter cher."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre que l'achat à la ferme du village ne coûte pas plus cher pour la maison, et ce que ça change concrètement pour l'exploitation."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un sujet ramené à aujourd'hui, avec un rôle précis que je peux jouer moi-même à mon échelle, plutôt qu'une question sur dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.3,
+      "atelier_presentiel": 0.12,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.25,
+      "ce_qui_doublerait_ma_venue": "Une suite concrète annoncée d'avance, par exemple un engagement écrit de la commune pour reconnaître les fermes et leurs prairies, avec un compte rendu envoyé à tous les ménages."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je choisis l'avis en ligne parce que c'est le format le moins contraignant : un questionnaire de 10 minutes que je peux remplir à mon rythme, à la maison, sans réunion le soir ni sortie en famille. Je ne suis pas enthousiaste à l'idée de remplir un formulaire en ligne, mais c'est le seul format où je pourrais dire ce que je pense sans m'engager davantage. L'atelier de 2 h 30 avec une équipe venue d'ailleurs et le parcours en trois séquences me demanderaient plus de temps que je n'en ai, et je n'y crois pas beaucoup."
+}

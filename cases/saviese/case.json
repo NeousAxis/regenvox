@@ -1,0 +1,24 @@
+{
+ "id": "saviese",
+ "cible": {
+  "type": "commune",
+  "nom": "Savièse",
+  "canton": "VS",
+  "pays": "CH",
+  "description": "Commune du district de Sion (canton du Valais), sur le coteau au-dessus de Sion, formée de plusieurs villages, avec une tradition viticole."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 48,
+  "seed": 20261102
+ },
+ "contexte_factuel": [
+  "Population : 8 453 habitants au 31 décembre 2025, dont 14 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 83 exploitations, 277 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Savièse, Le Centre (25,2 %) (OFS)."
+ ],
+ "votations": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p32",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un samedi matin, et des paysans du coin assis à la table avec nous, pour qu'on parle de ce qu'il leur faut vraiment et pas d'une théorie venue d'ailleurs."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique concrètement ce qu'un habitant peut apporter à une ferme, par exemple un coup de main à la récolte, sinon je ne vois pas ce que j'y gagne."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Des exemples précis de ce qui sera fait dans les cinq prochaines années, avec le coût et le nom de celui qui paie, plutôt que la vision à trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une mesure concrète et simple, sans nouveau label ni nouveau formulaire à remplir, avec une reconnaissance décidée par la commune et financée clairement."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes chez moi, sans réunion ni soirée à organiser : c'est le seul format que je risque vraiment de finir. Je n'aime pas les grandes réunions et je lis rarement les documents jusqu'au bout, donc un questionnaire court me convient mieux qu'un atelier de deux heures et demie ou trois séquences à suivre pendant trois semaines."
+}

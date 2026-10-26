@@ -1,0 +1,65 @@
+{
+  "id": "p15",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Je fréquente rarement le lac de Sauvabelin, le sondage et les ateliers du samedi après-midi ne m'ont pas concerné, et je n'en aurais pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Le premier budget participatif a peu circulé dans mon immeuble, sans projet de quartier à soutenir je n'ai pas vu l'intérêt de voter, et le sujet reste trop confidentiel pour revenir dans mes conversations."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "Pendant la pandémie, avec un travail très chargé en télétravail, un vote en ligne sur des projets de quartier est passé à la trappe, et je n'en ai parlé qu'à de rares proches."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "L'avenir de mon quartier m'intéresse et un sondage de cinq minutes en ligne est facile à remplir, mais la campagne s'est noyée dans l'actualité sanitaire et je n'en aurais parlé qu'à quelques proches engagés en politique locale."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin arrivé dans ma boîte aux lettres rend le vote facile, mais il finit souvent en pile de courrier sans que je prenne le temps de comparer les projets, et je n'en parle pas spontanément."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je fréquente peu les quais d'Ouchy et un questionnaire d'une quinzaine de questions sur leur fermeture ne me concerne pas vraiment, donc je ne l'aurais probablement ni rempli ni évoqué."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.11,
+      "partage_proba": 0.05,
+      "raison": "Je reçois le bulletin à domicile et je vote parfois aux démarches de la Ville, mais le budget participatif reste un geste que je repousse face à mes autres priorités, et j'en parle peu."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "Le sujet me touche, mais je n'ai pas repéré cette consultation sur une plateforme que je consulte peu, et je n'en aurais parlé que dans un cercle militant ou associatif."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin nominatif arrive à domicile et le vote en ligne est simple, mais je classe souvent ce courrier après d'autres, sélectionner au moins trois projets me demande du temps, et je n'en parle pas spontanément."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Je vote en ligne plus facilement qu'avant, mais la période d'été m'éloigne de ces sujets de quartier, le bulletin reçu à domicile se noie dans mes priorités, et je n'en aurais parlé qu'à un voisin ou à un ami engagé."
+    }
+  ]
+}

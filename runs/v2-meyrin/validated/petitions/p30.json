@@ -1,0 +1,125 @@
+{
+  "id": "p30",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Affaire lausannoise de l'EPFL, loin de mon quotidien à Meyrin, et ce type de mobilisation étudiante ne me touche pas beaucoup."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "Les canicules de cet été m'ont marqué, mais une lettre ouverte générale ne me pousse pas à signer et je n'ai pas le réflexe de la partager."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Proche du MCG, je ne m'associe pas à une campagne en ligne qui veut invalider l'initiative de l'UDC sur les frontières."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Affaire genevoise qui divise et qui se mêle au débat sur Gaza, je n'ai pas envie de m'engager là-dessus et je laisse passer."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.07,
+      "raison": "Je vois des jeunes de la cité avec des bonbonnes de protoxyde, le problème est concret et local, donc je peux signer, mais je ne partage pas forcément ce genre de texte."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Je suis trop jeune pour me sentir concerné par mon 2e pilier, et le lien entre climat et santé dans cette lettre ne me parle pas assez."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Le texte se présente lui-même comme un projet fictif, donc je ne vois pas pourquoi signer une pétition sur une réforme qui n'existe pas, même si l'assurance maladie me préoccupe."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "En tant que jeune, je me demande si l'AVS sera encore là pour moi, donc la question générationnelle me touche, mais je signe rarement une pétition lancée par un parti."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Ce projet concerne Versoix et je n'y habite pas, donc je ne vais pas signer une adresse au conseil municipal d'une autre commune."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Le témoignage est touchant et je comprends le vide juridique, mais je ne suis pas directement concerné et je ne signe pas une pétition fédérale de ce type sans raison personnelle."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Je sais que l'attente pour un psychologue est longue, mais cette motion fédérale est technique et je ne la suis pas assez pour signer."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Ferme vaudoise éloignée de mon quotidien à Meyrin, et je ne signe pas facilement pour une affaire communale qui ne me concerne pas."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "La violence domestique est un sujet sérieux, mais le Jura est loin de Genève et je ne me sens pas concerné par la politique jurassienne."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Un tram et des arbres à Lausanne ne me touchent pas à Meyrin, et ce parti vaudois n'est pas le mien."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Proche du MCG, qui est plutôt ferme sur l'asile, je ne signe pas une demande de suspension générale des renvois."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je suis en formation et je vois que le rythme du CFC pèse, mais allonger le CFC à 4 à 6 ans et diviser la charge par deux me paraît trop éloigné d'un apprentissage normal."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Les lunettes avec caméra m'inquiètent pour la vie privée, donc je signe volontiers ce genre de demande et je la partage si un copain en parle."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.03,
+      "partage_proba": 0.01,
+      "raison": "Un appel général qui demande un tournant écologique et des mesures très larges me semble vague, donc je ne le signe pas souvent."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "Les incendies et la sécheresse me préoccupent un peu, mais je signe rarement une pétition parlementaire fédérale, même quand elle touche à la forêt."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.12,
+      "partage_proba": 0.09,
+      "raison": "Les abus facilités par la drogue touchent les jeunes en soirée et concernent mes amis, donc je signe et je partage volontiers une cause de protection de ce type."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p34",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un chiffre clair sur ce que gagnent les paysans en passant au bio, et une idée de ce que ça leur coûte au départ."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Un exemple concret de partenariat avec une ferme précise, avec ce que je paierais et ce que je recevrais, et un point de retrait tout près du hameau."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Voir des gens de mon âge ou du monde de l'apprentissage impliqués dans le projet, et pas seulement des personnes âgées ou déjà engagées."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.01,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une raison directe qui me concerne, par exemple un effet sur le prix de ce que j'achète ou sur l'eau de mon hameau."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes sur mon téléphone, je peux le faire le soir ou pendant une pause, sans sortir ni bloquer un samedi matin entre mes horaires d'apprentissage."
+}

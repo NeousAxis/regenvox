@@ -1,0 +1,65 @@
+{
+  "id": "p49",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "A 11 ans, je ne fais pas partie du public visé par un sondage sur les établissements du lac, et je n'ai jamais entendu parler de cette consultation."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "A 13 ans, je n'ai pas de bulletin à mon nom et le budget participatif ne m'intéresse pas : au mieux mes parents en parlent en passant."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "A 14 ans, pendant la pandémie, sans bulletin personnel ni stand que je fréquente, je n'ai pas suivi le vote."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Un sondage en ligne de cinq minutes peut être rempli sur le téléphone d'un proche, mais la démarche n'a rien de visible dans mon quotidien d'élève."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.10,
+      "raison": "Le bulletin arrive au foyer et mes parents le remplissent peut-être avec moi, mais le budget participatif reste lointain pour un élève de 15 ans."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Le questionnaire sur la fermeture des quais est en ligne et annoncé sans bruit ; je n'y ai pas répondu et le sujet m'intéresse peu."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "A 16 ans, je reçois un bulletin nominatif à domicile et je pourrais voter en ligne, mais je ne dépose aucun projet et je suis peu attentif au vote."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Le thème me touche de près en tant qu'étranger, mais la consultation était peu visible (plateforme en ligne ou questionnaires papier dans des maisons de quartier), donc je n'ai probablement pas répondu."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin m'est adressé personnellement et je pourrais le renvoyer, mais je ne m'intéresse pas assez aux projets des quartiers pour le faire, j'en parlerais tout au plus à la maison."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.07,
+      "raison": "A 19 ans, en formation et encore chez mes parents, je reçois peut-être le bulletin, mais le vote des projets de quartier passe souvent à côté de moi et j'en parle peu."
+    }
+  ]
+}

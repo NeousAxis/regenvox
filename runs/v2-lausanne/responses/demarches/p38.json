@@ -1,0 +1,65 @@
+{
+  "id": "p38",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Le sort de l'Auberge de Sauvabelin ne me concerne pas au quotidien depuis le centre-ville, et je ne me souviens pas avoir vu l'annonce."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je savais à peine ce qu'était le budget participatif à ses débuts, avec des enfants à la maison je n'ai ni déposé ni voté de projet."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Pendant la pandémie le vote en ligne m'aurait été facile, mais je n'ai pas suivi les projets et j'en ai peu parlé autour de moi."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "J'aurais pu répondre au sondage de cinq minutes, mais les soirées et les balades ne m'attiraient pas et je n'ai pas remarqué l'annonce."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.09,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin déposé dans ma boîte aux lettres m'a donné une occasion concrète de voter, mais beaucoup de projets me semblaient loin de ma vie."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "La fermeture des quais ne change pas vraiment mon quotidien, et je n'ai pas répondu au questionnaire en ligne."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "J'ai reçu le bulletin chez moi mais je l'ai laissé de côté faute de temps et de projets qui me parlaient vraiment."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Le sujet me touche en tant que personne étrangère, mais le questionnaire était peu visible, je ne l'ai pas rempli et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin nominatif est arrivé chez moi et j'aurais pu le renvoyer, mais je ne suis pas certaine de m'y être intéressée assez pour le faire."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Avec moins de contraintes familiales qu'avant je pourrais voter, mais je ne suis pas quelqu'un qui suit systématiquement les budgets participatifs."
+    }
+  ]
+}

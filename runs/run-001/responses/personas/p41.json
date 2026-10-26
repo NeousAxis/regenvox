@@ -1,0 +1,97 @@
+{
+  "id": "p41",
+  "portrait": "J'ai 55 ans et je travaille sur notre exploitation familiale au hameau de Vuadens, avec mon mari et nos enfants, dans l'élevage laitier sur herbages. Nous sommes en production conventionnelle depuis toujours, et je vois les fermes voisines hésiter entre le bio et le conventionnel au gré du prix du lait et des contrôles. Je suis électrice fédérale et je regarde ce qui se décide à Berne, parce que ça tombe toujours sur nos fermes avant de tomber sur les autres.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si le bio paie mieux le litre et qu'on ne nous demande pas de tout refaire du jour au lendemain, je suis preneuse. Le reste, c'est de la théorie de bureau. »",
+      "engagement": 1,
+      "freins_participation": ["Pas le temps : la traite du matin et du soir ne laisse pas de soirée libre", "La crainte que la commune parle de bio sans parler du prix payé au producteur", "Les pertes de rendement sur les prairies pendant la transition"],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur ce que rapporte une conversion, présentés à la fromagerie ou au café du village un soir où je ne suis pas à l'étable, avec l'exemple d'une ferme laitière du coin."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Les gens du village veulent des produits de chez nous, mais ils ne veulent pas payer le prix qui va avec. Qu'ils commencent par acheter notre lait, déjà. »",
+      "engagement": 1,
+      "freins_participation": ["Les habitants jugent souvent les fermes sans connaître notre quotidien", "Les ateliers en semaine sont impossibles pour nous", "Le risque que les agriculteurs servent de décor à une belle démarche"],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes à la ferme, avec les classes de l'école, et des achats directs où le prix du litre reste juste pour nous."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« C'est la seule question qui me touche vraiment : nos enfants doivent pouvoir reprendre une ferme qui tient debout, pas une ferme qu'on a sacrifiée pour un label. »",
+      "engagement": 2,
+      "freins_participation": ["La peur que la relève parte si le revenu reste trop faible", "Des décisions prises en réunion sans les agriculteurs qui travaillent la terre"],
+      "ce_qui_me_ferait_venir": "Une démarche qui part de la question de la relève, avec les jeunes agriculteurs du canton invités à l'atelier, pas seulement les élus et les bureaux."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Reconnaître, très bien, mais on a déjà des haies, des bandes fleuries et des prés riches en fleurs, et personne ne le voit. Une reconnaissance sans rémunération ne nourrit pas une famille. »",
+      "engagement": 1,
+      "freins_participation": ["Les démarches administratives qui s'ajoutent aux contrôles déjà en place", "La crainte d'un classement des fermes en bonnes et mauvaises"],
+      "ce_qui_me_ferait_venir": "Un bilan annuel simple, écrit avec nous, qui montre les haies, les mares et les bandes fleuries que nous entretenons déjà, avec une aide concrète à la clé."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "agriculteurs de la région, famille élargie et voisinage du hameau, parents d'élèves du village, membres de la fromagerie villageoise"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.8,
+      "oui_proba": 0.4,
+      "raison": "Des produits équitables et écologiques, je suis pour sur le principe, mais j'ai peur qu'on demande aux paysans d'ici des normes que les importations ne suivront jamais, et qu'on ne fasse que déplacer le problème. Je voterais oui si ça protégeait aussi le prix chez nous."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Une agriculture indigène, diversifiée, avec des prix équitables, c'est ce qu'on défend depuis toujours. Les droits de douane me gênent un peu pour la consommation, mais la protection de notre production me parle. Le bémol, ce sont les obligations trop rigides et la question des OGM."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques préventifs, je vois l'intention, mais les paiements directs font vivre nos exploitations de prairies. Si on retire l'argent aux fermes qui n'ont pas les moyens de changer tout de suite, on pénalise les familles et pas les pollueurs."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.15,
+      "raison": "Interdire les pesticides de synthèse partout, y compris à l'importation, avec dix ans de transition, c'est séduisant sur le papier. Mais sans produits on perd des récoltes et de la qualité de fourrage, et ceux qui décident ça n'ont jamais vu une récolte fichue par la pluie. Je ne voterais pas oui."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "La taxe sur les billets d'avion ne me concerne guère, mais la hausse de la taxe sur le mazout et les carburants, on la paie tous les jours avec le tracteur et le chauffage de l'étable. Je me méfie de tout ce qui renchérit la vie à la campagne."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.8,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être des animaux, on le vit tous les jours, nos vaches sortent au pré. Mais ce texte présente un élevage intensif qui ne correspond pas à notre ferme, et les règles pèseraient surtout sur les paysans d'ici et pas sur ce qui arrive de l'étranger."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.85,
+      "oui_proba": 0.5,
+      "raison": "Le climat me concerne aussi, les étés sont plus secs et il faut parfois arroser les prairies. Aider à remplacer les vieux chauffages, c'est utile, mais je veux être sûre que l'agriculture ne paiera pas la facture et que les émissions de nos vaches ne nous imposeront pas des contraintes injustes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "Protéger la nature, je le fais déjà sur ma ferme avec les haies et les bandes fleuries, mais l'initiative demande plus de surfaces mises sous protection et plus d'argent. Chaque hectare retiré à la production, c'est une ferme qui a moins de marge. Je dis oui à la nature, mais non à la façon dont on la finance sur le dos des agriculteurs."
+    }
+  ]
+}

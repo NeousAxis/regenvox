@@ -1,0 +1,73 @@
+{
+  "id": "2026-11-29_votations-federales",
+  "publie_le": "2026-10-25",
+  "evenement": {
+    "type": "votation_federale",
+    "date": "2026-11-29",
+    "description": "Votations fédérales du 29 novembre 2026, commune de Vuadens (canton de Fribourg)"
+  },
+  "methode": {
+    "moteur": "Résonance, étape scrutins (personas Claude Haiku, sous-agents isolés)",
+    "runs": [
+      "run-002",
+      "run-003"
+    ],
+    "correction": "Moyenne des panels run-002 et run-003. Biais du panel corrigé en logit par famille, à partir de votations analogues passées au résultat connu (même thème, même sens du oui), recalculé à chaque rééchantillonnage. Intervalle à 90 % : échantillonnage du panel combiné à l'erreur résiduelle de la méthode (5,8 points, validation croisée du backtest). Participation : panel multiplié par le rapport réel sur annoncé des analogues. Contrôle fait avant le vote : sur 8 analogues prédits en validation croisée, écart moyen de 11,4 points avec la correction, 7,8 sans, 3,9 pour le résultat cantonal. La correction tirée d'un ou deux analogues est donc fragile hors du domaine agricole ; le protocole est maintenu tel que publié, et la valeur brute du panel est publiée à côté pour le critère 4."
+  },
+  "criteres_reussite": [
+    "Critère principal : écart moyen absolu sur le oui de Vuadens, sur les 4 objets, inférieur à l'écart moyen du résultat cantonal fribourgeois au résultat de Vuadens.",
+    "Bon camp (majorité de oui ou de non à Vuadens) pour au moins 3 objets sur 4.",
+    "Résultat réel de Vuadens dans l'intervalle de prévision pour au moins 3 objets sur 4.",
+    "La correction par famille doit faire mieux que le panel brut (écart moyen corrigé inférieur à l'écart moyen brut)."
+  ],
+  "previsions": [
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "oui_pct": 58.7,
+      "oui_brut_pct": 54.5,
+      "intervalle_pct": [
+        47.9,
+        69.6
+      ],
+      "participation_pct": 64.1
+    },
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "oui_pct": 42.1,
+      "oui_brut_pct": 50.3,
+      "intervalle_pct": [
+        32.3,
+        51.9
+      ],
+      "participation_pct": 50.8
+    },
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "oui_pct": 55.1,
+      "oui_brut_pct": 41.4,
+      "intervalle_pct": [
+        45,
+        65.1
+      ],
+      "participation_pct": 57.2
+    },
+    {
+      "commune": "Vuadens",
+      "objet": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "oui_pct": 23.9,
+      "oui_brut_pct": 34,
+      "intervalle_pct": [
+        14.2,
+        33.7
+      ],
+      "participation_pct": 54.1
+    }
+  ]
+}

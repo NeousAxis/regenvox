@@ -1,0 +1,17 @@
+{
+  "id": "p24",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Le bio, je veux bien en acheter quand ça ne coûte pas plus cher, mais les terres en bio, moi je n'ai pas de champ, je ne vois pas trop ce que je pourrais faire pour ça à part faire mes courses.",
+    "engagement": 0,
+    "freins_participation": [
+      "Mes horaires de vente, restauration ou transport changent chaque semaine, je ne peux pas me projeter sur un créneau fixe",
+      "Je n'ai pas de bus près de chez moi, sans voiture je ne peux pas aller au village pour une réunion",
+      "Je ne vote pas en Suisse et la politique communale me passe au-dessus de la tête",
+      "Je ne connais personne dans le milieu agricole de Vuadens et je ne sais pas par où commencer",
+      "Mes fins de mois sont serrées, si le bio fait monter le prix de l'alimentation, je ne suis pas d'accord"
+    ],
+    "ce_qui_me_ferait_venir": "Un courrier court qui me dit concrètement ce que ça change pour mes courses et pour la commune, et une soirée ou un samedi matin au village, avec un covoiturage organisé depuis les hameaux."
+  }
+}

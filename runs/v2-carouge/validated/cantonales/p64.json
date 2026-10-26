@@ -1,0 +1,29 @@
+{
+  "id": "p64",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Je comprends l'enjeu pour les jeunes, mais 20 millions par an de plus à charge du canton, sans condition de revenu, me paraît trop pour l'État, donc je voterais non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.25,
+      "raison": "Je vois chaque jour les bouchons vers la frontière, mais l'argent genevois doit d'abord servir aux Genevois, et le peuple a déjà refusé en 2014 de payer des infrastructures en France, donc je voterais non."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Un locataire qui occupe son appartement depuis trois ans et qui peut l'acheter, c'est une chance pour les familles, même si je crains un peu les congés-ventes, donc je voterais oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Les études coûtent déjà de plus en plus cher aux familles, et une indemnité réduite sans garantie sur la suite me laisse sceptique, donc je pencherais plutôt pour le non."
+    }
+  ]
+}

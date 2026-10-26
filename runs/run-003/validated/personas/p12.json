@@ -1,0 +1,142 @@
+{
+  "id": "p12",
+  "portrait": "J'ai 58 ans, je suis suisse et je m'occupe de la maison et de la famille, dans le centre de Vuadens où je connais la plupart des voisins. Je suis proche de l'UDC parce que je tiens à ce que le travail se récompense et à ce que l'État se mêle moins de nos affaires. Je vote quand un sujet me touche vraiment, et l'agriculture de chez nous me touche.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Que nos paysans vivent décemment de leur travail, je suis d'accord, c'est la base. Mais qui paie la différence pour passer au bio ? »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas encore comment la commune compte faire concrètement",
+        "Je n'ai pas le temps pour les réunions du soir avec la famille",
+        "Je me méfie des projets venus d'en haut qui finissent par coûter cher"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur les coûts et les aides, et des agriculteurs qui parlent eux-mêmes, pas seulement des urbanistes."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Acheter local, je le fais déjà quand je peux, mais je ne vais pas payer plus cher pour une étiquette, le budget de la maison est serré. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le budget du ménage est serré",
+        "Je ne vois pas en quoi l'achat au village changerait grand-chose",
+        "Ça ressemble à une campagne de sensibilisation de plus"
+      ],
+      "ce_qui_me_ferait_venir": "Un système où le prix reste raisonnable et où l'on voit concrètement ce que la ferme gagne et ce que cela change pour nous."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais on parle de dans trente ans alors que les soucis sont là maintenant. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question trop abstraite pour moi",
+        "Je ne vois pas ce que je peux faire à mon échelle",
+        "Les démarches participatives, je n'y crois pas beaucoup"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me dise ce que ça change concrètement pour ma famille et pour le village aujourd'hui."
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Les paysans on les critique tout le temps, alors qu'ils entretiennent nos paysages et nos prairies. Qu'on le reconnaisse enfin. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne suis pas très à l'aise avec les formulaires en ligne",
+        "J'ai peur que ça reste des mots si rien ne suit"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance concrète, pas seulement un label ou une fête, avec la parole donnée aux agriculteurs du village."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "famille élargie, voisinage du centre du village, parents d'élèves de l'école, proches de la société locale"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Les résidences secondaires, ce sont surtout les stations de montagne qui sont concernées, pas Vuadens. Limiter les propriétaires me dérange."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Protéger les terres agricoles, je comprends, mais il ne faut pas empêcher les familles de construire au village."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Une empreinte d'une seule planète, ça sonne bien, mais ça coûterait cher à tout le monde, les familles d'abord."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Sortir du nucléaire sans alternative prête, je ne veux pas risquer des coupures ni payer plus cher l'électricité."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Trop de subventions et de taxes sur la facture, et on oblige les gens à changer leur maison."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le principe me plaît, mais les contrôles sur les importations feraient monter les prix sans vraiment protéger nos fermes."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Protéger notre agriculture indigène et nos paysans est une priorité pour moi, la souveraineté alimentaire compte."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je veux une eau propre, mais lier les paiements directs à des règles aussi strictes met nos paysans en difficulté."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Interdire d'un coup tous les produits de synthèse, sans solution de remplacement, met la production et les prix en danger. On peut avancer sans interdire."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Taxes sur l'essence, le mazout et les billets d'avion, ce sont les familles qui paient. Je vote non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Les éleveurs d'ici font déjà beaucoup, et le texte impose des règles aux importations qui ne sont pas contrôlées. C'est injuste pour nos fermes."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Zéro émission nette en 2050, c'est flou, et ça va coûter cher aux familles et aux petites entreprises. Je préfère des mesures sans nouvelles taxes."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Il faut protéger la nature, mais on prend déjà beaucoup de terres aux agriculteurs. Ça ne doit pas bloquer les fermes."
+    }
+  ]
+}

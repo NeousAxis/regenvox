@@ -1,0 +1,29 @@
+{
+  "id": "p15",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.08,
+      "raison": "Je ne suis plus concerné par la contraception à mon âge, et comme le PLR et le Conseil d'État, je trouve que 20 millions par an pour une prise en charge généralisée dépassent ce que l'État doit payer."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Moins de voitures qui franchissent la frontière chaque jour, c'est du bon sens et le PLR soutient ce crédit, même si je me méfie un peu de payer des infrastructures en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Ayant ma propre maison, je comprends l'attrait de la propriété et le PLR soutient cette réforme, mais les craintes de l'ASLOCA sur les congés-ventes me laissent perplexe."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.72,
+      "raison": "La formation est importante et le PLR défend ce contrat, et 2 millions de moins par an me paraissent une économie raisonnable face à la hausse des taxes d'études."
+    }
+  ]
+}

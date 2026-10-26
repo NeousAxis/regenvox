@@ -1,0 +1,113 @@
+{
+  "id": "p07",
+  "portrait": "J'ai 55 ans, je suis suisse et je travaille dans la santé, le social ou l'éducation. Je vis au centre du village de Vuadens avec ma famille, et je me reconnais dans Le Centre : pragmatique, je préfère les solutions qui tiennent debout aux grands discours.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Un paysan qui n'arrive pas à payer ses factures ne va pas se lancer dans le bio, il faut d'abord qu'il puisse vivre de son travail.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps en semaine, entre le travail et les enfants",
+        "Je ne suis pas agriculteur et je ne veux pas donner de leçons à ceux qui le sont",
+        "Je ne crois pas que ça change grand-chose si personne ne pose la question du prix payé au producteur"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que touche réellement un paysan qui passe en bio, présentés par des agriculteurs eux-mêmes, un soir où je peux venir."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Je veux bien acheter local, mais devenir partenaire d'une ferme, concrètement ça veut dire quoi : payer plus cher chaque mois ?",
+      "engagement": 1,
+      "freins_participation": [
+        "Le budget d'un ménage avec des enfants ne laisse pas beaucoup de marge pour payer plus cher",
+        "Je n'ai pas envie qu'on me demande de l'argent pour un projet que je n'ai pas vu",
+        "Je ne sais pas à qui m'adresser ni comment ça marche concrètement"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte aux familles, avec des prix transparents et la possibilité de voir d'où vient ce que je mange."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Mes enfants vivront ici, alors ce qu'on laisse dans les sols et dans l'eau me concerne directement.",
+      "engagement": 2,
+      "freins_participation": [
+        "Les soirées d'atelier tombent au moment où je rentre du travail et où la famille a besoin de moi",
+        "J'ai le sentiment que la commune va décider de toute façon",
+        "Je ne veux pas passer une soirée à parler sans qu'il y ait une suite concrète"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier organisé avec les écoles et les jeunes agriculteurs, à un horaire compatible avec la vie de famille, et un compte rendu qui montre ce qui a été retenu."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Les paysans font bien plus que produire, mais on ne le voit pas assez dans le village.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien ce qu'une forme de reconnaissance change pour une ferme au quotidien",
+        "Des panneaux ou des labels ne me convainquent pas si rien ne se passe ensuite",
+        "Le temps me manque pour aller sur le terrain"
+      ],
+      "ce_qui_me_ferait_venir": "Une balade de terrain avec l'agriculteur qui montre une haie, une prairie fleurie ou un cours d'eau protégé, accessible en famille le samedi matin."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "parents d'élèves de l'école primaire, collègues du secteur santé-social, membres de sociétés locales et voisins du centre du village, dont quelques familles d'agriculteurs"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.45,
+      "raison": "Je suis d'accord avec l'idée de manger sain et produit dans de bonnes conditions, mais je me méfie d'une obligation qui ferait monter les prix et qui toucherait aussi les importations sans que je voie comment elle serait contrôlée."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je comprends le souci de garder une agriculture indigène et le manque de jeunes qui reprennent les fermes, mais les droits de douane et l'inscription d'un modèle dans la Constitution me semblent trop rigides et chers pour les familles."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.7,
+      "oui_proba": 0.45,
+      "raison": "Je suis sensible à l'eau potable et aux antibiotiques, surtout en tant que professionnel de la santé, mais lier tous les paiements directs à une seule façon de produire mettrait en difficulté des fermes familiales qui n'ont pas les moyens de changer du jour au lendemain."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.25,
+      "raison": "Je comprends la volonté de réduire les pesticides, mais interdire totalement les produits de synthèse en dix ans, et aussi les importations, me paraît trop brutal pour l'agriculture de la région : il faut une transition progressive, pas un couperet."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.75,
+      "oui_proba": 0.55,
+      "raison": "Je pense que le climat demande des efforts et la loi me paraît raisonnable, mais la taxe sur les billets d'avion et la hausse possible du prix du mazout me donnent des doutes pour les familles aux revenus moyens."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux me touche, mais une initiative qui impose des normes très lourdes sur une transition pouvant aller jusqu'à vingt-cinq ans, dans une commune où beaucoup d'exploitations ont des vaches, me semble plus dangereuse pour les fermes que pour les animaux."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Zéro émission nette en 2050 me paraît un objectif raisonnable, et les aides pour changer de chauffage sont utiles, même si je reste attentif au coût pour les ménages."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je suis pour protéger la nature et le paysage, mais je ne veux pas qu'on prenne encore des surfaces aux paysans pour les mettre en réserve : la biodiversité doit se construire avec les agriculteurs, pas contre eux."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p01",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Jeune homme encore à la ferme familiale, peu concerné par la TVA et méfiant envers toute hausse d'impôt, mais sensible à la question de l'AVS pour les paysans."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Il n'aime pas payer davantage, mais une hausse temporaire pour l'AI, présentée comme limitée dans le temps, lui paraît acceptable."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Sujet éloigné de sa vie de paysan, il suit plutôt la droite et ne voit pas l'intérêt d'interdire des exportations qui font vivre des entreprises."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Ayant fait son service, il croit au système de milice et juge que l'obligation de servir fait partie de l'identité suisse."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "La pression sur le marché du travail, le foncier et les services publics l'inquiète, même si son métier dépend parfois de main-d'œuvre étrangère pour la saison."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Il veut une armée capable de défendre l'espace aérien et suit en général la droite sur les questions de défense, même si le coût le gêne un peu."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "Célibataire, il ne se sent pas touché par la fiscalité du mariage, mais l'idée de protéger la famille traditionnelle de la ferme lui parle."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Il sait que sa propre retraite de paysan indépendant dépend de l'AVS, mais il n'aime ni la hausse de la TVA ni l'idée de devoir travailler plus longtemps, et il hésite."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Il connaît la charge de travail et les risques de blessures entre bêtes à cornes, et trouve que ce texte vient de citadins qui ne vivent pas avec les vaches."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Attaché à la souveraineté et méfiant envers les juges étrangers, il s'inquiète toutefois que la dénonciation des traités fragilise les accords qui permettent d'exporter son fromage."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Il se méfie des directives dictées par Bruxelles, mais il reconnaît que la Suisse a besoin de Schengen et le texte ne le touche pas personnellement."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Il partage l'inquiétude sur l'immigration, mais la fin de la libre circulation menacerait les exportations de fromage et la main-d'œuvre saisonnière dont dépendent beaucoup de fermes."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.8,
+      "oui_proba": 0.8,
+      "raison": "Le loup met en danger les troupeaux des alpages et il veut pouvoir réguler l'espèce avant les dégâts, même si les associations de protection de la nature le dérangent."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Il tient à une défense nationale crédible et suit en général la droite sur les achats militaires, même si le montant de 6 milliards lui semble lourd."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Il n'aime pas que l'on dicte à la Banque nationale ou aux caisses de pension ce qu'elles doivent financer, et juge le texte trop large pour l'économie du pays."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.9,
+      "oui_proba": 0.1,
+      "raison": "Lier les paiements directs à l'absence de pesticides et d'antibiotiques préventifs menace directement son exploitation conventionnelle, il vote non sans hésiter, même s'il partage le souci de l'eau."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.9,
+      "oui_proba": 0.07,
+      "raison": "Une interdiction des pesticides de synthèse en dix ans ruinerait sa production conventionnelle, il ne croit pas à une conversion au bio sans aides, et il vote non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Il n'a pas d'opposition de principe au mariage entre personnes de même sexe, mais il reste attaché au mariage traditionnel et hésite sur l'accès au don de sperme."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Il respecte la protection des animaux, mais interdire la recherche animale toucherait la médecine vétérinaire dont il dépend pour son troupeau, donc il penche vers le non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.65,
+      "raison": "Il veut des frontières bien gardées et juge que la coopération Schengen compte pour le commerce, sans se passionner pour le détail du texte."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.9,
+      "oui_proba": 0.12,
+      "raison": "Imposer les normes Bio Suisse à tous les élevages et aux importations en vingt-cinq ans ruinerait l'élevage laitier conventionnel, il vote non, même s'il respecte les animaux."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Les paysans indépendants cotisent peu et comptent sur l'AVS, il soutient donc la réforme AVS 21 même si la hausse de la TVA le gêne."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.15,
+      "raison": "Plus de surfaces protégées et plus d'obligations pour l'agriculture touchent directement ses terres, et il estime que l'agriculteur paie déjà pour la biodiversité."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Célibataire, il n'est pas concerné directement, il comprend l'argument d'égalité entre couples mais se méfie des réformes fiscales compliquées et de leurs coûts administratifs."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Il s'inquiète de la densité, du mitage du territoire et du trafic, mais il craint que la fin de la libre circulation ne mette en péril les exportations et les travailleurs saisonniers."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Il a fait son service et trouve juste que l'armée garde ses conscrits, même s'il sait que les civilistes rendent service aux exploitations agricoles."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.5,
+      "raison": "Il est attaché à une Suisse neutre et indépendante, mais le texte qui interdit toute sanction et toute alliance le laisse hésitant, car il craint l'isolement économique."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.15,
+      "raison": "Le texte demande de produire moins d'aliments d'origine animale, ce qui menace directement son élevage laitier, même s'il partage le souhait de produire davantage localement."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente l'intéresse pour sa propre retraite de paysan, mais il n'aime pas que la TVA monte pour financer une dépense supplémentaire, donc il hésite."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Les pétards bruyants effraient ses bêtes et la faune de la vallée, il serait favorable à des restrictions, même si la tradition des fêtes le rend partagé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Le peuple a déjà accepté l'imposition individuelle, ce retour en arrière ne le passionne pas et, célibataire, il n'en tire aucun avantage."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.55,
+      "raison": "Il soutient l'industrie et une défense crédible, mais la possibilité de réexporter sans contrôle suisse le laisse perplexe, il penche pour le oui sans grande conviction."
+    }
+  ]
+}

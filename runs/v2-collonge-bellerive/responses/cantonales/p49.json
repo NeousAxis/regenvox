@@ -1,0 +1,29 @@
+{
+  "id": "p49",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.75,
+      "oui_proba": 0.12,
+      "raison": "Je ne vois pas pourquoi l'État paierait la pilule et les préservatifs de tout le monde, car ces dépenses retombent sur nos impôts et l'UDC, dont je suis proche, dit non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.25,
+      "raison": "Financer 39,5 millions de bus et de tramways en France, alors que le peuple avait refusé ce type de financement en 2014, ne me convainc pas, même si les bouchons à la frontière m'agacent."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'accès à la propriété, mais je crains les congés-ventes et la disparition des logements locatifs abordables, et l'UDC dit non, donc je pencherais pour le non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.75,
+      "oui_proba": 0.7,
+      "raison": "La HES-SO forme nos jeunes et l'UDC, comme le Centre et le PLR, soutient cette indemnité, même si 2 millions de moins par an me laissent un peu sceptique, donc je voterais oui."
+    }
+  ]
+}

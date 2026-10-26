@@ -1,0 +1,143 @@
+{
+  "id": "p38",
+  "portrait": "J'ai 60 ans, je suis technicienne dans l'industrie de la région et je vis avec mon compagnon et nos enfants dans un quartier résidentiel récent de Vuadens. Je vote plutôt Vert'libéral : je veux protéger la nature, mais sans que l'écologie devienne une affaire de taxes et d'interdictions. Je connais des familles de paysans d'ici, je sais combien elles travaillent, et je me méfie des projets décidés depuis la ville.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si les paysans gagnent mieux leur vie, le bio suivra tout seul. Mais il faut des chiffres, pas des slogans.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je travaille en équipes et je rentre tard, les ateliers en semaine ne me conviennent pas",
+        "Je n'ai pas le temps de lire des dossiers sur l'agriculture",
+        "Je ne connais pas bien le sujet et j'aurais peur de dire des bêtises"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier le samedi matin, à la fromagerie ou sur une ferme, animé par des agriculteurs de la commune qui expliquent leurs coûts et leurs prix"
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Être partenaire d'une ferme, ça veut dire payer plus cher le même lait ? Avec deux enfants, on regarde chaque franc.",
+      "engagement": 0,
+      "freins_participation": [
+        "Le budget de la famille ne permet pas forcément de payer plus cher",
+        "Ça me paraît surtout destiné à des gens qui ont du temps et des moyens",
+        "Je ne vois pas ce que ça change pour moi"
+      ],
+      "ce_qui_me_ferait_venir": "Que quelqu'un me montre qu'un partenariat avec une ferme ne coûte pas plus cher à la maison, et que ça ne m'engage pas sur des années"
+    },
+    {
+      "angle_id": 3,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Mes enfants, je veux bien leur laisser une belle campagne, mais les grandes phrases sur trente ans, ça ne remplit pas le frigo aujourd'hui.",
+      "engagement": 1,
+      "freins_participation": [
+        "Ce genre de question me paraît abstrait et un peu venu de la ville",
+        "Je n'aime pas les réunions où l'on parle beaucoup sans rien décider",
+        "Les projets pour dans trente ans, on en a vu trop, je n'y crois plus trop"
+      ],
+      "ce_qui_me_ferait_venir": "Un point concret sur ce que la commune va faire réellement, avec un calendrier et ce que ça coûte aux familles"
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "Qu'on paie les paysans pour ce qu'ils font de bien, je suis pour. Mais pas avec une nouvelle taxe ni une couche de paperasse en plus.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas si ça touchera vraiment les fermes, j'ai besoin de voir du concret",
+        "Si ça demande des formulaires à remplir, je laisse tomber",
+        "Les réunions le soir, je suis fatiguée après une journée de travail"
+      ],
+      "ce_qui_me_ferait_venir": "Une information claire dans le journal communal et une soirée courte, avec des exemples de fermes de la commune que tout le monde connaît"
+    }
+  ],
+  "influence": {
+    "taille_cercle": 14,
+    "role": "relai",
+    "cercle_type": "collègues d'atelier, voisins du quartier, famille élargie, parents des camarades de classe des enfants, quelques personnes du club sportif de la commune"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je suis contre les interdictions qui touchent à la propriété, mais je vois certaines régions se bétonner. Je ne suis pas convaincue par une limite de 20 % décidée d'en haut."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour ne pas étaler les villages sans fin, c'est logique pour les terres. Mais il faut que les communes puissent encore construire pour les familles."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Réduire notre empreinte, oui, mais fixer une limite d'une planète pour 2050, c'est un objectif trop flou et trop contraignant pour les entreprises et les petits revenus."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je veux bien qu'on sorte du nucléaire, mais pas avant d'avoir une solution sûre et pas trop chère. Je ne veux pas d'une décision brutale."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Les énergies renouvelables et les économies d'énergie, c'est le bon sens, et ça laisse de la liberté aux gens. Je suis pour, avec des aides pour ceux qui ont peu de moyens."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "J'aimerais savoir ce qu'on mange et que les produits importés respectent les mêmes règles, mais je crains que tout devienne plus cher pour les familles et que les contrôles coûtent cher."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Je suis pour l'agriculture d'ici, les paysans de la région méritent d'être soutenus. Mais les droits de douane et les prix imposés font payer la facture aux familles, et ça je n'en veux pas."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "L'eau propre, je suis d'accord sur le principe. Mais conditionner tous les paiements directs à une liste de règles met les fermes de la commune sous pression, et les éleveurs d'ici n'ont pas de marge."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Réduire les pesticides, je suis pour, mais interdire les produits de synthèse en dix ans sans solution de rechange, ce sont les agriculteurs qui trinquent. Interdire aussi les importations, ça fait beaucoup."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Le climat, c'est sérieux, et je préfère les incitations aux interdictions. Mais les taxes sur l'essence et les billets d'avion pèsent lourd pour un ouvrier qui doit prendre sa voiture. Je reste partagée."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être des animaux, bien sûr. Mais imposer les exigences Bio Suisse à tout le monde, importations comprises, nos éleveurs ne s'en sortiraient pas seuls en vingt-cinq ans. Je pencherais pour le non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Zéro émission nette d'ici 2050, c'est un objectif que je comprends, et les aides pour changer de chauffage me paraissent justes. Je veux surtout que ça ne se fasse pas sur le dos des petits revenus."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La nature et le paysage, je les aime, et on a de la chance à Vuadens. Mais davantage de surfaces hors production et plus de contraintes sur les fermes, ça fait perdre des revenus à nos paysans, et je suis réticente."
+    }
+  ]
+}

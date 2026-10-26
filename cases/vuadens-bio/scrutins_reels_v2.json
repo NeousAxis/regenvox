@@ -1,0 +1,258 @@
+{
+ "_note": "Résultats officiels (données ouvertes OFS / Chancellerie fédérale), lus le 25.10.2026. Seules les votations de rôle analogue servent à la correction.",
+ "commune": 2160,
+ "resultats": [
+  {
+   "vote_id": "a2004-avs-tva",
+   "commune_oui": 17.79,
+   "commune_participation": 47.11,
+   "canton_oui": 23.93,
+   "suisse_oui": 31.42,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20040516-eidgAbstimmung.json (objet 5080, commune 2160)"
+  },
+  {
+   "vote_id": "a2009-ai-tva",
+   "commune_oui": 55.17,
+   "commune_participation": 39.95,
+   "canton_oui": 59.11,
+   "suisse_oui": 54.56,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20090927-eidgAbstimmung.json (objet 5430, commune 2160)"
+  },
+  {
+   "vote_id": "a2009-exportation",
+   "commune_oui": 28.75,
+   "commune_participation": 48.75,
+   "canton_oui": 29.02,
+   "suisse_oui": 31.77,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20091129-eidgAbstimmung.json (objet 5460, commune 2160)"
+  },
+  {
+   "vote_id": "a2013-service",
+   "commune_oui": 26.83,
+   "commune_participation": 41.84,
+   "canton_oui": 29.53,
+   "suisse_oui": 26.79,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20130922-eidgAbstimmung.json (objet 5720, commune 2160)"
+  },
+  {
+   "vote_id": "a2014-immigration",
+   "commune_oui": 54.94,
+   "commune_participation": 56.77,
+   "canton_oui": 48.48,
+   "suisse_oui": 50.33,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140209-eidgAbstimmung.json (objet 5800, commune 2160)"
+  },
+  {
+   "vote_id": "a2014-gripen",
+   "commune_oui": 36.94,
+   "commune_participation": 59.27,
+   "canton_oui": 40.6,
+   "suisse_oui": 46.59,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140518-eidgAbstimmung.json (objet 5840, commune 2160)"
+  },
+  {
+   "vote_id": "a2016-couple",
+   "commune_oui": 53.97,
+   "commune_participation": 67.46,
+   "canton_oui": 53.6,
+   "suisse_oui": 49.16,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20160228-eidgAbstimmung.json (objet 5960, commune 2160)"
+  },
+  {
+   "vote_id": "a2017-avs-tva",
+   "commune_oui": 49.44,
+   "commune_participation": 42.1,
+   "canton_oui": 56.09,
+   "suisse_oui": 49.95,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20170924-eidgAbstimmung.json (objet 6140, commune 2160)"
+  },
+  {
+   "vote_id": "a2018-vaches",
+   "commune_oui": 31.18,
+   "commune_participation": 43.71,
+   "canton_oui": 33.84,
+   "suisse_oui": 45.27,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6230, commune 2160)"
+  },
+  {
+   "vote_id": "a2018-autodetermination",
+   "commune_oui": 29.63,
+   "commune_participation": 43.65,
+   "canton_oui": 27.31,
+   "suisse_oui": 33.73,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6240, commune 2160)"
+  },
+  {
+   "vote_id": "a2019-armes",
+   "commune_oui": 56.21,
+   "commune_participation": 38.13,
+   "canton_oui": 61.99,
+   "suisse_oui": 63.74,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20190519-eidgAbstimmung.json (objet 6280, commune 2160)"
+  },
+  {
+   "vote_id": "a2020-limitation",
+   "commune_oui": 38.5,
+   "commune_participation": 58.87,
+   "canton_oui": 35.44,
+   "suisse_oui": 38.29,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6310, commune 2160)"
+  },
+  {
+   "vote_id": "a2020-chasse",
+   "commune_oui": 56.03,
+   "commune_participation": 60.78,
+   "canton_oui": 50.66,
+   "suisse_oui": 48.07,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6320, commune 2160)"
+  },
+  {
+   "vote_id": "a2020-avions",
+   "commune_oui": 43.21,
+   "commune_participation": 59.69,
+   "canton_oui": 45.65,
+   "suisse_oui": 50.13,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6350, commune 2160)"
+  },
+  {
+   "vote_id": "a2020-materiel",
+   "commune_oui": 44.46,
+   "commune_participation": 44.38,
+   "canton_oui": 45.1,
+   "suisse_oui": 42.55,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20201129-eidgAbstimmung.json (objet 6370, commune 2160)"
+  },
+  {
+   "vote_id": "a2021-eau",
+   "commune_oui": 19.57,
+   "commune_participation": 64.37,
+   "canton_oui": 31.23,
+   "suisse_oui": 39.31,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6410, commune 2160)"
+  },
+  {
+   "vote_id": "a2021-pesticides",
+   "commune_oui": 23.42,
+   "commune_participation": 63.3,
+   "canton_oui": 32.94,
+   "suisse_oui": 39.44,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6420, commune 2160)"
+  },
+  {
+   "vote_id": "a2021-mariage",
+   "commune_oui": 58.59,
+   "commune_participation": 49.28,
+   "canton_oui": 62.31,
+   "suisse_oui": 64.1,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210926-eidgAbstimmung.json (objet 6470, commune 2160)"
+  },
+  {
+   "vote_id": "a2022-experimentation",
+   "commune_oui": 19.22,
+   "commune_participation": 35.67,
+   "canton_oui": 20.65,
+   "suisse_oui": 20.86,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220213-eidgAbstimmung.json (objet 6510, commune 2160)"
+  },
+  {
+   "vote_id": "a2022-frontex",
+   "commune_oui": 78.65,
+   "commune_participation": 30.98,
+   "canton_oui": 75.24,
+   "suisse_oui": 71.48,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220515-eidgAbstimmung.json (objet 6570, commune 2160)"
+  },
+  {
+   "vote_id": "a2022-elevage",
+   "commune_oui": 18.03,
+   "commune_participation": 56.54,
+   "canton_oui": 27.06,
+   "suisse_oui": 37.13,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6580, commune 2160)"
+  },
+  {
+   "vote_id": "a2022-avs-tva",
+   "commune_oui": 45.49,
+   "commune_participation": 56.23,
+   "canton_oui": 48.25,
+   "suisse_oui": 55.07,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6590, commune 2160)"
+  },
+  {
+   "vote_id": "a2024-biodiversite",
+   "commune_oui": 27.76,
+   "commune_participation": 46.31,
+   "canton_oui": 34.28,
+   "suisse_oui": 36.96,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20240922-eidgAbstimmung.json (objet 6710, commune 2160)"
+  },
+  {
+   "vote_id": "a2026-imposition",
+   "commune_oui": 54.56,
+   "commune_participation": 60.84,
+   "canton_oui": 56.8,
+   "suisse_oui": 54.26,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260308-eidgAbstimmung.json (objet 6850, commune 2160)"
+  },
+  {
+   "vote_id": "a2026-10-millions",
+   "commune_oui": 53.37,
+   "commune_participation": 59.0,
+   "canton_oui": 45.13,
+   "suisse_oui": 45.21,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6860, commune 2160)"
+  },
+  {
+   "vote_id": "a2026-service-civil",
+   "commune_oui": 52.93,
+   "commune_participation": 58.58,
+   "canton_oui": 50.16,
+   "suisse_oui": 52.46,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6870, commune 2160)"
+  },
+  {
+   "vote_id": "h2026-neutralite",
+   "commune_oui": 28.17,
+   "commune_participation": 41.59,
+   "canton_oui": 28.89,
+   "suisse_oui": 29.84,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6880, commune 2160)"
+  },
+  {
+   "vote_id": "h2026-alimentation",
+   "commune_oui": 23.18,
+   "commune_participation": 41.53,
+   "canton_oui": 28.32,
+   "suisse_oui": 27.47,
+   "commune_nom_ogd": "Vuadens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6890, commune 2160)"
+  }
+ ]
+}

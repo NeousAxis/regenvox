@@ -1,0 +1,64 @@
+{
+  "id": "p05",
+  "portrait": "J'ai 50 ans, je travaille dans le commerce ou l'administration, et je vis en couple avec des enfants dans un quartier résidentiel récent de Vuadens. Étranger installé en Suisse, je connais encore mal l'histoire agricole du village, et la politique communale m'intéresse peu : mon temps va d'abord au travail et à la famille.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Que les paysans vivent correctement de leur travail, je n'y vois pas d'objection, mais le bio coûte plus cher à produire, et ce sont souvent les familles qui finissent par payer la différence.",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne me sens pas concerné par les affaires agricoles du village",
+        "je n'ai pas le temps entre le travail et les enfants",
+        "je doute que les démarches de la commune aboutissent à quelque chose de concret"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que le passage au bio change pour le prix du panier et pour les impôts, avec la garantie que les familles ne paieront pas la facture."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement à une ferme du village, pourquoi pas : c'est plus frais et on sait d'où vient ce que mangent les enfants, mais il faut que ce soit simple, pas une usine à gaz.",
+      "engagement": 2,
+      "freins_participation": [
+        "les horaires de travail rendent les livraisons ou les visites compliquées",
+        "je ne sais pas quelles fermes vendent directement",
+        "les engagements longs ou les démarches d'adhésion me découragent"
+      ],
+      "ce_qui_me_ferait_venir": "Un panier hebdomadaire simple, avec un point de retrait près de chez moi ou au travail, et une information en ligne claire sur les fermes qui y participent."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "C'est une belle question, mais elle reste abstraite pour moi : je pense surtout à l'avenir de mes enfants, à leur école et à leur travail, pas trop à ce que sera la terre dans trente ans.",
+      "engagement": 1,
+      "freins_participation": [
+        "le sujet paraît lointain et réservé aux spécialistes",
+        "je n'ai pas le temps de lire des documents de planification",
+        "les réunions en soirée tombent mal avec la famille"
+      ],
+      "ce_qui_me_ferait_venir": "Un lien concret avec la vie du village aujourd'hui, par exemple la qualité de l'eau du robinet ou les produits servis à la cantine de l'école."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Si les fermes protègent la nature, tant mieux, mais je ne vois pas bien ce que ça change dans ma vie de tous les jours, et une reconnaissance commune ne remplit pas le frigo.",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne fréquente pas les exploitations de la commune",
+        "les actions de reconnaissance me semblent symboliques",
+        "je ne sais pas qui est concerné ni comment participer"
+      ],
+      "ce_qui_me_ferait_venir": "Une action ouverte à tous et sans militantisme, par exemple une visite de ferme avec les enfants de l'école ou une journée portes ouvertes."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "famille proche, quelques collègues de travail, voisins du quartier et parents d'élèves de l'école primaire"
+  },
+  "votes": []
+}

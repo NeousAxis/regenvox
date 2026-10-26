@@ -1,0 +1,17 @@
+{
+  "id": "p20",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Entre le travail et les enfants, un questionnaire de 28 questions sur un futur quartier ne m'aurait probablement pas occupée en mai 2025, mais les animations en classe et la fête pourraient revenir par d'autres parents, et j'en parlerais alors volontiers."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Un sondage en ligne d'hiver sur un quartier où je n'habite peut-être pas m'aurait sans doute échappé, et je n'en aurais parlé que si une collègue ou une voisine l'avait évoqué."
+    }
+  ]
+}

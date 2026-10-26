@@ -1,0 +1,17 @@
+{
+  "id": "p09",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Que les paysans puissent vivre de leur travail, ça me va. Mais une commune qui se fixe un objectif de bio sur toutes les terres, ça sent l'idée venue de la ville, alors que ce sont les paysans qui savent ce qui marche chez nous. Qui paie la différence quand le client prend le moins cher ?",
+    "engagement": 1,
+    "freins_participation": [
+      "Les choix de culture reviennent aux paysans, pas à la commune ni à des gens de la ville",
+      "Le bio coûte plus cher à produire et je ne vois pas qui paie la différence",
+      "Les contrôles, la paperasse et les normes en plus, c'est ce qui me fait tiquer",
+      "Je n'ai pas de terres et peu de lien direct avec l'agriculture, donc je me sens peu concerné",
+      "Un objectif chiffré décidé d'en haut, sans nous demander notre avis, me fait fuir"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que le bio rapporte réellement aux paysans d'ici, un prix d'achat garanti pour le lait et la viande, et une discussion menée avec les agriculteurs eux-mêmes plutôt qu'une présentation de ce que la commune a déjà décidé. Si la fromagerie et les éleveurs du village y trouvent leur compte, je viendrais écouter."
+  }
+}

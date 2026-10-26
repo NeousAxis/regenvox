@@ -1,0 +1,62 @@
+{
+  "id": "p06",
+  "portrait": "J'ai 47 ans, je suis cadre et je vis au centre du village avec mon conjoint et nos enfants. Je ne suis pas de nationalité suisse et je ne vote pas au niveau fédéral, mais je me sens vraiment d'ici : nos enfants vont à l'école primaire du village et je fais mes courses sur place. Mon travail m'occupe beaucoup, donc je suis plus sensible aux sujets qui touchent notre quotidien qu'aux débats de fond sur l'agriculture.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Si les paysans ne vivent pas de leur travail, rien ne tient, bio ou pas. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je connais mal le métier et les chiffres des exploitations",
+        "Pas de temps en semaine avec un emploi à responsabilités",
+        "Crainte que ce soit un débat entre spécialistes"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets sur le revenu des fermes de Vuadens, présentés par les agriculteurs eux-mêmes, et une soirée en semaine au village."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter directement à une ferme du village, pourquoi pas, mais il faut que ce soit simple. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le budget, car le bio coûte plus cher",
+        "Des horaires de travail qui ne laissent pas de place",
+        "L'impression que c'est réservé aux gens déjà engagés"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule concrète : un panier hebdomadaire ou une vente à la ferme près du centre, ou une demi-journée de bénévolat en famille pendant les récoltes."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Quand je pense à mes enfants, je veux qu'il reste des sols vivants et une eau propre ici. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le sentiment que la question dépasse la commune",
+        "Peu de temps pour les réunions"
+      ],
+      "ce_qui_me_ferait_venir": "Une démarche qui écoute les enfants des écoles et les familles, pas seulement les agriculteurs et les élus, avec des objectifs qu'on peut suivre année après année."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Reconnaître les fermes, d'accord, mais je me méfie des labels et des promesses de communication. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas ce que la commune entendrait par reconnaissance",
+        "Risque de faire une vitrine sans effet réel sur les pratiques"
+      ],
+      "ce_qui_me_ferait_venir": "Un bilan public chaque année sur les pratiques réelles touchant les sols, l'eau et la faune, plutôt qu'une distinction de plus."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues de travail, parents d'élèves de l'école primaire, voisins du centre du village, quelques amis de la région attentifs à l'alimentation"
+  },
+  "votes": []
+}

@@ -1,0 +1,95 @@
+{
+  "id": "p43",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.7,
+      "oui_proba": 0.9,
+      "raison": "Il faut une armée qui tienne debout, et les F-5 sont dépassés, donc le fonds pour le Gripen me paraît nécessaire. Je suivrai le parti sur ce point, sans trop me soucier du prix."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Le mariage doit rester protégé, et je trouve injuste qu'un couple marié paie plus d'impôts ou de cotisations que les autres. Inscrire cela dans la Constitution me paraît lourd, je ne suis pas sûr d'aller voter."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas les hausses de TVA, qui touchent tout le monde, y compris les petits revenus. Si les rentes doivent être sauvées, il faudrait trouver l'argent autrement qu'en faisant payer les consommateurs."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.9,
+      "oui_proba": 0.95,
+      "raison": "C'est le fond du problème : la Constitution doit primer sur les traités, et Berne ne doit pas nous lier plus que le peuple. J'irai voter et je dirai oui sans hésiter."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.9,
+      "oui_proba": 0.9,
+      "raison": "L'immigration augmente vite, le logement et les écoles de chez nous suivent difficilement, et la libre circulation est au cœur du problème. Il faut que la Suisse reprenne la main sur ses frontières, même si l'économie locale en dépend en partie."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.85,
+      "oui_proba": 0.85,
+      "raison": "Notre aviation militaire doit être renouvelée, et six milliards pour de nouveaux avions me paraissent un investissement nécessaire pour notre souveraineté. Je suivrai le parti sur ce vote."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "La recherche médicale a besoin d'essais, et interdire cela chez nous enverrait les laboratoires et les emplois à l'étranger. Je comprends la sensibilité animale, mais ce texte va trop loin et je ne me sens pas très concerné."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.08,
+      "raison": "Ce texte toucherait directement nos éleveurs de la région, qui ont déjà des normes strictes, et imposerait une transition sur 25 ans sous contrainte. L'idée d'exiger les mêmes règles pour les importations me parle, mais l'ensemble me paraît irréaliste pour nos fermes."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.4,
+      "raison": "J'approche de l'âge de la retraite et je tiens à ce que l'AVS reste solide, mais la TVA pèse sur tout ce qu'on achète. Je ne suis pas convaincu que ce soit la bonne manière de financer les rentes."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.9,
+      "oui_proba": 0.85,
+      "raison": "La Suisse doit rester neutre et ne pas être entraînée dans des alliances militaires ni dans les sanctions des grandes puissances, c'est ce qui nous a protégés depuis toujours. Le texte est clair, je le soutiens."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.25,
+      "raison": "Je suis d'accord qu'il faut produire davantage chez nous, mais demander moins de produits d'origine animale toucherait directement notre élevage laitier et la fromagerie du village. Je crains une nouvelle couche de règles pour les paysans, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.4,
+      "raison": "Je touche la 13e rente et je ne veux pas qu'on la remette en cause, donc ce financement me concerne. Une hausse de TVA touche pourtant tous les ménages, et j'aurais aimé qu'on économise d'abord."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Le bruit des pétards et le stress des animaux sont réels, mais une interdiction nationale me paraît excessive pour nos fêtes du 1er août. Les règles locales suffisent, et je ne suis pas très motivé pour voter sur ce sujet."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.75,
+      "oui_proba": 0.65,
+      "raison": "Je trouve normal que les couples mariés ne soient pas pénalisés par l'impôt fédéral, c'est une question de justice pour les familles. Je serais plutôt pour, même si l'imposition individuelle a déjà tranché une partie du débat."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Notre industrie d'armement fait travailler des gens de chez nous, et elle doit pouvoir exporter pour rester viable. Les règles actuelles sont trop lourdes, mais je ne suis pas certain d'aller voter sur ce sujet."
+    }
+  ]
+}

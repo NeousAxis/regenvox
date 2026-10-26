@@ -1,0 +1,61 @@
+{
+  "id": "p44",
+  "portrait": "J'ai 17 ans, je suis en formation (apprentissage ou études) et je vis en couple, sans enfant, dans un quartier résidentiel récent de Vuadens. Je ne suis pas de nationalité suisse et je ne vote pas au niveau fédéral, donc je suis plutôt spectatrice de ce qui se décide ici. Je ne suis pas très politique, je m'intéresse surtout à ce qui touche mon quotidien et à ce que ma génération va hériter.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les agriculteurs ne gagnent pas leur vie avec le bio, ils ne le feront pas, c'est logique. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je connais mal le monde agricole et je ne sais pas à qui m'adresser",
+        "je ne suis pas sûre que mon avis pèse, puisque je ne vote pas"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée simple au village avec des agriculteurs de la région qui expliquent concrètement comment ils vivent du bio, sans discours trop technique."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« J'aimerais bien acheter directement chez les producteurs d'ici, mais je ne sais pas comment m'y prendre. »",
+      "engagement": 2,
+      "freins_participation": [
+        "je n'ai pas de voiture et les fermes sont loin à pied",
+        "entre l'apprentissage et la vie de couple, j'ai peu de temps libre en semaine",
+        "les ateliers en semaine en fin de journée sont difficiles pour moi"
+      ],
+      "ce_qui_me_ferait_venir": "Un moyen simple d'acheter à la ferme ou via un petit système de panier près du quartier, et des rencontres informelles le week-end plutôt que des réunions."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "« Dans trente ans j'aurai une quarantaine d'années, donc la terre qu'on laisse, je vais la vivre moi aussi. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne pense pas avoir de poids sur une décision de la commune",
+        "ce genre de question me paraît lointaine par rapport à mon quotidien actuel"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me demande concrètement ce que je veux pour le village, avec un questionnaire en ligne simple ou un atelier pensé avec les jeunes."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Je vois les champs et les vaches tous les jours, mais je ne sais pas trop ce que les fermes font pour l'eau ou les sols. »",
+      "engagement": 0,
+      "freins_participation": [
+        "je ne me sens pas concernée, ça ne touche pas directement mon quotidien",
+        "je ne connais pas assez les pratiques agricoles pour donner un avis"
+      ],
+      "ce_qui_me_ferait_venir": "Une information claire et visuelle, publiée sur les réseaux de la commune ou affichée au village, avec ce que les fermes changent concrètement."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "suiveur",
+    "cercle_type": "Camarades de formation, collègues d'apprentissage, quelques voisins du quartier et mon conjoint, avec qui je parle le plus de ce qui se passe dans la commune."
+  },
+  "votes": []
+}

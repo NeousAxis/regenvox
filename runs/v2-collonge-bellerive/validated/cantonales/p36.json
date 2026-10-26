@@ -1,0 +1,29 @@
+{
+  "id": "p36",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Je comprends que la contraception pèse sur le budget de beaucoup de femmes, mais le coût pour le canton et la position de mon parti me font pencher pour le non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Moins de voitures qui traversent la frontière et de meilleurs transports en commun me paraissent utiles, même si je reste prudente sur le financement d'infrastructures en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.68,
+      "raison": "Je suis favorable à ce que les locataires puissent acheter leur logement s'ils le souhaitent, à condition que les autres locataires ne soient pas lésés, même si je me méfie un peu des congés-ventes."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.8,
+      "raison": "La HES-SO forme du personnel dont on a besoin, et une baisse de deux millions par an me paraît raisonnable, donc je voterais oui sans trop hésiter."
+    }
+  ]
+}

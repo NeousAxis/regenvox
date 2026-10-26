@@ -1,0 +1,24 @@
+{
+ "id": "lausanne",
+ "cible": {
+  "type": "commune",
+  "nom": "Lausanne",
+  "canton": "VD",
+  "pays": "CH",
+  "description": "Chef-lieu du canton de Vaud, ville universitaire au bord du Léman, quatrième ville de Suisse par la population."
+ },
+ "decideur": "aucun (prévision de votations fédérales)",
+ "enjeu": "prévoir le vote de la commune aux votations fédérales",
+ "objectif": "publier une prévision avant le vote et la comparer au résultat officiel",
+ "horizon_mois": 1,
+ "panel": {
+  "N": 73,
+  "seed": 20261111
+ },
+ "contexte_factuel": [
+  "Population : 145 596 habitants au 31 décembre 2025, dont 43 % de nationalité étrangère (OFS, STATPOP).",
+  "Agriculture en 2025 : 12 exploitations, 111 emplois agricoles (OFS, relevé des structures agricoles).",
+  "Élections au Conseil national 2023 : premier parti à Lausanne, PS (32,8 %) (OFS)."
+ ],
+ "votations": []
+}

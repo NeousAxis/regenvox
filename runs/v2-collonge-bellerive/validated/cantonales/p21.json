@@ -1,0 +1,29 @@
+{
+  "id": "p21",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.8,
+      "oui_proba": 0.5,
+      "raison": "Le Centre soutient l'initiative et je lui fais confiance sur la santé publique, mais à 83 ans la question me touche peu et je n'aime pas l'idée que l'État rembourse tout sans condition."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Le PLR et Le Centre recommandent oui et moins de voitures à la frontière me simplifieraient la vie, mais je me méfie des millions suisses dépensés en France depuis le refus de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je ne suis pas locataire mais je comprends le désir d'accéder à la propriété que défendent Le Centre et le PLR, sans vouloir des congés-ventes ni la perte de logements locatifs abordables."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Le Centre, le PLR et l'UDC recommandent oui, une baisse de 2 millions par an reste modeste et la formation des soignants et des enseignants me paraît utile."
+    }
+  ]
+}

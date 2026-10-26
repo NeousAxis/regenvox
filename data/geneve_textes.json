@@ -1,0 +1,174 @@
+{
+  "demarches": [
+    {
+      "id": "gen01",
+      "commune": "Lancy",
+      "nom": "Conseil des habitant·e·s de Lancy",
+      "annee": 2023,
+      "porteur": "Ville de Lancy, avec le Bureau de l'intégration et de la citoyenneté du canton de Genève et l'Institut d'études de la citoyenneté de l'Université de Genève",
+      "appel": "La Ville de Lancy invite les personnes qui habitent ou travaillent sur la commune à participer au Conseil des habitant·e·s, un nouveau dispositif de participation citoyenne mené avec le canton et l'Université de Genève. Elles peuvent d'abord proposer en ligne des thèmes d'intérêt général relevant de la compétence communale. Le 31 mai 2023, une assemblée constitutive à la salle communale du Petit-Lancy permet de discuter en petits groupes, d'ajouter des thèmes, de voter pour deux thèmes prioritaires et de se pré-inscrire à une table délibérative. Chaque table réunira environ 25 personnes tirées au sort parmi les volontaires et travaillera pendant quatre samedis à rédiger des propositions concrètes, auxquelles les autorités communales s'engagent à répondre.",
+      "format": "Hybride: propositions de thèmes sur la plateforme en ligne participer.ge.ch, ateliers de sensibilisation dans des lieux de quartier, assemblée constitutive en présentiel, pré-inscription en ligne, puis tables délibératives en présentiel (tirage au sort parmi les volontaires) et assemblée conclusive.",
+      "qui_peut_participer": {
+        "age": "16 ans minimum (ou niveau de compétence suffisant avec accord parental)",
+        "residence": "Habiter ou travailler (activité régulière) sur la commune de Lancy",
+        "nationalite": "Aucune condition de nationalité ni de droits politiques",
+        "autres_conditions": "Participer à titre individuel, avoir un niveau de français permettant de suivre les débats ou être accompagné, ne pas avoir de mandat politique"
+      },
+      "duree_phase_participation": "Propositions de thèmes en ligne du 1er mars au 15 mai 2023; assemblée constitutive en une soirée (31 mai 2023, de 18h à 20h30); pré-inscription aux tables délibératives jusqu'au 4 juin 2023; tables délibératives du 7 octobre 2023 au 20 janvier 2024.",
+      "grandeur_a_prevoir": "Nombre de personnes présentes à l'assemblée constitutive du 31 mai 2023"
+    },
+    {
+      "id": "gen02",
+      "commune": "Thônex",
+      "nom": "Conseil des habitant·e·s de Thônex",
+      "annee": 2024,
+      "porteur": "Ville de Thônex, avec le Bureau de l'intégration et de la citoyenneté du canton de Genève et l'Institut d'études de la citoyenneté de l'Université de Genève",
+      "appel": "La Ville de Thônex invite les habitant·e·s et les personnes qui travaillent sur la commune à choisir les sujets du Conseil des habitant·e·s. Le Conseil administratif propose quatre thèmes (sécurité publique communale, vie de quartier, accessibilité de l'administration communale, aménagement de l'espace public) et chacun peut en suggérer d'autres en ligne jusqu'au 26 mai 2024. Le vote des deux thèmes retenus a lieu lors d'une assemblée de lancement le 12 juin 2024 à la salle des fêtes de Thônex, où l'on peut aussi se porter volontaire pour une table délibérative. Deux tables d'environ 25 personnes, tirées au sort parmi les volontaires, rédigeront ensuite des recommandations durant quatre samedis, avec défraiement, repas et garde d'enfants sur place.",
+      "format": "Hybride: suggestions de thèmes en ligne, assemblée de lancement en présentiel avec vote des thèmes, pré-inscription en ligne ou sur place, puis tables délibératives en présentiel (tirage au sort parmi les volontaires), séances complémentaires et assemblée conclusive.",
+      "qui_peut_participer": {
+        "age": "16 ans minimum (ou niveau de compétence suffisant avec accord parental)",
+        "residence": "Habiter ou travailler (activité régulière) sur la commune de Thônex",
+        "nationalite": "Aucune condition de nationalité ni de droits politiques",
+        "autres_conditions": "Participer à titre individuel, avoir un niveau de français permettant de suivre les débats ou être accompagné, ne pas avoir de mandat politique"
+      },
+      "duree_phase_participation": "Suggestions de thèmes en ligne jusqu'au 26 mai 2024; assemblée de lancement en une soirée (12 juin 2024, de 18h à 21h); inscription aux tables jusqu'au 15 juin 2024; tables délibératives les 5 octobre, 9 novembre et 23 novembre 2024 et le 18 janvier 2025.",
+      "grandeur_a_prevoir": "Nombre de personnes réunies à l'assemblée de lancement du 12 juin 2024"
+    },
+    {
+      "id": "gen03",
+      "commune": "Meyrin",
+      "nom": "Assises de la culture de la Ville de Meyrin",
+      "annee": 2025,
+      "porteur": "Ville de Meyrin (service de la culture)",
+      "appel": "La Ville de Meyrin lance les Assises de la culture pour recueillir les avis, idées et envies de la population, des associations, des artistes et des partenaires du territoire (Grand Genève compris) sur la culture de demain à Meyrin. À chaque temps de consultation, des médiateur·ices sont présent·es pour écouter, recueillir des témoignages et échanger sur les visions que chacun a de la culture dans sa ville. On peut contribuer par des rencontres et ateliers, par des interventions dans l'espace public, par un questionnaire court ou un questionnaire long en ligne, et un podcast accompagne la démarche. Les contributions doivent servir de base à l'élaboration d'une politique culturelle locale.",
+      "format": "Mixte: rencontres et ateliers en présentiel, interventions de médiation dans l'espace public, questionnaire court et questionnaire long en ligne sur participer.ge.ch, podcast d'accompagnement.",
+      "qui_peut_participer": {
+        "age": "Aucune limite d'âge mentionnée",
+        "residence": "Population, associations, artistes et partenaires du territoire meyrinois et du Grand Genève (pas de condition de résidence mentionnée)",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Aucune"
+      },
+      "duree_phase_participation": "Phase de consultation citoyenne du 2 septembre 2025 au 30 mai 2026, formats répartis sur plusieurs mois.",
+      "grandeur_a_prevoir": "Nombre total de contributions recueillies pendant la phase de consultation citoyenne (ateliers, interventions dans l'espace public et dispositifs en ligne confondus). Il s'agit de contributions et non de personnes distinctes."
+    },
+    {
+      "id": "gen04",
+      "commune": "Le Grand-Saconnex",
+      "nom": "Concertation sur le quartier de la Susette (plan localisé de quartier)",
+      "annee": 2025,
+      "porteur": "Commune du Grand-Saconnex et État de Genève",
+      "appel": "La Commune du Grand-Saconnex et l'État de Genève invitent la population à donner son avis sur le futur quartier de la Susette, situé derrière Palexpo, entre l'autoroute et la route de Ferney, qui doit accueillir plus de 900 logements, des activités et des équipements publics. Un questionnaire en ligne sur participer.ge.ch, ouvert tout le mois de mai 2025, porte sur l'identité du quartier, les rues, la place, le parc, les commerces et les déplacements. Des avis sont aussi récoltés sur le terrain, dans des classes de l'école Grand-Saconnex-Place et lors de la Fête de la Susette les 14 et 15 juin 2025. Ces contributions doivent alimenter le plan localisé de quartier.",
+      "format": "Questionnaire en ligne (28 questions) complété par une récolte d'avis sur le terrain, des animations en classe, un atelier avec les services communaux et une fête de quartier en présentiel.",
+      "qui_peut_participer": {
+        "age": "Aucune limite d'âge mentionnée (des élèves sont aussi associés par des animations en classe)",
+        "residence": "Habitants du Grand-Saconnex, personnes qui y travaillent ou simples curieux du développement des communes genevoises",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Aucune"
+      },
+      "duree_phase_participation": "Récolte d'avis du 1er mai au 8 juin 2025, dont le questionnaire en ligne ouvert du 1er au 31 mai 2025; Fête de la Susette les 14 et 15 juin 2025.",
+      "grandeur_a_prevoir": "Nombre de personnes ayant répondu au questionnaire en ligne ouvert en mai 2025"
+    },
+    {
+      "id": "gen05",
+      "commune": "Le Grand-Saconnex",
+      "nom": "L'Écho des Marronniers, démarche participative pour le futur quartier des Marronniers",
+      "annee": 2025,
+      "porteur": "État de Genève et Ville du Grand-Saconnex",
+      "appel": "L'État de Genève et la Ville du Grand-Saconnex lancent la démarche « L'Écho des Marronniers » pour recueillir les pratiques, expériences, perceptions et attentes de la population sur l'évolution du quartier des Marronniers. Les résultats doivent nourrir le programme du concours d'architecture du secteur, sous la forme de principes directeurs citoyens, et des habitant·e·s seront représenté·es dans la procédure du concours. Dès mi-décembre 2024, un sondage en ligne et des inscriptions sont ouverts sur participer.ge.ch. Suivent un événement et une exposition à la Maison des projets le 9 janvier 2025 (de 18h à 21h), des micros-trottoirs dans le quartier le 23 janvier 2025 (de 14h à 18h) et un circuit-atelier le 8 février 2025 (de 9h à 12h).",
+      "format": "Mixte: sondage en ligne, événement et exposition, micros-trottoirs, circuit-atelier, puis pique-nique au parc, avec inscriptions en ligne et possibilité de rejoindre un groupement citoyen.",
+      "qui_peut_participer": {
+        "age": "Aucune limite d'âge mentionnée",
+        "residence": "Habitant·e·s du quartier des Marronniers, personnes ayant participé à la concertation précédente (2020 à 2021), population du Grand-Saconnex, collectifs et associations communales, commerçantes et commerçants",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Aucune"
+      },
+      "duree_phase_participation": "Sondage en ligne de mi-décembre 2024 à mars 2025; trois rendez-vous en présentiel entre le 9 janvier et le 8 février 2025; pique-nique au parc le 28 août 2025.",
+      "grandeur_a_prevoir": "Nombre de personnes ayant participé au sondage en ligne « L'Écho des Marronniers » (décembre 2024 à mars 2025)"
+    },
+    {
+      "id": "gen06",
+      "commune": "Genève (quartier de la Jonction)",
+      "nom": "CSPM ensemble, démarche participative pour le nouveau Centre des sciences physiques et mathématiques de l'Université de Genève",
+      "annee": 2023,
+      "porteur": "Université de Genève, avec l'État de Genève (maître d'ouvrage)",
+      "appel": "L'Université de Genève et l'État de Genève invitent la communauté universitaire des sciences et les habitant·e·s du quartier de la Jonction à donner leur avis sur le futur Centre des sciences physiques et mathématiques (CSPM) et ses abords, sur la rive droite de l'Arve. La démarche « CSPM ensemble » veut recueillir observations, ressentis, besoins et attentes des différents publics pour enrichir le projet avant le concours d'architecture. Elle commence par des enquêtes de terrain en octobre 2023 et un événement de lancement le 11 novembre 2023, suivis de deux ateliers les 30 novembre et 7 décembre 2023. Fin décembre 2023, un sondage en ligne (diffusé sur plusieurs sites et réseaux, complété par deux jours de présence sur site avec des tablettes) met en discussion les premiers « principes directeurs citoyens ».",
+      "format": "Mixte: enquêtes de terrain et micro-trottoirs, événement de lancement, deux ateliers en présentiel, sondage en ligne et sur tablettes sur le site de l'université.",
+      "qui_peut_participer": {
+        "age": "Aucune limite d'âge mentionnée",
+        "residence": "Communauté universitaire des sciences (étudiant·e·s, chercheur·euse·s, enseignant·e·s, personnel) et habitant·e·s ou usagers des quartiers alentours, notamment la Jonction",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Aucune"
+      },
+      "duree_phase_participation": "D'octobre 2023 à début janvier 2024; le sondage en ligne sur les principes directeurs citoyens s'étend de fin décembre 2023 à début janvier 2024.",
+      "grandeur_a_prevoir": "Nombre de réponses au sondage en ligne sur les « principes directeurs citoyens » (fin décembre 2023 à début janvier 2024)"
+    },
+    {
+      "id": "gen07",
+      "commune": "Carouge",
+      "nom": "Concertation sur le quartier du Tir-au-Canon",
+      "annee": 2024,
+      "porteur": "Canton de Genève (Office de l'urbanisme) et Ville de Carouge",
+      "appel": "Le Canton de Genève et la Ville de Carouge lancent une étude sur le quartier du « Tir-au-Canon », entre le Théâtre de Carouge et la route du Val d'Arve, pour renouveler un périmètre aujourd'hui très minéral, peu accessible et sans espaces publics. La concertation invite à réfléchir à de nouveaux logements, au maintien d'activités artisanales calmes, au patrimoine bâti, aux cheminements piétons et à un cœur d'îlot libéré du parking. Le premier atelier participatif a lieu le mercredi 22 mai 2024 de 18h à 20h, au 24 rue Joseph-Girard, avec visite du site et diagnostic sensible. Un deuxième atelier suit le 19 juin 2024, puis une séance de restitution le 9 octobre 2024.",
+      "format": "Présentiel: visite du site et atelier participatif, second atelier thématique sur les espaces publics, séance de restitution; documents consultables sur participer.ge.ch.",
+      "qui_peut_participer": {
+        "age": "Aucune limite d'âge mentionnée",
+        "residence": "Invitation publique aux habitant·e·s, riverain·e·s et Carougeois·es (pas de condition de résidence stricte mentionnée)",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Aucune"
+      },
+      "duree_phase_participation": "Du 22 mai au 30 septembre 2024 (premier atelier le 22 mai en soirée, second atelier le 19 juin en soirée), restitution le 9 octobre 2024.",
+      "grandeur_a_prevoir": "Nombre de personnes présentes à la visite et au premier atelier participatif du 22 mai 2024"
+    },
+    {
+      "id": "gen08",
+      "commune": "Meyrin (Cointrin)",
+      "nom": "Démarche participative du projet Promenade des Ailes",
+      "annee": 2024,
+      "porteur": "La Formidable Armada et U&H, pour le compte du Canton de Genève et du porteur de projet Urban Project",
+      "appel": "Les porteurs du projet urbain de la Promenade des Ailes, à Cointrin, proposent aux habitant·e·s de se retrouver régulièrement dans des moments conviviaux pour parler d'un projet encore en cours de conception. Il s'agit de présenter ses ambitions, d'écouter les besoins, envies et craintes du quartier et de tester dès maintenant des usages possibles de la promenade. Un atelier de concertation est organisé le samedi 22 juin 2024 de 14h à 16h à la paroisse Saint-Pie-X, avec un goûter et une animation créative ouverte à tous, les enfants étant bienvenus. L'événement est annoncé par des flyers dans les boîtes aux lettres de Cointrin, des affiches, un mailing aux personnes déjà en contact et la plateforme participer.ge.ch.",
+      "format": "Présentiel: atelier de concertation avec présentation du projet et échanges, goûter partagé et atelier créatif, dans une série de rencontres conviviales.",
+      "qui_peut_participer": {
+        "age": "Tous âges (enfants bienvenus, espace dédié)",
+        "residence": "Habitant·e·s de Cointrin (Est et Ouest), atelier créatif ouvert à tous",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Aucune"
+      },
+      "duree_phase_participation": "Concertation publique du 1er mai 2024 au 28 février 2025; l'atelier de concertation dure deux heures (14h à 16h) sur une après-midi d'animations.",
+      "grandeur_a_prevoir": "Nombre de participant·e·s à l'atelier de concertation du 22 juin 2024"
+    },
+    {
+      "id": "gen09",
+      "commune": "Versoix",
+      "nom": "Val-de-Travers se transforme, diagnostic participatif du nouveau plan de quartier",
+      "annee": 2025,
+      "porteur": "État de Genève, Ville de Versoix et Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC)",
+      "appel": "L'État de Genève, la Ville de Versoix et la FPLC préparent un nouveau plan d'aménagement pour le quartier du Val-de-Travers, près de la gare de Versoix, et demandent aux habitant·e·s et aux usagers du chemin de raconter leur chemin aujourd'hui: ce qu'ils aiment, ce qu'ils voudraient garder ou améliorer. Trois moyens sont proposés: un sondage en ligne sur participer.ge.ch, des enquêteurs munis de tablettes sur le chemin les 27 et 29 octobre 2025, et un atelier participatif ouvert à toutes et tous (inscription souhaitée) le 17 novembre 2025 de 18h30 à 20h30 à la Maison Charron. Les contributions doivent alimenter le projet de quartier, dont l'élaboration court jusqu'à fin 2027.",
+      "format": "Mixte: sondage en ligne, enquêtes de rue sur tablettes, atelier participatif en présentiel, suivis d'un second atelier de vision au printemps 2026 et d'une restitution.",
+      "qui_peut_participer": {
+        "age": "Aucune limite d'âge mentionnée",
+        "residence": "Personnes qui habitent le quartier ou sont usagères du chemin du Val-de-Travers (atelier ouvert à toutes et tous)",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Inscription souhaitée pour l'atelier"
+      },
+      "duree_phase_participation": "Phase de diagnostic du 6 octobre au 24 novembre 2025, dont le sondage du 27 octobre au 24 novembre et l'atelier d'une soirée le 17 novembre 2025.",
+      "grandeur_a_prevoir": "Nombre de personnes présentes à l'atelier participatif du 17 novembre 2025"
+    },
+    {
+      "id": "gen10",
+      "commune": "Veyrier",
+      "nom": "Pré-des-Dames, démarche participative pour le plan localisé de quartier",
+      "annee": 2025,
+      "porteur": "Commune de Veyrier, État de Genève et développeur privé du projet",
+      "appel": "La commune de Veyrier, l'État de Genève et le développeur privé invitent la population à donner son avis sur le projet de quartier de Pré-des-Dames, un petit quartier d'environ 120 logements prévu au nord de la commune, à l'orée du Bois Carré, avec une place centrale donnée à la nature. La démarche prépare le plan localisé de quartier et doit répondre au mieux aux attentes de la population. Trois rendez-vous sont prévus: un atelier pour les jeunes de la commune de 12 à 18 ans le 5 septembre 2025, une journée d'exposition et d'ateliers ouverte à toutes et tous le 4 octobre 2025, puis une séance de dialogue avec l'équipe conceptrice le 23 juin 2026.",
+      "format": "Présentiel: atelier jeunes, journée d'exposition et d'ateliers, séance de dialogue final avec maquette et planches; un carnet de recommandations rassemble les contributions.",
+      "qui_peut_participer": {
+        "age": "Tous âges (un atelier est dédié aux jeunes de 12 à 18 ans)",
+        "residence": "Population de Veyrier et personnes intéressées (journée d'exposition ouverte à toutes et tous)",
+        "nationalite": "Aucune condition de nationalité mentionnée",
+        "autres_conditions": "Aucune"
+      },
+      "duree_phase_participation": "De septembre 2025 à juin 2026, trois rendez-vous ponctuels répartis entre le 5 septembre 2025 et le 23 juin 2026.",
+      "grandeur_a_prevoir": "Nombre total de participant·e·s aux trois rendez-vous (atelier jeunes, journée d'exposition et d'ateliers, séance de dialogue final), adultes et jeunes confondus"
+    }
+  ]
+}

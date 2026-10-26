@@ -1,0 +1,16 @@
+{
+  "id": "p05",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Le bio, pourquoi pas, mais je ne connais pas bien les paysans d'ici ni leur histoire. Pour moi la question c'est surtout le prix au supermarché et le temps que j'ai pour ma famille.",
+    "engagement": 1,
+    "freins_participation": [
+      "Mon travail et la vie de famille prennent déjà presque tout mon temps",
+      "Je ne connais pas l'histoire agricole du village et je me sens peu légitime pour en parler",
+      "Je ne vois pas bien ce que le bio change concrètement pour moi et mon budget",
+      "Les réunions du soir tombent souvent pendant les activités des enfants"
+    ],
+    "ce_qui_me_ferait_venir": "Une information courte dans le journal communal avec des exemples concrets sur ce que ça change dans nos assiettes et dans le prix du panier, et un atelier le soir où les agriculteurs racontent leur quotidien plutôt que des chiffres."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "p48",
+  "portrait": "J'ai 39 ans, je suis Suisse et je travaille dans la santé, le social ou l'éducation. Je vis en couple, avec nos enfants, dans un quartier résidentiel récent de Vuadens, je me sens proche du PS et je suis sensible aux questions de santé et d'environnement, sans être militant.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Si on veut plus de bio dans nos champs, il faut d'abord que le paysan puisse en vivre. Sinon on demande à des gens de se ruiner pour nous faire plaisir.",
+      "engagement": 2,
+      "freins_participation": [
+        "Mes horaires sont irréguliers, je ne peux pas bloquer une soirée à l'avance",
+        "Je connais mal l'économie d'une ferme, j'aurais peur de ne pas être à ma place dans le débat",
+        "Je crains que ce soit surtout entre agriculteurs et autorités"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagne une ferme en bio par rapport à une ferme conventionnelle, et des agriculteurs qui parlent eux-mêmes, pas seulement les autorités."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Je veux bien acheter local et soutenir une ferme, mais je ne sais pas par où commencer. Un groupement d'achat dans le quartier, je serais partant.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le bio reste plus cher, et avec des enfants le budget compte",
+        "Je n'ai pas le temps d'un engagement régulier",
+        "Je ne sais pas quelles fermes de la commune sont déjà en bio ou en transition"
+      ],
+      "ce_qui_me_ferait_venir": "Un projet concret, par exemple des produits bio de fermes locales pour la cantine de l'école ou un groupement d'achat avec des horaires compatibles avec les miens."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Mes enfants vivront ici après nous. Je veux qu'ils trouvent des sols vivants et une eau qu'on peut boire sans y penser à deux fois.",
+      "engagement": 2,
+      "freins_participation": [
+        "Ce genre de question reste abstrait tant qu'on ne voit pas d'actions concrètes",
+        "Je ne sais pas si ma voix pèse dans une décision communale",
+        "Les soirées d'information me prennent du temps en famille"
+      ],
+      "ce_qui_me_ferait_venir": "Une démarche qui associe les jeunes et les familles, avec un retour écrit sur ce qui a été décidé et sur ce qui a été fait."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Je passe devant les champs tous les jours sans savoir ce qui s'y passe. Une visite ouverte ou une balade à la ferme avec les enfants, ce serait déjà beaucoup.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais aucune ferme de la commune personnellement",
+        "Les visites tombent souvent en semaine, pendant mes heures de travail"
+      ],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes ou une balade découverte le week-end, en famille, avec des explications simples sur ce que fait l'agriculteur pour le sol et l'eau."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 40,
+    "role": "relai",
+    "cercle_type": "collègues du secteur santé, social ou éducation, parents d'élèves de l'école, voisins du quartier résidentiel, quelques proches sensibles à l'environnement"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Je suis favorable à des aliments produits dans de bonnes conditions, y compris pour les importations. Je ne connais pas tous les détails du texte, mais l'idée me parle."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Le soutien à la paysannerie et les prix équitables me parlent, mais les droits de douane et l'idée de protéger la production indigène me gênent, je ne suis pas convaincu que ce soit la bonne voie."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Une eau potable propre et des paiements directs réservés aux fermes sans pesticides de synthèse ni antibiotiques préventifs, c'est logique pour une famille comme la mienne."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je suis contre les pesticides de synthèse, surtout pour les enfants. Le délai de dix ans me paraît raisonnable pour que les agriculteurs puissent s'adapter."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je suis favorable à la lutte contre le CO2, mais la taxe sur les billets d'avion et les coûts pour les ménages me font hésiter. Je voterais oui par cohérence avec mes valeurs."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "La dignité des animaux de rente me touche, même si je sais que les éleveurs de la région ont des contraintes économiques. Le délai pouvant aller jusqu'à 25 ans me paraît long."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.65,
+      "oui_proba": 0.85,
+      "raison": "Zéro émission nette d'ici 2050 et des aides pour changer de chauffage, c'est une loi que je soutiens. Mon métier me rend attentif aux effets de l'environnement sur la santé."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Protéger la nature et le paysage me semble indispensable, et cela rejoint l'enjeu agricole de la commune. Je crains seulement que les contraintes retombent surtout sur les agriculteurs."
+    }
+  ]
+}

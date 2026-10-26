@@ -1,0 +1,11 @@
+{
+  "id": "p03",
+  "reactions": [
+    {
+      "item_id": "gen07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Le quartier est proche de chez moi et le sujet m'intéresse, mais un atelier en soirée un mercredi à 18h, après le bureau et sans relance personnelle, ne m'a pas donné envie de me déplacer, et je n'en parlerais que si quelqu'un l'évoquait."
+    }
+  ]
+}

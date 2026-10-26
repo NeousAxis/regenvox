@@ -1,0 +1,17 @@
+{
+  "id": "p12",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "L'atelier se tient à Cointrin un samedi après-midi, de 14h à 16h, et les flyers étaient distribués dans les boîtes aux lettres de ce quartier, pas dans ma cité ; avec mes enfants et mon travail, je ne m'en serais probablement pas occupée."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.06,
+      "partage_proba": 0.09,
+      "raison": "Je ne suis pas particulièrement concernée par la culture municipale et je ne réponds qu'aux sollicitations courtes et en ligne, donc seul un questionnaire rapide aurait une chance d'attirer mon attention."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "p46",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter en 2014, j'avais 13 ans. Si j'avais pu voter, j'aurais soutenu l'armée et les emplois que ces achats font vivre ici, mais je me méfie des grosses dépenses décidées à Berne."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter en 2016. Je suis attachée à la famille et je trouve normal que le mariage ne soit pas pénalisé, mais j'aurais voulu savoir concrètement ce que la Constitution changeait."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter en 2017. Je veux que l'AVS tienne pour nos parents, mais une hausse de la TVA touche aussi les familles, donc j'aurais hésité."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Je n'avais pas encore l'âge de voter en 2018. Je tiens à la souveraineté suisse, mais je ne voudrais pas dénoncer les accords qui font tourner nos entreprises."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je tiens au travail des gens d'ici, mais je ne crois pas que mettre fin à la libre circulation protège nos emplois, et nos entreprises de la zone industrielle ont besoin des accords avec l'Union européenne. Je me méfie des décisions prises de loin, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Une armée bien équipée et les retombées pour l'industrie suisse comptent pour les emplois de la région, donc je pencherais pour le oui. Six milliards restent une somme énorme, et je me méfie des projets dont on ne voit pas le détail."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je ne suis pas convaincue par une interdiction totale de la recherche et des produits importés, qui toucheraient nos entreprises et leurs emplois. Le progrès médical me touche aussi, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Ces exigences imposeraient des normes très coûteuses aux paysans d'ici, dont beaucoup élèvent des vaches, sans transition réaliste. Je me méfie des projets décidés de loin, donc je voterais non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Je veux que l'AVS tienne pour nos parents et pour nous plus tard, donc je comprends la nécessité de la financer. Mais une hausse de TVA pèse sur le budget de notre famille, ce qui me rend hésitante."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "La neutralité fait partie de notre identité et je veux que la Suisse reste indépendante. Mais l'interdiction de sanctionner un État en guerre et les limites à la coopération militaire me semblent trop rigides pour nos entreprises."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour une alimentation produite ici, mais réduire les produits animaux et viser 70 % d'indigène en dix ans menacerait nos fermes laitières et les emplois de la région. Je me méfie des objectifs décidés de loin."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente AVS est une bonne chose pour les retraités, mais je n'aime pas la financer par une hausse de TVA qui touche toute la famille, surtout les bas revenus. Je ne suis pas sûre de dire oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Les feux du 1er août et des fêtes du village font partie de notre vie. Je comprends le souci des animaux et des enfants qui ont peur du bruit, mais une interdiction venue de Berne me semble excessive."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Je trouve juste qu'un couple marié ne soit pas pénalisé par rapport aux autres, et l'idée me parle en tant que parent. Mais le coût pour la Confédération me préoccupe, donc je reste hésitante."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Les entreprises de la zone peuvent profiter des exportations, mais livrer des armes à un pays impliqué dans un conflit ne me convainc pas, surtout si la neutralité est en jeu. Je serais plutôt contre."
+    }
+  ]
+}

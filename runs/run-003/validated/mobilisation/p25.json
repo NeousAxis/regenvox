@@ -1,0 +1,39 @@
+{
+  "id": "p25",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Un samedi matin plutôt qu'en semaine, avec des agriculteurs présents qui disent eux-mêmes ce qu'il leur faut pour vivre de leur travail, et une conclusion concrète à la fin de la séance plutôt que des débats sans suite."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Des chiffres clairs sur ce que coûte le bio pour un ménage comme le nôtre, et la certitude que mon avis pèse vraiment avant que la commune ne décide."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question ramenée à aujourd'hui, par exemple ce que le bio change pour ce que l'on mange au quotidien ou pour le prix des produits, plutôt que l'avenir de la commune dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Une visite concrète sur une ferme pour voir ce qu'elle fait pour l'eau et les animaux, avec quelqu'un qui m'explique simplement, et une reconnaissance qui ne coûte rien à la commune."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le format le plus simple pour moi : dix minutes sur mon téléphone, quand j'ai un moment, sans horaire imposé ni débat. Une séance en semaine après l'usine ne me convient pas, et je n'ai pas beaucoup d'envie d'une réunion. Je ne suis pas certaine de le remplir, mais c'est celui qui me demande le moins."
+}

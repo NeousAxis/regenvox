@@ -1,0 +1,39 @@
+{
+  "id": "p19",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Que la commune me donne, en quelques chiffres simples et sans jargon, ce que gagne aujourd'hui un agriculteur de Vuadens. Je ne sais pas du tout où en est le revenu des paysans, et c'est ce qui m'empêche d'avoir un avis."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une liste simple des fermes du village qui vendent en direct, avec un contact précis pour les joindre et le prix d'un panier bio pour une famille avec enfants, présenté dès le début."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Un samedi matin avec un espace où les enfants sont accueillis pendant la séance. C'est le seul créneau compatible avec mon travail à Bulle, et sans garde je ne peux pas venir."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une visite concrète d'une ferme reconnue du village, où l'on voit les haies et les sols, plutôt que des affiches. Sans voir ce que ça change, je n'ai pas de raison de venir."
+    }
+  ],
+  "format_prefere": "parcours_distance",
+  "raison_format": "Je préfère le parcours à distance parce que je peux le faire quand j'ai un moment, à mon rythme, sur trois semaines, alors que mes journées à Bulle ne me laissent pas de soirées libres. Les trois séquences me donnent le temps de proposer des chemins et de choisir des priorités, ce qui répond à ma crainte de ne pas être légitime pour parler de l'agriculture du village. L'avis en ligne serait trop court pour que je me sente entendue, et l'atelier ne tient pas dans mes horaires."
+}

@@ -1,0 +1,144 @@
+{
+  "id": "p18",
+  "portrait": "Je suis agriculteur à Vuadens, 42 ans, seul sur l'exploitation familiale : un élevage de vaches laitières sur herbages, en production conventionnelle. Je vis au hameau et je vote à chaque fois que ça touche à mon métier, sans être militant ni d'un bord ni de l'autre. Le prix du lait, la fromagerie et la relève me préoccupent bien plus que les grands discours venus de la ville.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Vivre de mon travail, ça commence par le prix du lait. Le bio, ça ne tient que si le prix suit, le reste, ce sont des slogans.",
+      "engagement": 1,
+      "freins_participation": [
+        "La traite deux fois par jour ne s'arrête pas, je n'ai pas le temps des réunions en soirée",
+        "Une conversion coûte cher et met des années à rapporter, sans garantie de prix",
+        "Le sentiment que la commune décide sans nous et qu'on veut faire de nous des promoteurs d'une idée",
+        "Je me méfie des démarches venues d'en haut"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres réels sur ce que gagne une ferme en bio chez nous, un acheteur qui garantit le prix, et un agriculteur qui a fait la transition à Vuadens et qui vient raconter ses comptes à la fromagerie."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Les gens veulent des vaches dans les prés pour la photo, mais quand il faut payer le litre plus cher, on ne les voit plus.",
+      "engagement": 1,
+      "freins_participation": [
+        "Les habitants viennent rarement discuter avec nous, et ceux qui le font ont déjà leur idée",
+        "Je n'ai pas envie de jouer les vitrines de la commune",
+        "Sans engagement d'achat, un partenariat reste un joli mot sur un tract"
+      ],
+      "ce_qui_me_ferait_venir": "Une chose concrète et durable : une vente directe à la ferme, un contrat avec la cantine ou la fromagerie, et des habitants qui achètent vraiment. Une rencontre sur le terrain, sans discours politique, me conviendrait mieux qu'un atelier en salle."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Je veux laisser une terre en bon état, c'est ce qu'on m'a appris. Mais la vraie question, c'est qui la cultivera après moi.",
+      "engagement": 2,
+      "freins_participation": [
+        "Des réflexions à trente ans me semblent trop abstraites pour une soirée après le travail",
+        "Je ne veux pas d'une charte de plus si rien ne suit sur le foncier et les bâtiments",
+        "Je ne me déplace pas facilement le soir après la traite"
+      ],
+      "ce_qui_me_ferait_venir": "Des sujets concrets sur la relève : accès au foncier, bâtiments qui se transmettent, aides à l'installation, et un espace où l'on parle de la ferme de demain avec les jeunes qui veulent s'installer."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 4,
+      "citation": "On se fait traiter de pollueurs alors qu'on entretient les prés et les haies depuis des générations. Qu'on nous reconnaisse, oui, mais pas en nous faisant la leçon.",
+      "engagement": 1,
+      "freins_participation": [
+        "Une reconnaissance qui reste du discours, sans argent derrière, ne m'intéresse pas",
+        "Le climat de méfiance entre agriculteurs et habitants",
+        "Chaque contrôle et chaque label en plus pèse sur mon temps et sur ma marge"
+      ],
+      "ce_qui_me_ferait_venir": "Une reconnaissance payée ou visible au quotidien, par exemple des contrats locaux, et une parole donnée aux agriculteurs eux-mêmes plutôt qu'aux seuls experts ou aux associations."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "Réseau d'éleveurs laitiers de la commune et de la région, membres de la fromagerie villageoise, quelques anciens du village et voisins du hameau. Peu de liens avec les habitants arrivés récemment dans les nouveaux quartiers."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Les résidences secondaires, ce n'est pas mon problème ici. Je n'aime pas les limites imposées d'en haut sur la propriété, et je ne vois pas le lien avec mon travail."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Garder les terres agricoles et ne pas tout bétonner, c'est bien, vu la place prise par la zone industrielle. Mais il faut que mes bâtiments de ferme puissent encore se construire."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Une seule planète d'ici 2050, c'est irréaliste pour un pays qui vit aussi de ce qu'il produit. Ça tombe sur les paysans en premier, avec des normes qu'on ne maîtrise pas."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je me méfie des fermetures brutales : l'électricité doit rester sûre et pas trop chère. Je ne suis pas pour le nucléaire à tout prix, mais je veux une sortie qui tienne la route."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Des panneaux sur le toit de l'étable, ça m'intéresse si ça paie et si la rétribution est correcte. Les taxes et les subventions, par contre, je me méfie."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Si les produits importés doivent respecter les mêmes règles que chez nous, ça me va. Je ne veux pas, en revanche, d'un label de plus qui augmente la paperasse."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.8,
+      "oui_proba": 0.8,
+      "raison": "C'est mon métier : des droits de douane, des prix équitables, davantage de paysans. Ça touche directement ma ferme, donc je vote oui sans hésiter."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "Eau propre, bien sûr, personne n'est contre. Mais lier les paiements directs à zéro pesticide et à un fourrage entièrement produit sur la ferme, ça me mettrait en danger financièrement. Je vote non."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.07,
+      "raison": "Même avec dix ans de transition, interdire tous les produits de synthèse ferme la porte à une partie de notre métier sans alternative réaliste. Et l'importation de produits traités ailleurs ne règle rien ici."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Les taxes sur le mazout, l'essence et les billets d'avion finissent toujours par peser sur la campagne. Les exonérations agricoles, je ne suis pas sûr qu'elles tiennent dans la durée."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Mes vaches sont au pâturage et je tiens au bien-être animal. Mais inscrire dans la Constitution les standards Bio Suisse pour tout le monde, en vingt-cinq ans, mettrait la plupart des fermes de la région à genoux."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Zéro émission nette en 2050, ça veut dire quoi pour l'agriculture ? Personne ne m'a expliqué comment on réduit le méthane des vaches. Les aides au remplacement des chauffages, c'est bien, mais le reste me paraît flou."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Protéger la nature, je suis d'accord, on le fait déjà avec les haies et les prés. Mais plus de surfaces protégées, ce sont des terres en moins pour nourrir les vaches. Je reste prudent."
+    }
+  ]
+}

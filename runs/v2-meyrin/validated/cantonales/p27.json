@@ -1,0 +1,29 @@
+{
+  "id": "p27",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Le Conseil d'État dit non, mais les Vert-e-s la soutiennent et je trouve juste qu'une jeune femme ne renonce pas à se protéger faute d'argent, même si je n'en ai plus besoin."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Moins de voitures à la frontière, c'est bon pour Meyrin qui subit le trafic depuis des années, et les Vert-e-s y voient une vraie avancée pour l'environnement ; je reste méfiante quand il s'agit d'argent versé en France, mais je fais confiance à leur analyse."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Je vois d'un mauvais œil les congés-ventes qui chassent les locataires de leur appartement ; à Meyrin beaucoup de familles louent avec des revenus modestes, et les Vert-e-s sont contre."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Les Vert-e-s demandent de garder 35 millions par an, et je ne trouve pas normal que la formation serve de variable d'ajustement budgétaire ; le oui de la droite ne me rassure pas."
+    }
+  ]
+}

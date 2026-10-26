@@ -1,0 +1,141 @@
+{
+  "id": "p12",
+  "portrait": "J'ai 30 ans, je suis suisse et je travaille sur l'exploitation familiale où j'ai grandi, dans le hameau, avec mon conjoint et nos enfants. On vit des vaches laitières et des prés, en production conventionnelle comme mes parents, et on livre notre lait à la fromagerie du village. Je ne suis pas très politique : je regarde surtout ce que les décisions changent concrètement pour notre travail et notre revenu.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Le bio, je veux bien regarder, mais seulement si le lait est payé plus cher et que la transition ne nous met pas dans le rouge pendant trois ans.",
+      "engagement": 2,
+      "freins_participation": [
+        "Pas de temps (traite matin et soir, foins, enfants)",
+        "Peur de perdre du revenu pendant la transition",
+        "Méfiance envers une démarche lancée par la commune sans chiffres précis"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres concrets (prix du lait bio, aides de transition, coût réel) et les agriculteurs des trois fermes bio du village qui témoignent, un soir après la traite, à la fromagerie."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Les gens du village veulent du bio dans leur assiette, mais quand il faut payer quelques francs de plus, ils regardent ailleurs.",
+      "engagement": 1,
+      "freins_participation": [
+        "Les habitants connaissent mal notre métier, ça risque de finir en discussions sans fin",
+        "L'idée de partenariat peut vite ressembler à un contrôle de nos pratiques",
+        "Rencontres en semaine impossibles pour nous"
+      ],
+      "ce_qui_me_ferait_venir": "Une proposition concrète, par exemple la vente directe ou des paniers avec un prix garanti, et des habitants qui viennent voir la ferme au lieu de juger de loin."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "J'ai des enfants, et je voudrais qu'ils puissent choisir de rester à la ferme sans y laisser leur santé ni leur argent.",
+      "engagement": 2,
+      "freins_participation": [
+        "Manque de temps, surtout en saison de foin",
+        "Impression que les grandes décisions se prennent sans les agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on parle de la relève de manière concrète, avec les jeunes agriculteurs et les familles, et pas seulement en belles phrases sur une brochure."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Reconnaître ce qu'on fait pour les sols et l'eau, ce serait bien, mais qu'on nous parle avant de nous juger sur la place du village.",
+      "engagement": 1,
+      "freins_participation": [
+        "Peu de confiance dans les démarches de reconnaissance qui restent sur le papier",
+        "Fatigue des critiques publiques sur l'agriculture"
+      ],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes à la ferme en fin d'après-midi, ou une visite des écoles du village, avec une vraie discussion et pas seulement un discours."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 40,
+    "role": "relai",
+    "cercle_type": "Famille élargie, voisins agriculteurs du hameau, autres producteurs de lait qui livrent à la fromagerie villageoise, parents d'élèves de l'école du village, quelques clients de la vente directe."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore 18 ans à cette date, je n'avais donc pas le droit de voter."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore 18 ans à cette date, je n'avais donc pas le droit de voter."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Une économie qui tient dans une seule planète, sur le papier je suis d'accord, mais à la ferme on ne mesure pas notre travail en empreinte écologique. Ça me paraît surtout des contraintes en plus, et je ne vois pas bien ce que ça change pour nous."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas attachée au nucléaire, mais sortir sans savoir comment on remplace le courant, ça m'inquiète pour le prix de l'électricité (traite, froid du lait). Il faudrait des garanties."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Le solaire sur les toits des bâtiments et le biogaz, ça m'intéresse. Il faut juste que les subventions soient claires et que les factures n'explosent pas."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Que les produits importés respectent les mêmes règles que chez nous, c'est juste. Mais l'initiative ne dit pas comment faire, et ça ferait surtout monter les prix en magasin."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Protéger notre production et donner envie aux jeunes de devenir paysans, je suis d'accord. Je me méfie un peu des grands mots sur les droits de douane, ça ne nous rapporte pas forcément davantage."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.75,
+      "oui_proba": 0.1,
+      "raison": "J'ai l'eau à cœur, mais lier les paiements directs à l'absence de pesticides et d'antibiotiques préventifs, et à un fourrage entièrement produit sur la ferme, ça met des fermes comme la nôtre en danger. On n'y arrive pas du jour au lendemain, et je ne peux pas dire que mes vaches ne mangent que ce qu'on produit ici."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Chez nous ce sont surtout des prairies, donc ça nous touche moins que les cultures. Mais interdire partout, fermer les frontières aux produits traités et y arriver en dix ans, ça ne me paraît pas réaliste."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Le climat, on le voit avec les étés secs, donc je ne nie pas le problème. Mais le mazout et le carburant pour la ferme et la maison augmentent vite, et je ne suis pas sûre que les aides suivent. Je voterais oui seulement avec des garanties."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être de mes vaches, je m'en occupe tous les jours. Mais exiger les normes Bio Suisse pour tout le monde, y compris pour les importations, avec des coûts que mon exploitation ne peut pas absorber si vite, c'est trop. Je dirais plutôt non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Zéro émission nette d'ici 2050, c'est un objectif, et les aides pour remplacer un chauffage au mazout, je trouve ça bien. Je veux voir comment ça se finance et ce que ça demande aux agriculteurs avant de me prononcer."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.15,
+      "raison": "On a déjà beaucoup de surfaces de compensation et de contrats. Mettre encore plus de terres de côté touche directement nos prés et notre lait. Je voterais non, et je pense que beaucoup de collègues de la région feraient pareil."
+    }
+  ]
+}

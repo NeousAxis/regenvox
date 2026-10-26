@@ -1,0 +1,113 @@
+{
+  "id": "p19",
+  "portrait": "J'ai 27 ans, je suis Suisse et je travaille sur l'exploitation familiale de Vuadens, où les vaches laitières pâturent en bio. Je suis parent seul, donc chaque décision à la ferme se prend aussi en pensant à mes enfants, et mon temps libre est court. Je vote, et je regarde surtout ce qui touche à mon métier et à la terre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Le bio tiendra si on arrive à vivre de notre lait, sinon les jeunes partent et il n'y a plus personne pour le faire.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je trais à heures fixes, une réunion en soirée me coupe toute la journée",
+        "Je n'ai personne pour garder mes enfants le soir",
+        "Ce type de réunion se fait souvent entre décideurs, et les paysans de terrain y parlent peu"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier près du hameau, à une heure compatible avec la traite et l'école, avec un engagement écrit sur le prix du lait et les aides au passage en bio."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Que les gens viennent voir les vaches, très bien, mais qu'ils achètent aussi notre lait et notre viande à un prix qui nous fait vivre.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien ce que les habitants peuvent concrètement faire, à part venir visiter",
+        "Les démarches participatives restent surtout pour ceux qui ont du temps",
+        "Je n'ai pas la place d'être au cœur d'un projet communal en plus de la ferme"
+      ],
+      "ce_qui_me_ferait_venir": "Des propositions simples et concrètes, comme des contrats de vente directe ou un marché à la ferme organisé avec les producteurs du village."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Je travaille pour que mes enfants puissent reprendre une terre vivante, pas un sol épuisé.",
+      "engagement": 1,
+      "freins_participation": [
+        "Une question aussi large me paraît loin de mon quotidien, je décroche vite",
+        "Le temps me manque, je suis seul avec les enfants",
+        "Trop de théorie sans savoir ce que ça change concrètement pour mon exploitation"
+      ],
+      "ce_qui_me_ferait_venir": "Partir de fermes réelles du village, avec des résultats mesurés sur la fertilité des sols et la qualité de l'eau, et être payé pour ces efforts."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "La reconnaissance, ce serait un prix du lait correct et des gens qui comprennent ce qu'on fait, pas une plaque sur la porte.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je me méfie des labels et des beaux discours, on nous a déjà beaucoup promis",
+        "Si la commune ne met pas d'argent concret, ça reste des mots",
+        "Les soirs de traite, je ne peux pas être disponible"
+      ],
+      "ce_qui_me_ferait_venir": "Des portes ouvertes à la ferme, une vraie consultation avant toute décision, et une part du budget communal qui va directement aux exploitations qui font du bio."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Autres agriculteurs de la vallée, voisins du hameau, famille élargie, clients de la vente à la ferme et quelques parents d'élèves du village"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "À 19 ans, je n'ai pas encore pris l'habitude de voter. L'idée de produits équitables et écologiques me parle, mais une initiative qui englobe les importations me semble floue, et je crains une bureaucratie de plus pour les paysans."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Plus de paysans, pas d'OGM, une production d'ici: c'est ce qui me plaît. En revanche, protéger par des droits de douane et des prix équitables, je ne vois pas bien comment ça se traduit sur le terrain."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "Mon exploitation remplit déjà ces critères en bio, donc ça ne me coûte rien. Je dis oui pour la qualité de l'eau, mais je pense aux collègues qui perdraient leurs paiements directs du jour au lendemain, et cela devrait se préparer en douceur."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.75,
+      "raison": "Je suis en bio, je sais ce que ça veut dire de se passer de synthèse, et dix ans de transition me paraissent raisonnables. Je reste prudent sur l'interdiction à l'importation, qui doit être contrôlée sinon elle défavorise nos produits."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je vis à la campagne et je dépends de la voiture et du tracteur. Les hausses de taxes sur l'essence touchent d'abord ceux qui n'ont pas le choix. Le climat me concerne, mais cette loi fait payer les mêmes gens sans leur offrir de vraie alternative."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "Mes vaches sortent et mangent l'herbe de la ferme, donc le bien-être animal, je le vis tous les jours, et je suis d'accord sur l'esprit. Une transition de 25 ans et des règles qui valent aussi pour les importations demandent cependant de faire les comptes, et je veux savoir qui paie."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Les sécheresses et les pluies irrégulières, je les vois sur mes prés. Je veux bien des aides pour remplacer les chauffages fossiles et pour innover, à condition qu'elles arrivent aussi aux petites exploitations et pas seulement aux entreprises."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Je suis pour la nature et je fais déjà attention à mes prairies et à la vie du sol. Mais davantage de surfaces protégées peut vouloir dire moins de terres à exploiter, et sans compensation claire, je ne peux pas dire oui sans réserve."
+    }
+  ]
+}

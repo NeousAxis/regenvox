@@ -1,0 +1,143 @@
+{
+  "id": "p10",
+  "portrait": "J'ai 38 ans et je travaille comme employée de bureau dans une entreprise de la région bulloise. Je vis en couple sans enfant dans un quartier résidentiel récent de Vuadens, je me sens proche du Centre, j'aime que les paysans de la région puissent vivre de leur travail, mais je ne suis pas militante et les projets venus de la commune me paraissent souvent lointains.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si le paysan ne gagne pas sa vie, il n'y aura plus de paysans dans la commune. Le bio, pourquoi pas, mais pas au prix de les mettre à la faillite.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne me sens pas compétente sur l'agriculture",
+        "Entre le travail et la famille, je n'ai pas beaucoup de temps",
+        "Je doute que ces démarches débouchent sur quelque chose de concret"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur le revenu des fermes qui passent au bio, avec des garanties sur les prix d'achat, présentés par les paysans eux-mêmes et pas seulement par la commune."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Partenaire, ça sonne bien, mais je fais déjà mes courses et je ne vais pas en plus jouer les bénévoles pour les fermes.",
+      "engagement": 1,
+      "freins_participation": [
+        "Le prix des produits bio pèse sur notre budget de ménage",
+        "Je ne sais pas concrètement comment devenir partenaire d'une ferme",
+        "Je n'ai pas envie d'une démarche de plus"
+      ],
+      "ce_qui_me_ferait_venir": "Une façon simple d'acheter directement à une ferme de la commune, avec des prix transparents et des visites d'exploitation proposées aux familles le week-end."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "C'est une question un peu grande pour une soirée de village, je ne vois pas trop ce qu'on pourrait décider là-dessus.",
+      "engagement": 0,
+      "freins_participation": [
+        "La question me paraît trop vague",
+        "Je pense que ces choix se font à Berne ou au canton",
+        "Les soirées publiques ne me parlent pas beaucoup"
+      ],
+      "ce_qui_me_ferait_venir": "Une question plus concrète, avec des choix précis et leurs conséquences sur les loyers, les impôts et l'emploi local."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Reconnaître les fermes, pourquoi pas, mais sans une nouvelle étiquette ni une nouvelle taxe pour les gens du village.",
+      "engagement": 2,
+      "freins_participation": [
+        "Une reconnaissance reste symbolique si rien ne change pour le porte-monnaie",
+        "Je n'ai pas de lien direct avec les exploitations",
+        "Je manque de temps pour les rencontres du soir"
+      ],
+      "ce_qui_me_ferait_venir": "Une journée portes ouvertes à la ferme, en famille, avec les élèves des classes de la commune, plutôt qu'une réunion."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "Collègues de travail, voisins et voisines du quartier récent, et quelques proches liés au monde agricole de la Gruyère. Les sujets politiques se discutent surtout au travail et entre voisins, peu dans les associations."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je vois les stations saturées de résidences secondaires vides, mais je n'aime pas qu'on bloque la construction et la propriété au niveau national, surtout pour les familles qui veulent un logement dans la région."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Il faut arrêter de grignoter les champs et le paysage, mais je veux qu'on puisse encore construire pour les familles du village, sans que la commune soit bloquée."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Une économie plus sobre, pourquoi pas, mais fixer une limite chiffrée à une planète me paraît théorique et risque de peser sur les entreprises de la zone industrielle sans résultat visible."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas à l'aise avec le nucléaire, mais fermer les centrales sans alternative prête le flanc aux pénuries. Je préfère une sortie progressive, avec des solutions prêtes avant."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "C'est une stratégie raisonnable, avec des énergies renouvelables, des économies d'énergie et une sortie progressive du nucléaire. Les aides me paraissent mesurées et je fais confiance au cadre fédéral."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je veux bien des produits sains et respectueux des animaux, mais l'initiative cumule trop de règles et touche aussi les importations, ce qui renchérit les courses sans vrai bénéfice pour nos paysans."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Une agriculture suisse diversifiée, avec des paysans qui vivent de leur travail, ça me parle. Je suis moins convaincue par les droits de douane qui font monter les prix."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Une eau potable propre, je suis pour. Mais lier les paiements directs à une liste de pratiques imposées me paraît trop rigide pour des exploitations qui doivent s'adapter."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Réduire les pesticides, oui. Les interdire complètement avec une transition de dix ans, sans solution claire pour les paysans, je ne vois pas comment ça tiendrait."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Le climat demande des efforts, mais les taxes sur les billets d'avion et sur le chauffage pèsent sur les familles. Je suis partagée, plutôt pour si les aides suivent."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être animal me touche, mais aligner tout le pays et les importations sur le cahier des charges bio fait monter la viande pour tout le monde, et touche d'abord les fermes locales."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Zéro émission nette d'ici 2050 est un objectif que je soutiens, avec des aides pour changer de chauffage. Je n'aime pas les taxes en plus, mais l'ensemble me paraît équilibré."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "La nature, je tiens à elle, mais l'initiative va loin sur les surfaces et l'argent public, et ça pèserait sur les exploitations de la région déjà fragiles."
+    }
+  ]
+}

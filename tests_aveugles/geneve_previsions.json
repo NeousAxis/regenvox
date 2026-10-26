@@ -1,0 +1,85 @@
+{
+  "ecrit_le": "2026-10-25T16:24:58.393Z",
+  "previsions": [
+    {
+      "id": "gen01",
+      "commune": "Lancy",
+      "taux_panel": 0.0276,
+      "participants_panel": 844,
+      "participants_modele_seul": 110,
+      "participants_hybride": 120
+    },
+    {
+      "id": "gen02",
+      "commune": "Thônex",
+      "taux_panel": 0.0289,
+      "participants_panel": 405,
+      "participants_modele_seul": 80,
+      "participants_hybride": 70
+    },
+    {
+      "id": "gen08",
+      "commune": "Meyrin",
+      "taux_panel": 0.0158,
+      "participants_panel": 351,
+      "participants_modele_seul": 35,
+      "participants_hybride": 30
+    },
+    {
+      "id": "gen03",
+      "commune": "Meyrin",
+      "taux_panel": 0.0545,
+      "participants_panel": 1210,
+      "participants_modele_seul": 400,
+      "participants_hybride": 450
+    },
+    {
+      "id": "gen04",
+      "commune": "Le Grand-Saconnex",
+      "taux_panel": 0.0459,
+      "participants_panel": 480,
+      "participants_modele_seul": 250,
+      "participants_hybride": 170
+    },
+    {
+      "id": "gen05",
+      "commune": "Le Grand-Saconnex",
+      "taux_panel": 0.0345,
+      "participants_panel": 361,
+      "participants_modele_seul": 200,
+      "participants_hybride": 120
+    },
+    {
+      "id": "gen06",
+      "commune": "Genève",
+      "taux_panel": 0.0187,
+      "participants_panel": 3387,
+      "participants_modele_seul": 500,
+      "participants_hybride": 500
+    },
+    {
+      "id": "gen07",
+      "commune": "Carouge",
+      "taux_panel": 0.0267,
+      "participants_panel": 511,
+      "participants_modele_seul": 40,
+      "participants_hybride": 45
+    },
+    {
+      "id": "gen09",
+      "commune": "Versoix",
+      "taux_panel": 0.0232,
+      "participants_panel": 265,
+      "participants_modele_seul": 25,
+      "participants_hybride": 25
+    },
+    {
+      "id": "gen10",
+      "commune": "Veyrier",
+      "taux_panel": 0.0456,
+      "participants_panel": 452,
+      "participants_modele_seul": 80,
+      "participants_hybride": 70
+    }
+  ]
+}

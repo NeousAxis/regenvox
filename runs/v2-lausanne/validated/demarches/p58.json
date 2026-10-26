@@ -1,0 +1,65 @@
+{
+  "id": "p58",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "J'avais 8 ans, je ne fréquentais pas le lac de Sauvabelin sans mes parents, et ni le sondage ni l'atelier de novembre ne sont arrivés jusqu'à moi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "J'avais 10 ans, le vote était ouvert à tous mais ça ne concernait ni moi ni ma famille, et je n'en ai pas entendu parler autour de moi."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "À 11 ans, en plein Covid, le budget participatif ne me disait rien et je n'ai pas le souvenir qu'on en ait parlé à la maison."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "À 11 ans, le sondage et les soirées du PACom ne m'ont pas concerné, et je n'ai pas le souvenir qu'on en ait parlé chez moi."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "J'avais 12 ans, un bulletin est peut-être arrivé dans la boîte aux lettres et on en a parlé à l'école, mais je ne crois pas avoir voté moi-même."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le questionnaire sur la fermeture des quais, je l'ai peut-être vu passer en famille, mais je n'y ai pas répondu et je n'ai pas trop suivi le sujet."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Un bulletin nominatif m'est peut-être arrivé à 13 ans, mais je ne l'ai probablement pas rempli et je n'en ai pas reparlé."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Ce questionnaire sur le racisme m'a peut-être été présenté à l'école, mais je n'ai pas eu envie d'y répondre et le sujet ne s'est pas invité dans mes discussions."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin nominatif est arrivé à mon nom à 14 ans, je l'ai peut-être rempli avec mes parents, mais le choix de projets de quartier me passait un peu au-dessus de la tête."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin préaffranchi est arrivé à la maison et j'aurais pu voter en ligne en deux minutes, mais je n'ai pas suivi les projets et j'en ai peu parlé avec mes amis."
+    }
+  ]
+}

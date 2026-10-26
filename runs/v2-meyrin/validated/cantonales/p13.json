@@ -1,0 +1,29 @@
+{
+  "id": "p13",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Avec les primes qui montent chaque année, je ne veux pas ajouter une nouvelle charge pour tout le monde, chacun doit assumer ses choix, et MCG est contre."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Donner 39,5 millions pour des projets en France alors que nos transports et nos routes sont déjà saturés à Meyrin, ça ne passe pas, MCG a raison sur ce point."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Pouvoir acheter l'appartement où l'on vit depuis des années serait une chance pour une famille comme la mienne, mais je me méfie des congés-ventes, donc je dis plutôt oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Les dépenses publiques ne cessent d'augmenter pour des formations qui ne me concernent pas directement, donc je suis contre comme MCG."
+    }
+  ]
+}

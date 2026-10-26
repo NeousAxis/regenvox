@@ -1,0 +1,15 @@
+{
+  "id": "p12",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je fréquente peu la Pinte et l'Auberge de Sauvabelin, un atelier un samedi après-midi ne m'aurait pas attiré, et je n'ai pas vu l'annonce du sondage papier."},
+    {"item_id": "lau01", "participe_proba": 0.01, "partage_proba": 0.004, "raison": "Ce budget participatif pilote ne me concernait pas, je n'avais pas de projet pour mon quartier et je ne vote pas dans les urnes de quartier."},
+    {"item_id": "lau02", "participe_proba": 0.015, "partage_proba": 0.01, "raison": "Pendant la pandémie je sors moins, je ne vais pas aux stands du marché et je n'ai pas de projet à défendre, donc je laisse passer ce vote."},
+    {"item_id": "lau10", "participe_proba": 0.05, "partage_proba": 0.04, "raison": "Un sondage en ligne de cinq minutes sur mon quartier pourrait m'intéresser, mais je n'ai rien vu dans ma boîte aux lettres et je ne vais pas aux soirées d'information."},
+    {"item_id": "lau03", "participe_proba": 0.08, "partage_proba": 0.03, "raison": "Le bulletin arrive à la maison donc je le vois, mais choisir trois projets de quartier dont je ne mesure pas l'utilité me semble une perte de temps, et je n'en parle pas."},
+    {"item_id": "lau08", "participe_proba": 0.08, "partage_proba": 0.06, "raison": "La fermeture des quais me touche si je vais à Ouchy en voiture, et je remplirais le questionnaire en ligne pour dire mon avis, mais je ne l'ai pas cherché et je doute que mon avis compte."},
+    {"item_id": "lau04", "participe_proba": 0.07, "partage_proba": 0.02, "raison": "Le bulletin préaffranchi arrive chez moi, mais je n'ai pas l'habitude de voter pour des projets et ceux soutenus par des associations me semblent réservés à un cercle déjà engagé."},
+    {"item_id": "lau09", "participe_proba": 0.008, "partage_proba": 0.01, "raison": "Cette consultation sur le racisme ne me concerne pas directement, je ne l'ai pas vue passer et je ne réponds pas à ce genre de questionnaire, donc je n'en parle pas."},
+    {"item_id": "lau05", "participe_proba": 0.06, "partage_proba": 0.02, "raison": "Le bulletin nominatif m'arrive, mais je ne vois pas l'effet des projets sur mon immeuble, alors je le mets souvent de côté au lieu de voter."},
+    {"item_id": "lau06", "participe_proba": 0.05, "partage_proba": 0.02, "raison": "Je pourrais voter en ligne ou renvoyer le bulletin, mais la démarche reste discrète, je ne l'ai pas suivie et je n'en ai pas parlé à mes proches."}
+  ]
+}

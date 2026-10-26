@@ -1,0 +1,125 @@
+{
+  "id": "p15",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Le thème de la surveillance me parle, mais cette pétition vient du milieu étudiant de l'EPFL et ne me concerne pas directement, donc je la laisse passer."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Les canicules inquiètent pour mes enfants et le sujet climatique me parle, mais une lettre ouverte générale aux Chambres ne me pousse pas à signer, je la partagerais seulement si un proche l'envoie."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Je suis opposé aux positions de l'UDC, mais demander au Parlement d'invalider une initiative populaire me gêne sur le principe démocratique, donc je signe rarement ce type de texte."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Affaire genevoise dont je ne connais que le résumé, et le conflit sur Gaza est trop polarisé pour que je m'engage par une pétition."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Le risque pour les jeunes me préoccupe en tant que père, mais la décision relève du canton de Genève où je ne vis pas, et je n'ai pas le réflexe de signer."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Mon deuxième pilier me concerne directement, mais un texte en anglais adressé à la CHS PP ne me donne pas envie de m'engager, et je ne vérifie jamais ce que font les caisses de pension."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.015,
+      "partage_proba": 0.008,
+      "raison": "La proposition est présentée comme fictive et ne demande rien de concret, je la trouve intéressante à lire mais pas à signer."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Je suis concerné par le financement de l'AVS pour ma génération, mais ce texte d'une organisation de jeunes libéraux mêle des propositions qui ne me conviennent pas, donc je signe peu."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.004,
+      "partage_proba": 0.002,
+      "raison": "Commune genevoise sans lien avec ma vie à Yverdon, je ne lirais probablement pas ce texte."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le deuil d'une grossesse me bouleverse et ce témoignage touche ma famille, mais je signe rarement, et je partagerais surtout pour soutenir mon ou ma partenaire."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Je ne suis pas spécialiste de la motion 26.4067 et je n'ai pas d'avis formé sur l'accès à la psychothérapie, donc je reste passif."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Patrimoine vaudois sympathique, mais une ferme d'agrumes à Borex ne fait pas partie de mon quotidien et je ne vois pas pourquoi je m'engagerais."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Les violences domestiques me révoltent, mais cette demande concerne le canton du Jura où je n'habite pas, et je n'ai pas l'habitude de signer pour d'autres cantons."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Le tramway lausannois me concerne peu depuis Yverdon, et une section locale d'un autre parti ne suffit pas à me convaincre de signer."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.07,
+      "partage_proba": 0.03,
+      "raison": "Je suis sensible à la situation des réfugiés, mais je ne signe pas une demande adressée à un conseiller fédéral sans avoir vérifié les sources, et mon engagement reste faible."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La formation professionnelle ne me touche pas directement et la réforme demandée me paraît peu réaliste pour les entreprises, donc je ne signerais pas."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Mes enfants fréquentent piscines et vestiaires, donc l'idée de caméras de lunettes qui filment à leur insu me parle vraiment, même si je me demande si une interdiction totale est applicable."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "Plusieurs mesures me paraissent justes, comme le report du rail et la rénovation plutôt que la démolition, mais le texte est général et je ne signe pas les appels sans cibles précises."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Une baisse des fonds d'adaptation des forêts face aux incendies me choque, donc j'approuve le message, mais je ne sais pas si ma signature changera quelque chose au Parlement."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.14,
+      "partage_proba": 0.1,
+      "raison": "En tant que parent de jeunes enfants, la protection contre les drogues administrées à l'insu et la coopération avec Europol me parlent fortement, et ce thème est assez partagé pour que je le relaie parfois."
+    }
+  ]
+}

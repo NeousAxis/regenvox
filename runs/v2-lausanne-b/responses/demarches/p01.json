@@ -1,0 +1,15 @@
+{
+  "id": "p01",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Sauvabelin est loin de mon quartier, l'atelier tombait un samedi après-midi et je n'ai pas remarqué l'annonce, donc je n'y ai pas participé et j'en parle peu."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Ce premier budget participatif était très peu annoncé, et voter en ligne ou dans une urne de quartier demandait une démarche que je ne fais pas spontanément ; je n'en ai pas entendu parler autour de moi."},
+    {"item_id": "lau02", "participe_proba": 0.05, "partage_proba": 0.03, "raison": "Pendant le Covid je sors peu, mais un stand de vote au marché du centre m'aurait peut-être rappelé le scrutin ; le vote en ligne ne m'attire pas et je n'en parle guère."},
+    {"item_id": "lau10", "participe_proba": 0.04, "partage_proba": 0.04, "raison": "Le sondage en ligne m'aurait sans doute échappé et je ne m'inscris pas aux balades ; l'avenir du quartier m'intéresse, mais pas assez pour chercher la démarche."},
+    {"item_id": "lau03", "participe_proba": 0.15, "partage_proba": 0.10, "raison": "Le bulletin affranchi arrive dans ma boîte aux lettres et je peux le remplir tranquillement chez moi, mais je ne le fais que si choisir trois projets ne me prend pas trop de temps ; j'en parlerais peut-être à des voisines."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "Je marche parfois au bord du lac, mais je n'ai pas vu ce questionnaire en ligne et je n'ai pas d'avis tranché sur la circulation aux quais."},
+    {"item_id": "lau04", "participe_proba": 0.12, "partage_proba": 0.06, "raison": "Le bulletin préaffranchi à domicile reste le moyen le plus simple, mais choisir trois projets me demande du temps que je ne consacre pas toujours à ce genre de chose, et je n'en parlerais guère."},
+    {"item_id": "lau09", "participe_proba": 0.06, "partage_proba": 0.05, "raison": "Le sujet me touche comme étrangère installée ici, mais ce questionnaire circulait dans des lieux que je fréquente peu et je réponds rarement aux enquêtes en ligne."},
+    {"item_id": "lau05", "participe_proba": 0.11, "partage_proba": 0.07, "raison": "Le bulletin nominatif arrive chez moi, je le remplirais peut-être si un projet du centre me parle, sinon il reste sur la table, et je n'en parle pas beaucoup."},
+    {"item_id": "lau06", "participe_proba": 0.10, "partage_proba": 0.05, "raison": "Je reçois le bulletin, mais je n'ai pas suivi le dépôt des projets, il finit souvent sur la table et je ne le remplis que si un projet me touche directement."}
+  ]
+}

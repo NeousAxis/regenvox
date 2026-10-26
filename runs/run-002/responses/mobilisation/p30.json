@@ -1,0 +1,39 @@
+{
+  "id": "p30",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Un atelier qui finit avant 18 h un samedi matin, avec des chiffres concrets sur ce que le bio rapporte aux fermes du coin, et un engagement écrit que l'argent suit les paroles."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre que ça ne me coûte rien en plus sur mes achats ni en paperasse, et qu'un paysan de Vuadens que je connais soit là pour en parler."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Qu'on parle de ce que ça change pour nos enfants et pour le village dans les prochaines années, pas dans trente ans, et qu'on me dise concrètement ce que je peux faire."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Que la reconnaissance se fasse sans nouveau label payant ni paperasse, avec des moyens réels mis par la commune et un retour écrit sur ce qui a été retenu."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes sur mon téléphone, je peux le faire le soir ou pendant une pause, sans me déplacer. Un atelier de deux heures trente, c'est une demi-journée que je ne prends pas, et je n'ai pas la culture des ateliers."
+}

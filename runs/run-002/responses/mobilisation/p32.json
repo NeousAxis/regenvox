@@ -1,0 +1,39 @@
+{
+  "id": "p32",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une garantie chiffree que le passage au bio sera paye aux agriculteurs (un prix ou une aide precise), car sans cela je ne vois pas ce que je pourrais changer moi-meme, et je ne veux pas participer a des discussions sans suite."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Un moment court au village, en compagnie d'agriculteurs de la commune que je pourrais reconnaitre et nommer, sans engagement de longue duree a prendre tout de suite."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Un lien concret avec ma vie d'aujourd'hui, par exemple une decision qui touche les prochaines annees du village plutot qu'une vision a trente ans. Honnetement, peu de chose me ferait venir sur ce sujet."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.22,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un atelier d'une heure et demie maximum, un soir en semaine tot ou un samedi matin, et la certitude que les idees retenues seront restituees et suivies, par exemple des haies et bords de champs integres dans un plan concret de la commune."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes sur mon telephone, je peux le faire le soir apres les enfants, sans me deplacer ni m'engager dans la duree. Je lis peu les demarches participatives et je passe souvent a cote, donc une invitation courte dans la boite aux lettres est le seul format que je finirais vraiment."
+}

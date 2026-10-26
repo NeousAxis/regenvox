@@ -1,0 +1,15 @@
+{
+  "id": "p49",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "J'avais 11 ans, un sondage sur l'avenir de l'Auberge de Sauvabelin ne me concernait pas et personne à la maison n'en a parlé."},
+    {"item_id": "lau01", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "À 13 ans je ne savais pas vraiment ce qu'était un budget participatif, et je n'ai ni voté ni déposé de projet."},
+    {"item_id": "lau02", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "En pleine période Covid la campagne est passée sous mon radar, et à 14 ans je n'avais pas l'idée de voter."},
+    {"item_id": "lau10", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Un sondage de cinq minutes, je l'aurais peut-être fait si on me l'avait mis sous le nez, mais je ne l'ai pas cherché et les soirées d'information étaient loin de chez moi."},
+    {"item_id": "lau03", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Le bulletin est arrivé dans la boîte aux lettres du foyer, mes parents ont peut-être voté, mais à 15 ans je ne m'en suis pas occupé et j'en ai peu parlé."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Un questionnaire en ligne sur les quais d'Ouchy, je l'ai peut-être vu passer, mais je ne l'ai pas rempli et j'y ai peu pensé."},
+    {"item_id": "lau04", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "À 16 ans mon bulletin nominatif est arrivé à la maison, je l'ai sans doute mis de côté sans le remplir, et j'en ai parlé vaguement avec ma famille."},
+    {"item_id": "lau09", "participe_proba": 0.04, "partage_proba": 0.06, "raison": "Le racisme me touche de près en tant qu'étranger et j'aurais pu répondre, mais à 16 ans je n'ai pas vu l'annonce et je ne l'ai pas cherchée."},
+    {"item_id": "lau05", "participe_proba": 0.12, "partage_proba": 0.10, "raison": "À 17 ans j'ai reçu un bulletin à mon nom, je l'ai regardé avec mes parents et j'ai peut-être coché quelques projets du quartier, sans grande conviction."},
+    {"item_id": "lau06", "participe_proba": 0.08, "partage_proba": 0.10, "raison": "À 19 ans, je vis toujours chez mes parents, le bulletin est arrivé à la maison, j'ai peut-être voté en ligne sans trop y réfléchir et j'en ai parlé en famille."}
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "p15",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "Notre armée a besoin de nouveaux avions, les F-5 arrivent au bout, et le fonds est alimenté par le budget de la défense sans nouvel impôt. Je vote oui sans me passionner pour le sujet."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Le mariage est pénalisé fiscalement face au concubinage, et ça me choque. Mais graver la définition du mariage dans la Constitution me paraît superflu, et je ne suis pas sûr que ce soit la bonne voie."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas enthousiaste à l'idée de payer plus de TVA sur tout ce que j'achète, et lier ça au report de l'âge de la retraite des femmes à 65 ans ne passe pas. Je vote plutôt non, même si l'AVS doit être financée."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "La Constitution doit primer sur les traités, c'est une question de démocratie : je ne veux pas que des juges étrangers aient le dernier mot chez nous. C'est un vote que je fais sans hésiter."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "Je veux que la Suisse reprenne la main sur l'immigration, la pression sur le logement et les écoles de la région est réelle. Je vois aussi des collègues étrangers dans le social et la santé qui font un travail précieux, donc je reste partagé sur la forme."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "Notre défense doit tenir debout, et les avions actuels ne suffiront pas longtemps. Je n'aime pas le chèque en blanc sur le choix du modèle, mais je vote oui pour que l'armée ait des moyens crédibles."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible au bien-être des animaux, mais interdire toute expérimentation et l'importation de nouveaux produits touche la santé de tout le monde. Le sujet ne me mobilise pas assez pour aller voter."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être des animaux compte, mais imposer les exigences Bio Suisse à tout le monde, importations comprises, avec une transition pouvant aller jusqu'à 25 ans, c'est un objectif décidé d'en haut. Les paysans de la région font déjà beaucoup, je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Notre AVS doit tenir, et l'âge de référence des femmes se discute depuis longtemps ; le compromis me paraît acceptable. Une hausse de TVA de 0,4 point reste une charge, mais je préfère ça à une hausse des cotisations sur les salaires."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "La neutralité armée fait partie de notre identité : pas d'alliance militaire, et pas de sanctions contre un État belligérant en dehors de celles de l'ONU. C'est un vote que je veux faire, et je pense que beaucoup de gens le ressentent comme moi."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je veux qu'on produise davantage chez nous et qu'on protège l'eau, mais 70 % d'aliments indigènes en dix ans et moins de produits d'origine animale dictent le menu aux éleveurs de la région, avec des chiffres décidés d'avance. Je suis plus proche du non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "La 13e rente, on l'a acceptée et je ne veux pas la remettre en cause pour les aînés que je vois au quotidien. Mais la financer par une hausse de TVA sur presque tout, sans réforme de fond, me paraît mal parti : je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Les pétards du 1er août et des fêtes de village font partie de nos traditions, mais les chiens et les animaux de la ferme en souffrent beaucoup. Je n'aime pas les interdictions générales, je pencherais plutôt pour un meilleur encadrement."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Je ne suis pas directement concerné, mais une famille où un seul parent travaille ne devrait pas payer plus d'impôts à cause du mariage. Je suis pour une imposition équitable, à condition que ça ne creuse pas trop le budget de l'État, donc je vote oui avec réserve."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Nos entreprises de la zone industrielle doivent pouvoir exporter, et les règles actuelles sont lourdes. Mais assouplir les exportations d'armes vers un pays en conflit me gêne au regard de notre neutralité, donc je suis partagé et je pencherais pour le non."
+    }
+  ]
+}

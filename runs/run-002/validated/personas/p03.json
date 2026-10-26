@@ -1,0 +1,142 @@
+{
+  "id": "p03",
+  "portrait": "J'ai 60 ans et je travaille dans l'administration d'une entreprise de la zone industrielle de Vuadens. Je vis au centre du village, en couple avec des enfants, et je suis proche du PS sans être militant. Je ne suis pas paysan : je connais les fermes du coin surtout par les achats à la fromagerie et les discussions de village, et le bio reste pour moi un sujet que je suis de loin.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Un paysan qui n'arrive pas à vivre de son travail finit par vendre, et ensuite on voit arriver les lotissements. Il faut que ça paie, sinon on perd nos fermes. »",
+      "engagement": 2,
+      "freins_participation": [
+        "je ne suis pas du métier et je n'ai pas les chiffres des exploitations",
+        "les soirées en semaine après le travail sont compliquées avec les enfants",
+        "je me méfie des discours qui promettent que le bio va tout régler"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée où les agriculteurs de la commune expliquent eux-mêmes leurs comptes, ce qu'ils gagnent et ce qu'il leur faudrait pour passer au bio, sans experts venus d'ailleurs."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si on m'explique comment acheter directement à la ferme sans y passer des heures, je suis partant. Mais le bio reste cher, et avec des enfants à la maison il faut regarder chaque franc. »",
+      "engagement": 2,
+      "freins_participation": [
+        "le prix du bio, plus élevé pour une famille avec un budget serré",
+        "le temps : je n'ai pas envie de passer mes samedis à chercher des paniers ou à faire des commandes",
+        "l'impression que ce genre de projet reste entre quelques initiés de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Un point de vente simple au village, ou une commande en ligne avec retrait à la fromagerie, et des prix expliqués clairement."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais on parle souvent de l'avenir sans demander leur avis à ceux qui travaillent la terre aujourd'hui. »",
+      "engagement": 1,
+      "freins_participation": [
+        "une question trop générale pour que je me sente concerné au quotidien",
+        "je n'ai pas l'impression que des ateliers changent beaucoup la suite des décisions"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me montre concrètement ce qui changerait dans les champs, le paysage ou l'eau du village d'ici dix ans."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Les paysans ont déjà assez de contrôles et de paperasse. Une reconnaissance, pourquoi pas, mais je ne veux pas d'un classement de bons et de mauvais agriculteurs dans le village. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne vois pas bien ce que changerait une reconnaissance officielle de la commune",
+        "les démarches lancées par la mairie finissent souvent en réunions sans suite",
+        "je ne veux pas me retrouver à juger les voisins"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de fermes organisée par les agriculteurs eux-mêmes, plutôt qu'un label ou un document de plus."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 45,
+    "role": "relai",
+    "cercle_type": "Famille proche et enfants, collègues de bureau dans l'entreprise de la zone industrielle, voisins du centre du village, camarades de la section locale du PS, et quelques connaissances dans le milieu paysan par les achats au marché et à la fromagerie. Je transmets les infos locales autour de moi, sans être un leader d'opinion."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Les résidences secondaires vident les villages en hiver et font monter le prix des terrains. Je suis pour limiter ça, même si ce n'est pas le sujet qui me touche le plus."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Il faut arrêter de grignoter les champs pour construire, les terres agricoles du coin doivent rester des terres agricoles. Je m'inquiète quand même de la hausse des loyers."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "L'idée de ménager les ressources me parle, mais un objectif chiffré aussi strict, dans ce délai, me paraît trop abstrait pour savoir qui paierait la facture."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Je suis pour sortir du nucléaire, il faut miser sur les renouvelables. Un arrêt après 45 ans me semble arbitraire, mais le principe est juste."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Soutenir les renouvelables et les économies d'énergie, c'est une évidence pour moi. Je m'attends à ce que ça coûte un peu, mais ça se défend."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Un produit importé doit respecter les mêmes règles que chez nous, sinon nos paysans sont désavantagés. C'est une question de justice pour les travailleurs et pour les animaux."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je suis attaché aux fermes d'ici, mais les droits de douane et les prix garantis font monter le prix des courses. Je ne suis pas sûr que la solution passe par là."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "L'eau potable est une priorité pour nous tous au village. Que les paiements directs récompensent les fermes qui polluent moins me paraît logique."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour réduire fortement les pesticides, mais une interdiction totale en dix ans est dure pour les paysans qui n'ont pas les moyens de changer tout de suite. Je reste partagé."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le climat doit être une priorité, mais les taxes sur le mazout, l'essence et les billets d'avion pèsent sur les budgets modestes. Je veux voir où va l'argent avant de dire oui."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Le bien-être des animaux compte, mais le texte touche directement nos fermes laitières d'ici, avec des délais de transition très longs et des règles qui pèsent surtout sur les petits producteurs. Je penche pour le non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le zéro émission nette en 2050 est un objectif que je soutiens. Les aides pour remplacer les vieux chauffages au fioul me paraissent utiles pour les propriétaires."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.6,
+      "raison": "Je suis sensible à la nature autour du village, mais je crains que davantage de surfaces protégées pèsent sur les agriculteurs. Il faudrait des compensations claires."
+    }
+  ]
+}

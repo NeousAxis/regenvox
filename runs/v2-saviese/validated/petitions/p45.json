@@ -1,0 +1,125 @@
+{
+  "id": "p45",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.004,
+      "partage_proba": 0.02,
+      "raison": "Je ne suis ni étudiante ni liée à l'EPFL, et ces questions de surveillance numérique me paraissent très lointaines de mon quotidien à Savièse."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.15,
+      "partage_proba": 0.35,
+      "raison": "Les canicules et la sécheresse de cet été m'inquiètent pour nos vignes et nos forêts en Valais, mais cette liste de revendications très larges me paraît trop politique pour que je la signe spontanément."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Je n'apprécie pas beaucoup les positions de l'UDC, mais je respecte le vote populaire et je trouve délicat de demander au Parlement d'invalider une initiative régulièrement déposée."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.008,
+      "partage_proba": 0.02,
+      "raison": "C'est une affaire genevoise sur fond de guerre à Gaza, un sujet trop clivant pour que je signe une pétition sans en connaître les détails."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.03,
+      "partage_proba": 0.2,
+      "raison": "Le protoxyde d'azote touche les jeunes et je trouve inquiétant qu'on le vende librement, mais c'est une affaire genevoise que je ne suis pas de près et je signe rarement ce genre de texte."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Ma caisse de pension m'intéresse, mais je ne veux pas que la retraite serve de levier à des choix d'investissement militants, et le texte s'adresse à des acteurs que je ne connais pas."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Les primes d'assurance-maladie me pèsent, mais cette pétition se présente elle-même comme fictive et demande une réforme fédérale que je ne crois pas réalisable telle quelle."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.15,
+      "raison": "L'AVS me concerne de près à l'approche de la retraite et je comprends l'inquiétude sur son financement, mais je me méfie d'un mouvement de jeunes qui associe la réforme à la légalisation du cannabis."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.006,
+      "partage_proba": 0.02,
+      "raison": "Versoix est dans le canton de Genève et je n'ai aucun lien avec cette commune, je ne signe pas les pétitions locales qui ne me touchent pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.25,
+      "raison": "La douleur d'une grossesse qui se termine par la mort de l'enfant me touche et ce témoignage m'émeut, mais je ne signe pas facilement les textes adressés aux Chambres fédérales."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "L'accès aux psychothérapeutes est un vrai sujet, mais la motion visée est très technique et ne me concerne pas directement, donc je n'ai pas de raison de m'engager."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "La Ferme aux Agrumes de Borex est loin de Savièse et ce n'est pas ma commune, même si la sauvegarde d'un patrimoine agricole me plaît."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.05,
+      "partage_proba": 0.12,
+      "raison": "Les violences faites aux femmes me révoltent et l'absence de maison d'accueil dans le Jura m'interpelle, mais je vis en Valais et je ne signe pas pour un autre canton."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "La chaleur en ville m'inquiète, mais un tramway lausannois est loin de mon quotidien et je ne vois pas de raison de signer une pétition vaudoise."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Les récits de détresse me touchent, mais les questions d'asile sont très sensibles et je ne connais pas assez la situation des ressortissants burundais pour m'engager."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Le temps partiel pour les apprentis peut se défendre, mais une réforme de la formation professionnelle qui allonge les CFC est un sujet technique qui me dépasse et ne touche pas ma vie."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Être filmée à son insu me met mal à l'aise, surtout dans une piscine ou un vestiaire, mais interdire un produit me paraît excessif et je ne suis pas très portée sur les pétitions technologiques."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je suis sensible au climat, mais ce texte très large, avec des mesures comme l'interdiction de la mise au rebut des retours en ligne, me paraît trop dirigiste pour que je le signe."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.15,
+      "partage_proba": 0.35,
+      "raison": "Les forêts valaisannes sont directement menacées par la sécheresse et les incendies, et couper les fonds d'adaptation me paraît absurde, donc je signerais volontiers si ce texte me parvenait."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.12,
+      "partage_proba": 0.3,
+      "raison": "Les soumissions chimiques et les abus organisés contre des femmes me révoltent et je trouve juste de demander une réaction nationale, mais je ne sais pas si une task force serait réellement efficace."
+    }
+  ]
+}

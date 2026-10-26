@@ -1,0 +1,125 @@
+{
+  "id": "p20",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Affaire d'étudiants lausannois sur un événement de l'EPFL, qui ne me concerne pas, et je ne signe pas ce type de collectif militant."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.15,
+      "raison": "Les canicules de cet été m'ont marqué, mais cette lettre demande des mesures contraignantes et la remise en cause de certains financements, ce qui ne correspond pas à ma façon de voir l'économie."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je suis hostile à l'initiative de l'UDC, mais demander au Parlement d'invalider une initiative populaire heurte mon attachement à la démocratie directe."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Ce dossier genevois oppose un député à une organisation sur fond de conflit à Gaza, et je ne me sens pas concerné par cette pétition de soutien."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.2,
+      "raison": "Le protoxyde d'azote touche les jeunes de notre canton, c'est un problème concret et local qui me préoccupe plus que les autres, mais je signe rarement les pétitions en ligne."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Cette pétition en anglais touche à mon 2e pilier et demande de changer les placements des caisses de pension, ce que je laisse aux spécialistes et aux règles en vigueur."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Le texte se présente lui-même comme fictif, et une institution cantonale d'assurance m'éloigne de la concurrence entre assureurs que je défends, même si les primes me préoccupent."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.18,
+      "partage_proba": 0.3,
+      "raison": "L'équilibre de l'AVS me touche directement et j'approuve une stabilisation automatique, mais je me méfie de la légalisation du cannabis et d'une durée de cotisation qui toucherait les futurs retraités."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je n'habite pas Versoix et la décision concerne le conseil municipal de cette commune."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.2,
+      "raison": "Le témoignage est bouleversant et je ressens de la compassion, mais ce sujet de santé féminine et de droit du travail ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Les délais de psychothérapie sont un vrai problème, mais la motion concerne des professionnels du soin et je ne m'engage pas sur ce débat de santé mentale."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Cette ferme se trouve dans le canton de Vaud, à Borex, et je n'ai pas d'avis sur les restrictions d'activités d'un domaine privé."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Le canton du Jura ne me concerne pas, et je ne signe pas les campagnes en ligne de Campax, même si la violence domestique est un drame."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Ce tram concerne Lausanne et une demande de verdissement supplémentaire ne me paraît pas une priorité, même si la chaleur est réelle."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je suis favorable à l'application des décisions d'asile négatives, et une suspension générale des renvois ne correspond pas à ma position."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "L'insertion des jeunes en situation de handicap me touche, mais allonger les CFC et réduire de moitié la charge de travail dépasse ce que je peux approuver."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "La vie privée et la protection des enfants me préoccupent, mais je préfère une règle ciblée contre les enregistrements clandestins plutôt qu'une interdiction générale."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Les canicules m'ont frappé, mais ce texte réclame des interdictions et des mesures contraignantes que je ne soutiens pas, et je préfère les incitations."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "La prévention des incendies me paraît raisonnable, mais je suis attentif à la discipline budgétaire et je ne veux pas contester un projet du Conseil fédéral sur ce point."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.15,
+      "partage_proba": 0.25,
+      "raison": "Je suis sensible à la protection des femmes et à la coopération policière internationale, sujets qui relèvent clairement de l'État, mais je reste prudent face à une pétition lancée par un particulier."
+    }
+  ]
+}

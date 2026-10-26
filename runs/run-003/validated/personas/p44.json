@@ -1,0 +1,140 @@
+{
+  "id": "p44",
+  "portrait": "J'ai 56 ans et je travaille à mon compte dans le bâtiment depuis plus de vingt ans, avec des chantiers dans toute la région de Bulle. Avec mon épouse, nous vivons dans un quartier résidentiel récent de Vuadens, nos enfants ont quitté la maison et nous avons un peu plus de temps pour nous. Je me sens proche des Vert-e-s sur l'environnement, mais je me méfie des projets décidés d'en haut, surtout quand ils touchent à ceux qui travaillent la terre ou sur les chantiers.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Un paysan qui n'arrive pas à vivre de son métier ne passera jamais au bio, c'est aussi simple que ça.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je n'ai pas le temps en fin de journée ni le week-end, les chantiers prennent tout",
+        "Les réunions communales finissent souvent en discours sans suite",
+        "Je ne suis pas agriculteur, j'ai peur de parler à côté"
+      ],
+      "ce_qui_me_ferait_venir": "Une séance le soir avec des agriculteurs de la commune qui donnent leurs chiffres (prix du lait, aides, coût de la conversion) et un engagement de suite concret."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Acheter directement au paysan du village, je le fais déjà un peu, mais je ne veux pas que ça devienne une opération de communication.",
+      "engagement": 1,
+      "freins_participation": [
+        "Les gens ne se déplacent pas pour un atelier",
+        "Le bio coûte plus cher et beaucoup de familles regardent d'abord le prix"
+      ],
+      "ce_qui_me_ferait_venir": "Un point de vente ou un système de paniers ouvert à tous, avec des prix qui tiennent la route pour les familles."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Une belle phrase sur la terre pour nos petits-enfants, mais que la commune me montre ce qu'elle fait concrètement d'ici 2030.",
+      "engagement": 1,
+      "freins_participation": [
+        "La question est trop large, on ne sait pas par où commencer",
+        "Je n'ai pas le temps d'assister à des démarches qui durent des mois"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet concret comme la qualité du sol ou un chemin près de chez moi, avec une participation courte, en ligne ou un samedi matin."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Une plaque ou un label, ça ne paie pas la facture du paysan.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne vois pas l'intérêt d'un affichage ou d'un label de plus",
+        "Le sujet ne me touche pas directement comme artisan"
+      ],
+      "ce_qui_me_ferait_venir": "Des résultats mesurables, par exemple des haies et des prairies qui reviennent, plutôt qu'une reconnaissance symbolique."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 45,
+    "role": "relai",
+    "cercle_type": "Clients, sous-traitants et fournisseurs du bâtiment, quelques artisans de la région, voisins du quartier et membres d'une société locale."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.55,
+      "oui_proba": 0.48,
+      "raison": "Je vois le paysage se transformer avec les maisons de vacances vides, mais les résidences secondaires ont fait travailler du monde dans le bâtiment. Je suis partagé et je pencherais plutôt pour un non."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Il faut arrêter de bétonner les champs, je suis d'accord, mais freiner les zones à bâtir touche aussi les chantiers d'ici. Je vote oui du bout des lèvres."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Viser une seule planète d'ici 2050, l'idée me plaît, mais l'objectif me semble flou et j'ai peur que la facture retombe sur les petits entrepreneurs."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Les vieilles centrales, je n'ai pas confiance, et je préfère investir dans des énergies renouvelables qu'on peut poser sur les toits."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.55,
+      "oui_proba": 0.9,
+      "raison": "Isoler et rénover, c'est mon métier, et ça fait travailler les artisans d'ici. Je suis pour sans hésiter."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Des produits sains, produits dans le respect des animaux et des travailleurs, bien sûr. Je me demande juste comment on contrôle ça à l'importation."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Soutenir nos paysans, d'accord, mais les droits de douane et les prix garantis me semblent rigides. Je n'y vois pas une vraie réponse à la transition écologique."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Des pesticides dans l'eau et des antibiotiques préventifs, c'est non pour moi. Je suis pour aider les fermes qui travaillent autrement."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "Je suis contre les pesticides de synthèse, et la transition de dix ans laisse le temps aux paysans de s'adapter. C'est un oui."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.7,
+      "oui_proba": 0.45,
+      "raison": "Le carburant, je le paie chaque jour avec ma camionnette de chantier, donc une hausse de taxe me touche directement. Le climat compte, mais je pencherais pour un non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les animaux doivent être bien traités, et les vaches au pré chez les voisins, c'est comme ça qu'il faut faire. Mais l'exigence sur les importations et la transition de vingt-cinq ans me font hésiter."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Remplacer les chauffages fossiles et aider les entreprises à innover, c'est mon quotidien sur les chantiers. Je suis pour."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Les haies et les prairies disparaissent, je le vois dans le paysage gruérien. Il faut protéger, et j'accepte de payer si c'est bien pensé."
+    }
+  ]
+}

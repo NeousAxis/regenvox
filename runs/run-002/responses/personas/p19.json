@@ -1,0 +1,141 @@
+{
+  "id": "p19",
+  "portrait": "J'ai 27 ans et je travaille sur l'exploitation familiale de bovins laitiers, en bio, dans un hameau de Vuadens. Je m'occupe seul de mes enfants, donc mes journées se découpent entre les bêtes, l'école et la paperasse, et je juge d'abord une idée à ce qu'elle rapporte à la ferme. Je vote, mais je me méfie des projets qui arrivent avec de beaux objectifs et peu de moyens pour ceux qui travaillent la terre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Le bio ne se défend que si le lait se vend, alors la vraie question c'est le prix payé au producteur. »",
+      "engagement": 2,
+      "freins_participation": [
+        "je n'ai pas le temps entre les bêtes et les enfants",
+        "les démarches de la commune finissent souvent en réunions sans suite",
+        "je ne veux pas être l'alibi d'un projet qui ne me paie pas"
+      ],
+      "ce_qui_me_ferait_venir": "une séance courte, avec des chiffres sur le prix du lait bio, la fromagerie autour de la table et une proposition concrète d'aide au passage au bio"
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Les gens veulent du local, mais à la caisse ils prennent le moins cher, alors je ne vais pas leur faire la leçon. »",
+      "engagement": 1,
+      "freins_participation": [
+        "les visites à la ferme me prennent du temps de travail",
+        "je n'ai pas envie de contrats ou de promesses avec des voisins qui ne connaissent pas le métier",
+        "les idées venues de la ville me semblent souvent mal ficelées"
+      ],
+      "ce_qui_me_ferait_venir": "un système simple où les habitants achètent directement de la viande ou du lait, sans paperasse en plus pour la ferme"
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Mes enfants reprendront peut-être la ferme, peut-être pas; ce qui compte, c'est qu'il y ait encore une ferme à reprendre. »",
+      "engagement": 1,
+      "freins_participation": [
+        "les questions à trente ans me paraissent abstraites",
+        "je ne sais pas qui décidera au final"
+      ],
+      "ce_qui_me_ferait_venir": "une discussion sur la reprise des fermes et les terres disponibles pour les jeunes, avec des exemples concrets"
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Être reconnu par le village, ça fait plaisir, mais ça ne paie ni le vétérinaire ni le fourrage. »",
+      "engagement": 0,
+      "freins_participation": [
+        "une reconnaissance symbolique ne change rien à ma ferme",
+        "je ne vois pas qui évaluerait ce que nous apportons aux sols et à l'eau"
+      ],
+      "ce_qui_me_ferait_venir": "rien de particulier sur ce sujet, sauf si cela débouche sur un paiement ou un débouché concret pour la viande ou le lait"
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "cercle agricole (collègues éleveurs de la région, coopérative laitière, association d'éleveurs), parents de l'école du village et quelques amis du hameau ; réseau surtout pratique, peu présent dans les débats politiques locaux"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Je n'avais pas encore l'âge de voter. Si j'avais voté, les résidences secondaires ne m'auraient pas beaucoup touché, mais je me méfie des limites imposées par Berne sur la propriété."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore électeur. La protection des terres agricoles me parle, mais une loi qui bloque les constructions gênerait les fermes qui veulent bâtir ou agrandir un hangar."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Pas encore électeur. Une empreinte d'une planète en 2050, ça fait des objectifs flous, et je crains que ce soient les paysans qui paient les contraintes."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Pas encore électeur. Je ne suis pas contre la sortie du nucléaire en soi, mais je ne veux pas de coupures ni de hausses de prix sans alternative claire."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.25,
+      "oui_proba": 0.55,
+      "raison": "Je venais de devenir électeur, mais l'énergie ne me passionne pas. Les panneaux sur les toits de la ferme, pourquoi pas, mais je ne veux pas que la facture d'électricité grimpe pour financer les subventions."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "C'est ce que je fais depuis des années : produire dans des conditions correctes pour les bêtes et pour les gens. Je me méfie seulement des obligations qui s'appliqueraient aux importations sans contrôle sérieux, et il ne faut pas que ça fasse une paperasse de plus pour les petites fermes."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Une agriculture d'ici avec des prix qui permettent de vivre, sans fermes qui ferment, c'est mon souci depuis le début. Les droits de douane me rendent plus réservé, parce que nos fromages s'exportent aussi et que d'autres pays riposteraient."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Mon exploitation remplirait déjà les conditions, donc les paiements directs ne me pénaliseraient pas. Mais je vois des voisins qui auraient du mal à suivre, et je ne veux pas voter une morale qui frappe les autres."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.55,
+      "raison": "Je suis bio, je sais que ça marche sans produits de synthèse. Mais une interdiction totale avec dix ans de transition et des importations à contrôler dépend beaucoup de la mise en œuvre, et je me demande qui paiera les pertes des voisins."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Une taxe sur le mazout et les carburants, je la subis déjà à la ferme. Les billets d'avion, je m'en fiche, mais le reste reste un prélèvement sur la campagne."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.5,
+      "raison": "Mes vaches sont au pré et je respecte déjà un cahier des charges bio, donc je serais en règle. Mais l'initiative toucherait des éleveurs qui n'ont pas les moyens de transformer leur étable sur vingt-cinq ans, et les importations sans contrôle restent un point faible."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Les aides pour remplacer un chauffage fossile ou pour investir dans l'innovation peuvent aider une ferme. Mais le zéro émission nette en 2050 reste lointain, et je ne sais pas ce que ça coûtera à mon exploitation au final."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Je suis pour la nature et je fais déjà des haies et des bandes fleuries. Mais mettre plus de surfaces sous protection, c'est des prairies en moins pour mes vaches, et je n'ai pas confiance dans une indemnisation qui arriverait après."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "p68",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "Un sujet de l'EPFL à Lausanne porté par un collectif militant, loin de mon quotidien à Meyrin, je ne m'y intéresse pas."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Les canicules de cet été m'inquiètent, mais cette lettre ouverte réclame un virage global et des contraintes que je ne soutiens pas, je reste sceptique."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.002,
+      "partage_proba": 0.02,
+      "raison": "C'est une initiative de mon parti, l'UDC, et cette pétition demande de l'invalider, je ne peux donc ni la signer ni la relayer."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.008,
+      "partage_proba": 0.03,
+      "raison": "Une affaire genevoise liée au conflit à Gaza, le ton militant et le contexte politique ne me touchent pas, je ne signe pas ce type d'appel de soutien."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.25,
+      "raison": "Des bonbonnes de protoxyde retrouvées dans le lac et des jeunes au volant sous influence, c'est concret et local, je signerais pour interdire la vente aux mineurs et encadrer la vente à des fins d'inhalation."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.015,
+      "partage_proba": 0.03,
+      "raison": "Je n'aime pas qu'on dicte aux caisses de pension leurs placements, et ce texte mêle santé et climat sans que cela me concerne directement."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Le texte se dit lui-même fictif, et confier l'assurance de base à des partenaires privés choisis par canton ne me séduit pas, même si les primes me pèsent."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "L'AVS m'inquiète pour mes vieux jours, mais cette pétition des jeunes Vert'libéraux mise sur le cannabis et des réformes que je ne soutiendrais pas."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.015,
+      "partage_proba": 0.02,
+      "raison": "Une affaire de locaux dans la commune voisine de Versoix, un projet associatif porté par des habitants, je n'ai pas d'engagement là-dessus."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "Ce deuil me touche et le besoin de reconnaissance juridique se comprend, mais cela ne me concerne pas directement, je signerais par empathie sans en faire un combat."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Je connais mal la question de la psychothérapie, et une pétition de professionnelles qui défendent leur propre pratique me laisse indifférent."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Une ferme vaudoise à Borex, loin de Genève, le patrimoine est intéressant mais les autorisations communales ne me mobilisent pas."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.035,
+      "partage_proba": 0.03,
+      "raison": "Les violences domestiques sont un vrai sujet, mais la création d'une structure subventionnée dans le Jura, canton que je ne connais pas, ne me pousse pas à signer."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Le tram lausannois et la canicule en Vaud sont loin de mon quotidien à Meyrin, et une pétition de section politique sur l'aménagement urbain ne m'incite pas à agir."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.003,
+      "partage_proba": 0.01,
+      "raison": "Je suis opposé à la suspension des renvois de requérants déboutés, cette demande va à l'encontre de la politique d'asile que je soutiens."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je respecte l'apprentissage et la question du handicap est juste, mais allonger les CFC et multiplier les formations à mi-temps me semble coûteux et peu réaliste pour les entreprises."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Filmer des femmes ou des enfants à leur insu dans une piscine me révolte, je signerais une interdiction de ces lunettes, mais je ne relaierais qu'un message très simple."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.008,
+      "partage_proba": 0.01,
+      "raison": "Ces mesures climatiques contraignantes, interdictions et règles sur la mode, vont à l'encontre de ce que je défends, je ne signe pas un appel de ce type."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "La demande vise un projet porté par Albert Rösti, qui est de mon parti, je ne vais pas signer contre lui, même si la protection des forêts me parle."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.12,
+      "partage_proba": 0.3,
+      "raison": "La drogue du viol et les réseaux qui s'en servent me révoltent, une task force nationale contre ces prédateurs est une cause que je soutiendrais, même si je reste réservé sur la coopération avec Europol."
+    }
+  ]
+}

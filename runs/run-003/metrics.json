@@ -1,0 +1,1497 @@
+{
+  "angles": [
+    {
+      "angle_id": 1,
+      "formulation": "Comment faire pour que le monde agricole puisse vivre honorablement de son travail et devenir promoteur du bio ?",
+      "metrics": {
+        "angle_id": 1,
+        "resonance": 7,
+        "repartition_initiale": {
+          "porteur": 0.241,
+          "interesse": 0.593,
+          "indifferent": 0.046,
+          "reticent": 0.12,
+          "opposant": 0
+        },
+        "soutien": {
+          "moyenne": 0.839,
+          "p05": 0.712,
+          "p95": 0.945,
+          "sensibilite": [
+            0.683,
+            0.908
+          ]
+        },
+        "coporteurs": 0.004,
+        "resistance": {
+          "moyenne": 0.051,
+          "p05": 0,
+          "p95": 0.144
+        },
+        "viralite": 0.89,
+        "mois_mi_parcours": 8,
+        "participation": {
+          "avis_en_ligne": 0.183,
+          "atelier": 0.004,
+          "porteurs_projet": 0
+        },
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "part_initiale_favorable": 0.375,
+          "part_finale_soutien": 0.633,
+          "part_coporteurs": 0.125
+        }
+      },
+      "diffusion": {
+        "params": {
+          "qA": 0.15,
+          "qO": 0.12
+        },
+        "monthly": [
+          {
+            "mois": 0,
+            "A": 0.241,
+            "O": 0,
+            "N": 0.759
+          },
+          {
+            "mois": 1,
+            "A": 0.282,
+            "O": 0.003,
+            "N": 0.715
+          },
+          {
+            "mois": 2,
+            "A": 0.323,
+            "O": 0.006,
+            "N": 0.67
+          },
+          {
+            "mois": 3,
+            "A": 0.367,
+            "O": 0.009,
+            "N": 0.623
+          },
+          {
+            "mois": 4,
+            "A": 0.41,
+            "O": 0.012,
+            "N": 0.578
+          },
+          {
+            "mois": 5,
+            "A": 0.45,
+            "O": 0.015,
+            "N": 0.535
+          },
+          {
+            "mois": 6,
+            "A": 0.492,
+            "O": 0.018,
+            "N": 0.49
+          },
+          {
+            "mois": 7,
+            "A": 0.529,
+            "O": 0.022,
+            "N": 0.449
+          },
+          {
+            "mois": 8,
+            "A": 0.564,
+            "O": 0.025,
+            "N": 0.412
+          },
+          {
+            "mois": 9,
+            "A": 0.6,
+            "O": 0.027,
+            "N": 0.373
+          },
+          {
+            "mois": 10,
+            "A": 0.63,
+            "O": 0.03,
+            "N": 0.34
+          },
+          {
+            "mois": 11,
+            "A": 0.657,
+            "O": 0.032,
+            "N": 0.311
+          },
+          {
+            "mois": 12,
+            "A": 0.687,
+            "O": 0.034,
+            "N": 0.28
+          },
+          {
+            "mois": 13,
+            "A": 0.712,
+            "O": 0.035,
+            "N": 0.253
+          },
+          {
+            "mois": 14,
+            "A": 0.73,
+            "O": 0.037,
+            "N": 0.234
+          },
+          {
+            "mois": 15,
+            "A": 0.749,
+            "O": 0.039,
+            "N": 0.213
+          },
+          {
+            "mois": 16,
+            "A": 0.766,
+            "O": 0.04,
+            "N": 0.194
+          },
+          {
+            "mois": 17,
+            "A": 0.78,
+            "O": 0.042,
+            "N": 0.178
+          },
+          {
+            "mois": 18,
+            "A": 0.794,
+            "O": 0.044,
+            "N": 0.162
+          },
+          {
+            "mois": 19,
+            "A": 0.803,
+            "O": 0.045,
+            "N": 0.152
+          },
+          {
+            "mois": 20,
+            "A": 0.813,
+            "O": 0.046,
+            "N": 0.141
+          },
+          {
+            "mois": 21,
+            "A": 0.821,
+            "O": 0.047,
+            "N": 0.132
+          },
+          {
+            "mois": 22,
+            "A": 0.827,
+            "O": 0.049,
+            "N": 0.124
+          },
+          {
+            "mois": 23,
+            "A": 0.834,
+            "O": 0.05,
+            "N": 0.116
+          },
+          {
+            "mois": 24,
+            "A": 0.839,
+            "O": 0.051,
+            "N": 0.111
+          }
+        ]
+      }
+    },
+    {
+      "angle_id": 2,
+      "formulation": "Comment les habitants de Vuadens peuvent-ils devenir les premiers partenaires des fermes de leur commune sur le chemin du bio ?",
+      "metrics": {
+        "angle_id": 2,
+        "resonance": 5.1,
+        "repartition_initiale": {
+          "porteur": 0,
+          "interesse": 0.461,
+          "indifferent": 0.143,
+          "reticent": 0.396,
+          "opposant": 0
+        },
+        "soutien": {
+          "moyenne": 0.394,
+          "p05": 0.159,
+          "p95": 0.638,
+          "sensibilite": [
+            0.283,
+            0.479
+          ]
+        },
+        "coporteurs": 0,
+        "resistance": {
+          "moyenne": 0.332,
+          "p05": 0.118,
+          "p95": 0.579
+        },
+        "viralite": 0.726,
+        "mois_mi_parcours": 13,
+        "participation": {
+          "avis_en_ligne": 0.26,
+          "atelier": 0,
+          "porteurs_projet": 0
+        },
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "part_initiale_favorable": 0.125,
+          "part_finale_soutien": 0.284,
+          "part_coporteurs": 0
+        }
+      },
+      "diffusion": {
+        "params": {
+          "qA": 0.15,
+          "qO": 0.12
+        },
+        "monthly": [
+          {
+            "mois": 0,
+            "A": 0,
+            "O": 0,
+            "N": 1
+          },
+          {
+            "mois": 1,
+            "A": 0.009,
+            "O": 0.009,
+            "N": 0.982
+          },
+          {
+            "mois": 2,
+            "A": 0.02,
+            "O": 0.018,
+            "N": 0.962
+          },
+          {
+            "mois": 3,
+            "A": 0.032,
+            "O": 0.029,
+            "N": 0.939
+          },
+          {
+            "mois": 4,
+            "A": 0.047,
+            "O": 0.039,
+            "N": 0.913
+          },
+          {
+            "mois": 5,
+            "A": 0.063,
+            "O": 0.05,
+            "N": 0.886
+          },
+          {
+            "mois": 6,
+            "A": 0.077,
+            "O": 0.063,
+            "N": 0.859
+          },
+          {
+            "mois": 7,
+            "A": 0.096,
+            "O": 0.077,
+            "N": 0.827
+          },
+          {
+            "mois": 8,
+            "A": 0.113,
+            "O": 0.09,
+            "N": 0.797
+          },
+          {
+            "mois": 9,
+            "A": 0.129,
+            "O": 0.104,
+            "N": 0.767
+          },
+          {
+            "mois": 10,
+            "A": 0.148,
+            "O": 0.119,
+            "N": 0.734
+          },
+          {
+            "mois": 11,
+            "A": 0.17,
+            "O": 0.136,
+            "N": 0.695
+          },
+          {
+            "mois": 12,
+            "A": 0.19,
+            "O": 0.151,
+            "N": 0.659
+          },
+          {
+            "mois": 13,
+            "A": 0.21,
+            "O": 0.167,
+            "N": 0.623
+          },
+          {
+            "mois": 14,
+            "A": 0.228,
+            "O": 0.184,
+            "N": 0.588
+          },
+          {
+            "mois": 15,
+            "A": 0.248,
+            "O": 0.202,
+            "N": 0.55
+          },
+          {
+            "mois": 16,
+            "A": 0.268,
+            "O": 0.217,
+            "N": 0.515
+          },
+          {
+            "mois": 17,
+            "A": 0.283,
+            "O": 0.232,
+            "N": 0.485
+          },
+          {
+            "mois": 18,
+            "A": 0.299,
+            "O": 0.247,
+            "N": 0.454
+          },
+          {
+            "mois": 19,
+            "A": 0.314,
+            "O": 0.263,
+            "N": 0.423
+          },
+          {
+            "mois": 20,
+            "A": 0.332,
+            "O": 0.279,
+            "N": 0.389
+          },
+          {
+            "mois": 21,
+            "A": 0.349,
+            "O": 0.292,
+            "N": 0.359
+          },
+          {
+            "mois": 22,
+            "A": 0.365,
+            "O": 0.306,
+            "N": 0.329
+          },
+          {
+            "mois": 23,
+            "A": 0.379,
+            "O": 0.318,
+            "N": 0.303
+          },
+          {
+            "mois": 24,
+            "A": 0.394,
+            "O": 0.332,
+            "N": 0.275
+          }
+        ]
+      }
+    },
+    {
+      "angle_id": 3,
+      "formulation": "Quelle terre voulons-nous transmettre à celles et ceux qui cultiveront Vuadens dans trente ans ?",
+      "metrics": {
+        "angle_id": 3,
+        "resonance": 6.1,
+        "repartition_initiale": {
+          "porteur": 0.126,
+          "interesse": 0.337,
+          "indifferent": 0.51,
+          "reticent": 0.027,
+          "opposant": 0
+        },
+        "soutien": {
+          "moyenne": 0.84,
+          "p05": 0.721,
+          "p95": 0.946,
+          "sensibilite": [
+            0.641,
+            0.913
+          ]
+        },
+        "coporteurs": 0,
+        "resistance": {
+          "moyenne": 0.038,
+          "p05": 0,
+          "p95": 0.125
+        },
+        "viralite": 0.878,
+        "mois_mi_parcours": 8,
+        "participation": {
+          "avis_en_ligne": 0.213,
+          "atelier": 0,
+          "porteurs_projet": 0
+        },
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "part_initiale_favorable": 1,
+          "part_finale_soutien": 0.82,
+          "part_coporteurs": 0
+        }
+      },
+      "diffusion": {
+        "params": {
+          "qA": 0.15,
+          "qO": 0.12
+        },
+        "monthly": [
+          {
+            "mois": 0,
+            "A": 0.126,
+            "O": 0,
+            "N": 0.874
+          },
+          {
+            "mois": 1,
+            "A": 0.171,
+            "O": 0.002,
+            "N": 0.827
+          },
+          {
+            "mois": 2,
+            "A": 0.22,
+            "O": 0.004,
+            "N": 0.776
+          },
+          {
+            "mois": 3,
+            "A": 0.27,
+            "O": 0.006,
+            "N": 0.724
+          },
+          {
+            "mois": 4,
+            "A": 0.315,
+            "O": 0.007,
+            "N": 0.678
+          },
+          {
+            "mois": 5,
+            "A": 0.362,
+            "O": 0.009,
+            "N": 0.629
+          },
+          {
+            "mois": 6,
+            "A": 0.406,
+            "O": 0.011,
+            "N": 0.583
+          },
+          {
+            "mois": 7,
+            "A": 0.449,
+            "O": 0.013,
+            "N": 0.538
+          },
+          {
+            "mois": 8,
+            "A": 0.492,
+            "O": 0.016,
+            "N": 0.492
+          },
+          {
+            "mois": 9,
+            "A": 0.533,
+            "O": 0.018,
+            "N": 0.45
+          },
+          {
+            "mois": 10,
+            "A": 0.568,
+            "O": 0.02,
+            "N": 0.412
+          },
+          {
+            "mois": 11,
+            "A": 0.6,
+            "O": 0.022,
+            "N": 0.378
+          },
+          {
+            "mois": 12,
+            "A": 0.633,
+            "O": 0.024,
+            "N": 0.343
+          },
+          {
+            "mois": 13,
+            "A": 0.664,
+            "O": 0.026,
+            "N": 0.311
+          },
+          {
+            "mois": 14,
+            "A": 0.692,
+            "O": 0.027,
+            "N": 0.281
+          },
+          {
+            "mois": 15,
+            "A": 0.716,
+            "O": 0.028,
+            "N": 0.256
+          },
+          {
+            "mois": 16,
+            "A": 0.734,
+            "O": 0.03,
+            "N": 0.237
+          },
+          {
+            "mois": 17,
+            "A": 0.755,
+            "O": 0.031,
+            "N": 0.214
+          },
+          {
+            "mois": 18,
+            "A": 0.773,
+            "O": 0.032,
+            "N": 0.194
+          },
+          {
+            "mois": 19,
+            "A": 0.789,
+            "O": 0.034,
+            "N": 0.177
+          },
+          {
+            "mois": 20,
+            "A": 0.804,
+            "O": 0.035,
+            "N": 0.161
+          },
+          {
+            "mois": 21,
+            "A": 0.815,
+            "O": 0.036,
+            "N": 0.149
+          },
+          {
+            "mois": 22,
+            "A": 0.825,
+            "O": 0.037,
+            "N": 0.138
+          },
+          {
+            "mois": 23,
+            "A": 0.833,
+            "O": 0.037,
+            "N": 0.13
+          },
+          {
+            "mois": 24,
+            "A": 0.84,
+            "O": 0.038,
+            "N": 0.122
+          }
+        ]
+      }
+    },
+    {
+      "angle_id": 4,
+      "formulation": "Comment les fermes de Vuadens peuvent-elles être reconnues par toute la commune pour ce qu'elles apportent aux sols, à l'eau et à la vie sauvage ?",
+      "metrics": {
+        "angle_id": 4,
+        "resonance": 5.9,
+        "repartition_initiale": {
+          "porteur": 0.101,
+          "interesse": 0.422,
+          "indifferent": 0.313,
+          "reticent": 0.164,
+          "opposant": 0
+        },
+        "soutien": {
+          "moyenne": 0.689,
+          "p05": 0.485,
+          "p95": 0.858,
+          "sensibilite": [
+            0.483,
+            0.796
+          ]
+        },
+        "coporteurs": 0,
+        "resistance": {
+          "moyenne": 0.113,
+          "p05": 0.011,
+          "p95": 0.276
+        },
+        "viralite": 0.802,
+        "mois_mi_parcours": 11,
+        "participation": {
+          "avis_en_ligne": 0.124,
+          "atelier": 0,
+          "porteurs_projet": 0
+        },
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "part_initiale_favorable": 0.375,
+          "part_finale_soutien": 0.485,
+          "part_coporteurs": 0
+        }
+      },
+      "diffusion": {
+        "params": {
+          "qA": 0.15,
+          "qO": 0.12
+        },
+        "monthly": [
+          {
+            "mois": 0,
+            "A": 0.101,
+            "O": 0,
+            "N": 0.899
+          },
+          {
+            "mois": 1,
+            "A": 0.127,
+            "O": 0.004,
+            "N": 0.869
+          },
+          {
+            "mois": 2,
+            "A": 0.152,
+            "O": 0.008,
+            "N": 0.839
+          },
+          {
+            "mois": 3,
+            "A": 0.177,
+            "O": 0.013,
+            "N": 0.809
+          },
+          {
+            "mois": 4,
+            "A": 0.206,
+            "O": 0.018,
+            "N": 0.776
+          },
+          {
+            "mois": 5,
+            "A": 0.235,
+            "O": 0.023,
+            "N": 0.742
+          },
+          {
+            "mois": 6,
+            "A": 0.264,
+            "O": 0.029,
+            "N": 0.707
+          },
+          {
+            "mois": 7,
+            "A": 0.295,
+            "O": 0.034,
+            "N": 0.671
+          },
+          {
+            "mois": 8,
+            "A": 0.329,
+            "O": 0.039,
+            "N": 0.632
+          },
+          {
+            "mois": 9,
+            "A": 0.361,
+            "O": 0.045,
+            "N": 0.594
+          },
+          {
+            "mois": 10,
+            "A": 0.39,
+            "O": 0.05,
+            "N": 0.56
+          },
+          {
+            "mois": 11,
+            "A": 0.42,
+            "O": 0.056,
+            "N": 0.524
+          },
+          {
+            "mois": 12,
+            "A": 0.45,
+            "O": 0.062,
+            "N": 0.488
+          },
+          {
+            "mois": 13,
+            "A": 0.478,
+            "O": 0.067,
+            "N": 0.455
+          },
+          {
+            "mois": 14,
+            "A": 0.503,
+            "O": 0.073,
+            "N": 0.425
+          },
+          {
+            "mois": 15,
+            "A": 0.528,
+            "O": 0.078,
+            "N": 0.394
+          },
+          {
+            "mois": 16,
+            "A": 0.55,
+            "O": 0.082,
+            "N": 0.368
+          },
+          {
+            "mois": 17,
+            "A": 0.573,
+            "O": 0.087,
+            "N": 0.341
+          },
+          {
+            "mois": 18,
+            "A": 0.594,
+            "O": 0.092,
+            "N": 0.315
+          },
+          {
+            "mois": 19,
+            "A": 0.613,
+            "O": 0.096,
+            "N": 0.291
+          },
+          {
+            "mois": 20,
+            "A": 0.63,
+            "O": 0.1,
+            "N": 0.271
+          },
+          {
+            "mois": 21,
+            "A": 0.644,
+            "O": 0.104,
+            "N": 0.251
+          },
+          {
+            "mois": 22,
+            "A": 0.66,
+            "O": 0.107,
+            "N": 0.232
+          },
+          {
+            "mois": 23,
+            "A": 0.676,
+            "O": 0.11,
+            "N": 0.214
+          },
+          {
+            "mois": 24,
+            "A": 0.689,
+            "O": 0.113,
+            "N": 0.198
+          }
+        ]
+      }
+    }
+  ],
+  "controle": null,
+  "backtest": {
+    "votes": [
+      {
+        "vote_id": "v2018-equitables",
+        "titre": "Initiative populaire «Pour des denrées alimentaires saines et produites dans des conditions équitables et écologiques (initiative pour des aliments équitables)»",
+        "date": "2018-09-23",
+        "role": "test",
+        "famille": "pro_paysan",
+        "simule_oui": 44.7,
+        "simule_oui_ic90": [
+          39.9,
+          49.7
+        ],
+        "simule_oui_etalonne": null,
+        "simule_participation": 38.5,
+        "simule_participation_ic90": [
+          33.2,
+          43.5
+        ],
+        "simule_participation_etalonnee": 43.9,
+        "reel_oui": 52.1,
+        "reel_participation": 30.7,
+        "ecart_oui": 7.4,
+        "ecart_oui_etalonne": null,
+        "ecart_baseline_canton": 3.4,
+        "ecart_baseline_suisse": 13.4,
+        "ecart_participation": 7.8,
+        "ecart_participation_etalonnee": 13.2,
+        "sens_correct": false,
+        "sens_correct_etalonne": null,
+        "effet_agriculture": "soutien_agriculture",
+        "simule_oui_famille_loo": null,
+        "ecart_oui_famille_loo": null
+      },
+      {
+        "vote_id": "v2018-souverainete",
+        "titre": "Initiative populaire «Pour la souveraineté alimentaire. L'agriculture nous concerne toutes et tous»",
+        "date": "2018-09-23",
+        "role": "test",
+        "famille": "pro_paysan",
+        "simule_oui": 52,
+        "simule_oui_ic90": [
+          46.4,
+          57.5
+        ],
+        "simule_oui_etalonne": null,
+        "simule_participation": 41.5,
+        "simule_participation_ic90": [
+          35.7,
+          47.2
+        ],
+        "simule_participation_etalonnee": 47.2,
+        "reel_oui": 47.3,
+        "reel_participation": 30.8,
+        "ecart_oui": 4.7,
+        "ecart_oui_etalonne": null,
+        "ecart_baseline_canton": 4,
+        "ecart_baseline_suisse": 15.7,
+        "ecart_participation": 10.7,
+        "ecart_participation_etalonnee": 16.4,
+        "sens_correct": false,
+        "sens_correct_etalonne": null,
+        "effet_agriculture": "soutien_agriculture",
+        "simule_oui_famille_loo": null,
+        "ecart_oui_famille_loo": null
+      },
+      {
+        "vote_id": "v2021-eau",
+        "titre": "Initiative populaire «Pour une eau potable propre et une alimentation saine - Pas de subventions pour l'utilisation de pesticides et l'utilisation d'antibiotiques à titre prophylactique»",
+        "date": "2021-06-13",
+        "role": "test",
+        "famille": "ecologie",
+        "simule_oui": 42.9,
+        "simule_oui_ic90": [
+          36.6,
+          49.3
+        ],
+        "simule_oui_etalonne": 50,
+        "simule_participation": 53.1,
+        "simule_participation_ic90": [
+          46.7,
+          58.8
+        ],
+        "simule_participation_etalonnee": 60.5,
+        "reel_oui": 19.6,
+        "reel_participation": 64.4,
+        "ecart_oui": 23.3,
+        "ecart_oui_etalonne": 30.4,
+        "ecart_baseline_canton": 11.6,
+        "ecart_baseline_suisse": 19.7,
+        "ecart_participation": 11.3,
+        "ecart_participation_etalonnee": 3.9,
+        "sens_correct": true,
+        "sens_correct_etalonne": false,
+        "effet_agriculture": "contrainte_agriculture",
+        "simule_oui_famille_loo": 27.6,
+        "ecart_oui_famille_loo": 8
+      },
+      {
+        "vote_id": "v2021-pesticides",
+        "titre": "Initiative populaire «Pour une Suisse libre de pesticides de synthèse»",
+        "date": "2021-06-13",
+        "role": "test",
+        "famille": "ecologie",
+        "simule_oui": 35.9,
+        "simule_oui_ic90": [
+          29.8,
+          42.1
+        ],
+        "simule_oui_etalonne": 42.7,
+        "simule_participation": 55.1,
+        "simule_participation_ic90": [
+          48.6,
+          61
+        ],
+        "simule_participation_etalonnee": 62.7,
+        "reel_oui": 23.4,
+        "reel_participation": 63.3,
+        "ecart_oui": 12.5,
+        "ecart_oui_etalonne": 19.3,
+        "ecart_baseline_canton": 9.5,
+        "ecart_baseline_suisse": 16,
+        "ecart_participation": 8.2,
+        "ecart_participation_etalonnee": 0.6,
+        "sens_correct": true,
+        "sens_correct_etalonne": true,
+        "effet_agriculture": "contrainte_agriculture",
+        "simule_oui_famille_loo": 22.1,
+        "ecart_oui_famille_loo": 1.3
+      },
+      {
+        "vote_id": "v2021-co2",
+        "titre": "Loi fédérale sur la réduction des émissions de gaz à effet de serre (Loi sur le CO2)",
+        "date": "2021-06-13",
+        "role": "test",
+        "famille": "ecologie",
+        "simule_oui": 39.7,
+        "simule_oui_ic90": [
+          33.6,
+          45.3
+        ],
+        "simule_oui_etalonne": 46.7,
+        "simule_participation": 54.7,
+        "simule_participation_ic90": [
+          48.1,
+          59.9
+        ],
+        "simule_participation_etalonnee": 62.3,
+        "reel_oui": 36.9,
+        "reel_participation": 64.4,
+        "ecart_oui": 2.8,
+        "ecart_oui_etalonne": 9.8,
+        "ecart_baseline_canton": 7.5,
+        "ecart_baseline_suisse": 11.5,
+        "ecart_participation": 9.7,
+        "ecart_participation_etalonnee": 2.1,
+        "sens_correct": true,
+        "sens_correct_etalonne": true,
+        "effet_agriculture": "climat_energie",
+        "simule_oui_famille_loo": 43,
+        "ecart_oui_famille_loo": 6.1
+      },
+      {
+        "vote_id": "v2022-elevage",
+        "titre": "Initiative populaire «Non à l'élevage intensif en Suisse (initiative sur l'élevage intensif)»",
+        "date": "2022-09-25",
+        "role": "test",
+        "famille": "ecologie",
+        "simule_oui": 31.6,
+        "simule_oui_ic90": [
+          26.9,
+          36.8
+        ],
+        "simule_oui_etalonne": 38.1,
+        "simule_participation": 43.9,
+        "simule_participation_ic90": [
+          39.6,
+          47.7
+        ],
+        "simule_participation_etalonnee": 50,
+        "reel_oui": 18,
+        "reel_participation": 56.5,
+        "ecart_oui": 13.6,
+        "ecart_oui_etalonne": 20.1,
+        "ecart_baseline_canton": 9.1,
+        "ecart_baseline_suisse": 19.1,
+        "ecart_participation": 12.6,
+        "ecart_participation_etalonnee": 6.5,
+        "sens_correct": true,
+        "sens_correct_etalonne": true,
+        "effet_agriculture": "contrainte_agriculture",
+        "simule_oui_famille_loo": 17.5,
+        "ecart_oui_famille_loo": 0.5
+      },
+      {
+        "vote_id": "v2023-climat",
+        "titre": "Loi fédérale sur les objectifs en matière de protection du climat, sur l'innovation et sur le renforcement de la sécurité énergétique (LCl)",
+        "date": "2023-06-18",
+        "role": "test",
+        "famille": "ecologie",
+        "simule_oui": 54.2,
+        "simule_oui_ic90": [
+          47.4,
+          60.1
+        ],
+        "simule_oui_etalonne": 61.2,
+        "simule_participation": 52.5,
+        "simule_participation_ic90": [
+          48.7,
+          56.3
+        ],
+        "simule_participation_etalonnee": 59.8,
+        "reel_oui": 57.6,
+        "reel_participation": 36.2,
+        "ecart_oui": 3.4,
+        "ecart_oui_etalonne": 3.6,
+        "ecart_baseline_canton": 4.3,
+        "ecart_baseline_suisse": 1.5,
+        "ecart_participation": 16.3,
+        "ecart_participation_etalonnee": 23.6,
+        "sens_correct": true,
+        "sens_correct_etalonne": true,
+        "effet_agriculture": "climat_energie",
+        "simule_oui_famille_loo": 51.3,
+        "ecart_oui_famille_loo": 6.3
+      },
+      {
+        "vote_id": "v2024-biodiversite",
+        "titre": "Initiative populaire «Pour l'avenir de notre nature et de notre paysage (Initiative biodiversité)»",
+        "date": "2024-09-22",
+        "role": "test",
+        "famille": "ecologie",
+        "simule_oui": 41.6,
+        "simule_oui_ic90": [
+          35.8,
+          47.3
+        ],
+        "simule_oui_etalonne": 48.6,
+        "simule_participation": 49.5,
+        "simule_participation_ic90": [
+          45.7,
+          53
+        ],
+        "simule_participation_etalonnee": 56.4,
+        "reel_oui": 27.8,
+        "reel_participation": 46.3,
+        "ecart_oui": 13.8,
+        "ecart_oui_etalonne": 20.8,
+        "ecart_baseline_canton": 6.5,
+        "ecart_baseline_suisse": 9.2,
+        "ecart_participation": 3.2,
+        "ecart_participation_etalonnee": 10.1,
+        "sens_correct": true,
+        "sens_correct_etalonne": true,
+        "effet_agriculture": "contrainte_agriculture",
+        "simule_oui_famille_loo": 23.8,
+        "ecart_oui_famille_loo": 4
+      },
+      {
+        "vote_id": "e2012-residences",
+        "titre": "Initiative populaire «Pour en finir avec les constructions envahissantes de résidences secondaires»",
+        "date": "2012-03-11",
+        "role": "etalonnage",
+        "famille": "ecologie",
+        "simule_oui": 40.9,
+        "simule_oui_ic90": [
+          34.8,
+          47.4
+        ],
+        "simule_oui_etalonne": null,
+        "simule_participation": 37,
+        "simule_participation_ic90": [
+          29.6,
+          44.9
+        ],
+        "simule_participation_etalonnee": null,
+        "reel_oui": 51.2,
+        "reel_participation": 51.6,
+        "ecart_oui": 10.3,
+        "ecart_oui_etalonne": null,
+        "ecart_baseline_canton": 0.4,
+        "ecart_baseline_suisse": 0.6,
+        "ecart_participation": 14.6,
+        "ecart_participation_etalonnee": null,
+        "sens_correct": false,
+        "sens_correct_etalonne": null,
+        "effet_agriculture": null,
+        "simule_oui_famille_loo": null,
+        "ecart_oui_famille_loo": null
+      },
+      {
+        "vote_id": "e2013-amenagement",
+        "titre": "Loi fédérale sur l'aménagement du territoire",
+        "date": "2013-03-03",
+        "role": "etalonnage",
+        "famille": "ecologie",
+        "simule_oui": 57.6,
+        "simule_oui_ic90": [
+          51.6,
+          63.6
+        ],
+        "simule_oui_etalonne": null,
+        "simule_participation": 36.8,
+        "simule_participation_ic90": [
+          29.4,
+          44.1
+        ],
+        "simule_participation_etalonnee": null,
+        "reel_oui": 59.8,
+        "reel_participation": 44,
+        "ecart_oui": 2.2,
+        "ecart_oui_etalonne": null,
+        "ecart_baseline_canton": 3.1,
+        "ecart_baseline_suisse": 3.1,
+        "ecart_participation": 7.2,
+        "ecart_participation_etalonnee": null,
+        "sens_correct": true,
+        "sens_correct_etalonne": null,
+        "effet_agriculture": null,
+        "simule_oui_famille_loo": null,
+        "ecart_oui_famille_loo": null
+      },
+      {
+        "vote_id": "e2016-economie-verte",
+        "titre": "Initiative populaire «Pour une économie durable et fondée sur une gestion efficiente des ressources (économie verte)»",
+        "date": "2016-09-25",
+        "role": "etalonnage",
+        "famille": "ecologie",
+        "simule_oui": 25,
+        "simule_oui_ic90": [
+          19.2,
+          30.7
+        ],
+        "simule_oui_etalonne": null,
+        "simule_participation": 35.5,
+        "simule_participation_ic90": [
+          29.6,
+          41.1
+        ],
+        "simule_participation_etalonnee": null,
+        "reel_oui": 37,
+        "reel_participation": 38.8,
+        "ecart_oui": 12,
+        "ecart_oui_etalonne": null,
+        "ecart_baseline_canton": 0.4,
+        "ecart_baseline_suisse": 0.6,
+        "ecart_participation": 3.3,
+        "ecart_participation_etalonnee": null,
+        "sens_correct": true,
+        "sens_correct_etalonne": null,
+        "effet_agriculture": null,
+        "simule_oui_famille_loo": null,
+        "ecart_oui_famille_loo": null
+      },
+      {
+        "vote_id": "e2016-nucleaire",
+        "titre": "Initiative populaire «Pour la sortie programmée de l'énergie nucléaire»",
+        "date": "2016-11-27",
+        "role": "etalonnage",
+        "famille": "ecologie",
+        "simule_oui": 41.6,
+        "simule_oui_ic90": [
+          35,
+          48.3
+        ],
+        "simule_oui_etalonne": null,
+        "simule_participation": 38.4,
+        "simule_participation_ic90": [
+          31.9,
+          44.3
+        ],
+        "simule_participation_etalonnee": null,
+        "reel_oui": 46.9,
+        "reel_participation": 46.6,
+        "ecart_oui": 5.3,
+        "ecart_oui_etalonne": null,
+        "ecart_baseline_canton": 1.6,
+        "ecart_baseline_suisse": 1.1,
+        "ecart_participation": 8.2,
+        "ecart_participation_etalonnee": null,
+        "sens_correct": true,
+        "sens_correct_etalonne": null,
+        "effet_agriculture": null,
+        "simule_oui_famille_loo": null,
+        "ecart_oui_famille_loo": null
+      },
+      {
+        "vote_id": "e2017-energie",
+        "titre": "Loi sur l'énergie (LEne)",
+        "date": "2017-05-21",
+        "role": "etalonnage",
+        "famille": "ecologie",
+        "simule_oui": 57.8,
+        "simule_oui_ic90": [
+          50.3,
+          65.6
+        ],
+        "simule_oui_etalonne": null,
+        "simule_participation": 42.6,
+        "simule_participation_ic90": [
+          35.3,
+          49.3
+        ],
+        "simule_participation_etalonnee": null,
+        "reel_oui": 61.1,
+        "reel_participation": 33.9,
+        "ecart_oui": 3.3,
+        "ecart_oui_etalonne": null,
+        "ecart_baseline_canton": 2.1,
+        "ecart_baseline_suisse": 2.9,
+        "ecart_participation": 8.7,
+        "ecart_participation_etalonnee": null,
+        "sens_correct": true,
+        "sens_correct_etalonne": null,
+        "effet_agriculture": null,
+        "simule_oui_famille_loo": null,
+        "ecart_oui_famille_loo": null
+      }
+    ],
+    "biais_par_effet_agriculture": {
+      "soutien_agriculture": 0.054,
+      "contrainte_agriculture": -0.772,
+      "climat_energie": 0.01
+    },
+    "etalonnage": {
+      "biais_logit_par_famille": {
+        "ecologie": 0.285
+      },
+      "facteur_participation": 1.139,
+      "n_votes_etalonnage": 5
+    },
+    "synthese": {
+      "n_votes_test": 8,
+      "n_electeurs_panel": 38,
+      "ecart_moyen_oui_brut": 10.2,
+      "ecart_moyen_oui_etalonne": 14.5,
+      "ecart_moyen_oui_baseline_canton": 7,
+      "ecart_moyen_oui_baseline_suisse": 13.3,
+      "ecart_moyen_participation_brut": 10,
+      "ecart_moyen_participation_etalonnee": 9.6,
+      "ecart_moyen_oui_famille_loo": 4.8,
+      "ecart_max_oui_famille_loo": 8,
+      "sens_correct_baseline_toujours_non": "6/8",
+      "sens_correct_baseline_canton": "7/8",
+      "sens_correct_famille_loo": "6/8",
+      "sens_correct_brut": "6/8",
+      "sens_correct_etalonne": "5/8"
+    }
+  },
+  "panel_resume": {
+    "N": 48,
+    "electeurs_federaux": 38,
+    "part_ponderee_etrangers": 0.218,
+    "part_ponderee_65_plus": 0.183,
+    "agriculteurs_dans_panel": 8
+  },
+  "hypotheses": [
+    "Univers du panel : résidents de Vuadens âgés de 16 ans et plus (31.12.2025). Population de référence 2139 (OFS STATPOP 2025 (classes d'âge de 5 ans ; 16-19 ans estimés à 4/5 de la classe 15-19)).",
+    "Agriculteurs suréchantillonnés (8 personas) puis repondérés à leur part réelle (3.0 % des 16 ans et plus, OFS, recensement des exploitations agricoles 2025 (64 emplois agricoles dans la commune, assimilés à des résidents)).",
+    "Sensibilité politique répartie par quotas selon les résultats du Conseil national 2023 dans la commune (OFS, élections au Conseil national 2023, force des partis à Vuadens), appliquée à tous les électeurs non agriculteurs : approximation, car ces parts décrivent les votants, pas l'ensemble du corps électoral. Pour les agriculteurs, sensibilité politique non renseignée, faute de donnée locale : le persona l'infère de son profil.",
+    "Nationalité, sexe et activité professionnelle répartis par quotas pour respecter les proportions malgré la petite taille du panel.",
+    "Composition des ménages et lieux de vie dans la commune : hypothèses génériques, non sourcées.",
+    "Les emplois agricoles situés dans la commune sont assimilés à des résidents actifs dans l'agriculture.",
+    "La répartition des activités professionnelles des résidents non agricoles est une hypothèse (donnée non publiée à l'échelle communale).",
+    "Les taux de bascule mensuels (base) et les coefficients d'influence sociale (qA, qO) sont des hypothèses du modèle, non calibrées sur données réelles à ce stade.",
+    "Une analyse de sensibilité (qA et qO à 50 % et 150 %) encadre les résultats.",
+    "Réseau : chaque persona est relié à ses 4 voisins les plus proches (même lieu de vie, même activité, âge proche), avec 10 % de liens aléatoires.",
+    "État A = soutien à la démarche, état O = opposition active. Les soutiens peu convaincus s'usent (1,5 % par mois retombent en position neutre) ; les porteurs très convaincus (intensité 4 ou 5) et les opposants restent stables.",
+    "Version 2 du modèle : la version 1 saturait (88 % à 99 % de soutien pour tous les angles), car un simple intérêt était traité comme une adhésion quasi certaine.",
+    "Mobilisation : probabilités déclarées par chaque persona, pondérées, converties en habitants sur 2139 résidents de 16 ans et plus. Version corrigée : multipliée par 1.01, rapport entre la participation réelle et la participation déclarée par le panel sur les 8 votations de test. Cette correction suppose que le panel surestime sa venue à un atelier comme il surestime son vote, ce qui reste à vérifier : la participation à un atelier est probablement plus surestimée encore."
+  ],
+  "mobilisation": {
+    "population_16_plus": 2139,
+    "facteur_realisme_votations": 1.01,
+    "formats_preferes": {
+      "avis_en_ligne": 0.951,
+      "atelier_presentiel": 0.027,
+      "parcours_distance": 0.022,
+      "aucun": 0
+    },
+    "angles": [
+      {
+        "angle_id": 1,
+        "formats": {
+          "avis_en_ligne": {
+            "part": 0.117,
+            "ic90": [
+              0.101,
+              0.133
+            ],
+            "habitants": 250,
+            "habitants_corriges": 252
+          },
+          "atelier_presentiel": {
+            "part": 0.034,
+            "ic90": [
+              0.028,
+              0.04
+            ],
+            "habitants": 73,
+            "habitants_corriges": 74
+          },
+          "parcours_distance": {
+            "part": 0.037,
+            "ic90": [
+              0.032,
+              0.043
+            ],
+            "habitants": 80,
+            "habitants_corriges": 81
+          },
+          "atelier_si_invite_par_un_proche": {
+            "part": 0.102,
+            "ic90": [
+              0.086,
+              0.119
+            ],
+            "habitants": 217,
+            "habitants_corriges": 219
+          }
+        },
+        "effet_invitation": 3,
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "avis_en_ligne": 0.12,
+          "atelier_presentiel": 0.034,
+          "parcours_distance": 0.039,
+          "atelier_si_invite_par_un_proche": 0.082
+        }
+      },
+      {
+        "angle_id": 2,
+        "formats": {
+          "avis_en_ligne": {
+            "part": 0.08,
+            "ic90": [
+              0.067,
+              0.094
+            ],
+            "habitants": 170,
+            "habitants_corriges": 172
+          },
+          "atelier_presentiel": {
+            "part": 0.022,
+            "ic90": [
+              0.019,
+              0.026
+            ],
+            "habitants": 47,
+            "habitants_corriges": 48
+          },
+          "parcours_distance": {
+            "part": 0.027,
+            "ic90": [
+              0.023,
+              0.032
+            ],
+            "habitants": 58,
+            "habitants_corriges": 59
+          },
+          "atelier_si_invite_par_un_proche": {
+            "part": 0.072,
+            "ic90": [
+              0.061,
+              0.084
+            ],
+            "habitants": 154,
+            "habitants_corriges": 155
+          }
+        },
+        "effet_invitation": 3.27,
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "avis_en_ligne": 0.038,
+          "atelier_presentiel": 0.013,
+          "parcours_distance": 0.016,
+          "atelier_si_invite_par_un_proche": 0.035
+        }
+      },
+      {
+        "angle_id": 3,
+        "formats": {
+          "avis_en_ligne": {
+            "part": 0.063,
+            "ic90": [
+              0.048,
+              0.081
+            ],
+            "habitants": 135,
+            "habitants_corriges": 136
+          },
+          "atelier_presentiel": {
+            "part": 0.021,
+            "ic90": [
+              0.017,
+              0.026
+            ],
+            "habitants": 45,
+            "habitants_corriges": 45
+          },
+          "parcours_distance": {
+            "part": 0.025,
+            "ic90": [
+              0.02,
+              0.031
+            ],
+            "habitants": 54,
+            "habitants_corriges": 55
+          },
+          "atelier_si_invite_par_un_proche": {
+            "part": 0.055,
+            "ic90": [
+              0.045,
+              0.066
+            ],
+            "habitants": 119,
+            "habitants_corriges": 120
+          }
+        },
+        "effet_invitation": 2.62,
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "avis_en_ligne": 0.111,
+          "atelier_presentiel": 0.032,
+          "parcours_distance": 0.043,
+          "atelier_si_invite_par_un_proche": 0.085
+        }
+      },
+      {
+        "angle_id": 4,
+        "formats": {
+          "avis_en_ligne": {
+            "part": 0.071,
+            "ic90": [
+              0.054,
+              0.091
+            ],
+            "habitants": 152,
+            "habitants_corriges": 154
+          },
+          "atelier_presentiel": {
+            "part": 0.023,
+            "ic90": [
+              0.017,
+              0.03
+            ],
+            "habitants": 49,
+            "habitants_corriges": 50
+          },
+          "parcours_distance": {
+            "part": 0.023,
+            "ic90": [
+              0.019,
+              0.027
+            ],
+            "habitants": 49,
+            "habitants_corriges": 49
+          },
+          "atelier_si_invite_par_un_proche": {
+            "part": 0.063,
+            "ic90": [
+              0.049,
+              0.079
+            ],
+            "habitants": 135,
+            "habitants_corriges": 137
+          }
+        },
+        "effet_invitation": 2.74,
+        "acteurs_cles": {
+          "groupe": "agriculteurs",
+          "n": 8,
+          "avis_en_ligne": 0.079,
+          "atelier_presentiel": 0.021,
+          "parcours_distance": 0.033,
+          "atelier_si_invite_par_un_proche": 0.054
+        }
+      }
+    ],
+    "note": "Mobilisation : probabilités déclarées par chaque persona, pondérées, converties en habitants sur 2139 résidents de 16 ans et plus. Version corrigée : multipliée par 1.01, rapport entre la participation réelle et la participation déclarée par le panel sur les 8 votations de test. Cette correction suppose que le panel surestime sa venue à un atelier comme il surestime son vote, ce qui reste à vérifier : la participation à un atelier est probablement plus surestimée encore."
+  }
+}

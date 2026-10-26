@@ -1,0 +1,17 @@
+{
+  "id": "p09",
+  "reaction": {
+    "position": "opposant",
+    "intensite": 3,
+    "citation": "On décide à la commune ce que les paysans doivent cultiver, et ce sont eux qui portent le risque financier, pas ceux qui signent les décisions.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je ne suis pas agriculteur et je n'ai pas de terres à convertir, donc ça ne me concerne pas directement",
+      "La décision vient d'en haut, sans que les exploitants de Vuadens aient été consultés",
+      "Le bio rend moins et coûte plus cher : sans prix garanti, c'est le paysan qui paie la différence",
+      "Je me méfie des objectifs chiffrés fixés à dix ans, on sait ce que valent ce genre de promesses",
+      "Mon travail à l'usine me laisse peu de temps pour des ateliers ou des réunions communales"
+    ],
+    "ce_qui_me_ferait_venir": "Que la commune montre les chiffres (rendements, prix d'achat garantis, coûts de transition) et qu'elle parte d'un échange avec les paysans du village plutôt que d'un objectif décidé au Conseil. Si personne n'est mis en difficulté, je peux venir écouter."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "p11",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Le Gripen ne touche pas à nos affaires, c'est une histoire d'armée et d'avions. Je suis plutôt pour garder une défense crédible, mais je ne suis pas passionné, donc je ne me déplacerais pas forcément."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.3,
+      "oui_proba": 0.5,
+      "raison": "Le mariage et la famille relèvent de valeurs que je comprends, mais cela ne me concerne pas beaucoup au quotidien. Je pencherais pour le oui, sans être très engagé."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "L'AVS, il faudra bien la financer, et beaucoup de paysans comptent sur elle. Mais une TVA qui monte pèse sur tout le monde, et le relèvement de l'âge de la retraite des femmes ne passe pas facilement chez nous, donc j'hésite."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "La Constitution doit primer sur les juges étrangers, on ne va pas se laisser dicter nos lois depuis Bruxelles ou Strasbourg. C'est une question de souveraineté, et je voterais oui pour que les décisions restent chez nous."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je suis attaché à l'autonomie de la Suisse, mais la fin de la libre circulation toucherait nos accords avec l'Union européenne et la main-d'œuvre saisonnière dont on a besoin dans l'agriculture. J'hésite, mais je pencherais plutôt pour le non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Une armée qui tient debout, ça compte, et remplacer les vieux avions est un choix raisonnable, même si le montant est élevé. Je ne suis pas spécialiste, mais je soutiens la défense du pays."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Les animaux de laboratoire ne me concernent pas directement, et la recherche médicale a besoin de ces essais pour sauver des vies. Je serais plutôt contre une interdiction générale, sans trop m'y intéresser."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.9,
+      "oui_proba": 0.05,
+      "raison": "C'est mon métier : ces exigences toucheraient directement mes bâtiments et mes vaches, avec des coûts que je ne pourrais pas répercuter sur le prix du lait. Je vote non, sans hésiter."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "L'AVS est importante pour tous les indépendants, et les mesures de compensation pour les femmes me semblent justes. Mais c'est encore une hausse de TVA, donc je suis partagé, avec une légère préférence pour le oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "La neutralité fait partie de notre identité, et je ne veux pas qu'on nous entraîne dans une alliance militaire. Je pencherais pour le oui, d'autant que des sanctions peuvent aussi peser sur nos exportations de fromage."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.25,
+      "raison": "Produire davantage en Suisse, je suis d'accord, mais l'initiative veut moins d'aliments d'origine animale et moins de produits phytosanitaires, donc c'est mon lait et mes prairies qui seraient visés. Je voterais non, parce que ça met en cause notre modèle d'élevage."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Financer la 13e rente AVS, c'est une bonne chose pour les retraités, et l'exemption des denrées alimentaires me rassure. Une TVA plus haute reste une charge en plus, donc je pencherais pour le oui sans enthousiasme."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.3,
+      "oui_proba": 0.45,
+      "raison": "Les pétards font paniquer les vaches, je le vois chaque 1er août, mais les fêtes du village comptent beaucoup pour nous. Je suis partagé, et je ne suis pas sûr d'aller voter sur ce sujet."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Je ne suis pas sûr de bien mesurer l'enjeu, et ça ne me touche pas directement. Un retour à l'imposition commune se défend pour les couples mariés, mais je ne me suis pas beaucoup penché dessus."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Exporter des armes vers des pays en conflit me gêne, et la neutralité devrait passer avant les intérêts économiques. Je ne me sens pas très concerné, donc je ne suis pas sûr d'aller voter."
+    }
+  ]
+}

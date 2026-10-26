@@ -1,0 +1,15 @@
+{
+  "id": "p51",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "À 45 ans, seul et sans lien particulier avec le site de Sauvabelin, il ne se sent pas concerné par l'avenir de l'Auberge et l'atelier du samedi après-midi ne l'attire pas."},
+    {"item_id": "lau01", "participe_proba": 0.05, "partage_proba": 0.03, "raison": "Premier budget participatif dont il entend parler de loin ; voter pour des projets de quartier lui semble lointain et il ne se connecte pas à une plateforme pour une nouveauté."},
+    {"item_id": "lau02", "participe_proba": 0.06, "partage_proba": 0.03, "raison": "En pleine pandémie, à 48 ans, il travaille en atelier, les stands du marché passent sans qu'il s'arrête et il ne pense pas à voter en ligne."},
+    {"item_id": "lau10", "participe_proba": 0.10, "partage_proba": 0.05, "raison": "Le sondage en ligne de cinq minutes peut l'intéresser par curiosité pour son quartier, mais les balades et les soirées d'information sur inscription ne lui disent rien."},
+    {"item_id": "lau03", "participe_proba": 0.18, "partage_proba": 0.08, "raison": "Le bulletin affranchi arrive dans sa boîte aux lettres, ce qui facilite le vote, mais choisir trois projets de quartier demande du temps qu'il n'a pas toujours."},
+    {"item_id": "lau08", "participe_proba": 0.08, "partage_proba": 0.04, "raison": "Il passe rarement sur les quais d'Ouchy, et un questionnaire d'un mois sur la fermeture au trafic ne le mobilise que si le sujet le touche directement."},
+    {"item_id": "lau04", "participe_proba": 0.18, "partage_proba": 0.08, "raison": "Le bulletin préaffranchi reçu début novembre lui permet de voter sans effort, il le remplit parfois selon les projets, mais il ne suit pas la campagne."},
+    {"item_id": "lau09", "participe_proba": 0.10, "partage_proba": 0.06, "raison": "Sensible aux discriminations par ses convictions de gauche, il aurait pu répondre au questionnaire, mais l'annonce lui a peu parlé et il ne consulte pas la plateforme Lausanne participe."},
+    {"item_id": "lau05", "participe_proba": 0.18, "partage_proba": 0.08, "raison": "Le bulletin nominatif arrive à domicile et il le retourne parfois, mais il ne suit pas les projets en détail et l'automne chargé au travail lui fait oublier le délai."},
+    {"item_id": "lau06", "participe_proba": 0.16, "partage_proba": 0.07, "raison": "Il reçoit le bulletin et vote de temps en temps selon les projets, mais les propositions de cette sixième édition ne l'ont pas accroché."}
+  ]
+}

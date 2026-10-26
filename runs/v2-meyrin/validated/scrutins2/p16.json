@@ -1,0 +1,197 @@
+{
+  "id": "p16",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je n'aime pas une hausse de TVA, mais l'AVS a besoin de financement, donc je suis partagé et je pèse surtout le coût pour les ménages."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Une hausse temporaire pour assainir l'AI me paraît raisonnable si elle est limitée dans le temps, et les grands partis la soutiennent."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Le sujet des armes me touche, mais une interdiction totale pénaliserait les emplois de l'industrie suisse et je n'y vois pas de solution simple."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je tiens au système de milice, qui relie l'armée à la société civile, et je ne vois pas d'intérêt à le remplacer par un simple volontariat."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Meyrin vit de la présence d'étrangers et de frontaliers, et les quotas ou la fin de la libre circulation me semblent trop risqués, même si la pression sur les immeubles et les transports est réelle."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "L'armée doit disposer de moyens modernes, et un financement par le budget militaire sans nouvelle taxe me paraît acceptable."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je comprends le problème de la pénalisation fiscale des couples mariés, mais inscrire une définition du mariage dans la Constitution ne règle pas la question des impôts."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je veux une réforme des retraites qui tienne financièrement, mais la hausse de TVA pèse sur tous les ménages et je reste réservé sur le relèvement de l'âge des femmes."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être animal me parle, mais une subvention fédérale versée aux éleveurs qui gardent les cornes me paraît un mauvais usage de l'argent public."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je suis attaché aux accords avec l'Union européenne et au droit international qui protègent nos entreprises, et primer la Constitution sur tous les traités me paraît risqué pour l'économie."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "La reprise des règles européennes sur les armes fait partie de Schengen, et les exceptions pour les tireurs et l'arme d'ordonnance me paraissent pragmatiques."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "La densité et le logement posent question à Meyrin, mais mettre fin à la libre circulation menacerait les accords bilatéraux dont dépend mon activité."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Le loup inquiète les éleveurs de la région, et je trouve raisonnable de pouvoir réguler une espèce quand elle cause des dégâts, à condition que ce soit encadré."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "La Suisse doit renouveler son aviation de combat, et le plafond de 6 milliards encadre la dépense, même si le coût reste élevé."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Interdire aux banques et aux caisses de pension de financer l'industrie de l'armement me paraît excessif, car cela touche aussi des entreprises sérieuses qui contribuent à notre sécurité."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "La qualité de l'eau et de l'alimentation me préoccupe, mais lier tous les paiements directs à des critères aussi stricts me paraît trop contraignant pour les exploitations."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "La santé des sols et de l'eau compte pour moi, mais bannir les pesticides de synthèse et leurs importations en dix ans serait brutal pour l'agriculture et pour les prix."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je ne vois pas pourquoi deux personnes de même sexe ne pourraient pas se marier civilement, c'est une évolution normale de notre société."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "La recherche médicale et la sécurité des produits en dépendent, et une interdiction totale de l'expérimentation animale et humaine me paraît irréaliste."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Contribuer à la protection des frontières extérieures de Schengen me paraît nécessaire pour garder la libre circulation, à laquelle je tiens."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être animal compte, mais imposer les normes Bio à toutes les importations avec une transition de 25 ans fait peser une charge trop lourde sur les prix."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je veux une AVS financée durablement, et le relèvement de l'âge de référence des femmes fait partie d'une réforme équilibrée qui limite la hausse de la TVA."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "La nature autour de Meyrin mérite d'être protégée, mais l'initiative demande beaucoup plus de surfaces et de moyens, et je crains des contraintes trop fortes sur les constructions."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "L'imposition individuelle me paraît plus juste pour les couples où les deux revenus comptent, même si je ne suis pas certain de son effet exact sur ma situation."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Je trouve juste que les militaires incorporés ne puissent pas passer facilement au service civil pour fuir l'armée, car la milice doit rester équitable."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "La croissance de la population pèse vraiment sur les logements, les transports et les écoles à Meyrin, mais je reste opposé à dénoncer la libre circulation, base de nos accords avec l'Union européenne."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La neutralité est une valeur forte en Suisse et à Genève, mais une neutralité perpétuelle et armée rigide limiterait les sanctions et la médiation, ce qui pèse sur notre place économique."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Manger plus local et moins de viande me paraît souhaitable, mais viser 70 % d'autoproduction en dix ans est irréaliste et ferait fortement monter les prix."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "La 13e rente AVS est un acquis et la financer en partie par la TVA se défend, mais une hausse de 0,4 point pèse sur tous les ménages, et je reste partagé."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Le bruit des pétards gêne vraiment les immeubles, mais interdire la vente à tout le monde me paraît disproportionné, et je préférerais des règles locales."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "L'imposition individuelle vient d'être acceptée par le peuple et ne doit pas être défaite aussitôt, même si l'idée d'un allègement pour les couples mariés peut séduire."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Une livraison à un partenaire compatible avec notre neutralité est pragmatique et l'industrie de défense a besoin de règles claires, mais je reste attentif au risque de réexportation."
+    }
+  ]
+}

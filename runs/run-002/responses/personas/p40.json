@@ -1,0 +1,127 @@
+{
+  "id": "p40",
+  "portrait": "Je suis Suisse, j'ai 38 ans et je travaille comme technicienne dans une entreprise de la zone industrielle de Vuadens. J'élève seule mes enfants dans un quartier résidentiel récent et je me sens proche du Centre : je tiens à ce que les emplois restent ici et au monde paysan qui fait vivre le village, mais je n'ai pas beaucoup de temps pour les débats politiques.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Les paysans de chez nous doivent pouvoir gagner leur vie, c'est eux qui entretiennent le village. Si le bio les aide, tant mieux, mais ce n'est pas à eux de payer toute la transition. »",
+      "engagement": 1,
+      "freins_participation": ["Pas le temps avec mes enfants et mes horaires d'usine", "Les réunions du soir sont difficiles à caser", "Le sentiment que les décisions sont déjà prises ailleurs"],
+      "ce_qui_me_ferait_venir": "Une rencontre à l'école avec une garde d'enfants prévue, et un agriculteur de la commune qui explique concrètement ce que le bio change pour ses comptes."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Acheter local, je veux bien, mais avec un seul salaire, le bio, je regarde d'abord le prix. C'est facile à dire quand on a le temps et l'argent. »",
+      "engagement": 1,
+      "freins_participation": ["Le budget des courses est serré", "Je me sens visée par un discours sur ce que doivent faire les habitants", "Je n'ai pas de temps libre en semaine"],
+      "ce_qui_me_ferait_venir": "Une vente directe à la fromagerie ou un panier à un prix raisonnable, avec un format court le soir ou le samedi matin."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais moi je pense à demain matin, à l'école et au travail. Dans trente ans, je verrai bien. »",
+      "engagement": 0,
+      "freins_participation": ["Le sujet me paraît trop abstrait", "Je n'ai pas de temps à consacrer à des débats de long terme", "Le sentiment que ce genre de démarche ne change rien pour les gens comme moi"],
+      "ce_qui_me_ferait_venir": "Une question concrète sur ce que mes enfants mangeront et verront comme paysage au bout de la rue, avec un format bref et proche de chez moi."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Les fermes, on les voit tous les jours, pas besoin d'une étiquette pour savoir ce qu'elles font. Ces reconnaissances, ça vient souvent de la ville. »",
+      "engagement": 0,
+      "freins_participation": ["Méfiance envers les démarches venues d'en haut", "L'idée d'un classement ou d'un label me paraît compliquée", "Je ne vois pas ce que j'y gagne"],
+      "ce_qui_me_ferait_venir": "Rien de particulier, sinon la certitude que ça ne coûte rien aux paysans ni aux habitants et que ça ne sert pas de vitrine."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 9,
+    "role": "suiveur",
+    "cercle_type": "Cercle familial proche (mes parents et une sœur qui habitent à proximité), quelques collègues d'atelier, des parents d'élèves du quartier avec qui j'échange dans le groupe de classe, et deux ou trois voisins de la rue. Presque aucun contact direct avec des agriculteurs, sauf via l'école."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas contre le paysage, mais une règle nationale en pourcentages ne me convainc pas, et je pense surtout à ceux qui cherchent un logement ici."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Il faut bien que la zone industrielle puisse grandir si on veut garder les emplois ici, mais je suis d'accord pour arrêter de bétonner les champs à tout va."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Une empreinte d'une planète d'ici 2050, ça sonne bien, mais ça veut dire quoi pour mon usine et pour les emplois de la région ? Les objectifs ne doivent pas se faire au détriment de ceux qui travaillent."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas à l'aise avec le nucléaire, mais je ne veux pas non plus de coupures ni de factures qui explosent du jour au lendemain."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les énergies renouvelables et les économies d'énergie, pourquoi pas, à condition que ça ne fasse pas grimper la facture et que le courant reste disponible."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Manger sain et dans de bonnes conditions, bien sûr, mais imposer des règles aux produits importés risque de faire monter les prix, et je pense aux fins de mois."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Je suis pour protéger la production d'ici et pour que les paysans de la région puissent vivre de leur travail, c'est le plus important pour le village."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "L'eau propre, c'est important pour mes enfants, mais lier les paiements directs à des règles très strictes sur les fermes met les éleveurs de chez nous en difficulté."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je comprends l'envie d'un monde sans pesticides de synthèse, mais une interdiction sans transition ni contrôle des importations pénalise d'abord nos paysans."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Taxer les billets d'avion et l'essence pèse sur les gens comme moi, qui doivent prendre la voiture pour aller travailler et n'ont pas de marge. Le climat, oui, mais pas comme ça."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Les animaux doivent être bien traités, personne n'en doute, mais imposer ces exigences aux importations, avec une transition de 25 ans, ce sont nos éleveurs qui trinqueraient."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Les aides pour changer une vieille chaudière m'intéresseraient, mais zéro émission nette d'ici 2050, je veux savoir qui va payer au bout du compte."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "La nature, je suis pour la protéger, mais pas si ça veut dire moins de terres cultivables pour les paysans du coin et des règles supplémentaires pour ceux qui exploitent la terre."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p04",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Fixer un objectif à dix ans, c'est facile pour la commune, mais les paysans doivent y trouver leur compte, sinon on leur impose encore une règle venue d'en haut.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je me méfie des programmes décidés d'en haut, et un objectif chiffré fixé par la commune me donne l'impression qu'on a déjà choisi à ma place",
+      "Je ne sais pas qui paie la conversion : si elle coûte cher aux exploitations, elle ne tiendra pas sur la durée",
+      "Je ne suis pas militant et je ne vais pas à toutes les séances, donc il faut un format simple et peu fréquent",
+      "Mon travail dans la santé et le social me laisse peu de disponibilité en soirée"
+    ],
+    "ce_qui_me_ferait_venir": "Un échange au centre du village où les agriculteurs expliquent leurs chiffres, ce que la conversion leur coûte et ce qu'elle leur rapporte, avec un débouché garanti à un prix correct, la fromagerie villageoise associée au projet, et une participation laissée libre plutôt qu'un objectif imposé."
+  }
+}

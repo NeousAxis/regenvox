@@ -1,0 +1,25 @@
+{
+  "id": "p37",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Surveillance et Palantir m'inquiètent, mais c'est une affaire d'étudiant·es de l'EPFL et je ne me sens pas concernée."},
+    {"item_id": "pet02", "participe_proba": 0.3, "partage_proba": 0.35, "raison": "Les canicules de cet été m'ont marquée et je suis proche des revendications climatiques, mais une lettre ouverte est un geste que je fais rarement."},
+    {"item_id": "pet03", "participe_proba": 0.2, "partage_proba": 0.2, "raison": "Je suis hostile à cette initiative et au traitement réservé aux personnes sans papiers, mais je ne signe qu'une petite partie des appels Campax que je reçois."},
+    {"item_id": "pet04", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "C'est une affaire genevoise dans un climat politique très polarisé, je ne connais pas le dossier et je préfère ne pas m'engager sur un procès."},
+    {"item_id": "pet05", "participe_proba": 0.06, "partage_proba": 0.08, "raison": "Les risques pour les jeunes me préoccupent en tant que parent, mais la pétition vise le canton de Genève et je n'y vis pas."},
+    {"item_id": "pet06", "participe_proba": 0.08, "partage_proba": 0.1, "raison": "Le lien entre climat et caisses de pension m'intéresse, mais le titre en anglais et le public visé m'éloignent un peu du sujet."},
+    {"item_id": "pet07", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Le texte se présente lui-même comme fictif, et même si la question de l'assurance-maladie me touche, je ne vois pas d'effet concret à une telle pétition."},
+    {"item_id": "pet08", "participe_proba": 0.05, "partage_proba": 0.04, "raison": "La question des retraites me concerne peu aujourd'hui, et je ne partage pas forcément la vision fiscale des Jeunes Vert'libéraux."},
+    {"item_id": "pet09", "participe_proba": 0.01, "partage_proba": 0.01, "raison": "Je ne vis pas à Versoix, la pétition s'adresse aux habitant·es de cette commune genevoise et ne me concerne pas."},
+    {"item_id": "pet10", "participe_proba": 0.14, "partage_proba": 0.2, "raison": "Le vide juridique après le décès d'un enfant en cours de grossesse me touche et je comprends la demande, mais je ne suis pas directement concernée."},
+    {"item_id": "pet11", "participe_proba": 0.12, "partage_proba": 0.1, "raison": "Les délais pour obtenir une psychothérapie me semblent un vrai problème et la motion risque de les allonger, mais je ne suis pas du milieu."},
+    {"item_id": "pet12", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Une ferme d'agrumes est une belle curiosité, mais Borex est loin de Yverdon et je ne connais pas le dossier communal."},
+    {"item_id": "pet13", "participe_proba": 0.1, "partage_proba": 0.12, "raison": "Le manque de places d'accueil pour les femmes victimes de violence me révolte, mais la demande vise le canton du Jura, où je ne vis pas."},
+    {"item_id": "pet14", "participe_proba": 0.05, "partage_proba": 0.05, "raison": "La chaleur en ville me parle, mais la pétition concerne Lausanne, une ville que je ne fréquente pas beaucoup."},
+    {"item_id": "pet15", "participe_proba": 0.18, "partage_proba": 0.2, "raison": "Le sort des réfugié·es me touche et les renvois vers le Burundi m'inquiètent, mais je n'ai pas de lien direct avec ces personnes."},
+    {"item_id": "pet16", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "La formation à temps partiel peut intéresser des jeunes en situation de handicap, mais le thème me touche peu directement."},
+    {"item_id": "pet17", "participe_proba": 0.2, "partage_proba": 0.25, "raison": "Des femmes filmées à leur insu avec des lunettes connectées est une atteinte que je ne veux pas voir banalisée, et Campax touche un large public."},
+    {"item_id": "pet18", "participe_proba": 0.15, "partage_proba": 0.2, "raison": "Les vagues de chaleur de cet été me préoccupent et je partage l'essentiel des revendications, mais cet appel général ne me pousse pas à signer."},
+    {"item_id": "pet19", "participe_proba": 0.22, "partage_proba": 0.2, "raison": "Protéger les forêts face aux incendies me touche et je suis contre les coupes budgétaires évoquées, mais je ne signe qu'une partie des pétitions environnementales."},
+    {"item_id": "pet20", "participe_proba": 0.18, "partage_proba": 0.3, "raison": "Les abus facilités par la drogue me font peur en tant que femme et une task force nationale me paraît concrète, donc je la signerais peut-être si je la voyais passer."}
+  ]
+}

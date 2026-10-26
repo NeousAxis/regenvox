@@ -1,0 +1,29 @@
+{
+  "id": "p10",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.72,
+      "raison": "Je suis proche du PS et je trouve injuste qu'une contraception ne soit pas remboursée alors que d'autres soins le sont, même si je ne suis plus directement concerné, et 20 millions me paraissent un coût acceptable."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Le bus à haut niveau de service et le prolongement du tram me semblent utiles pour désengorger la circulation autour d'Onex et la part suisse reste minoritaire, mais le refus de 2014 me rend méfiant face à un financement d'infrastructures en France, donc je reste mitigé."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Dans un grand ensemble, les logements restent surtout locatifs et je crains que la vente à l'occupant ne fasse partir les autres habitants ou ne réduise l'offre de logements abordables, comme le demandent le PS et l'ASLOCA, donc je vote non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas convaincu qu'il faille réduire le financement de la HES-SO Genève alors que le comité référendaire demande de maintenir 35 millions et que le PS appelle au non, ce qui me fait pencher pour le non sans grande conviction."
+    }
+  ]
+}

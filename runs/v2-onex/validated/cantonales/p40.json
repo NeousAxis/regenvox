@@ -1,0 +1,29 @@
+{
+  "id": "p40",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "Mon parti, les Vert'libéraux, dit non, et 20 millions par an sans condition de revenu me paraissent beaucoup pour un canton qui doit déjà boucler son budget, même si je sais qu'une pilule ou un stérilet pèse lourd quand on vit seule avec ses charges."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Les Vert'libéraux et le PLR disent oui, et avec les bouchons du matin autour d'Onex et les camions de chantier que je croise chaque jour, un tram et des parkings-relais qui désengorgent la frontière me semblent utiles, même si payer des projets en France reste difficile à accepter."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Les Vert'libéraux, le PLR et le MCG disent oui, et je comprends l'envie des locataires de devenir propriétaires de leur logement après des années de loyer, mais je crains que des congés-vente ne fassent partir les autres habitants de l'immeuble, ce qui me rend hésitante."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le PLR, l'UDC et les Vert'libéraux soutiennent ce contrat, et une baisse de deux millions par an me paraît raisonnable pour une haute école dont je ne suis pas les comptes de près, même si je n'ai pas suivi ce dossier en détail."
+    }
+  ]
+}

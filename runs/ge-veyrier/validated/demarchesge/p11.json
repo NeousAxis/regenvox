@@ -1,0 +1,11 @@
+{
+  "id": "p11",
+  "reactions": [
+    {
+      "item_id": "gen10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je suis en formation, je vis seul et je n'ai jamais vu d'invitation pour ce projet de quartier qui ne me concerne pas directement, donc je n'y suis probablement pas allé et je n'en ai sans doute pas parlé autour de moi."
+    }
+  ]
+}

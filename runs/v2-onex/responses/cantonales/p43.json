@@ -1,0 +1,29 @@
+{
+  "id": "p43",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Je ne veux pas que l'État paie la contraception de tout le monde, c'est une dépense de plus pour les contribuables et la responsabilité personnelle doit primer, comme le disent l'UDC et le MCG."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je n'ai pas envie de payer pour des projets en France, le peuple l'a déjà refusé en 2014, et l'UDC laisse la liberté de vote, donc je vote probablement non, même si les bouchons me coûtent du temps sur les chantiers."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Devenir propriétaire de son logement serait une bonne chose pour une famille, mais je crains le retour des congés-ventes et moins de logements locatifs abordables à Onex, et l'UDC dit non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Je me range au compromis à 33,4 millions, plus raisonnable que les 35 millions demandés par le comité, même si j'aurais préféré que l'argent aille d'abord à l'apprentissage."
+    }
+  ]
+}

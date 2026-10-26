@@ -1,0 +1,113 @@
+{
+  "id": "p35",
+  "portrait": "J'ai 42 ans et je travaille dans l'industrie, en atelier, comme technicienne. Je vis à Vuadens avec mon compagnon et nos enfants, dans un quartier résidentiel récent, et je me reconnais dans l'UDF : la famille, le travail bien fait et les valeurs chrétiennes comptent beaucoup pour moi. Je me méfie des grandes décisions prises de loin, par des gens qui n'ont pas à boucler le budget du mois.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Que nos paysans puissent vivre de leur travail, ça me parle. Le bio, s'ils le choisissent, pourquoi pas, mais qu'on ne me le fasse pas passer pour une obligation. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne connais pas grand-chose à l'agriculture et j'ai peur de me sentir dépassée face aux spécialistes",
+        "Mes horaires en équipes à l'usine me laissent peu de soirs libres",
+        "Les enfants et la maison passent avant le reste"
+      ],
+      "ce_qui_me_ferait_venir": "Un échange concret avec des agriculteurs de la commune qui expliquent leurs comptes sans jargon, un soir où je peux venir avec les enfants ou avec un repas prévu."
+    },
+    {
+      "angle_id": 2,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Acheter directement chez nos paysans, je le fais déjà quand j'ai le temps. Mais je ne veux pas payer plus cher pour faire plaisir à une commission. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Mes horaires ne me laissent pas toujours le temps d'aller à la ferme",
+        "Le budget du ménage, quand les produits bio coûtent davantage",
+        "Le sentiment que la commune veut dicter ce que les gens doivent manger"
+      ],
+      "ce_qui_me_ferait_venir": "Des points de vente simples, à deux pas du quartier, avec des prix clairs pour les familles, présentés par les fermes elles-mêmes."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Ce que je veux laisser à mes enfants, c'est une terre qui nourrit encore. Cette question me touche plus que n'importe quel chiffre. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas comment me faire entendre sans passer mes soirées en réunion",
+        "Les enfants me prennent beaucoup de temps",
+        "L'impression que ces démarches participatives finissent souvent sans suite"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier où l'on demande aux familles ce qu'elles veulent pour le village, avec un engagement clair sur les suites données, et où les enfants sont accueillis."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les paysans font déjà beaucoup pour les champs et les ruisseaux, il faudrait simplement le dire et le montrer. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne lis pas beaucoup les bulletins communaux",
+        "Je n'ai pas le réflexe de participer aux démarches de la commune",
+        "Cela me paraît surtout concerner ceux qui travaillent dans l'agriculture"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ou une information claire dans la boîte aux lettres, qui montre ce que font concrètement les exploitations de la commune."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Famille proche, collègues d'atelier dans l'industrie, parents d'élèves de l'école primaire du village, cercle paroissial"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "L'idée d'aliments sains et équitables me plaît, mais j'ai peur que cela ouvre la porte aux importations et fasse monter les prix pour les familles."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Protéger l'agriculture suisse et nos paysans me touche. Les droits de douane me font un peu peur pour le prix du panier, mais nourrir le pays me rassure."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.65,
+      "oui_proba": 0.7,
+      "raison": "Une eau potable propre pour mes enfants, c'est non négociable. Lier les paiements directs à des pratiques plus propres me paraît logique, même si je pense aux exploitations qui devront changer."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible à la santé et aux pesticides, mais une interdiction totale en dix ans me paraît brutale pour nos paysans. Elle risque de faire monter les prix ou de pousser vers l'importation."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je veux bien faire des efforts pour la planète, mais une taxe sur les billets d'avion et des hausses sur le chauffage et l'essence passent mal quand on a un salaire d'atelier. J'ai l'impression que ce sont les ménages qui paient."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "Le bien-être des animaux touche à la création et je n'y suis pas indifférente. Mais une transition de 25 ans et des normes aussi pour les importations me semblent difficiles à tenir pour nos éleveurs laitiers."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Zéro émission nette en 2050, pourquoi pas, mais les aides pour changer de chauffage finissent souvent par être payées par les ménages. Je me méfie des objectifs très lointains et des coûts qu'on ne maîtrise pas."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Protéger la nature et le paysage autour de chez nous est une évidence pour moi. Je veux juste que les agriculteurs ne soient pas les seuls à payer la note."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "vuadens-bio",
+  "cible": {
+    "type": "commune",
+    "nom": "Vuadens",
+    "canton": "FR",
+    "pays": "CH",
+    "description": "Commune du district de la Gruyère (canton de Fribourg), rattachée par l'OFS à la couronne urbaine de l'agglomération de Bulle, avec une zone d'activités industrielles et une agriculture d'élevage laitier."
+  },
+  "decideur": "Conseil communal de Vuadens (cas d'étude simulé par Régénère Plus, sans mandat de la commune)",
+  "enjeu": "Accompagner l'agriculture de la commune vers des pratiques biologiques qui préservent les sols, l'eau et la biodiversité, sans fragiliser des exploitations familiales qui doivent pouvoir vivre de leur travail.",
+  "objectif": "Que la majorité des terres agricoles de la commune soient cultivées en bio d'ici dix ans, avec des agriculteurs qui en sont les premiers porteurs.",
+  "angle_fourni": "Comment faire pour que le monde agricole puisse vivre honorablement de son travail et devenir promoteur du bio ?",
+  "horizon_mois": 24,
+  "panel": {
+    "N": 48,
+    "seed": 20261025
+  },
+  "acteurs_cles": {
+    "groupe": "agriculteurs",
+    "activite_regex": "agricult"
+  },
+  "contexte_factuel": [
+    "Population : 2 580 habitants au 31 décembre 2025, dont 21 % de nationalité étrangère (OFS, STATPOP).",
+    "Typologie OFS : commune-centre de l'agglomération de Bulle. 1 466 emplois sont situés dans la commune en 2024, dont 70 % dans l'industrie et l'artisanat (OFS, STATENT).",
+    "Territoire : 1 046 ha, dont 63 % de surfaces agricoles et 23 % de forêt (OFS, statistique de la superficie 2020).",
+    "Agriculture en 2025 : 23 exploitations, dont 3 en bio ; 719 ha de surface agricole utile, dont 21 % cultivés en bio ; 93 % de prairies et pâturages ; 21 exploitations détiennent des bovins ; 64 emplois agricoles (OFS, recensement agricole).",
+    "Part de la surface agricole en bio en 2025 : 21 % à Vuadens, 13 % dans le district de la Gruyère, 10 % dans le canton de Fribourg (OFS).",
+    "Une fromagerie villageoise produit du Gruyère AOP ; elle a été distinguée au Concours suisse des produits du terroir 2025 (Interprofession du Gruyère).",
+    "École : 228 élèves dans les classes primaires situées dans la commune en 2024 (canton de Fribourg)."
+  ],
+  "votations": [
+    {
+      "vote_id": "v2018-equitables",
+      "date": "23 septembre 2018",
+      "titre": "Initiative populaire « Pour des denrées alimentaires saines et produites dans des conditions équitables et écologiques » (initiative pour des aliments équitables)",
+      "resume_neutre": "Demandait que la Confédération renforce l'offre de denrées produites dans le respect de l'environnement, des animaux et de conditions de travail équitables, y compris pour les produits importés.",
+      "famille": "pro_paysan"
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "date": "23 septembre 2018",
+      "titre": "Initiative populaire « Pour la souveraineté alimentaire. L'agriculture nous concerne toutes et tous »",
+      "resume_neutre": "Demandait de soutenir une agriculture paysanne indigène diversifiée et sans OGM, d'augmenter le nombre d'actifs agricoles et de protéger la production indigène par des droits de douane et des prix équitables.",
+      "famille": "pro_paysan"
+    },
+    {
+      "vote_id": "v2021-eau",
+      "date": "13 juin 2021",
+      "titre": "Initiative populaire « Pour une eau potable propre et une alimentation saine »",
+      "resume_neutre": "Demandait de réserver les paiements directs aux exploitations n'utilisant pas de pesticides, n'administrant pas d'antibiotiques à titre préventif et pouvant nourrir leurs animaux avec le fourrage produit sur l'exploitation.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "date": "13 juin 2021",
+      "titre": "Initiative populaire « Pour une Suisse libre de pesticides de synthèse »",
+      "resume_neutre": "Demandait d'interdire les pesticides de synthèse dans l'agriculture, la transformation des produits et l'entretien du paysage, ainsi que l'importation de denrées produites avec de tels pesticides, avec un délai de transition de dix ans.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "v2021-co2",
+      "date": "13 juin 2021",
+      "titre": "Loi sur le CO2 révisée (référendum)",
+      "resume_neutre": "Prévoyait notamment une taxe sur les billets d'avion, une hausse possible de la taxe CO2 sur les combustibles, des normes pour les bâtiments et les véhicules et un fonds pour le climat.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "date": "25 septembre 2022",
+      "titre": "Initiative populaire « Non à l'élevage intensif en Suisse »",
+      "resume_neutre": "Demandait d'inscrire la protection de la dignité des animaux de rente dans la Constitution, avec des exigences au moins équivalentes au cahier des charges Bio Suisse de 2018, aussi pour les importations, et une transition pouvant aller jusqu'à 25 ans.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "v2023-climat",
+      "date": "18 juin 2023",
+      "titre": "Loi sur le climat et l'innovation (référendum)",
+      "resume_neutre": "Fixait l'objectif de zéro émission nette de gaz à effet de serre d'ici 2050 et prévoyait des aides pour remplacer les chauffages fossiles et pour l'innovation des entreprises.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "date": "22 septembre 2024",
+      "titre": "Initiative populaire « Pour l'avenir de notre nature et de notre paysage » (initiative biodiversité)",
+      "resume_neutre": "Demandait de mieux protéger la nature, le paysage et le patrimoine bâti, avec davantage de surfaces et de moyens financiers consacrés à la biodiversité.",
+      "famille": "ecologie"
+    }
+  ],
+  "sources": [
+    {
+      "label": "OFS, STATPOP 2025 : population résidante permanente par âge, sexe et nationalité",
+      "url": "https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102010000_101/px-x-0102010000_101/px-x-0102010000_101.px/"
+    },
+    {
+      "label": "OFS, recensement des exploitations agricoles 2025",
+      "url": "https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0702000000_104/px-x-0702000000_104/px-x-0702000000_104.px/"
+    },
+    {
+      "label": "OFS, élections au Conseil national 2023 par commune",
+      "url": "https://ogd-static.voteinfo-app.ch/v4/ogd/sd-t-17.02-NRW2023-parteien.json"
+    },
+    {
+      "label": "Résultats officiels des votations fédérales par commune (voteinfo, OFS)",
+      "url": "https://ogd-static.voteinfo-app.ch/v1/ogd/"
+    },
+    {
+      "label": "Interprofession du Gruyère, Concours suisse des produits du terroir 2025 (fromagerie de Vuadens)",
+      "url": "https://www.gruyere.com/en/news/news-list/news-detail/concours-suisse-des-produits-du-terroir-1"
+    }
+  ],
+  "memoire_politique": {
+    "periode": "votations fédérales de 1995 à 2017 (données OFS), hors votations utilisées pour l'étalonnage",
+    "faits": [
+      "Arrêté fédéral sur la sécurité alimentaire, 2017 : 87 % de oui à Vuadens (canton : 85 %)",
+      "Initiative « Pas de spéculation sur les denrées alimentaires », 2016 : 37 % de oui à Vuadens (canton : 40 %)",
+      "Initiative contre les mauvais traitements envers les animaux, 2010 : 14 % de oui à Vuadens (canton : 19 %)",
+      "Initiative pour des aliments produits sans manipulations génétiques, 2005 : 68 % de oui à Vuadens (canton : 59 %)",
+      "Redevance incitative sur l'énergie en faveur de l'environnement, 2000 : 21 % de oui à Vuadens (canton : 34 %)",
+      "Contre-projet à l'initiative paysanne sur l'agriculture, 1995 : 75 % de oui à Vuadens (canton : 69 %)"
+    ],
+    "constat": "Sur les objets agricoles et environnementaux de cette période, l'écart avec le canton va le plus souvent dans le même sens : davantage de soutien aux mesures en faveur des paysans et de l'alimentation indigène, moins de soutien aux taxes et normes environnementales.",
+    "participation": "Participation moyenne aux votations fédérales à Vuadens de 2000 à 2017 : 43 %, avec de fortes variations selon les objets (de 14 % à 68 %)."
+  },
+  "votations_etalonnage": [
+    {
+      "vote_id": "e2012-residences",
+      "date": "11 mars 2012",
+      "titre": "Initiative populaire « Pour en finir avec les constructions envahissantes de résidences secondaires »",
+      "resume_neutre": "Demandait de limiter les résidences secondaires à 20 % des logements de chaque commune pour protéger le paysage.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "date": "3 mars 2013",
+      "titre": "Révision de la loi sur l'aménagement du territoire",
+      "resume_neutre": "Visait à limiter l'extension des zones à bâtir et à densifier l'urbanisation pour préserver les terres et le paysage.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "date": "25 septembre 2016",
+      "titre": "Initiative populaire « Pour une économie durable et fondée sur une gestion efficiente des ressources » (économie verte)",
+      "resume_neutre": "Demandait que l'empreinte écologique de la Suisse ne dépasse pas l'équivalent d'une planète d'ici 2050.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "date": "27 novembre 2016",
+      "titre": "Initiative populaire « Pour la sortie programmée de l'énergie nucléaire »",
+      "resume_neutre": "Demandait d'arrêter les centrales nucléaires suisses au plus tard après 45 ans d'exploitation.",
+      "famille": "ecologie"
+    },
+    {
+      "vote_id": "e2017-energie",
+      "date": "21 mai 2017",
+      "titre": "Loi sur l'énergie (Stratégie énergétique 2050)",
+      "resume_neutre": "Prévoyait la sortie progressive du nucléaire, l'encouragement des énergies renouvelables et des économies d'énergie.",
+      "famille": "ecologie"
+    }
+  ],
+  "angle_controle": {
+    "formulation": "Le Conseil communal a décidé que la majorité des terres agricoles de Vuadens seront cultivées en bio d'ici dix ans. Comment allez-vous contribuer à cet objectif ?",
+    "pourquoi": "Angle témoin, contraire à la méthode : il annonce une décision déjà prise et demande seulement comment s'y conformer. S'il obtenait autant de soutien que les angles ouverts, le panel serait complaisant et ses mesures sans valeur."
+  },
+  "angle_controle2": {
+    "formulation": "La commune s'est fixé l'objectif que la majorité des terres agricoles de Vuadens soient cultivées en bio d'ici dix ans. Comment pourrions-nous y parvenir ensemble, agriculteurs et habitants ?",
+    "pourquoi": "Second témoin : le même objectif chiffré que le premier, mais posé comme une question ouverte. Il sépare l'effet de l'objectif de l'effet du ton imposé."
+  }
+}

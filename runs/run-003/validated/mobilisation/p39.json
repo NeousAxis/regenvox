@@ -1,0 +1,39 @@
+{
+  "id": "p39",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre concrètement qui paie la différence de prix, avec les chiffres d'une ferme du village qui vit de son bio."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une liste des fermes du village avec ce qu'elles vendent, les prix et un point de vente sur mon chemin, sans devoir acheter en grosse quantité."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question sur un champ précis du village que je connais, plutôt qu'une question sur la terre dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Que des agriculteurs du village portent la démarche et qu'on me montre une ferme concrète, plutôt que des labels de la commune."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, je peux le faire pendant une pause, sans bloquer une soirée ni aller à la salle communale. Je ne suis pas sûre que mon avis change grand-chose, donc je ne le ferais probablement que sur la question qui m'intéresse, celle du revenu des paysans."
+}

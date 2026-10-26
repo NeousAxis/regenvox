@@ -1,0 +1,95 @@
+{
+  "id": "p10",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je suis favorable à une armée capable de défendre notre espace aérien, donc je trouve normal de renouveler la flotte. Le coût me préoccupe un peu, mais je ne suis pas militante contre."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Je vis en couple sans enfant et je trouve juste que les couples mariés ne soient pas pénalisés fiscalement. Graver la définition du mariage dans la Constitution me gêne en revanche, donc je suis partagée."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je veux que l'AVS reste solide et je fais confiance au compromis soutenu par le Centre. Mais la hausse de la TVA et le relèvement de l'âge de la retraite des femmes me pèsent, donc je ne suis pas certaine de dire oui."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je pense que nos accords avec l'UE et le droit international nous protègent aussi, et je n'aime pas l'idée de dénoncer des traités. Je comprends le sentiment qu'on décide trop loin de nous, mais je reste contre."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Mettre fin à la libre circulation avec l'UE fragiliserait nos entreprises de la région et nos accords bilatéraux. Je comprends les inquiétudes sur les salaires et les logements, mais je pense que cette initiative créerait plus de problèmes qu'elle n'en résoudrait."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je pense que la Suisse doit pouvoir assurer sa sécurité aérienne, donc je suis plutôt favorable au renouvellement des avions de combat. Le montant de 6 milliards est élevé, mais je fais confiance au Conseil fédéral pour choisir le modèle."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Je suis sensible au bien-être des animaux, mais je pense que la recherche médicale a besoin d'expérimentations encadrées. Une interdiction totale, y compris pour les produits importés, me paraît trop radicale."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "J'approuve l'idée de meilleures conditions pour les animaux, mais une transition pouvant aller jusqu'à 25 ans et les exigences de Bio Suisse me paraissent trop lourdes pour nos éleveurs. Je ne suis pas sûre que cela améliore vraiment la situation."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je veux que l'AVS soit financée, et les mesures de compensation prévues pour les femmes me rassurent un peu. La hausse de la TVA touche tout le monde, et l'âge de la retraite des femmes me touchera un jour, donc je reste partagée."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "La neutralité fait partie de notre identité et je la défends, mais une neutralité armée et sans sanctions me paraît trop rigide dans le contexte international actuel. Je ne suis pas sûre que la Constitution soit le bon endroit pour la figer."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible à la qualité de l'eau potable et à la protection des sols, et l'idée de produire davantage en Suisse me plaît. Mais viser 70 % d'aliments indigènes avec moins de produits animaux menace l'élevage laitier de la région, et je ne veux pas voter contre les paysans d'ici."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "La 13e rente AVS a été acceptée par le peuple et il faut la financer, donc je suis d'accord sur le principe. La hausse de la TVA touche tout le monde, y compris les petits budgets, donc je reste partagée."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Les pétards et les pièces très bruyantes me dérangent, surtout pour les animaux et les personnes âgées, donc je suis plutôt favorable à une limitation. Les exceptions pour le 1er août me paraissent raisonnables."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas sûre d'être concernée et le sujet vient d'être tranché en mars, donc je me sens peu motivée. Je crains le coût pour l'État, mais l'idée que les couples mariés ne soient pas désavantagés me parle."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à la neutralité et je n'aime pas que des armes suisses partent dans des zones de conflit. Je comprends l'argument économique de l'industrie, mais je suis plutôt contre l'assouplissement."
+    }
+  ]
+}

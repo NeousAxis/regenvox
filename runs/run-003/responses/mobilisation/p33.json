@@ -1,0 +1,39 @@
+{
+  "id": "p33",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Des chiffres concrets sur le prix du lait ou de la terre, expliqués en une demi-heure par un paysan du coin, un samedi matin à la salle communale."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Savoir exactement ce qu'on attend de moi, sans formulaire ni engagement, par exemple un coup de main ponctuel et sans suite à une ferme du village."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.07,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur ce que je vois au village, un champ ou un ruisseau, plutôt que des projections sur trente ans, et une réunion qui ne dure pas deux heures."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une visite de ferme en plein jour, accessible à pied depuis le village, où l'on voit le travail sur le terrain sans réunion ni contrôle à craindre."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le format le plus court, dix minutes à faire chez moi sans sortir le soir. Je n'aime pas les formulaires, mais c'est la seule option qui ne demande ni déplacement ni deux heures de réunion sur l'avenir."
+}

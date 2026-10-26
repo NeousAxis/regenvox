@@ -1,0 +1,39 @@
+{
+  "id": "p07",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.04,
+      "atelier_si_invite_par_un_proche": 0.10,
+      "ce_qui_doublerait_ma_venue": "Des chiffres concrets dès l'invitation (ce qu'une ferme gagne en bio, ce que ça coûte aux ménages, quelles aides sont prévues) et un engagement écrit de la commune sur ce qu'elle fera des conclusions."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "La garantie que la démarche reste un choix libre, sans contribution supplémentaire à payer, et une explication claire de ce que mes achats changent concrètement pour les fermes."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.20,
+      "atelier_presentiel": 0.06,
+      "parcours_distance": 0.07,
+      "atelier_si_invite_par_un_proche": 0.16,
+      "ce_qui_doublerait_ma_venue": "Un atelier court, un samedi matin, avec des mesures chiffrées sur la table pour les sols et l'eau, et une présentation publique de ce qui a été retenu par la commune."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Un fait local précis qui me concerne directement, par exemple la qualité de l'eau du village, et la garantie qu'une reconnaissance ne coûte rien aux petites exploitations."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes, une seule fois, à mon rythme : c'est le seul format qui tient dans mes horaires du social et de la famille. Je n'ai pas envie d'une réunion de plus où les décisions sont déjà prises, mais je veux bien donner mon avis par écrit sur des choix concrets."
+}

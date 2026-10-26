@@ -1,0 +1,15 @@
+{
+  "id": "p72",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "À 20 ans, l'avenir d'un restaurant du lac ne la touche guère, et un atelier de trois heures un samedi après-midi ne lui paraît pas valoir le déplacement."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "À 22 ans, peu concernée par les affaires communales et sans relais dans son entourage, elle a très probablement manqué ce vote pilote, très peu relayé."},
+    {"item_id": "lau02", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Édition perturbée par le Covid et toujours peu visible, elle peut voter si un proche la relaie, mais le budget participatif reste marginal dans son quotidien de jeune active."},
+    {"item_id": "lau10", "participe_proba": 0.06, "partage_proba": 0.05, "raison": "Un sondage en ligne de cinq minutes sur son quartier pourrait la tenter, mais le PACom est un sujet technique qu'elle ne suit pas et la crise sanitaire occupe ailleurs son attention."},
+    {"item_id": "lau03", "participe_proba": 0.10, "partage_proba": 0.08, "raison": "Le bulletin arrivant à chaque foyer la rend peut-être votante, mais elle en parle peu, le vote restant un geste discret au milieu de ses chantiers."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "Un questionnaire anonyme d'un mois sur les quais d'Ouchy la concerne peu, car elle fréquente rarement ce secteur et n'a pas le temps de répondre à une enquête de satisfaction."},
+    {"item_id": "lau04", "participe_proba": 0.09, "partage_proba": 0.10, "raison": "Le bulletin à domicile et les ambassadeurs dans les quartiers la rendent votante possible, mais son emploi du temps d'indépendante laisse peu de place à un vote de quartier."},
+    {"item_id": "lau09", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Proche du PS et sensible à la lutte contre le racisme, elle pourrait répondre, mais la consultation est discrète et ne circule pas dans son entourage."},
+    {"item_id": "lau05", "participe_proba": 0.12, "partage_proba": 0.14, "raison": "Le bulletin nominatif arrive à domicile avec la possibilité de voter en ligne, et les projets de quartier pour les familles l'intéressent, si bien qu'elle en parle volontiers avec son entourage."},
+    {"item_id": "lau06", "participe_proba": 0.13, "partage_proba": 0.18, "raison": "Après plusieurs éditions, le vote à domicile et la plateforme en ligne lui sont familiers, et les projets de convivialité et de sport de proximité la motivent, ce dont elle parle volontiers autour d'elle."}
+  ]
+}

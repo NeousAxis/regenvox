@@ -1,0 +1,197 @@
+{
+  "id": "p27",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter en 2004, et le PLR, auquel je suis proche, s'opposait à cette hausse de la TVA."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'avais pas encore l'âge de voter en 2009, mais le PLR soutenait ce financement temporaire de l'AI, ce qui m'aurait sans doute convaincu."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'avais pas encore l'âge de voter en 2009, et une interdiction d'exporter du matériel de guerre menacerait l'emploi dans l'industrie, ce que le PLR refuse."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "J'avais tout juste l'âge de voter et je ne suivais pas encore la politique, mais le PLR était contre l'abolition du service militaire, et je n'aurais probablement pas soutenu cette idée."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je travaille dans l'industrie où la main d'oeuvre étrangère est présente, donc le refus du PLR me retient, mais la pression sur les salaires me préoccupe."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je suis proche du PLR, qui soutient l'achat du Gripen, et une aviation de combat crédible me paraît nécessaire, même si le coût pèse."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je vis en couple sans enfant et je ne vois pas l'intérêt de graver le mariage dans la Constitution, ce que le PLR refuse aussi."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "L'avenir des retraites me préoccupe comme salarié, mais je suis proche du PLR qui refuse la hausse de TVA, et la réforme combinée me paraît trop lourde."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je suis attaché à la vie rurale et aux vaches à cornes de la Gruyère, mais je refuse une nouvelle subvention fédérale, comme le PLR."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je suis proche du PLR, qui refuse que la Constitution prime sur le droit international, car nos accords économiques en dépendent."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Le PLR soutient la reprise de la directive européenne sur les armes, et rester dans Schengen me paraît indispensable pour notre économie."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Je travaille dans l'industrie et la libre circulation compte pour mon entreprise, donc je rejette la fin de l'accord avec l'UE, comme le PLR."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Les dégâts du loup inquiètent les éleveurs de ma région, et le PLR soutient cette régulation facilitée des espèces protégées."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient le renouvellement de l'aviation de combat, et la défense aérienne me paraît une tâche de l'État, même si le montant est élevé."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Interdire le financement des fabricants de matériel de guerre fragiliserait des emplois industriels, ce que le PLR refuse aussi."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis attentif à la qualité de l'eau, mais lier les paiements directs à des critères stricts pénaliserait les fermes de la région, et le PLR s'y oppose."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Le PLR rejette l'interdiction totale des pesticides de synthèse, et je préfère une transition progressive à une interdiction en dix ans."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.85,
+      "raison": "Le PLR soutient le mariage pour tous, et cette ouverture me paraît simplement juste pour les couples."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Je suis sensible au bien-être animal, mais une interdiction totale de l'expérimentation menacerait la recherche médicale et les emplois qui en dépendent, ce que le PLR refuse."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "Le PLR soutient cette participation renforcée à Frontex, et la sécurité des frontières extérieures de Schengen me paraît justifiée."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être animal, mais le PLR s'oppose à cette initiative, et l'exigence Bio Suisse sur les importations me paraît trop lourde pour l'économie."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient AVS 21 et la hausse de TVA qui l'accompagne, et je pense que l'équilibre de l'AVS demande cet effort."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je suis attaché aux paysages de la Gruyère, mais les contraintes supplémentaires pour les terres agricoles et les coûts pour les communes me font pencher pour le non, comme le PLR."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Je vis en couple et je suis proche du PLR, qui soutient l'imposition individuelle, ce qui me paraît plus juste quand les deux conjoints travaillent."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je suis préoccupé par la densité et le trafic autour de Bulle, mais la libre circulation reste importante pour mon secteur, donc le non du PLR me convainc."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient ce durcissement pour limiter les départs de l'armée, et je trouve juste que l'obligation de servir s'applique à tous."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je suis attaché à la neutralité, mais le PLR s'y oppose, car les sanctions et la coopération avec l'UE protègent nos exportations et notre sécurité."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Une alimentation plus locale et moins carnée me séduit en partie, mais l'objectif de 70 % de produits indigènes en dix ans me paraît irréaliste, et le PLR s'y oppose."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis proche du PLR qui s'oppose à cette hausse de TVA, mais la 13e rente est populaire et je reconnais le besoin de financement."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Les feux d'artifice bruyants me gênent comme riverain et pour les animaux, mais le PLR refuse cette interdiction et je tiens aux fêtes du 1er août."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le PLR, auquel je suis proche, a soutenu l'imposition individuelle, et je ne veux pas revenir sur ce choix."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient cet assouplissement, qui protège les emplois de l'industrie suisse, et le cadre de neutralité me paraît suffisant."
+    }
+  ]
+}

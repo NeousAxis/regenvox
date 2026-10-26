@@ -1,0 +1,39 @@
+{
+  "id": "p27",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.10,
+      "ce_qui_doublerait_ma_venue": "Des chiffres précis sur ce que rapporte le bio à une ferme laitière de la région, présentés par quelqu'un qui connaît l'étable, et une rencontre en journée, hors période de foins et de vêlages."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "La certitude que la discussion débouche sur des engagements concrets sur le prix payé aux producteurs, et qu'on ne me demandera pas d'ouvrir la ferme aux visites."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur la reprise des exploitations de la commune, avec des pistes pour trouver un repreneur, plutôt qu'une vision générale de la commune en 2050."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une proposition qui rémunère vraiment les services rendus aux sols et à l'eau, et non un label ou des panneaux à l'entrée du village."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes, à mon rythme, sur le téléphone ou à la table de la cuisine : c'est le seul format qui ne m'oblige ni à bloquer une soirée ni à parler devant des gens qui n'ont jamais travaillé la terre."
+}

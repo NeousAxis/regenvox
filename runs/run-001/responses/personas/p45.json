@@ -1,0 +1,60 @@
+{
+  "id": "p45",
+  "portrait": "Je suis une femme de 62 ans, cadre encore en activité dans la région de Bulle, arrivée en Suisse il y a plusieurs années pour mon travail. Avec mon conjoint, nos enfants ayant quitté la maison, nous vivons dans un quartier résidentiel récent de Vuadens, choisi pour le calme et la nature autour du village. Je m'intéresse à ce qui se passe chez nous, mais je connais mal le monde paysan et ses contraintes.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans ne gagnent pas leur vie, le bio restera un luxe pour quelques-uns et les fermes disparaîtront. Il faut que le prix suive. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas assez les chiffres d'une exploitation pour donner un avis éclairé",
+        "Les discussions sur les subventions me semblent techniques et loin de mon quotidien"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres simples sur le revenu d'une ferme de la commune et une explication claire de ce que coûte le passage au bio."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Partenaire, le mot me plaît, mais je ne vais pas m'engager à aider sur une ferme. Dites-moi plutôt ce que je peux concrètement acheter ou soutenir. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps pour un engagement régulier",
+        "Je ne sais pas ce qu'un partenariat impliquerait concrètement pour moi"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule simple et sans engagement long, par exemple acheter directement à une ferme de la commune."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Je veux que nos petits-enfants trouvent une eau propre, des haies et des prairies fleuries, pas des champs nus. C'est ce qu'il faut préserver. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Un atelier en semaine en fin de journée est difficile pour moi",
+        "J'ai l'impression que les décisions se prennent surtout entre agriculteurs et autorités"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier court en soirée, dans le village, avec une question précise à discuter et un retour concret sur ce qui en sortira."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« On ne voit pas vraiment ce que font les agriculteurs au quotidien. Une visite ouverte ou quelques explications sur place, pourquoi pas, mais sans en faire un spectacle. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas les exploitations de la commune, donc je ne saurais pas quoi valoriser",
+        "Je n'aime pas les événements où l'on fait semblant de tout savoir"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite ouverte d'une ferme, avec une explication simple de ce qu'elle fait pour les sols, l'eau et les haies."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Voisins du quartier résidentiel, anciens collègues de travail de la région de Bulle, parents rencontrés à l'école du village, groupe de marche du week-end."
+  },
+  "votes": []
+}

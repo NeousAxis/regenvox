@@ -1,0 +1,125 @@
+{
+  "id": "p07",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "Je ne suis ni étudiant ni ancien de l'EPFL, et cette polémique sur Palantir me paraît loin de mon quotidien à Savièse, même si l'idée d'une surveillance de masse m'inquiète un peu."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.12,
+      "raison": "Les canicules de cet été ont fait souffrir mes vignes et les arbres du coteau, mais cette lettre ouverte demande un plan immense adressé à l'État, et je ne signe pas facilement ce genre de texte."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je suis proche du PLR et je n'aime pas qu'on demande à l'Assemblée fédérale d'invalider une initiative populaire avant même le vote du peuple, même si je comprends les inquiétudes sur les droits humains."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.006,
+      "partage_proba": 0.02,
+      "raison": "C'est une affaire genevoise entre un député et une organisation que je ne connais pas en détail, donc je n'ai pas d'avis tranché et je ne signerais pas."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "Le protoxyde d'azote circule aussi chez les jeunes du Valais et cela m'inquiète, mais cette pétition vise le canton de Genève, donc je la lirais sans forcément m'engager."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Le texte est en anglais et porte sur des placements de caisses de pension, une question de gestion qui ne me semble pas relever d'une pétition citoyenne."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Les primes d'assurance-maladie pèsent lourd sur mon budget de retraité et l'idée d'un système cantonal m'intéresse, mais le texte reconnaît lui-même qu'il est fictif et je crois davantage à la concurrence qu'à une caisse cantonale."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Je suis retraité donc l'AVS me touche directement, et une réforme qui évite de nouvelles hausses de TVA me parle, mais je me méfie d'un texte qui mêle durée de cotisation, cannabis et fiscalité."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.003,
+      "partage_proba": 0.01,
+      "raison": "Versoix se trouve dans le canton de Genève, loin de Savièse, et je ne connais pas ce projet de locaux municipaux, donc je ne me sens pas concerné."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Le témoignage est très touchant et je comprends le vide juridique que décrit cette mère, mais je signe rarement une pétition sur un sujet qui ne touche pas ma propre vie."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Vivre seul à mon âge me fait penser qu'un accès rapide à la psychothérapie compte, mais je ne suis pas assez informé de cette motion pour signer une lettre adressée aux membres du Conseil national."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.06,
+      "partage_proba": 0.15,
+      "raison": "Ces agrumes rares et cette ferme de terroir me rappellent les vergers d'autrefois, mais Borex se trouve dans le canton de Vaud et je ne connais pas le dossier communal."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "La violence domestique est une réalité grave, mais une maison d'accueil pour femmes dans le Jura relève d'un choix cantonal qui ne me concerne pas directement depuis le Valais."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "La chaleur en ville inquiète pour les personnes âgées, mais le tram lausannois est une affaire vaudoise et je n'aime pas les pétitions qui réclament des dépenses supplémentaires aux communes."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je fais confiance au Conseil fédéral et à l'administration pour examiner les renvois au cas par cas, et je ne me sens pas assez informé des situations individuelles pour demander un moratoire."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai plus de lien avec la formation professionnelle, et une réforme du CFC vers 4 à 6 ans relève de la politique éducative plutôt que de ma vie quotidienne."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.05,
+      "partage_proba": 0.15,
+      "raison": "Les caméras dissimulées dans des lunettes m'inquiètent, surtout pour les femmes et les enfants, mais je ne vois pas pourquoi l'État interdirait un produit du marché plutôt que de réglementer son usage."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Le ton alarmiste et la liste de mesures très dirigistes, comme l'interdiction des retours ou la lutte contre la fast fashion, ne me parlent pas, donc je ne me sens pas concerné par cet appel."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.08,
+      "partage_proba": 0.15,
+      "raison": "Les forêts du coteau sont exposées à la sécheresse et je trouve absurde de couper des fonds de prévention, mais je ne suis pas sûr que le Parlement doive se laisser dicter sa position par une pétition."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Les abus facilités par la drogue sont une réalité grave et l'État doit protéger les victimes, mais une task force nationale et une coopération avec Europol relèvent de la police fédérale et je n'ai pas de lien direct avec ce sujet."
+    }
+  ]
+}

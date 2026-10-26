@@ -1,0 +1,142 @@
+{
+  "id": "p05",
+  "portrait": "J'ai 61 ans et je suis agricultrice à Vuadens, dans un hameau, où je vis en couple avec nos enfants. Avec ma famille, on tient une exploitation de vaches laitières sur les herbages, en bio depuis des années, et on fait partie des trois fermes bio du village. Je me méfie des projets qui viennent d'en haut et qui décident sans nous, mais le bio me convient pour les sols et l'eau, à condition qu'on puisse vraiment en vivre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 5,
+      "citation": "« Le bio ne tiendra que si le lait se paie correctement. Sinon on demande aux paysans de travailler plus pour gagner moins, et ça ne dure pas. »",
+      "engagement": 3,
+      "freins_participation": [
+        "Je trais matin et soir, les soirées en atelier me prennent tout mon temps",
+        "Je ne crois pas qu'une commune puisse changer le prix du lait, ça se décide chez les acheteurs et dans les laiteries",
+        "Si ce ne sont que des discours sans chiffres, je ne reviens pas"
+      ],
+      "ce_qui_me_ferait_venir": "Une rencontre sur le prix payé au producteur pour le lait bio, avec la fromagerie et des acheteurs, à une heure compatible avec la traite, et qui débouche sur des engagements chiffrés."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Les gens veulent du bio dans l'assiette, mais au supermarché c'est souvent le moins cher qui part. Je ne suis pas sûre qu'ils deviennent nos partenaires. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas envie que la ferme devienne une attraction pour les promeneurs",
+        "Les habitants qui s'intéressent à la question ne sont pas toujours ceux qui achètent",
+        "Je n'ai pas le temps d'animer des visites ou des groupes"
+      ],
+      "ce_qui_me_ferait_venir": "Un projet concret, par exemple que la cantine de l'école achète du lait ou de la viande bio produits dans la commune à un prix juste, ou un contrat clair où les familles s'engagent à acheter directement. Sans ça, ce sont des paroles."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« La question que je me pose, c'est qui reprendra nos fermes. Si on ne fait pas vivre les paysans aujourd'hui, il n'y aura plus personne pour cultiver ces terres demain. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Ce genre de question est très large, on en parle beaucoup sans rien décider",
+        "La ferme demande de l'attention chaque jour, je n'ai pas la tête à réfléchir à trente ans",
+        "Les jeunes qui s'intéresseraient à l'agriculture ne viennent pas à ces soirées"
+      ],
+      "ce_qui_me_ferait_venir": "Une discussion sur la reprise des fermes et l'accès à la terre pour les jeunes, avec des mesures concrètes comme la location de terres ou un appui pour s'installer, et des jeunes agriculteurs présents."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« La reconnaissance, ça ne paie pas la facture. Mais que les gens sachent ce qu'on fait pour les haies, les prairies et l'eau, ça changerait peut-être le regard qu'on porte sur nous. »",
+      "engagement": 2,
+      "freins_participation": [
+        "On a souvent l'impression d'être les seuls à qui on demande des comptes",
+        "Une reconnaissance sans effet concret, ça reste un discours"
+      ],
+      "ce_qui_me_ferait_venir": "Une balade dans les prairies et les haies de la commune avec les familles et l'école, racontée par les paysans eux-mêmes, plutôt qu'une campagne de communication."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Famille élargie, voisins et collègues agriculteurs du secteur, liens avec la fromagerie villageoise, quelques clients directs. Crédibilité forte auprès des paysans, moindre auprès des habitants non agricoles."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Les résidences secondaires, c'est surtout une affaire de stations, on n'en voit pas beaucoup chez nous. Le paysage je le défends, mais je ne suis pas convaincue que ça change grand-chose pour une ferme d'ici."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "Les bonnes terres, il faut arrêter de les bétonner, ça je le vois tous les jours. Mais je veux pouvoir agrandir une étable ou un silo quand on en a besoin, alors il faudrait une règle souple."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Protéger la planète, je suis d'accord sur le fond. Mais une limite imposée d'en haut, avec des normes et des taxes, c'est souvent nous, les paysans, qui en payons le prix. Je serais réticente."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Les déchets et les risques m'inquiètent. Mais si on arrête les centrales sans savoir par quoi les remplacer, on importe du courant et on paie plus cher. Je ne suis pas sûre de la bonne solution."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Le solaire sur les toits des bâtiments agricoles m'intéresse, et les aides pour les énergies renouvelables sont positives pour une ferme. Je voterais oui, en pensant aussi aux économies d'énergie."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.85,
+      "oui_proba": 0.7,
+      "raison": "C'est ce que je demande depuis longtemps: les produits importés doivent respecter les mêmes exigences que les nôtres, sinon le bio suisse n'a aucune chance face à des prix tirés vers le bas."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.85,
+      "oui_proba": 0.75,
+      "raison": "Une agriculture d'ici, diversifiée, sans OGM, avec des prix corrects pour les paysans, c'est ce que je défends. Il manque des jeunes sur les fermes, donc le texte me parle, même si je me méfie des droits de douane qui font monter les prix pour tout le monde."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.9,
+      "oui_proba": 0.7,
+      "raison": "Mon exploitation remplit déjà ces conditions, et je trouve juste que l'argent public aille aux fermes qui protègent l'eau. Il faudrait par contre accompagner les autres dans la transition, sinon beaucoup vont abandonner."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.9,
+      "oui_proba": 0.55,
+      "raison": "Je travaille sans pesticides de synthèse depuis des années, donc je sais que c'est possible. Mais une interdiction totale, sans transition réaliste pour les collègues qui n'ont pas d'alternative, ce n'est pas forcément la bonne voie. J'hésiterais beaucoup."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.75,
+      "oui_proba": 0.35,
+      "raison": "Le climat me préoccupe, je vois déjà les effets de la sécheresse sur l'herbe. Mais les taxes sur le mazout et les billets d'avion, ce sont les gens ordinaires qui paient. Je ne crois pas que ces mesures aident vraiment l'agriculture, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.6,
+      "raison": "Mes vaches sortent sur l'herbe, c'est le cœur de mon élevage, donc la dignité des animaux me parle. Mais le texte imposerait des exigences à tout le monde, y compris pour les importations, avec un risque de fermer des étables. Je pencherais pour oui, avec des doutes."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.7,
+      "oui_proba": 0.5,
+      "raison": "Zéro émission nette d'ici 2050, je trouve l'objectif lointain. Les aides pour changer les chauffages, pourquoi pas, mais je me méfie des contraintes sur les bâtiments et des subventions dont on ne voit jamais la couleur. Je serais partagée."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.85,
+      "oui_proba": 0.45,
+      "raison": "La biodiversité, j'en fais avec mes haies et mes bandes fleuries, et je veux la protéger. Mais mettre davantage de surfaces en réserve sans qu'on nous demande notre avis, ça me gêne: la nature, on la fait avec les paysans, pas contre eux."
+    }
+  ]
+}

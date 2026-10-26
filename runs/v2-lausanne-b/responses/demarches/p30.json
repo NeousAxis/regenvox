@@ -1,0 +1,15 @@
+{
+  "id": "p30",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Le lac de Sauvabelin nous sert parfois de sortie en famille, mais je n'ai pas vu l'annonce et un atelier un samedi après-midi avec les enfants était difficile à caser."},
+    {"item_id": "lau01", "participe_proba": 0.04, "partage_proba": 0.07, "raison": "Je n'ai pas remarqué l'annonce de ce premier budget participatif, et le vote se faisait seulement en ligne ou dans des urnes de quartier, sans bulletin reçu à domicile."},
+    {"item_id": "lau02", "participe_proba": 0.05, "partage_proba": 0.08, "raison": "En pleine année Covid je n'ai pas suivi le dépôt de projets, et je n'ai pas eu envie de voter pour des idées que je ne connaissais pas, même si le vote en ligne était simple."},
+    {"item_id": "lau10", "participe_proba": 0.10, "partage_proba": 0.10, "raison": "Le nouveau plan d'affectation touche directement les règles de construction autour de ma maison, donc un sondage de cinq minutes en ligne me paraît utile, mais je n'irais ni aux soirées d'information ni aux balades."},
+    {"item_id": "lau03", "participe_proba": 0.12, "partage_proba": 0.10, "raison": "Le bulletin envoyé à chaque foyer est pratique et je le remplis parfois, mais je n'ai pas d'idée de projet à déposer et le dépôt en amont ne me tente pas."},
+    {"item_id": "lau08", "participe_proba": 0.06, "partage_proba": 0.12, "raison": "Je prends surtout la voiture pour aller travailler et je fréquente peu les quais d'Ouchy, donc la fermeture me concerne peu, mais j'en parlerais si le sujet revient dans les conversations."},
+    {"item_id": "lau04", "participe_proba": 0.10, "partage_proba": 0.08, "raison": "Le bulletin préaffranchi reçu à domicile me rappelle de voter, mais je ne suis pas à l'aise avec le dépôt de projets en amont et je ne vote que quand une idée me parle vraiment."},
+    {"item_id": "lau09", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Je n'ai pas vu l'annonce de cette consultation et le sujet, même important, ne m'a pas paru me concerner directement, donc je n'ai pas répondu ni n'en ai parlé."},
+    {"item_id": "lau05", "participe_proba": 0.12, "partage_proba": 0.15, "raison": "Le bulletin nominatif arrive sans effort à la maison et les enfants aiment choisir un projet pour le quartier, donc je vote à peu près une fois sur huit et j'en parle volontiers en famille."},
+    {"item_id": "lau06", "participe_proba": 0.10, "partage_proba": 0.10, "raison": "Je vote quand le bulletin arrive, mais les projets proposés ne concernent pas toujours mon quartier et je ne prends pas le temps de tous les lire, donc ma participation reste irrégulière."}
+  ]
+}

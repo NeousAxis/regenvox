@@ -1,0 +1,11 @@
+{
+  "id": "p23",
+  "reactions": [
+    {
+      "item_id": "gen07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Un atelier de quartier le mercredi soir après une journée de travail n'est pas dans mes habitudes, même si ce secteur est proche de chez moi, et je n'en parle guère qu'avec mon entourage proche, sans que le sujet revienne souvent."
+    }
+  ]
+}

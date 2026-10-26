@@ -1,0 +1,258 @@
+{
+ "_note": "Résultats officiels (données ouvertes OFS / Chancellerie fédérale), lus le 25.10.2026. Seules les votations de rôle analogue servent à la correction.",
+ "commune": 5518,
+ "resultats": [
+  {
+   "vote_id": "a2004-avs-tva",
+   "commune_oui": 40.23,
+   "commune_participation": 53.28,
+   "canton_oui": 37.15,
+   "suisse_oui": 31.42,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20040516-eidgAbstimmung.json (objet 5080, commune 5518)"
+  },
+  {
+   "vote_id": "a2009-ai-tva",
+   "commune_oui": 65.16,
+   "commune_participation": 42.78,
+   "canton_oui": 64.67,
+   "suisse_oui": 54.56,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20090927-eidgAbstimmung.json (objet 5430, commune 5518)"
+  },
+  {
+   "vote_id": "a2009-exportation",
+   "commune_oui": 37.39,
+   "commune_participation": 50.51,
+   "canton_oui": 40.52,
+   "suisse_oui": 31.77,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20091129-eidgAbstimmung.json (objet 5460, commune 5518)"
+  },
+  {
+   "vote_id": "a2013-service",
+   "commune_oui": 30.81,
+   "commune_participation": 44.11,
+   "canton_oui": 33.78,
+   "suisse_oui": 26.79,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20130922-eidgAbstimmung.json (objet 5720, commune 5518)"
+  },
+  {
+   "vote_id": "a2014-immigration",
+   "commune_oui": 42.82,
+   "commune_participation": 57.85,
+   "canton_oui": 38.89,
+   "suisse_oui": 50.33,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140209-eidgAbstimmung.json (objet 5800, commune 5518)"
+  },
+  {
+   "vote_id": "a2014-gripen",
+   "commune_oui": 35.64,
+   "commune_participation": 57.57,
+   "canton_oui": 34.89,
+   "suisse_oui": 46.59,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20140518-eidgAbstimmung.json (objet 5840, commune 5518)"
+  },
+  {
+   "vote_id": "a2016-couple",
+   "commune_oui": 49.63,
+   "commune_participation": 61.03,
+   "canton_oui": 45.74,
+   "suisse_oui": 49.16,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20160228-eidgAbstimmung.json (objet 5960, commune 5518)"
+  },
+  {
+   "vote_id": "a2017-avs-tva",
+   "commune_oui": 53.56,
+   "commune_participation": 47.12,
+   "canton_oui": 52.06,
+   "suisse_oui": 49.95,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20170924-eidgAbstimmung.json (objet 6140, commune 5518)"
+  },
+  {
+   "vote_id": "a2018-vaches",
+   "commune_oui": 39.79,
+   "commune_participation": 41.93,
+   "canton_oui": 41.18,
+   "suisse_oui": 45.27,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6230, commune 5518)"
+  },
+  {
+   "vote_id": "a2018-autodetermination",
+   "commune_oui": 23.36,
+   "commune_participation": 41.93,
+   "canton_oui": 23.38,
+   "suisse_oui": 33.73,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20181125-eidgAbstimmung.json (objet 6240, commune 5518)"
+  },
+  {
+   "vote_id": "a2019-armes",
+   "commune_oui": 73.48,
+   "commune_participation": 43.61,
+   "canton_oui": 71.55,
+   "suisse_oui": 63.74,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20190519-eidgAbstimmung.json (objet 6280, commune 5518)"
+  },
+  {
+   "vote_id": "a2020-limitation",
+   "commune_oui": 29.14,
+   "commune_participation": 65.52,
+   "canton_oui": 29.07,
+   "suisse_oui": 38.29,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6310, commune 5518)"
+  },
+  {
+   "vote_id": "a2020-chasse",
+   "commune_oui": 39.89,
+   "commune_participation": 65.44,
+   "canton_oui": 40.21,
+   "suisse_oui": 48.07,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6320, commune 5518)"
+  },
+  {
+   "vote_id": "a2020-avions",
+   "commune_oui": 42.08,
+   "commune_participation": 65.63,
+   "canton_oui": 41.06,
+   "suisse_oui": 50.13,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20200927-eidgAbstimmung.json (objet 6350, commune 5518)"
+  },
+  {
+   "vote_id": "a2020-materiel",
+   "commune_oui": 44.9,
+   "commune_participation": 44.76,
+   "canton_oui": 49.21,
+   "suisse_oui": 42.55,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20201129-eidgAbstimmung.json (objet 6370, commune 5518)"
+  },
+  {
+   "vote_id": "a2021-eau",
+   "commune_oui": 26.28,
+   "commune_participation": 62.48,
+   "canton_oui": 33.97,
+   "suisse_oui": 39.31,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6410, commune 5518)"
+  },
+  {
+   "vote_id": "a2021-pesticides",
+   "commune_oui": 28.38,
+   "commune_participation": 62.48,
+   "canton_oui": 37.25,
+   "suisse_oui": 39.44,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json (objet 6420, commune 5518)"
+  },
+  {
+   "vote_id": "a2021-mariage",
+   "commune_oui": 62.16,
+   "commune_participation": 54.12,
+   "canton_oui": 65.02,
+   "suisse_oui": 64.1,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20210926-eidgAbstimmung.json (objet 6470, commune 5518)"
+  },
+  {
+   "vote_id": "a2022-experimentation",
+   "commune_oui": 16.61,
+   "commune_participation": 42.84,
+   "canton_oui": 18.39,
+   "suisse_oui": 20.86,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220213-eidgAbstimmung.json (objet 6510, commune 5518)"
+  },
+  {
+   "vote_id": "a2022-frontex",
+   "commune_oui": 79.33,
+   "commune_participation": 36.8,
+   "canton_oui": 74.43,
+   "suisse_oui": 71.48,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220515-eidgAbstimmung.json (objet 6570, commune 5518)"
+  },
+  {
+   "vote_id": "a2022-elevage",
+   "commune_oui": 27.73,
+   "commune_participation": 55.68,
+   "canton_oui": 34.45,
+   "suisse_oui": 37.13,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6580, commune 5518)"
+  },
+  {
+   "vote_id": "a2022-avs-tva",
+   "commune_oui": 44.29,
+   "commune_participation": 55.54,
+   "canton_oui": 45.59,
+   "suisse_oui": 55.07,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20220925-eidgAbstimmung.json (objet 6590, commune 5518)"
+  },
+  {
+   "vote_id": "a2024-biodiversite",
+   "commune_oui": 32.54,
+   "commune_participation": 47.48,
+   "canton_oui": 40.03,
+   "suisse_oui": 36.96,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20240922-eidgAbstimmung.json (objet 6710, commune 5518)"
+  },
+  {
+   "vote_id": "a2026-imposition",
+   "commune_oui": 68.92,
+   "commune_participation": 57.56,
+   "canton_oui": 68.61,
+   "suisse_oui": 54.26,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260308-eidgAbstimmung.json (objet 6850, commune 5518)"
+  },
+  {
+   "vote_id": "a2026-10-millions",
+   "commune_oui": 38.12,
+   "commune_participation": 54.3,
+   "canton_oui": 35.53,
+   "suisse_oui": 45.21,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6860, commune 5518)"
+  },
+  {
+   "vote_id": "a2026-service-civil",
+   "commune_oui": 47.41,
+   "commune_participation": 54.3,
+   "canton_oui": 46.21,
+   "suisse_oui": 52.46,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260614-eidgAbstimmung.json (objet 6870, commune 5518)"
+  },
+  {
+   "vote_id": "h2026-neutralite",
+   "commune_oui": 25.45,
+   "commune_participation": 48.4,
+   "canton_oui": 26.98,
+   "suisse_oui": 29.84,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6880, commune 5518)"
+  },
+  {
+   "vote_id": "h2026-alimentation",
+   "commune_oui": 21.9,
+   "commune_participation": 48.4,
+   "canton_oui": 25.83,
+   "suisse_oui": 27.47,
+   "commune_nom_ogd": "Echallens",
+   "source": "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260927-eidgAbstimmung.json (objet 6890, commune 5518)"
+  }
+ ]
+}

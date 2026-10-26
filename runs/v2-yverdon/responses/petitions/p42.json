@@ -1,0 +1,25 @@
+{
+  "id": "p42",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Palantir et l'EPFL sont loin de son quotidien à Yverdon, et cette mobilisation d'étudiants lausannois ne retient pas son attention."},
+    {"item_id": "pet02", "participe_proba": 0.03, "partage_proba": 0.25, "raison": "Les canicules de cet été l'inquiètent, mais elle se méfie des plans climatiques coûteux portés par des coalitions militantes."},
+    {"item_id": "pet03", "participe_proba": 0.005, "partage_proba": 0.03, "raison": "Cette pétition attaque une initiative de l'UDC, un parti qu'elle soutient, et elle y voit une tentative de contourner un vote populaire."},
+    {"item_id": "pet04", "participe_proba": 0.005, "partage_proba": 0.03, "raison": "Affaire genevoise et débat sur Gaza qu'elle ne suit pas, elle ne signe pas ce type d'appel de soutien."},
+    {"item_id": "pet05", "participe_proba": 0.06, "partage_proba": 0.25, "raison": "Les risques pour les jeunes la préoccupent, mais l'affaire relève de Genève et elle signe rarement ce genre de texte."},
+    {"item_id": "pet06", "participe_proba": 0.015, "partage_proba": 0.05, "raison": "Retraitée, elle se sent concernée par les caisses de pension, mais l'angle climatique et le texte en anglais ne la convainquent pas."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.10, "raison": "Les primes d'assurance-maladie pèsent sur son budget, mais un projet présenté comme fictif ne lui donne aucune raison de signer."},
+    {"item_id": "pet08", "participe_proba": 0.05, "partage_proba": 0.25, "raison": "L'AVS est son sujet, mais elle se méfie d'un texte porté par les jeunes libéraux qui propose de légaliser le cannabis."},
+    {"item_id": "pet09", "participe_proba": 0.005, "partage_proba": 0.03, "raison": "Versoix est une commune genevoise qui ne la concerne pas, et ce type de dossier local ne l'intéresse pas."},
+    {"item_id": "pet10", "participe_proba": 0.04, "partage_proba": 0.15, "raison": "Ce deuil la touche en tant que femme, mais la pétition ne la concerne pas directement et elle ne signe pas les textes adressés aux parlementaires fédéraux."},
+    {"item_id": "pet11", "participe_proba": 0.07, "partage_proba": 0.20, "raison": "Seule et âgée, elle pourrait un jour avoir besoin d'une psychothérapie, mais la motion fédérale lui semble un sujet de spécialistes."},
+    {"item_id": "pet12", "participe_proba": 0.10, "partage_proba": 0.35, "raison": "La Ferme aux Agrumes est un patrimoine vaudois qu'elle trouve sympathique, et elle en parlerait volontiers à des amis."},
+    {"item_id": "pet13", "participe_proba": 0.04, "partage_proba": 0.15, "raison": "La violence contre les femmes la touche, mais le canton du Jura est loin et elle ne suit pas Campax."},
+    {"item_id": "pet14", "participe_proba": 0.05, "partage_proba": 0.15, "raison": "La chaleur en ville la fatigue, mais le tram lausannois est loin de chez elle et la pétition vient d'un parti qu'elle ne soutient pas."},
+    {"item_id": "pet15", "participe_proba": 0.008, "partage_proba": 0.03, "raison": "Demander de suspendre les renvois va à l'encontre de la politique migratoire qu'elle soutient, elle ne signera pas."},
+    {"item_id": "pet16", "participe_proba": 0.015, "partage_proba": 0.05, "raison": "La formation des jeunes en situation de handicap ne la concerne pas, et le texte demande une réforme lourde qu'elle ne suit pas."},
+    {"item_id": "pet17", "participe_proba": 0.12, "partage_proba": 0.40, "raison": "Les caméras cachées l'inquiètent et elle se méfie des nouvelles technologies, mais elle hésite à demander à l'État d'interdire un produit."},
+    {"item_id": "pet18", "participe_proba": 0.015, "partage_proba": 0.05, "raison": "Elle trouve ces mesures trop contraignantes et ne partage pas le diagnostic d'une crise existentielle."},
+    {"item_id": "pet19", "participe_proba": 0.05, "partage_proba": 0.20, "raison": "Les forêts du Nord vaudois lui tiennent à cœur et elle craint les incendies, mais elle ne veut pas contredire Albert Rösti, qui défend une position de son bord politique."},
+    {"item_id": "pet20", "participe_proba": 0.15, "partage_proba": 0.40, "raison": "La protection des femmes contre les drogues et les prédateurs la préoccupe beaucoup, et ce texte demande à l'État d'agir, ce qu'elle attend."}
+  ]
+}

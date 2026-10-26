@@ -1,0 +1,29 @@
+{
+  "id": "p68",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Ça ne me concerne pas directement, l'UDC dit non et je ne vois pas pourquoi le canton paierait la contraception de tout le monde sans condition de revenu."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Les bouchons vers la France me touchent tous les jours, mais financer des bus et des tramways en France avec l'argent genevois, après le non de 2014, passe mal autour de moi et l'UDC laisse la liberté de vote."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "L'accès à la propriété pour un locataire me plaît, mais je me méfie des congés-ventes et l'UDC dit non, donc je reste sur la réserve."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "La HES me paraît utile, l'UDC et le Centre disent oui, et deux millions de moins par an ne me semblent pas décisifs, même si le référendum demande de garder 35 millions."
+    }
+  ]
+}

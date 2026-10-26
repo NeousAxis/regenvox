@@ -1,0 +1,65 @@
+{
+  "id": "p27",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas vu l'annonce du sondage sur l'avenir de l'Auberge et de la Pinte de Sauvabelin, et un samedi après-midi de novembre je suis plutôt à la ferme ou dans les bois qu'à un atelier au bord du lac."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Ce budget participatif pilote n'a presque pas circulé hors de la ville et sa phase de vote tombe sur les vendanges, alors je n'ai ni le temps ni l'envie de choisir des projets de quartier."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "Le covid a bousculé la vie de la ferme en 2020 et le vote d'octobre à novembre arrive en pleine saison, donc je ne me sens pas concernée par des projets qui ne touchent pas directement mon quotidien."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Un sondage en ligne de cinq minutes sur le paysage et le patrimoine m'intéresse un peu, puisque je travaille la terre, mais je l'aurais vu passer sans m'y arrêter pendant le printemps 2020 et les travaux de la vigne."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.10,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin préaffranchi arrive dans ma boîte aux lettres, ce qui facilite le vote, mais je le mets souvent de côté au milieu des travaux d'automne et les projets des quartiers m'intéressent peu."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je ne fréquente guère les quais d'Ouchy, donc la fermeture à la circulation ne me touche pas, et je ne réponds pas spontanément à un questionnaire en ligne sur un sujet qui ne concerne pas ma vie."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin envoyé à domicile me donne une chance de voter, mais octobre et novembre sont des mois très chargés à la ferme et les projets de quartier me parlent peu, donc je ne prends pas le temps de le renvoyer."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.10,
+      "raison": "Une consultation sur le racisme me touche de près en tant qu'étrangère, mais je n'ai pas vu l'annonce ni la plateforme Lausanne participe, alors je n'y réponds pas, même si je pourrais en parler avec des voisines ou des collègues."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.10,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin nominatif arrive directement chez moi et son envoi est gratuit, mais je le laisse souvent traîner au milieu de la saison de travail, et je connais mal les projets présentés dans les quartiers."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin arrive à la maison et le vote en ligne est simple, mais la fin de l'été et les vendanges de septembre accaparent mon attention, et les projets proposés ne concernent pas directement mon quotidien à la ferme."
+    }
+  ]
+}

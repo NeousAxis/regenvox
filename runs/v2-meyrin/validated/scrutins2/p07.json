@@ -1,0 +1,197 @@
+{
+  "id": "p07",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "J'ai 53 ans, l'AVS est le socle de nos retraites et je la veux solide, la hausse de la TVA pèse peu sur mon budget et le PDC comme le PS la soutiennent."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Une hausse temporaire de 0,4 point pour aider les personnes invalides me paraît raisonnable, et le PDC comme le PLR la recommandent."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je suis attachée à la paix et je n'aime pas les exportations d'armes, mais je ne veux pas fragiliser les emplois de l'industrie, et le PDC dit non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je pense que le service militaire garde un lien entre l'armée et la population, et le PDC recommande de le maintenir."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Meyrin compte près de la moitié d'étrangers et les accords avec l'UE me paraissent utiles, donc je suis contre les contingents et les plafonds prônés par l'UDC."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Je ne suis pas spécialiste, le PDC et le PLR soutiennent l'achat, mais le coût de ces avions et leur financement par l'armée me laissent hésitante."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je trouve normal que le mariage ne soit pas désavantagé fiscalement, mais inscrire dans la Constitution la définition du couple me paraît inutilement exclusif."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "L'AVS me concerne directement, la hausse de la TVA me paraît un prix raisonnable pour la sauver, et le PDC soutient ce paquet."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible au bien-être des animaux de ferme, mais une contribution fédérale payée par tous pour cela me paraît coûteuse, et le PDC la refuse."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Les accords avec l'UE et le droit international protègent la Suisse et Genève, et je ne veux pas risquer leur renégociation ou leur dénonciation."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Je fais confiance à la coopération Schengen et les exceptions pour les tireurs et l'arme d'ordonnance me paraissent raisonnables, comme au PDC et au PLR."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Meyrin accueille beaucoup de familles venues d'ailleurs et la libre circulation fait vivre la région, donc je refuse la fin de l'accord avec l'UE."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Je tiens à la protection d'espèces comme le loup, mais je comprends les éleveurs, et le PDC comme le PLR recommandent le oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Six milliards pour des avions de combat me semblent beaucoup, même si je comprends la défense aérienne, et le PS comme les Verts s'y opposent."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Je n'aime pas que la Banque nationale ou les caisses de pension financent la fabrication d'armes, mais le PDC et le PLR recommandent le non et j'hésite."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "L'eau potable et une alimentation saine me tiennent à cœur, mais lier les paiements directs à l'agriculture sans pesticides me paraît une mesure lourde, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Les pesticides de synthèse dans l'eau et les aliments m'inquiètent, mais dix ans me paraissent trop courts pour l'agriculture, et Le Centre recommande le non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "L'égalité devant le mariage me paraît évidente et je ne comprends pas pourquoi certains couples devraient en être exclus."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "La souffrance des animaux de laboratoire me touche, mais la recherche médicale a besoin d'essais et une interdiction totale me paraît trop rigide."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "La sécurité des frontières de l'espace Schengen me préoccupe et Le Centre comme le PLR soutiennent la participation, mais je me méfie des agences européennes peu contrôlées."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Le bien-être animal m'importe et j'ai vu des élevages intensifs, mais un délai de 25 ans et les exigences sur les importations me paraissent difficiles, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Je suis retraitée et l'AVS est ma rente, donc le financement me paraît nécessaire, même si je regrette le relèvement de l'âge de référence des femmes."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Les parcs et la nature autour de Meyrin me sont chers et je soutiens la biodiversité, mais les coûts et les contraintes pour les agriculteurs me font hésiter, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Je vis seule et je ne suis pas directement touchée, l'égalité fiscale entre les époux me paraît juste, mais Le Centre s'y oppose et je reste partagée."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "La densité et la circulation dans la commune me préoccupent, mais une limite de population et la fin de la libre circulation me paraissent excessives, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Je n'ai pas d'avis fort, je comprends l'argument du Centre et du PLR pour limiter les départs de l'armée, mais je trouve juste de garder une porte ouverte au service civil."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La neutralité me tient à cœur et Genève accueille la diplomatie internationale, mais interdire toute sanction contre un État belligérant me paraît trop rigide, et Le Centre dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "J'achète volontiers local et végétal et l'eau propre me tient à cœur, mais un objectif de 70 % d'aliments produits en Suisse en dix ans me paraît irréaliste."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.9,
+      "oui_proba": 0.92,
+      "raison": "La 13e rente me concerne directement puisque je suis retraitée, et ce financement par la TVA hors denrées alimentaires et médicaments me paraît juste."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Les pétards bruyants me dérangent la nuit et je m'inquiète pour les animaux, et les grandes fêtes comme le 1er août resteraient autorisées."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je vis seule et l'imposition individuelle acceptée en mars me paraît juste, donc je ne suis pas favorable à revenir en arrière."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à la neutralité et je crains des livraisons d'armes à des pays en guerre, même si je comprends l'intérêt économique que le PLR et Le Centre soulignent."
+    }
+  ]
+}

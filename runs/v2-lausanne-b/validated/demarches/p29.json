@@ -1,0 +1,65 @@
+{
+  "id": "p29",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.015,
+      "partage_proba": 0.02,
+      "raison": "En 2017 je travaillais beaucoup et je ne fréquente Sauvabelin que de temps en temps, donc ce sondage ne m'est jamais parvenu sous les yeux."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "Le budget participatif était nouveau et peu relayé, et voter demandait de s'y intéresser activement, ce que je n'ai probablement pas fait."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "En pleine crise du Covid, avec mon travail dans le social, je n'avais pas l'énergie d'un vote de plus, même si le sujet m'intéresse."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Un sondage de cinq minutes sur mon quartier m'aurait intéressée, mais je l'aurais vu passer sans forcément le remplir pendant la crise sanitaire."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin affranchi glissé dans la boîte aux lettres rend le vote facile, et je m'intéresse à ce qui touche mon quartier, mais je ne suis pas sûre d'avoir pris le temps de choisir."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Les quais d'Ouchy ne font pas partie de mon quotidien, et un questionnaire de satisfaction sur la mobilité ne m'aurait probablement pas accrochée."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.14,
+      "partage_proba": 0.16,
+      "raison": "Le bulletin reçu à domicile me donne une bonne chance de voter, mais choisir au moins trois projets demande du temps que je n'ai pas toujours."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "Le racisme et les discriminations touchent mon métier et mes collègues, donc je pourrais répondre à ce questionnaire, mais ce genre de consultation me passe souvent sous les yeux."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif arrive directement chez moi et je vote parfois sur les projets de quartier, sans en faire une habitude systématique."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "J'ai peut-être reçu le bulletin, mais les projets d'animation et de convivialité m'intéressent moins, et la lassitude des sollicitations fait le reste."
+    }
+  ]
+}

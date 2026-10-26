@@ -1,0 +1,11 @@
+{
+  "id": "p17",
+  "reactions": [
+    {
+      "item_id": "gen01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Je n'ai sans doute pas eu vent de cette assemblée, et une soirée en présentiel de deux heures et demie reste peu probable pour moi, même si je suis disponible et proche de Le Centre ; je n'en aurais parlé qu'à quelques proches si j'en avais entendu parler."
+    }
+  ]
+}

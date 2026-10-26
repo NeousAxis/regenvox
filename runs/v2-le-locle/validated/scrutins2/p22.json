@@ -1,0 +1,197 @@
+{
+  "id": "p22",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Une hausse de TVA pour l'AVS me paraît une solution de facilité, et mon parti y est opposé, donc je voterai probablement non."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Une hausse temporaire de la TVA pour l'AI est acceptable si elle est limitée dans le temps, et le PLR la soutient."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Interdire l'exportation de matériel de guerre pénaliserait des entreprises suisses et l'emploi, et mon parti est contre, donc je voterai non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Le service militaire obligatoire fait partie de notre système de milice auquel je tiens, donc je voterai non."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "L'initiative touche à nos accords avec l'UE dont dépend notre économie, même si je comprends l'inquiétude sur les flux, donc je pense voter non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Renouveler notre aviation de combat me paraît nécessaire pour la défense du pays, et le PLR soutient ce financement, donc je voterai oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas que l'État inscrive un modèle de couple dans la Constitution, et mon parti est contre, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Une nouvelle hausse de TVA pour l'AVS pèse sur les familles, même si la réforme ne me choque pas, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Verser une contribution fédérale pour que les vaches gardent leurs cornes me paraît une dépense inutile, donc je voterai non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Placer le droit suisse au-dessus du droit international risquerait de fragiliser nos accords économiques, même si je suis attaché à notre souveraineté, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "La reprise de la directive européenne sur les armes fait partie de Schengen, que je soutiens pour la sécurité et l'économie, donc je penche pour oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.25,
+      "raison": "Mettre fin à la libre circulation avec l'UE menacerait nos entreprises et nos accords bilatéraux, donc je voterai non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Pouvoir réguler le loup avant qu'il cause des dégâts me paraît raisonnable pour les éleveurs de la région, donc je penche pour oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Renouveler notre aviation de combat est une nécessité pour la défense du pays, et mon parti soutient ce projet, donc je voterai oui."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Interdire le financement des producteurs de matériel de guerre toucherait les caisses de pension et la BNS, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Conditionner les paiements directs à des exigences aussi strictes pénaliserait les agriculteurs, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Interdire tous les pesticides de synthèse en dix ans me paraît irréaliste pour l'agriculture suisse, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Le mariage pour tous ne me pose aucun problème, c'est une question de liberté individuelle, donc je voterai oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Interdire l'expérimentation animale et humaine freinerait la recherche médicale dont nous profitons tous, donc je voterai non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Renforcer notre participation à Frontex répond à une vraie question de sécurité aux frontières, et le PLR soutient ce renforcement, donc je penche pour oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Imposer des exigences aussi élevées aux élevages me paraît coûteux pour nos agriculteurs et pour les consommateurs, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "La hausse de TVA pour l'AVS, couplée au relèvement de l'âge de référence des femmes, me paraît un compromis raisonnable, donc je voterai oui."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "La biodiversité compte, mais cette initiative coûterait trop cher et empièterait sur la propriété et l'agriculture, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "L'imposition individuelle est une mesure de justice pour les personnes mariées, et mon parti la soutient, donc je penche pour oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.3,
+      "raison": "Un plafond de 10 millions d'habitants me paraît irréaliste et menacerait nos accords avec l'UE, même si je comprends l'inquiétude sur la densité, donc je voterai non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Durcir les conditions du service civil pour limiter les départs de l'armée me paraît cohérent, et mon parti soutient cette mesure, donc je voterai oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Une neutralité armée et perpétuelle inscrite dans la Constitution compliquerait notre coopération avec nos voisins et la mise en œuvre de sanctions, donc je penche pour non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Produire 70 % de notre alimentation en Suisse me paraît irréaliste et coûteux pour les ménages comme le mien, donc je penche pour non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je ne veux pas d'une nouvelle hausse de TVA pour financer la 13e rente, surtout avec les charges de ma famille, donc je penche pour non."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.25,
+      "oui_proba": 0.35,
+      "raison": "Je comprends la gêne des animaux et des voisins, mais une interdiction générale des pétards me paraît excessive, donc je penche pour non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "Je vois une forme de discrimination pour les couples mariés, mais mon parti défend l'imposition individuelle que le peuple vient d'accepter, donc je penche pour non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Une exportation plus souple de matériel de guerre vers des partenaires reste compatible avec notre neutralité, et mon parti soutient cette modification, donc je penche pour oui."
+    }
+  ]
+}

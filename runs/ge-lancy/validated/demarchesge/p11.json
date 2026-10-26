@@ -1,0 +1,11 @@
+{
+  "id": "p11",
+  "reactions": [
+    {
+      "item_id": "gen01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Artisan indépendant qui finit ses chantiers tard, sans lien avec la vie politique de la commune ; il a sans doute découvert ce Conseil des habitant·e·s par hasard, et une assemblée un mercredi soir à Petit-Lancy ne fait pas partie de ses réflexes."
+    }
+  ]
+}

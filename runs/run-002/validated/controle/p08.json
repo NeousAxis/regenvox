@@ -1,0 +1,16 @@
+{
+  "id": "p08",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le bio, pourquoi pas, mais si ça doit coûter plus cher à la caisse, ce sont les familles qui bossent qui paieront. Je veux d'abord comprendre le projet avant de dire oui.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille en horaires de fabrique et je m'occupe des enfants le soir, je n'ai pas beaucoup de temps libre en semaine",
+      "Je ne connais pas le métier des paysans de l'intérieur, j'ai peur qu'on leur impose ça sans les écouter vraiment",
+      "Le prix du bio en magasin : avec un salaire de technicienne, chaque franc compte",
+      "Le projet vient du Conseil communal sans qu'on nous demande notre avis à nous, les habitants"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que ça change pour les prix au magasin et à la fromagerie, la garantie que les exploitations du village ne sont pas mises en difficulté, et un atelier le soir ou le samedi près du centre avec des paysans présents pour en discuter franchement."
+  }
+}

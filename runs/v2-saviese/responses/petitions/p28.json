@@ -1,0 +1,25 @@
+{
+  "id": "p28",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.008, "partage_proba": 0.04, "raison": "Un débat de jeunes sur l'EPFL et Palantir, à Lausanne, sans aucun lien avec ma vie ici. Je ne signe pas ce genre de texte."},
+    {"item_id": "pet02", "participe_proba": 0.035, "partage_proba": 0.25, "raison": "Les canicules de cet été m'ont pesé, mais je me méfie d'un plan climatique qui se traduirait par de nouvelles taxes et contraintes venues de Berne."},
+    {"item_id": "pet03", "participe_proba": 0.002, "partage_proba": 0.02, "raison": "Cette pétition vise directement l'initiative de l'UDC, le parti que je soutiens. Je ne la signerais pas."},
+    {"item_id": "pet04", "participe_proba": 0.006, "partage_proba": 0.02, "raison": "Une affaire genevoise liée au conflit au Proche-Orient, qui ne me touche pas et sur laquelle je ne veux pas prendre position."},
+    {"item_id": "pet05", "participe_proba": 0.04, "partage_proba": 0.2, "raison": "Le détournement du protoxyde d'azote chez les jeunes m'inquiète, mais c'est une demande genevoise et je ne signe que rarement ce type de pétition."},
+    {"item_id": "pet06", "participe_proba": 0.012, "partage_proba": 0.05, "raison": "Mes rentes m'intéressent, mais ce texte en anglais vient de professionnels militants qui veulent dicter la gestion des caisses de pension."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.06, "raison": "Les primes d'assurance-maladie me pèsent, mais le texte se présente lui-même comme fictif. Je ne signe pas une pétition qui ne peut rien changer."},
+    {"item_id": "pet08", "participe_proba": 0.02, "partage_proba": 0.08, "raison": "Je tiens à l'AVS et à ma rente, mais je refuse la légalisation du cannabis et les pistes proposées par ces jeunes libéraux."},
+    {"item_id": "pet09", "participe_proba": 0.006, "partage_proba": 0.03, "raison": "Un projet d'espace social à Versoix, commune genevoise que je ne connais pas. Je n'ai aucune raison de m'en mêler."},
+    {"item_id": "pet10", "participe_proba": 0.09, "partage_proba": 0.3, "raison": "En tant que mère, cette histoire me bouleverse et je comprends le deuil, mais je signe peu de pétitions et je ne suis pas concernée directement."},
+    {"item_id": "pet11", "participe_proba": 0.015, "partage_proba": 0.05, "raison": "La psychothérapie n'est pas mon sujet, et c'est un appel de professionnelles sur une motion qui me passe au-dessus de la tête."},
+    {"item_id": "pet12", "participe_proba": 0.03, "partage_proba": 0.12, "raison": "J'aime les petites fermes et le patrimoine agricole, mais Borex est loin de Savièse et je ne me sens pas concernée par ces restrictions communales."},
+    {"item_id": "pet13", "participe_proba": 0.03, "partage_proba": 0.15, "raison": "La violence faite aux femmes me révolte, mais le Jura est loin et je ne signe pas les pétitions envoyées par des organisations en ligne."},
+    {"item_id": "pet14", "participe_proba": 0.012, "partage_proba": 0.04, "raison": "La chaleur en ville m'inquiète un peu, mais ce tram lausannois et cette section libérale ne sont pas mon univers."},
+    {"item_id": "pet15", "participe_proba": 0.004, "partage_proba": 0.02, "raison": "Je suis favorable à l'application stricte des décisions d'asile. Une suspension générale des renvois ne me convient pas."},
+    {"item_id": "pet16", "participe_proba": 0.015, "partage_proba": 0.06, "raison": "L'idée d'une formation à temps partiel peut aider des jeunes, mais je ne connais pas ces filières et je n'aime pas les réformes qui coûtent cher à l'État."},
+    {"item_id": "pet17", "participe_proba": 0.05, "partage_proba": 0.25, "raison": "Être filmée à son insu me dérange, mais je ne veux pas d'une interdiction générale de l'État sur un objet que je n'utilise pas."},
+    {"item_id": "pet18", "participe_proba": 0.006, "partage_proba": 0.02, "raison": "Je ne partage pas ces mesures générales sur la consommation, les vols ou la mode, et ce ton militant ne m'attire pas."},
+    {"item_id": "pet19", "participe_proba": 0.05, "partage_proba": 0.2, "raison": "Les forêts valaisannes et le risque d'incendie me concernent, mais la pétition vise un projet d'un ministre de mon propre parti, et je n'aime pas signer contre lui."},
+    {"item_id": "pet20", "participe_proba": 0.10, "partage_proba": 0.35, "raison": "Protéger les femmes et les jeunes contre les drogues qui servent à agresser me touche, et je veux une réponse ferme de l'État, mais je reste prudente avec les pétitions en ligne."}
+  ]
+}

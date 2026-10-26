@@ -1,0 +1,29 @@
+{
+  "id": "p59",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Une contraception accessible à toutes et à tous me paraît juste, et 20 millions par an restent raisonnables pour éviter des grossesses non désirées, même si je comprends la prudence du Conseil d'État."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Moins de voitures à la frontière, plus de bus et de tram, et un financement cantonal inférieur à la moitié du coût de chaque projet : c'est utile pour l'air que je respire et pour ceux qui font la navette chaque jour."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Devenir propriétaire de son logement est une belle idée, mais je crains que la vente à un locataire fasse peu à peu disparaître les appartements abordables et mette les autres locataires de l'immeuble sous pression, donc je suis plutôt pour le non comme le PS et l'ASLOCA."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La formation des soignants et des travailleurs sociaux compte pour moi, mais une baisse de 2 millions par an alors que les taxes d'études augmentent me paraît un mauvais signal, donc je pencherais pour le non avec le PS."
+    }
+  ]
+}

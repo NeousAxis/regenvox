@@ -1,0 +1,39 @@
+{
+  "id": "p14",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Savoir que des agriculteurs de la commune seront présents à l'atelier, et que la commune s'engage par écrit à dire ce qu'elle fera des idées recueillies. Un samedi matin plutôt qu'un soir de semaine."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un exemple chiffré et concret : un ménage de Vuadens qui achète à une ferme du coin sans payer plus cher, avec le montant réel de la différence. Une réponse claire à la question de qui paie l'écart de prix."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une question plus concrète que trente ans, par exemple ce que je peux faire sur mon terrain ou dans mon quartier pour les haies, les sols ou l'eau."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.06,
+      "ce_qui_doublerait_ma_venue": "Que la reconnaissance se traduise en aide concrète pour les exploitations, par exemple un soutien financier ou un coup de main, et pas seulement en mots dans un bulletin communal."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Le questionnaire de 10 minutes sur mon téléphone ou mon ordinateur est le seul format que je pourrais faire un soir sans sortir ni m'engager sur une date. L'atelier demande deux heures et demie, en semaine après le travail ou un samedi, et je ne fréquente pas ce genre d'ateliers. Le parcours sur trois semaines, je le commencerais et je l'oublierais. Même pour le questionnaire, je ne suis pas certain de le remplir."
+}

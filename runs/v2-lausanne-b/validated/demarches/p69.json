@@ -1,0 +1,65 @@
+{
+  "id": "p69",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Je n'ai pas vu cette annonce à l'époque, et entre le travail du samedi et mes obligations de famille, je n'aurais pas eu la possibilité d'aller aux ateliers du lac."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Ce premier budget participatif était peu visible, je l'aurais peut-être voté en ligne si je tombais dessus, mais je n'en ai sans doute pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.12,
+      "partage_proba": 0.09,
+      "raison": "En 2020, entre le Covid, des horaires serrés et les enfants à gérer, voter pour des projets de quartier reste possible mais pas prioritaire pour moi."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.09,
+      "raison": "Un sondage de cinq minutes sur mon quartier me parle, surtout sur le patrimoine et la nature, mais je ne l'aurais vu que relayé par un voisin ou par les Vert-e-s."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin affranchi arrive directement dans ma boîte aux lettres, ce qui facilite le vote, mais choisir au moins trois projets demande du temps que je n'ai pas toujours."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Je ne fréquente pas beaucoup les quais d'Ouchy, et un questionnaire de quinze questions sur la circulation ne fait pas partie de mes priorités."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin reçu à domicile me donnerait une chance réelle de voter, mais j'en parlerais rarement spontanément, car le sujet reste assez technique pour moi."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Le sujet me touche, mais une consultation sans suite visible me donne l'impression que mon avis ne changera pas grand-chose, donc je ne prendrais probablement pas le temps."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.24,
+      "partage_proba": 0.18,
+      "raison": "Les enfants reçoivent aussi leur bulletin dès quatre ans, on en discuterait à table pour choisir ensemble, même si le temps manque souvent."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin à domicile et le vote en ligne rendent la participation simple, mais entre la rentrée et le rythme de la famille, je ne suis pas certaine d'y penser à temps."
+    }
+  ]
+}

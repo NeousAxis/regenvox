@@ -1,0 +1,39 @@
+{
+  "id": "p03",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.25,
+      "atelier_presentiel": 0.07,
+      "parcours_distance": 0.08,
+      "atelier_si_invite_par_un_proche": 0.2,
+      "ce_qui_doublerait_ma_venue": "Un atelier le samedi matin plutôt qu'un soir de semaine, avec deux ou trois agriculteurs de Vuadens qui expliquent en face de nous leurs revenus, leurs charges et ce qui leur permettrait de vivre vraiment de leur travail."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.18,
+      "atelier_presentiel": 0.04,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une démonstration concrète de la manière d'acheter directement à une ferme de la commune en vingt minutes, avec le prix du bio comparé à celui du magasin pour une famille avec enfants."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une question qui parle de mon quartier et de ce que je vois déjà dans les champs autour du village, plus la preuve que les idées recueillies pèsent sur une décision de la commune."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une réponse écrite de la commune sur ce qu'une reconnaissance apporterait concrètement aux fermes, avec la garantie qu'elle ne servira pas à classer les agriculteurs entre bons et mauvais."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "C'est le seul format qui ne me prend ni soirée ni samedi : dix minutes sur mon ordinateur, à mon rythme, je le fais sans y penser si la lettre arrive. Je ne viendrai pas à un atelier en semaine avec les enfants, et je n'ai pas l'impression que ces rencontres changent les décisions. Le parcours à distance m'attire un peu moins : trois rendez-vous sur trois semaines, c'est trop de rappels pour moi."
+}

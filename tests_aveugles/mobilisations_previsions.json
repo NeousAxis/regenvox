@@ -1,0 +1,170 @@
+{
+  "ecrit_le": "2026-10-25T15:32:21.925Z",
+  "runs": [
+    "v2-meyrin",
+    "v2-yverdon",
+    "v2-saviese"
+  ],
+  "previsions": [
+    {
+      "id": "pet01",
+      "titre": "Jamais Palantir à Forum EPFL",
+      "portee": "nationale (Confédération : EPFL, établissement fédéral situé à Lausanne VD)",
+      "indice_signature": 0.019,
+      "indice_diffusion": 0.02,
+      "naif_signatures_estimees": 900
+    },
+    {
+      "id": "pet02",
+      "titre": "Pas d’étés à 50 degrés! Luttons contre le changement climatique et protégeons la population!",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.125,
+      "indice_diffusion": 0.156,
+      "naif_signatures_estimees": 12000
+    },
+    {
+      "id": "pet03",
+      "titre": "L'initiative de l'UDC « pour la protection des frontières » viole le droit international impératif",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.092,
+      "indice_diffusion": 0.111,
+      "naif_signatures_estimees": 12000
+    },
+    {
+      "id": "pet04",
+      "titre": "Contre les procédures-bâillon: soutien au député genevois Sylvain Thévoz!",
+      "portee": "canton de Genève",
+      "indice_signature": 0.026,
+      "indice_diffusion": 0.028,
+      "naif_signatures_estimees": 2500
+    },
+    {
+      "id": "pet05",
+      "titre": "STOP AU PROTOXYDE D'AZOTE EN VENTE LIBRE",
+      "portee": "canton de Genève",
+      "indice_signature": 0.083,
+      "indice_diffusion": 0.102,
+      "naif_signatures_estimees": 600
+    },
+    {
+      "id": "pet06",
+      "titre": "Stop fueling the climate crisis with our pensions!",
+      "portee": "nationale (Confédération suisse : CHS PP, et caisses de pension)",
+      "indice_signature": 0.049,
+      "indice_diffusion": 0.054,
+      "naif_signatures_estimees": 3000
+    },
+    {
+      "id": "pet07",
+      "titre": "« Pour une assurance obligatoire des soins cantonale, solidaire, transparente et efficiente » ?",
+      "portee": "cantons (ensemble des cantons suisses)",
+      "indice_signature": 0.029,
+      "indice_diffusion": 0.031,
+      "naif_signatures_estimees": 150
+    },
+    {
+      "id": "pet08",
+      "titre": "Petition für eine generationengerechte AHV // Pétition pour une AVS équitable entre les générations",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.087,
+      "indice_diffusion": 0.102,
+      "naif_signatures_estimees": 1200
+    },
+    {
+      "id": "pet09",
+      "titre": "Pour le maintien du projet dans les locaux ex-Fust",
+      "portee": "commune de Versoix (GE)",
+      "indice_signature": 0.011,
+      "indice_diffusion": 0.011,
+      "naif_signatures_estimees": 700
+    },
+    {
+      "id": "pet10",
+      "titre": "MAMA 13–23 : j’ai accouché, ma maternité doit être reconnue",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.088,
+      "indice_diffusion": 0.104,
+      "naif_signatures_estimees": 4000
+    },
+    {
+      "id": "pet11",
+      "titre": "Garantir l’accès à la psychothérapie – de l’aide plutôt que des obstacles",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.075,
+      "indice_diffusion": 0.089,
+      "naif_signatures_estimees": 9000
+    },
+    {
+      "id": "pet12",
+      "titre": "SAUVONS LA FERME AUX AGRUMES : la plus grande collection privée d’agrumes d’Europe !",
+      "portee": "commune de Borex (VD)",
+      "indice_signature": 0.025,
+      "indice_diffusion": 0.027,
+      "naif_signatures_estimees": 2500
+    },
+    {
+      "id": "pet13",
+      "titre": "Une maison d'accueil pour femmes dans le Jura, dès maintenant !",
+      "portee": "canton du Jura",
+      "indice_signature": 0.053,
+      "indice_diffusion": 0.06,
+      "naif_signatures_estimees": 2500
+    },
+    {
+      "id": "pet14",
+      "titre": "Le tram, oui. La fournaise, non.",
+      "portee": "commune de Lausanne et canton de Vaud",
+      "indice_signature": 0.033,
+      "indice_diffusion": 0.037,
+      "naif_signatures_estimees": 1500
+    },
+    {
+      "id": "pet15",
+      "titre": "Suspension immédiate des expulsions des réfugié·e·s du Burundi",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.071,
+      "indice_diffusion": 0.083,
+      "naif_signatures_estimees": 1500
+    },
+    {
+      "id": "pet16",
+      "titre": "Des modèles de formation flexibles pour les personnes en situation de handicap !",
+      "portee": "nationale (Confédération et cantons)",
+      "indice_signature": 0.036,
+      "indice_diffusion": 0.039,
+      "naif_signatures_estimees": 800
+    },
+    {
+      "id": "pet17",
+      "titre": "Pas de joujou pour les stalkers – interdisons les lunettes connectées !",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.108,
+      "indice_diffusion": 0.135,
+      "naif_signatures_estimees": 15000
+    },
+    {
+      "id": "pet18",
+      "titre": "Appel en faveur de mesures climatiques immédiates: responsabilité pour l'avenir de la Suisse",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.062,
+      "indice_diffusion": 0.07,
+      "naif_signatures_estimees": 700
+    },
+    {
+      "id": "pet19",
+      "titre": "Protégeons nos forêts avant qu'il ne soit trop tard",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.094,
+      "indice_diffusion": 0.112,
+      "naif_signatures_estimees": 2500
+    },
+    {
+      "id": "pet20",
+      "titre": "Projet Medusa Suisse - pour une task force nationale contre le DFSA et les réseaux d'auteurs d'abus",
+      "portee": "nationale (Confédération suisse)",
+      "indice_signature": 0.116,
+      "indice_diffusion": 0.146,
+      "naif_signatures_estimees": 4000
+    }
+  ]
+}

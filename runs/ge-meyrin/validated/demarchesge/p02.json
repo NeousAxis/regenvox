@@ -1,0 +1,17 @@
+{
+  "id": "p02",
+  "reactions": [
+    {
+      "item_id": "gen08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Cointrin n'est pas son quartier, il n'a pas vu les flyers, et il travaille souvent le samedi dans la vente, la restauration ou le transport, donc un atelier d'urbanisme de deux heures lui passe largement au-dessus."
+    },
+    {
+      "item_id": "gen03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Il aurait pu remplir un court questionnaire en ligne s'il tombait dessus, mais la culture locale ne l'attire pas, il ne suit pas la politique culturelle de la ville et ses horaires rendent les ateliers difficiles, donc il en parlerait peut-être à sa compagne sans plus."
+    }
+  ]
+}

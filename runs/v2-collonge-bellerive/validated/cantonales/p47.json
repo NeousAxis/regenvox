@@ -1,0 +1,29 @@
+{
+  "id": "p47",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Proche des Verts, je soutiens qu'une contraception remboursée évite des grossesses subies et des frais qui pèsent sur les budgets, même si 20 millions par an représentent une dépense réelle que les autorités recommandent de refuser."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Des bus rapides et un prolongement de tram vers la France réduiraient les voitures qui traversent la frontière chaque jour, ce qui va dans le sens de mes convictions écologiques, et la part suisse reste minoritaire, donc je vote oui malgré le refus populaire de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je ne vois pas l'intérêt de faciliter la vente d'appartements à leurs locataires, car ce risque de congés-ventes menace les logements locatifs abordables que défendent les Verts, et ma situation dans un quartier de villas ne m'y touche pas directement."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "La formation des soignants et des enseignants me paraît essentielle, mais réduire l'indemnité de la HES et compenser par des taxes d'études plus élevées ne me convainc pas, donc je penche pour le non que demandent les Verts."
+    }
+  ]
+}

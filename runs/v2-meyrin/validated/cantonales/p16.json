@@ -1,0 +1,29 @@
+{
+  "id": "p16",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.25,
+      "raison": "Je comprends le besoin d'accès à la contraception, mais financer tous les moyens sans condition de revenu avec de l'argent public, sans cadre plus précis, ne me convainc pas, surtout dans un canton où les finances sont déjà tendues."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.65,
+      "raison": "Les bouchons à la frontière et les trams saturés autour de Meyrin me touchent directement, et si le projet réduit vraiment le trafic je suis prêt à payer une part, même si je reste sceptique sur l'argent qui part en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je vois ça comme un droit de propriété qui s'ajoute au choix du locataire, à condition que les autres locataires ne soient pas poussés dehors, mais la crainte des congés-ventes me retient."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Les hautes écoles spécialisées forment les personnes dont l'économie a besoin, et une baisse de 2 millions par an me paraît raisonnable face au budget cantonal, même si le comité référendaire trouve ça insuffisant."
+    }
+  ]
+}

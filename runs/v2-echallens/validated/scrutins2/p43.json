@@ -1,0 +1,197 @@
+{
+  "id": "p43",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Je soutiens le financement de l'AVS et de l'AI, le PS dit oui et je tiens à ce que les rentes restent solides."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.8,
+      "raison": "Une hausse temporaire et encadrée pour sauver l'AI me paraît acceptable, le PS et le PLR soutiennent ce texte."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.8,
+      "raison": "Je suis contre l'exportation de matériel de guerre, même si la reconversion des régions touchées me préoccupe un peu."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "J'ai fait mon service et je crois à l'armée de milice, même si le PS soutient l'abolition je reste réservé."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "La libre circulation a beaucoup profité à notre région et je refuse les plafonds, même si je comprends les inquiétudes de certains voisins."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Le PS est contre cet achat et la dépense militaire me paraît excessive, sans être opposé à toute défense."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.05,
+      "raison": "Je ne veux pas inscrire une définition du mariage dans la Constitution, et les couples mariés ne doivent pas être pénalisés."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le PS soutient le financement de l'AVS, même si le relèvement de l'âge des femmes me gêne, je vote oui par solidarité avec les retraités."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.35,
+      "oui_proba": 0.45,
+      "raison": "Je suis sensible au bien-être des animaux, mais une subvention fédérale pour garder les cornes me paraît superflue."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.08,
+      "raison": "Je tiens au droit international et à la voie bilatérale avec l'UE, et le PS est clairement contre ce texte."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.75,
+      "raison": "Je fais confiance à la coopération Schengen pour la sécurité, et les exceptions pour les tireurs me paraissent raisonnables."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.07,
+      "raison": "La libre circulation apporte beaucoup à l'économie locale et je ne veux pas sortir de l'accord avec l'UE."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je suis plutôt du côté de la protection de la nature et le PS dit non, mais je comprends la détresse des éleveurs."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le PS est contre un achat de six milliards d'avions, je pense qu'il faut d'abord investir dans les besoins sociaux."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je ne veux pas que la BNS, les caisses de pension ou les fondations financent les fabricants d'armes, et le PS soutient ce texte."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "L'eau potable et la réduction des pesticides me tiennent à cœur, mais le texte me semble trop contraignant pour nos agriculteurs."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les pesticides de synthèse posent un vrai problème pour l'eau et la santé, mais le délai de dix ans et l'interdiction d'importer me paraissent difficiles à appliquer."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.9,
+      "raison": "C'est une question d'égalité des droits, le PS soutient cette ouverture et je ne vois pas de raison de la refuser."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible à la protection des animaux, mais une interdiction totale de la recherche me paraît dangereuse pour la santé."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Le PS est contre ce renforcement de Frontex et je doute qu'une politique de contrôle plus dure protège vraiment les personnes migrantes."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Je trouve que les animaux de rente sont trop souvent traités de manière industrielle et le PS soutient l'initiative, même si le délai de 25 ans me surprend."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Le PS a refusé AVS 21 et je trouve injuste de relever l'âge de référence des femmes sans mesures suffisantes."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "La nature et les paysages de notre région se dégradent, il faut davantage de moyens pour la biodiversité et le PS soutient l'initiative."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "L'égalité entre femmes et hommes me paraît juste, le PS soutient l'imposition individuelle et je vis seul donc je ne suis pas directement concerné."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Je ne crois ni à un plafond de population ni à la dénonciation de la libre circulation, et le PS est contre ce texte."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Le service civil doit rester accessible, le PS dit non et je ne veux pas rendre plus difficile le choix de la conscience."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Je suis attaché à la neutralité, mais l'inscrire de façon absolue dans la Constitution, sans marge pour les sanctions de l'ONU, me paraît trop rigide."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je suis d'accord sur la réduction des pesticides et la protection de l'eau, mais l'objectif de 70 % de production locale est irréaliste et le PS dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Retraité, je bénéficie de l'AVS, la 13e rente a été acceptée par le peuple et le PS comme les Vert-e-s soutiennent ce financement, donc je vote oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Le bruit des pétards me dérange et effraie les animaux, mais je tiens aux fêtes du 1er août, et le PS n'a pas encore décidé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Je ne souhaite pas revenir à l'imposition commune, l'imposition individuelle est une question d'égalité et la Constitution ne doit pas fixer ce choix."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Le PS est contre cet assouplissement et je ne veux pas que la Suisse livre des armes à des pays impliqués dans des conflits."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "attaques": [
+    {
+      "posture": "statisticien",
+      "cible": "backtest",
+      "critique": "Le panel surestime massivement le oui sur les quatre votations qui contraignaient l'agriculture, c'est-à-dire la famille de sujets dont relève l'objectif (convertir la majorité des terres en bio). Sur ces quatre scrutins, il fait systématiquement pire que la simple reprise du résultat cantonal, et l'étalonnage aggrave encore l'écart. Or les soutiens des angles (81,9 %, 70,9 %, 62,6 %, 47,5 %) sont publiés bruts, sans correction de ce biais mesuré de -0,81 en logit. Sur le sujet même de la démarche, le panel est nettement plus vert que Vuadens.",
+      "element_verifiable": "Écarts bruts sur le oui : eau potable 2021, 45,7 simulé contre 19,6 réel (26,1 points) ; pesticides 2021, 39,1 contre 23,4 (15,7) ; élevage intensif 2022, 30 contre 18 (12) ; biodiversité 2024, 41 contre 27,8 (13,2), soit 16,8 points en moyenne, toujours dans le sens d'un oui surestimé. Écarts de la référence cantonale sur les mêmes votes : 11,6, 9,5, 9,1 et 6,5 points. Version étalonnée : 31, 20,5, 16,2 et 18 points. biais_par_effet_agriculture.contrainte_agriculture = -0,81. Transposition illustrative de ce biais aux angles (calcul sur les données du run) : angle 1 de 81,9 % à environ 67 %, angle 3 de 70,9 % à environ 52 %, angle 4 de 62,6 % à environ 43 %, angle 2 de 47,5 % à environ 29 %.",
+      "source_element": "donnees_du_run",
+      "impact": "Les niveaux absolus de soutien ne peuvent pas être lus comme une estimation de l'adhésion réelle des habitants. Vuadens a rejeté ces quatre initiatives avec 72 % à 82 % de non ; un rapport qui annoncerait 82 % de soutien à une démarche bio tromperait le décideur sur l'ampleur de la résistance à attendre.",
+      "angle_mort": "La famille de biais applicable aux angles n'est pas tranchée : l'angle 1 est formulé comme un soutien aux paysans (famille où le biais n'est que de -0,098), mais son contenu réel est une contrainte de pratiques. Le rapport doit exposer les deux lectures au lieu de retenir implicitement la plus favorable."
+    },
+    {
+      "posture": "journaliste",
+      "cible": "angle",
+      "critique": "Aucun des quatre angles ouverts ne mentionne l'objectif réel (la majorité des terres en bio d'ici dix ans). Le panel a donc mesuré l'adhésion à des questions consensuelles (que les paysans vivent bien, transmettre une bonne terre), pas au projet. Le seul angle qui énonce l'objectif est le témoin, qui le combine avec une décision imposée : sa chute à 17,4 % mélange deux effets, le ton descendant et le contenu, sans permettre de les séparer. Le témoin prouve que le panel rejette une injonction, pas qu'il accepterait l'objectif présenté ouvertement.",
+      "element_verifiable": "Formulations des angles 1 à 4 dans le run : aucune ne contient « bio d'ici dix ans » ni « majorité des terres ». Part initiale d'opposants : 0 pour les quatre angles ouverts, 7,4 % pour le témoin. Témoin : soutien 17,4 %, résistance 66,6 %, soutien final des agriculteurs 6,3 %. Le frein « sentiment que tout est déjà décidé » est cité par 12 personas.",
+      "source_element": "donnees_du_run",
+      "impact": "Le soutien de 81,9 % peut s'effondrer au moment où l'objectif chiffré sera annoncé, ce qui arrivera forcément dans une démarche transparente. S'il est révélé après coup, la commune s'expose au reproche d'avoir caché son intention, précisément le frein le plus sensible pour le segment méfiant envers la commune.",
+      "angle_mort": "Il manque un second témoin : une formulation ouverte qui énonce l'objectif (par exemple « Comment viser ensemble une majorité de terres en bio d'ici dix ans, au rythme fixé par les agriculteurs ? »). Sans lui, on ne sait pas si c'est la méthode ou le but qui est rejeté."
+    },
+    {
+      "posture": "économiste",
+      "cible": "simulation",
+      "critique": "La simulation mesure la sympathie pour une démarche, pondérée sur toute la population, alors que l'objectif dépend de la décision d'une vingtaine d'exploitants conventionnels. Les agriculteurs ne pèsent que 3,0 % dans le soutien global : 97 % du poids des 81,9 % vient d'habitants qui ne cultivent aucun hectare. Aucune métrique ne mesure l'intention de conversion, et l'indicateur qui s'en approche le plus (part de coporteurs chez les agriculteurs) vaut 0 pour tous les angles. L'objectif d'agriculteurs « premiers porteurs » n'est atteint dans aucun scénario simulé.",
+      "element_verifiable": "21 % de 719 ha font environ 151 ha en bio ; la majorité suppose plus de 360 ha, soit environ 209 ha supplémentaires. Les 20 exploitations conventionnelles cultivent environ 568 ha, soit 28 ha en moyenne : il faut convertir l'équivalent de 7 à 8 exploitations moyennes sur 20. Les 3 fermes bio cultivent en moyenne environ 50 ha chacune, les fermes restantes sont donc plus petites en moyenne. Agriculteurs repondérés à 3,0 % des 16 ans et plus ; part_coporteurs = 0 et coporteurs = 0 pour les angles 0 à 4 (calculs effectués sur les données du run).",
+      "source_element": "donnees_du_run",
+      "impact": "Recommander l'angle 1 sur la base du soutien global revient à optimiser l'opinion des non agriculteurs. Le décideur pourrait croire la démarche en bonne voie alors que rien dans le run n'indique qu'un seul exploitant supplémentaire envisage de se convertir.",
+      "angle_mort": "Ni le coût de la conversion, ni le revenu attendu, ni la période de reconversion ne figurent dans le modèle. L'angle le plus porteur pour une conversion effective pourrait ne pas être l'angle 1 : l'angle 3 compte 7 agriculteurs favorables sur 8 au départ, contre 5 sur 8."
+    },
+    {
+      "posture": "statisticien",
+      "cible": "backtest",
+      "critique": "Le backtest ne démontre pas de valeur prédictive propre. Le modèle brut fait moins bien que la référence naïve cantonale, l'étalonnage dégrade à la fois l'écart et le sens, et le sens correct n'est meilleur que d'une votation par rapport à une règle qui répond toujours non. Les intervalles à 90 % sont beaucoup trop étroits : le résultat réel en sort dans 5 votations test sur 8. La seule version qui bat la référence cantonale (correction par famille en leave-one-out, 5,3 points) est ajustée sur les votations test elles-mêmes, dont deux tenues le même jour.",
+      "element_verifiable": "synthese : écart moyen brut 10,2 points, étalonné 12,6, référence cantonale 7,0 ; sens correct brut 7/8, étalonné 6/8, référence toujours non 6/8, référence cantonale 7/8. Réel hors IC90 pour souveraineté (47,3 hors de 48,1 à 59,2), eau (19,6 hors de 38 à 53,3), pesticides (23,4 hors de 31,8 à 46,8), élevage (18 hors de 25,6 à 34,3) et biodiversité (27,8 hors de 34,3 à 47,8). Famille contrainte_agriculture : 4 votations, dont eau et pesticides le 13.06.2021 ; écart maximal en leave-one-out 11,4 points. Avec 37 électeurs, si les personas étaient des tirages indépendants, l'erreur d'échantillonnage seule serait d'environ 8 points d'écart type à 50 % de oui, soit 13 à 14 points à 90 %, bien plus que la demi-largeur des IC90 publiés (environ 4 à 8 points).",
+      "source_element": "donnees_du_run",
+      "impact": "Présenter le backtest comme une validation serait trompeur. Les intervalles p05 à p95 publiés pour les angles reposent sur la même mécanique et sous-estiment probablement l'incertitude de la même manière.",
+      "angle_mort": "Les intervalles ne reflètent que l'aléa de la simulation, pas l'incertitude sur la composition d'un panel de 48 personas ni sur la manière dont le modèle de langage les fait répondre."
+    },
+    {
+      "posture": "organisation agricole",
+      "cible": "segments",
+      "critique": "Toutes les conclusions sur les agriculteurs, acteurs décisifs de l'objectif, reposent sur 8 personas fictifs jamais confrontés à une donnée réelle : le backtest valide (mal) l'électorat, pas les paysans, qui n'y pèsent que 3 %. Leur sensibilité politique est même inférée par le persona faute de donnée locale. Avec 8 personas, chaque agriculteur vaut 12,5 points, et les écarts invoqués pour départager les angles 1 et 3 chez les agriculteurs valent moins d'un persona. Le panel montre en outre des réponses alignées sur l'étiquette partisane, signe de stéréotypes plutôt que de nuances locales.",
+      "element_verifiable": "acteurs_cles : n = 8. Soutien final des agriculteurs 80,2 % (angle 1) contre 81,7 % (angle 3) ; avis en ligne 16,1 % contre 12,6 %, soit 3,5 points, environ 0,3 persona. Favorables au départ : 5 sur 8 (angle 1), 7 sur 8 (angle 3). Hypothèses : « sensibilité politique non renseignée, faute de donnée locale : le persona l'infère de son profil ». Les 6 proches du PS sont tous porteurs de l'angle 1, contre 1 proche de l'UDC sur 6 ; les 5 favorables au témoin sont tous proches du PS ou des Vert-e-s.",
+      "source_element": "donnees_du_run",
+      "impact": "L'affirmation du Sociologue selon laquelle l'angle 1 est celui qui mobilise le plus les agriculteurs n'est pas étayée. Les segments agricoles (éleveurs ouverts sous condition de prix, éleveurs réticents au rôle de promoteur) sont des hypothèses de travail à confronter aux exploitants réels, pas des constats.",
+      "angle_mort": "Aucune donnée réelle sur les exploitations de Vuadens (âge des exploitants, taille, relève assurée ou non, livraison à la fromagerie, endettement) n'alimente les personas : on ignore si les 8 profils couvrent les situations des 20 exploitations conventionnelles."
+    },
+    {
+      "posture": "organisation agricole",
+      "cible": "angle",
+      "critique": "Le levier central de l'angle 1, un lait bio mieux payé, ne dépend d'aucun acteur que la démarche maîtrise. Il suppose que la fromagerie villageoise puisse fabriquer et vendre du Gruyère AOP bio, donc une collecte séparée ou la conversion de l'ensemble de ses fournisseurs, et que la filière lui ouvre des débouchés en bio. La conversion devient alors une décision collective à seuil, prise au niveau de la société de fromagerie, que le modèle traite comme une somme de décisions individuelles sur un réseau de 4 voisins.",
+      "element_verifiable": "À vérifier auprès de la fromagerie et de l'Interprofession du Gruyère : la fromagerie de Vuadens fabrique-t-elle ou peut-elle fabriquer du Gruyère AOP bio ; combien de producteurs la livrent ; une collecte séparée de lait bio est-elle possible ; comment les quantités de Gruyère bio sont-elles attribuées. À vérifier aussi : le cahier des charges de Bio Suisse impose en règle générale la reconversion de l'ensemble de l'exploitation, avec une période de reconversion (durée à confirmer) pendant laquelle le prix bio plein n'est pas acquis.",
+      "source_element": "connaissance_generale_a_verifier",
+      "impact": "Si la fromagerie ne peut pas valoriser du lait bio, un éleveur qui se convertit supporte les coûts du bio sans en toucher le prix : l'angle 1 deviendrait une promesse que personne ne peut tenir, et la démarche perdrait les 5 éleveurs ouverts sous condition de prix.",
+      "angle_mort": "Le run ne dit rien de la position de la fromagerie, alors que le Sociologue en fait le lieu des rencontres et l'interlocutrice d'un prix garanti : c'est l'acteur clé absent du panel."
+    },
+    {
+      "posture": "opposition municipale",
+      "cible": "participation",
+      "critique": "Les chiffres de participation se contredisent et sont présentés avec une précision qu'ils n'ont pas. Deux mesures de l'avis en ligne dans le même run diffèrent d'un facteur 4 pour l'angle 2 et classent les angles dans un ordre différent ; les métriques donnent 0 en atelier pour tous les angles alors que la mobilisation donne 3,7 % ; aucun persona ne choisit de ne participer à rien. Le panel ne distingue pas les scrutins mobilisateurs des autres, et le facteur 0,75 est choisi a posteriori sur un sous-ensemble de 4 scrutins.",
+      "element_verifiable": "metrics.participation.avis_en_ligne : angle 1 16,5 %, angle 2 35,8 %, angle 3 18,1 %, angle 4 14,7 % ; mobilisation, avis en ligne : 10,7 %, 9,0 %, 7,2 %, 7,3 %. metrics.participation.atelier = 0 et porteurs_projet = 0 pour tous les angles. formats_preferes.aucun = 0. Participation simulée sur les 8 votations test : 41,6 % à 56,8 % ; réelle : 30,7 % à 64,4 %, sous-estimée en 2021 (eau : 54,7 contre 64,4) et surestimée en 2018 (aliments équitables : 41,6 contre 30,7). Rapport réel sur simulé : 0,75 sur les 4 scrutins les moins suivis, 0,97 sur les 8.",
+      "source_element": "donnees_du_run",
+      "impact": "Les effectifs de 171 avis en ligne, 59 personnes en atelier et 164 sur invitation ne doivent servir ni de cible ni de base budgétaire : le chiffre de 164 suppose que chaque habitant reçoive l'invitation d'un proche, et l'effet d'invitation de 2,78 est purement déclaratif. Le Sociologue écrit à la fois que l'angle 1 arrive en tête dans les quatre formats et que l'angle 2 a la plus forte intention de donner son avis en ligne, sans expliquer la contradiction.",
+      "angle_mort": "Voter et venir à un atelier sont deux comportements différents : l'écart entre intention déclarée et présence réelle est vraisemblablement plus grand pour un atelier un soir de semaine que pour un vote par correspondance, ce que la correction tirée des votations ne capte pas."
+    },
+    {
+      "posture": "économiste",
+      "cible": "simulation",
+      "critique": "Les niveaux à horizon sont surtout le produit des hypothèses du modèle de diffusion, pas du panel. Les taux de bascule et les coefficients d'influence ne sont calibrés sur aucune donnée réelle, le modèle a été respécifié après que sa première version saturait, et l'analyse de sensibilité ne fait varier que qA et qO, pas les taux de base, l'usure de 1,5 % par mois, la structure du réseau ni l'horizon. Pour le témoin, l'opposition croît encore à la fin de la période simulée : le résultat dépend de la date à laquelle on arrête le calcul.",
+      "element_verifiable": "Angle 3 : 43,1 % de porteurs et intéressés au départ, 70,9 % de soutien à horizon, soit 27,8 points produits par la diffusion, contre 72,4 % puis 81,9 % pour l'angle 1 (9,5 points). L'écart initial de 29,3 points entre les angles 1 et 3 tombe à 11 points à horizon. Témoin : opposition de 7,4 % au mois 0 à 66,6 % au mois 24, encore +1,5 point entre les mois 23 et 24, avec 15,9 % de neutres restants. Hypothèses : version 1 à 88 % à 99 % de soutien pour tous les angles ; sensibilité limitée à qA et qO à 50 % et 150 %.",
+      "source_element": "donnees_du_run",
+      "impact": "Seules les répartitions initiales sont des réponses du panel ; soutiens à horizon, viralité et mois de mi-parcours sont des sorties de modèle à présenter comme des scénarios conditionnels. Les intervalles de sensibilité des angles 1 (66,2 % à 89,1 %) et 3 (50,6 % à 83,3 %) se recouvrent largement.",
+      "angle_mort": "Le modèle convertit des indifférents en soutiens par simple voisinage ; il ne représente ni événement déclencheur (prix du lait, votation, conflit local), ni contre-campagne organisée, ni l'effet d'un premier échec visible."
+    },
+    {
+      "posture": "journaliste",
+      "cible": "donnees",
+      "critique": "L'objectif repose sur une grandeur mal définie. Les surfaces agricoles du territoire communal et la surface agricole utile des exploitations de Vuadens ne sont pas la même chose, et les deux chiffres du run divergent d'environ 60 ha, avec cinq ans d'écart entre les sources. Selon la définition retenue, l'objectif peut être atteint ou manqué sans qu'aucune pratique ne change sur le sol de Vuadens.",
+      "element_verifiable": "63 % de 1 046 ha font environ 659 ha de surfaces agricoles sur le territoire (statistique de la superficie 2020), contre 719 ha de surface agricole utile des 23 exploitations (recensement agricole 2025). L'objectif parle de « la majorité des terres agricoles de la commune ». Les 64 emplois agricoles situés dans la commune sont « assimilés à des résidents » pour fixer le poids des agriculteurs à 3,0 %.",
+      "source_element": "donnees_du_run",
+      "impact": "Sans indicateur de suivi défini dès maintenant (surface, source, périmètre, année de référence), le bilan à dix ans sera contestable et la commune pourra être accusée de choisir le chiffre qui l'arrange.",
+      "angle_mort": "Le rattachement de la surface agricole utile au siège de l'exploitation (qui peut inclure des parcelles hors commune et exclure des parcelles de la commune exploitées par des fermes voisines) et l'éventuelle prise en compte de surfaces d'estivage sont à vérifier auprès de l'OFS ; le run ne permet pas de savoir quelle part des 151 ha bio se trouve physiquement à Vuadens."
+    },
+    {
+      "posture": "juriste",
+      "cible": "angle",
+      "critique": "La commune se fixe un objectif dont elle ne détient pas les leviers. La politique agricole (paiements directs, règles de l'agriculture biologique) relève de la Confédération et du canton, le label Bourgeon est un cahier des charges privé, et la conversion reste la décision de chaque exploitant. Les leviers propres d'une commune se limitent pour l'essentiel à ses terrains agricoles affermés, à ses achats (repas scolaires, garderie), à l'information et à d'éventuels soutiens financiers, qui devront respecter l'égalité de traitement entre exploitants.",
+      "element_verifiable": "À vérifier : surface agricole appartenant à la commune et échéances des baux à ferme (la loi fédérale sur le bail à ferme agricole encadre leur durée et leur résiliation) ; existence et mode d'approvisionnement d'une cantine ou d'une garderie communale ; base légale communale pour une aide conditionnée à la conversion. Donnée du run : le segment des défenseurs de la liberté des paysans (12 personas) formule déjà l'objection « ce n'est pas à la commune de leur dire comment cultiver ».",
+      "source_element": "connaissance_generale_a_verifier",
+      "impact": "Un objectif public chiffré que la commune ne peut pas piloter juridiquement expose le Conseil communal à un échec qui lui sera imputé et nourrit l'objection la plus répandue chez les personas méfiants envers la commune.",
+      "angle_mort": "Le run ne distingue pas ce que la commune peut décider seule de ce qu'elle peut seulement encourager ; le rapport devrait présenter l'objectif comme celui d'une démarche portée par les exploitants, avec des engagements communaux limités à ses compétences."
+    },
+    {
+      "posture": "militant écologiste",
+      "cible": "angle",
+      "critique": "La part de surface en bio est un indicateur pauvre de ce que l'enjeu veut protéger. Sur une commune herbagère où presque toutes les fermes ont des bovins, convertir des prairies permanentes change peu l'usage de pesticides, généralement faible sur ces surfaces, alors que les pressions principales sur l'eau, les sols et la biodiversité tiennent à la charge en bétail, aux apports d'azote et d'ammoniac et à l'intensité de fauche. L'objectif peut être atteint avec un gain écologique modeste, ou manqué alors que des progrès réels sont faits par d'autres voies.",
+      "element_verifiable": "Données du run : 93 % de prairies et pâturages, 21 exploitations sur 23 avec des bovins. À vérifier pour Vuadens : charge en bétail par hectare, part des surfaces de promotion de la biodiversité, teneur en nitrates des captages d'eau potable, intensité d'utilisation des prairies.",
+      "source_element": "connaissance_generale_a_verifier",
+      "impact": "Les angles 3 et 4 promettent des sols, une eau et une vie sauvage préservés ; si le seul indicateur de suivi est la surface bio, la démarche ne pourra pas montrer ce qu'elle apporte réellement et pourra être accusée à la fois d'écoblanchiment par les uns et de contrainte inutile par les autres.",
+      "angle_mort": "Le modèle ne contient aucune variable environnementale, et les pratiques intermédiaires évoquées par p02 et p41 (haies, bandes fleuries, prairies extensives) ne comptent pas pour l'objectif, alors qu'elles pourraient rallier les éleveurs réticents sans passer par le label."
+    },
+    {
+      "posture": "habitant sceptique",
+      "cible": "donnees",
+      "critique": "Plusieurs leviers reposent sur des faits locaux inventés par les personas, et certains portraits sont assez précis pour être pris pour de vrais voisins. Le run admet que lieux de vie et composition des ménages sont des hypothèses génériques ; pourtant l'analyse s'appuie sur une cantine, une coopérative laitière, des hameaux, des haies existantes et des cercles de 30 à 60 relais par persona. Dans une commune de 23 exploitations dont 3 en bio, « seul éleveur en bio du panel », « seul avec ses enfants » ou « futur repreneur probable de 24 ans » peuvent désigner des personnes réelles.",
+      "element_verifiable": "Hypothèses du run : « Composition des ménages et lieux de vie dans la commune : hypothèses génériques, non sourcées ». Le Sociologue signale lui-même que l'existence d'une cantine ou d'une garderie, citée par 11 personas, est à vérifier, de même que les haies et bandes fleuries de p02 et p41. Ambassadeurs désignés par identifiant de persona (p19, p12, p13, p23 et autres) avec des tailles de réseau de 30 à 60 personnes non sourcées. Commune réelle : 23 exploitations, dont 3 en bio.",
+      "source_element": "donnees_du_run",
+      "impact": "Des leviers construits sur une infrastructure qui n'existe peut-être pas (la cantine comme débouché) ruinent la crédibilité de la démarche dès la première réunion ; des portraits reconnaissables peuvent mettre en porte-à-faux des agriculteurs réels qui n'ont rien dit.",
+      "angle_mort": "Rien n'indique au lecteur que les ambassadeurs sont des profils à rechercher et non des personnes identifiées ; il faut traduire chaque persona en profil type et retirer les détails qui permettent une identification."
+    }
+  ],
+  "verdict": "accept_with_notes",
+  "notes_pour_rapport": [
+    "Présenter les soutiens des angles comme un classement relatif, jamais comme une prévision d'adhésion ; afficher à côté les résultats réels de Vuadens sur les quatre votations qui contraignaient l'agriculture (18 % à 27,8 % de oui) et l'ordre de grandeur obtenu en transposant le biais mesuré de -0,81 en logit (angle 1 environ 67 %, angle 3 environ 52 %, angle 4 environ 43 %, angle 2 environ 29 %).",
+    "Écrire que les angles 1 à 4 ne mentionnent pas l'objectif chiffré, et tester avant tout lancement un angle ouvert qui l'énonce, pour séparer l'effet du ton descendant de celui du contenu.",
+    "Distinguer soutien à la démarche et intention de conversion : l'objectif suppose environ 209 ha supplémentaires, soit l'équivalent de 7 à 8 exploitations conventionnelles moyennes sur 20, et aucune métrique du run ne mesure cette intention.",
+    "Corriger ou expliquer avant publication les incohérences internes : coporteurs, participation en atelier et porteurs de projet à 0 pour tous les angles contre 3,7 % de venue en atelier dans la mobilisation ; avis en ligne de 35,8 % contre 9,0 % pour l'angle 2. Retirer l'affirmation selon laquelle l'angle 1 est en tête dans tous les formats tant que les deux mesures divergent.",
+    "Documenter les limites du backtest : modèle brut moins précis que la référence cantonale (10,2 contre 7,0 points), étalonnage qui dégrade l'écart et le sens, résultat réel hors de l'IC90 dans 5 votations test sur 8 ; présenter la correction par famille (5,3 points) comme un ajustement fait sur les votations test, non comme une validation indépendante.",
+    "Qualifier tous les résultats agriculteurs d'illustratifs (8 personas fictifs, non validés, sensibilité politique inférée) et les confronter à des entretiens avec les exploitants réels avant toute décision.",
+    "Présenter les effectifs de mobilisation (171, 59, 51, 164) comme des plafonds déclaratifs, sans en faire des cibles ni une base budgétaire.",
+    "Vérifier auprès de la fromagerie villageoise et de l'Interprofession du Gruyère la possibilité de valoriser du lait bio en Gruyère AOP bio avant de promettre un prix du lait bio.",
+    "Fixer dès maintenant l'indicateur de suivi de l'objectif : surface agricole utile des exploitations de Vuadens ou surfaces du territoire communal (719 ha contre environ 659 ha), avec sa source et son année de référence.",
+    "Séparer ce que la commune peut décider (terrains communaux affermés, achats pour les repas scolaires, information, soutiens conformes à l'égalité de traitement) de ce qui relève des exploitants, de la filière, du canton et de la Confédération.",
+    "Ajouter à la surface bio des indicateurs environnementaux (charge en bétail, surfaces de promotion de la biodiversité, nitrates des captages).",
+    "Mentionner explicitement que personas et ambassadeurs sont fictifs, retirer les détails permettant de reconnaître une exploitation réelle, et marquer à vérifier tous les faits locaux cités par les personas (cantine, garderie, coopérative, haies, hameaux).",
+    "Signaler que l'angle 1 ne touche que 2 personas étrangers sur 9, contre 7 sur 9 pour l'angle 2, et prévoir une entrée par l'assiette pour les 21 % de résidents étrangers.",
+    "Toute reformulation de l'angle 1 (retrait du mot « promoteur », ajout d'un volet relève) en fait un nouvel angle, à resimuler avant d'en reprendre les chiffres."
+  ]
+}

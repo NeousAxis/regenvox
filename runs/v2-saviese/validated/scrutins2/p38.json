@@ -1,0 +1,197 @@
+{
+  "id": "p38",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.72,
+      "raison": "J'ai 47 ans et je travaille encore, mais le PDC soutient le financement de l'AVS et une hausse de TVA me paraît acceptable pour garantir les retraites de demain."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Une hausse temporaire de 0,4 point pour l'AI, limitée à 2017, me paraît raisonnable, et le PDC la soutient."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Les entreprises d'armement font partie de notre économie et je ne veux pas d'une interdiction totale, même si je comprends les inquiétudes liées aux conflits."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je tiens à la milice et le PDC rejette cette abolition, donc je ne vois pas de raison de la soutenir."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Les nouvelles constructions et la pression sur les routes me préoccupent, mais le PDC refuse cette initiative et je reste sur cette ligne, sans trop de certitude."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.68,
+      "raison": "L'armée doit disposer d'avions modernes pour protéger le pays, et le PDC soutient ce renouvellement, même si le prix me paraît élevé."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Je suis attachée au mariage et je trouve injuste que les couples mariés paient davantage d'impôts, une position que le PDC soutient."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "La réforme de l'AVS est nécessaire, le supplément de 70 francs sur les nouvelles rentes me paraît juste et le PDC soutient ce financement par la TVA."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "J'aime les vaches à cornes de nos alpages, mais cette initiative pèserait sur les paysans et le PDC la rejette, donc j'ai un léger penchant pour le non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je tiens à la souveraineté suisse, mais je ne veux pas remettre en cause les accords avec l'Europe dont dépendent notre économie et nos échanges, et le PDC dit non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Le PDC soutient la reprise de la directive européenne pour garder Schengen, mais je comprends les tireurs et les chasseurs de la région qui s'inquiètent de ces restrictions."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.22,
+      "raison": "Je vois la pression sur les infrastructures et les logements, mais cette initiative veut dénoncer la libre circulation avec l'UE, ce que le PDC refuse, et je ne veux pas risquer nos accords."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.6,
+      "oui_proba": 0.72,
+      "raison": "Les attaques de loups inquiètent les éleveurs de nos alpages, et une régulation plus souple me paraît nécessaire, comme le soutient le PDC."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "La défense aérienne est indispensable et le PDC soutient le renouvellement de la flotte, même si 6 milliards représentent une somme importante pour le pays."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas que la Banque nationale ou les caisses de pension soient contraintes par ces règles, et le PDC rejette cette initiative, donc je reste sur le non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Je veux une eau propre, mais des paiements directs réservés aux exploitations sans pesticides ni antibiotiques mettraient en difficulté nos vignerons et agriculteurs, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "L'interdiction des pesticides de synthèse me touche pour la santé, mais elle serait trop brutale pour nos vignerons et Le Centre appelle à voter non."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.62,
+      "raison": "Le Centre soutient l'ouverture du mariage et je pense que chacun doit pouvoir se marier, même si ce sujet me touche moins directement."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.22,
+      "raison": "Je suis sensible au bien-être des animaux, mais la recherche médicale a besoin d'essais, et les partis, dont Le Centre, rejettent une interdiction totale."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.68,
+      "raison": "Je trouve normal que la Suisse participe à la protection des frontières de l'espace Schengen, et Le Centre soutient cette reprise."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je comprends la cause du bien-être animal, mais l'initiative imposerait des exigences trop lourdes à nos paysans, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Les rentes doivent rester garanties, et le financement par la TVA lié à la réforme AVS 21 est soutenu par Le Centre, donc je vote oui."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "J'aime notre coteau et ses paysages, mais l'initiative demande trop de surfaces et de moyens à nos agriculteurs et propriétaires, et Le Centre rejette ce texte."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je vis seule et l'imposition individuelle ne me touche pas directement, mais Le Centre s'y oppose et je reste attachée à la fiscalité du couple marié."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je vois les nouvelles constructions et la pression sur les routes, mais limiter la population à 10 millions et dénoncer la libre circulation est trop radical, et Le Centre dit non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.5,
+      "oui_proba": 0.68,
+      "raison": "Je trouve juste de limiter les départs de l'armée, Le Centre soutient ce durcissement, et le sujet m'intéresse peu au quotidien."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je tiens à la neutralité suisse, mais l'initiative me paraît trop rigide sur les sanctions et la coopération, et Le Centre appelle à voter non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "J'aime les produits du coin et la protection de l'eau, mais un objectif de 70 pour cent de production indigène en dix ans est irréaliste pour nos agriculteurs, et Le Centre dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.8,
+      "raison": "Je touche la 13e rente AVS et je sais qu'elle doit être financée, donc une hausse de TVA épargnant l'alimentation et les médicaments me paraît juste, comme le soutient Le Centre."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Les pétards me dérangent, surtout pour les animaux et les personnes âgées, mais j'aime les grandes fêtes du 1er août, et Le Centre n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.68,
+      "raison": "Le Centre défend l'imposition commune des couples mariés et je pense qu'un couple ne doit pas être désavantagé, même si je vis seule et que la question me touche peu."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le Centre soutient cet assouplissement pour garder nos entreprises compétitives et la fiabilité de la Suisse, mais les livraisons dans des pays en conflit me mettent mal à l'aise."
+    }
+  ]
+}

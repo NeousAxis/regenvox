@@ -1,0 +1,197 @@
+{
+  "id": "p15",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Mon parti dit non à une hausse de la TVA et je le suis, même si l'AVS compte beaucoup pour moi."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je ne veux pas d'une hausse de TVA, même temporaire, et l'UDC demande de dire non, donc je voterais non."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je pense que la Suisse doit pouvoir livrer du matériel à ses partenaires et que cette interdiction ferait perdre des emplois, donc non comme mon parti."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le service militaire fait partie de notre tradition et je ne veux pas qu'on l'abolisse, donc je voterais non."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.85,
+      "raison": "La Suisse doit reprendre la main sur l'immigration et sur ses contingents, c'est ce que défend l'UDC, donc je voterais oui sans hésiter."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Notre armée doit avoir des avions modernes pour se défendre, et l'UDC soutient ce fonds, donc oui, même si le coût me pèse."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Le mariage doit rester l'union d'un homme et d'une femme et ne pas être pénalisé, c'est une valeur que je défends, donc oui."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je suis contre une hausse de TVA et contre le recul de l'âge de la retraite des femmes, donc je voterais non comme mon parti."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "Les vaches à cornes me rappellent nos alpages et la dignité des bêtes me touche, mais je me méfie d'une nouvelle aide payée par l'État, donc j'hésite et je penche pour le non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Je veux que la Constitution suisse passe avant les juges étrangers, c'est la position de l'UDC que je partage, donc oui."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Je n'aime pas que la Suisse reprenne les règles de l'UE sur les armes, donc je voterais non comme mon parti."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Je veux que la Suisse maîtrise elle-même son immigration et mette fin à la libre circulation, donc je voterais oui sans hésiter."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.65,
+      "oui_proba": 0.8,
+      "raison": "Dans notre région le loup s'approche des pâturages et des fermes, il faut pouvoir intervenir avant les dégâts, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Notre armée a besoin d'avions de combat modernes et c'est la ligne de l'UDC, donc je voterais oui."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je trouve absurde d'interdire aux banques et aux caisses de pension de financer l'industrie d'armement suisse, donc non comme mon parti."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Les agriculteurs d'ici font déjà beaucoup d'efforts pour l'eau et cette obligation serait trop lourde pour eux, donc je voterais non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'inquiétude pour l'eau, mais interdire tous les pesticides de synthèse mettrait nos paysans en difficulté, donc non comme l'UDC."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je reste attachée à la définition traditionnelle du mariage, donc je voterais non comme mon parti."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la souffrance des animaux, mais je ne veux pas bloquer la recherche médicale qui protège les gens, donc je penche pour le non en hésitant."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "La Suisse doit faire sa part face aux passages illégaux, et l'UDC soutient cette participation, donc oui, même si l'Europe me dérange."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je vois le travail des éleveurs de la région et je rejette les exigences trop lourdes imposées de l'extérieur, donc non comme l'UDC."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Je touche ma rente AVS chaque mois et sa pérennité me tient à cœur, donc oui, même si une hausse de TVA me pèse."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "J'aime la nature d'ici, mais cette initiative mettrait trop de terres sous contrainte et les paysans en paieraient le prix, donc non comme mon parti."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "Je reste attachée au couple et à la famille et je ne vois pas d'un bon œil l'imposition individuelle, donc je voterais non comme l'UDC."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.9,
+      "raison": "Il y a trop de monde en Suisse, les routes et les logements sont saturés, donc je voterais oui sans hésiter comme l'UDC."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Un jeune qui a choisi l'armée doit aller au bout de son engagement, donc je voterais oui comme mon parti."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "Je tiens à une Suisse neutre et indépendante, sans alliance militaire, et l'UDC défend cette ligne, donc oui."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la production locale et à l'eau propre, mais une obligation de 70 % qui réduirait l'élevage me paraît dangereuse pour nos fermes, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.6,
+      "raison": "La 13e rente me fait du bien et je veux qu'elle reste financée, mais une hausse de TVA me pèse aussi, donc je voterais oui en hésitant."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Les pétards me gênent et effraient les bêtes, mais je tiens à nos fêtes du 1er août, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je trouve juste que les couples mariés ne soient pas pénalisés par l'impôt, mais l'UDC n'a pas encore tranché et j'hésite."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Je pense que la Suisse doit pouvoir livrer des armes à ses partenaires et que l'assouplissement est raisonnable, donc oui, même si l'UDC n'a pas encore décidé."
+    }
+  ]
+}

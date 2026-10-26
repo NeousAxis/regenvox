@@ -1,0 +1,95 @@
+{
+  "id": "p28",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.9,
+      "raison": "Une armée qui a les moyens de défendre le pays me paraît normale, et le fonds pour remplacer les vieux avions est logique. Je vote oui, même si je trouve que l'État dépense beaucoup."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Marié avec des enfants, je trouve normal que la Constitution protège le couple et que les mariés ne soient pas pénalisés, notamment à l'impôt. Je me méfie des formules juridiques compliquées, mais le principe me parle."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je veux que les retraites tiennent, mais une hausse de la TVA touche tout le monde, y compris ceux qui ont des revenus modestes, et elle est liée à une réforme décidée à Berne. Je vote non, faute de réforme qui me convainc."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.75,
+      "oui_proba": 0.9,
+      "raison": "La Suisse doit décider elle-même de ses lois et ne pas se laisser dicter le droit par des juges étrangers ou des traités que le peuple n'a jamais votés. C'est ce que je pense, et je me déplace pour ça."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.85,
+      "raison": "L'immigration est mal maîtrisée, et la pression sur les salaires et le logement se sent dans la région, même si l'industrie a besoin de main-d'œuvre. Je veux que la Suisse reprenne la main sur qui entre, donc je vote oui."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.8,
+      "raison": "Une armée sans avions modernes ne sert à rien, et la Suisse doit pouvoir protéger son espace aérien. Le plafond de 6 milliards me paraît acceptable, à condition que l'argent soit bien utilisé."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je suis pour la protection des animaux, mais l'interdiction générale mettrait la recherche suisse hors jeu et ferait venir des produits de l'étranger sans contrôle. Le titre sonne bien, mais c'est une idée venue de la ville qui ne tient pas compte de la réalité."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Les paysans d'ici travaillent dur, et les conditions d'élevage peuvent être améliorées, mais imposer aux fermes une norme Bio Suisse sur 25 ans, y compris aux importations, est une décision prise loin du terrain. La commune compte 21 exploitations avec des bovins, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "La réforme AVS 21 relève l'âge de la retraite des femmes à 65 ans, ce que je trouve juste, mais la hausse de la TVA pèse sur tous les ménages. Je suis partagé, et je finirai sans doute par voter oui pour que l'AVS tienne, sans grand enthousiasme."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "La Suisse doit rester neutre, sans entrer dans des alliances militaires, et ne pas suivre les sanctions décidées ailleurs. C'est une position que je défends depuis longtemps, donc je vote oui pour que nos décisions restent les nôtres."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je suis d'accord qu'il faut produire davantage chez nous, c'est le sens de la sécurité alimentaire qu'on a acceptée à 87 % ici. Mais imposer moins de produits animaux et de nouvelles contraintes aux exploitations de la région ressemble à une leçon venue de la ville, donc je vote non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "La 13e rente AVS me semble utile pour mes parents et pour ma propre retraite, mais c'est toujours la même population qui paie la TVA. Je suis tenté de dire non, car j'ai peu confiance dans la façon dont cet argent serait géré."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Les feux d'artifice font partie de nos fêtes de village, et les interdire revient à dire aux gens comment s'amuser. Je comprends la gêne des animaux, mais je vote non pour garder nos traditions telles qu'elles sont."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Marié avec des enfants, je trouve injuste que le mariage pèse sur la feuille d'impôt. Je me méfie des usines à gaz de l'État, mais je vote oui à l'imposition commune, à condition que le coût pour les familles soit réel."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Une industrie suisse d'armement qui n'est pas bloquée sans raison me paraît logique, et la neutralité consiste à défendre nos intérêts, pas à juger les autres. Je penche pour le oui, même si le sujet m'inquiète un peu et que je n'ai pas tout suivi."
+    }
+  ]
+}

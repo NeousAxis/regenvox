@@ -1,0 +1,17 @@
+{
+  "id": "p05",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Le bio, pourquoi pas, mais honnêtement ça ne change pas grand chose pour moi : je prends ce qu'il y a au magasin, et entre le boulot et les enfants je n'ai pas le temps de me pencher sur les champs du village.",
+    "engagement": 1,
+    "freins_participation": [
+      "Pas le temps : le travail et la famille prennent déjà toutes mes soirées",
+      "Je connais mal l'histoire agricole et les enjeux du village, je n'ai pas d'avis construit sur le sujet",
+      "Le bio coûte plus cher et notre budget familial est serré",
+      "Je me méfie des injonctions de la commune sur ce que doivent cultiver les agriculteurs",
+      "Je ne sais pas où trouver une information claire et neutre sur ce que ça implique concrètement"
+    ],
+    "ce_qui_me_ferait_venir": "Un message concret sur ce que ça change pour ma famille : plus de produits bio et locaux au magasin du village et à la cantine de l'école, à un prix raisonnable. Et la preuve que les agriculteurs sont aidés financièrement pour le faire, pas seulement sommés de changer, lors d'une séance d'information en soirée ou un samedi matin pour ne pas empiéter sur le temps des enfants."
+  }
+}

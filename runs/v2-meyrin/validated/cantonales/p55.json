@@ -1,0 +1,29 @@
+{
+  "id": "p55",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Le coût de la pilule et des autres moyens me touche de près à mon âge, mais je n'aime pas que l'État prenne tout en charge sans condition pour 20 millions par an alors que nos primes augmentent déjà, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Les embouteillages à la frontière et les bus qui peinent à suivre touchent tous les jours les gens de Meyrin, et le PLR comme les Vert'libéraux soutiennent ces projets, donc je voterais oui même si l'argent sert en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Devenir propriétaire reste un rêve pour une famille comme la mienne et le MCG comme les Vert'libéraux soutiennent cet accès, mais je reste méfiante envers les congés-ventes, donc je pencherais pour oui sans en être sûre."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Les études supérieures comptent pour l'avenir de mes enfants et le PLR, les Vert'libéraux et le Centre soutiennent ce financement, donc je dirais oui, même si 2 millions de moins par an ne seraient pas dramatiques."
+    }
+  ]
+}

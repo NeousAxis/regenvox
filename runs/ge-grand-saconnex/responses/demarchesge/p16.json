@@ -1,0 +1,17 @@
+{
+  "id": "p16",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Je vis au Grand-Saconnex depuis 2017 et le PS me fait suivre un peu l'urbanisme, mais la Susette se trouve loin de mon quartier de villas et je n'ai pas répondu au questionnaire de 28 questions en mai 2025, entre mon apprentissage et mes soirées. J'aurais peut-être évoqué le projet avec des camarades du parti si le sujet était venu dans une discussion politique."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "L'Écho des Marronniers concerne surtout les habitants du quartier et les acteurs locaux, et le sondage de décembre 2024 à mars 2025 ne m'a pas atteint, donc je ne m'y suis probablement pas arrêté. Je n'en ai sans doute pas parlé autour de moi, sauf si un militant du PS l'avait mentionné en passant."
+    }
+  ]
+}

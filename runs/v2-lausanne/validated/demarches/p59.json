@@ -1,0 +1,65 @@
+{
+  "id": "p59",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Je me promène volontiers autour de Sauvabelin, mais je n'ai pas vu ce sondage passer et les ateliers du samedi après-midi ne me tentaient pas, donc j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.1,
+      "partage_proba": 0.2,
+      "raison": "C'était une première, je ne savais pas trop comment ça marchait et choisir au moins trois projets sur une liste demande du temps, donc j'ai peut-être glissé le sujet à une voisine."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "En 2020 je sortais moins à cause du Covid, je serais peut-être passée au stand du marché pour voter, mais choisir trois projets en ligne ou aux urnes me semblait lourd, et je n'ai pas poussé ça autour de moi."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.2,
+      "partage_proba": 0.2,
+      "raison": "Un sondage de cinq minutes sur mon quartier, je le remplirais peut-être, mais pendant la pandémie je sortais peu, donc les soirées et les balades ne m'auraient pas tentée, et j'en aurais surtout parlé avec des amis qui s'intéressent à l'urbanisme."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.3,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin nominatif arrive à domicile et ça me plaît, mais je ne vote pas à chaque édition, et j'en parle surtout si un projet touche directement mon immeuble."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Je fréquente peu les quais d'Ouchy et de Belgique, je ne réponds pas aux sondages de la Ville sans y être concernée, et je n'en ai pas entendu parler autour de moi."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.25,
+      "partage_proba": 0.3,
+      "raison": "Les jeunes ambassadeurs passent dans le quartier et le bulletin reste pratique, donc je vote quand j'ai le temps, et j'en parle volontiers avec les voisins de l'immeuble."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le sujet du racisme me tient à cœur, mais le questionnaire était sans visée scientifique et il fallait aller le chercher dans une maison de quartier ou sur internet, donc je ne l'ai probablement pas rempli, et je n'en ai pas beaucoup parlé."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.3,
+      "partage_proba": 0.25,
+      "raison": "Le bulletin nominatif arrive chez moi et je peux le renvoyer par la poste sans me déplacer, donc je le remplis quand l'occasion se présente, et j'en parle parfois si un projet de mon quartier me plaît."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.22,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin arrive à la maison, mais la liste de projets est longue et je n'ai pas toujours l'énergie de trier, donc je ne vote qu'à certaines éditions, et j'en parle peu, sauf si un voisin en parle."
+    }
+  ]
+}

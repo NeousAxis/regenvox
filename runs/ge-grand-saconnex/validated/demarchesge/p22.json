@@ -1,0 +1,17 @@
+{
+  "id": "p22",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "Le questionnaire de 28 questions demandait du temps en plein mois de mai, et la Susette est loin de mon quartier, donc je ne l'aurais rempli que si l'info était arrivée jusqu'à moi ; l'école de mes enfants a peut-être relayé l'animation en classe, ce qui m'aurait fait lever les yeux une fois, sans plus. J'en aurais sans doute parlé à mon conjoint ou à quelques parents d'élèves si la démarche était arrivée dans mon champ de vision, mais ce n'est pas un sujet de conversation courant chez nous."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Ce sondage en ligne d'hiver 2024-2025 concernait un autre quartier que le mien, et je n'ai probablement pas remarqué la démarche entre deux obligations de famille et de travail ; je ne m'y serais mise que par curiosité pour l'aménagement de la commune, et je n'en aurais guère parlé autour de moi."
+    }
+  ]
+}

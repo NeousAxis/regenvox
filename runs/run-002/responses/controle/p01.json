@@ -1,0 +1,17 @@
+{
+  "id": "p01",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Je vois pas trop ce que ça change pour moi, c'est des trucs de grands. Je vais sans doute pas y prêter attention, sauf si mes parents en parlent à table.",
+    "engagement": 0,
+    "freins_participation": [
+      "Je m'intéresse peu à la politique communale pour l'instant",
+      "Je n'ai pas d'avis tranché sur l'agriculture ni sur la terre",
+      "Mes horaires de formation changent selon les semaines, je ne suis pas toujours libre",
+      "Je ne sais pas concrètement ce que le bio change pour les agriculteurs ni pour nous",
+      "Un atelier sur place ne me tente pas, je n'y connais personne"
+    ],
+    "ce_qui_me_ferait_venir": "Que ça touche directement ce que je mange ou ce qu'on sert à l'école ou au travail, que mes amies y aillent aussi, et que ce soit court, près de chez moi et proposé à des gens de mon âge. Une info simple sur ce que ça change concrètement m'aiderait plus qu'un courrier officiel."
+  }
+}

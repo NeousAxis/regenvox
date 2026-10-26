@@ -1,0 +1,29 @@
+{
+  "id": "p45",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.8,
+      "oui_proba": 0.85,
+      "raison": "Je ne suis plus concernée directement, mais je trouve juste que les jeunes et les femmes modestes ne doivent pas payer leur contraception, et pour 20 millions par an la somme me paraît raisonnable, même si le Conseil d'État recommande non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.7,
+      "oui_proba": 0.65,
+      "raison": "Les bouchons à la frontière et la pollution de l'air me gênent à Carouge, et le PS soutient ces projets de bus et de tram, mais l'échec de 2014 me laisse un doute sur l'argent versé en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Je crains que la vente d'appartements aux locataires fasse disparaître des logements abordables dans le vieux Carouge et pousse des locataires modestes hors de chez eux, donc je suis la position du PS et de l'ASLOCA."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Je ne connais pas bien ce dossier, mais réduire la subvention de la HES-SO au moment où les études coûtent plus cher me paraît mauvais, et le PS demande de maintenir les 35 millions."
+    }
+  ]
+}

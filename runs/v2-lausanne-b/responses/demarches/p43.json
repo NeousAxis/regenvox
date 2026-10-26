@@ -1,0 +1,65 @@
+{
+  "id": "p43",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "À 17 ans, ce sondage sur les établissements du lac de Sauvabelin n'est probablement pas arrivé jusqu'à moi, faute de relais dans mon entourage."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Première édition pilote très peu visible, avec un vote seulement en ligne ou en urne de quartier, je ne l'ai sans doute pas suivie à 19 ans."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Édition perturbée par le Covid, sans bulletin reçu à domicile, le vote en ligne ou aux stands du marché ne m'a pas vraiment accrochée."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Un sondage de cinq minutes sur mon quartier m'aurait intéressée, mais en pleine crise sanitaire et sans relais autour de moi, je l'ai probablement laissé passer."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.10,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin affranchi glissé dans la boîte aux lettres du foyer rend le vote simple, mais à 21 ans je ne suis pas sûre de l'avoir rempli."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Ce questionnaire en ligne sur un sujet très local et ponctuel, annoncé seulement par communiqué, est sans doute passé sous mon radar."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.10,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi à domicile et le vote en ligne facilitent la participation, mais je n'ai pas de projet de quartier à soutenir et j'oublie souvent ce genre de vote."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.10,
+      "partage_proba": 0.16,
+      "raison": "Le thème touche de près mon travail dans le social ou l'éducation et le questionnaire était accessible en ligne ou en papier dans des lieux que je fréquente, mais je n'ai peut-être pas vu l'annonce."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.11,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin nominatif arrive chez moi et le vote en ligne prend deux minutes, mais entre le travail et le quotidien je ne le fais pas à chaque édition."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.13,
+      "partage_proba": 0.18,
+      "raison": "Les thèmes de convivialité, de liens entre générations et de sport de proximité me parlent dans mon quartier d'immeubles et le bulletin arrive à domicile, mais je risque de l'oublier pendant l'été."
+    }
+  ]
+}

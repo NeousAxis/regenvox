@@ -1,0 +1,143 @@
+{
+  "id": "p14",
+  "portrait": "J'ai 30 ans, je suis suisse et je vis en couple, sans enfant, au centre de Vuadens. Je suis employée dans la vente, la restauration ou le transport, avec des horaires irréguliers qui me laissent peu de soirs libres. Je suis plutôt proche du PLR : je tiens à la liberté de choix et je me méfie des projets venus d'en haut, mais je suis attachée à la vie de mon village.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Que les paysans vivent bien de leur travail, je suis d'accord, mais ce n'est pas à la commune de leur dire comment cultiver. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je connais mal les questions agricoles et je n'ai pas l'impression d'avoir mon mot à dire",
+        "Mes horaires changent souvent, je ne peux pas être sûre d'être libre en semaine",
+        "Cette question concerne d'abord les agriculteurs, pas les gens comme moi"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagnent les fermes et sur ce que ça coûte aux habitants, présentés sans slogans ni jugement sur les pratiques actuelles."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Acheter local, je veux bien, mais le bio, honnêtement, c'est souvent trop cher pour notre budget. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le prix des produits bio pèse sur notre budget de couple",
+        "Je ne sais pas concrètement ce qu'un habitant peut faire pour aider une ferme",
+        "Les ateliers en semaine ne sont pas compatibles avec mes horaires"
+      ],
+      "ce_qui_me_ferait_venir": "Une façon simple d'acheter directement à la ferme ou au marché du village, avec des horaires compatibles avec un emploi en vente, restauration ou transport, et des prix qui restent raisonnables."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais dans trente ans, je pense surtout à ma vie d'aujourd'hui. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question aussi générale ne donne pas envie d'agir",
+        "Je n'ai pas de lien direct avec l'agriculture",
+        "Je n'ai pas le temps de réfléchir à l'avenir du village avec mon emploi du temps"
+      ],
+      "ce_qui_me_ferait_venir": "Une proposition concrète qui touche mon quotidien, par exemple ce qu'on trouve dans les commerces du village ou le prix de ce que j'achète."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Les paysans font du bon travail, ça se dit, mais il faut voir ce qu'on met derrière les mots, sans nouvelle taxe. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Le sujet me paraît un peu vague",
+        "Je n'ai pas de temps libre pour des rencontres organisées par la commune",
+        "Je me méfie des labels et des démarches qui finissent par coûter de l'argent"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme en fin de journée ou le week-end, où l'on voit concrètement le travail des agriculteurs, sans discours militant."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "relai",
+    "cercle_type": "Collègues de service, clientèle et connaissances du travail, quelques amis du village et entourage du couple. Les discussions portent surtout sur le prix, le quotidien et le travail, plutôt que sur l'agriculture."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "À cette date, je n'avais pas encore l'âge de voter, donc je n'ai pas participé."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Je trouve l'objectif flou et j'ai peur que ça pèse sur les entreprises de la région et sur les prix, donc je voterais plutôt non."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je crains que sortir du nucléaire trop vite fasse monter les factures, donc j'hésite, mais je pencherais pour le non."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "C'est un compromis que je trouve raisonnable pour l'énergie, même si les coûts pour les ménages me font hésiter."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Je suis d'accord avec l'idée de produits corrects, mais imposer des règles aux importations et au prix me paraît compliqué à appliquer, et ça renchérit les courses."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je comprends qu'on veuille protéger les paysans, mais des droits de douane et des prix garantis me paraissent contraires à la liberté de choix du consommateur."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Je suis pour une eau propre, mais lier les paiements directs à des interdictions va trop loin pour les exploitations et, au final, pour nous aussi."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je trouve l'interdiction totale irréaliste en dix ans, les paysans n'ont pas toujours d'alternative et les prix risquent de monter."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "Je suis partagée : je veux bien des efforts pour le climat, mais les taxes sur les billets d'avion et les carburants pèsent sur des salaires comme les miens."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "J'aime les animaux, mais les éleveurs d'ici sont déjà contrôlés, et une règle constitutionnelle appliquée aux importations me paraît difficile à vérifier."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Je suis pour des aides au remplacement des chauffages fossiles et pour l'innovation, mais je n'aime pas les obligations qui finissent sur la facture, donc je suis partagée."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Protéger la nature, oui, mais cette initiative demande beaucoup de surfaces et d'argent, et ce sont les agriculteurs et les propriétaires qui vont payer, donc je voterais plutôt non."
+    }
+  ]
+}

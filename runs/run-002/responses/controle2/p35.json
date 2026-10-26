@@ -1,0 +1,16 @@
+{
+  "id": "p35",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Une majorité de terres en bio dans dix ans, ça sonne bien sur le papier. Mais ce sont les paysans d'ici qui vont porter le risque, pas ceux qui ont écrit l'objectif. Qu'on commence par leur demander ce qu'il leur faut.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille en équipes à l'usine et je m'occupe des enfants le soir, donc les ateliers en semaine, je ne peux pas y aller.",
+      "Je me méfie des objectifs chiffrés venus de la commune : ça fait bien dans un communiqué, mais ce sont les agriculteurs qui en subissent les conséquences.",
+      "Personne ne dit qui va payer la différence de prix du bio, ni les paysans pendant la transition, ni les familles au supermarché.",
+      "Je n'ai pas envie qu'on me dise ce que je dois manger ou ce qui doit se cultiver chez nous, surtout si ça pénalise les gens qui travaillent la terre."
+    ],
+    "ce_qui_me_ferait_venir": "Que les paysans de Vuadens, ceux qui ont des vaches et qui livrent la fromagerie, parlent les premiers, avec leurs chiffres : ce que le bio leur rapporte, ce qu'il leur coûte, qui garantit le prix et qui paie la transition. Un échange le soir ou le samedi, sans que la commune arrive avec un plan tout fait, et l'assurance que le choix reste aux exploitations."
+  }
+}

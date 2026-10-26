@@ -1,0 +1,41 @@
+{
+  "verdicts": [
+    {
+      "cible": "angle 1",
+      "aligne": false,
+      "principes_violes": [
+        5
+      ],
+      "commentaire": "Principe 6 respecté : la formulation nomme l'enjeu (vivre honorablement de son travail) et l'objectif (porter le bio) sans trancher aucun chemin, et les cinq chemins ouverts sont pluriels et laissés à l'initiative des agriculteurs (« imaginés par les agriculteurs eux-mêmes », « à son rythme »). Violation du principe 5, non structurante : « Comment faire pour que le monde agricole [...] devienne promoteur du bio » fait des agriculteurs l'objet d'une action extérieure (« faire pour que ») et les désigne comme un bloc (« le monde agricole »), alors que l'objectif parle de premiers porteurs et que les quatre acteurs listés sont distincts. Le mot « promoteur » relève du plaidoyer et de la persuasion, là où la méthode demande des co-porteurs, artisans du changement. Le Formulateur a bien repéré ce risque de perception, mais il le range dans le champ risque_de_verrouillage au lieu de le traiter dans la formulation elle-même : la correction reste promise et non faite. Réserve sur le principe 1 : pour les exploitations d'élevage et laitières, le levier « intérêt » est le seul de l'angle qui soit d'ordre économique, il ne dit pas l'aspiration profonde de ces familles, qui reste à nommer. Dans les chemins, deux présupposés viennent du Formulateur et non du terrain : que le bio demande plus de temps de travail (chemin 3) et qu'une décision de conversion de toute la ferme serait à prendre (chemin 5). À ne pas faire passer pour des acquis."
+    },
+    {
+      "cible": "angle 2",
+      "aligne": false,
+      "principes_violes": [
+        4,
+        5
+      ],
+      "commentaire": "Principe 6 : la question reste ouverte (« comment ») et aucun chemin précis n'est tranché dans la formulation, mais elle choisit un vecteur, la relation entre habitants et fermes. Cela doit rester une porte d'entrée parmi d'autres, non la voie présumée de la transition. Violation du principe 5, non structurante : la formulation présuppose que les fermes sont déjà « sur le chemin du bio », donc que la décision est prise à leur place, et fait des habitants les « premiers partenaires » alors que l'objectif désigne les agriculteurs comme premiers porteurs. Les agriculteurs deviennent destinataires d'un soutien et non sujets de la phrase. Le chemin des journées portes ouvertes qui font découvrir « le prix réel » a une pente pédagogique : les habitants y sont traités comme un public à convaincre, pas comme des co-porteurs. Violation du principe 4, non structurante : le vivant (sols, eau, biodiversité) est absent de la formulation et presque absent des chemins. La plupart passent par l'échange marchand ou l'image (paniers, marché, restaurateurs, commerces avec le levier « intérêt »), alors que le vivant doit primer sur le marché. Le champ risque_de_verrouillage identifie bien le danger (une offre de soutien que les fermes restent libres d'accepter ou non), mais cette liberté n'est pas inscrite dans la formulation."
+    },
+    {
+      "cible": "angle 3",
+      "aligne": true,
+      "principes_violes": [],
+      "commentaire": "Angle le plus fidèle à la méthode. Principes 1 et 2 : la question part d'une aspiration profonde (la transmission) et fait du futur désiré, à l'horizon de trente ans, un attracteur et non une projection des tendances. Principe 6 : la formulation est entièrement ouverte, elle ne nomme ni le bio ni aucun moyen. Principe 5 : tous les acteurs sont des co-porteurs de la transmission. Points de vigilance, sans violation : (a) le « nous » doit partir des agriculteurs, pour que la commune n'ait pas l'air de décider à leur place de la terre qu'ils cultivent ; (b) l'horizon de trente ans dépasse celui de l'objectif (dix ans), la dérivation rétrocausale devra redescendre explicitement du premier au second, sans quoi l'angle ne se relie pas à l'objectif ; (c) le chemin des parcelles d'essai bio confiées aux jeunes est plus directif que la formulation et va à l'encontre de la prudence du champ de risque (ne pas présenter le bio comme seule réponse avant que le terrain en ait parlé), il doit rester une option parmi d'autres ; (d) le levier « dignité » pour les propriétaires non exploitants semble plaqué, leur aspiration réelle n'est pas établie."
+    },
+    {
+      "cible": "angle 4",
+      "aligne": true,
+      "principes_violes": [],
+      "commentaire": "Principe 4 pleinement honoré : le vivant (sols, eau, vie sauvage) est au centre de la formulation. Principe 1 : l'aspiration à la reconnaissance est une vraie aspiration. Principe 6 : la formulation est ouverte, les chemins sont pluriels et les agriculteurs gardent la main sur ce qu'ils montrent. Points de vigilance, sans violation : (a) la forme passive « être reconnues par toute la commune » place les fermes en position de recevoir un regard, alors que le principe 5 en fait des artisans actifs ; le chemin de la balade commentée par les agriculteurs corrige en partie, la formulation devrait le faire aussi ; (b) l'angle regarde ce que les fermes apportent déjà (le présent) et ne porte aucun futur désiré, alors que le principe 2 fait du futur l'attracteur ; le lien avec l'objectif (la majorité des terres en bio dans dix ans) devra être construit dans la dérivation, sans que la reconnaissance devienne un substitut à la transition ni à un revenu décent ; (c) l'inventaire participatif mené avec des naturalistes peut glisser vers la surveillance, comme le note le champ de risque : les agriculteurs doivent rester maîtres de ce qui est mesuré et montré."
+    }
+  ],
+  "decision": "accept",
+  "corrections_demandees": [
+    "Angle 1 : traiter dans la formulation, et non seulement dans le champ de risque, la place des agriculteurs comme sujets et co-porteurs plutôt qu'objets d'un « faire pour que » ; distinguer « promoteur » (plaidoyer) de « porteur » (artisan) ; laisser les agriculteurs définir ce que « vivre honorablement » veut dire et le rythme. La réécriture reste au Formulateur, le décideur gardant la main sur l'enjeu et l'objectif.",
+    "Angle 2 : ne pas présupposer que les fermes sont déjà engagées sur le chemin du bio ; faire des agriculteurs les sujets qui choisissent si et comment ils s'associent aux habitants ; réintroduire le vivant (sols, eau, biodiversité) dans l'angle et rééquilibrer des chemins majoritairement marchands ; revoir le chemin « prix réel » qui fait des habitants un public à éduquer.",
+    "Angle 3 : examiner la pertinence du levier « dignité » pour les propriétaires non exploitants ; garder le chemin des parcelles d'essai bio comme option parmi d'autres, sans en faire la suite attendue ; prévoir la dérivation entre l'horizon de trente ans et l'objectif de dix ans.",
+    "Angle 4 : donner aux fermes une position active dans la formulation plutôt que passive ; relier l'angle à un futur désiré et non à la seule reconnaissance du présent ; garder les agriculteurs maîtres des mesures et des mises en scène de leurs pratiques.",
+    "Transversal : le levier « intérêt » (angles 1 et 2) est le seul qui relève du calcul plutôt que de l'aspiration profonde (principe 1) ; nommer l'aspiration qui se cache derrière. Les chemins ouverts de chaque angle doivent rester des illustrations de ce que le terrain pourrait inventer, et ne jamais remonter au décideur comme une feuille de route (principe 6)."
+  ]
+}

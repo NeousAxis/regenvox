@@ -1,0 +1,29 @@
+{
+  "id": "p32",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Ça me toucherait directement, la pilule et le reste coûtent cher quand on élève seule ses enfants avec peu d'argent, mais le MCG est contre et je me méfie des mesures sans condition qui pèsent sur les impôts, donc je ne suis pas sûre."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.25,
+      "oui_proba": 0.25,
+      "raison": "Les bouchons à la frontière et les bus bondés, on les subit à Meyrin, mais payer des projets en France alors que le peuple avait refusé ça en 2014 me gêne, et le MCG dit non, donc je pencherais pour non."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "Je loue mon appartement en cité et je ne pourrai jamais l'acheter, donc la mesure ne change rien pour moi, et je crains que les propriétaires vendent et que les locataires soient poussés dehors, l'ASLOCA dit non même si le MCG dit oui."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.15,
+      "oui_proba": 0.35,
+      "raison": "La HES ne me concerne pas directement et je ne connais pas bien les montants, le MCG et le PS disent non, donc je ne voterais probablement pas, ou alors non par principe."
+    }
+  ]
+}

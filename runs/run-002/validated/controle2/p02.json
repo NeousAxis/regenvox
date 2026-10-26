@@ -1,0 +1,17 @@
+{
+  "id": "p02",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Objectif bio sur la majorité des terres en dix ans, ça sonne bien au conseil communal, mais mon année dépend du prix du litre de lait. Si le bio paie mieux et qu'on me garantit le débouché, je regarde. Sinon, on me demande de perdre de l'argent pour une belle image.",
+    "engagement": 1,
+    "freins_participation": [
+      "Un prix du lait bio qui ne compense pas vraiment la baisse de rendement sur les herbages",
+      "Des décisions prises à la commune ou plus haut sans qu'on ait été consultés avant",
+      "Le temps : je travaille presque tous les jours, seul sur l'exploitation, donc je n'ai pas de relève pour aller à des ateliers",
+      "Le risque financier d'une conversion sur dix ans, avec des investissements et des contrats qui peuvent changer en cours de route",
+      "Des habitants qui parlent de bio sans savoir ce que représente une exploitation laitière au quotidien"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres concrets : un prix garanti pour le lait bio, un accompagnement technique et financier pour la transition, et un débouché local comme la fromagerie villageoise qui accepte le lait bio. Un voisin qui a déjà passé au bio et qui viendrait témoigner, ce serait plus convaincant qu'un discours."
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p02",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Je tiens à l'AVS par répartition et le PS dit oui ; la hausse de la TVA me pèse un peu, mais elle finance les retraites."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "L'AI soutient des personnes que je croise dans mon travail, et un relèvement temporaire de la TVA me paraît acceptable pour l'assainir."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Je suis contre les exportations d'armes et le PS dit oui, même si l'initiative est sévère pour les régions industrielles touchées."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Je doute que l'armée puisse se passer du service obligatoire, mais le PS dit oui et je comprends le malaise de beaucoup de jeunes."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.1,
+      "raison": "Je vois au quotidien l'apport des familles migrantes et les bénéfices de la libre circulation, je rejette ce texte qui remet en cause les accords avec l'UE."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je ne vois pas l'utilité d'acheter des avions de combat alors que le social manque de moyens, et le PS dit non."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.3,
+      "oui_proba": 0.05,
+      "raison": "Je suis parent seul et je ne veux pas inscrire une définition du mariage dans la Constitution, le PS dit non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "La hausse de l'âge de la retraite des femmes me concerne directement, mais le financement de l'AVS est nécessaire et le PS dit oui, je suis partagée."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "Je suis sensible au bien-être des animaux, mais je doute qu'une aide fédérale soit le bon outil ; je dis oui par cohérence avec le PS, sans grande conviction."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Je ne veux pas que la Constitution prime sur les traités qui protègent les droits humains, et ce texte porté par l'UDC me semble dangereux."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Je fais confiance à l'accord Schengen pour la sécurité, les exceptions pour les tireurs me paraissent raisonnables, et le PS dit oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.05,
+      "raison": "La libre circulation fonctionne bien dans mes métiers de la santé et du social, je ne veux pas la remettre en cause, le PS dit non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je reste attachée à la protection du loup et des espèces sauvages, et le PS dit non, même si les éleveurs de la région subissent des dégâts."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Six milliards pour des avions de combat me semblent disproportionnés face aux besoins du social et de l'école, et le PS dit non."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.7,
+      "raison": "Je suis contre le financement de l'industrie de l'armement, le PS dit oui et l'initiative me paraît juste, même si je reste prudente sur son ampleur."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "Je vois les effets des pesticides et des antibiotiques sur l'eau et la santé, je soutiens une agriculture plus propre, comme le PS."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Une Suisse sans pesticides de synthèse me paraît souhaitable pour la santé, même si dix ans est un délai court pour les agriculteurs de la région."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.95,
+      "raison": "Je suis moi-même parent seul, et l'égalité devant le mariage est une évidence, comme pour le PS."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.08,
+      "raison": "Je travaille dans la santé et je sais que la recherche a besoin d'expérimentation encadrée, l'interdiction totale me paraît excessive, le PS dit non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je suis mitigée sur Frontex, mais le renforcement de cette agence sans contrôle suffisant ne me convainc pas, et le PS dit non."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Je suis sensible à la dignité des animaux d'élevage et le PS dit oui, la transition longue de 25 ans me paraît un compromis raisonnable."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je suis contre le relèvement de l'âge de référence des femmes, et la hausse de la TVA ne compense pas cette mesure, le PS dit non."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Je vis dans un quartier avec des espaces verts que je veux préserver, la nature et le paysage me tiennent à cœur, et le PS dit oui."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.55,
+      "oui_proba": 0.75,
+      "raison": "Je ne suis pas mariée et ce changement ne me touche pas directement, mais l'égalité entre personnes mariées et non mariées me paraît juste, le PS dit oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.06,
+      "raison": "Je vois la pression sur le logement et les services publics, mais limiter la population et remettre en cause la libre circulation me paraît dangereux, et l'UDC pousse ce texte."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Je trouve injuste de durcir l'accès au service civil pour ceux qui sont déjà dans l'armée, et le PS dit non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "La neutralité me tient à cœur, mais une neutralité armée et l'interdiction de sanctions me paraissent trop rigides face aux guerres actuelles, le PS dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Je suis sensible aux pesticides et à la qualité de l'eau, mais 70 % d'aliments indigènes en dix ans me paraît irréaliste, et le PS dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.85,
+      "raison": "La 13e rente AVS aide des retraités modestes que je croise au travail, je soutiens ce financement, et le PS dit oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Le bruit des pétards effraie les enfants et les animaux, une limitation ciblée me paraît raisonnable, mais je tiens aux fêtes du 1er août, le PS n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.05,
+      "raison": "J'ai soutenu l'imposition individuelle en mars, et je ne vois pas de raison de revenir à une imposition commune."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Je ne veux pas que la Suisse livre des armes à des pays en conflit, ce texte affaiblit notre neutralité, et le PS dit non."
+    }
+  ]
+}

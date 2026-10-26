@@ -1,0 +1,39 @@
+{
+  "id": "p23",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Un agriculteur de Vuadens qui m'explique concrètement combien il gagne et ce que le bio change pour lui, avec des chiffres et pas des slogans."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un trajet organisé depuis le hameau (une navette ou un voisin qui conduit) et une date le samedi matin, avec un espace où les enfants sont gardés sur place."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.005,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une question qui parle de mon quotidien, comme le prix des courses ou l'école des enfants, plutôt que la terre dans trente ans."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.005,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une visite de ferme près de chez moi, un samedi, où l'on me montre ce qui est fait pour l'eau et les haies, et pas seulement des papiers."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "L'avis en ligne est le seul format qui tient dans mon emploi du temps : dix minutes sur mon téléphone, un soir ou pendant une pause, sans bouger du hameau. Je ne suis pas sûr de le faire vraiment, il finirait peut-être dans la pile de courrier, mais c'est le moins contraignant des trois."
+}

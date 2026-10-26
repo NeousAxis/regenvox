@@ -1,0 +1,29 @@
+{
+  "id": "p29",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour que les femmes sans moyens puissent se protéger, mais 20 millions par an sans financement clairement défini me rendent prudente, d'autant que le Conseil d'État recommande non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Les sécheresses et les crues de l'Arve touchent directement mes cultures, et moins de trafic frontalier serait bon pour l'air, mais je reste méfiante envers l'argent suisse dépensé en France après le refus populaire de 2014."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas concernée par le marché locatif et je crains que la vente d'appartements à leurs locataires ne chasse les familles modestes de Meyrin, donc je pencherais pour le non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "La formation compte pour moi et une baisse de 2 millions par an me paraît acceptable vu les finances du canton, donc je suis plutôt pour, sans être passionnée."
+    }
+  ]
+}

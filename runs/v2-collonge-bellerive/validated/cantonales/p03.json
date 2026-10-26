@@ -1,0 +1,29 @@
+{
+  "id": "p03",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.3,
+      "raison": "Je vois l'utilité de la prévention dans mon métier, mais un remboursement universel sans condition de revenu ni d'âge n'est pas l'instrument que je choisirais, et mon parti me conforte dans ce non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Les files quotidiennes à la frontière pèsent sur la région, et une part suisse inférieure à la moitié me paraît raisonnable, donc je voterai oui comme le PLR."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.72,
+      "raison": "Je crois à la propriété accessible, et un locataire installé depuis trois ans doit pouvoir acheter son logement si les autres habitants ne sont pas lésés, même si je reste attentif au risque de congés-ventes."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.65,
+      "oui_proba": 0.55,
+      "raison": "Je connais l'importance de la HES pour former soignants et travailleurs sociaux, mais une baisse de 2 millions qui tient compte de la hausse des taxes d'études me paraît raisonnable."
+    }
+  ]
+}

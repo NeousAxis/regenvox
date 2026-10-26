@@ -1,0 +1,111 @@
+{
+  "id": "p43",
+  "portrait": "Je suis un homme de 69 ans, retraité, en couple depuis longtemps, les enfants ont quitté la maison depuis un bon moment. Suisse, j'habite le quartier résidentiel récent de Vuadens, je suis proche de l'UDC et je vote à chaque votation fédérale. Je suis attaché à la campagne du village, mais je ne suis plus en contact direct avec les fermes.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les paysans doivent d'abord pouvoir vivre de leur travail, le reste vient après. Si le bio paie mieux, tant mieux, mais qu'on ne leur impose pas une mode venue d'en haut. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis plus agriculteur, je ne vois pas bien ce que j'apporterais",
+        "Les soirées de discussion après le repas ne me tentent pas beaucoup",
+        "Ces réunions finissent souvent sans décision concrète"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier où les paysans du village expliquent eux-mêmes ce que rapporte une ferme aujourd'hui, ce que coûte une conversion et qui paie la différence."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Moi j'habite le quartier neuf, je connais peu les fermes autour. Être leur partenaire, je veux bien acheter leurs produits, mais pas qu'on me demande de payer plus pour des règles décidées ailleurs. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas comment on devient partenaire d'une ferme, personne ne me l'a jamais proposé",
+        "Je n'aime pas qu'on fasse payer les habitants pour une transition décidée au niveau politique",
+        "Ces démarches attirent surtout des gens déjà convaincus"
+      ],
+      "ce_qui_me_ferait_venir": "Une ferme concrète du village qui me propose un achat direct à un prix qui tient la route, sans que le surcoût soit à ma charge."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Trente ans, c'est loin. Moi je pense à ce qu'on mange aujourd'hui et à ce que les jeunes du village pourront vivre de leur ferme. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Une question sur trente ans me paraît trop floue pour un atelier",
+        "Je n'ai pas envie de longues soirées sur des sujets qui ne changent rien pour moi"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée courte, avec des agriculteurs de la région qui parlent de la reprise de leur ferme, sans que les décisions soient déjà prises."
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 2,
+      "citation": "« Les paysans entretiennent les prés et les haies depuis toujours, on le voit tous les jours. Qu'on le reconnaisse, très bien, mais que ça ne serve pas de prétexte pour un nouveau label et de nouvelles contraintes. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne suis pas très à l'aise avec les consultations en ligne",
+        "Je crains qu'une reconnaissance serve surtout à justifier de nouvelles obligations"
+      ],
+      "ce_qui_me_ferait_venir": "Un moyen simple de dire mon avis par écrit, avec la garantie que les fermes ne paieront pas la note."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 14,
+    "role": "relai",
+    "cercle_type": "voisins du quartier, anciens collègues de l'industrie de la zone, membres d'une société locale et habitués du café du village"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.85,
+      "oui_proba": 0.2,
+      "raison": "Je vote toujours, mais je n'aime pas qu'on nous impose de contrôler les produits étrangers selon des normes venues d'ailleurs. Les gens achètent déjà ce qu'ils peuvent se permettre."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.85,
+      "oui_proba": 0.45,
+      "raison": "Protéger la production indigène et des prix justes, ça me parle. Mais je me méfie des initiatives qui veulent tout régler par la loi et par des droits de douane."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "Une eau propre, personne n'est contre. Mais réserver les paiements directs à ceux qui changent leurs pratiques, ça revient à mettre dehors ceux qui font déjà des efforts."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.8,
+      "oui_proba": 0.25,
+      "raison": "Je ne suis pas pour les produits chimiques à tout va, mais interdire sans offrir de solution aux paysans, ça ne tient pas debout."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.8,
+      "oui_proba": 0.1,
+      "raison": "Taxe sur les billets d'avion, plus cher sur le mazout, je paie déjà assez. Le climat ne doit pas servir de prétexte pour taxer les gens de la campagne."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux, je suis d'accord, nos vaches sont bien traitées. Mais l'inscrire dans la Constitution avec des normes calquées sur le bio, c'est une couche de règles de plus pour les éleveurs."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Zéro émission nette d'ici 2050, c'est un objectif que je ne vois pas tenir sans que le citoyen paie la facture. Je préfère des solutions qui marchent sans obliger tout le monde à changer de chauffage."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.25,
+      "raison": "Je suis pour la nature, mais protéger davantage de surfaces, c'est des terres en moins pour les agriculteurs, qui en ont déjà beaucoup qui ne sont pas cultivées."
+    }
+  ]
+}

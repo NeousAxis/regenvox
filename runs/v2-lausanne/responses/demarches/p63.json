@@ -1,0 +1,15 @@
+{
+  "id": "p63",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "J'avais 15 ans, je n'ai pas le souvenir d'avoir vu cette consultation sur Sauvabelin, et un atelier le samedi après-midi n'était pas dans mes habitudes."},
+    {"item_id": "lau01", "participe_proba": 0.04, "partage_proba": 0.06, "raison": "À 17 ans, je connaissais mal le budget participatif, je n'ai pas déposé de projet et je ne me souviens pas d'avoir voté ni d'en avoir parlé à la maison."},
+    {"item_id": "lau02", "participe_proba": 0.05, "partage_proba": 0.07, "raison": "J'avais 18 ans et je venais de pouvoir voter, mais la pandémie compliquait tout, je n'ai pas suivi cette édition et je ne savais pas trop ce qu'un petit projet de quartier pouvait changer."},
+    {"item_id": "lau10", "participe_proba": 0.07, "partage_proba": 0.04, "raison": "Un sondage de cinq minutes sur l'avenir de mon quartier m'aurait intéressée, mais je n'ai pas le souvenir d'avoir vu passer l'annonce et je n'en aurais probablement pas parlé."},
+    {"item_id": "lau03", "participe_proba": 0.10, "partage_proba": 0.12, "raison": "Le bulletin affranchi arrive dans la boîte aux lettres de mes parents, avec qui je vis, donc je pourrais voter, mais je ne vote pas régulièrement sur les projets de quartier."},
+    {"item_id": "lau08", "participe_proba": 0.03, "partage_proba": 0.04, "raison": "Je fréquente peu les quais d'Ouchy et de Belgique, et je ne me souviens pas d'avoir vu passer ce questionnaire en ligne annoncé par communiqué."},
+    {"item_id": "lau04", "participe_proba": 0.09, "partage_proba": 0.09, "raison": "Je pourrais voter avec le bulletin reçu à la maison, mais je n'ai pas déposé de projet et je ne suis pas certaine de voter à chaque édition."},
+    {"item_id": "lau09", "participe_proba": 0.08, "partage_proba": 0.10, "raison": "Le racisme est un sujet qui me touche et je suis proche du PS, donc je pourrais répondre, mais une consultation peu relayée et sans enjeu clair passe facilement à la trappe."},
+    {"item_id": "lau05", "participe_proba": 0.10, "partage_proba": 0.09, "raison": "Un bulletin nominatif arrive chez moi et je pourrais choisir quelques projets, mais je ne vote pas à chaque édition et le budget participatif reste peu visible pour moi."},
+    {"item_id": "lau06", "participe_proba": 0.07, "partage_proba": 0.06, "raison": "Je vis chez mes parents et un vote en ligne prend peu de temps, mais l'édition 2025 ne m'a pas attirée et je ne l'ai pas suivie de près."}
+  ]
+}

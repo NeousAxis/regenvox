@@ -1,0 +1,125 @@
+{
+  "id": "p77",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "Une école polytechnique fédérale et une entreprise de surveillance, ça ne me concerne pas vraiment, je n'ai aucun lien avec l'EPFL et ce genre de débat me passe au-dessus."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.14,
+      "partage_proba": 0.35,
+      "raison": "Mes cultures souffrent déjà de la sécheresse et des canicules, donc le sujet me touche directement, mais je ne signe que rarement les lettres ouvertes et je reste dubitatif sur ce qui en sortira."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Dans un maraîchage on dépend de la main-d'oeuvre saisonnière, donc une initiative qui touche aux travailleurs sans papiers me préoccupe, mais je ne signe presque jamais les pétitions en ligne et je me méfie des campagnes militantes."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je ne suis pas ce dossier genevois de près, je n'ai pas d'avis tranché sur le conflit à Gaza, donc un appel de soutien à un député que je ne connais pas ne me motive pas."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.08,
+      "raison": "Le détournement de ce gaz par les jeunes est un vrai problème et ça m'inquiète pour les conducteurs, mais je ne signe pas grand-chose en ligne et je pense que ce genre de règle relève des autorités."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Je suis indépendant sans caisse de pension de salarié, donc le deuxième pilier ne me concerne pas directement, et le climat je le vis sur ma terre plutôt que dans les placements."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Le texte se présente lui-même comme un projet fictif, je ne vois pas à qui il s'adresse concrètement, et l'assurance maladie me coûte déjà assez cher pour que je m'emballe sur une réforme qui n'existe pas."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "L'AVS me concerne directement puisque je suis indépendant sans caisse de pension, mais je signe rarement les pétitions de jeunes partis et l'idée de taxer le cannabis pour financer ça ne me convainc pas."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Je n'habite pas Versoix et je ne connais pas ce lieu, donc même si un espace associatif est une bonne idée, je n'ai pas de raison de m'engager dans une querelle de conseil municipal qui ne me concerne pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Je compatis et je trouve la situation injuste, mais ce n'est pas un sujet qui me passe par les mains et je ne signe pas ce genre de pétition en ligne."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas de contact direct avec ces questions de remboursement, et une motion au Conseil national sur les diagnostics ne m'intéresse pas assez pour que je signe, même si je comprends les délais d'attente."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.07,
+      "partage_proba": 0.15,
+      "raison": "En tant que maraîcher bio je sais combien il est dur de faire vivre une exploitation avec la seule vente, donc la défense d'une ferme et de son patrimoine me parle, même si ça se passe dans le canton de Vaud."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "La violence faite aux femmes est une vraie question et je suis d'accord avec l'idée d'une maison d'accueil, mais je ne connais pas la situation jurassienne et je ne signe pas une campagne en ligne sur un canton qui n'est pas le mien."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "La chaleur en ville me préoccupe et je comprends le constat sur les surfaces minérales, mais ce tram est vaudois et ce chantier ne me concerne pas, donc je ne prends pas la peine de signer."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je suis sensible aux drames des réfugiés mais je n'ai aucun lien avec le dossier burundais, et je ne peux pas vérifier les faits des renvois, donc je m'abstiens."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "La relève agricole et la formation me préoccupent, mais un CFC allongé à six ans et des temps partiels pour un métier de terrain me paraissent peu réalistes, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Les caméras cachées dans les lunettes me gênent, surtout pour les enfants, mais je n'ai pas d'avis tranché sur ces appareils et une pétition de plus sur la technologie ne me motive pas."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.09,
+      "partage_proba": 0.2,
+      "raison": "Les canicules et le manque d'eau, je les vois sur mes cultures tous les jours, donc j'adhère au fond, mais une liste de mesures aussi large me paraît vague et je ne signe pas tout ce qui circule en ligne."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Je vois la sécheresse et les incendies monter et couper les fonds de l'adaptation des forêts n'a pas de sens, mais je signe rarement et les forêts ne sont pas mon métier."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.03,
+      "partage_proba": 0.08,
+      "raison": "Un réseau qui drogue des femmes pour les abuser est révoltant et l'État doit s'en occuper, mais je ne vois pas comment une task force fédérale changerait les choses, donc je ne signe pas sans plus de détails."
+    }
+  ]
+}

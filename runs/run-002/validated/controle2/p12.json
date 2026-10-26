@@ -1,0 +1,17 @@
+{
+  "id": "p12",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Dix ans, ça paraît loin, mais ce sont nos vaches et notre lait qui paieraient la transition, pas la commune.",
+    "engagement": 1,
+    "freins_participation": [
+      "Deux ans de conversion sans le prix du bio, on ne peut pas se le permettre avec deux enfants et les prêts sur les bâtiments",
+      "Le lait bio ne se vend pas forcément mieux à la fromagerie si personne ne s'engage à le reprendre",
+      "Les aliments bio pour le bétail coûtent plus cher, et nos herbages ne suffisent pas toujours en hiver",
+      "La paperasse, les contrôles et les règles sur les traitements me font peur, je n'ai pas le temps pour ça",
+      "Les décisions viennent souvent de loin, et les réunions où l'on parle de tout sauf de chiffres ne m'intéressent pas"
+    ],
+    "ce_qui_me_ferait_venir": "Un prix garanti du lait bio par la fromagerie pendant toute la transition, un conseiller qui connaît nos prés, et des chiffres concrets sur ce que la commune peut financer ou acheter. Si des habitants veulent vraiment du lait et de la viande locale bio, là je viendrais discuter."
+  }
+}

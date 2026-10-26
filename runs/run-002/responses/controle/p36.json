@@ -1,0 +1,16 @@
+{
+  "id": "p36",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Dix ans pour passer la majorité des terres au bio, c'est vite dit, et qui va payer les paysans pour ça ? Moi je ne suis pas agricultrice, mais je fais confiance à ceux qui travaillent la terre d'ici plutôt qu'aux décisions prises de loin.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je vis seule dans une maison isolée, sortir le soir pour un atelier au village me demande de l'organisation et de la voiture",
+      "Je n'ai pas de terres à cultiver, donc je ne me sens pas concernée directement et je ne saurais pas quoi proposer",
+      "Je me méfie des projets décidés par la commune sans que les paysans soient vraiment associés à la discussion",
+      "Les questions d'agronomie et de méthodes bio me dépassent, je n'ai pas envie de donner un avis à la légère"
+    ],
+    "ce_qui_me_ferait_venir": "Qu'un paysan de Vuadens, que je connais, vienne expliquer de vive voix ce que ça change pour sa ferme, ce qu'on lui garantit et ce que la commune prévoit pour l'aider. Si l'atelier a lieu en journée ou près de chez moi, je pourrais passer."
+  }
+}

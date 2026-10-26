@@ -1,0 +1,143 @@
+{
+  "id": "p39",
+  "portrait": "J'ai 22 ans, je suis en formation et je vis encore chez mes parents, dans un quartier résidentiel récent de Vuadens. Je suis suisse, plutôt proche du Centre, et je suis assez pragmatique : je veux bien qu'on aide les paysans, mais je n'aime pas qu'on m'impose des règles venues d'en haut. Le bio, pour moi, concerne surtout ceux qui travaillent la terre, pas vraiment ma vie de tous les jours.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si le bio permet aux paysans de vivre de leur travail, je suis pour, mais qui paie la différence ?",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'y connais pas grand-chose en agriculture et je n'ai pas de lien direct avec une ferme",
+        "Ma formation me prend beaucoup de soirées",
+        "Je ne suis pas sûre que mon avis pèse face aux agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que touche un paysan en bio et sur ce que ça change au prix en magasin, présentés en une soirée courte."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Acheter à la ferme du village, pourquoi pas, mais je ne vois pas pourquoi je m'engagerais plus que ça.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je vis chez mes parents et je n'ai pas de budget pour acheter des produits en grosse quantité",
+        "Je ne sais pas à qui m'adresser dans le village",
+        "Je n'ai pas le temps d'aller chercher les produits à la ferme"
+      ],
+      "ce_qui_me_ferait_venir": "Un point de vente simple près de chez moi, ou un panier livré sans engagement sur la durée."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Dans trente ans, je pense surtout à mon propre avenir, la terre de Vuadens est loin de mes préoccupations.",
+      "engagement": 0,
+      "freins_participation": [
+        "La question est trop abstraite pour moi",
+        "Je pense d'abord à ma formation et à mon avenir personnel",
+        "Je ne me vois pas discuter de l'avenir du village dans une salle communale"
+      ],
+      "ce_qui_me_ferait_venir": "Un exemple concret de ce que des jeunes du village pourraient faire, ou une proposition qui touche directement mes études ou mon logement."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Reconnaître le travail des paysans, d'accord, mais je me méfie des labels et des beaux discours qui ne changent rien au quotidien.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je me méfie des démarches venues de la commune ou de l'État",
+        "Je n'ai pas de contact avec les fermes et je ne vois pas bien ce que ça m'apporterait",
+        "Je n'ai pas envie de consacrer du temps à ce genre de démarche"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes portent la démarche, sans nouvelle contrainte administrative pour leur exploitation."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "Famille proche, surtout les parents, quelques amis de formation et des collègues d'apprentissage ou d'études. Peu de contacts avec le monde agricole ou avec les associations du village."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "J'étais enfant, je ne pouvais pas voter, et je n'ai pas d'avis formé sur ce sujet à l'époque."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "J'étais enfant, je ne pouvais pas voter, et je n'ai pas d'avis formé sur ce sujet à l'époque."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "J'étais enfant, je ne pouvais pas voter, et je n'ai pas d'avis formé sur ce sujet à l'époque."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "J'étais enfant, je ne pouvais pas voter, et je n'ai pas d'avis formé sur ce sujet à l'époque."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "J'étais enfant, je ne pouvais pas voter, et je n'ai pas d'avis formé sur ce sujet à l'époque."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "J'étais encore enfant, je ne pouvais pas voter, et je n'ai pas d'avis formé sur ce sujet à l'époque."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "J'étais encore enfant, je ne pouvais pas voter, et je n'ai pas d'avis formé sur ce sujet à l'époque."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.4,
+      "raison": "J'avais 17 ans, pas encore l'âge de voter, donc je n'ai pas d'avis formé sur cette question."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "J'avais 17 ans, pas encore l'âge de voter, donc je n'ai pas d'avis formé sur cette question."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "J'avais 17 ans, pas encore l'âge de voter, donc je n'ai pas d'avis formé sur cette question."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être des animaux, mais les exigences demandées aux éleveurs d'ici seraient trop lourdes et les importations resteraient difficiles à contrôler."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Zéro émission nette d'ici 2050 me paraît raisonnable, mais je crains le coût pour les ménages et je ne suis pas sûre des aides promises."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "La nature me tient à cœur, mais l'initiative aurait pris des terres aux agriculteurs et ajouté des règles, et je ne suis pas convaincue que ça aide vraiment."
+    }
+  ]
+}

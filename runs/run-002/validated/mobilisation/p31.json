@@ -1,0 +1,39 @@
+{
+  "id": "p31",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.1,
+      "ce_qui_doublerait_ma_venue": "Que quelqu'un de la commune me dise ce qui sera fait de ce qu'on dira, avec une date précise, et que l'atelier se tienne un samedi matin plutôt qu'en semaine."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.04,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Que la commune annonce noir sur blanc ce qu'elle prend en charge elle-même, avant de demander l'avis des habitants, sans rien me demander à payer."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question sur ce que la commune peut faire pour les fermes l'hiver prochain, plutôt qu'un horizon de trente ans que je n'arrive pas à imaginer."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.08,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Savoir ce que la reconnaissance change concrètement pour les fermes (un prix, une aide, un signe visible), car sans effet concret je n'ai pas de raison de répondre."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de dix minutes sur mon téléphone est le seul format qui rentre dans mes soirées. Je ne vais pas à un atelier en semaine, et le parcours à distance me demanderait trois engagements que je tiendrais mal."
+}

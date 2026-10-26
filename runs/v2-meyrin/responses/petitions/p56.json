@@ -1,0 +1,125 @@
+{
+  "id": "p56",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.008,
+      "raison": "Palantir et l'EPFL à Lausanne ne me touchent pas, et je ne vois pas pourquoi je m'engagerais sur un sujet d'étudiants vaudois."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "Les canicules de cet été sont réelles et je les ressens à Meyrin, mais une lettre ouverte qui réclame un plan climatique coûteux ne me donne pas envie de signer."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.004,
+      "partage_proba": 0.005,
+      "raison": "Cette pétition attaque l'initiative de l'UDC, un texte que je soutiens, donc je ne la signe pas et je ne la relaierais pas."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.006,
+      "partage_proba": 0.004,
+      "raison": "Je ne connais pas bien l'affaire, et soutenir un député qui critique la CICAD et défend la cause palestinienne ne fait pas partie de mes priorités."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.18,
+      "partage_proba": 0.06,
+      "raison": "Je vois le protoxyde d'azote circuler chez les jeunes de mon âge et les bonbonnes qui traînent, donc je signerais assez vite, sans forcément le partager."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.015,
+      "partage_proba": 0.006,
+      "raison": "Les caisses de pension et les énergies fossiles sont loin de mon quotidien, et un texte en anglais m'accroche peu."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.012,
+      "raison": "Je paie déjà des primes d'assurance-maladie très élevées, donc l'idée d'une caisse cantonale m'intéresse en théorie, mais le texte dit lui-même qu'il est fictif, alors je passe."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.09,
+      "partage_proba": 0.04,
+      "raison": "La question de savoir si l'AVS sera encore là quand j'aurai 65 ans me concerne vraiment, mais la légalisation du cannabis dans le paquet me freine."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.004,
+      "raison": "Je ne suis pas de Versoix et ce projet de locaux à l'ancienne Fust ne me concerne pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "C'est une situation très dure que je comprends, mais je ne suis pas concerné et je ne signe pas facilement ce genre de texte, surtout quand l'auteure parle de sa propre histoire."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.012,
+      "raison": "Je connais quelqu'un qui a attendu longtemps un psy, donc l'accès aux soins me parle, mais la motion me paraît trop technique pour que je prenne position."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.015,
+      "partage_proba": 0.008,
+      "raison": "Je ne connais pas cette ferme vaudoise et je ne suis pas concerné par les décisions communales de Borex."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La violence faite aux femmes m'indigne, mais je ne signe pas les pétitions d'un canton qui n'est pas le mien."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.01,
+      "partage_proba": 0.006,
+      "raison": "Je subis la chaleur à Meyrin aussi, mais un tram lausannois est une affaire vaudoise qui ne me regarde pas."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.004,
+      "partage_proba": 0.003,
+      "raison": "Je suis contre la suspension des renvois, l'asile doit rester strict, donc je ne signerai jamais une demande pareille."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.035,
+      "partage_proba": 0.015,
+      "raison": "Je suis en formation et le sujet me parle, mais allonger le CFC à six ans me paraît une fausse bonne idée, et je ne signe pas ce type de texte."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Des lunettes qui filment des femmes à leur insu m'inquiètent, donc je pourrais signer et relayer en story, mais une interdiction nationale me paraît excessive."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.008,
+      "partage_proba": 0.004,
+      "raison": "Ce texte réclame des mesures contraignantes sur la consommation et les vols, et je n'adhère pas à ce discours, donc je passe mon chemin."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.03,
+      "partage_proba": 0.012,
+      "raison": "Les incendies de forêt me préoccupent, mais la pétition vise un projet du conseiller fédéral Rösti, de mon côté politique, donc je ne la signe pas."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "La sécurité des jeunes et la lutte contre les réseaux criminels me parlent davantage que le climat, donc je pourrais signer et partager si un proche le poste."
+    }
+  ]
+}

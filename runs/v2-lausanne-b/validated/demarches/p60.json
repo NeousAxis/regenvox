@@ -1,0 +1,65 @@
+{
+  "id": "p60",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "J'avais 18 ans, le lac de Sauvabelin n'est pas un endroit où je traîne et je n'ai jamais entendu parler de ce sondage."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "J'avais 19 ans, cette première édition du budget participatif est passée inaperçue autour de moi et je travaillais souvent le week-end."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "J'avais 20 ans, entre mes horaires de travail et le Covid je n'ai pas cherché à voter pour des projets de quartier."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Un sondage de cinq minutes pourrait me tenter, mais je ne savais pas ce qu'était le plan d'affectation et je n'ai pas suivi l'annonce."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Le bulletin pré-affranchi arrive dans la boîte aux lettres, je pourrais voter une fois, mais je le laisse souvent traîner avec les pubs."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "La fermeture des quais d'Ouchy me concerne un peu quand je passe par là, mais un questionnaire d'un mois en ligne se perd vite."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Le bulletin reçu à domicile me rappelle le vote, mais je n'ai pas le temps de m'intéresser aux projets de quartier."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "En tant qu'étranger je me sens plus concerné par ce questionnaire sur le racisme que par les autres, mais je ne réponds pas souvent aux enquêtes."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin nominatif m'est adressé personnellement, ce qui me pousse à le remplir, mais je vote rarement et les projets restent flous pour moi."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Je pense à voter quand le bulletin arrive, mais la plupart du temps je n'ouvre pas ce genre de courrier et je n'ai pas suivi les projets."
+    }
+  ]
+}

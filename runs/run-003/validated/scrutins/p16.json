@@ -1,0 +1,95 @@
+{
+  "id": "p16",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Je suis pragmatique et l'armée a besoin de moyens, mais trois milliards pour des avions décidés à Berne pèsent lourd pour des familles qui comptent chaque franc. Je ne suis pas convaincu, sans être farouchement contre."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je n'aime pas qu'on grave dans la Constitution une définition du mariage qui laisse de côté d'autres familles, et je vis moi-même en famille monoparentale. Le désavantage fiscal des couples mariés est un vrai sujet, mais la Constitution n'est pas le bon endroit pour le régler."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je travaille dans le social et je vois au quotidien des personnes âgées aux revenus modestes, donc je soutiens le financement de l'AVS. La TVA pèse un peu sur les petits budgets, mais je préfère ça plutôt que de voir les rentes s'effriter."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je tiens à notre démocratie, mais je n'aime pas un texte qui mettrait nos traités en cause à coups de dénonciations. Nos accords avec les pays voisins font tourner l'économie d'ici, et je ne veux pas les sacrifier sur un principe."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Dans la santé et le social, je travaille avec des collègues venus d'Europe et je vois ce que la libre circulation apporte aux équipes comme aux familles. Je comprends la pression sur les places de travail et les loyers, mais je ne veux pas mettre fin à l'accord."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Une armée crédible a sa place, mais six milliards pour de nouveaux avions de combat, avec le modèle laissé au Conseil fédéral, ressemblent à un chèque en blanc. Je reste réservé faute de précisions sur les besoins réels."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Dans la santé, je vois ce que la recherche a permis de soigner, et je ne veux pas freiner les approches qui protègent les patients. Je comprends le souci du bien-être animal, mais une interdiction totale me semble trop large."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Ma commune vit en grande partie de l'élevage laitier et je connais des paysans qui travaillent dur. Je suis sensible au bien-être des animaux, mais je préfère aider les exploitations d'ici que leur imposer des règles qui les fragilisent."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Je travaille dans le social et je tiens à une AVS solide, donc je soutiens le financement même s'il passe par la TVA. Le relèvement de l'âge de référence des femmes me gêne un peu, mais les mesures de compensation me font pencher pour le oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "La neutralité fait partie de mon identité suisse et je n'aime pas les alliances militaires. Mais une neutralité perpétuelle et armée, qui interdit les sanctions et tout rapprochement, me paraît trop rigide pour un petit pays qui doit aussi composer avec ses voisins."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à une alimentation saine et à la production d'ici, et ma commune a toujours soutenu l'alimentation indigène. Mais viser 70 % en dix ans, produire moins d'aliments d'origine animale et réduire d'un coup les engrais inquiète nos fermes laitières, et je n'aime pas les règles imposées d'en haut."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Je travaille dans le social et la 13e rente aide beaucoup de retraités modestes. Une hausse de 0,4 point de TVA, sans toucher aux denrées ni aux médicaments, reste supportable à mes yeux, même si elle pèse un peu sur les familles."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Les tirs bruyants dérangent les enfants, les animaux et les gens qui dorment, et je suis sensible à ça. Mais je n'aime pas les interdictions venues de Berne, et les fêtes du village comptent aussi pour nous, donc je reste partagé."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "En tant que parent seul, je ne suis pas directement concerné par cette discrimination, et je vois mal un allègement qui profite surtout aux couples mariés alors que tant de familles comptent chaque franc. Le peuple vient de choisir l'imposition individuelle, je la laisserais se mettre en place."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "Je ne suis pas un fervent des exportations d'armes, et la neutralité me tient à cœur. Mais si la règle reste encadrée par la neutralité et les intérêts suisses, je peux l'accepter, même si je reste réservé."
+    }
+  ]
+}

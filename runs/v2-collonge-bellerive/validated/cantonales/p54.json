@@ -1,0 +1,29 @@
+{
+  "id": "p54",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Une contraception gratuite me toucherait directement, mais le PLR et les autorités disent non, et 20 millions par an me paraissent beaucoup pour une dépense qui relève surtout de la responsabilité individuelle."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.45,
+      "oui_proba": 0.75,
+      "raison": "Le PLR, le PS et presque tous les partis soutiennent ce crédit, et je trouve utile de désengorger la frontière par les transports publics, même si je reste méfiante quand on finance des projets en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Donner au locataire la possibilité d'acheter son logement me paraît raisonnable si les autres locataires sont protégés, mais je ne suis pas directement concernée et les opposants parlent de congés-ventes."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.7,
+      "raison": "Le PLR et la majorité des partis soutiennent ce contrat, et je pense que les hautes écoles doivent être financées, même si une baisse de 2 millions par an me semble un compromis raisonnable."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p55",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Je ne suis plus concernée par la contraception, et je ne veux pas qu'on ajoute 20 millions par an à la charge du canton, comme le recommande le PLR, que je suis de près."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Des bus et un prolongement de tram pour désengorger la route de France me paraissent utiles pour notre commune, et le PLR soutient ce crédit, même si je reste méfiante envers les dépenses chez nos voisins."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Je comprends qu'un locataire installé depuis des années veuille acheter son appartement, à condition que les autres locataires ne soient pas forcés de partir, et le PLR soutient cette réforme, mais ce sujet me touche peu directement."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je fais confiance au Conseil d'État et au PLR pour une indemnité de 33 millions à la HES-SO, même si je regrette la hausse des taxes d'études."
+    }
+  ]
+}

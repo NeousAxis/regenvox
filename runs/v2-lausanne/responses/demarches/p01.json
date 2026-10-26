@@ -1,0 +1,15 @@
+{
+  "id": "p01",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.02, "partage_proba": 0.04, "raison": "Sauvabelin est loin de mon quotidien et je n'y allais pas souvent à l'époque, donc je n'ai pas remarqué l'annonce du sondage ni les ateliers du samedi après-midi."},
+    {"item_id": "lau01", "participe_proba": 0.03, "partage_proba": 0.03, "raison": "Premier budget participatif, peu annoncé, avec un vote en ligne ou dans une urne de quartier qui n'était pas dans mes habitudes ; je n'en ai probablement pas entendu parler."},
+    {"item_id": "lau02", "participe_proba": 0.08, "partage_proba": 0.08, "raison": "Le stand du marché le mercredi ou le samedi matin m'aurait permis de voter sans effort, mais en pleine pandémie je suivais peu les nouvelles de la Ville et je n'ai pas regardé les projets."},
+    {"item_id": "lau10", "participe_proba": 0.05, "partage_proba": 0.09, "raison": "Un sondage de cinq minutes en ligne me prendrait peu de temps et mon quartier m'intéresse, mais je réponds rarement aux enquêtes en ligne et les soirées d'information étaient difficiles à suivre pendant le covid."},
+    {"item_id": "lau03", "participe_proba": 0.18, "partage_proba": 0.1, "raison": "Le bulletin affranchi arrivé à domicile rend le vote facile et je suis attentive à mon quartier, mais je ne suis pas certaine de m'être donné la peine de choisir mes projets."},
+    {"item_id": "lau08", "participe_proba": 0.04, "partage_proba": 0.07, "raison": "Je passe parfois sur les quais d'Ouchy, mais un questionnaire en ligne d'une quinzaine de questions est une démarche que je fais rarement et je n'ai pas vu l'annonce."},
+    {"item_id": "lau04", "participe_proba": 0.14, "partage_proba": 0.08, "raison": "Le bulletin reçu à domicile aurait pu me décider, mais je n'ai pas suivi le dépôt des projets et le vote de l'automne m'a semblé lointain."},
+    {"item_id": "lau09", "participe_proba": 0.07, "partage_proba": 0.14, "raison": "Le thème me touche de près en tant qu'étrangère, mais la démarche était peu visible, peu méthodique et je ne l'ai pas vue passer ; j'en aurais plutôt parlé à mes proches que répondu au questionnaire."},
+    {"item_id": "lau05", "participe_proba": 0.2, "partage_proba": 0.12, "raison": "Le bulletin nominatif envoyé à toute la population, étrangers compris, rend le vote simple, mais je ne vote pas à chaque édition et je dois penser à renvoyer le bulletin."},
+    {"item_id": "lau06", "participe_proba": 0.13, "partage_proba": 0.09, "raison": "Le bulletin préaffranchi reçu à domicile rend le vote facile, mais avec l'âge je participe moins aux démarches de la Ville et j'en parle surtout avec mes proches."}
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p10",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "En 2017 je ne fréquentais pas Sauvabelin, et un sondage papier ou un atelier le samedi après-midi ne rentrait pas dans mon emploi du temps avec les enfants."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.08,
+      "partage_proba": 0.10,
+      "raison": "Ce premier budget participatif était peu visible, je n'en ai entendu parler que par bribes, et voter demandait d'aller chercher l'information moi-même."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.08,
+      "raison": "Pendant la pandémie les priorités familiales et le télétravail ont pris le dessus, et ce vote n'a pas retenu mon attention."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.10,
+      "raison": "Habitant le centre-ville, je me sens concernée par l'avenir du quartier, mais je n'aurais sans doute répondu qu'au sondage en ligne de cinq minutes, sans suivre les soirées ni les balades."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin de vote arrivé directement dans la boîte aux lettres m'a rappelé le budget participatif, mais sans relance je l'aurais sans doute laissé de côté."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je ne fréquente pas beaucoup Ouchy, et un questionnaire en ligne d'un mois sur le site de la Ville passe rarement sous mes yeux sans relais."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.12,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin préaffranchi à domicile me donne une occasion de voter, mais la mobilisation est restée discrète dans mon entourage et mon emploi de cadre laisse peu de place à ce genre de choix."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.14,
+      "partage_proba": 0.18,
+      "raison": "Le sujet me touche directement en tant qu'étrangère installée ici, et répondre à un questionnaire sur les discriminations est un geste que je peux faire, même si je ne m'y mets pas sans un rappel."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.10,
+      "raison": "Le bulletin nominatif envoyé à tous, y compris aux étrangers, me concerne, mais je le laisse souvent de côté au profit de sujets plus proches de ma famille."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.10,
+      "partage_proba": 0.09,
+      "raison": "Le vote est simple et les projets sont concrets, mais la campagne reste peu visible en centre-ville et mes priorités professionnelles de l'été 2025 m'ont éloignée du sujet."
+    }
+  ]
+}

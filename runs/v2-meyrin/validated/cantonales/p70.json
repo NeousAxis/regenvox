@@ -1,0 +1,29 @@
+{
+  "id": "p70",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Je suis proche du PS et l'accès gratuit à la contraception me paraît une question de justice sociale, mais le coût et la recommandation négative des autorités me retiennent, donc je pencherais pour le oui sans grande conviction."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.72,
+      "oui_proba": 0.7,
+      "raison": "Les projets de bus, de tram et de parkings-relais vers la France me paraissent utiles à Meyrin, qui subit déjà le trafic des frontaliers, même si le refus de 2014 me rend prudent sur l'argent consacré à des infrastructures en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.7,
+      "oui_proba": 0.25,
+      "raison": "Le PS et les locataires s'y opposent et je crains que les congés-ventes fassent disparaître des logements abordables, donc je voterai non, même si l'accès à la propriété pour les locataires se défend."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Le PS demande de maintenir 35 millions par an pour la HES, deux millions de moins ne sont pas dramatiques mais je n'aime pas qu'on rogne la formation, donc je pencherais pour le non."
+    }
+  ]
+}

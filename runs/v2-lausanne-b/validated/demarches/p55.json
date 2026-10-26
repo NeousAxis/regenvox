@@ -1,0 +1,65 @@
+{
+  "id": "p55",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Je monte rarement à Sauvabelin et un sondage sur l'Auberge ne m'aurait pas accroché à 67 ans, même si j'ai pu voir l'annonce sur le site de la Ville."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.08,
+      "partage_proba": 0.15,
+      "raison": "Le budget participatif pilote m'intéresse en principe, mais sans projet précis pour mon quartier et sans bulletin à domicile, je n'ai probablement pas voté, même si le sujet revient parfois entre amis."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Pendant le Covid je restais prudent et les stands ou les urnes ne me tentaient guère, même si je fais le marché le samedi matin, donc je ne crois pas avoir voté."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le patrimoine de mon quartier me tient à cœur et j'ai peut-être répondu au court sondage en ligne, mais les soirées et les balades m'auraient pris trop de temps."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin affranchi arrivé dans la boîte aux lettres peut me décider à voter, mais la liste des projets est longue et je ne vote pas à chaque édition."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Je descends parfois aux quais d'Ouchy et la circulation m'intéresse, mais un questionnaire d'une quinzaine de questions sur ce sujet ne m'aurait pas tenté, et le thème n'est pas assez personnel pour que j'en parle beaucoup."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.2,
+      "partage_proba": 0.14,
+      "raison": "Je vote volontiers quand le bulletin arrive à domicile, mais cet automne-là je n'ai pas forcément pris le temps de lire tous les projets, et je n'en parle que rarement."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.09,
+      "raison": "La lutte contre le racisme me touche et je suis proche des idées de gauche, mais un questionnaire sur mes expériences personnelles ne me tentait guère et je n'en ai pas beaucoup parlé."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif est arrivé chez moi et je vote volontiers pour les projets de mon quartier, mais je ne me suis pas forcément mobilisé cette année-là et j'en parle surtout avec des amis proches."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.16,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin arrive à domicile et la cabine de la Rue centrale n'est pas loin, donc je peux avoir voté, mais à mon âge je me disperse et je ne suis pas sûr d'avoir choisi les trois projets exigés."
+    }
+  ]
+}

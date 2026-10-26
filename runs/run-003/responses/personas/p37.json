@@ -1,0 +1,142 @@
+{
+  "id": "p37",
+  "portrait": "J'ai 40 ans, je suis suisse et j'occupe un poste d'employé de bureau ou d'administration. Je vis en couple avec enfants dans un quartier résidentiel récent de Vuadens, et je suis proche du PLR : je regarde d'abord le coût pour les familles et la liberté de chacun, tout en faisant confiance aux agriculteurs du village pour leur métier. Le bio me touche peu au quotidien, même si je tiens à ce que la campagne reste vivante autour de chez nous.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Que nos paysans puissent vivre de leur travail, je suis d'accord, c'est le minimum. Mais si la commune pousse le bio, je veux d'abord voir si ça paie vraiment pour la ferme, pas seulement une belle idée.",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne connais pas les chiffres de revenu des fermes bio du coin",
+        "les soirées en semaine sont prises par les enfants et le travail",
+        "je ne me sens pas vraiment concerné si ça ne touche que les agriculteurs"
+      ],
+      "ce_qui_me_ferait_venir": "Des comptes clairs sur le revenu d'une ferme bio comparé à une ferme conventionnelle à Vuadens, présentés par les agriculteurs eux-mêmes."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Acheter local, je le fais déjà quand c'est possible. Mais devenir partenaire d'une ferme, je vois mal ce que ça veut dire concrètement, et je ne veux pas qu'on me demande de payer plus cher par principe.",
+      "engagement": 0,
+      "freins_participation": [
+        "l'expression premiers partenaires sonne comme une obligation morale",
+        "je ne vois pas ce que j'y gagnerais",
+        "je n'ai pas le temps d'aller à des ateliers"
+      ],
+      "ce_qui_me_ferait_venir": "Une proposition simple et concrète, par exemple un panier de la ferme ou une visite d'exploitation, avec des prix transparents et raisonnables."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Bien sûr qu'on veut laisser un beau paysage à nos enfants, mais une question comme celle-ci reste abstraite. Je ne sais pas trop ce que ça change dans ma vie de tous les jours.",
+      "engagement": 0,
+      "freins_participation": [
+        "la question est trop vague pour que je sache quoi en dire",
+        "les démarches de la commune ne me donnent pas l'impression d'être vraiment écouté",
+        "je ne me déplace pas pour un débat sur trente ans"
+      ],
+      "ce_qui_me_ferait_venir": "Un sujet lié à ma rue ou à l'école des enfants, avec une décision concrète à la clé."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Reconnaître le travail des paysans, pourquoi pas, ça ne coûte pas grand-chose. Mais une reconnaissance sans soutien concret, ça reste surtout des mots sur un panneau.",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne sais pas comment cette reconnaissance serait décernée",
+        "j'ai déjà l'impression que la commune lance des labels et des campagnes sans suite"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite ou une balade organisée où l'on voit concrètement ce que les exploitations font pour les sols et l'eau."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "famille proche, collègues de bureau, voisins du quartier, parents des camarades de classe des enfants, quelques amis du club sportif local"
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Je ne veux pas qu'on limite ce que les propriétaires peuvent faire chez eux, et la commune a besoin de logements pour les familles. Les résidences secondaires ne me gênent pas tant que c'est une affaire privée."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Arrêter de grignoter les terres agricoles, je comprends, et le paysage compte. Mais une loi plus stricte sur les zones à bâtir peut faire monter le prix des terrains pour les familles, donc je suis partagé et je penche pour le oui."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Une empreinte limitée à celle d'une seule planète d'ici 2050 demande des règles lourdes pour les entreprises. Je veux bien des efforts, mais pas ce genre d'objectif imposé qui risque de coûter des emplois."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas contre une transition à terme, mais fermer les centrales après 45 ans sans alternative prête, c'est risquer le courant et les factures. Je pencherais pour le non."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Le compromis de la stratégie 2050 me paraît raisonnable : des économies d'énergie, des renouvelables et une sortie progressive du nucléaire sans précipitation. Je vote oui en pensant aux factures, sans grand enthousiasme."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Des normes pour les produits importés, ça ajoute des règles et des prix plus hauts pour les familles. Je préfère soutenir les producteurs d'ici plutôt que d'imposer des contraintes aux importations."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "J'aime l'idée de mieux protéger notre agriculture et ce qu'elle produit ici, mais les droits de douane et les règles supplémentaires renchérissent les courses de tout le monde. Je reste sceptique."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.65,
+      "oui_proba": 0.25,
+      "raison": "Une eau propre, tout le monde est pour. Mais lier les paiements directs à une liste de pratiques imposées par l'État ressemble à une tutelle sur les fermes. Le conseil et les contrats volontaires me paraissent plus efficaces."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Réduire les pesticides, je suis d'accord, mais les interdire d'un coup, y compris pour les produits importés, sans solution prête pour les cultures, c'est trop brutal pour nos agriculteurs et pour les prix. Je voterais non."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Le climat me préoccupe, mais la taxe sur les billets d'avion et les normes pour les bâtiments et les véhicules touchent directement le budget des familles et le travail des entreprises. La facture me paraît trop lourde."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.12,
+      "raison": "Le bien-être des animaux compte pour moi, mais imposer le cahier des charges Bio Suisse à tout l'élevage, importations comprises, c'est une décision lointaine qui ne tient pas compte de nos fermes. Je voterais non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Zéro émission nette en 2050, l'objectif je le partage. Mais les aides pour changer de chauffage et pour l'innovation se paient avec nos impôts et de nouvelles taxes. J'hésite, et je pencherais pour le non."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Protéger la nature, personne n'est vraiment contre. Mais l'initiative demande beaucoup plus de surfaces protégées et d'argent public, et ça retomberait sur les agriculteurs et les propriétaires. Je voterais plutôt non."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p20",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Sondage sans rappel et ateliers un samedi après-midi sur l'avenir d'un établissement du lac, un sujet qui ne le touche pas directement : il l'aurait probablement vu passer sans répondre."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Premier budget participatif, vote seulement en ligne ou dans des urnes de quartier et peu relayé : l'idée lui plaît, mais sans bulletin à domicile la démarche reste discrète pour un artisan très occupé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Deuxième édition marquée par le Covid, vote en ligne ou à des stands de marché le samedi matin, peu compatibles avec un métier de chantier : il pourrait voter en ligne, mais il n'a pas de projet à porter."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.17,
+      "partage_proba": 0.1,
+      "raison": "Un sondage en ligne de cinq minutes sur son propre quartier à l'horizon 2030 : il répondrait s'il tombait dessus, mais les soirées et balades demandent du temps et la démarche se perd pendant la crise sanitaire."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.15,
+      "raison": "Pour la première fois le bulletin de vote affranchi arrive dans la boîte aux lettres : c'est l'édition la plus facile à faire, il le remplirait sans doute, mais il ne dépose pas de projet et le vote peut vite être oublié."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "Le sujet touche à la circulation, qui peut peser sur son travail, mais un questionnaire d'une quinzaine de questions sur les quais se laisse facilement oublier, et il n'en parlerait qu'en cas de désaccord."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.2,
+      "partage_proba": 0.13,
+      "raison": "Bulletin de vote reçu à domicile pour la deuxième année consécutive : le geste est devenu plus familier, mais il doit choisir trois projets à une saison chargée pour un artisan du bâtiment."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Consultation sur le racisme, diffusée surtout en ligne et dans quelques maisons de quartier : sujet éloigné de ses préoccupations de chantier, il n'y répondrait probablement pas et n'en parlerait guère."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.24,
+      "partage_proba": 0.15,
+      "raison": "Bulletin nominatif envoyé à tout le foyer, enfants dès 4 ans compris : le vote peut devenir un geste de famille, mais il faut encore choisir au moins trois projets et renvoyer le bulletin ou voter en ligne."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.18,
+      "partage_proba": 0.12,
+      "raison": "Bulletin reçu à domicile et thèmes proches de la vie de quartier (sport de proximité, liens entre générations) : il pourrait voter, mais fin août et septembre tombent en pleine saison de chantier, et l'effort se répète pour la sixième fois."
+    }
+  ]
+}

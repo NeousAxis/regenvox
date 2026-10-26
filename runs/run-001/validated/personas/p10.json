@@ -1,0 +1,111 @@
+{
+  "id": "p10",
+  "portrait": "J'ai 72 ans, je suis retraitée et mariée, et nos enfants ont quitté la maison depuis longtemps. Nous habitons un quartier résidentiel récent de Vuadens ; je suis suisse et je vote plutôt à droite, sans être militante. Ce qui me préoccupe, c'est la vie quotidienne du village et le portemonnaie de chacun.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Que les paysans vivent correctement de leur travail, je suis d'accord, ils travaillent dur. Mais c'est à eux de décider s'ils passent au bio, pas à la commune ni à des gens de la ville qui n'ont jamais tenu une fourche. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis pas agricultrice et je n'ai ni le temps ni l'envie de débattre de l'avenir de la paysannerie",
+        "Ce genre de démarche me fait penser à des programmes décidés d'en haut, dont on finit par payer le prix",
+        "Les soirées en semaine ne m'attirent pas"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes présentent leurs chiffres, leurs revenus et leurs risques, et qu'on ne se contente pas d'objectifs."
+    },
+    {
+      "angle_id": 2,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« J'achète déjà légumes et viande à la ferme du coin quand c'est possible. Si on peut faire plus, pourquoi pas, mais qu'on ne nous demande pas de jouer les conseillers agricoles. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je viens rarement aux ateliers organisés en soirée",
+        "Je n'aime pas les groupes de travail où chacun doit prendre la parole",
+        "Les inscriptions en ligne me compliquent la vie"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme l'après-midi, suivie d'un café, avec des gens du village que je connais."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans je ne serai plus là, donc la terre de demain, je la laisse à ceux qui la travailleront. Ce que je souhaite, c'est que le village reste un village et que les champs restent des champs. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Les objectifs à dix ou trente ans me paraissent flous",
+        "Je ne me sens pas concernée par une question qui se jouera après moi"
+      ],
+      "ce_qui_me_ferait_venir": "Des exemples concrets de ce que la transition change pour un champ ou un chemin près de chez nous."
+    },
+    {
+      "angle_id": 4,
+      "position": "porteur",
+      "intensite": 3,
+      "citation": "« Les paysans font déjà beaucoup pour la nature, les haies, les prairies, les oiseaux. Ça mérite d'être reconnu, mais que ça se voie dans leur portemonnaie, sinon ce ne sont que des mots. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Une réunion sur la reconnaissance ne m'attire pas si rien ne se concrétise",
+        "Je crains que cette reconnaissance serve de prétexte à de nouvelles contraintes"
+      ],
+      "ce_qui_me_ferait_venir": "Une fête villageoise, un panneau ou un événement organisé sur une ferme, plutôt qu'une réunion."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "relai",
+    "cercle_type": "voisinage du quartier, membres d'une société locale et d'un groupe de paroisse, famille élargie, anciennes connaissances du village"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Des règles plus strictes pour les produits importés, cela fait monter les prix et les contrôles. Je veux bien mieux manger, mais pas à n'importe quel prix quand on a une petite retraite."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.85,
+      "oui_proba": 0.65,
+      "raison": "Je suis pour une agriculture suisse protégée, qui nourrit le pays et qui reste sans OGM. Des droits de douane pour protéger nos paysans, cela me paraît logique."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Je veux de l'eau propre, bien sûr, mais priver les paysans de leurs paiements directs s'ils ne font pas exactement ce qu'on leur demande, c'est trop brutal. Il faut les accompagner."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Supprimer tous les produits de synthèse sans alternative prête, je crains une baisse des récoltes et des fruits et légumes plus chers ou importés. Les paysans doivent pouvoir choisir leurs méthodes."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.85,
+      "oui_proba": 0.2,
+      "raison": "Une taxe sur les billets d'avion et davantage de taxes sur le mazout et l'essence, ce sont encore les gens ordinaires qui paient. Je suis pour réduire les émissions, mais pas par de nouvelles taxes."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux me touche, c'est sûr. Mais inscrire dans la Constitution des règles qui obligent nos éleveurs à tout changer en vingt-cinq ans me paraît excessif."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.85,
+      "oui_proba": 0.15,
+      "raison": "Zéro émission nette d'ici 2050 avec des aides de l'État, cela coûte très cher, et je ne suis pas sûre que ces subventions profitent vraiment aux gens d'ici. Je voterais non."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.85,
+      "oui_proba": 0.35,
+      "raison": "Protéger la nature, oui. Mais davantage de surfaces mises de côté et plus d'argent pour la biodiversité, cela veut dire moins de terres pour les fermes d'ici. Je suis réticente à prendre sur les terres agricoles."
+    }
+  ]
+}

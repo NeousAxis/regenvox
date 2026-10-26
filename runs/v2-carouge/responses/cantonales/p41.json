@@ -1,0 +1,29 @@
+{
+  "id": "p41",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "À mon âge, la contraception ne me concerne plus, et 20 millions par an payés par le canton, donc par nos impôts, c'est trop : le MCG et les autorités disent non, et je suis du même avis."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.25,
+      "raison": "Financer des bus et des trams en France avec l'argent genevois, alors que les retraités ont du mal à payer leur loyer et leur caisse-maladie, ça ne passe pas, même si je vois bien les bouchons à la frontière."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Pouvoir acheter son appartement à un prix plafonné serait une sécurité pour ceux qui habitent là depuis longtemps, et le MCG est pour, mais je me souviens des congés-ventes et je crains qu'ils fassent partir les autres locataires de l'immeuble."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je ne suis pas spécialiste de ce dossier, je suis le mot d'ordre du MCG qui dit non, et je ne fais pas confiance à une école dont les taxes d'études ont déjà augmenté."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p36",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.02, "partage_proba": 0.01, "raison": "Sujet technique et lointain à Lausanne, je ne suis ni étudiant ni concerné, même si la surveillance de masse m'inquiète un peu."},
+    {"item_id": "pet02", "participe_proba": 0.18, "partage_proba": 0.09, "raison": "Les canicules et la sécheresse de cet été se voient jusque sur le coteau de Savièse, je suis sensible au climat, mais je signe rarement une lettre ouverte de coalition."},
+    {"item_id": "pet03", "participe_proba": 0.12, "partage_proba": 0.05, "raison": "Je suis opposé à cette initiative de l'UDC et je partage l'avis sur le droit international, mais je doute qu'une pétition change quelque chose et je ne m'engage pas volontiers dans la politique nationale."},
+    {"item_id": "pet04", "participe_proba": 0.03, "partage_proba": 0.01, "raison": "Affaire genevoise que je ne connais pas en détail, et le conflit à Gaza divise trop pour que je signe un appel sur un dossier judiciaire local."},
+    {"item_id": "pet05", "participe_proba": 0.05, "partage_proba": 0.03, "raison": "Problème réel chez les jeunes, mais il concerne surtout Genève et je n'ai pas vu de cas près de chez moi, donc je ne vais pas m'y arrêter."},
+    {"item_id": "pet06", "participe_proba": 0.07, "partage_proba": 0.04, "raison": "Ma propre caisse de pension me concerne, mais le texte est en anglais et je me méfie des pétitions qui n'ont pas de suite concrète."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.02, "raison": "Le texte se présente lui-même comme fictif, donc ma signature ne servirait à rien, même si l'idée d'une caisse cantonale est intéressante."},
+    {"item_id": "pet08", "participe_proba": 0.06, "partage_proba": 0.03, "raison": "L'AVS me concerne directement en tant que retraité, mais je ne suis pas d'accord avec toutes les pistes proposées, comme la hausse de la TVA ou la taxe sur le cannabis, et ce n'est pas mon bord politique."},
+    {"item_id": "pet09", "participe_proba": 0.01, "partage_proba": 0.01, "raison": "Je ne suis pas de Versoix, ce local ne me concerne pas, même si j'approuve l'idée d'espaces associatifs."},
+    {"item_id": "pet10", "participe_proba": 0.09, "partage_proba": 0.07, "raison": "Le drame raconté me touche profondément et je comprends le besoin de reconnaissance, mais je ne suis pas directement concerné et je n'ai pas l'habitude de signer ce genre de texte en ligne."},
+    {"item_id": "pet11", "participe_proba": 0.05, "partage_proba": 0.03, "raison": "Je comprends l'enjeu de l'accès aux soins, mais je n'ai pas suivi cette motion et les délais de psychothérapie ne me touchent pas aujourd'hui."},
+    {"item_id": "pet12", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "Une belle collection et un sujet agricole qui me parle, mais Borex est loin de Savièse et je ne connais pas le dossier local."},
+    {"item_id": "pet13", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "La violence faite aux femmes me révolte, mais le Jura n'est pas mon canton et je signe rarement ce genre de pétition en ligne."},
+    {"item_id": "pet14", "participe_proba": 0.03, "partage_proba": 0.02, "raison": "La chaleur dans les villes me préoccupe, mais Lausanne est loin de Savièse et je ne m'y rends plus souvent, donc ce tram ne me concerne pas directement."},
+    {"item_id": "pet15", "participe_proba": 0.08, "partage_proba": 0.04, "raison": "Je suis sensible au sort des réfugiés et aux droits humains, mais je me méfie des renvois dont je ne connais pas le détail et je n'ai aucun lien avec le Burundi."},
+    {"item_id": "pet16", "participe_proba": 0.02, "partage_proba": 0.01, "raison": "L'idée d'une formation à temps partiel est intéressante, mais je n'ai pas de proche concerné et la formation professionnelle n'est pas mon sujet."},
+    {"item_id": "pet17", "participe_proba": 0.07, "partage_proba": 0.06, "raison": "Les lunettes à caméra m'inquiètent pour la vie privée, mais une interdiction générale me paraît difficile à faire respecter, donc je préfère avertir mes proches plutôt que signer."},
+    {"item_id": "pet18", "participe_proba": 0.10, "partage_proba": 0.05, "raison": "Je partage l'inquiétude climatique et je lis ce genre d'appel, mais le texte est très général et n'appelle à rien de précis, ce qui me fait hésiter."},
+    {"item_id": "pet19", "participe_proba": 0.20, "partage_proba": 0.12, "raison": "Les forêts et la sécheresse sont très concrètes sur le coteau de Savièse, et couper des fonds que le Parlement a déjà décidé de maintenir me paraît absurde, donc je signerais volontiers."},
+    {"item_id": "pet20", "participe_proba": 0.05, "partage_proba": 0.06, "raison": "Le sujet est grave et peut toucher mes proches, donc je peux partager l'alerte, mais je signe peu ce type de pétition en ligne."}
+  ]
+}

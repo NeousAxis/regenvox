@@ -1,0 +1,95 @@
+{
+  "id": "p40",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je suis partagée : il faut une armée qui tienne debout, mais un avion suédois ne fait pas travailler nos gens ici, et je n'ai pas le temps de suivre le dossier de près."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "Je suis pour la famille, mais inscrire dans la Constitution une définition du mariage me met mal à l'aise, et étant mère seule je ne me sens pas vraiment concernée par la pénalisation des couples mariés."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Les retraites me préoccupent pour plus tard et le Centre soutient la réforme, mais la TVA pèse surtout sur les petits budgets comme le mien, et relever l'âge de la retraite des femmes m'embête."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Nos entreprises travaillent avec l'étranger et les accords nous protègent, donc je ne veux pas que la Constitution passe avant le droit international ni qu'on dénonce les traités."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.25,
+      "raison": "La libre circulation a ses défauts, mais dans notre zone on a besoin de main-d'œuvre et de liens avec l'Europe, et je ne suis pas convaincue que casser les accords règle quoi que ce soit."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Il faut bien défendre le pays et l'achat ferait travailler des entreprises suisses, mais six milliards, c'est beaucoup d'argent, et laisser le choix du modèle au Conseil fédéral me paraît un peu un chèque en blanc."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible à la souffrance des animaux, mais la recherche médicale a besoin de ces essais, et une interdiction totale, avec celle des importations, me semble trop radicale."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des bêtes me parle, mais imposer le cahier des charges Bio Suisse à tout le monde, ce sont nos fermes laitières d'ici qui paieront la facture, et les importations ne seront pas forcément mieux traitées."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Ça ne me réjouit pas de travailler plus longtemps en tant que femme, mais l'AVS doit tenir et les mesures de compensation ont été ajoutées, donc je peux accepter ce compromis, même si la TVA me laisse méfiante."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "La neutralité est une valeur suisse que je défends, mais une neutralité armée sans sanctions pourrait nous isoler et mettre en danger les exportations de nos entreprises, donc je reste prudente."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Manger suisse et soutenir nos paysans, je suis d'accord, mais réduire la production animale et les engrais sans plan clair, ce sont nos fermes du coin qui trinquent, et l'objectif de 70 % me paraît difficile à tenir."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "La 13e rente, on en aura tous besoin un jour, et le fait que l'alimentation et les médicaments ne soient pas touchés m'aide, mais 0,4 point de TVA reste une taxe qui pèse sur les ménages comme le mien."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Le bruit des pétards effraie les enfants, les chiens et les bêtes à la ferme, donc je soutiens la limitation, mais j'aime bien nos feux du 1er août, et l'exception pour les grandes fêtes me convient."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis seule avec mes enfants, la question du mariage ne me concerne pas directement, et le peuple vient de trancher pour l'imposition individuelle en mars, donc je trouve qu'on refait le débat trop vite."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Les exportations font vivre des emplois dans nos entreprises, mais livrer du matériel à un pays impliqué dans un conflit me gêne au regard de notre neutralité, et je ne suis pas sûre des exceptions prévues."
+    }
+  ]
+}

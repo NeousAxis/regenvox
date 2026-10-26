@@ -1,0 +1,16 @@
+{
+  "id": "p16",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le bio, pourquoi pas si le marché en veut, mais fixer un objectif de terres en bio sans dire qui paie la facture, ça me laisse sceptique.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je ne sais pas ce que ça coûte à la commune ni aux contribuables, et je n'ai pas vu de chiffres",
+      "J'ai une famille et un travail de bureau, je ne peux pas assister à des ateliers à répétition",
+      "Je pense que les agriculteurs doivent pouvoir décider de leurs cultures, la commune n'a pas à leur dicter la méthode",
+      "Je ne suis pas spécialiste de l'agriculture et j'ai peur qu'on décide sans les paysans qui connaissent le terrain"
+    ],
+    "ce_qui_me_ferait_venir": "Un chiffrage clair (coûts, subventions, qui paie), la garantie que les exploitations y gagnent économiquement, et des débouchés concrets comme la cantine de l'école ou les produits de la fromagerie villageoise. Une séance le soir avec les agriculteurs présents, pour une vraie discussion plutôt qu'une annonce."
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p32",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.5,
+      "raison": "À 22 ans je vote peu et je ne suis pas encore formé politiquement ; la hausse de la TVA pèse sur un petit salaire, mais l'AVS doit être financée, donc je penche pour un oui hésitant."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Un relèvement temporaire pour l'AI, limité dans le temps et soutenu par presque tous les partis, me paraît raisonnable même si la TVA touche tout le monde."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je ne vois pas l'intérêt d'interdire ces exportations qui fragiliseraient des emplois industriels, et j'ai peu confiance dans l'effet d'un tel texte sur les conflits."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le service obligatoire garde une utilité pour la sécurité et la cohésion du pays, je ne suis pas favorable à le remplacer par un volontariat, donc je vote non sans passion."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "La libre circulation a permis à l'horlogerie de recruter des techniciens qualifiés et de vendre à l'étranger ; des contingents menaceraient nos accords avec l'UE, je vote non comme les Vert'libéraux."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je comprends le besoin d'une défense crédible, mais le coût de ces avions et la manière dont le fonds est financé me gênent, et les Vert'libéraux sont contre."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.4,
+      "oui_proba": 0.12,
+      "raison": "L'État n'a pas à définir le mariage dans la Constitution ni à désavantager les autres formes de vie commune, c'est une question de liberté individuelle, je refuse."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.6,
+      "raison": "Une réforme de l'AVS doit être financée, les Vert'libéraux la soutiennent et la hausse de 0,6 point me paraît supportable, même si elle pèse sur les ménages modestes."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.4,
+      "raison": "L'idée de laisser les cornes aux animaux me touche un peu, mais une aide fédérale obligatoire coûte cher et ne me concerne pas directement, et je ne suis pas sûr d'aller voter."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.15,
+      "raison": "Je crois au droit suisse, mais cette initiative mettrait en péril nos accords avec l'UE dont dépend l'horlogerie exportatrice, donc je vote non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Les accords Schengen facilitent les échanges et la coopération policière, et les exceptions pour les tireurs me rassurent, je suis favorable comme les Vert'libéraux."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Mettre fin à la libre circulation avec l'UE menacerait mon emploi dans une industrie exportatrice et nos bilatérales, je vote non sans hésiter."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "La protection de la faune compte, mais une régulation facilitée du loup avant tout dégât me paraît trop large, et les Vert'libéraux sont contre, je penche pour le non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Une armée crédible a besoin d'avions modernes et l'achat profite aussi à l'industrie suisse, les Vert'libéraux soutiennent l'arrêté, mais je reste attentif au coût."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Interdire aux banques et aux caisses de pension de financer les fabricants de matériel de guerre irait trop loin pour nos fonds de pension, et les Vert'libéraux sont contre."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "La qualité de l'eau et la santé me préoccupent et les Vert'libéraux soutiennent ce texte, mais je crains des contraintes lourdes pour les paysans, donc je penche pour un oui."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "La protection des sols et de l'eau est une priorité, mais une interdiction totale en dix ans renchérirait l'alimentation et pèserait sur les agriculteurs, je reste méfiant."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.88,
+      "raison": "Le mariage civil pour tous relève de l'égalité devant la loi et de la liberté individuelle, les Vert'libéraux le soutiennent, c'est pour moi un oui évident."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Le souci éthique se comprend, mais interdire la recherche médicale et l'importation de nouveaux produits menacerait la recherche de la région, je vote non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.68,
+      "raison": "Schengen nous protège et simplifie la vie des frontaliers et des entreprises, je suis favorable à cette contribution à Frontex comme les Vert'libéraux."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "La dignité des animaux compte pour moi, mais imposer les standards Bio aux importations renchérirait l'alimentation et la transition de 25 ans reste floue, je penche pour le non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.62,
+      "raison": "Le financement de l'AVS passe par cette hausse de TVA, la contrepartie sur l'âge de référence me paraît acceptable et les Vert'libéraux soutiennent le projet."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.52,
+      "raison": "La biodiversité est un enjeu sérieux que les Vert'libéraux appuient, mais l'initiative va trop vite sur les sols et les surfaces agricoles, je penche pour un oui prudent."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Je suis célibataire et ça ne me touche pas directement, mais l'imposition individuelle relève de l'égalité entre contribuables, et les Vert'libéraux la soutiennent."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Plafonner la population à 10 millions reviendrait à remettre en cause les accords avec l'UE dont dépendent nos entreprises et nos emplois, je vote non avec les Vert'libéraux."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Le service civil ne me touche guère, mais durcir l'accès après l'incorporation me paraît injuste pour ceux qui ont des convictions sincères, je vote non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "La neutralité est une valeur suisse, mais cette initiative interdirait les sanctions et toute coopération de sécurité, ce qui isolerait nos entreprises exportatrices, je vote non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Une eau plus propre et une alimentation plus locale m'intéressent, mais un objectif de 70 % de production indigène en dix ans ferait monter les prix sans plan crédible, je vote non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "La 13e rente AVS doit être financée et la TVA touche tous les ménages, les Vert'libéraux n'ont pas encore tranché et je penche pour un oui pragmatique."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Le bruit des pétards privés gêne les animaux et les voisins, mais j'aime les fêtes populaires et la liberté de choix, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Je viens de soutenir l'imposition individuelle, je ne vois pas pourquoi la Constitution imposerait l'imposition commune des couples mariés, et cette initiative me paraît en recul."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.42,
+      "raison": "Le débat sur l'exportation d'armes touche à la neutralité et à l'éthique, la loi actuelle paraît trop rigide aux entreprises, je suis indécis et penche pour un oui limité."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "p27",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 4,
+    "citation": "Dix ans pour passer la plupart de nos terres en bio, décidé à la commune sans qu'on nous demande rien. Moi j'ai des vaches à traire et des prés à faucher, je ne vais pas tout changer parce qu'un bureau a écrit un objectif.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je n'ai pas le temps, la traite et les foins me prennent toute la journée",
+      "La conversion coûte cher pendant les années de transition, avec moins de rendement et des charges qui restent",
+      "Le Conseil fixe un objectif sans avoir regardé les chiffres de mon exploitation",
+      "Je ne sais pas qui reprendra la ferme, je ne veux pas m'engager sur dix ans",
+      "Les séances organisées par des gens qui ne sont jamais venus traire une vache ne me parlent pas",
+      "Les contraintes du bio sur les traitements et les intrants risquent de compliquer la gestion des prairies"
+    ],
+    "ce_qui_me_ferait_venir": "Un calcul concret sur mon exploitation : coût de la conversion, prix du lait bio, aides de la Confédération et du canton, et un acheteur qui garantit le prix. Qu'on me demande mon avis avant de fixer l'objectif. Un atelier sur place avec des éleveurs de la région qui ont déjà passé le cap me convaincrait plus qu'une séance au Conseil."
+  }
+}

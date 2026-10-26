@@ -1,0 +1,197 @@
+{
+  "id": "p33",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Le parti que je suis soutient ce financement de l'AVS, même si une hausse de la TVA pèse sur le budget d'une famille."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Un coup de pouce temporaire à l'AI me paraît raisonnable et mon parti le soutient, à condition que ce soit vraiment limité dans le temps."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas priver des régions entières de leurs emplois industriels, et mon parti est contre cette interdiction, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le service militaire fait partie de notre culture commune et, comme mon parti, je pense qu'il faut le garder."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.25,
+      "raison": "Dans une commune très internationale, proche du CERN et de l'aéroport, je ne veux pas de plafonds qui mettraient en danger nos accords avec l'UE, et mon parti est aussi contre."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Notre armée a besoin de moyens pour assurer notre sécurité, et mon parti soutient cet achat, même si le prix me laisse perplexe."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je suis attachée au mariage et mon parti soutient le texte, mais inscrire une définition aussi rigide du couple dans la Constitution me semble inutile, donc je suis hésitante."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Travailler un peu plus longtemps ne me réjouit pas, mais l'AVS doit être financée et mon parti soutient ce compromis avec le supplément de 70 francs pour les nouvelles rentes."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je comprends le souci du bien-être des animaux, mais une subvention fédérale pour garder les cornes me paraît peu justifiée, et mon parti s'y oppose."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Les traités avec l'UE sont essentiels à notre économie genevoise, donc je ne veux pas que la Constitution passe au-dessus du droit international, comme le dit mon parti."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Reprendre les règles européennes sur les armes pour rester dans Schengen me paraît logique, et mon parti le soutient avec des exceptions pour les tireurs."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.9,
+      "oui_proba": 0.12,
+      "raison": "Je ne veux pas remettre en cause la libre circulation qui fait tourner notre économie, les accords bilatéraux sont précieux et mon parti s'y oppose clairement."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.4,
+      "oui_proba": 0.45,
+      "raison": "Je suis favorable à la régulation du loup quand il cause des dégâts, comme le soutient mon parti, mais la nature me tient aussi à cœur, donc j'hésite."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "La défense du pays doit être assurée et mon parti soutient ce renouvellement de l'aviation militaire, même si six milliards représentent une somme considérable."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Les banques et les caisses de pension ne doivent pas être bridées dans leurs placements, et mon parti est contre cette interdiction, donc je voterais non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "L'eau potable compte pour moi, mais conditionner les paiements directs aux agriculteurs me paraît trop contraignant, et mon parti s'y oppose, donc je reste réticente."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à la santé et aux sols, mais interdire tous les pesticides de synthèse en dix ans me semble trop brutal pour nos agriculteurs, et mon parti refuse."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.8,
+      "raison": "L'ouverture du mariage aux couples de même sexe me paraît juste et mon parti la soutient, je n'y vois aucune menace pour les familles."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.15,
+      "raison": "Les progrès de la recherche médicale sont indispensables et Genève est un pôle scientifique, donc je ne veux pas interdire tous les essais, comme le dit mon parti."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Mon parti soutient la coopération avec Frontex pour rester dans Schengen, et je pense qu'il faut mieux contrôler nos frontières, donc je suis plutôt favorable."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux compte, mais imposer des normes bio suisses aux importations avec une transition de 25 ans me paraît irréaliste, et mon parti s'y oppose."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.55,
+      "raison": "Le relèvement de l'âge des femmes me concerne de près et la TVA pèse, mais l'AVS doit être financée et mon parti soutient ce compromis."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "J'aime la nature de notre région, mais l'initiative demande trop de surfaces et de moyens pour un coût que je trouve excessif, et mon parti s'y oppose."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Je trouve que l'imposition commune protège les familles avec un seul revenu, et mon parti s'opposait à cette réforme, donc je voterais non."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.85,
+      "oui_proba": 0.25,
+      "raison": "Je comprends l'inquiétude face à la densité et aux transports, mais une limite de population et la fin de la libre circulation mettraient en danger notre économie, donc je dis non comme mon parti."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "Mon parti estime que le service civil ne doit pas devenir une porte de sortie pour ceux qui sont déjà dans l'armée, donc je suis plutôt favorable à ce durcissement."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.8,
+      "oui_proba": 0.35,
+      "raison": "La neutralité est une valeur importante pour la Suisse, mais une obligation perpétuelle et armée me semble rigide, et mon parti s'y oppose, donc je suis indécise."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Manger local et utiliser moins de pesticides me plaît, mais fixer 70 % de production indigène en dix ans me paraît irréaliste, et mon parti est contre."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.75,
+      "oui_proba": 0.8,
+      "raison": "Une 13e rente AVS pour nos aînés est une bonne chose, je suis concernée de près, et mon parti soutient cette hausse de TVA limitée à 0,4 point."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Le bruit des pétards dérange les animaux et les voisins, mais je tiens à nos fêtes du 1er août, donc j'hésite et mon parti n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.8,
+      "oui_proba": 0.65,
+      "raison": "Je trouve injuste de pénaliser le couple marié, mon parti soutient cette imposition commune, donc je suis plutôt pour, sans être sûre de tout le texte."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.55,
+      "raison": "Mon parti soutient d'assouplir les exportations si la neutralité est respectée, mais je suis mal à l'aise avec des livraisons à des pays en guerre, donc je suis partagée."
+    }
+  ]
+}

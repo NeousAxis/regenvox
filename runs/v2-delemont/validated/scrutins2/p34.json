@@ -1,0 +1,197 @@
+{
+  "id": "p34",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Je soutiens le financement de l'AVS et de l'AI, et les Vert-e-s appellent à voter oui, même si une hausse de la TVA pèse sur un budget modeste."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.7,
+      "raison": "L'AI a besoin d'être assainie et la hausse est temporaire, mais le coût de la TVA pour les ménages me retient un peu."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.9,
+      "raison": "Je suis contre l'exportation de matériel de guerre et je soutiens l'initiative, même si le Conseil fédéral et le Parlement recommandent le non."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Je préfère un service volontaire à un service obligatoire, dans la ligne des Vert-e-s, même si je doute que l'armée puisse fonctionner ainsi."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "Je refuse de remettre en cause la libre circulation et de fermer la porte aux travailleurs, dans une commune où près d'un tiers des habitants sont étrangers."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Je ne veux pas dépenser des milliards pour de nouveaux avions de combat alors que les besoins sociaux sont pressants, comme le disent les Vert-e-s."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je ne vois pas pourquoi la Constitution devrait définir le mariage, et notre foyer à un seul revenu pourrait certes y gagner, mais je reste réticent."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.7,
+      "raison": "Je soutiens le financement de l'AVS et les Vert-e-s ont accepté ce compromis, même si le relèvement de l'âge des femmes me laisse un goût amer."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.35,
+      "oui_proba": 0.65,
+      "raison": "La dignité des animaux de rente me touche, mais je doute qu'une contribution fédérale de ce type soit la bonne réponse, donc je pencherais pour le oui sans grande conviction."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.05,
+      "raison": "Je défends la primauté du droit international et la coopération avec l'Europe, donc je rejette une initiative qui affaiblirait nos traités."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.75,
+      "raison": "Je suis favorable à des règles plus strictes sur les armes et à la coopération avec l'UE, donc je vote oui comme les Vert-e-s."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "Je m'oppose à la fin de la libre circulation qui fragiliserait l'économie et les liens avec l'Europe, et je ne vois pas de solution crédible dans l'initiative."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Je suis attaché à la protection du loup et des espèces sauvages, et je ne fais pas confiance à une régulation facilitée, donc je voterais non avec les Vert-e-s."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "Six milliards pour des avions de combat me paraissent mal placés alors que les besoins sociaux et climatiques sont pressants, donc je refuse."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Je veux que les banques et les caisses de pension ne financent plus les fabricants de matériel de guerre, donc je vote oui avec les Vert-e-s."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Les paiements directs doivent récompenser les exploitations qui protègent l'eau potable et limitent les antibiotiques, et j'y suis très favorable."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Je soutiens une agriculture sans pesticides de synthèse, même si le délai de dix ans me semble ambitieux, et les Vert-e-s appellent à voter oui."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.95,
+      "raison": "L'égalité devant le mariage civil va de soi pour moi, et je vote oui sans hésiter."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être animal, mais une interdiction aussi large de la recherche me paraît excessive, et les Vert-e-s ont dit non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Je ne veux pas renforcer la participation suisse à Frontex, qui privilégie le contrôle des frontières au détriment de l'accueil, donc je vote non avec les Vert-e-s."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Les conditions de l'élevage intensif me dérangent, et l'initiative fixe des standards qui me paraissent justes, même si le calendrier est long."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Je refuse le relèvement de l'âge de référence des femmes à 65 ans, et les Vert-e-s ont dit non, donc je refuse aussi la hausse de TVA qui l'accompagne."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.85,
+      "raison": "La nature et les paysages de la région comptent beaucoup pour moi, et je pense que la Confédération doit y consacrer plus de moyens."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je suis proche des Vert-e-s qui soutiennent l'imposition individuelle pour l'égalité, mais dans notre foyer à un seul revenu, je crains une charge fiscale plus lourde."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "Une limite à dix millions d'habitants me paraît une fausse solution, et l'initiative menacerait la libre circulation, donc je vote non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.4,
+      "oui_proba": 0.15,
+      "raison": "Je m'oppose à durcir l'accès au service civil pour ceux qui sont déjà dans l'armée, car c'est une pression sur la liberté de conscience."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.15,
+      "raison": "Je suis attaché à la neutralité, mais l'initiative interdirait les sanctions et la coopération internationale, ce qui me paraît contre-productif."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je partage l'objectif de moins de pesticides, plus de végétal et une eau propre, mais 70 % de production indigène me paraît irréaliste, d'où mon hésitation."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Je soutiens la 13e rente AVS que le peuple a acceptée, et les Vert-e-s appellent au oui, même si la TVA pèse un peu sur notre budget."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.75,
+      "raison": "Les pétards bruyants dérangent les animaux et les habitants, et je soutiens une limitation, à condition que les fêtes populaires restent possibles."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Notre foyer à un seul revenu gagnerait sans doute à l'imposition commune, mais les Vert-e-s s'y opposent et je suis partagé."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.55,
+      "oui_proba": 0.1,
+      "raison": "Je m'oppose à livrer des armes à un État impliqué dans un conflit et à la fin du contrôle des réexportations, donc je vote non avec les Vert-e-s."
+    }
+  ]
+}

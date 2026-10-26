@@ -1,0 +1,16 @@
+{
+  "id": "p40",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Passer la majorité des terres en bio d'ici dix ans, ça veut dire qui paie la transition pour nos paysans ? Moi je ne m'y connais pas en agriculture, et j'ai déjà très peu de temps pour mes enfants.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je n'ai presque pas de temps libre, j'élève seule mes enfants et je travaille à plein temps",
+      "Je ne connais pas l'agriculture bio et je n'ai ni terres ni savoir-faire agricole",
+      "Je crains que la transition pèse sur les exploitations laitières du village et sur le prix de ce qu'on achète",
+      "Je trouve que ça se décide un peu de haut, sans les paysans qui font vivre le village"
+    ],
+    "ce_qui_me_ferait_venir": "Une information claire sur qui finance la transition pour les exploitations, la garantie que les emplois de la zone industrielle restent à Vuadens, et une soirée près de chez moi avec garde d'enfants, organisée avec les paysans et la fromagerie plutôt qu'à leur place."
+  }
+}

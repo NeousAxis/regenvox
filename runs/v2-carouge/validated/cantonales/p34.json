@@ -1,0 +1,29 @@
+{
+  "id": "p34",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Dans mon travail social je vois les conséquences d'une contraception mal accessible, mais payer ça pour tout le monde sans condition de revenu alors que les primes d'assurance-maladie explosent déjà, ce n'est pas le rôle de l'État, donc je vote non."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Les bouchons à la frontière me touchent tous les jours depuis Carouge, mais dépenser 39,5 millions pour des projets en France alors que nos propres transports et nos hôpitaux manquent de moyens, ça me laisse sceptique."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "J'aimerais bien pouvoir acheter l'appartement que j'occupe, mais je crains que cette loi fasse disparaître des logements locatifs abordables et ouvre la porte aux congés-ventes, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.75,
+      "raison": "Je travaille dans le social et l'éducation et je mesure le besoin de former du personnel, donc une HES bien financée me semble indispensable, et deux millions de moins par an restent un compromis acceptable."
+    }
+  ]
+}

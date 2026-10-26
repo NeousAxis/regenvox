@@ -1,0 +1,28 @@
+{
+  "name": "resonance-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Moteur multi-agents Résonance (Régénère Plus) : simulation de résonance, viralité et participation d'une idée sur un panel calibré par données publiques.",
+  "type": "module",
+  "scripts": {
+    "cli": "tsx src/cli.ts",
+    "typecheck": "tsc --noEmit",
+    "selftest": "tsx src/selftest.ts && tsx src/selftest-runner.ts",
+    "registre": "tsx src/registre.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0",
+    "@mistralai/mistralai": "^3.2.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.7.3"
+  },
+  "license": "AGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeousAxis/resonance"
+  }
+}

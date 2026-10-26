@@ -1,0 +1,197 @@
+{
+  "id": "p30",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.9,
+      "raison": "La TVA pour l'AVS et l'AI, c'est de la solidarité : je ne veux pas que les rentes soient rognées, même si je paie un peu plus à l'achat."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "Une hausse temporaire et limitée dans le temps pour l'AI, je peux l'accepter quand il s'agit de protéger les personnes handicapées."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.93,
+      "raison": "Je suis contre le commerce d'armes et de matériel de guerre, il faut arrêter d'exporter ce genre de produits."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.55,
+      "oui_proba": 0.65,
+      "raison": "Je ne suis pas favorable à l'obligation de servir, les jeunes devraient pouvoir choisir, même si je doute que l'abolition soit la bonne réponse."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.9,
+      "oui_proba": 0.05,
+      "raison": "Fermer nos frontières aux travailleurs et remettre en cause la libre circulation divise les gens et pénalise nos entreprises, je vote non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.1,
+      "raison": "Dépenser des milliards pour des avions de combat alors que l'AVS et les hôpitaux manquent de moyens, je ne peux pas accepter."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.65,
+      "oui_proba": 0.08,
+      "raison": "Définir le mariage uniquement comme l'union d'un homme et d'une femme me paraît dépassé, et ce texte ne m'apporte rien."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Je comprends qu'il faut financer l'AVS, mais faire travailler les femmes jusqu'à 65 ans sans compensation suffisante, je n'accepte pas."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les animaux doivent pouvoir garder leurs cornes, je suis sensible à leur dignité, même si ce n'est pas un sujet qui me passionne."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.8,
+      "oui_proba": 0.05,
+      "raison": "Mettre la Constitution au-dessus du droit international affaiblit les droits humains et les accords qui nous protègent, c'est non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Schengen est important pour nous, mais je ne suis pas à l'aise avec les armes semi-automatiques, donc ce vote me laisse hésitante."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.04,
+      "raison": "Mettre fin à la libre circulation avec l'Union européenne serait une catastrophe pour nos entreprises et nos familles, je vote non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "Le loup doit rester protégé et la chasse ne doit pas devenir une régulation facile, même si je comprends la situation des éleveurs de montagne."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.65,
+      "oui_proba": 0.05,
+      "raison": "Six milliards pour des avions de combat alors qu'on serre les budgets sociaux et culturels, c'est non pour moi."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.6,
+      "oui_proba": 0.9,
+      "raison": "Les banques et les caisses de pension ne doivent pas financer les fabricants d'armes, c'est une évidence pour moi."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.65,
+      "oui_proba": 0.9,
+      "raison": "Les subventions doivent aller aux paysans qui ménagent la terre, l'eau et les animaux, je vote oui pour cela."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.75,
+      "oui_proba": 0.9,
+      "raison": "Les pesticides de synthèse polluent l'eau que nous buvons, je vote oui pour les générations qui viennent."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.92,
+      "raison": "Chacun doit pouvoir se marier, c'est une question d'égalité et de liberté, je ne comprends pas qu'on hésite encore."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Je suis sensible à la souffrance des animaux, mais interdire toute recherche médicale et tout essai humain me paraît trop absolu."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Je n'ai pas confiance dans une agence qui renforce les contrôles et militarise les frontières, je suis contre cette reprise."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Les animaux doivent être élevés dans la dignité, les normes actuelles ne suffisent pas, je soutiens ce texte."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "Relever l'âge de la retraite des femmes à 65 ans, c'est non pour moi, même si l'AVS a besoin d'argent."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.7,
+      "oui_proba": 0.9,
+      "raison": "Nos forêts et nos pâturages du Jura doivent être protégés, je vote oui sans hésiter."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Chaque femme doit être imposée sur son propre revenu, cela protège l'indépendance des femmes et évite de pénaliser le mariage, je vote oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.85,
+      "oui_proba": 0.04,
+      "raison": "Mettre un plafond à la population et menacer la libre circulation, c'est une idée qui désigne les étrangers comme un problème, je vote non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.55,
+      "oui_proba": 0.1,
+      "raison": "Le service civil est une alternative respectable, je ne veux pas qu'on la rende plus difficile pour ceux qui refusent les armes."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "La neutralité me tient à cœur, mais une neutralité sans sanctions ni coopération me paraît rigide et risquée face aux crises actuelles."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.5,
+      "raison": "Je suis pour une agriculture plus proche et moins chimique, mais l'objectif de 70 % en dix ans me paraît irréaliste et je me méfie des slogans."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.95,
+      "raison": "La 13e rente AVS est une juste reconnaissance pour ceux qui ont travaillé toute leur vie, et la hausse épargne les denrées alimentaires et les médicaments."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Les pétards nous réveillent et effraient les animaux et les personnes âgées, j'aimerais qu'on limite le bruit tout en gardant les grandes fêtes."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Je ne reviendrai pas sur l'imposition individuelle, qui protège l'indépendance des femmes, et les allègements proposés iraient surtout aux plus aisés."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.85,
+      "oui_proba": 0.03,
+      "raison": "Exporter des armes vers des pays impliqués dans un conflit ne va pas avec notre neutralité ni avec la paix, je vote non."
+    }
+  ]
+}

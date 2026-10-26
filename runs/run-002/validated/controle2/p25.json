@@ -1,0 +1,17 @@
+{
+  "id": "p25",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "« Les paysans du village savent ce qu'ils font, ce n'est pas à la commune de leur dire comment cultiver. Si le bio se vend mieux, ils passeront au bio de leur propre initiative, sans qu'on les pousse. »",
+    "engagement": 1,
+    "freins_participation": [
+      "Je ne cultive rien et je ne me sens pas concernée par les terres agricoles",
+      "Je n'aime pas qu'on me dise quoi faire ni qu'on fixe un objectif à atteindre pour toute la commune",
+      "À mon âge et seule, je ne me déplace plus facilement pour des ateliers le soir",
+      "Je crains que les contraintes du bio fassent monter les prix de la nourriture pour tout le monde",
+      "Je ne vois pas pourquoi les habitants devraient payer pour une politique qui ne les concerne pas directement"
+    ],
+    "ce_qui_me_ferait_venir": "Des informations claires sur le coût réel pour les habitants et pour les paysans, un choix laissé aux agriculteurs avec des aides plutôt que des obligations, et la garantie que la commune n'impose rien. Si on me demandait mon avis sans me forcer, je pourrais venir à une séance d'information dans la journée, au village, près de chez moi."
+  }
+}

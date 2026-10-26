@@ -1,0 +1,197 @@
+{
+  "id": "p25",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Trop jeune pour voter en 2004, je ne participe pas, et si j'avais voté je pencherais pour financer l'AVS par la TVA."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.3,
+      "oui_proba": 0.7,
+      "raison": "Tout juste en âge de voter, je soutiens un financement temporaire et limité de l'AI que mon parti proche approuve, même si je vote encore peu."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.4,
+      "raison": "Attachée à l'emploi dans l'industrie suisse, je préfère un encadrement strict des exportations plutôt qu'une interdiction, et mon parti proche laisse sa liberté de vote."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Je tiens au service militaire obligatoire comme lien entre la population et l'armée, et mon parti proche s'oppose à son abrogation."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je crains que des plafonds d'immigration fragilisent les accords bilatéraux qui protègent l'emploi dans l'industrie, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je trouve l'achat d'avions de combat coûteux discutable face aux autres besoins publics, et mon parti proche s'y oppose."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Je ne veux pas inscrire une définition du mariage dans la Constitution, même si la pénalisation fiscale des couples mariés me touche, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Le financement de l'AVS me paraît nécessaire pour les retraites, mon parti proche soutient le paquet, même si une hausse de la TVA pèse sur mon budget."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Je suis sensible au bien-être des animaux de rente, mais une subvention fédérale pour garder les cornes me paraît coûteuse et mal ciblée."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Je tiens aux accords bilatéraux et au droit international qui protègent l'emploi et nos relations avec les voisins, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.8,
+      "raison": "Je suis favorable à Schengen et à une reprise encadrée de la directive européenne sur les armes, que mon parti proche soutient."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.1,
+      "raison": "Mettre fin à la libre circulation fragiliserait les accords bilatéraux et l'emploi dans l'industrie, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je suis attachée à la protection d'espèces comme le loup, et mon parti proche s'oppose à une loi qui facilite trop leur régulation."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je comprends la nécessité de renouveler la défense aérienne et mon parti proche soutient l'achat, mais je veux un coût maîtrisé."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Une interdiction de financer les fabricants de matériel de guerre pénaliserait des entreprises suisses qui emploient, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "La qualité de l'eau me préoccupe et mon parti proche soutient le texte, mais je m'inquiète d'une agriculture soumise à des règles trop rigides."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Je suis sensible aux effets des pesticides sur la santé, mais une interdiction totale en dix ans me paraît brutale pour les agriculteurs, et mon parti proche laisse sa liberté de vote."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.92,
+      "raison": "Ouvrir le mariage civil aux couples de même sexe me paraît une évidence, et mon parti proche le soutient sans réserve."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Je suis sensible au bien-être animal, mais interdire la recherche médicale me paraît irréaliste, et tous les partis y sont opposés."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.4,
+      "oui_proba": 0.65,
+      "raison": "Je soutiens la coopération européenne aux frontières dans le cadre de Schengen, que mon parti proche défend, même si je reste prudente sur les moyens financiers."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Je suis sensible au sort des animaux d'élevage et mon parti proche soutient le texte, mais je crains le coût pour les exploitations locales."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "Le financement de l'AVS est nécessaire et mon parti proche soutient la réforme, mais le relèvement de l'âge de la retraite des femmes me préoccupe comme ouvrière."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je suis favorable à mieux protéger la nature autour du bourg et mon parti proche soutient le texte, mais je crains les contraintes et les coûts pour les communes et les agriculteurs."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Une imposition indépendante de l'état civil me paraît juste pour les couples, et mon parti proche la soutient."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Je refuse de plafonner la population et de dénoncer la libre circulation, même si la pression démographique me préoccupe parfois, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je trouve qu'il ne faut pas rendre l'accès au service civil plus difficile, et mon parti proche s'y oppose."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.55,
+      "oui_proba": 0.15,
+      "raison": "Je suis attachée à la neutralité, mais je trouve l'initiative trop rigide sur les alliances et les sanctions, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "L'eau potable et la protection des sols me parlent, mais un objectif de 70 % de production locale me paraît irréaliste, et mon parti proche dit non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Le financement de la 13e rente AVS me paraît justifié, mais la hausse de la TVA pèse sur mon budget et mon parti proche n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Le bruit des pétards me gêne, surtout pour les animaux, mais je suis partagée sur une interdiction et mon parti proche n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Après avoir soutenu l'imposition individuelle, je ne vois pas l'intérêt de revenir à l'imposition commune, et mon parti proche n'a pas encore tranché."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "Les emplois de l'industrie comptent pour moi, mais livrer à des pays en conflit me gêne, et mon parti proche n'a pas encore tranché."
+    }
+  ]
+}

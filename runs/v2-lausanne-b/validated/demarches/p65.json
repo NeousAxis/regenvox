@@ -1,0 +1,65 @@
+{
+  "id": "p65",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "En 2017 l'annonce ne m'a pas atteint, je fréquentais peu Sauvabelin et les ateliers du samedi après-midi ne collaient pas à mon travail de bureau."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.06,
+      "partage_proba": 0.1,
+      "raison": "Le budget participatif me plaît sur le principe, mais en 2019 je n'ai pas suivi les projets et voter demandait de se plonger dans des dossiers que je ne connaissais pas, donc j'ai laissé passer."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "Le vote en ligne est simple, mais les projets étaient surtout portés par des groupes de voisins que je ne connais pas et l'automne 2020 était chargé avec les enfants, alors je ne vote que si un projet de quartier me parle vraiment."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Un sondage de cinq minutes sur l'avenir de mon quartier et la protection de la nature me correspond, mais je l'ai remis à plus tard et les balades sur inscription ne m'intéressaient pas assez pour me déplacer."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.2,
+      "partage_proba": 0.22,
+      "raison": "Le bulletin affranchi qui arrive dans la boîte aux lettres me rappelle de voter, mais je ne suis pas un habitué et je le laisse souvent traîner, sauf si un projet de mon quartier me touche."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.07,
+      "partage_proba": 0.1,
+      "raison": "Je suis plutôt favorable aux quais piétons à Ouchy, où l'on va souvent avec les enfants, mais le questionnaire est resté sur le site de la Ville et je n'y ai pensé qu'à la fin du mois."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.18,
+      "partage_proba": 0.2,
+      "raison": "Le bulletin préaffranchi arrive à domicile et voter en ligne prend quelques minutes, donc je le fais si j'ai un moment en novembre, mais je ne vais pas lire les projets de près."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "Le sujet me touche et la démarche me paraît utile, mais c'est un questionnaire personnel sur des expériences de discrimination que je n'ai pas eu l'élan de remplir, et je ne l'ai pas vu passer dans mes réseaux."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.25,
+      "partage_proba": 0.28,
+      "raison": "Avec un bulletin nominatif pour chacun de nous, enfants compris, on peut en discuter en famille et choisir un projet ensemble, ce qui me pousse à voter, même si je ne suis pas sûr de tenir jusqu'à novembre."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.28,
+      "partage_proba": 0.25,
+      "raison": "Les projets sur la biodiversité urbaine et la convivialité dans les quartiers me parlent beaucoup, et le bulletin à domicile donne l'occasion de voter en famille, même si la période tombe à la rentrée et que je risque de l'oublier."
+    }
+  ]
+}

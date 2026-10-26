@@ -1,0 +1,95 @@
+{
+  "id": "p13",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.55,
+      "raison": "Je n'ai pas l'âge de voter à cette date, donc je ne participe pas. Si j'avais pu voter, la défense du pays m'aurait paru utile, sans grand enthousiasme pour les avions de combat."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je suis trop jeune pour voter à ce moment-là. Si j'avais pu, je serais probablement d'accord que le mariage et la famille comptent, parce que c'est la base de la vie au village."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'ai pas encore l'âge de voter à cette date. Si j'avais pu, j'aurais hésité entre le besoin de financer l'AVS et la méfiance envers une hausse de TVA décidée à Berne."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0,
+      "oui_proba": 0.6,
+      "raison": "Je n'ai pas l'âge de voter à cette date. Si j'avais pu, l'idée que la Suisse décide elle-même de sa Constitution m'aurait parlé, par attachement au pays."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je suis à peine majeur et je vote surtout quand ça me touche. Je suis plutôt contre : les accords avec l'UE protègent nos exportations de fromage et la main d'œuvre étrangère fait tourner plusieurs métiers, même si je comprends le ras-le-bol face à l'immigration."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "L'armée a besoin de matériel qui tient la route, donc je suis plutôt pour renouveler les avions. Six milliards, c'est beaucoup, et je n'aime pas que le modèle soit laissé au Conseil fédéral, mais la sécurité du pays passe avant."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Ce sujet ne me touche pas directement, donc je n'irais probablement pas voter. Je me méfie d'une interdiction générale décidée loin du terrain, et la recherche médicale a besoin de ces essais."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.1,
+      "raison": "C'est mon métier qui est visé : l'initiative imposerait des exigences proches de Bio Suisse à toute l'agriculture et aux importations. Je tiens au bien-être des bêtes, mais ça vient d'une vision de ville qui ne tient pas compte du coût pour nous, donc je vote non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.45,
+      "oui_proba": 0.45,
+      "raison": "L'AVS a besoin d'argent et mes parents comptent dessus, donc l'idée me parle. Mais hausser la TVA et l'âge de la retraite des femmes dans le même paquet, je n'aime pas ça, et je suis partagé."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "La neutralité fait partie de notre identité, à la campagne on y tient, et je n'aime pas les sanctions décidées sous la pression étrangère. Je vote plutôt oui, même si une neutralité armée et perpétuelle mérite d'être bien expliquée."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Produire davantage chez nous, je suis d'accord, c'est la base de la sécurité alimentaire. Mais réduire les aliments d'origine animale et les engrais touche directement mon métier de producteur de lait sur herbages, donc je vote plutôt non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.5,
+      "raison": "La 13e rente profite à mes parents et aux retraités du village, donc je comprends le besoin de la financer. Mais la TVA touche presque tout ce qu'on achète, et je me méfie des nouvelles taxes, donc je suis partagé."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "Les pétards font paniquer les vaches et les chevaux, ça me touche comme éleveur, donc je suis plutôt pour limiter les pièces bruyantes. Les feux du 1er août resteraient autorisés, ce qui me convient, mais ce n'est pas un sujet qui me fait forcément aller voter."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "Ça ne me touche pas directement pour l'instant, mais les couples mariés à la ferme travaillent souvent à deux, donc je comprends l'argument de l'équité. Je me méfie tout de même d'un nouveau changement fiscal qui revient si vite sur un vote récent."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis attaché à la neutralité, et des armes livrées à des pays en guerre me gênent. Je n'aime pas non plus que le Conseil fédéral ait une marge de décision seul, donc je serais plutôt contre, même si le sujet reste technique pour moi."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "p38",
+  "portrait": "J'ai 31 ans et je suis artisane indépendante dans le bâtiment, je travaille surtout sur des chantiers dans la région de Bulle. Je vis seule dans un quartier résidentiel récent de Vuadens, je ne suis pas de nationalité suisse et je n'ai donc pas le droit de vote fédéral. Le bio et l'agriculture ne sont pas mon quotidien, je m'y intéresse surtout quand ça touche à ce que je vois tous les jours.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les paysans ont des problèmes d'argent comme nous tous, mais le bio, ça reste leur affaire. Je ne connais pas grand monde dans le milieu agricole. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Je travaille sur des chantiers toute la journée, je n'ai pas de temps libre en semaine",
+        "Le sujet ne touche pas mon métier directement",
+        "Je ne connais pas les fermes de Vuadens"
+      ],
+      "ce_qui_me_ferait_venir": "Que la discussion porte sur les bâtiments agricoles, les rénovations ou les chantiers à venir dans les fermes, et qu'un artisan du village m'invite."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Si je peux acheter directement chez le paysan du coin sans me compliquer la vie, je veux bien. Mais il faut que ce soit simple et que ça ne coûte pas plus cher. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je rentre tard de chantier, les horaires des fermes ne collent pas forcément avec les miens",
+        "Le prix, je regarde à deux fois",
+        "Je n'ai pas le temps de m'engager dans un groupe"
+      ],
+      "ce_qui_me_ferait_venir": "Un système simple, comme une vente directe ou un panier près de chez moi, avec des horaires compatibles et des prix raisonnables."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Dans trente ans, c'est loin. Moi je pense à mes prochains chantiers, pas à qui cultivera ici dans trente ans. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Un sujet trop large et trop abstrait pour moi",
+        "Je n'ai pas le temps pour un atelier"
+      ],
+      "ce_qui_me_ferait_venir": "Un résumé court en ligne avec des exemples concrets sur le village, sans réunion le soir."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« On voit surtout les tracteurs et les odeurs quand on habite à côté, mais on ne sait pas trop ce que les fermes font pour la terre. Ça pourrait changer le regard. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis pas sûre que ça change quelque chose pour moi",
+        "Je ne connais pas encore bien les gens du village"
+      ],
+      "ce_qui_me_ferait_venir": "Une présentation simple, sur le terrain ou dans le quartier, avec les agriculteurs qui expliquent eux-mêmes ce qu'ils font."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 15,
+    "role": "suiveur",
+    "cercle_type": "clients et confrères du bâtiment, fournisseurs, quelques voisins du quartier récent, peu de liens dans le monde agricole"
+  },
+  "votes": []
+}

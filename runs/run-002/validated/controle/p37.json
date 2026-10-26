@@ -1,0 +1,17 @@
+{
+  "id": "p37",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Le Conseil décide ça tout seul, très bien, mais c'est pas moi qui vais faire tourner une ferme. Si ça veut dire que le lait et la viande coûtent plus cher aux gens et que les paysans galèrent, je veux bien qu'on m'explique qui paie.",
+    "engagement": 1,
+    "freins_participation": [
+      "Mes journées finissent tard et je n'ai pas le temps d'aller aux réunions du village",
+      "Je ne suis pas agriculteur, je ne vois pas très bien ce que je peux apporter concrètement",
+      "Une décision prise par le Conseil sans vraiment nous demander, ça me met en méfiance",
+      "Je ne sais pas si le bio tient la route financièrement pour les paysans et qui va payer la transition",
+      "Le bio coûte plus cher à l'achat et je dois surveiller mon budget avec les enfants"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres clairs sur le coût pour la commune et pour les familles, une explication de ce que le bio change concrètement dans le village, et un rôle pour les artisans du bâtiment, par exemple la rénovation des bâtiments d'exploitation ou des installations qui économisent l'énergie. Si les agriculteurs du coin sont d'accord et que ça ne tombe pas d'en haut, je viendrai écouter à un atelier."
+  }
+}

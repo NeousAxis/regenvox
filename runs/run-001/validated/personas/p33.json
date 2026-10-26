@@ -1,0 +1,63 @@
+{
+  "id": "p33",
+  "portrait": "J'ai 25 ans, je suis artisan indépendant dans le bâtiment et je vis en couple avec enfants dans un quartier résidentiel récent de Vuadens. Je ne suis pas de nationalité suisse et je ne vote pas au niveau fédéral, mais je travaille et j'élève ma famille ici, donc la vie de la commune me touche directement. L'agriculture, je la vois surtout depuis la route et je n'y connais pas grand-chose.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Moi aussi je sais ce que c'est de bosser dur sans être sûr de boucler le mois, donc si les paysans peuvent vivre de leur travail, je suis pour.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je n'ai pas le temps entre les chantiers et la famille",
+        "Je ne me sens pas concerné directement, je ne suis pas agriculteur",
+        "Je ne connais pas assez le monde agricole pour avoir un avis utile"
+      ],
+      "ce_qui_me_ferait_venir": "Des agriculteurs qui racontent eux-mêmes leurs chiffres, sans langue de bois, lors d'une soirée courte à la salle communale."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Acheter local, oui, je le fais quand je peux, mais je ne vois pas trop ce que je pourrais faire de plus pour une ferme.",
+      "engagement": 1,
+      "freins_participation": [
+        "Le bio coûte plus cher et le budget familial est serré",
+        "Je ne sais pas concrètement comment devenir partenaire d'une ferme",
+        "Je n'ai pas de temps libre en semaine"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule simple et sans engagement lourd, par exemple un panier hebdomadaire ou une visite de ferme qu'on peut faire en famille le samedi."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "Mes enfants vont grandir ici, je veux qu'il reste de bonnes terres et une eau propre pour eux, c'est le point qui me touche le plus.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne sais pas à qui m'adresser ni où se prennent les décisions",
+        "Les réunions en semaine tombent pendant mes journées de chantier",
+        "J'ai l'impression que ces discussions restent entre gens qui se connaissent déjà"
+      ],
+      "ce_qui_me_ferait_venir": "Une question posée en ligne avec un résultat publié, ou un atelier le soir avec une garde d'enfants prévue sur place."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "Reconnaître les fermes, pourquoi pas, mais dans la vie de tous les jours je ne vois pas ce qu'elles apportent, à part les champs quand je roule.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne connais pas les pratiques concrètes des fermes de la commune",
+        "Je n'ai pas le réflexe de chercher ce genre d'information"
+      ],
+      "ce_qui_me_ferait_venir": "Un panneau ou une balade expliquée simplement sur les parcelles cultivées en bio, que mes enfants pourraient suivre."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 40,
+    "role": "relai",
+    "cercle_type": "Clients et fournisseurs du bâtiment, autres artisans de la région, voisins du quartier, parents d'élèves de l'école primaire et famille élargie."
+  },
+  "votes": []
+}

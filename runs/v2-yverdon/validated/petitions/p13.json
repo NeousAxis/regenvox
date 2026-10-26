@@ -1,0 +1,125 @@
+{
+  "id": "p13",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "La surveillance de masse m'inquiète, mais ce débat interne à l'EPFL, à Lausanne, me touche peu et je ne m'y sens pas concernée."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.28,
+      "partage_proba": 0.45,
+      "raison": "Les canicules de cet été m'ont vraiment inquiétée et une lettre ouverte à tous les parlementaires me semble juste, donc je la signerais et la partagerais volontiers."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.28,
+      "partage_proba": 0.35,
+      "raison": "Je rejette cette initiative et l'argument du droit impératif me convainc, donc je signerais, en la partageant surtout auprès de mes proches."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.25,
+      "raison": "Le combat contre les procédures-bâillon me parle, mais l'affaire est genevoise, très polarisée autour de Gaza, et je ne m'y engagerais pas sans en savoir davantage."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.04,
+      "partage_proba": 0.2,
+      "raison": "Le protoxyde d'azote est un vrai problème chez les jeunes, mais c'est une question genevoise et je ne signe pas facilement ce type de texte."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.3,
+      "raison": "Que les caisses de pension financent les énergies fossiles me révolte, car ma propre retraite est concernée, donc je signerais, même si le titre est en anglais."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.15,
+      "raison": "Le texte se présente lui-même comme fictif, et l'idée de confier une partie de l'assurance de base à des partenaires privés me rend méfiante, donc je passerais mon chemin."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.12,
+      "partage_proba": 0.2,
+      "raison": "La réforme de l'AVS me préoccupe pour ma propre retraite et la légalisation du cannabis me plaît, donc je signerais, même si la baisse de la TVA me paraît peu réaliste."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.1,
+      "raison": "Versoix est une autre commune genevoise et ces locaux ne me concernent pas, donc je ne signerais probablement pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.3,
+      "raison": "La question du deuil périnatal me touche en tant que femme et je comprends le vide juridique décrit, donc je signerais peut-être, mais je n'en ferais pas forcément un message public."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.1,
+      "partage_proba": 0.25,
+      "raison": "L'accès à la psychothérapie compte pour moi et une motion qui ajoute des obstacles me paraît absurde, donc je signerais sans y consacrer beaucoup de temps."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "La ferme se trouve loin de chez moi, dans le district de Nyon, et je ne me sens pas concernée par cette question locale, donc je ne signerais probablement pas."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.13,
+      "partage_proba": 0.35,
+      "raison": "Le manque de maison d'accueil pour les femmes victimes de violence me paraît scandaleux, donc je signerais et j'en parlerais à des amies, même si le Jura n'est pas mon canton."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "J'aime l'idée d'un tram rafraîchi, mais ce projet se situe à Lausanne et le parti à l'origine de la pétition est éloigné de mes convictions, donc je n'ai pas de raison forte de signer."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.2,
+      "partage_proba": 0.3,
+      "raison": "Renvoyer des personnes vers un pays où l'on rapporte des tortures me révolte, donc je signerais et je relaierais l'appel auprès de mon entourage engagé."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.04,
+      "partage_proba": 0.12,
+      "raison": "L'idée d'une formation à temps partiel pour les jeunes en situation de handicap est intéressante, mais le sujet reste technique et je ne le suis pas d'assez près pour signer."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.22,
+      "partage_proba": 0.45,
+      "raison": "Les lunettes qui filment à l'insu des gens me font peur, surtout pour les femmes et les enfants dans les vestiaires, donc je signerais et je le partagerais largement."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.15,
+      "partage_proba": 0.25,
+      "raison": "Le climat me préoccupe et cet appel est sincère, mais il reste très général, donc je le signerais peut-être sans forcément le relayer."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.17,
+      "partage_proba": 0.3,
+      "raison": "Les incendies de forêt et la volonté de couper dans l'adaptation des forêts me touchent, donc je signerais et je partagerais, car ce choix budgétaire me paraît absurde."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.2,
+      "partage_proba": 0.4,
+      "raison": "Les abus facilités par la drogue touchent surtout les femmes et une task force nationale me paraît raisonnable, donc je signerais et j'en parlerais à mes amies."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "p31",
+  "portrait": "J'ai 18 ans, je suis en formation et je vis seul dans une maison isolée à la sortie de Vuadens, avec les champs et les pâtures autour de moi. Je suis suisse, je me sens proche de l'UDC, et je pense que les paysans doivent d'abord pouvoir vivre de leur travail avant qu'on leur demande de changer leurs méthodes.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si les paysans gagnent bien leur vie, ils passeront au bio d'eux-mêmes, mais si on le leur impose avec des règles, ça ne marchera pas.",
+      "engagement": 1,
+      "freins_participation": [
+        "je suis en formation et je n'ai pas les soirées libres",
+        "je ne connais aucun agriculteur de la commune en dehors de quelques voisins",
+        "les ateliers sont souvent organisés par des gens déjà convaincus du bio"
+      ],
+      "ce_qui_me_ferait_venir": "Un agriculteur du coin qui explique ses prix, ses coûts et ce que la conversion lui rapporterait vraiment, sans discours moralisateur."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Je veux bien acheter local, mais devenir partenaire d'une ferme, je ne vois pas bien ce que ça change pour moi ni pour les paysans.",
+      "engagement": 1,
+      "freins_participation": [
+        "je n'ai pas de terrain ni de lien direct avec une exploitation",
+        "je crains que ça serve surtout à faire la leçon aux agriculteurs",
+        "depuis mon hameau, je n'ai pas de moyen de transport pour aller au village le soir"
+      ],
+      "ce_qui_me_ferait_venir": "Une vente directe ou un panier à prix clair, sans engagement lourd, et la garantie que les agriculteurs touchent une part juste de l'argent."
+    },
+    {
+      "angle_id": 3,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "C'est une belle question, mais elle est tellement vaste que je ne vois pas ce qu'on peut vraiment y répondre à notre niveau.",
+      "engagement": 0,
+      "freins_participation": [
+        "une question aussi générale ne me donne aucun sujet concret",
+        "je pense que les décisions se prennent ailleurs, à Berne ou au canton",
+        "je ne me vois pas m'investir dans un sujet qui concerne surtout les gens dans trente ans"
+      ],
+      "ce_qui_me_ferait_venir": "Une proposition concrète et datée sur une parcelle ou un projet précis, avec un budget et un calendrier clairs."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "La reconnaissance, ça ne paie pas les factures : si les fermes sont reconnues, il faut que ça se voie dans le prix qu'on leur donne.",
+      "engagement": 2,
+      "freins_participation": [
+        "je ne veux pas m'engager dans une démarche qui ressemble à un label de plus",
+        "je me méfie des consultations où on demande l'avis des habitants pour la forme",
+        "je n'aime pas les réunions longues en soirée"
+      ],
+      "ce_qui_me_ferait_venir": "Que la commune publie les résultats et montre concrètement ce qui a changé, et que les agriculteurs soient invités à parler eux-mêmes."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 25,
+    "role": "suiveur",
+    "cercle_type": "camarades de formation, amis du village, famille proche, quelques connaissances dans une société locale"
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'étais pas encore majeur à cette date, donc je n'aurais pas pu voter. Si j'avais pu, je me serais méfié : un label de plus et des règles sur les importations, ça fait surtout de la paperasse pour les paysans d'ici."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0,
+      "oui_proba": 0.75,
+      "raison": "Je n'étais pas encore majeur à cette date. Si j'avais pu voter, j'aurais dit oui : protéger la production suisse et les paysans qui nous nourrissent me paraît logique."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0,
+      "oui_proba": 0.35,
+      "raison": "Je n'étais pas encore majeur à cette date. L'objectif sur l'eau me paraît juste, mais lier les paiements directs à des conditions précises revient à dicter aux paysans comment travailler."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Je n'étais pas encore majeur à cette date. Interdire tous les pesticides de synthèse sans solution prête pour toutes les cultures mettrait beaucoup de fermes en difficulté, et importer des produits d'ailleurs ne serait pas forcément meilleur pour la planète."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0,
+      "oui_proba": 0.12,
+      "raison": "Je n'étais pas encore majeur à cette date. Une taxe sur les billets d'avion et des hausses sur le chauffage, c'est payer plus à ceux de la campagne qui n'ont pas d'alternative à la voiture."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0,
+      "oui_proba": 0.45,
+      "raison": "Je n'étais pas encore majeur à cette date. J'aime l'idée que les animaux soient bien traités, mais exiger les mêmes règles pour les importations et une transition jusqu'à 25 ans, c'est injuste pour les éleveurs d'ici qui font déjà des efforts."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0,
+      "oui_proba": 0.15,
+      "raison": "Je n'étais pas encore majeur à cette date. L'objectif zéro émission nette me paraît lointain et coûteux pour les familles, et je n'ai pas confiance dans les aides de l'État pour changer les chauffages."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0,
+      "oui_proba": 0.3,
+      "raison": "Je n'étais pas encore majeur à cette date. Protéger la nature me parle, mais plus de surfaces protégées veut souvent dire moins de terres pour les agriculteurs, et il faudrait les consulter avant de décider."
+    }
+  ]
+}

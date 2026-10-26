@@ -1,0 +1,197 @@
+{
+  "id": "p53",
+  "votes": [
+    {
+      "vote_id": "a2004-avs-tva",
+      "participe_proba": 0,
+      "oui_proba": 0.5,
+      "raison": "Je n'avais pas encore l'âge de voter à cette date, donc je ne participe pas."
+    },
+    {
+      "vote_id": "a2009-ai-tva",
+      "participe_proba": 0.25,
+      "oui_proba": 0.6,
+      "raison": "Une hausse temporaire de la TVA pour sauver l'AI me paraît acceptable, mais je vote encore peu à cet âge."
+    },
+    {
+      "vote_id": "a2009-exportation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "Interdire les exportations de matériel de guerre pénaliserait des entreprises suisses et des emplois, je suis donc contre, comme le PLR."
+    },
+    {
+      "vote_id": "a2013-service",
+      "participe_proba": 0.65,
+      "oui_proba": 0.15,
+      "raison": "Je suis attaché au service militaire obligatoire et au principe de milice, je voterais non à son abolition."
+    },
+    {
+      "vote_id": "a2014-immigration",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "Mon travail dépend de la main-d'oeuvre qualifiée européenne et je tiens à la libre circulation et aux accords bilatéraux, donc non."
+    },
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.55,
+      "oui_proba": 0.8,
+      "raison": "Le PLR soutient ce renouvellement de la défense aérienne et je trouve normal que l'armée dispose d'avions opérationnels, donc oui."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Le mariage ne me concerne pas directement, et une définition constitutionnelle qui exclut d'autres couples me paraît inutile, donc non."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je veux bien d'une réforme des retraites, mais la hausse de TVA s'ajoute à une charge fiscale que je trouve déjà lourde, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2018-vaches",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le bien-être des animaux me touche, mais une contribution fédérale de plus pour les cornes ne me convainc pas, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Je tiens aux accords avec l'UE et au respect du droit international, donc je rejette l'idée que la Constitution prime sur tous les traités."
+    },
+    {
+      "vote_id": "a2019-armes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Reprendre la directive européenne sur les armes fait partie de Schengen, que je juge important pour la sécurité et l'économie, donc oui."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.75,
+      "oui_proba": 0.1,
+      "raison": "Mettre fin à la libre circulation avec l'UE nuirait à notre économie et à nos accords, donc non."
+    },
+    {
+      "vote_id": "a2020-chasse",
+      "participe_proba": 0.7,
+      "oui_proba": 0.6,
+      "raison": "Réguler le loup avant qu'il ne cause des dégâts me paraît raisonnable pour les éleveurs de la région, donc oui, même si je comprends les défenseurs de la nature."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "Une armée crédible doit renouveler ses avions de combat dans un cadre budgétaire plafonné, donc oui."
+    },
+    {
+      "vote_id": "a2020-materiel",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Interdire le financement des producteurs de matériel de guerre affaiblit des entreprises suisses et leurs emplois, donc non."
+    },
+    {
+      "vote_id": "a2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à la qualité de l'eau, mais lier tous les paiements directs à de nouvelles conditions alourdit le travail des agriculteurs locaux, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2021-pesticides",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Un bannissement total des pesticides de synthèse en dix ans me paraît irréaliste pour notre agriculture, donc non, même si je soutiens une réduction."
+    },
+    {
+      "vote_id": "a2021-mariage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.9,
+      "raison": "Ouvrir le mariage civil à tous les couples relève pour moi de la liberté et de l'égalité, donc oui."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.05,
+      "raison": "Interdire la recherche sur l'animal et sur l'humain freinerait la médecine et l'industrie suisse, donc non."
+    },
+    {
+      "vote_id": "a2022-frontex",
+      "participe_proba": 0.45,
+      "oui_proba": 0.85,
+      "raison": "Renforcer notre participation à Frontex fait partie de la coopération Schengen que je soutiens, donc oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.65,
+      "oui_proba": 0.35,
+      "raison": "Je suis sensible à la dignité des animaux, mais je doute qu'une telle initiative règle le problème sans renchérir fortement les produits, donc je penche pour non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.65,
+      "oui_proba": 0.75,
+      "raison": "Je soutiens la réforme AVS 21 portée par le PLR, et une petite hausse de TVA reste un prix acceptable pour garantir les retraites, donc oui."
+    },
+    {
+      "vote_id": "a2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La nature compte, mais l'initiative imposerait trop de contraintes aux propriétaires et aux agriculteurs sans plan de financement clair, donc non."
+    },
+    {
+      "vote_id": "a2026-imposition",
+      "participe_proba": 0.6,
+      "oui_proba": 0.85,
+      "raison": "Chacun doit être imposé sur ses propres revenus, c'est une règle juste et simple pour les contribuables, donc oui."
+    },
+    {
+      "vote_id": "a2026-10-millions",
+      "participe_proba": 0.75,
+      "oui_proba": 0.15,
+      "raison": "Une limite de 10 millions d'habitants serait contraire à nos accords européens et à la libre circulation, donc non, même si la croissance démographique mérite débat."
+    },
+    {
+      "vote_id": "a2026-service-civil",
+      "participe_proba": 0.7,
+      "oui_proba": 0.75,
+      "raison": "Une armée qui manque d'effectifs a besoin de règles claires pour retenir ceux qui sont déjà incorporés, donc je soutiens la réforme."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "La neutralité fait partie de notre identité, mais une neutralité armée sans sanctions limiterait notre cohérence avec l'Europe, donc non."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Produire 70 % de notre alimentation en Suisse en dix ans est irréaliste et pèserait sur les prix et sur les agriculteurs de la région, donc non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Le PLR refuse une hausse de TVA et je vois d'autres pistes pour financer la 13e rente, donc je penche pour non."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Le bruit des pétards me gêne dans mon quartier, mais je reste attaché à la liberté individuelle et aux fêtes locales, je suis donc partagé et penche légèrement pour non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Je viens de soutenir l'imposition individuelle, je ne vois pas pourquoi revenir en arrière pour favoriser les couples mariés, donc non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Le PLR soutient cet assouplissement et je préfère une industrie suisse de défense compétitive, dans le cadre de la neutralité, donc oui."
+    }
+  ]
+}

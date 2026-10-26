@@ -1,0 +1,109 @@
+{
+  "id": "p37",
+  "portrait": "Je suis Suisse, j'ai 28 ans, je suis artisan indépendant dans le bâtiment, et je vis à Vuadens avec ma compagne et nos enfants, dans le quartier résidentiel récent. Je suis plutôt pragmatique et proche du Centre : je veux que les gens puissent vivre de leur travail, la nature autour du village me tient à cœur, mais je me méfie des grands principes qui arrivent sans qu'on dise qui va payer la facture.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 4,
+      "citation": "Un paysan qui ne peut pas vivre de son travail ne passera jamais au bio, c'est aussi simple que ça. Il faut que le prix du lait et de la viande suive.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je manque de temps entre les chantiers et les enfants",
+        "Je connais mal les contraintes et les chiffres de l'agriculture"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que gagne un paysan en bio par rapport à un paysan conventionnel, et des agriculteurs qui en parlent eux-mêmes."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "J'achète déjà mes œufs et mes légumes chez les voisins, mais désherber un samedi matin dans un champ, ce n'est pas trop mon truc, et je ne veux pas gêner ceux qui travaillent.",
+      "engagement": 2,
+      "freins_participation": [
+        "Le temps libre est rare avec les enfants et les chantiers",
+        "Je crains de me retrouver dans les pattes d'un agriculteur qui bosse"
+      ],
+      "ce_qui_me_ferait_venir": "Une matinée en famille organisée à la ferme, avec des choses concrètes à faire et à voir pour les enfants."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Je veux que mes enfants puissent boire l'eau du robinet et se promener autour du village sans se poser de questions, mais je veux aussi que nos emplois restent ici.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien ce que la commune peut faire concrètement",
+        "Ce genre de discussion finit souvent en réunions sans suite"
+      ],
+      "ce_qui_me_ferait_venir": "Des objectifs chiffrés, un calendrier, et un retour régulier sur ce qui a été fait."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "Un label ou un panneau à l'entrée du village, ça ne remplit pas le frigo. Qu'on me montre ce que la commune gagne réellement avec ça.",
+      "engagement": 0,
+      "freins_participation": [
+        "Je ne vois pas l'utilité concrète pour moi",
+        "Ça ressemble plus à de la communication qu'à de l'action"
+      ],
+      "ce_qui_me_ferait_venir": "Des résultats mesurés et une participation directe des paysans au projet, pas seulement de belles intentions."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 40,
+    "role": "relai",
+    "cercle_type": "Clients de l'artisanat et entreprises du bâtiment de la région, voisins et parents d'élèves du quartier, camarades du club sportif, et famille élargie. On parle surtout de travail et de chantiers, un peu de politique et de l'école."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "En 2018 j'avais 20 ans, j'étais encore apprenti et je suivais peu la politique. L'idée de manger sain et équitable me parle, mais imposer des règles de plus sans dire qui paie, je me méfie."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.3,
+      "oui_proba": 0.2,
+      "raison": "À 20 ans je ne votais pas beaucoup. Protéger l'agriculture d'ici, oui, mais des droits de douane et des prix garantis font monter la facture de toutes les familles."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Une eau propre, c'est une évidence pour moi, surtout avec des enfants. Mais conditionner les paiements directs à l'absence de pesticides et d'antibiotiques préventifs menace les petites exploitations qui n'ont pas de marge."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je comprends l'objectif, mais dix ans de transition sans filet pour les paysans, ça ressemble à une interdiction déguisée. Et importer des produits qu'on n'a pas le droit de traiter chez nous fausse la concurrence."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Pour un artisan du bâtiment, les aides pour remplacer un chauffage fossile et les normes pour les bâtiments me parlent, j'ai vu des clients en profiter. Mais la taxe sur les billets d'avion et une hausse de la taxe sur le mazout pèsent sur les gens de la campagne."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Le bien-être des animaux, je suis d'accord sur le principe. Mais imposer le cahier des charges Bio Suisse aux importations et une transition de 25 ans met les éleveurs d'ici sous pression, sans que cela empêche les importations moins chères."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Les aides pour changer les chauffages fossiles et pour l'innovation des entreprises font travailler les artisans comme moi. Je n'aime pas les contraintes à rallonge, mais l'objectif zéro émission nette en 2050, je m'y retrouve plutôt."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "J'aime la nature autour de chez nous et je veux la garder pour mes enfants. Mais une initiative qui prend des surfaces à l'agriculture et ajoute des contraintes sans dire qui paie, je reste réservé."
+    }
+  ]
+}

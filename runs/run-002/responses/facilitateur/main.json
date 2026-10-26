@@ -1,0 +1,77 @@
+{
+  "angles": [
+    {
+      "angle_id": 1,
+      "evenements": [
+        {"mois": 0, "evenement": "Plusieurs exploitants se retrouvent autour d'un café et constatent qu'ils se posent déjà la même question sur leur revenu et sur une éventuelle conversion. Le sujet n'arrive pas de l'extérieur, il est déjà dans les têtes.", "effet": "acceleration"},
+        {"mois": 2, "evenement": "Un exploitant déjà converti présente ses comptes lors d'une soirée d'échange entre collègues : revenu stabilisé, prix plus prévisible. Le témoignage chiffré d'un pair pèse plus que n'importe quel discours.", "effet": "acceleration"},
+        {"mois": 4, "evenement": "Un acheteur régional annonce des contrats à prix garanti pour du lait et des céréales bio. La promesse de vivre honorablement devient concrète et chiffrable.", "effet": "acceleration"},
+        {"mois": 8, "evenement": "Un groupe d'exploitants signe une charte de conversion échelonnée et la démarche devient visible pour tous les habitants. C'est le point médian de la progression, là où le soutien dépasse la moitié de la population.", "effet": "acceleration"},
+        {"mois": 11, "evenement": "Les inquiétudes sur la période de transition, où l'on produit bio sans encore vendre au prix du bio, refont surface chez quelques exploitants. La progression ralentit nettement.", "effet": "frein"},
+        {"mois": 15, "evenement": "Une séance d'information détaille les aides à la conversion et répond aux questions pratiques. Elle rassure ceux qui étaient déjà proches, mais touche peu de nouvelles personnes.", "effet": "neutre"},
+        {"mois": 20, "evenement": "Une exploitation voisine renonce publiquement à convertir, faute de repreneur. L'épisode rappelle que la démarche ne règle pas toutes les situations et nourrit une petite opposition résiduelle.", "effet": "frein"}
+      ],
+      "declencheurs_cles": [
+        "Des témoignages d'exploitants déjà passés au bio, avec des chiffres de revenu à l'appui",
+        "Des débouchés régionaux à prix garanti annoncés avant la période de transition",
+        "Une démarche collective de conversion échelonnée, visible par toute la commune"
+      ],
+      "lecture": "C'est l'angle qui démarre le plus haut (27 % de soutien dès le départ) et qui va le plus loin (82 % à 24 mois, avec seulement 7 % d'opposition). La progression est la plus rapide durant la première année, puis elle s'essouffle à mesure que les personnes restantes sont les plus attachées à leurs pratiques ou les plus prudentes sur le plan financier. Le soutien vient surtout du monde agricole lui-même et des habitants proches de lui. Le modèle ne retient toutefois aucun co-porteur engagé à la fin de l'horizon : ce large soutien reste donc à transformer en gestes concrets, et le point d'attention est moins la persuasion que le passage à l'action."
+    },
+    {
+      "angle_id": 2,
+      "evenements": [
+        {"mois": 1, "evenement": "Une première soirée d'information dans la salle communale attire surtout des personnes déjà sensibilisées. La grande majorité des habitants n'a pas entendu parler de la démarche.", "effet": "neutre"},
+        {"mois": 3, "evenement": "Une première proposition circule : devenir partenaire d'une ferme par un abonnement ou un achat direct. Certains y voient un engagement financier qu'on leur demande, et les premières voix opposées apparaissent.", "effet": "frein"},
+        {"mois": 6, "evenement": "Quelques familles testent un système de paniers ou d'achat direct auprès d'une ferme de la commune. Leur expérience positive passe de bouche à oreille.", "effet": "acceleration"},
+        {"mois": 9, "evenement": "La discussion sur le prix du bio et sur qui doit payer s'installe dans les cafés et sur les réseaux locaux. Elle cristallise l'opposition au moment où la démarche commence à être connue.", "effet": "frein"},
+        {"mois": 11, "evenement": "Une journée portes ouvertes dans une ferme réunit des familles de tous horizons autour d'un repas de produits locaux. Elle fait basculer une partie des réticents vers la curiosité, au point médian de la courbe.", "effet": "acceleration"},
+        {"mois": 15, "evenement": "Un désaccord sur le choix des fermes partenaires, certaines n'étant pas engagées dans le bio, fait naître le sentiment d'un village à deux vitesses.", "effet": "frein"},
+        {"mois": 19, "evenement": "Le conseil communal discute d'un approvisionnement local pour les événements de la commune. Le sujet sort du cercle des convaincus mais reste débattu.", "effet": "neutre"},
+        {"mois": 22, "evenement": "Les positions se figent : les familles partenaires sont fidèles, les opposants aussi, et peu de personnes changent encore d'avis.", "effet": "neutre"}
+      ],
+      "declencheurs_cles": [
+        "Une offre concrète et simple pour les familles (panier, abonnement, achat direct) plutôt qu'un appel de principe",
+        "Une journée portes ouvertes sur une ferme, qui transforme les réticents en curieux",
+        "La manière dont le débat sur le prix est conduit, car elle conditionne la montée de l'opposition"
+      ],
+      "lecture": "C'est l'angle le plus lent et le plus clivant : il part de 5 % de soutien avec près de la moitié de la population réticente au départ, et finit à 48 % de soutien contre 31 % d'opposition. La raison plausible est qu'il demande quelque chose aux habitants (devenir partenaires, donc s'engager et payer) alors que les autres angles proposent surtout d'adhérer à une idée. L'opposition progresse le plus vite entre les mois 9 et 12, juste après que le sujet est devenu visible, et ne se tasse que sur la fin. Le modèle ne retient aucun co-porteur engagé à 24 mois. Cet angle peut mobiliser un noyau fidèle, mais il polarise la commune et gagnerait à être appuyé par un angle plus consensuel."
+    },
+    {
+      "angle_id": 3,
+      "evenements": [
+        {"mois": 1, "evenement": "Une classe de l'école de la commune travaille sur le thème de la commune dans trente ans, avec dessins et questions aux grands-parents. Les familles découvrent la démarche par les enfants.", "effet": "acceleration"},
+        {"mois": 3, "evenement": "Un après-midi réunit grands-parents, enfants et exploitants sur une ferme, autour de la transmission d'un métier et d'un paysage. L'idée touche des personnes d'abord indifférentes au sujet agricole.", "effet": "acceleration"},
+        {"mois": 6, "evenement": "Une exposition dans la salle communale oppose des photos anciennes du paysage à des photos actuelles. Elle ouvre une conversation sur ce que les habitants veulent garder ou changer, au moment où la progression est la plus rapide.", "effet": "acceleration"},
+        {"mois": 10, "evenement": "Des élèves et des exploitants plantent ensemble une haie ou des arbres fruitiers. Le geste est visible dans le paysage et marque le point médian de la progression.", "effet": "acceleration"},
+        {"mois": 14, "evenement": "Certains habitants font remarquer que la question reste générale et demandent ce que cela change concrètement. L'enthousiasme initial fléchit chez ceux qui attendaient une proposition précise.", "effet": "frein"},
+        {"mois": 18, "evenement": "Un jeune exploitant reprend une ferme de la commune et partage son projet lors d'une rencontre publique. La transmission devient un cas concret et incarné.", "effet": "acceleration"},
+        {"mois": 22, "evenement": "Les personnes restantes ne se sentent pas concernées par les questions agricoles ou de paysage, et la progression s'étale sans nouvel événement marquant.", "effet": "neutre"}
+      ],
+      "declencheurs_cles": [
+        "Les projets menés avec l'école et les familles autour du paysage de demain",
+        "La rencontre entre générations (grands-parents, enfants, jeunes exploitants)",
+        "Un geste collectif visible, comme la plantation de haies ou de vergers"
+      ],
+      "lecture": "C'est un angle large et peu conflictuel : plus de la moitié de la population y est d'abord indifférente (55 %), mais personne ne s'y oppose frontalement, et l'opposition reste à 7 % à 24 mois pour 71 % de soutien. La progression est la plus forte durant les deux premiers trimestres, portée par l'effet des enfants et des familles, puis elle ralentit à mesure que la question devient abstraite pour les derniers indécis. L'angle est bon pour élargir le cercle mais moins pour décider les gens d'agir. Le modèle ne retient aucun co-porteur engagé à la fin de l'horizon, ce qui suggère de le combiner avec une proposition concrète pour qu'il ne reste pas une adhésion de principe."
+    },
+    {
+      "angle_id": 4,
+      "evenements": [
+        {"mois": 2, "evenement": "Une visite guidée sur une ferme montre concrètement l'état du sol et le suivi de l'eau. Les participants découvrent un travail qu'ils ne voyaient pas depuis la route.", "effet": "acceleration"},
+        {"mois": 4, "evenement": "Des naturalistes locaux présentent publiquement un relevé d'oiseaux et d'insectes dans les haies et les prairies de la commune. Les résultats surprennent positivement et circulent entre voisins.", "effet": "acceleration"},
+        {"mois": 7, "evenement": "Un panneau ou un repère signale les fermes engagées pour les sols, l'eau et la vie sauvage. La reconnaissance devient visible dans l'espace commun.", "effet": "acceleration"},
+        {"mois": 10, "evenement": "Les résultats de qualité de l'eau d'un cours d'eau local sont discutés. Ils servent de preuve aux uns et de reproche aux autres, et les premières tensions apparaissent au point médian de la courbe.", "effet": "frein"},
+        {"mois": 13, "evenement": "Des exploitants non engagés dans la démarche ont le sentiment qu'on valorise les autres à leurs dépens. Une partie des réticents passe dans l'opposition ouverte.", "effet": "frein"},
+        {"mois": 16, "evenement": "Une classe mène une étude du sol ou du ruisseau avec un exploitant. L'initiative remet un ton constructif et attire de nouvelles familles.", "effet": "acceleration"},
+        {"mois": 20, "evenement": "Un débat sur la protection de l'eau et ses contraintes éventuelles pour les exploitations ravive les crispations, alors que le soutien continue de progresser plus lentement.", "effet": "frein"}
+      ],
+      "declencheurs_cles": [
+        "Des mesures simples et publiques (qualité de l'eau, vie du sol, oiseaux) présentées sur le terrain",
+        "Un repère visible à l'entrée des fermes engagées",
+        "La façon dont la reconnaissance est perçue par les exploitations qui ne sont pas engagées, qui détermine la montée de l'opposition"
+      ],
+      "lecture": "L'angle progresse de façon régulière, de 8 % à 63 % de soutien, avec un bon rythme jusqu'au mois 12 (41 %), puis un ralentissement. Il a toutefois le deuxième niveau d'opposition le plus élevé (17 % à 24 mois), qui grandit tout au long de l'horizon au lieu de se stabiliser. Plausiblement, mettre en avant certaines fermes fait ressentir un jugement implicite à celles qui n'en font pas partie, ce qui nourrit une résistance de fond. Le modèle ne retient aucun co-porteur engagé à 24 mois. L'angle est solide pour rendre le travail des fermes visible, à condition de ne pas créer un clivage entre bonnes et mauvaises fermes."
+    }
+  ]
+}

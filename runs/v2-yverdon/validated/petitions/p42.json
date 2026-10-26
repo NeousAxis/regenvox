@@ -1,0 +1,125 @@
+{
+  "id": "p42",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.004,
+      "raison": "Affaire d'étudiants de l'EPFL, loin de mon quotidien, et je ne signe pas ce genre d'appel militant."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Les canicules me pèsent à mon âge, seule en centre-ville, mais une lettre qui réclame un plan climatique contraire à mes idées ne me convainc pas de signer."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.006,
+      "partage_proba": 0.004,
+      "raison": "Je soutiens l'initiative de mon parti, je ne vais pas signer une pétition qui la combat."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.003,
+      "partage_proba": 0.002,
+      "raison": "Affaire genevoise et polémique sur Gaza qui ne me concernent pas, je me tiens à l'écart de ces débats."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les jeunes qui s'intoxiquent avec ce gaz me préoccupent, mais c'est une affaire genevoise et je signe très rarement une pétition."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Ma retraite me touche, mais ce texte en anglais, avec son angle climatique militant, ne me donne pas envie de signer."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.015,
+      "raison": "Les primes d'assurance-maladie me pèsent, mais ce projet présenté comme fictif et ces caisses cantonales me paraissent flous."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Je vis de l'AVS et son avenir compte pour moi, mais la légalisation du cannabis et les propositions de jeunes libéraux ne me convainquent pas."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.004,
+      "partage_proba": 0.002,
+      "raison": "Versoix est à Genève, je ne connais pas ce projet et je ne signe pas les pétitions locales d'autres communes."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.07,
+      "partage_proba": 0.03,
+      "raison": "Cette mère me touche et le deuil est une épreuve, mais ce n'est pas une cause que je défends et je signe peu les pétitions fédérales."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.04,
+      "partage_proba": 0.015,
+      "raison": "Vivre seule me rend sensible à la santé mentale, mais cette motion parlementaire technique ne me mobilise pas assez pour signer."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Cette collection d'agrumes est une belle curiosité, mais Borex est loin de chez moi et je ne signe pas les pétitions locales d'autres communes."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "Les violences conjugales me révoltent et les places manquent partout, mais le canton du Jura est loin et je ne signe pas volontiers ce type de campagne en ligne."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "La chaleur me pèse à mon âge, mais ce tram lausannois ne me concerne guère depuis Yverdon, et je ne suis pas proche des Vert'libéraux."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.01,
+      "partage_proba": 0.004,
+      "raison": "Je suis plus ferme sur l'asile et les renvois, cette demande de suspension va contre la politique que je soutiens, donc je ne signe pas."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.015,
+      "partage_proba": 0.008,
+      "raison": "Retraitée, la formation professionnelle des jeunes ne me concerne plus, et ce projet me paraît compliqué à financer."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je me méfie des caméras cachées et des géants du numérique, mais je n'aime pas que l'État interdise des produits, et je ne signe presque jamais de pétitions en ligne."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "Les étés caniculaires m'inquiètent, mais cet appel à un tournant écologique général ne correspond pas à mes positions, je ne le signe pas."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.01,
+      "partage_proba": 0.005,
+      "raison": "Je tiens aux forêts et je comprends la crainte des incendies, mais cette pétition s'oppose à un projet d'Albert Rösti, que je soutiens, donc je ne la signe pas."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Vivre seule et savoir que des femmes peuvent être droguées à leur insu me fait peur, et protéger les victimes relève de l'État, mais je signe peu de pétitions."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p44",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.05,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Un atelier en soirée en semaine, à côté de chez moi, avec d'autres jeunes de mon âge et un sujet qui parle de mon salaire et de mes courses."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Pouvoir acheter les produits de la ferme près de chez moi, sans me déplacer exprès, à un prix qui reste compatible avec mon salaire d'apprentie."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Qu'on me montre concrètement ce que ça change pour ce que je mange chaque semaine, en peu de temps et depuis mon téléphone."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.06,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Un atelier le soir en semaine, avec une explication simple de ce que font les fermes pour l'eau et les sols, et la certitude que ça ne prend pas tout mon temps libre."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Je peux répondre à un questionnaire de dix minutes sur mon téléphone, le soir ou dans le bus, sans bouger ni bloquer un samedi. Un atelier de deux heures et demie ou trois séquences à suivre pendant trois semaines, je les laisserais tomber, parce que mon emploi du temps d'apprentie ne laisse pas de place pour ça."
+}

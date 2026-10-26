@@ -1,0 +1,65 @@
+{
+  "id": "p73",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Ce sondage sur le restaurant du bois de Sauvabelin était annoncé surtout sur le site de la Ville et sur ses réseaux, et les ateliers tombaient un samedi après-midi alors que je travaille souvent ce jour-là, donc je ne l'ai probablement jamais vu passer."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "Le premier budget participatif était un pilote peu connu, et même si le vote en ligne est simple, il fallait choisir au moins trois projets pour un quartier où je n'avais pas de projet précis en tête, donc je l'ai sans doute laissé passer."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Pendant la pandémie, entre mes chantiers et ma famille, ce deuxième budget participatif est resté loin de mes priorités, même si voter en ligne aurait pris deux minutes."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Ce sondage de cinq minutes sur le plan d'affectation touche directement mon métier dans le bâtiment, donc je l'aurais peut-être rempli en ligne et j'en aurais parlé à quelques collègues, mais je n'aurais pas assisté aux soirées ni aux balades sur inscription."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin préaffranchi arrivé dans la boîte aux lettres rend le vote facile, mais je ne lis pas toujours le courrier de la Ville et je n'avais pas de projet précis pour mon quartier, donc il aurait pu finir dans la pile sans être rempli."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "La fermeture des quais d'Ouchy touche un peu mes trajets, donc un sondage anonyme d'un mois m'aurait intéressée, mais je n'ai jamais vu le communiqué de presse et je ne consulte pas le site de la Ville."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "Le bulletin nominatif reçu à la maison m'aurait permis de voter en famille pour un projet de quartier, mais à l'automne les chantiers me prennent tout mon temps et je n'avais pas de projet à défendre, donc je ne l'ai probablement pas rempli."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "En tant qu'étrangère installée depuis longtemps à Lausanne, le thème du racisme me touche et j'aurais pu répondre, mais la consultation était peu visible, sur papier dans quelques maisons de quartier ou en ligne, et je n'avais pas le temps d'un questionnaire."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.14,
+      "partage_proba": 0.11,
+      "raison": "Le bulletin nominatif arrive chez nous, enfants compris dès 4 ans, et voter prend quelques minutes, donc je l'aurais probablement fait en famille, sauf si le courrier est resté sous une pile de factures pendant un chantier chargé."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le vote simple, mais l'été 2025 tombe en pleine saison de chantiers et je n'ai pas de projet précis à soutenir, donc je ne suis pas sûre de penser à le renvoyer."
+    }
+  ]
+}

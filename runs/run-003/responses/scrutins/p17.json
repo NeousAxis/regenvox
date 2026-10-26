@@ -1,0 +1,95 @@
+{
+  "id": "p17",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.2,
+      "raison": "Je n'ai pas encore l'âge de voter en 2014 (15 ans). Si j'avais pu voter, j'aurais dit non : un fonds de plusieurs milliards pour des avions de combat ne me paraît pas prioritaire face à l'école et à l'AVS."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0,
+      "oui_proba": 0.12,
+      "raison": "Je n'ai pas encore l'âge de voter en 2016 (17 ans). Je n'aurais pas soutenu d'inscrire une définition du mariage dans la Constitution, je suis pour l'égalité entre les couples et contre les discriminations."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "C'est mon premier vote possible, à 18 ans, mais l'enjeu me semble lointain. Le PS combattait cette réforme : relever l'âge de la retraite des femmes et augmenter la TVA de tous les ménages me paraît injuste pour les familles, même si l'AVS doit être financée."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.35,
+      "oui_proba": 0.1,
+      "raison": "Je m'y oppose. Les accords avec l'Union européenne et le droit international protègent les salariés et les échanges dont dépend mon entreprise, et l'initiative risquerait de les remettre en cause."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Dans mon entreprise, plusieurs collègues viennent de l'étranger, et je vote à gauche. Mettre fin à la libre circulation mettrait en danger les accords avec l'Union européenne et l'emploi de notre industrie régionale."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je trouve qu'on pourrait mieux utiliser 6 milliards que pour des avions, alors que l'AVS et l'école manquent de moyens. Mais l'industrie de la région peut en profiter, donc je reste partagé."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible à la souffrance animale, mais l'initiative interdirait aussi les essais sur l'être humain et l'importation de nouveaux produits, ce qui me semble trop flou pour la recherche médicale dont mes proches pourraient avoir besoin."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je comprends la cause animale, mais des normes plus strictes pour l'élevage et les importations feraient monter les prix et toucheraient les fermes de la région, que je connais peu. Le budget de la famille passe avant."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je veux une AVS solide pour mes enfants, mais relever la TVA pèse sur le budget de tous les ménages, et la hausse de l'âge de la retraite des femmes me paraît injuste. Je suis partagé et pas certain d'aller voter."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je tiens à la neutralité suisse et à son rôle de médiation, mais interdire à la Suisse toute sanction contre un État agresseur me gêne : je pense qu'elle doit pouvoir condamner un agresseur."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "Une eau potable propre et moins de pesticides pour mes enfants, ça me parle, et l'idée de manger davantage local aussi. Mais réduire la production animale touche les fermes de la région, et je ne sais pas ce que cela coûterait aux familles."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Financer la 13e rente AVS est une avancée que je soutiens, et l'AVS doit tenir pour ma génération. La TVA pèse sur tous les ménages, mais dans ce cas l'effort me paraît justifié."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Le bruit des pétards effraie mes enfants et les animaux, surtout à la campagne, mais j'aime les grandes fêtes et l'interdiction de l'usage privé me paraît un peu lourde. Je pencherais légèrement pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.15,
+      "raison": "Je suis contre : l'imposition individuelle, acceptée en mars, est plus juste pour les femmes et les jeunes couples, et revenir à l'imposition commune profiterait surtout aux revenus élevés."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.5,
+      "oui_proba": 0.08,
+      "raison": "Je suis contre : livrer des armes à un pays en conflit, même partenaire, abîme la neutralité et la crédibilité de la Suisse. Je voterais non à cet assouplissement de la loi."
+    }
+  ]
+}

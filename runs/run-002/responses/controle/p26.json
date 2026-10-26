@@ -1,0 +1,17 @@
+{
+  "id": "p26",
+  "reaction": {
+    "position": "indifferent",
+    "intensite": 2,
+    "citation": "Franchement, je vois pas trop ce que ça change pour moi, c'est surtout l'affaire des paysans, non ?",
+    "engagement": 0,
+    "freins_participation": [
+      "Je n'ai aucun lien avec les fermes et je ne m'y connais pas vraiment en agriculture",
+      "Entre mes études, mon travail et mes sorties, je n'ai pas le temps de m'occuper de ça",
+      "Mon budget est serré : si le bio coûte plus cher, je continuerai à acheter ce qui est le moins cher",
+      "La politique communale ne m'intéresse pas pour l'instant et je ne sais pas à qui m'adresser",
+      "J'ai l'impression que ce genre de décision se prend sans les jeunes qui vivent au village"
+    ],
+    "ce_qui_me_ferait_venir": "Un petit atelier le soir, près du centre, avec des explications concrètes sur ce que le bio change dans mon assiette et sur le prix, et si possible un moment convivial sur place."
+  }
+}

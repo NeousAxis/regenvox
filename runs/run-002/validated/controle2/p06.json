@@ -1,0 +1,17 @@
+{
+  "id": "p06",
+  "reaction": {
+    "position": "interesse",
+    "intensite": 2,
+    "citation": "Le bio, pourquoi pas, mais j'aimerais surtout savoir ce que ça change concrètement pour nous et qui va payer la facture.",
+    "engagement": 1,
+    "freins_participation": [
+      "Peu de temps entre le travail et les enfants, les soirées sont déjà prises",
+      "Le sentiment que les choix de cultures et de méthodes reviennent aux agriculteurs, pas aux habitants",
+      "La crainte que le bio coûte plus cher à la cantine ou au magasin et pèse sur le budget familial",
+      "Je connais mal le sujet et je n'ai pas envie de donner un avis sur ce que je maîtrise mal",
+      "Un objectif annoncé sans calendrier ni chiffres précis ressemble surtout à un slogan"
+    ],
+    "ce_qui_me_ferait_venir": "Une soirée courte au village avec des agriculteurs de la commune qui expliquent leur métier et ce que le bio change pour eux, et une réponse claire sur ce que ça changerait pour les habitants : prix, choix dans les commerces, repas de l'école. Des chiffres d'avancement chaque année m'aideraient aussi à voir si ça avance vraiment."
+  }
+}

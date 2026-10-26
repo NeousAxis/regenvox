@@ -1,0 +1,125 @@
+{
+  "id": "p44",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "Je ne suis liée ni à l'EPFL ni à Forum, et ce débat sur Palantir reste une affaire lointaine, sans lien avec mon quotidien à Yverdon."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Les canicules me préoccupent, mais cette lettre ouverte réclame un plan climatique aux contours flous et coûteux, et je ne signe pas volontiers ce type de texte militant."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Je suis favorable à une politique migratoire ferme, mais l'idée de faire invalider une initiative populaire par une pétition ne me convient pas, donc je ne la signe pas."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.04,
+      "raison": "Cette affaire genevoise, très polarisée autour de Gaza, ne me concerne pas directement et je préfère ne pas m'exposer publiquement sur ce sujet."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.3,
+      "raison": "En tant que mère, je suis sensible aux risques pour les jeunes, et l'interdiction de la vente libre du protoxyde d'azote me paraît une mesure simple, même si le texte concerne Genève."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Ma prévoyance me touche, mais demander aux caisses de pension de retirer leurs placements dans les énergies fossiles risque de peser sur les rendements, et ce texte en anglais ne me parle pas."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Les primes d'assurance-maladie me préoccupent, mais ce projet présenté comme fictif et supposant une réforme fédérale complète ne me donne pas de raison concrète de signer."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.14,
+      "partage_proba": 0.25,
+      "raison": "À 59 ans, l'avenir de l'AVS me concerne directement, et je soutiens une réforme structurelle qui éviterait de nouvelles hausses de TVA, même si je suis réservée sur la légalisation du cannabis."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.04,
+      "raison": "Cette pétition concerne une commune genevoise que je ne connais pas, et je n'ai aucune raison de m'y associer."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.2,
+      "raison": "Je suis touchée par le deuil de ces mères et par le manque de reconnaissance juridique, mais je ne suis pas directement concernée et je signe rarement ce type de texte."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.1,
+      "raison": "Je comprends la question des délais d'attente, mais l'exigence d'un diagnostic médical me paraît raisonnable pour maîtriser les coûts, donc je ne m'engage pas contre cette motion."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.05,
+      "partage_proba": 0.2,
+      "raison": "Une entreprise familiale vaudoise qui veut accueillir du public me semble légitime, mais Borex est loin d'Yverdon et je n'ai pas de lien particulier avec cette ferme."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.03,
+      "partage_proba": 0.15,
+      "raison": "La violence domestique me touche, mais cette demande concerne le canton du Jura, et je ne signe pas les pétitions qui ne relèvent pas de mon canton."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.08,
+      "raison": "Le tram lausannois ne me concerne pas depuis Yverdon, et le ton militant de ce texte sur la chaleur ne m'attire pas."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.01,
+      "partage_proba": 0.05,
+      "raison": "Je suis favorable à un asile strict et au respect des décisions de renvoi, donc une demande de suspension générale des expulsions ne correspond pas à ma position."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.06,
+      "raison": "Les difficultés des jeunes en situation de handicap sont réelles, mais l'idée d'allonger les CFC et les AFP à six ans ne me convainc pas et ce sujet reste éloigné de mon quotidien."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.07,
+      "partage_proba": 0.25,
+      "raison": "Être filmée à son insu m'inquiète en tant que femme, mais interdire un produit sur le marché me paraît excessif, si bien que je préfère en parler que signer."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.01,
+      "partage_proba": 0.04,
+      "raison": "Le climat me préoccupe, mais ces mesures qui limiteraient la consommation et le commerce me paraissent trop contraignantes pour que je les soutienne par ma signature."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.04,
+      "partage_proba": 0.15,
+      "raison": "Je comprends l'argument de la prévention des incendies, mais je reste réservée sur les dépenses publiques supplémentaires et je n'ai pas suivi ce dossier parlementaire."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.12,
+      "partage_proba": 0.3,
+      "raison": "En tant que mère, les abus facilités par la drogue me bouleversent et je soutiens une coordination nationale contre ces réseaux, même si je ne connais pas tous les détails de ce projet."
+    }
+  ]
+}

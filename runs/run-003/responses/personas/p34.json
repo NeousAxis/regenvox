@@ -1,0 +1,62 @@
+{
+  "id": "p34",
+  "portrait": "J'ai 19 ans et je suis en apprentissage dans une entreprise de la zone industrielle de Vuadens. Je ne suis pas Suisse, je vis ici depuis mon enfance, et je ne peux pas voter au niveau fédéral, donc la politique fédérale me passe un peu au-dessus. Je vis en couple dans une petite maison au hameau, et ce qui m'occupe vraiment, ce sont mon apprentissage, ma copine et mes week-ends.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "Si les paysans arrivent à mieux vivre de leur travail, je suis pour, mais le bio, ça coûte cher à mettre en place et je ne sais pas si ça paie vraiment pour eux.",
+      "engagement": 1,
+      "freins_participation": [
+        "Mes horaires d'apprentissage ne me laissent pas beaucoup de soirées libres",
+        "Je ne connais aucun agriculteur du coin et je ne sais pas ce qu'ils gagnent",
+        "Les réunions communales attirent en général surtout les gens déjà engagés"
+      ],
+      "ce_qui_me_ferait_venir": "Une soirée courte, au hameau ou à la fromagerie, où des paysans expliquent en clair leurs revenus et ce que le bio leur rapporte concrètement."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "Devenir partenaire d'une ferme, c'est bien joli, mais à la fin du mois, je regarde surtout le prix sur l'étiquette.",
+      "engagement": 1,
+      "freins_participation": [
+        "Mon budget est serré avec l'apprentissage",
+        "Je ne sais pas du tout comment fonctionnerait un partenariat avec une ferme",
+        "Aller chercher des produits à la ferme me prend du temps et de l'essence"
+      ],
+      "ce_qui_me_ferait_venir": "Des prix raisonnables par rapport au supermarché et une ferme assez proche pour y aller à pied ou à vélo."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Laisser une bonne terre à ceux qui viendront après nous, ça me parle, mais pour l'instant je pense surtout à mon avenir professionnel.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je pense que des personnes plus âgées ou plus concernées porteront surtout le projet",
+        "Je dois d'abord finir mon apprentissage"
+      ],
+      "ce_qui_me_ferait_venir": "Un questionnaire en ligne rapide, sur mon téléphone, avec des exemples concrets de ce que le changement donnerait dans le paysage autour du hameau."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 1,
+      "citation": "Les fermes, je les vois tous les jours en rentrant, mais je ne me suis jamais demandé ce qu'elles apportent à l'eau ou aux sols.",
+      "engagement": 0,
+      "freins_participation": [
+        "Ça ne me concerne pas directement",
+        "Je ne suis pas du genre à suivre les actualités de la commune"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de précis, à part peut-être un panneau ou une publication sur les réseaux sociaux de la commune que je verrais par hasard."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 8,
+    "role": "suiveur",
+    "cercle_type": "Compagne et famille proche du couple, camarades d'apprentissage, quelques amis d'enfance du village, et un ou deux collègues de la zone industrielle"
+  },
+  "votes": []
+}

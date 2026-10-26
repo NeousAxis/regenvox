@@ -1,0 +1,65 @@
+{
+  "id": "p25",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "À 16 ans, je ne fréquentais pas l'Auberge de Sauvabelin et l'annonce du sondage ne m'est jamais arrivée, donc je n'ai rien fait."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "À 18 ans, ce premier budget participatif était peu visible pour moi, je n'avais pas de projet de quartier à défendre et je votais rarement."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.04,
+      "partage_proba": 0.04,
+      "raison": "En pleine pandémie je travaillais beaucoup, je n'ai pas vraiment entendu parler du vote en ligne et je ne me suis pas renseignée."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Un sondage de cinq minutes aurait été faisable sur mon téléphone, mais le plan d'affectation n'a jamais été un sujet pour moi et je l'aurais laissé passer."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin affranchi envoyé dans chaque boîte aux lettres m'aurait donné une occasion concrète de voter, mais l'envie restait faible et je l'aurais peut-être mis de côté."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Je vais parfois au bord du lac mais je ne réponds presque jamais aux sondages de la Ville, et celui-ci était un questionnaire parmi d'autres."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin préaffranchi reçu à domicile m'aurait rappelé le budget participatif, et j'en aurais parlé à quelques collègues sans forcément voter."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Le thème me touche, mais je n'ai pas vu passer ce questionnaire et je ne réponds jamais à ce genre d'enquête, en revanche j'en aurais peut-être parlé si quelqu'un l'avait mentionné."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin nominatif arrive chez moi et je le remplis parfois, surtout si un projet de mon quartier me parle, mais j'en parle surtout à ma famille."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.15,
+      "partage_proba": 0.12,
+      "raison": "Je suis sensible aux questions de vie de quartier et d'environnement, donc je vote plus volontiers, et j'en parle à mes proches et sur les réseaux si un projet me plaît."
+    }
+  ]
+}

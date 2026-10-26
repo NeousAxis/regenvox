@@ -1,0 +1,65 @@
+{
+  "id": "p60",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "J'avais 18 ans, je ne fréquentais pas le site de Sauvabelin et je n'ai jamais vu passer ce sondage papier ou en ligne."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Le premier budget participatif était un projet pilote peu annoncé, et à 20 ans voter pour des projets de quartier ne faisait pas partie de mes habitudes, même si l'idée me plaît."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Pendant la pandémie, mes horaires irréguliers dans la restauration prenaient toute mon énergie et le vote en ligne ne m'a pas accroché."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Un sondage d'urbanisme sur le plan d'affectation me paraît lointain de mon quotidien, et je ne réponds pas souvent à ce genre d'enquête."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.07,
+      "partage_proba": 0.07,
+      "raison": "Le bulletin de vote envoyé à chaque foyer facilite les choses, mais je ne remplis pas ce genre de bulletin de manière régulière et je n'en parle guère."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "La fermeture des quais ne change rien à mes trajets, et un questionnaire en ligne annoncé par communiqué arrive rarement jusqu'à moi."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Le budget participatif m'intéresse un peu plus, mais je ne sais pas toujours quels projets sont proposés dans mon quartier, donc je ne vote pas à chaque fois."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "Une consultation sur le racisme touche à une expérience que je connais, ce qui me pousserait à répondre, mais le questionnaire était peu visible et je n'en ai entendu parler que par hasard."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.07,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin nominatif m'arrive bien, mais je le laisse souvent de côté et ce genre d'information circule peu dans mon entourage."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin préaffranchi et le vote en ligne rendent la participation facile, mais mes horaires décalés me font voter seulement si un projet concerne directement mon quartier."
+    }
+  ]
+}

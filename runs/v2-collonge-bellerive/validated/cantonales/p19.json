@@ -1,0 +1,29 @@
+{
+  "id": "p19",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Je comprends que la pilule et les autres moyens coûtent cher aux jeunes femmes, mais les Vert'libéraux et le Conseil d'État disent non, et 20 millions de plus par an pour tout rembourser me paraissent beaucoup pour un service qui ne me concerne plus directement."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Moins de voitures qui franchissent la frontière me paraît utile pour notre région, et les Vert'libéraux comme le Conseil d'État recommandent oui, donc je voterais oui sans hésiter longtemps."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je comprends l'envie des locataires de devenir propriétaires et les Vert'libéraux disent oui, mais je crains que des logements locatifs disparaissent de l'immeuble, donc je reste hésitante."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Les Vert'libéraux et le Conseil d'État recommandent oui, et 2 millions de moins par an ne me semblent pas dramatiques pour une formation qui fonctionne, donc je voterais oui."
+    }
+  ]
+}

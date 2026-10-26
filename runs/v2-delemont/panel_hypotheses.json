@@ -1,0 +1,10 @@
+[
+  "Univers du panel : résidents de Delémont âgés de 16 ans et plus (31.12.2025). Population de référence 11141 (OFS STATPOP 2025 (âges détaillés, px-x-0102010000_101)).",
+  "Agriculteurs suréchantillonnés (4 personas) puis repondérés à leur part réelle (0.4 % des 16 ans et plus, OFS, relevé des structures agricoles 2025 (46 emplois agricoles dans la commune, assimilés à des résidents)).",
+  "Sensibilité politique répartie par quotas selon les résultats du Conseil national 2023 dans la commune (OFS, élections au Conseil national 2023, force des partis à Delémont (partis à 0,5 % et plus, renormalisés)), appliquée à tous les électeurs non agriculteurs : approximation, car ces parts décrivent les votants, pas l'ensemble du corps électoral. Pour les agriculteurs, sensibilité politique non renseignée, faute de donnée locale : le persona l'infère de son profil.",
+  "Nationalité, sexe et activité professionnelle répartis par quotas pour respecter les proportions malgré la petite taille du panel.",
+  "Composition des ménages et lieux de vie dans la commune : hypothèses génériques, non sourcées.",
+  "Les emplois agricoles situés dans la commune sont assimilés à des résidents actifs dans l'agriculture ; orientation des exploitations décrite de façon générique.",
+  "La répartition des activités professionnelles des résidents non agricoles est une hypothèse (donnée non publiée à l'échelle communale).",
+  "Lieux de vie dans la commune : hypothèse générique."
+]

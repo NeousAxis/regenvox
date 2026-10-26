@@ -1,0 +1,65 @@
+{
+  "id": "p32",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je venais d'avoir 19 ans, les établissements de Sauvabelin ne faisaient pas partie de mes sorties, et je ne me souviens pas avoir vu ce sondage passer."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Projet pilote peu relayé, à 21 ans je votais peu et je ne connaissais pas encore le mécanisme, donc une participation reste peu probable même si la démarche m'a peut-être effleurée."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Édition perturbée par le Covid, à 22 ans sans projet de quartier ni intérêt marqué pour la politique communale, le vote en ligne m'a peut-être tentée une fois mais rien ne me poussait vraiment."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Sondage en ligne de cinq minutes sur mon quartier, le thème me touche et je l'ai peut-être rempli, mais la publicité était limitée et je ne suis pas allée aux soirées ni aux balades."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.2,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin affranchi envoyé à chaque foyer facilite beaucoup le vote, et à 23 ans en couple je l'ai sans doute glissé dans la boîte, sans suivre les projets de près ni forcément en parler."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Questionnaire en ligne sur la fermeture des quais, peu relayé et sans enjeu personnel fort : je l'ai peut-être rempli si je suis tombée dessus, mais j'en doute."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.18,
+      "partage_proba": 0.1,
+      "raison": "Bulletin nominatif reçu à domicile, comme l'année précédente, je peux avoir voté sans suivre activement les projets, ce geste reste occasionnel et je n'en parle qu'à mon entourage proche."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Consultation sur le racisme, peu relayée et sans visée scientifique, le sujet m'intéresse mais je ne me souviens pas d'avoir répondu à une démarche de la Ville."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.17,
+      "partage_proba": 0.1,
+      "raison": "Bulletin nominatif à domicile, mais entre mon travail et ma vie de famille je vote par moments, sans certitude pour cette édition ni envie particulière d'en discuter."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.09,
+      "raison": "Bulletin à domicile et vote en ligne facilitent le geste, mais entre mon emploi, ma famille et un suivi limité des projets, je ne voterais que si le sujet me parle vraiment."
+    }
+  ]
+}

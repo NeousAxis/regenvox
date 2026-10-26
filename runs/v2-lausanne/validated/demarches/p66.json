@@ -1,0 +1,65 @@
+{
+  "id": "p66",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Vers 20 ans, je n'étais pas concerné par les établissements de Sauvabelin, je n'ai pas vu l'annonce et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "J'en ai peut-être entendu parler, mais à une vingtaine d'années la vie de quartier ne m'occupait pas, donc je n'ai ni voté ni partagé l'information."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "En pleine pandémie, je n'ai pas suivi le budget participatif et je n'en ai pas reparlé autour de moi."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Un sondage de cinq minutes sur l'avenir du quartier m'aurait peut-être retenu, mais je n'ai pas vu l'annonce et le sujet ne figure pas dans mes conversations."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin dans la boîte aux lettres aurait pu m'inciter à voter, mais à 24 ans je l'aurais probablement laissé de côté et j'en ai peu parlé."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.08,
+      "raison": "La fermeture des quais d'Ouchy était un sujet d'été, donc j'ai peut-être répondu au questionnaire, mais je n'ai pas cherché à en parler davantage."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.06,
+      "partage_proba": 0.04,
+      "raison": "Le bulletin préaffranchi arrive chez moi, mais je l'oublie souvent sur la table, et le budget participatif ne fait pas partie de mes discussions."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je n'ai pas vu cette consultation, qui ne touchait pas mon quotidien, et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.06,
+      "raison": "Le bulletin nominatif reçu chez moi me fait voter de temps en temps, mais je n'en parle guère car les projets de quartier ne m'intéressent qu'à moitié."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.12,
+      "partage_proba": 0.08,
+      "raison": "Avec la vie de famille dans un quartier d'immeubles, je me sens plus concerné par les projets de proximité, donc je vote probablement, mais j'en parle peu."
+    }
+  ]
+}

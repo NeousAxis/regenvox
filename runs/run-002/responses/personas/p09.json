@@ -1,0 +1,141 @@
+{
+  "id": "p09",
+  "portrait": "Je suis un homme de 58 ans, de nationalité suisse, ouvrier puis technicien dans l'industrie de la région, et je vis seul au centre de Vuadens. Je pense que chacun doit pouvoir gagner sa vie avec son métier, paysan comme ouvrier, et je suis proche du PLR. Je me méfie des démarches venues d'en haut et des idées arrivées toutes faites de la ville.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Les paysans doivent pouvoir vivre de leur travail, ça je veux bien, mais c'est le marché qui doit les payer, pas la commune avec ses projets bio. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne suis pas paysan, donc ça ne me concerne pas directement",
+        "Je n'ai pas confiance dans les démarches de la commune, qui finissent souvent en beaux discours",
+        "Je travaille en horaires décalés et je n'ai pas le temps pour des ateliers"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que touchent réellement les fermes, et une démarche portée par les agriculteurs eux-mêmes plutôt que par l'administration."
+    },
+    {
+      "angle_id": 2,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Chacun achète ce qu'il veut, je n'ai pas besoin qu'on me fasse la leçon : si la ferme du coin a de bons produits, je les prendrai. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Je n'ai pas l'impression que ça me concerne",
+        "Les ateliers de la commune, je n'y vais pas en général",
+        "Je ne veux pas qu'on me culpabilise pour mes courses"
+      ],
+      "ce_qui_me_ferait_venir": "Des produits d'ici vendus à un prix correct, sans que personne me dise comment consommer."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« C'est une belle question, mais on la pose souvent trop tard. Moi je pense surtout à ceux qui viendront après nous, et ça se discute autour d'une table, pas dans une brochure. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Les grands discours sur l'avenir me rendent sceptique",
+        "Je ne sais pas si on sera assez nombreux à en parler vraiment"
+      ],
+      "ce_qui_me_ferait_venir": "Une discussion concrète, en petit comité, avec des gens du village qui connaissent la terre, et des résultats qu'on voit ensuite."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Les paysans d'ici, on les voit travailler tous les jours, ça mérite d'être dit, mais les labels, je n'y crois pas trop : un bon travail se voit à ce qu'il donne. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas bien à quoi servirait une reconnaissance de plus",
+        "Ça reste du discours tant qu'on ne met pas d'argent sur la table"
+      ],
+      "ce_qui_me_ferait_venir": "Une visite de ferme ouverte un samedi, plutôt qu'une soirée de réunion sur des critères."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 10,
+    "role": "relai",
+    "cercle_type": "Collègues de travail dans l'industrie de la région, voisins du centre du village et connaissances des sociétés locales, avec qui je discute au café ou au travail."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "L'État ne doit pas dicter combien de résidences on peut avoir dans une commune : la propriété, c'est à chacun de la gérer, même si je vois des maisons fermées une bonne partie de l'année."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.45,
+      "raison": "Il faut arrêter de grignoter les champs avec des lotissements, je suis d'accord, mais que Berne décide où on peut construire, ça me fait grincer des dents, et ça fait monter le prix des terrains."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.4,
+      "oui_proba": 0.08,
+      "raison": "Une économie qui tiendrait dans une seule planète, cela voudrait dire moins d'industrie chez nous et des emplois en moins. Les entreprises d'ici ne pourraient pas suivre, et ce seraient les ouvriers qui trinqueraient."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.35,
+      "oui_proba": 0.2,
+      "raison": "Fermer les centrales un jour, pourquoi pas, mais pas dans l'urgence ni sans solution de remplacement. Sans courant stable et bon marché, nos usines d'ici souffriraient."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Je veux bien du solaire et des économies d'énergie, mais pas au prix de factures qui montent pour les entreprises ni de subventions qui s'empilent."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "J'aime bien que les produits viennent de chez nous, mais imposer des règles aux produits importés fait monter les prix, et ça n'aide pas la famille qui fait ses courses au discount."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Le lait et la viande d'ici, ça me touche, mais les droits de douane et les prix fixés d'en haut, je ne suis pas pour. Le paysan doit vivre du marché, pas de la protection."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Réserver les paiements directs aux fermes sans pesticides ni antibiotiques, c'est sanctionner les paysans qui font déjà attention. Les fermes du village perdraient des sous pour un résultat que je ne vois pas."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je ne suis pas pour mettre des produits chimiques partout sans réfléchir, mais une interdiction totale d'un coup, sans solution de rechange pour les cultures, je n'y crois pas."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Taxer l'essence, le mazout et les billets d'avion touche d'abord ceux qui habitent loin des gares et n'ont pas le choix de la voiture. Je veux bien lutter contre le CO2, mais pas en faisant payer les petits."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.15,
+      "raison": "Imposer ce niveau d'exigence à tout le monde, importations comprises, ferait monter les prix, et les éleveurs d'ici savent déjà bien s'occuper de leurs bêtes."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Le climat nous concerne tous et l'industrie d'ici doit s'adapter. Mais je veux des aides qui aident vraiment les entreprises et les particuliers, pas un système où ce sont les petits qui paient l'addition."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.4,
+      "oui_proba": 0.2,
+      "raison": "Protéger la nature, je suis d'accord, mais pas en mettant de nouvelles contraintes sur les paysans et en gelant des terres qu'ils ne peuvent plus cultiver ni développer."
+    }
+  ]
+}

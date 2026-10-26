@@ -1,0 +1,95 @@
+{
+  "id": "p41",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Il faut une armée qui tient debout, et le Gripen remplace des avions à bout de souffle. Le coût me pèse, mais je ne veux pas que la Suisse reste sans défense aérienne."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.65,
+      "raison": "Nous travaillons en couple à la ferme, donc je suis pour que le mariage ne soit pas pénalisé. Je doute qu'il faille l'écrire dans la Constitution, mais je voterais probablement oui."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "L'AVS a besoin d'argent et la TVA touche tout le monde, donc je comprends le financement. Le passage des femmes à 65 ans me fait pourtant réfléchir, car le travail à la ferme use le corps."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à notre indépendance, mais nos accords avec l'Europe protègent nos exportations de fromage et de lait. Dénoncer des traités risquerait de les mettre en danger."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.7,
+      "oui_proba": 0.35,
+      "raison": "Je vois la pression sur les routes et les logements chez nous, mais la libre circulation nous donne accès aux marchés et à du personnel qualifié. Je dirais non, sans enthousiasme."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Une armée crédible a un prix, et 6 milliards font beaucoup. Je fais confiance au Conseil fédéral pour choisir un modèle sérieux."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.3,
+      "raison": "Je suis sensible au bien-être des animaux, mais interdire toute recherche médicale me paraît excessif. Je ne suis pas très concernée et je risque de ne pas voter."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.85,
+      "oui_proba": 0.2,
+      "raison": "Je respecte déjà les règles de bien-être animal et je suis ouverte à de petites améliorations. Mais imposer le cahier des charges Bio Suisse à toute la production, sans chiffres sur le prix du lait, serait trop pour des fermes comme la nôtre."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.7,
+      "oui_proba": 0.45,
+      "raison": "Passer à 65 ans pour les femmes me touche directement, et la ferme ne s'arrête pas à l'heure. Les mesures de compensation me font toutefois hésiter à dire non."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "La neutralité a toujours protégé notre pays et je ne veux pas d'alliance militaire. Je m'interroge sur les sanctions et la médiation, mais je pencherais pour la neutralité."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Produire davantage en Suisse est bien pour nous, mais produire moins de produits animaux touche directement notre lait. Sans chiffres précis sur le revenu des producteurs, je ne peux pas voter oui."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.55,
+      "raison": "La 13e rente aide mes parents et beaucoup de retraités, et les denrées alimentaires restent exemptées. La hausse de TVA me gêne, mais je vote oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.55,
+      "raison": "Les bêtes paniquent avec les pétards et les prairies sèches peuvent prendre feu, donc je suis pour limiter le bruit. Le 1er août doit cependant rester possible."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Un couple marié qui travaille à deux sur la ferme ne devrait pas payer plus d'impôts qu'un autre. L'imposition individuelle me semble une fausse équité, donc je suis plutôt pour."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Une neutralité crédible implique de ne pas livrer d'armes à des pays en guerre. Cet assouplissement me dérange, même si je ne connais pas tous les détails."
+    }
+  ]
+}

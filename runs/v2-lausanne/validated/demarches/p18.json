@@ -1,0 +1,65 @@
+{
+  "id": "p18",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "En 2017 j'avais 33 ans et je ne fréquentais Sauvabelin que de temps en temps ; un sondage annoncé seulement sur le site de la Ville et sur les réseaux ne m'aurait probablement pas atteinte, et je n'en aurais pas parlé."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "Première édition d'un budget participatif peu visible : je l'aurais peut-être remarqué dans la presse, mais voter pour des projets de quartier demandait une énergie que je n'avais pas forcément à 35 ans, et je n'en aurais parlé qu'à quelques amis."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Pendant la pandémie, entre le télétravail et les enfants à la maison, j'aurais probablement oublié le vote en ligne, sauf si un projet de mon quartier m'avait touchée, et j'en aurais peu parlé."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.18,
+      "partage_proba": 0.14,
+      "raison": "Un sondage en ligne de cinq minutes sur l'avenir de mon quartier me concerne directement, je l'aurais probablement rempli un soir, mais je ne serais pas allée aux soirées ni aux balades en pleine crise sanitaire, et j'en aurais parlé à mon conjoint."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.22,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin préaffranchi reçu dans la boîte aux lettres rend le vote facile et je le remplirais probablement en famille, mais je n'en parlerais surtout que si un projet du quartier me touchait."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je fréquente peu le secteur touristique des quais d'Ouchy et je n'ai pas le réflexe de répondre à une enquête de la Ville, donc j'y ai probablement pensé sans répondre ni en parler."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.22,
+      "partage_proba": 0.18,
+      "raison": "Le bulletin préaffranchi reçu à domicile rend le vote simple et les projets de quartier me parlent, mais je vote rarement sans y être poussée, et je n'en parlerais qu'à mon entourage pour les projets qui me plaisent."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Le sujet me tient à cœur et je pourrais répondre au questionnaire en ligne, mais une consultation sans suite visible me motive peu, et j'en parlerais surtout avec des proches militants."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.25,
+      "partage_proba": 0.2,
+      "raison": "Chaque personne du foyer dès 4 ans reçoit un bulletin nominatif, ce qui incite à voter en famille, et ce vote me coûte peu, donc je le ferais probablement avec les enfants et j'en parlerais autour de moi."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.2,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin arrive toujours à domicile et je vote parfois, mais cette sixième édition ne me touche pas plus que les précédentes, et j'en parle peu."
+    }
+  ]
+}

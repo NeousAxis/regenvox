@@ -1,0 +1,125 @@
+{
+  "id": "p19",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.004,
+      "partage_proba": 0.002,
+      "raison": "Un débat sur Palantir et la sécurité à l'EPFL, à Lausanne, loin de mon quotidien d'agriculteur, et je ne suis ni étudiant ni concerné par ce sujet numérique."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.03,
+      "raison": "Les canicules et la sécheresse de cet été ont pesé sur mes cultures, donc le sujet me touche, mais une lettre ouverte de coalition avec un plan très large me laisse sceptique et je signe rarement ce genre de texte."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.02,
+      "partage_proba": 0.008,
+      "raison": "Je ne suis pas à l'aise avec l'idée de faire invalider une initiative populaire par une campagne en ligne, quel que soit son fond, et ce débat juridique reste loin de mes préoccupations."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.006,
+      "partage_proba": 0.003,
+      "raison": "Affaire genevoise autour de Gaza et d'une procédure contre un député, qui ne concerne pas ma vie de paysan vaudois, et je ne suis pas militant sur ce dossier."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Les jeunes qui inhalent du protoxyde m'inquiètent comme père de famille, mais c'est un problème genevois et je ne réagis pas à une pétition qui ne vient pas de mon canton."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.012,
+      "partage_proba": 0.006,
+      "raison": "Ma caisse de pension m'intéresse peu au quotidien, et ce texte en anglais réduit encore les chances que je le lise jusqu'au bout."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.05,
+      "partage_proba": 0.02,
+      "raison": "Les primes d'assurance maladie pèsent sur ma famille et le sujet m'intéresse, mais la pétition se présente comme fictive, donc je m'interroge sur son but et je ne signe pas."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.03,
+      "raison": "Je suis concerné comme jeune actif qui paiera l'AVS et une réforme structurelle me parle, mais les revendications sur le cannabis et la fiscalité du tabac me laissent hésitant."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.006,
+      "partage_proba": 0.003,
+      "raison": "Projet social dans une commune genevoise, hors de mon champ, et je ne suis pas habitant de Versoix."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Le témoignage est bouleversant et j'ai de la compassion, mais je ne connais pas ce cas et ce sujet intime ne me pousse pas à signer, même si je pourrais le transmettre à quelqu'un concerné."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.03,
+      "partage_proba": 0.015,
+      "raison": "Les délais pour voir un psychologue sont un vrai souci et la santé mentale des agriculteurs m'interpelle, mais je ne suis pas spécialiste et je ne réagis pas aux motions du Conseil national."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.1,
+      "partage_proba": 0.05,
+      "raison": "Je connais les contraintes de la zone agricole et de la diversification des petites exploitations, donc cette ferme vaudoise me parle, même si ses agrumes sous serre sont loin de mes grandes cultures."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.008,
+      "partage_proba": 0.004,
+      "raison": "Une maison d'accueil pour femmes dans le canton du Jura, où je n'habite pas, est un sujet grave mais je ne signe pas une pétition sur un canton voisin."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.01,
+      "raison": "La chaleur sur les quais et les arrêts du tram lausannois m'interpelle, mais je vis à Yverdon et ce projet ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.01,
+      "partage_proba": 0.004,
+      "raison": "Les renvois vers le Burundi touchent l'asile, sujet où je n'ai pas d'avis forts et qui n'est pas ma priorité, et je ne suis pas engagé auprès des réfugiés."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.015,
+      "partage_proba": 0.006,
+      "raison": "La réforme de la formation professionnelle ne correspond pas à ce que je vois dans le monde agricole, et ce sujet ne me mobilise pas."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.04,
+      "partage_proba": 0.02,
+      "raison": "Les lunettes connectées qui filment à l'insu des gens posent un vrai problème de vie privée, mais je ne suis pas touché au quotidien et une interdiction nationale ne me motive pas à signer."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.02,
+      "partage_proba": 0.008,
+      "raison": "La crise climatique est réelle pour mon métier, mais cet appel général, avec des mesures comme la fast fashion ou les vols court-courriers, me semble éloigné de ma réalité agricole."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.09,
+      "partage_proba": 0.035,
+      "raison": "Les sécheresses et les risques d'incendie me concernent et couper des fonds d'adaptation forestière me paraît déraisonnable, mais je ne suis pas forestier et je signe rarement ce type de pétition."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.05,
+      "partage_proba": 0.03,
+      "raison": "Un sujet grave qui touche les enfants et les familles, donc je suis sensible, mais une pétition internationale sur les réseaux de drogue ne me pousse pas forcément à signer ni à partager."
+    }
+  ]
+}

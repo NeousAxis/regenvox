@@ -1,0 +1,29 @@
+{
+  "id": "p60",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.65,
+      "oui_proba": 0.3,
+      "raison": "Je vois le besoin en travaillant dans la santé et le social, mais 20 millions par an payés par tous, sans condition de revenu, alors que mon parti et le Conseil d'Etat disent non, je ne suis pas convaincue."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.42,
+      "raison": "Les bouchons vers la frontière me touchent chaque jour à Meyrin, donc l'idée a du sens, mais financer des projets en France après le refus de 2014, avec une liberté de vote de mon parti, me laisse très hésitante."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Je comprends l'accès à la propriété, mais vendre un logement à son locataire pourrait réduire les appartements loués abordables et mon parti dit non, donc je pencherais pour le non sans grande conviction."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Je travaille dans la santé, le social ou l'éducation et je sais ce que la HES forme, une baisse de 2 millions par an me paraît raisonnable, et mon parti dit oui, donc je vote oui."
+    }
+  ]
+}

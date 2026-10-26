@@ -1,0 +1,17 @@
+{
+  "id": "p15",
+  "reactions": [
+    {
+      "item_id": "gen04",
+      "participe_proba": 0.04,
+      "partage_proba": 0.1,
+      "raison": "Employée de bureau peu concernée par la vie de quartier, je n'aurais probablement pas pris le temps de répondre à un questionnaire de 28 questions, même si l'idée de plus de 900 logements derrière Palexpo m'interpelle un peu."
+    },
+    {
+      "item_id": "gen05",
+      "participe_proba": 0.03,
+      "partage_proba": 0.06,
+      "raison": "Le sondage des Marronniers tournait en plein hiver et ce quartier ne me touche pas directement, donc je l'aurais sans doute vu passer sans y répondre et j'en parlerais peu."
+    }
+  ]
+}

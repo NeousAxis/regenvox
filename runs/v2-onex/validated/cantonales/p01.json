@@ -1,0 +1,29 @@
+{
+  "id": "p01",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.45,
+      "oui_proba": 0.65,
+      "raison": "Le Centre dit oui et je trouve normal qu'une pilule ou un préservatif ne coûtent pas une fortune quand on a 23 ans, mais 20 millions de plus par an pour le canton me font hésiter."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Je vois chaque jour le trafic frontalier autour de Genève, et les bus à haut niveau de service et les parkings-relais me paraissent utiles, même si financer des projets en France reste un sujet qui me gêne un peu."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.25,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas locataire chez mes parents, donc ça ne me touche pas directement, mais devenir propriétaire de son logement me paraît juste si le prix reste encadré, même si le risque de congés-ventes m'inquiète."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "La HES forme des gens utiles et 2 millions de moins ne me semblent pas dramatiques, même si je me demande si la hausse des taxes d'études a été bien anticipée."
+    }
+  ]
+}

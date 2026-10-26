@@ -1,0 +1,95 @@
+{
+  "id": "p12",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.15,
+      "oui_proba": 0.55,
+      "raison": "J'avais 18 ans et je n'étais pas du tout au courant des enjeux. L'armée, à la campagne, on la soutient plutôt, mais je n'ai probablement pas voté."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.25,
+      "oui_proba": 0.45,
+      "raison": "Je ne suis pas sûre que la Constitution doive définir le couple, mais que les couples mariés ne soient pas désavantagés sur les impôts me paraît juste. Je n'ai pas vraiment suivi le débat."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.35,
+      "raison": "À 21 ans, je ne suis pas trop concernée par les retraites. Une TVA qui monte, c'est une charge de plus sur nos achats, et avec la ferme on compte chaque franc, donc je serais plutôt contre."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Ce qui compte pour nous, ce sont les accords avec l'Union européenne : une bonne partie de notre fromage part à l'étranger. Remettre en cause les traités pourrait nous coûter cher, donc je voterais plutôt non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Ici à Vuadens il y a déjà 21 % d'étrangers et on a besoin de main-d'œuvre et de débouchés. Mettre fin à la libre circulation et risquer les accords bilatéraux, je ne veux pas prendre ce risque pour nos exportations."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.5,
+      "oui_proba": 0.5,
+      "raison": "Je ne m'y connais pas en avions de combat. Si l'armée en a besoin, ça peut se défendre, mais six milliards, c'est beaucoup d'argent et je ne sais pas trop à quoi ça sert concrètement."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.3,
+      "oui_proba": 0.25,
+      "raison": "Je trouve normal de limiter les expériences sur les animaux, mais la recherche médicale a besoin d'essais et j'ai du mal à imaginer tout interdire. Ce n'est pas un sujet qui touche mon quotidien."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.2,
+      "raison": "Mes vaches sont au pré et on les soigne bien, mais imposer les normes Bio Suisse à tout le monde, y compris aux importations, nous mettrait en difficulté face à des produits moins chers. Je voterais non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Avec les mesures de compensation pour les femmes qui travaillent sur l'exploitation, la réforme AVS 21 me paraît acceptable. 0,4 point de TVA en plus, ça pèse, mais je veux que nos parents soient bien protégés, donc je voterais oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "La neutralité, c'est une valeur suisse qui me parle, et je comprends l'envie de la mettre dans la Constitution. Mais je ne vois pas bien ce que l'initiative changerait concrètement, notamment sur les sanctions, donc je suis hésitante."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "Produire plus en Suisse, je suis d'accord, mais l'initiative veut moins de produits animaux et moins de phytos et d'engrais. Pour notre lait et nos prairies, c'est directement notre revenu qui serait touché, donc je voterais non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.4,
+      "raison": "La 13e rente, c'est utile pour nos parents et nos grands-parents, mais 0,4 point de TVA de plus sur tout ce qu'on achète pour la ferme et la famille, ça fait mal. Au moins les denrées alimentaires ne sont pas touchées, je suis partagée."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Mes vaches et mes veaux paniquent à chaque 1er août, et les pétards près des clôtures sont un vrai risque. Limiter les pièces bruyantes me paraît évident, et garder des exceptions pour les grandes fêtes me convient."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "Je ne sais pas exactement si on serait pénalisés aujourd'hui, mais l'idée qu'un couple marié ne paie pas plus d'impôts à deux sur une exploitation me paraît juste. Je voterais probablement oui."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.4,
+      "oui_proba": 0.35,
+      "raison": "Je ne suis pas à l'aise avec l'idée d'exporter davantage d'armes, surtout vers des pays en conflit, et la neutralité me tient à cœur. Mais ça touche peu notre quotidien à la ferme, donc je ne suis pas très informée."
+    }
+  ]
+}

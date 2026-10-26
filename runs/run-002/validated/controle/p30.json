@@ -1,0 +1,17 @@
+{
+  "id": "p30",
+  "reaction": {
+    "position": "opposant",
+    "intensite": 4,
+    "citation": "Encore une décision prise en haut, sans demander à ceux qui travaillent la terre tous les jours. Je respecte les paysans d'ici, mais c'est à eux de dire ce qu'ils peuvent faire, pas à un bureau.",
+    "engagement": 0,
+    "freins_participation": [
+      "Ça ne touche pas mon métier, je suis dans le bâtiment et mes journées finissent tard",
+      "Méfiance envers une décision annoncée comme déjà prise par le Conseil communal",
+      "Crainte que les paysans du coin trinquent et que les coûts retombent sur les prix ou les impôts",
+      "Le sentiment que les idées sur le bio viennent de la ville et ne collent pas à la réalité de nos villages",
+      "Pas de temps pour des ateliers ou des réunions le soir après le chantier"
+    ],
+    "ce_qui_me_ferait_venir": "Qu'on me demande mon avis avant de décider, qu'on parle d'abord avec les agriculteurs qui devraient changer leurs pratiques, avec des aides concrètes et des chiffres clairs, et que personne ne m'oblige à quoi que ce soit."
+  }
+}

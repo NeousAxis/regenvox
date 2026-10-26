@@ -1,0 +1,17 @@
+{
+  "id": "p08",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 2,
+    "citation": "Le bio, c'est bien sur le papier, mais avec mon salaire je regarde déjà chaque franc au supermarché. Si ça veut dire que le lait et le fromage coûtent plus cher, il faudra que quelqu'un m'explique qui paie.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je travaille à l'usine toute la semaine et je m'occupe des enfants le soir, je n'ai pas le temps d'aller aux soirées de la commune",
+      "Je connais les paysans de loin, je ne sais pas ce que gagne un exploitant bio ni ce qui changerait concrètement pour lui",
+      "Un objectif décidé en haut, sans qu'on me demande mon avis, me donne l'impression qu'on va encore imposer des choses aux gens d'ici",
+      "Le prix : si les produits bio restent au-dessus de mon budget, je ne les achèterai pas, même si l'idée me paraît bonne",
+      "Je me méfie des taxes et des normes environnementales, on a déjà vu ça passer mal chez nous"
+    ],
+    "ce_qui_me_ferait_venir": "Des chiffres simples sur ce que ça coûte au ménage et ce que ça rapporte au paysan, une cantine scolaire ou un marché du village qui achète du bio à un prix abordable pour les familles, et une rencontre le soir au centre du village où les agriculteurs racontent leur quotidien sans détour, avec des gens de l'usine dans la salle."
+  }
+}

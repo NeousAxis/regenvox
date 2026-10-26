@@ -1,0 +1,95 @@
+{
+  "id": "p05",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.45,
+      "oui_proba": 0.5,
+      "raison": "L'armée ne me touche pas directement et je ne suis pas contre une défense crédible. Mais ce gros achat d'avions décidé d'en haut, sans beaucoup d'explications, me laisse sans avis tranché."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Les couples mariés sont désavantagés dans bien des cas, et ça me choque. Mais inscrire une définition du mariage dans la Constitution me met mal à l'aise, je préfère que ces questions se règlent par la loi."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "L'AVS compte pour nous, indépendants de la ferme, et une petite hausse de TVA ne me fait pas peur en soi. Mais lier cette hausse au report de la retraite des femmes à 65 ans me pousse plutôt au non."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Je tiens à notre indépendance, mais nos fromages de Gruyère et nos échanges avec l'Union européenne passent par les accords bilatéraux. Dénoncer des traités ou les renégocier de force me semble risqué pour nos produits, donc je penche pour le non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Sur l'exploitation, on a besoin de personnel pour les travaux saisonniers, et la libre circulation nous a aidés à en trouver. Mettre fin aux accords avec l'UE mettrait en danger nos échanges, donc je voterai non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.45,
+      "raison": "Je suis partagée. Il faut assurer la défense du pays, mais six milliards pour des avions alors que nous serrons les budgets à la ferme, cela me fait hésiter. Je serais plutôt prudente, sans conviction forte."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.35,
+      "oui_proba": 0.25,
+      "raison": "Je suis sensible au bien-être des animaux, et le bio m'a appris à y prêter attention, mais interdire toute expérimentation sur l'humain et l'animal me semble trop absolu. La recherche médicale nous a aussi servi, donc je ne voterai pas oui."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.75,
+      "oui_proba": 0.4,
+      "raison": "C'est mon métier et mon choix de vie. Les exigences Bio Suisse, je les applique depuis des années, et je comprends la demande. Mais imposer ça à toutes les fermes, avec une transition sur vingt-cinq ans et sans soutien clair, me fait craindre pour les petites exploitations du village."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je reste attachée à l'AVS, qui est la base de nos retraites d'indépendants. Passer les femmes à 65 ans est difficile à accepter, mais la réforme prévoit des compensations et je ne veux pas voir l'AVS s'affaiblir, donc je voterai oui sans enthousiasme."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "La neutralité est une valeur qui nous rassure, et je n'aime pas qu'on nous entraîne dans des alliances ou des sanctions décidées ailleurs. Je me méfie d'une règle figée dans la Constitution, mais ce texte me parle plus que les autres options."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.45,
+      "raison": "Ce texte touche directement mon métier. Je suis d'accord pour produire davantage en Suisse, avec moins de pesticides et une eau mieux protégée, c'est ce que je fais en bio depuis des années. Mais réduire les produits animaux et fixer 70 % sans demander l'avis des paysans fragilise notre élevage laitier, donc je penche pour le non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "La 13e rente AVS aide beaucoup de personnes âgées, y compris des agricultrices avec de petites retraites. Une hausse de 0,4 point de TVA qui épargne les denrées alimentaires me semble supportable, donc je voterai oui."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.35,
+      "oui_proba": 0.6,
+      "raison": "Les pétards et fusées font paniquer les vaches et la faune, surtout autour du 1er août et en été. Je trouve raisonnable de limiter les pièces bruyantes en gardant des exceptions pour les grandes fêtes, donc je voterai oui."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "L'imposition individuelle, acceptée en mars, est plus juste pour les femmes qui travaillent sur l'exploitation, et je n'ai pas envie de revenir en arrière. Garantir que les couples mariés ne soient pas désavantagés me touche, mais une imposition commune pèserait surtout sur les femmes qui travaillent, donc je voterai non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à la neutralité, et je n'aime pas que la Suisse livre du matériel de guerre à des pays engagés dans un conflit, même des partenaires. Ce texte assouplit trop les règles à mon goût, donc je dirais non, sans bien connaître tous les détails."
+    }
+  ]
+}

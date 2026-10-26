@@ -1,0 +1,163 @@
+{
+ "univers": "résidents de Collonge-Bellerive âgés de 16 ans et plus (31.12.2025)",
+ "population_16_plus": {
+  "valeur": 7034,
+  "source": "OFS STATPOP 2025 (âges détaillés, px-x-0102010000_101)"
+ },
+ "tranches_age": [
+  {
+   "tranche": "16-24",
+   "min": 16,
+   "max": 24,
+   "part": 0.1434,
+   "part_etrangers": 0.197
+  },
+  {
+   "tranche": "25-34",
+   "min": 25,
+   "max": 34,
+   "part": 0.1066,
+   "part_etrangers": 0.324
+  },
+  {
+   "tranche": "35-44",
+   "min": 35,
+   "max": 44,
+   "part": 0.149,
+   "part_etrangers": 0.475
+  },
+  {
+   "tranche": "45-54",
+   "min": 45,
+   "max": 54,
+   "part": 0.1851,
+   "part_etrangers": 0.377
+  },
+  {
+   "tranche": "55-64",
+   "min": 55,
+   "max": 64,
+   "part": 0.1756,
+   "part_etrangers": 0.277
+  },
+  {
+   "tranche": "65-74",
+   "min": 65,
+   "max": 74,
+   "part": 0.1071,
+   "part_etrangers": 0.12
+  },
+  {
+   "tranche": "75+",
+   "min": 75,
+   "max": 92,
+   "part": 0.1332,
+   "part_etrangers": 0.148
+  }
+ ],
+ "source_age": "OFS STATPOP 2025, population par âge et nationalité",
+ "part_etrangers": {
+  "valeur": 0.29,
+  "source": "OFS STATPOP 2025"
+ },
+ "part_femmes": {
+  "valeur": 0.53,
+  "source": "OFS STATPOP 2025 (18 ans et plus)"
+ },
+ "agriculteurs": {
+  "part_16_plus": 0.004,
+  "source": "OFS, relevé des structures agricoles 2025 (28 emplois agricoles dans la commune, assimilés à des résidents)",
+  "surechantillon": 4,
+  "age_min": 20,
+  "age_max": 70,
+  "part_bio": 0.25,
+  "orientation": "de grandes cultures et viticole",
+  "part_hommes": 0.5,
+  "part_suisses": 0.821
+ },
+ "activites_actifs": [
+  {
+   "activite": "ouvrier·ère ou technicien·ne dans l'industrie",
+   "part": 0.18
+  },
+  {
+   "activite": "artisan·e ou indépendant·e du bâtiment",
+   "part": 0.1
+  },
+  {
+   "activite": "employé·e de commerce, de bureau ou d'administration",
+   "part": 0.24
+  },
+  {
+   "activite": "professionnel·le de la santé, du social ou de l'éducation",
+   "part": 0.18
+  },
+  {
+   "activite": "employé·e de la vente, de la restauration ou du transport",
+   "part": 0.12
+  },
+  {
+   "activite": "cadre ou profession libérale",
+   "part": 0.12
+  },
+  {
+   "activite": "parent au foyer ou sans emploi",
+   "part": 0.06
+  }
+ ],
+ "source_activites": "hypothèse : les professions des résidents ne sont pas publiées à l'échelle de la commune ; répartition romande générique",
+ "partis": [
+  {
+   "parti": "PLR",
+   "part": 0.3244
+  },
+  {
+   "parti": "UDC",
+   "part": 0.1921
+  },
+  {
+   "parti": "Le Centre",
+   "part": 0.1264
+  },
+  {
+   "parti": "Les Vert-e-s",
+   "part": 0.0917
+  },
+  {
+   "parti": "PS",
+   "part": 0.0862
+  },
+  {
+   "parti": "Vert'libéraux",
+   "part": 0.0843
+  },
+  {
+   "parti": "MCG",
+   "part": 0.07
+  },
+  {
+   "parti": "un petit parti local",
+   "part": 0.0249
+  }
+ ],
+ "source_partis": "OFS, élections au Conseil national 2023, force des partis à Collonge-Bellerive (partis à 0,5 % et plus, renormalisés)",
+ "lieux_de_vie": [
+  {
+   "lieu": "quartier de villas",
+   "part": 0.6
+  },
+  {
+   "lieu": "village",
+   "part": 0.3
+  },
+  {
+   "lieu": "hameau ou zone agricole",
+   "part": 0.1
+  }
+ ],
+ "hypotheses": [
+  "Les emplois agricoles situés dans la commune sont assimilés à des résidents actifs dans l'agriculture ; orientation des exploitations décrite de façon générique.",
+  "La répartition des activités professionnelles des résidents non agricoles est une hypothèse (donnée non publiée à l'échelle communale).",
+  "Lieux de vie dans la commune : hypothèse générique."
+ ]
+}

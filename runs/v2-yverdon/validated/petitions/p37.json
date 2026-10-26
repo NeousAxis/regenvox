@@ -1,0 +1,125 @@
+{
+  "id": "p37",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.05,
+      "raison": "Je me méfie de Palantir et de la surveillance, mais c'est une affaire interne à l'EPFL qui ne me concerne pas directement."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.3,
+      "partage_proba": 0.35,
+      "raison": "Les canicules me font peur pour mes enfants et le climat me touche, mais je ne signe pas volontiers une lettre ouverte aux Chambres fédérales."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.15,
+      "partage_proba": 0.3,
+      "raison": "Je suis opposée à l'UDC et je soutiens la cause, mais je ne signe pas toutes les pétitions Campax qui arrivent dans ma boîte."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.02,
+      "partage_proba": 0.1,
+      "raison": "Cette affaire genevoise me touche peu, et le conflit à Gaza divise trop pour que je signe sans connaître le dossier."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.06,
+      "partage_proba": 0.2,
+      "raison": "En tant que mère, je m'inquiète des ados qui inhalent du protoxyde, mais c'est une question genevoise et je n'ai pas le réflexe de signer."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.06,
+      "partage_proba": 0.08,
+      "raison": "Je suis sensible au climat, mais je ne me sens pas concernée par les placements de caisses de pension auxquelles je ne cotise plus."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Le texte se présente lui-même comme fictif et le sujet de la LAMal me dépasse, donc je passe mon chemin."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.08,
+      "partage_proba": 0.12,
+      "raison": "L'avenir de l'AVS me préoccupe, surtout pour ma génération, mais je n'aime pas l'idée de taxer le cannabis et le tabac pour la financer."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Versoix se trouve à Genève, loin de chez moi, et je ne connais pas ce lieu."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Je suis touchée par cette histoire et je trouve juste de reconnaître ces mères, mais je n'ai pas vécu ce cas et je signe rarement ce genre de texte."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Les délais pour voir un psychothérapeute sont déjà trop longs, donc la motion m'inquiète, mais je ne signe que lorsqu'une association que je connais relaie l'appel."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "C'est une ferme vaudoise, mais à l'autre bout du canton, et je ne sais pas si elle est vraiment menacée."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.06,
+      "partage_proba": 0.15,
+      "raison": "Le manque de places pour les femmes victimes de violence me révolte, mais je n'habite pas dans le Jura et je ne signe pas les appels régionaux."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "La chaleur du tram lausannois ne me concerne pas à Yverdon, et je n'ai pas de sympathie particulière pour les Vert'libéraux."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Les renvois vers des pays dangereux me révoltent, mais je ne m'occupe pas d'asile et cette demande me paraît lointaine."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "La formation à temps partiel est une bonne idée, mais je ne suis pas concernée et le texte s'adresse surtout aux institutions."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.22,
+      "partage_proba": 0.45,
+      "raison": "Des femmes filmées à leur insu avec des lunettes, ça me glace, et ce texte me parle directement, donc je le signerais et je le transmettrais à mes amies."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.08,
+      "partage_proba": 0.08,
+      "raison": "Le constat climatique me parle, mais la liste de mesures est si large que je ne m'y reconnais pas vraiment et je signe peu ce genre d'appel."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.1,
+      "partage_proba": 0.25,
+      "raison": "Les forêts qui brûlent me font peur et je trouve absurde de couper ces fonds, mais je ne sais pas si la pétition a encore un effet."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.15,
+      "partage_proba": 0.5,
+      "raison": "Les femmes droguées à leur insu me font très peur et l'absence de la Suisse dans le projet Medusa m'interpelle, donc je signe et je partage."
+    }
+  ]
+}

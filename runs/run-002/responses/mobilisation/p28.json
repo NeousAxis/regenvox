@@ -1,0 +1,39 @@
+{
+  "id": "p28",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Qu'un agriculteur de Vuadens vienne expliquer en langage simple ce qu'il gagne et ce que le bio lui coûte, pour que je ne me sente pas hors sujet, et qu'on me garantisse que l'atelier servira vraiment à changer le projet et pas seulement à valider des décisions déjà prises."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.05,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.04,
+      "ce_qui_doublerait_ma_venue": "Une liste simple des fermes de la commune qui vendent en direct, avec des prix accessibles et sans abonnement obligatoire, pour savoir à qui m'adresser et acheter quand j'en ai envie."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Une question concrète sur les champs qui entourent mon quartier aujourd'hui, plutôt qu'un horizon à trente ans, et la certitude que mon avis sera lu et compté."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.15,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.12,
+      "ce_qui_doublerait_ma_venue": "Une raison personnelle d'y aller, par exemple une visite de ferme accessible à pied depuis mon quartier, annoncée par la commune, avec une tâche simple que je peux faire à mon niveau, comme acheter les produits de ces fermes ou signaler celles qui font des efforts pour l'eau et les sols."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Un questionnaire de 10 minutes que je remplis chez moi, à mon rythme et sans engagement régulier, me convient le mieux. L'atelier de 2 h 30 demande une raison personnelle que je n'ai pas, et le parcours en trois séquences suppose un rythme que je ne tiendrai pas. Je donnerais mon avis sans me mettre en avant, ce qui compte pour quelqu'un qui doute d'être légitime sur ce sujet."
+}

@@ -1,0 +1,286 @@
+{
+  "runs": [
+    "run-003"
+  ],
+  "rmse_methode": 5.1,
+  "cibles": [
+    {
+      "vote_id": "h2026-neutralite",
+      "titre": "Initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »",
+      "role": "hors_echantillon",
+      "famille": "souverainete",
+      "corrige_par_famille": true,
+      "oui_brut_pct": 50.1,
+      "oui_pct": 46.8,
+      "ic90_panel_pct": [
+        41.8,
+        53.1
+      ],
+      "intervalle_pct": [
+        36.6,
+        56.9
+      ],
+      "participation_pct": 69.5,
+      "par_panel": {
+        "run-003": {
+          "brut": 50.1,
+          "corrige": 46.8
+        }
+      },
+      "reel_oui_pct": 28.17,
+      "reel_participation_pct": 41.59,
+      "canton_oui_pct": 28.89,
+      "ecart": 18.6,
+      "ecart_brut": 21.9,
+      "ecart_canton": 0.7
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "titre": "Initiative populaire « Pour une alimentation sûre, grâce au renforcement de la production indigène durable, à davantage de denrées alimentaires végétales et à une eau potable propre (initiative sur l'alimentation) »",
+      "role": "hors_echantillon",
+      "famille": "contrainte_agriculture",
+      "corrige_par_famille": true,
+      "oui_brut_pct": 39.4,
+      "oui_pct": 23.1,
+      "ic90_panel_pct": [
+        20.2,
+        26.1
+      ],
+      "intervalle_pct": [
+        14.1,
+        32.1
+      ],
+      "participation_pct": 66.7,
+      "par_panel": {
+        "run-003": {
+          "brut": 39.4,
+          "corrige": 23.1
+        }
+      },
+      "reel_oui_pct": 23.18,
+      "reel_participation_pct": 41.53,
+      "canton_oui_pct": 28.32,
+      "ecart": 0.1,
+      "ecart_brut": 16.2,
+      "ecart_canton": 5.1
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "titre": "Arrêté fédéral sur le financement additionnel de l'AVS par le biais d'un relèvement de la TVA",
+      "role": "prevision",
+      "famille": "avs_tva",
+      "corrige_par_famille": true,
+      "oui_brut_pct": 52.8,
+      "oui_pct": 57.8,
+      "ic90_panel_pct": [
+        49.9,
+        66.1
+      ],
+      "intervalle_pct": [
+        46,
+        69.5
+      ],
+      "participation_pct": 65,
+      "par_panel": {
+        "run-003": {
+          "brut": 52.8,
+          "corrige": 57.8
+        }
+      },
+      "reel_oui_pct": null,
+      "reel_participation_pct": null,
+      "canton_oui_pct": null,
+      "ecart": null,
+      "ecart_brut": null,
+      "ecart_canton": null
+    },
+    {
+      "vote_id": "p2026-feux",
+      "titre": "Initiative populaire « Pour une limitation des feux d'artifice »",
+      "role": "prevision",
+      "famille": "protection_animale",
+      "corrige_par_famille": true,
+      "oui_brut_pct": 49.1,
+      "oui_pct": 41.4,
+      "ic90_panel_pct": [
+        38,
+        45
+      ],
+      "intervalle_pct": [
+        32.2,
+        50.5
+      ],
+      "participation_pct": 51.8,
+      "par_panel": {
+        "run-003": {
+          "brut": 49.1,
+          "corrige": 41.4
+        }
+      },
+      "reel_oui_pct": null,
+      "reel_participation_pct": null,
+      "canton_oui_pct": null,
+      "ecart": null,
+      "ecart_brut": null,
+      "ecart_canton": null
+    },
+    {
+      "vote_id": "p2026-couples",
+      "titre": "Initiative populaire « Oui à des impôts fédéraux équitables pour les couples mariés, pour enfin en finir avec la discrimination du mariage ! »",
+      "role": "prevision",
+      "famille": "couples_maries",
+      "corrige_par_famille": true,
+      "oui_brut_pct": 44.2,
+      "oui_pct": 55.7,
+      "ic90_panel_pct": [
+        50.6,
+        60.7
+      ],
+      "intervalle_pct": [
+        45.9,
+        65.6
+      ],
+      "participation_pct": 59.9,
+      "par_panel": {
+        "run-003": {
+          "brut": 44.2,
+          "corrige": 55.7
+        }
+      },
+      "reel_oui_pct": null,
+      "reel_participation_pct": null,
+      "canton_oui_pct": null,
+      "ecart": null,
+      "ecart_brut": null,
+      "ecart_canton": null
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "titre": "Modification de la loi fédérale sur le matériel de guerre",
+      "role": "prevision",
+      "famille": "armee",
+      "corrige_par_famille": true,
+      "oui_brut_pct": 33.6,
+      "oui_pct": 23.2,
+      "ic90_panel_pct": [
+        20.5,
+        26
+      ],
+      "intervalle_pct": [
+        14.3,
+        32.1
+      ],
+      "participation_pct": 54.7,
+      "par_panel": {
+        "run-003": {
+          "brut": 33.6,
+          "corrige": 23.2
+        }
+      },
+      "reel_oui_pct": null,
+      "reel_participation_pct": null,
+      "canton_oui_pct": null,
+      "ecart": null,
+      "ecart_brut": null,
+      "ecart_canton": null
+    }
+  ],
+  "validation_analogues": [
+    {
+      "vote_id": "a2014-gripen",
+      "famille": "armee",
+      "oui_brut_pct": 57.6,
+      "oui_corrige_pct": 52.9,
+      "reel_oui_pct": 36.94,
+      "ecart_corrige": 16,
+      "ecart_brut": 20.6,
+      "ecart_canton": 3.7
+    },
+    {
+      "vote_id": "a2016-couple",
+      "famille": "couples_maries",
+      "oui_brut_pct": 42.4,
+      "oui_corrige_pct": null,
+      "reel_oui_pct": 53.97,
+      "ecart_corrige": null,
+      "ecart_brut": 11.5,
+      "ecart_canton": 0.4
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "famille": "avs_tva",
+      "oui_brut_pct": 39.8,
+      "oui_corrige_pct": 40.1,
+      "reel_oui_pct": 49.44,
+      "ecart_corrige": 9.3,
+      "ecart_brut": 9.6,
+      "ecart_canton": 6.7
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "famille": "souverainete",
+      "oui_brut_pct": 42.2,
+      "oui_corrige_pct": 49.2,
+      "reel_oui_pct": 29.63,
+      "ecart_corrige": 19.6,
+      "ecart_brut": 12.6,
+      "ecart_canton": 2.3
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "famille": "souverainete",
+      "oui_brut_pct": 32,
+      "oui_corrige_pct": 21.4,
+      "reel_oui_pct": 38.5,
+      "ecart_corrige": 17.1,
+      "ecart_brut": 6.5,
+      "ecart_canton": 3.1
+    },
+    {
+      "vote_id": "a2020-avions",
+      "famille": "armee",
+      "oui_brut_pct": 47.9,
+      "oui_corrige_pct": 28.4,
+      "reel_oui_pct": 43.21,
+      "ecart_corrige": 14.8,
+      "ecart_brut": 4.7,
+      "ecart_canton": 2.4
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "famille": "protection_animale",
+      "oui_brut_pct": 22.4,
+      "oui_corrige_pct": 15.8,
+      "reel_oui_pct": 19.22,
+      "ecart_corrige": 3.4,
+      "ecart_brut": 3.1,
+      "ecart_canton": 1.4
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "famille": "protection_animale",
+      "oui_brut_pct": 25.2,
+      "oui_corrige_pct": 21.8,
+      "reel_oui_pct": 18.03,
+      "ecart_corrige": 3.8,
+      "ecart_brut": 7.2,
+      "ecart_canton": 9
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "famille": "avs_tva",
+      "oui_brut_pct": 45.2,
+      "oui_corrige_pct": 54.9,
+      "reel_oui_pct": 45.49,
+      "ecart_corrige": 9.4,
+      "ecart_brut": 0.3,
+      "ecart_canton": 2.8
+    }
+  ],
+  "synthese_validation": {
+    "n": 8,
+    "ecart_moyen_corrige": 11.7,
+    "ecart_moyen_brut": 8.1,
+    "ecart_moyen_canton": 3.9
+  }
+}

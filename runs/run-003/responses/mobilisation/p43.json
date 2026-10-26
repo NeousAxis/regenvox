@@ -1,0 +1,39 @@
+{
+  "id": "p43",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.12,
+      "atelier_presentiel": 0.05,
+      "parcours_distance": 0.03,
+      "atelier_si_invite_par_un_proche": 0.15,
+      "ce_qui_doublerait_ma_venue": "Un atelier le samedi matin, plus court (1 h 30), avec quelques chiffres simples sur ce que gagne un paysan d'ici, et un café offert à la salle communale."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Savoir concrètement comment on devient partenaire d'une ferme, avec un exemple du village, et être sûre que le panier ne coûte pas plus cher qu'au magasin."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.07,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.10,
+      "ce_qui_doublerait_ma_venue": "Un sujet plus concret que trente ans : ce qu'on veut voir dans les prés et les champs de Vuadens d'ici dix ans, avec des photos du village."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.02,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.02,
+      "ce_qui_doublerait_ma_venue": "Qu'on m'explique ce que ça change concrètement pour moi, et que ce ne soit pas une démarche de plus alors qu'on nous sollicite déjà beaucoup."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes chez moi, à mon rythme, sans sortir le soir : c'est le seul format que je ferais vraiment. Je n'ai pas de vision précise de l'agriculture de demain, donc un atelier sur quinze ans me dépasserait, alors qu'un questionnaire me laisse dire ce que je pense sans devoir tout maîtriser."
+}

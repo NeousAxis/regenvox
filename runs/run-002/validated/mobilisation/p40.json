@@ -1,0 +1,39 @@
+{
+  "id": "p40",
+  "angles": [
+    {
+      "angle_id": 1,
+      "avis_en_ligne": 0.1,
+      "atelier_presentiel": 0.03,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.08,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants sur place pendant l'atelier, un samedi matin, et la preuve que les paysans en tirent un revenu décent, pas seulement une charge de transition."
+    },
+    {
+      "angle_id": 2,
+      "avis_en_ligne": 0.06,
+      "atelier_presentiel": 0.02,
+      "parcours_distance": 0.02,
+      "atelier_si_invite_par_un_proche": 0.05,
+      "ce_qui_doublerait_ma_venue": "Une garde d'enfants sur place le samedi matin, et un échange concret sur le prix du bio pour une famille qui n'a qu'un salaire, sans leçon sur ce que doivent faire les habitants."
+    },
+    {
+      "angle_id": 3,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Que la démarche parte de mon quotidien (école, travail, courses) et pas de l'horizon de trente ans, avec une garde d'enfants sur place le samedi matin."
+    },
+    {
+      "angle_id": 4,
+      "avis_en_ligne": 0.03,
+      "atelier_presentiel": 0.01,
+      "parcours_distance": 0.01,
+      "atelier_si_invite_par_un_proche": 0.03,
+      "ce_qui_doublerait_ma_venue": "Une explication simple de ce que la reconnaissance apporte concrètement aux fermes et aux habitants, sans étiquette compliquée, et une invitation d'un voisin en qui j'ai confiance."
+    }
+  ],
+  "format_prefere": "avis_en_ligne",
+  "raison_format": "Dix minutes sur mon téléphone, le soir une fois les enfants couchés ou pendant une pause, c'est le seul format que je peux vraiment caser. Un atelier de deux heures trente et un parcours étalé sur trois semaines, avec mes enfants et mes horaires d'usine, je ne les tiendrais pas."
+}

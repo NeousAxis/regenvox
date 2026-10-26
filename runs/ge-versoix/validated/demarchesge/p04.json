@@ -1,0 +1,11 @@
+{
+  "id": "p04",
+  "reactions": [
+    {
+      "item_id": "gen09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.05,
+      "raison": "Je n'ai pas vu passer cet atelier, je n'habite pas le secteur de la gare et je ne fais pas partie des personnes qui s'inscrivent à ce genre de soirée, donc j'en ai très peu parlé autour de moi."
+    }
+  ]
+}

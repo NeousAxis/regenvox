@@ -1,0 +1,111 @@
+{
+  "id": "p03",
+  "portrait": "J'ai 60 ans, je suis employé d'administration dans une entreprise de la région bulloise, et je vis en famille au centre de Vuadens, tout près de la place du village. Proche du PS depuis longtemps, je suis attentif aux questions d'environnement et de justice sociale, mais je me méfie des grandes leçons données par des gens qui ne travaillent pas la terre.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Un paysan qui n'arrive pas à vivre de son métier ne passera jamais au bio, c'est aussi simple que ça. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne suis pas agriculteur et je n'ai pas de connaissances techniques sur le sujet",
+        "Je travaille en journée, et les ateliers en semaine me sont difficiles",
+        "Je crains que la discussion reste entre spécialistes et élus"
+      ],
+      "ce_qui_me_ferait_venir": "Que les agriculteurs eux-mêmes expliquent leurs comptes, leurs prix de vente et ce qui les aiderait concrètement, et qu'on me dise quel poids la commune peut vraiment avoir."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« J'achète déjà au paysan du coin quand je peux, mais le bio plus cher, ça pèse sur un budget de famille. »",
+      "engagement": 2,
+      "freins_participation": [
+        "Le prix plus élevé des produits bio pèse sur le budget d'une famille avec enfants",
+        "Je n'ai pas le temps d'aller à la ferme en semaine",
+        "Je ne sais pas à qui m'adresser concrètement"
+      ],
+      "ce_qui_me_ferait_venir": "Des portes ouvertes à la ferme ou un repas au village avec les producteurs, et un moyen simple d'acheter directement, sans que ça devienne une obligation."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Ce qu'on laisse à nos enfants, c'est l'eau du robinet et une terre qui nourrit encore. C'est pour ça que je suis pour. »",
+      "engagement": 3,
+      "freins_participation": [
+        "Les ateliers ont souvent lieu en soirée, après une journée de bureau",
+        "Je crains que les décisions soient prises avant même que les agriculteurs aient été écoutés"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier le samedi matin, ouvert aux familles et aux jeunes du village, avec un objectif concret et un compte rendu public de ce qui en est sorti."
+    },
+    {
+      "angle_id": 4,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« On voit les tracteurs passer sans penser aux haies et aux prairies que les paysans entretiennent. Une reconnaissance, ça reste des mots si ça ne change rien. »",
+      "engagement": 1,
+      "freins_participation": [
+        "J'ai l'impression que ça relève surtout de la communication si rien ne suit concrètement",
+        "Je n'ai pas le temps de m'investir dans une démarche de plus"
+      ],
+      "ce_qui_me_ferait_venir": "Savoir concrètement quelles fermes seraient mises en avant et selon quels critères, et voir si la commune prévoit un vrai soutien pour les agriculteurs."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Collègues de bureau, famille élargie, membres d'une société locale et habitués des associations du village, quelques sympathisants socialistes de la région bulloise."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Des aliments produits dans le respect de l'environnement, des animaux et des conditions de travail, je trouve ça juste. Je me demande comment on contrôle les importations, mais le principe me convient."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Je comprends que les paysans soient inquiets pour leurs prix et leur avenir, mais les droits de douane et l'idée de tout protéger me mettent mal à l'aise. Je crains que ça renchérisse la nourriture pour les familles."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "L'eau potable, c'est essentiel, et lier les paiements directs à des pratiques plus propres me paraît logique. Je serais plus réservé si ça mettait des exploitations en difficulté du jour au lendemain."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.55,
+      "raison": "Je suis convaincu que les pesticides de synthèse posent problème pour les sols et l'eau, mais dix ans de transition et l'interdiction des importations compliquent les choses pour les producteurs et les commerçants. Je ne suis pas certain que ce soit la bonne méthode."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Il faut agir sur le climat et je soutiens une loi qui va dans ce sens. La taxe sur les billets d'avion ne me dérange pas, mais je veux être sûr que les ménages modestes ne paient pas la facture."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.45,
+      "raison": "Le bien-être des animaux compte pour moi, mais avec une transition pouvant aller jusqu'à 25 ans et des exigences aussi strictes pour les importations, je me demande qui pourrait suivre sans fragiliser nos éleveurs. C'est un vote qui me laisse hésitant."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.7,
+      "oui_proba": 0.8,
+      "raison": "Zéro émission nette d'ici 2050 est un objectif qu'il faut tenir. Les aides pour remplacer les chauffages fossiles me parlent, c'est concret pour un ménage. Je vote oui sans trop d'hésitation."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.7,
+      "raison": "Protéger la nature et les paysages, je suis pour. Je me demande toutefois comment concilier ces surfaces avec les agriculteurs qui gèrent déjà beaucoup de terres, mais le principe me semble juste."
+    }
+  ]
+}

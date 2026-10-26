@@ -1,0 +1,25 @@
+{
+  "id": "p07",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.004, "partage_proba": 0.05, "raison": "Ce sont des affaires d'étudiants de l'EPFL à Lausanne, loin de mon quotidien à Meyrin, et la question de Palantir ne me touche pas."},
+    {"item_id": "pet02", "participe_proba": 0.14, "partage_proba": 0.12, "raison": "La chaleur de cet été dans mon immeuble m'a vraiment inquiétée, donc le thème me parle, mais je ne signe pas souvent une lettre ouverte adressée aux Chambres fédérales."},
+    {"item_id": "pet03", "participe_proba": 0.07, "partage_proba": 0.08, "raison": "Je suis plutôt opposée à cette initiative de l'UDC, mais je ne signe pas volontiers les campagnes en ligne d'organisations que je ne connais pas."},
+    {"item_id": "pet04", "participe_proba": 0.02, "partage_proba": 0.04, "raison": "Le conflit à Gaza et les querelles entre un député et une organisation sont trop polémiques et trop lointaines pour que je m'engage."},
+    {"item_id": "pet05", "participe_proba": 0.09, "partage_proba": 0.18, "raison": "Les jeunes qui consomment ce gaz m'inquiètent, et comme c'est une affaire genevoise, je la trouve plus concrète que les autres pétitions."},
+    {"item_id": "pet06", "participe_proba": 0.03, "partage_proba": 0.06, "raison": "Le texte est en anglais, que je lis mal, et il s'adresse aux caisses de pension sans que je voie en quoi cela change ma propre rente."},
+    {"item_id": "pet07", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Présentée comme un projet fictif, cette idée de caisses cantonales d'assurance maladie me laisse sceptique, même si les primes me pèsent beaucoup."},
+    {"item_id": "pet08", "participe_proba": 0.07, "partage_proba": 0.07, "raison": "L'avenir de l'AVS me préoccupe, mais je me méfie d'une proposition de jeunes qui touche à la durée de cotisation et à la fiscalité du cannabis et de l'alcool."},
+    {"item_id": "pet09", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Versoix n'est pas ma commune, et ce projet des anciens locaux Fust ne me concerne pas directement."},
+    {"item_id": "pet10", "participe_proba": 0.02, "partage_proba": 0.05, "raison": "Ce drame est très triste, mais je ne suis pas concernée par ce cas de figure et une pétition sur la maternité ne rejoint pas mon quotidien."},
+    {"item_id": "pet11", "participe_proba": 0.04, "partage_proba": 0.06, "raison": "La santé psychique me préoccupe, mais cette motion fédérale sur les procédures de la psychothérapie reste technique et lointaine pour moi."},
+    {"item_id": "pet12", "participe_proba": 0.01, "partage_proba": 0.03, "raison": "La ferme aux agrumes de Borex est sympathique, mais elle se trouve dans le canton de Vaud et je n'ai pas l'habitude de signer ce genre de demande locale."},
+    {"item_id": "pet13", "participe_proba": 0.04, "partage_proba": 0.05, "raison": "Les violences faites aux femmes me touchent, mais cette demande concerne le canton du Jura, où je n'habite pas."},
+    {"item_id": "pet14", "participe_proba": 0.02, "partage_proba": 0.04, "raison": "Le titre est accrocheur et la chaleur en ville m'affecte, mais ce tram concerne Lausanne, à l'autre bout du pays."},
+    {"item_id": "pet15", "participe_proba": 0.06, "partage_proba": 0.10, "raison": "Je suis sensible au sort des réfugiés, mais cette demande très précise sur les renvois vers le Burundi me semble trop spécialisée pour que je m'engage."},
+    {"item_id": "pet16", "participe_proba": 0.01, "partage_proba": 0.03, "raison": "La formation des jeunes en situation de handicap est un sujet important, mais je n'y suis pas concernée personnellement et le texte reste très technique."},
+    {"item_id": "pet17", "participe_proba": 0.18, "partage_proba": 0.35, "raison": "Les lunettes qui filment à l'insu des gens me font vraiment peur, surtout pour les femmes et les enfants dans les vestiaires, et je trouve l'interdiction urgente."},
+    {"item_id": "pet18", "participe_proba": 0.05, "partage_proba": 0.05, "raison": "Le constat climatique est juste, mais ce texte très général, avec six thèmes, ne me donne pas envie de signer une longue liste de mesures."},
+    {"item_id": "pet19", "participe_proba": 0.06, "partage_proba": 0.06, "raison": "Les forêts et les incendies me préoccupent, mais le débat sur les fonds fédéraux reste technique et je ne me sens pas assez concernée pour signer."},
+    {"item_id": "pet20", "participe_proba": 0.08, "partage_proba": 0.25, "raison": "La soumission chimique des femmes me révolte et j'aimerais que les victimes soient mieux protégées, mais la pétition reste abstraite et dépend d'institutions fédérales que je ne peux pas influencer."}
+  ]
+}

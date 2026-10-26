@@ -1,0 +1,65 @@
+{
+  "id": "p28",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Je n'avais aucune raison particulière d'aller à Sauvabelin et je suis peu les annonces de la Ville, donc ni le sondage ni l'atelier du samedi ne m'ont concerné."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.04,
+      "partage_proba": 0.06,
+      "raison": "Le vote se faisait seulement en ligne ou dans des urnes de quartier, je n'ai pas vu l'annonce et le projet ne me paraissait pas toucher mon quartier."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "Pendant la pandémie je restais prudent, les stands du marché ne m'attiraient pas et le vote en ligne ne m'intéressait pas assez pour que j'en parle autour de moi."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.05,
+      "raison": "Un sondage de cinq minutes sur le visage du quartier en 2030 aurait pu me plaire, mais je ne l'ai pas vu passer et les soirées demandaient de se déplacer."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.18,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin envoyé à domicile rend le vote facile et j'ai le temps, mais je ne suis pas sûr que la plupart des projets me concernent, donc j'en parlerais peut-être à la maison sans plus."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.04,
+      "partage_proba": 0.05,
+      "raison": "La circulation autour du lac m'intéresse un peu, mais je n'ai pas vu l'annonce du questionnaire et je n'en ai pas parlé autour de moi."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.17,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin à domicile et le vote en ligne rendent la chose simple, mais je reste peu attentif aux projets de quartier et je ne vote pas forcément à chaque édition."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "Le thème de cette consultation ne m'attire pas, je ne me sens pas visé par la question et je ne vois pas l'intérêt d'y répondre."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.2,
+      "partage_proba": 0.17,
+      "raison": "Le bulletin nominatif envoyé chez moi rend le vote très facile, mais beaucoup de propositions me paraissent surtout utiles aux quartiers qui se mobilisent, donc je ne le considère pas comme prioritaire."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.14,
+      "partage_proba": 0.1,
+      "raison": "Le bulletin préaffranchi à domicile me donne une vraie chance de voter, mais je ne vois pas bien ce que ces projets changent pour mon immeuble et je ne suis pas sûr de m'y mettre cette année."
+    }
+  ]
+}

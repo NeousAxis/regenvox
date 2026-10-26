@@ -1,0 +1,64 @@
+{
+  "id": "p17",
+  "portrait": "J'ai 36 ans et je vis à Vuadens depuis peu, dans un quartier de maisons récentes, avec mes enfants dont je m'occupe seul au quotidien. Je ne travaille pas pour l'instant, je gère la maison, les devoirs et les rendez-vous, et comme je suis étranger je ne vote pas aux fédérales. Ce qui me touche, ce sont l'école, le budget de la famille et la santé des enfants, pas vraiment les questions agricoles de la commune.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les agriculteurs, je les vois surtout passer avec leurs tracteurs sur la route, je ne sais pas trop ce qui leur coûte vraiment. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne connais pas le monde agricole de la commune",
+        "je ne me sens pas légitime sur un sujet qui concerne les paysans",
+        "pas de garde d'enfants pendant une réunion"
+      ],
+      "ce_qui_me_ferait_venir": "Une garde d'enfants sur place, une invitation écrite simplement, et des agriculteurs qui viennent raconter leur quotidien."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si je peux acheter des légumes du coin pour les enfants sans payer plus cher, pourquoi pas. »",
+      "engagement": 2,
+      "freins_participation": [
+        "le prix des produits bio, avec un budget serré",
+        "pas de voiture pour aller voir les fermes",
+        "le temps à trouver entre les rendez-vous des enfants"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres clairs sur ce que ça change pour mon panier et pour la cantine de l'école, et une ferme à côté de chez moi qui ouvre ses portes."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "« Mes enfants vont grandir ici, donc oui, je voudrais de bonnes terres, mais je ne me vois pas décider de ça. »",
+      "engagement": 1,
+      "freins_participation": [
+        "c'est un sujet trop large pour moi",
+        "je n'ai pas l'habitude de ce genre de débat",
+        "les soirées de réunion sont difficiles avec les enfants"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'on me montre concrètement le lien avec l'école et les repas des enfants, plutôt qu'une question sur trente ans."
+    },
+    {
+      "angle_id": 4,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Des reconnaissances pour les fermes, on en voit beaucoup de belles promesses, mais ça ne change pas grand-chose pour moi. »",
+      "engagement": 0,
+      "freins_participation": [
+        "je suis peu concerné directement",
+        "je me méfie des démarches décidées d'en haut",
+        "je n'ai pas de lien avec les exploitations"
+      ],
+      "ce_qui_me_ferait_venir": "Un exemple concret avec une ferme qui explique ce qu'elle fait et ce que ça lui rapporte réellement."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 10,
+    "role": "suiveur",
+    "cercle_type": "Quelques parents rencontrés à l'école et au parascolaire, deux ou trois voisins du quartier, et de la famille à l'étranger avec qui on parle surtout par téléphone. Peu de liens avec les agriculteurs ou les acteurs politiques locaux."
+  },
+  "votes": []
+}

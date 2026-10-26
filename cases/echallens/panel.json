@@ -1,0 +1,171 @@
+{
+ "univers": "résidents de Echallens âgés de 16 ans et plus (31.12.2025)",
+ "population_16_plus": {
+  "valeur": 5608,
+  "source": "OFS STATPOP 2025 (âges détaillés, px-x-0102010000_101)"
+ },
+ "tranches_age": [
+  {
+   "tranche": "16-24",
+   "min": 16,
+   "max": 24,
+   "part": 0.141,
+   "part_etrangers": 0.207
+  },
+  {
+   "tranche": "25-34",
+   "min": 25,
+   "max": 34,
+   "part": 0.168,
+   "part_etrangers": 0.352
+  },
+  {
+   "tranche": "35-44",
+   "min": 35,
+   "max": 44,
+   "part": 0.1692,
+   "part_etrangers": 0.331
+  },
+  {
+   "tranche": "45-54",
+   "min": 45,
+   "max": 54,
+   "part": 0.168,
+   "part_etrangers": 0.313
+  },
+  {
+   "tranche": "55-64",
+   "min": 55,
+   "max": 64,
+   "part": 0.1544,
+   "part_etrangers": 0.212
+  },
+  {
+   "tranche": "65-74",
+   "min": 65,
+   "max": 74,
+   "part": 0.0997,
+   "part_etrangers": 0.073
+  },
+  {
+   "tranche": "75+",
+   "min": 75,
+   "max": 92,
+   "part": 0.0997,
+   "part_etrangers": 0.077
+  }
+ ],
+ "source_age": "OFS STATPOP 2025, population par âge et nationalité",
+ "part_etrangers": {
+  "valeur": 0.249,
+  "source": "OFS STATPOP 2025"
+ },
+ "part_femmes": {
+  "valeur": 0.524,
+  "source": "OFS STATPOP 2025 (18 ans et plus)"
+ },
+ "agriculteurs": {
+  "part_16_plus": 0.0059,
+  "source": "OFS, relevé des structures agricoles 2025 (33 emplois agricoles dans la commune, assimilés à des résidents)",
+  "surechantillon": 4,
+  "age_min": 20,
+  "age_max": 70,
+  "part_bio": 0.03,
+  "orientation": "de grandes cultures et d'élevage",
+  "part_hommes": 0.758,
+  "part_suisses": 0.939
+ },
+ "activites_actifs": [
+  {
+   "activite": "ouvrier·ère ou technicien·ne dans l'industrie",
+   "part": 0.18
+  },
+  {
+   "activite": "artisan·e ou indépendant·e du bâtiment",
+   "part": 0.1
+  },
+  {
+   "activite": "employé·e de commerce, de bureau ou d'administration",
+   "part": 0.24
+  },
+  {
+   "activite": "professionnel·le de la santé, du social ou de l'éducation",
+   "part": 0.18
+  },
+  {
+   "activite": "employé·e de la vente, de la restauration ou du transport",
+   "part": 0.12
+  },
+  {
+   "activite": "cadre ou profession libérale",
+   "part": 0.12
+  },
+  {
+   "activite": "parent au foyer ou sans emploi",
+   "part": 0.06
+  }
+ ],
+ "source_activites": "hypothèse : les professions des résidents ne sont pas publiées à l'échelle de la commune ; répartition romande générique",
+ "partis": [
+  {
+   "parti": "PS",
+   "part": 0.2508
+  },
+  {
+   "parti": "PLR",
+   "part": 0.22
+  },
+  {
+   "parti": "UDC",
+   "part": 0.1763
+  },
+  {
+   "parti": "Les Vert-e-s",
+   "part": 0.1333
+  },
+  {
+   "parti": "Vert'libéraux",
+   "part": 0.103
+  },
+  {
+   "parti": "Le Centre",
+   "part": 0.0591
+  },
+  {
+   "parti": "POP ou solidaritéS",
+   "part": 0.0259
+  },
+  {
+   "parti": "un petit parti local",
+   "part": 0.0171
+  },
+  {
+   "parti": "PEV",
+   "part": 0.0089
+  },
+  {
+   "parti": "UDF",
+   "part": 0.0056
+  }
+ ],
+ "source_partis": "OFS, élections au Conseil national 2023, force des partis à Echallens (partis à 0,5 % et plus, renormalisés)",
+ "lieux_de_vie": [
+  {
+   "lieu": "centre du bourg",
+   "part": 0.45
+  },
+  {
+   "lieu": "quartier résidentiel",
+   "part": 0.45
+  },
+  {
+   "lieu": "hameau ou maison isolée",
+   "part": 0.1
+  }
+ ],
+ "hypotheses": [
+  "Les emplois agricoles situés dans la commune sont assimilés à des résidents actifs dans l'agriculture ; orientation des exploitations décrite de façon générique.",
+  "La répartition des activités professionnelles des résidents non agricoles est une hypothèse (donnée non publiée à l'échelle communale).",
+  "Lieux de vie dans la commune : hypothèse générique."
+ ]
+}

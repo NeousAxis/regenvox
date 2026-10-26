@@ -1,0 +1,29 @@
+{
+  "id": "p44",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Le coût de la contraception pèse surtout sur les jeunes et les petits budgets, mais financer tout cela sans condition de revenu pour une vingtaine de millions par an, contre l'avis du Conseil d'État, ne me convainc pas."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Je vois chaque jour les files vers la France, et une part suisse inférieure à la moitié des coûts me paraît raisonnable, même si le refus de 2014 me rend prudent sur l'argent public investi de l'autre côté de la frontière."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.6,
+      "raison": "Devenir propriétaire du logement qu'on occupe depuis des années me paraît juste, surtout avec un prix plafonné et des voisins protégés, mais je reste attentif au risque de voir disparaître des logements locatifs."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.6,
+      "raison": "La HES-SO forme des professionnels dont on a besoin et une baisse de 2 millions par an reste modeste, donc je pencherais pour le oui, sans trop m'intéresser au détail du financement."
+    }
+  ]
+}

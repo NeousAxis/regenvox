@@ -1,0 +1,64 @@
+{
+  "id": "p41",
+  "portrait": "J'ai 32 ans, je suis technicien dans une entreprise industrielle de la zone d'activités de Vuadens, et je vis au centre du village avec ma compagne et nos enfants. Je ne suis pas né en Suisse et je ne peux pas voter aux fédérales, donc les grandes décisions se prennent sans moi. Je ne suis pas paysan : le champ, je le vois surtout en passant en voiture.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Les agriculteurs qui se lèvent tôt doivent pouvoir vivre de leur travail, ça je suis d'accord. Mais le bio coûte souvent plus cher à produire et à vendre, alors je ne vois pas bien comment ça se passera pour eux. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je ne connais aucun agriculteur du village et je n'ai pas de raison de m'en mêler",
+        "mes horaires d'usine ne me laissent pas beaucoup de soirées libres",
+        "je ne suis pas sûr qu'on demande vraiment l'avis des gens comme moi"
+      ],
+      "ce_qui_me_ferait_venir": "Qu'un agriculteur de la commune m'explique en chiffres ce qu'il gagne aujourd'hui et ce que la conversion changerait pour sa famille."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 2,
+      "citation": "« Devenir partenaire d'une ferme, je ne vois pas très bien ce que ça veut dire concrètement pour une famille comme la mienne. On achète déjà ce qu'on peut, mais le bio pour toute la famille pèse sur le budget. »",
+      "engagement": 1,
+      "freins_participation": [
+        "le budget alimentaire d'une famille avec enfants ne laisse pas beaucoup de marge",
+        "un engagement régulier me semble trop lourd à tenir avec le travail",
+        "je ne sais pas à qui m'adresser ni comment ça fonctionne concrètement"
+      ],
+      "ce_qui_me_ferait_venir": "Une formule simple et sans obligation, où je vois ce que je paie et ce que ça apporte réellement à la ferme."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Pour mes enfants, j'aimerais qu'il reste des champs, de l'eau propre et des animaux dans le paysage. Mais je ne suis pas sûr que la commune se donne vraiment les moyens de garder tout ça. »",
+      "engagement": 2,
+      "freins_participation": [
+        "les réunions en soirée, après le travail et avec les enfants à la maison",
+        "le sentiment que mon avis compte moins parce que je ne peux pas voter",
+        "un débat trop théorique, sans conséquences concrètes pour nous"
+      ],
+      "ce_qui_me_ferait_venir": "Un atelier près de l'école ou une question en ligne courte, sur un sujet qui parle de la vie de nos enfants et pas seulement de l'agriculture."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les fermes, on les voit en passant, elles font partie du paysage. Mais une reconnaissance par toute la commune, c'est surtout un mot. Je ne vois pas ce qui changerait concrètement pour elles. »",
+      "engagement": 0,
+      "freins_participation": [
+        "ça ne me concerne pas directement",
+        "je ne vois pas à quoi servirait une reconnaissance sans aide concrète",
+        "je n'ai pas le temps de suivre ce genre de sujets"
+      ],
+      "ce_qui_me_ferait_venir": "Des actions visibles, comme des produits de ferme vendus au village ou des visites organisées, plutôt qu'une distinction affichée."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "suiveur",
+    "cercle_type": "collègues de l'entreprise, quelques couples de parents rencontrés à l'école, voisins du quartier, famille restée à l'étranger avec qui l'on parle surtout de la vie quotidienne ; peu de liens avec le monde agricole local"
+  },
+  "votes": []
+}

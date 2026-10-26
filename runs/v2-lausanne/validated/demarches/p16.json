@@ -1,0 +1,65 @@
+{
+  "id": "p16",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "À 34 ans, avec de jeunes enfants, je n'aurais pas fait l'effort d'un atelier un samedi après-midi, et je n'aurais probablement pas répondu à un sondage vu passer sur les réseaux sociaux, même si le lac me parle."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "À 36 ans, je n'ai pas entendu parler de ce premier budget participatif dans mon quartier, et je vote rarement sur ce type de consultation."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.05,
+      "raison": "À 37 ans, pendant le Covid, j'aurais pu voter sur un stand du marché que je croise le samedi, mais la campagne restait discrète et je n'aurais pas déposé de projet moi-même."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "À 37 ans, un sondage en ligne de cinq minutes sur mon quartier m'aurait intéressée, mais je l'aurais vu passer sans forcément le remplir pendant le confinement."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "À 38 ans, le bulletin préaffranchi envoyé à domicile rend le vote simple, je le retourne probablement sans m'engager davantage, et j'en parle parfois à mes collègues."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "À 38 ans, la fermeture des quais touche peu mon quotidien et je n'aurais probablement pas pris le temps de répondre à un questionnaire de quinze questions."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.09,
+      "raison": "À 39 ans, le bulletin reçu à domicile me permet de voter sans me déplacer, mais je ne le remplis que lorsque j'ai le temps, entre le travail et les enfants."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "À 39 ans, le sujet du racisme me touche, mais je n'ai pas vu la consultation passer et je réponds rarement à ce type de questionnaire, même si j'en aurais peut-être parlé autour de moi."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.11,
+      "partage_proba": 0.1,
+      "raison": "À 40 ans, le bulletin nominatif arrive chez nous et voter est devenu un réflexe familial, mais je ne porte pas de projet moi-même."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.07,
+      "raison": "À 42 ans, je reçois le bulletin, mais l'été avec les enfants me laisse peu de temps, donc je vote seulement si je tombe dessus, sans relayer la démarche."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "p24",
+  "reactions": [
+    {
+      "item_id": "gen07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.03,
+      "raison": "Mes horaires de travail rendent un atelier à 18h en semaine peu probable, et ce quartier ne me concerne pas directement, donc je n'ai sans doute même pas remarqué l'annonce."
+    }
+  ]
+}

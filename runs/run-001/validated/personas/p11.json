@@ -1,0 +1,112 @@
+{
+  "id": "p11",
+  "portrait": "Je suis une femme de 28 ans, de nationalité suisse, employée de commerce et de bureau, et j'élève seule mes enfants dans un quartier résidentiel récent de Vuadens. Mon quotidien tourne autour du travail, des horaires de l'école et des fins de mois qu'il faut bien calculer. Je suis sensible à l'environnement et proche des Vert-e-s, mais je n'ai ni le temps ni le réflexe de militer, et je vote surtout quand un sujet me touche directement.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Si les paysans gagnent correctement leur vie, le bio suit. Sans ça, on ne fera que des discours. »",
+      "engagement": 1,
+      "freins_participation": [
+        "je n'ai pas de temps en semaine avec mes enfants",
+        "je connais peu les agriculteurs de la commune",
+        "je ne sais pas si mon avis compte dans une démarche de ce type"
+      ],
+      "ce_qui_me_ferait_venir": "Une rencontre le soir ou le samedi matin, avec une garde d'enfants sur place, et des agriculteurs qui viennent expliquer concrètement leurs chiffres."
+    },
+    {
+      "angle_id": 2,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« J'achèterais volontiers à la ferme du coin plutôt qu'au supermarché, mais il faut que ça reste accessible pour une famille avec un seul salaire. »",
+      "engagement": 2,
+      "freins_participation": [
+        "le budget est serré et le bio reste cher",
+        "mes horaires de travail ne collent pas aux visites de fermes",
+        "les démarches administratives me découragent"
+      ],
+      "ce_qui_me_ferait_venir": "Des prix transparents, un point de vente facile d'accès depuis le quartier, et des visites de fermes organisées en famille."
+    },
+    {
+      "angle_id": 3,
+      "position": "porteur",
+      "intensite": 4,
+      "citation": "« Mes enfants vont vivre ici. Je veux qu'ils trouvent une campagne vivante et des sols qui tiennent la route. »",
+      "engagement": 2,
+      "freins_participation": [
+        "les grandes questions me paraissent abstraites",
+        "je n'ai pas le réflexe d'assister aux réunions communales",
+        "je ne sais pas comment me faire entendre"
+      ],
+      "ce_qui_me_ferait_venir": "Des questions concrètes sur la cantine, l'école, les espaces verts du quartier et les produits achetés pour les repas."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Une reconnaissance ne sert à rien si ça ne se voit ni dans l'assiette ni dans le prix. »",
+      "engagement": 1,
+      "freins_participation": [
+        "le sujet me paraît peu concret pour mon quotidien",
+        "une étiquette ou un label ne me convainc pas à lui seul"
+      ],
+      "ce_qui_me_ferait_venir": "Voir ce que ça change vraiment: une eau plus propre au robinet, des oiseaux et des fleurs dans les prairies, des produits locaux à la cantine."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Parents du quartier et de l'école, collègues de bureau, quelques amis sensibles à l'écologie; peu de liens directs avec le monde agricole."
+  },
+  "votes": [
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "Je votais peu à cet âge et je me sentais peu informée. Sur le fond, des aliments produits dans le respect de l'environnement et des animaux me semblent logiques, même si le prix des importations me préoccupe."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.3,
+      "oui_proba": 0.35,
+      "raison": "Je suis plutôt sensible au local, mais je trouve cette initiative trop rigide sur les frontières. Je crains une hausse des prix pour les familles comme la mienne."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.5,
+      "oui_proba": 0.8,
+      "raison": "Eau potable et alimentation saine, c'est direct pour mes enfants. Réserver les paiements directs aux fermes sans pesticides de synthèse ni antibiotiques préventifs me paraît juste."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.5,
+      "oui_proba": 0.85,
+      "raison": "Une Suisse sans pesticides de synthèse, avec dix ans de transition, c'est un objectif clair et réaliste à mes yeux. Je voterais oui, à condition que les paysans soient accompagnés."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Je suis pour agir sur le climat, mais une taxe sur les billets d'avion et une hausse des coûts de chauffage pèsent sur mon budget. Je serais probablement pour, avec des réserves sur les effets pour les ménages modestes."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.35,
+      "oui_proba": 0.7,
+      "raison": "La dignité des animaux de rente me touche, et l'exigence pour les importations me semble juste. En revanche, une transition de 25 ans me paraît longue, je n'ai pas un avis très tranché."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.6,
+      "oui_proba": 0.9,
+      "raison": "Zéro émission nette d'ici 2050 et des aides pour remplacer les chauffages fossiles, c'est un enjeu pour mes enfants. Je voterais oui sans hésiter."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.9,
+      "raison": "Mieux protéger la nature et les paysages correspond à ce que je vois autour de chez moi et à mes valeurs. Je voterais oui."
+    }
+  ]
+}

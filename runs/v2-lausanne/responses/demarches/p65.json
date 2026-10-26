@@ -1,0 +1,15 @@
+{
+  "id": "p65",
+  "reactions": [
+    {"item_id": "lau07", "participe_proba": 0.04, "partage_proba": 0.03, "raison": "En 2017 je ne fréquentais pas Sauvabelin et je n'ai pas vu l'annonce du sondage, donc je n'ai probablement rien rempli ni évoqué le sujet."},
+    {"item_id": "lau01", "participe_proba": 0.08, "partage_proba": 0.06, "raison": "Le vote demandait de passer en ligne ou de se déplacer jusqu'à une urne sans rappel à domicile, et le pilote était peu visible, donc je l'ai probablement laissé passer sauf si un projet de mon quartier m'avait été signalé."},
+    {"item_id": "lau02", "participe_proba": 0.09, "partage_proba": 0.06, "raison": "En 2020 le vote se faisait en ligne, en urne ou au marché sans bulletin reçu chez moi, et entre le Covid et la vie de famille je ne me suis sans doute pas mobilisé, donc le sujet n'a guère circulé autour de moi."},
+    {"item_id": "lau10", "participe_proba": 0.18, "partage_proba": 0.1, "raison": "Un sondage de cinq minutes sur mon quartier me parle et j'aurais pu le remplir si je l'avais vu passer, mais je ne suivais pas les annonces de la Ville et les soirées ou balades demandaient un temps que je n'avais pas."},
+    {"item_id": "lau03", "participe_proba": 0.25, "partage_proba": 0.18, "raison": "Le bulletin affranchi arrive directement dans la boîte aux lettres et le budget participatif rejoint mes idées pour le quartier, mais choisir au moins trois projets demande du temps et je ne suis pas sûr de le faire."},
+    {"item_id": "lau08", "participe_proba": 0.08, "partage_proba": 0.07, "raison": "Les quais d'Ouchy ne sont pas mes lieux habituels et je lis peu les communiqués de la Ville, donc ce questionnaire d'un mois m'a probablement échappé."},
+    {"item_id": "lau04", "participe_proba": 0.22, "partage_proba": 0.15, "raison": "Le bulletin préaffranchi à domicile rend la participation simple, mais je vote rarement sans y être poussé, et le dépôt de projets sur la plateforme ne me concernait pas directement."},
+    {"item_id": "lau09", "participe_proba": 0.06, "partage_proba": 0.07, "raison": "Le sujet me touche, mais je n'ai pas vu cette consultation ni les questionnaires papier déposés dans les maisons de quartier, et une démarche sans visée scientifique me motive peu."},
+    {"item_id": "lau05", "participe_proba": 0.28, "partage_proba": 0.22, "raison": "Le bulletin nominatif arrive pour toute la famille dès 4 ans, donc on vote souvent ensemble, mais le choix d'au moins trois projets prend du temps et tous ne m'enthousiasment pas."},
+    {"item_id": "lau06", "participe_proba": 0.2, "partage_proba": 0.14, "raison": "Le bulletin préaffranchi reste pratique, mais après plusieurs éditions ma motivation baisse et, entre le travail et les enfants, je ne vote pas forcément à chaque fois."}
+  ]
+}

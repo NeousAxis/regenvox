@@ -1,0 +1,143 @@
+{
+  "id": "p18",
+  "portrait": "Je suis retraitée, j'ai 75 ans et je vis en couple dans une maison isolée, à l'écart du village de Vuadens, nos enfants sont partis depuis longtemps. Je suis suisse et proche de l'UDC, par attachement à notre pays, à nos paysans et à la liberté de chacun de travailler sans qu'on lui impose des règles venues d'en haut. Je m'intéresse à ce qui se passe au village, mais les grands projets de la commune me semblent souvent décidés sans nous.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Nos paysans travaillent dur, ils doivent pouvoir vivre de leur travail. Si le bio les fait mieux gagner, très bien, mais qu'on ne leur impose rien. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne sais pas concrètement comment ça se passe dans les fermes aujourd'hui",
+        "Ces réunions finissent souvent en discours, sans décisions",
+        "Je ne me déplace pas facilement le soir"
+      ],
+      "ce_qui_me_ferait_venir": "Que des agriculteurs du village en parlent eux-mêmes et montrent les chiffres : ce que la ferme gagne, ce qu'elle investit, ce que ça change pour la famille."
+    },
+    {
+      "angle_id": 2,
+      "position": "reticent",
+      "intensite": 3,
+      "citation": "« Être partenaire d'une ferme, qu'est-ce que ça veut dire ? Payer plus cher le fromage ? Je regarde déjà chaque franc quand je fais mes courses. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Le coût : je n'ai pas envie de payer davantage pour des produits qu'on trouve déjà à la fromagerie",
+        "Je ne vois pas bien le rôle d'une commune là-dedans",
+        "Je me méfie des démarches qui parlent des habitants alors qu'on ne demande jamais l'avis des paysans"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de précis. Il faudrait me démontrer que ça ne me coûte pas plus cher et que ce sont les agriculteurs qui décident."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "« Je pense à mes petits-enfants, bien sûr, qu'ils aient de bonnes terres et de l'eau propre. Mais ce sont les paysans qui savent faire, pas les grands discours. »",
+      "engagement": 1,
+      "freins_participation": [
+        "Les questions trop larges me semblent vagues, on tourne en rond",
+        "Je ne suis plus active dans l'agriculture et je n'ai pas de légitimité pour donner un avis technique",
+        "Je n'irai pas à une soirée d'information si personne de mon entourage n'y va"
+      ],
+      "ce_qui_me_ferait_venir": "Une discussion au village, organisée avec les paysans et avec des gens de mon âge, sans qu'on nous fasse la leçon."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "« Les paysans nourrissent le pays, ils sont déjà reconnus. Je ne vois pas pourquoi il faudrait encore un label ou une liste de mérites. »",
+      "engagement": 0,
+      "freins_participation": [
+        "Je n'ai pas l'impression que la question me concerne directement",
+        "Trop de labels et de normes finissent par coûter cher aux agriculteurs",
+        "Je lis peu les publications communales"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de particulier, à moins qu'une famille de paysans du village me demande directement mon avis."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 12,
+    "role": "relai",
+    "cercle_type": "Voisinage immédiat du hameau, quelques familles d'agriculteurs connues de longue date, anciennes et anciens de la société locale et de la paroisse, et famille éloignée restée dans la région."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Les résidences secondaires font monter le prix des terrains, on ne retrouve plus rien pour nos enfants, mais je ne suis pas sûre que cette initiative règle le problème."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "La terre doit servir à ceux qui la travaillent, et les limites à la construction me touchent directement dans mon village. Je serais contre."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.45,
+      "oui_proba": 0.1,
+      "raison": "Une économie plus verte, d'accord, mais pas avec des interdictions et des contraintes qui coûtent aux gens et aux entreprises."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Je n'ai pas envie qu'on ferme des centrales sans savoir par quoi les remplacer. La Suisse doit garder son énergie."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "La loi sur l'énergie ferait payer les gens et les paysans sans garantir l'approvisionnement."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Manger mieux, je suis d'accord, mais on ne peut pas tout imposer aux importations, ça complique la vie de nos producteurs."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.6,
+      "oui_proba": 0.75,
+      "raison": "Des paysans chez nous, une agriculture suisse, c'est ce qu'il faut défendre. Je vote oui à la souveraineté alimentaire."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je ne veux pas qu'on conditionne les paiements directs à des règles de culture imposées par la Confédération."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.65,
+      "oui_proba": 0.2,
+      "raison": "Interdire les produits de synthèse, c'est moins de rendement et des denrées plus chères. Les paysans ne sont pas des pollueurs."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.15,
+      "raison": "Taxer l'essence, le mazout et les billets d'avion, les gens des villages sont obligés de rouler. Je vote non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.55,
+      "oui_proba": 0.3,
+      "raison": "Le bien-être des animaux, on y tient, mais l'initiative veut tout imposer aux paysans et aux importations. Je serais réticente."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.55,
+      "oui_proba": 0.2,
+      "raison": "Zéro émission en 2050 est un objectif lointain, mais la loi va coûter cher aux ménages et aux entreprises. Je voterais non."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.5,
+      "oui_proba": 0.3,
+      "raison": "Protéger la nature, d'accord, mais pas au détriment des terres agricoles qu'on transforme en réserves. Les paysans sont déjà les premiers protecteurs."
+    }
+  ]
+}

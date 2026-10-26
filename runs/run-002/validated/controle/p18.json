@@ -1,0 +1,17 @@
+{
+  "id": "p18",
+  "reaction": {
+    "position": "reticent",
+    "intensite": 3,
+    "citation": "Dix ans, ça passe vite. Moi je suis seul sur l'exploitation, mes vaches sont sur l'herbe, mais personne ne m'a dit qui paiera mon lait en bio à un prix qui tient. La commune peut fixer l'objectif qu'elle veut, c'est le prix du lait qui décide.",
+    "engagement": 1,
+    "freins_participation": [
+      "Je suis seul sur la ferme et le travail quotidien prend déjà tout mon temps, je n'ai pas de marge pour une conversion en plus",
+      "Aucune garantie de prix du lait bio à la fromagerie, et le passage peut faire baisser le rendement en herbage pendant les premières années",
+      "Le Conseil communal fixe un objectif sans nous consulter, les décisions viennent d'en haut comme souvent",
+      "La charge administrative et les contrôles supplémentaires de la certification bio, pour un revenu qui reste incertain",
+      "Je ne vois pas ce que la commune apporte concrètement, à part une phrase dans un bulletin"
+    ],
+    "ce_qui_me_ferait_venir": "Un atelier sur place, à la fromagerie ou au hameau, avec des éleveurs bio de la région qui montrent leurs chiffres réels, et une proposition écrite de prix du lait bio garanti sur plusieurs années. Un appui pour la relève et un vrai échange avant la décision me feraient venir, mais pas un simple courrier."
+  }
+}

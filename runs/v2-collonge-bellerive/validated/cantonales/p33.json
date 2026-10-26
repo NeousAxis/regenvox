@@ -1,0 +1,29 @@
+{
+  "id": "p33",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "À 46 ans je ne suis plus directement concernée par la contraception, et 20 millions de plus par an payés par tout le monde me paraissent trop vite décidés, donc je suis plutôt contre, comme les Vert'libéraux, même si je comprends que certaines jeunes femmes n'ont pas les moyens."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.55,
+      "oui_proba": 0.7,
+      "raison": "Le matin, la file au pont et les bus bondés font partie de notre quotidien, alors 15 000 voitures en moins par jour me convainc, même si la part suisse reste sous la moitié et que le refus de 2014 traîne encore dans les esprits."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.6,
+      "oui_proba": 0.55,
+      "raison": "Je ne suis pas sûre de pouvoir un jour acheter mon logement, mais l'idée qu'un locataire qui habite là depuis trois ans puisse devenir propriétaire me plaît, malgré la peur des congés-ventes que l'ASLOCA agite."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.65,
+      "raison": "Les Vert'libéraux soutiennent l'accord et la HES forme beaucoup de gens de la région, donc je vote oui, les 2 millions de moins par an me paraissent un petit ajustement après la hausse des taxes d'études."
+    }
+  ]
+}

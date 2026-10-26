@@ -1,0 +1,29 @@
+{
+  "id": "p15",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Les jeunes ont sans doute du mal à payer leur contraception, mais à 86 ans je ne me sens pas concernée, et les Vert'libéraux, dont je me sens proche, refusent une prise en charge générale qui coûterait encore 20 millions à l'Etat."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.65,
+      "oui_proba": 0.75,
+      "raison": "Les bouchons à la frontière nous gênent depuis longtemps à Onex, et les Vert'libéraux soutiennent ces transports même si une partie de l'argent part en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.75,
+      "oui_proba": 0.4,
+      "raison": "Je suis locataire et je crains que les congés-ventes poussent des personnes âgées hors de leur logement, donc je reste prudente malgré l'idée de devenir propriétaire."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.7,
+      "raison": "Mes enfants ont fait leurs études et la haute école de la région compte, une baisse de 2 millions reste modeste, et je fais confiance au Conseil d'Etat et aux Vert'libéraux."
+    }
+  ]
+}

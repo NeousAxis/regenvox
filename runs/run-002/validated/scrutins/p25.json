@@ -1,0 +1,95 @@
+{
+  "id": "p25",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0.75,
+      "oui_proba": 0.75,
+      "raison": "Une armée capable de défendre le pays me paraît nécessaire, et le renouvellement des avions me semble logique. Le financement par le budget de l'armée ne me choque pas, même si je reste attentive aux dépenses publiques."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.6,
+      "oui_proba": 0.35,
+      "raison": "Le mariage compte pour moi et je n'aime pas qu'il soit pénalisé sur le plan fiscal, mais inscrire une définition du couple dans la Constitution me paraît inutile. Je pencherais pour le non, car chacun doit pouvoir vivre sa vie de couple comme il l'entend."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.9,
+      "oui_proba": 0.6,
+      "raison": "L'AVS est la base de ma retraite et il faut la financer pour qu'elle tienne. La hausse de la TVA me gêne un peu, mais je trouve le compromis raisonnable."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à la démocratie et à la stabilité du droit, et nos accords avec les autres pays facilitent beaucoup notre vie économique. Mettre la Constitution au-dessus du droit international et dénoncer des traités me paraît risqué, donc je voterais non."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.9,
+      "oui_proba": 0.15,
+      "raison": "L'économie de la commune dépend de la main-d'œuvre et des échanges avec l'Union européenne, et beaucoup de nos voisins travaillent ici. Je ne veux pas mettre cela en danger, donc je voterais non."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.8,
+      "oui_proba": 0.6,
+      "raison": "Notre défense aérienne doit être assurée, et le renouvellement de la flotte me paraît logique. Le montant est élevé, mais le choix du modèle reste au Conseil fédéral, donc je suis plutôt pour."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.5,
+      "oui_proba": 0.12,
+      "raison": "La recherche médicale nous a beaucoup apporté, et je fais confiance à une science encadrée. Interdire les essais sur l'humain et l'importation de nouveaux produits me paraît excessif, et je ne suis pas sûre de me déplacer pour ce sujet."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Je respecte le travail des éleveurs du village et je ne veux pas que l'État leur impose des normes supplémentaires ni qu'il restreigne les importations par des cahiers des charges. Le bien-être des animaux progresse déjà, donc je voterais non."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.6,
+      "raison": "L'AVS doit rester solide pour les générations qui suivent, et la réforme AVS 21 a été conçue pour cela. La hausse de la TVA reste modérée et les mesures pour les femmes me paraissent justes, donc je voterais oui."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.9,
+      "oui_proba": 0.45,
+      "raison": "La neutralité fait partie de notre identité et je tiens beaucoup à elle. Je trouve toutefois que l'initiative la rigidifie trop, surtout en interdisant certaines sanctions, et je suis hésitante."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.85,
+      "oui_proba": 0.3,
+      "raison": "Je comprends le souci d'une alimentation indigène et d'une eau propre, qui touche directement le village. Mais je ne veux pas que l'État fixe des objectifs chiffrés aux paysans ni qu'il réduise les produits animaux, car le lait et la fromagerie de la commune en souffriraient, donc je voterais non."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.85,
+      "oui_proba": 0.6,
+      "raison": "Je touche ma rente AVS et je sais combien la 13e rente compte pour les retraités qui vivent seuls. La TVA ne touche ni les denrées alimentaires ni les médicaments, ce qui me rassure, donc je voterais oui, même si j'aurais préféré plus d'économies."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.55,
+      "oui_proba": 0.4,
+      "raison": "Les pétards me dérangent la nuit et je pense aux animaux, surtout dans une commune rurale. Mais je n'aime pas qu'on interdise ce qui relève du choix de chacun, et je préférerais que les communes décident, donc je suis partagée."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.7,
+      "oui_proba": 0.2,
+      "raison": "Le peuple vient de choisir l'imposition individuelle en mars, et je trouve juste que chacun soit imposé selon ce qu'il gagne. Cette initiative ne me concerne pas directement, car je vis seule, donc je voterais probablement non."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.6,
+      "oui_proba": 0.65,
+      "raison": "Des entreprises d'armement qui peuvent exporter dans les mêmes conditions que nos voisins européens me paraissent logiques pour l'emploi et l'économie. Je reste attentive à la neutralité, mais les garanties prévues me rassurent, donc je voterais oui."
+    }
+  ]
+}

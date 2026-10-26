@@ -1,0 +1,29 @@
+{
+  "id": "p15",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "Je paie déjà mes primes d'assurance et je ne vois pas pourquoi l'État paierait la contraception alors que chacun doit se débrouiller, même si je comprends que ça coûte cher quand on est jeune."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.35,
+      "oui_proba": 0.3,
+      "raison": "On paierait des bus et des trams en France alors qu'ici on passe déjà des heures dans les bouchons et que les frontaliers prennent des places, donc je ne suis pas convaincu, même si la circulation doit vraiment changer."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.45,
+      "oui_proba": 0.4,
+      "raison": "Pouvoir acheter l'appartement où j'habite avec mes enfants serait bien, mais avec les 5 ans d'occupation obligatoires et la peur des congés-ventes, je me méfie, et de toute façon je ne suis pas certain d'avoir les moyens."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.3,
+      "oui_proba": 0.6,
+      "raison": "Ça ne me touche pas directement, mais mon parti dit oui et je ne vois pas l'intérêt de rogner la formation pour quelques millions, donc je voterais probablement oui sans trop y penser."
+    }
+  ]
+}

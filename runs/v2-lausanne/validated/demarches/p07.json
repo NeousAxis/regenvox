@@ -1,0 +1,65 @@
+{
+  "id": "p07",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Adolescente à l'époque, je n'ai pas suivi cette consultation sur les établissements du lac, même si je passais parfois à Sauvabelin en famille."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Premier budget participatif, peu annoncé, et à 16 ans je n'avais ni le réflexe ni l'envie de voter pour des projets de quartier, même si mes parents en ont peut-être parlé."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Pendant la crise sanitaire je suivais surtout mes cours à distance, et je ne me suis pas mobilisée pour un vote dont je connaissais mal les projets."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Un sondage de cinq minutes sur l'avenir des quartiers aurait pu m'intéresser, mais je ne l'ai ni vu passer ni rempli, et les soirées d'information ne me concernaient pas."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.1,
+      "raison": "C'est mon premier vote en tant que majeure et le bulletin posté à la maison facilite le geste, mais je ne suis pas sûre d'avoir examiné les projets de près."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.02,
+      "partage_proba": 0.03,
+      "raison": "Je ne fréquente pas beaucoup les quais d'Ouchy ou de Belgique, et un questionnaire en ligne sur leur fermeture ne m'a pas attirée."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin nominatif m'est parvenu à mon nom, ce qui pousse à voter, mais je prends rarement le temps de comparer les projets en détail."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Un questionnaire municipal sur le racisme ne m'a pas incitée à répondre, et si le sujet est revenu, c'était surtout en famille, sans grand enthousiasme."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.1,
+      "partage_proba": 0.12,
+      "raison": "Le bulletin nominatif envoyé dès 4 ans et le vote en ligne rendent la participation facile, mais l'envie reste faible et j'en ai parlé surtout quand le courrier est arrivé."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.09,
+      "partage_proba": 0.08,
+      "raison": "Le bulletin reçu à domicile est simple à renvoyer, mais entre ma formation et mes soirées je ne prends pas toujours le temps de voter pour des projets de quartier."
+    }
+  ]
+}

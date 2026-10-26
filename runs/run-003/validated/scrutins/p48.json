@@ -1,0 +1,95 @@
+{
+  "id": "p48",
+  "votes": [
+    {
+      "vote_id": "a2014-gripen",
+      "participe_proba": 0,
+      "oui_proba": 0.7,
+      "raison": "J'avais 17 ans, je n'avais pas encore le droit de voter. Si j'avais pu, j'aurais sans doute soutenu l'achat de nouveaux avions pour notre armée."
+    },
+    {
+      "vote_id": "a2016-couple",
+      "participe_proba": 0.3,
+      "oui_proba": 0.15,
+      "raison": "Je vis seule et je ne suis pas concernée par l'impôt sur le couple. Je ne pense pas que la Constitution doive définir le mariage, et l'État doit rester sobre sur ces questions."
+    },
+    {
+      "vote_id": "a2017-avs-tva",
+      "participe_proba": 0.35,
+      "oui_proba": 0.5,
+      "raison": "La TVA me gêne, mais l'AVS a besoin d'argent et le compromis me paraît acceptable. Je suis partagée, donc je ne me déplacerais peut-être pas."
+    },
+    {
+      "vote_id": "a2018-autodetermination",
+      "participe_proba": 0.45,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à la souveraineté et à la décision du peuple, mais primer la Constitution sur le droit international mettrait en danger nos entreprises exportatrices. Je reste plutôt contre."
+    },
+    {
+      "vote_id": "a2020-limitation",
+      "participe_proba": 0.6,
+      "oui_proba": 0.12,
+      "raison": "Nos entreprises ont besoin du personnel et de marchés ouverts avec l'Europe, et je vois ce que la libre circulation apporte dans l'industrie. Mettre fin aux accords bilatéraux me paraît une très mauvaise idée."
+    },
+    {
+      "vote_id": "a2020-avions",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Une armée qui tient la route me paraît nécessaire, donc je suis plutôt pour renouveler les avions. Six milliards restent une somme importante, et je ne suis pas sûre qu'on en ait vraiment besoin."
+    },
+    {
+      "vote_id": "a2022-experimentation",
+      "participe_proba": 0.4,
+      "oui_proba": 0.25,
+      "raison": "Je comprends le souci de protéger les animaux, mais interdire toute recherche médicale sur l'humain me paraît excessif. Les progrès de la médecine comptent aussi, et l'État ne doit pas tout interdire."
+    },
+    {
+      "vote_id": "a2022-elevage",
+      "participe_proba": 0.45,
+      "oui_proba": 0.25,
+      "raison": "Je vois des fermes et des prairies autour du village, et les éleveurs font leur travail. Imposer un cahier des charges proche de Bio Suisse à toute l'agriculture, importations comprises, me paraît une contrainte de l'État de plus."
+    },
+    {
+      "vote_id": "a2022-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.55,
+      "raison": "L'AVS doit être financée, et l'âge de référence des femmes fixé à 65 ans me paraît juste. La hausse de la TVA reste une charge, mais je préfère ce compromis à un déficit."
+    },
+    {
+      "vote_id": "h2026-neutralite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Je suis attachée à la neutralité, mais une neutralité armée et perpétuelle, avec interdiction des sanctions, m'inquiète pour l'économie et nos relations avec l'Europe. Il faut garder de la souplesse."
+    },
+    {
+      "vote_id": "h2026-alimentation",
+      "participe_proba": 0.55,
+      "oui_proba": 0.35,
+      "raison": "Produire davantage chez nous me paraît bien, et il y a beaucoup de champs autour de Vuadens. Mais imposer 70 % d'indigène et moins de produits animaux serait une contrainte de l'État qui pèserait sur les éleveurs d'ici, donc je suis plutôt réservée."
+    },
+    {
+      "vote_id": "p2026-avs-tva",
+      "participe_proba": 0.5,
+      "oui_proba": 0.2,
+      "raison": "La 13e rente a déjà été acceptée, mais la financer par la TVA crée une nouvelle charge pour tout le monde, alors que l'État doit rester sobre. Je ne suis pas d'accord avec cette hausse."
+    },
+    {
+      "vote_id": "p2026-feux",
+      "participe_proba": 0.45,
+      "oui_proba": 0.42,
+      "raison": "Les pétards très bruyants gênent les gens et les animaux, et je trouve ça agaçant au Nouvel An. Mais une interdiction nationale reste une règle de plus, donc je suis partagée et je pencherais plutôt pour le non."
+    },
+    {
+      "vote_id": "p2026-couples",
+      "participe_proba": 0.45,
+      "oui_proba": 0.2,
+      "raison": "Le peuple vient d'accepter l'imposition individuelle, et je la trouve plus juste pour tout le monde. Revenir à l'imposition commune désavantagerait les célibataires comme moi et coûterait cher à l'État."
+    },
+    {
+      "vote_id": "p2026-materiel-guerre",
+      "participe_proba": 0.45,
+      "oui_proba": 0.6,
+      "raison": "Dans l'industrie, je vois que des règles d'exportation trop strictes peuvent freiner les entreprises. Des règles plus souples me paraissent raisonnables, pour autant que la neutralité soit respectée."
+    }
+  ]
+}

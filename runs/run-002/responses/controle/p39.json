@@ -1,0 +1,16 @@
+{
+  "id": "p39",
+  "reaction": {
+    "position": "interesse",
+    "intensite": 3,
+    "citation": "Je suis pour le bio, mais on ne peut pas décréter une conversion sans dire qui paie les fermes qui la font.",
+    "engagement": 2,
+    "freins_participation": [
+      "Je n'ai pas de terres, donc mon action passe surtout par mes achats et mes choix de consommation",
+      "Mon temps est serré entre mon travail auprès des familles et des personnes âgées",
+      "Le prix des produits bio pèse vite quand on vit seule",
+      "Je n'ai pas vu de plan clair ni de chiffres de la commune pour les paysans de Vuadens"
+    ],
+    "ce_qui_me_ferait_venir": "Un calendrier concret avec des étapes, un soutien financier et technique réel aux exploitations pendant la conversion, et des rencontres en soirée près de chez nous, par exemple un marché de producteurs au village ou un atelier de cuisine de saison."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p56",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.01,
+      "partage_proba": 0.02,
+      "raison": "À 12 ans, je ne suis pas concernée par un sondage sur les établissements du lac et je n'en entends pas parler à la maison."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Ce premier budget participatif est très peu relayé et j'ai 14 ans, donc je ne vote pas et je n'en parle guère."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "En pleine pandémie, l'appel au vote est noyé dans l'actualité et à 15 ans je n'ai ni vote ni discussion à avoir sur ce sujet."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.03,
+      "partage_proba": 0.03,
+      "raison": "Un sondage en ligne sur le plan d'affectation n'attire pas une jeune de 15 ans, et je ne vois pas d'intérêt à en parler."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.12,
+      "partage_proba": 0.15,
+      "raison": "Le bulletin affranchi arrive au foyer et le vote est facile, mais à 16 ans je ne me sens pas concernée par les projets de quartier et je n'en parle que si la famille s'en mêle."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Les quais me concernent un peu, mais ce questionnaire n'est annoncé que sur le site de la Ville et je réponds rarement à ce genre d'enquête, même si j'en discuterais avec des amies."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.1,
+      "partage_proba": 0.14,
+      "raison": "Le bulletin nominatif arrive à domicile et le vote reste simple, mais je n'ai pas déposé de projet et l'appel reste discret pour une jeune de 17 ans."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.04,
+      "partage_proba": 0.09,
+      "raison": "Le thème du racisme me touche en tant qu'étrangère, mais la consultation était surtout sur papier, dans des lieux que je fréquente peu, et je ne l'ai pas vue passer."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.16,
+      "raison": "À 18 ans, je peux voter avec le bulletin nominatif reçu au foyer, mais les projets de quartier ne me mobilisent pas et je n'en parle que si un proche s'y intéresse."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.1,
+      "partage_proba": 0.1,
+      "raison": "À 19 ou 20 ans, je vis plus en autonomie et le bulletin peut arriver chez nous, mais l'appel n'est pas relayé autour de moi et je ne vois pas de raison d'en parler."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "p48",
+  "reactions": [
+    {
+      "item_id": "lau07",
+      "participe_proba": 0.012,
+      "partage_proba": 0.02,
+      "raison": "Je ne fréquente pas le lac de Sauvabelin, l'annonce ne serait sans doute pas parvenue jusqu'à moi et un atelier le samedi après-midi ne rentre pas dans ma semaine."
+    },
+    {
+      "item_id": "lau01",
+      "participe_proba": 0.018,
+      "partage_proba": 0.015,
+      "raison": "Premier budget participatif très peu relayé, je n'ai probablement pas remarqué le vote d'automne 2019 et aucun projet de quartier ne m'a semblé assez concret pour que je me mobilise."
+    },
+    {
+      "item_id": "lau02",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Pendant la pandémie et un vote qui s'étend sur plusieurs semaines, je n'ai sans doute pas pris le temps de choisir trois projets, même si le vote en ligne ne demande que quelques minutes."
+    },
+    {
+      "item_id": "lau10",
+      "participe_proba": 0.06,
+      "partage_proba": 0.03,
+      "raison": "Un sondage en ligne de cinq minutes sur mon quartier me tenterait peut-être, mais je l'aurais vu passer sans l'ouvrir, et la plupart des consultations communales restent sans réponse de ma part."
+    },
+    {
+      "item_id": "lau03",
+      "participe_proba": 0.08,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin affranchi arrive dans ma boîte aux lettres et je le remplirais peut-être une fois, mais il rejoint souvent la pile de courrier que je range sans voter."
+    },
+    {
+      "item_id": "lau08",
+      "participe_proba": 0.025,
+      "partage_proba": 0.02,
+      "raison": "Je fréquente peu les quais d'Ouchy et de Belgique, le questionnaire sur leur fermeture ne me concerne guère et je ne l'aurais probablement pas vu passer."
+    },
+    {
+      "item_id": "lau04",
+      "participe_proba": 0.07,
+      "partage_proba": 0.04,
+      "raison": "Je n'ai pas de projet à déposer et le bulletin nominatif m'attend dans la boîte aux lettres, que je remplis parfois sans en faire une habitude."
+    },
+    {
+      "item_id": "lau09",
+      "participe_proba": 0.05,
+      "partage_proba": 0.04,
+      "raison": "Le thème du racisme me touche de près en tant que personne étrangère, mais la consultation a été peu annoncée et je n'en ai probablement pas entendu parler."
+    },
+    {
+      "item_id": "lau05",
+      "participe_proba": 0.09,
+      "partage_proba": 0.05,
+      "raison": "Le bulletin nominatif m'est adressé comme à toute la population dès 4 ans et le vote en ligne est simple, mais la campagne reste discrète et choisir trois projets me décourage souvent."
+    },
+    {
+      "item_id": "lau06",
+      "participe_proba": 0.08,
+      "partage_proba": 0.04,
+      "raison": "Le vote d'août à septembre 2025 demande une démarche que je n'ai probablement pas faite, malgré le bulletin reçu à domicile et le vote en ligne, faute d'un déclencheur précis."
+    }
+  ]
+}

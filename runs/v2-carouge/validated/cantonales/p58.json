@@ -1,0 +1,29 @@
+{
+  "id": "p58",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.75,
+      "oui_proba": 0.92,
+      "raison": "Dans les soins, je vois chaque jour ce que coûte une contraception mal remboursée, et les Vert-e-s comme le PS la défendent : je vote oui, malgré la recommandation de non du Conseil d'État."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Les bouchons à la frontière et la pollution de l'Arve me gênent, alors un financement des bus et du tram qui retire des voitures de la route me paraît juste, même si les projets sont en France."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.65,
+      "oui_proba": 0.12,
+      "raison": "Vendre les appartements aux locataires en place ouvre la porte aux congés-ventes et réduit les logements locatifs abordables, ce que l'ASLOCA et les Vert-e-s dénoncent, donc je dis non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.5,
+      "oui_proba": 0.35,
+      "raison": "Je sais ce que la HES forme pour le social, la santé et l'éducation, mais avec 2 millions en moins et les Vert-e-s qui demandent de maintenir 35 millions, je penche pour le non."
+    }
+  ]
+}

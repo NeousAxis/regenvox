@@ -1,0 +1,140 @@
+{
+  "id": "p42",
+  "portrait": "J'ai 62 ans et je tiens l'exploitation familiale de Vuadens : des vaches laitières sur les herbages, toujours en production conventionnelle. Je vis au hameau avec ma compagne, nos enfants sont partis faire leur vie ailleurs, et je ne me range pas dans un camp politique. Je vais voter quand le sujet me touche, mais je me méfie des idées qui viennent de la ville ou de Berne sans que ceux qui travaillent la terre aient été consultés.",
+  "reactions": [
+    {
+      "angle_id": 1,
+      "position": "reticent",
+      "intensite": 4,
+      "citation": "Vivre de notre travail, c'est la base, mais devenir promoteur du bio, ça veut dire changer toute la ferme sans savoir si le lait se vendra mieux.",
+      "engagement": 1,
+      "freins_participation": [
+        "Pas le temps en pleine saison de foin et de traite",
+        "Méfiance envers les projets qui arrivent de la commune ou de l'État",
+        "Aucune garantie de prix pour le lait bio"
+      ],
+      "ce_qui_me_ferait_venir": "Des chiffres précis sur le revenu d'une ferme qui passe au bio dans la région, présentés par un agriculteur qui l'a fait et qui en parle franchement."
+    },
+    {
+      "angle_id": 2,
+      "position": "interesse",
+      "intensite": 2,
+      "citation": "Que les gens d'ici achètent local, je veux bien, mais au supermarché j'ai souvent vu qu'on prend le moins cher.",
+      "engagement": 1,
+      "freins_participation": [
+        "Je ne vois pas de débouché direct pour mon lait ou mes veaux",
+        "Les habitants viennent rarement aux séances organisées au village"
+      ],
+      "ce_qui_me_ferait_venir": "Une offre concrète, par exemple des clients qui achètent directement à la ferme à un prix correct, avec une visite des bêtes sur place."
+    },
+    {
+      "angle_id": 3,
+      "position": "interesse",
+      "intensite": 3,
+      "citation": "La relève, je me la pose tous les jours : mes enfants sont partis et je ne sais pas qui reprendra la ferme dans dix ans.",
+      "engagement": 2,
+      "freins_participation": [
+        "Je ne crois pas qu'un atelier change quoi que ce soit à la relève",
+        "Il faudrait des mesures concrètes sur le foncier et les bâtiments, pas seulement des discussions"
+      ],
+      "ce_qui_me_ferait_venir": "Que la commune s'engage sur l'accès à la terre et sur l'aide aux jeunes qui veulent reprendre une exploitation, avec des réponses concrètes plutôt que de belles phrases."
+    },
+    {
+      "angle_id": 4,
+      "position": "indifferent",
+      "intensite": 2,
+      "citation": "La reconnaissance, honnêtement, je m'en moque un peu : je veux surtout qu'on me laisse produire mon lait.",
+      "engagement": 0,
+      "freins_participation": [
+        "Une commune qui parle de nos sols sans venir voir nos prairies",
+        "Je n'ai pas besoin d'un label communal pour savoir ce que je fais"
+      ],
+      "ce_qui_me_ferait_venir": "Rien de particulier, sauf si on demande aux agriculteurs ce qu'ils font déjà avant de dire ce qu'il faudrait faire."
+    }
+  ],
+  "influence": {
+    "taille_cercle": 30,
+    "role": "relai",
+    "cercle_type": "Famille proche (compagne, enfants partis mais en contact régulier), agriculteurs voisins avec qui on s'entraide pour les machines et les remplacements, quelques membres de la fromagerie villageoise et de la société locale, clients directs de la ferme. Pas de cercle militant ni associatif engagé sur le bio."
+  },
+  "votes": [
+    {
+      "vote_id": "e2012-residences",
+      "participe_proba": 0.45,
+      "oui_proba": 0.35,
+      "raison": "Chez nous il n'y a pas beaucoup de résidences secondaires, donc ça ne me touche pas directement. Mais limiter ce qu'on peut faire de son terrain me déplaît, je penche pour le non."
+    },
+    {
+      "vote_id": "e2013-amenagement",
+      "participe_proba": 0.6,
+      "oui_proba": 0.5,
+      "raison": "Protéger les terres est important, je le vois avec la pression sur nos champs. Mais si ça bloque les constructions utiles aux fermes, je ne suis plus d'accord : c'est un oui hésitant."
+    },
+    {
+      "vote_id": "e2016-economie-verte",
+      "participe_proba": 0.5,
+      "oui_proba": 0.1,
+      "raison": "Une planète par personne d'ici 2050, c'est irréaliste, et ça retombe sur les paysans avec des contraintes. Je vote non."
+    },
+    {
+      "vote_id": "e2016-nucleaire",
+      "participe_proba": 0.4,
+      "oui_proba": 0.4,
+      "raison": "Le nucléaire, je ne suis pas sûr. Mais arrêter tout sans savoir par quoi remplacer, je n'aime pas ça, donc je reste sceptique."
+    },
+    {
+      "vote_id": "e2017-energie",
+      "participe_proba": 0.5,
+      "oui_proba": 0.6,
+      "raison": "Les panneaux solaires sur les toits de ferme, c'est bien, et les économies d'énergie aussi. Je dis oui, à condition que les taxes n'augmentent pas trop."
+    },
+    {
+      "vote_id": "v2018-equitables",
+      "participe_proba": 0.7,
+      "oui_proba": 0.4,
+      "raison": "Des produits respectueux de l'environnement et des animaux, je veux bien, mais on nous met des normes sur nos fermes pendant que les importations passent avec des prix bas. Ça me laisse sceptique."
+    },
+    {
+      "vote_id": "v2018-souverainete",
+      "participe_proba": 0.8,
+      "oui_proba": 0.7,
+      "raison": "Une agriculture indigène qui vit de son travail, avec des droits de douane et des prix équitables, c'est ce qu'il nous faut. Je vote oui."
+    },
+    {
+      "vote_id": "v2021-eau",
+      "participe_proba": 0.85,
+      "oui_proba": 0.15,
+      "raison": "Retirer les paiements directs à celui qui utilise un traitement ou qui nourrit ses bêtes autrement, c'est nous mettre à genoux. Je vote non."
+    },
+    {
+      "vote_id": "v2021-pesticides",
+      "participe_proba": 0.85,
+      "oui_proba": 0.15,
+      "raison": "Interdire les produits de synthèse sans alternative claire, on perd des rendements et on importe davantage. Je vote non, même si je ne traite pas beaucoup."
+    },
+    {
+      "vote_id": "v2021-co2",
+      "participe_proba": 0.6,
+      "oui_proba": 0.3,
+      "raison": "Les taxes sur le mazout et les carburants, on les paie déjà. Le fonds climat, je ne vois pas ce qu'il nous apporte. Je penche pour le non."
+    },
+    {
+      "vote_id": "v2022-elevage",
+      "participe_proba": 0.8,
+      "oui_proba": 0.2,
+      "raison": "Mes vaches sont sur l'herbe, je ne suis pas dans l'élevage intensif. Mais demander les standards Bio à tout le monde, y compris pour les importations, c'est une façon de nous imposer une manière de produire. Je dis non."
+    },
+    {
+      "vote_id": "v2023-climat",
+      "participe_proba": 0.5,
+      "oui_proba": 0.4,
+      "raison": "Le zéro net en 2050, c'est loin et je ne sais pas comment on y arrive. Les aides pour changer les chauffages, pourquoi pas, mais ce sont souvent les gros qui en profitent. Je suis hésitant."
+    },
+    {
+      "vote_id": "v2024-biodiversite",
+      "participe_proba": 0.6,
+      "oui_proba": 0.2,
+      "raison": "Protéger la nature, je suis pour, je vois les haies et les prairies qu'on entretient. Mais des surfaces en plus prises sur les terres à cultiver, je dis non."
+    }
+  ]
+}

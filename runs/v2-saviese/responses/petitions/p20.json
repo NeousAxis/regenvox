@@ -1,0 +1,25 @@
+{
+  "id": "p20",
+  "reactions": [
+    {"item_id": "pet01", "participe_proba": 0.02, "partage_proba": 0.04, "raison": "Je ne suis pas étudiant à l'EPFL et la question de Palantir me paraît lointaine, même si l'idée d'une surveillance de masse m'inquiète un peu."},
+    {"item_id": "pet02", "participe_proba": 0.08, "partage_proba": 0.25, "raison": "Les canicules de cet été m'ont marqué et je pense que la Suisse doit agir, mais ce texte très large et plutôt marqué à gauche me laisse dubitatif sur les moyens concrets."},
+    {"item_id": "pet03", "participe_proba": 0.03, "partage_proba": 0.08, "raison": "Je suis opposé à l'initiative de l'UDC, mais je n'aime pas qu'on demande au Parlement d'invalider une initiative populaire, c'est au peuple de trancher dans les urnes."},
+    {"item_id": "pet04", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Cette affaire genevoise et le conflit à Gaza sont très polarisés, et je n'ai pas assez suivi le dossier pour me sentir légitime à signer."},
+    {"item_id": "pet05", "participe_proba": 0.05, "partage_proba": 0.25, "raison": "Le protoxyde d'azote est très répandu chez les jeunes de mon âge et les bonbonnes traînent partout, donc je suis favorable à une régulation, mais je ne me sens pas concerné par une pétition genevoise."},
+    {"item_id": "pet06", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Mon deuxième pilier me concerne un peu, mais je ne vois pas bien l'effet d'une telle demande adressée à des caisses de pension, et le texte reste très militant à mes yeux."},
+    {"item_id": "pet07", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Le texte se présente lui-même comme une fiction, donc je ne vois pas quelle réforme je signerais, même si les primes d'assurance-maladie me pèsent."},
+    {"item_id": "pet08", "participe_proba": 0.12, "partage_proba": 0.2, "raison": "Je me demande si l'AVS existera encore quand j'aurai l'âge de la toucher, et l'idée d'une durée de cotisation plutôt qu'un âge unique me parle, même si je me méfie des hausses de TVA."},
+    {"item_id": "pet09", "participe_proba": 0.01, "partage_proba": 0.02, "raison": "Je n'habite pas à Versoix et ce débat sur un local municipal genevois ne me concerne pas directement."},
+    {"item_id": "pet10", "participe_proba": 0.05, "partage_proba": 0.08, "raison": "Le témoignage est très touchant et je comprends que le cadre juridique actuel ne suffit pas, mais je ne suis pas directement concerné et je ne partage pas ce genre de sujet sur mes réseaux."},
+    {"item_id": "pet11", "participe_proba": 0.04, "partage_proba": 0.08, "raison": "L'accès à la psychothérapie compte pour moi, surtout quand on voit la pression sur les jeunes, mais cette motion technique est peu connue hors du milieu médical et je ne suis pas sûr de bien saisir l'enjeu."},
+    {"item_id": "pet12", "participe_proba": 0.02, "partage_proba": 0.1, "raison": "Une ferme d'agrumes vaudoise m'intéresse comme patrimoine, mais je ne connais pas le dossier de Borex et je ne signe pas les pétitions locales d'autres communes."},
+    {"item_id": "pet13", "participe_proba": 0.03, "partage_proba": 0.05, "raison": "Je trouve normal qu'un canton dispose d'une maison d'accueil pour femmes victimes de violences, mais le Jura est loin de moi et la pétition ne me touche pas personnellement."},
+    {"item_id": "pet14", "participe_proba": 0.015, "partage_proba": 0.04, "raison": "Le tram lausannois est loin de mon quotidien et je n'ai pas de lien avec Lausanne, même si la chaleur en ville est un vrai problème."},
+    {"item_id": "pet15", "participe_proba": 0.02, "partage_proba": 0.03, "raison": "Je fais confiance aux autorités fédérales pour apprécier ces renvois et je ne signe pas ce type de pétition sur un dossier d'asile que je ne suis pas de près."},
+    {"item_id": "pet16", "participe_proba": 0.05, "partage_proba": 0.05, "raison": "Je suis en formation et je vois à quel point le rythme pèse, mais allonger le CFC à 4 à 6 ans me paraît irréaliste pour les entreprises et pour mes chances sur le marché du travail."},
+    {"item_id": "pet17", "participe_proba": 0.07, "partage_proba": 0.2, "raison": "Filmer quelqu'un à son insu avec des lunettes est inquiétant et je serais tenté de partager le texte, mais une interdiction pure et simple me semble disproportionnée, je préfère des règles d'usage."},
+    {"item_id": "pet18", "participe_proba": 0.04, "partage_proba": 0.08, "raison": "Je suis sensible au climat, mais cet appel général contient des mesures que je trouve trop contraignantes et il ne me parle pas personnellement."},
+    {"item_id": "pet19", "participe_proba": 0.09, "partage_proba": 0.15, "raison": "Les sécheresses et le risque d'incendie me touchent en Valais, et couper les fonds d'adaptation des forêts me paraît à contre-courant, mais je ne connais pas bien le détail de ce budget."},
+    {"item_id": "pet20", "participe_proba": 0.25, "partage_proba": 0.35, "raison": "Les soumissions chimiques touchent beaucoup de jeunes autour de moi et une coopération avec Europol me paraît logique, donc je signerais, et je partagerais surtout pour prévenir mes amis."}
+  ]
+}

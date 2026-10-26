@@ -1,0 +1,29 @@
+{
+  "id": "p29",
+  "votes": [
+    {
+      "vote_id": "c2026-ge-contraception",
+      "participe_proba": 0.7,
+      "oui_proba": 0.85,
+      "raison": "La contraception relève de la santé et de l'égalité, et 20 millions par an me paraissent un investissement raisonnable, même si le Conseil d'État recommande non et que je mesure le coût pour le canton."
+    },
+    {
+      "vote_id": "c2026-ge-transfrontalier",
+      "participe_proba": 0.6,
+      "oui_proba": 0.8,
+      "raison": "Moins de voitures qui traversent la frontière chaque jour améliore l'air et le trafic, et les Vert-e-s soutiennent ce projet, même si la défiance envers un financement d'infrastructures en France me laisse un doute."
+    },
+    {
+      "vote_id": "c2026-ge-ldtr",
+      "participe_proba": 0.5,
+      "oui_proba": 0.25,
+      "raison": "Je ne suis pas convaincue que la vente des appartements aux locataires soit la bonne voie, car le risque de congés-ventes et de perte de logements abordables pèse plus lourd pour moi que l'accès à la propriété, et les Vert-e-s appellent à voter non."
+    },
+    {
+      "vote_id": "c2026-ge-hes",
+      "participe_proba": 0.4,
+      "oui_proba": 0.3,
+      "raison": "Une haute école bien financée compte pour la formation de nos enfants, et la baisse de 2 millions par an me gêne, donc je pencherais pour le non avec le comité référendaire, sans être très engagée sur ce sujet."
+    }
+  ]
+}

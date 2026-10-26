@@ -1,0 +1,125 @@
+{
+  "id": "p44",
+  "reactions": [
+    {
+      "item_id": "pet01",
+      "participe_proba": 0.02,
+      "partage_proba": 0.04,
+      "raison": "Ça concerne l'EPFL et des étudiants, pas ma vie de tous les jours, et je fais confiance aux autorités pour gérer ces questions de sécurité."
+    },
+    {
+      "item_id": "pet02",
+      "participe_proba": 0.07,
+      "partage_proba": 0.2,
+      "raison": "L'été a été très dur et je m'inquiète pour mes enfants, mais une lettre ouverte adressée à tout le Parlement me semble peu concrète et les mesures demandées coûteraient cher à nous qui travaillons."
+    },
+    {
+      "item_id": "pet03",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je ne suis pas UDC mais je n'aime pas qu'on demande au Parlement d'annuler une initiative populaire, et cette pétition de Campax me paraît militante."
+    },
+    {
+      "item_id": "pet04",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "C'est une affaire genevoise et un débat sur le Proche-Orient qui ne me touchent pas directement, je ne suis pas impliquée dans ce milieu."
+    },
+    {
+      "item_id": "pet05",
+      "participe_proba": 0.12,
+      "partage_proba": 0.35,
+      "raison": "Avec des ados et de jeunes adultes autour de nous, le gaz hilarant m'inquiète vraiment, même si le texte vise Genève, et je le partagerais volontiers dans mon cercle de parents."
+    },
+    {
+      "item_id": "pet06",
+      "participe_proba": 0.05,
+      "partage_proba": 0.06,
+      "raison": "Mon deuxième pilier me préoccupe, mais je ne veux pas que la caisse de pension se mêle de politique climatique, elle doit d'abord bien gérer notre argent."
+    },
+    {
+      "item_id": "pet07",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "Le texte se présente lui-même comme fictif, ce qui me déroute, et les primes d'assurance-maladie me préoccupent surtout pour leur montant plutôt que pour l'organisation cantonale."
+    },
+    {
+      "item_id": "pet08",
+      "participe_proba": 0.2,
+      "partage_proba": 0.3,
+      "raison": "À 59 ans, l'avenir de l'AVS me concerne de près et je trouve que la TVA ne peut pas augmenter sans fin, mais je me méfie des revendications d'un parti de jeunes et de la légalisation du cannabis mise en avant."
+    },
+    {
+      "item_id": "pet09",
+      "participe_proba": 0.01,
+      "partage_proba": 0.01,
+      "raison": "C'est une commune genevoise que je ne connais pas, et un local social financé par la commune ne me concerne pas."
+    },
+    {
+      "item_id": "pet10",
+      "participe_proba": 0.15,
+      "partage_proba": 0.25,
+      "raison": "Le deuil d'un bébé à ce stade est une épreuve terrible et l'idée que ces femmes ne soient pas reconnues me touche, même si je ne suis pas sûre que la solution proposée soit la bonne."
+    },
+    {
+      "item_id": "pet11",
+      "participe_proba": 0.09,
+      "partage_proba": 0.12,
+      "raison": "L'accès aux soins psychiques compte, surtout dans nos milieux où l'on tient trop longtemps, mais je ne vois pas de danger direct dans cette motion et je ne suis pas concernée personnellement."
+    },
+    {
+      "item_id": "pet12",
+      "participe_proba": 0.03,
+      "partage_proba": 0.04,
+      "raison": "C'est une belle collection, mais Borex est loin de Yverdon et une ferme privée qui réclame des activités commerciales ne me touche pas assez pour que je m'engage."
+    },
+    {
+      "item_id": "pet13",
+      "participe_proba": 0.1,
+      "partage_proba": 0.25,
+      "raison": "La violence conjugale me touche en tant que femme et l'absence de maison d'accueil dans le Jura m'étonne, mais je vis dans le canton de Vaud et je ne me sens pas concernée par une décision jurassienne."
+    },
+    {
+      "item_id": "pet14",
+      "participe_proba": 0.08,
+      "partage_proba": 0.1,
+      "raison": "La canicule me pèse et l'idée d'un tram qui rafraîchit la ville me plaît, mais Lausanne est loin de chez moi et je me déplace surtout en voiture, donc je ne m'engage pas sur ce sujet municipal."
+    },
+    {
+      "item_id": "pet15",
+      "participe_proba": 0.02,
+      "partage_proba": 0.02,
+      "raison": "Je ne connais pas les dossiers individuels et je fais confiance au Conseil fédéral sur les renvois d'asile, même si je comprends l'émotion que suscite ce cas."
+    },
+    {
+      "item_id": "pet16",
+      "participe_proba": 0.04,
+      "partage_proba": 0.03,
+      "raison": "Je comprends la nécessité d'inclure les jeunes en situation de handicap, mais allonger le CFC à 6 ans et réduire de moitié la charge me semble incompatible avec la pénurie de main-d'œuvre qualifiée dans l'industrie."
+    },
+    {
+      "item_id": "pet17",
+      "participe_proba": 0.1,
+      "partage_proba": 0.3,
+      "raison": "Je m'inquiète des gens filmés à leur insu, surtout dans les piscines ou les vestiaires où nos enfants se changent, mais interdire un produit en vente me paraît excessif."
+    },
+    {
+      "item_id": "pet18",
+      "participe_proba": 0.03,
+      "partage_proba": 0.02,
+      "raison": "Interdire les retours en ligne ou limiter les vols touche à la liberté de consommer et à des emplois de notre région, donc je ne signe pas une telle liste de mesures."
+    },
+    {
+      "item_id": "pet19",
+      "participe_proba": 0.14,
+      "partage_proba": 0.2,
+      "raison": "Les forêts du Nord vaudois et les étés secs me préoccupent et couper dans les fonds d'adaptation me semble une erreur, même si je reste méfiante envers la gestion fédérale."
+    },
+    {
+      "item_id": "pet20",
+      "participe_proba": 0.22,
+      "partage_proba": 0.45,
+      "raison": "Avec des enfants, un risque de drogue à l'insu de jeunes femmes me touche directement et l'idée qu'un réseau d'auteurs reste impuni me révolte, même si une task force fédérale me paraît lointaine."
+    }
+  ]
+}
