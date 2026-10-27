@@ -1,6 +1,8 @@
 # RegenVox : application d'une seule page, toutes les adresses renvoient vers index.html.
 RewriteEngine On
 RewriteBase /
+# Le https est géré en amont chez Infomaniak : on se fie à l'en-tête X-Forwarded-Proto.
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteCond %{HTTPS} off
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{REQUEST_FILENAME} !-f
