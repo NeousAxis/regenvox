@@ -230,7 +230,7 @@ if (path.basename(process.argv[1] ?? "") === "scrutins2.ts") {
       publie_le: publieLe,
       evenement: { type: "votation_federale", date, description: `Votations fédérales du 29 novembre 2026, ${a.communes.length} communes romandes (${a.communes.map((c) => c.commune).join(", ")})` },
       methode: {
-        moteur: "Résonance v2, étape scrutins2 (personas Claude Haiku, sous-agents isolés)",
+        moteur: "RegenVox v2, étape scrutins2 (personas Claude Haiku, sous-agents isolés)",
         runs: runIds,
         correction: `Personas informés des recommandations officielles et des mots d'ordre connus au ${publieLe}. Biais du panel corrigé en logit par famille de votations analogues (même thème, sens du oui pris en compte), ramené vers zéro selon le nombre d'analogues (k = ${a.k_retenu}, choisi en validation croisée sur les seuls analogues : écart moyen ${fmt(a.selection_k.find((s) => String(s.k) === String(a.k_retenu === "infini (pas de correction)" ? "infini" : a.k_retenu))?.ecart_moyen)} points). Intervalle à 90 % : échantillonnage du panel combiné à l'erreur de validation croisée (${fmt(a.rmse_methode)} points). Participation : correspondance de quantiles sur les jours de votation analogues. Cette prévision s'ajoute à celle de Vuadens publiée plus tôt (2026-11-29_votations-federales), qui reste inchangée.`,
       },

@@ -2,7 +2,7 @@
 # Construit cases/<cas>/case.json et panel.json pour les communes de l'étape scrutins2, à partir des données ouvertes OFS :
 # STATPOP 2025 (px-x-0102010000_101), élections au Conseil national 2023 (force des partis par commune),
 # relevé des structures agricoles 2025 (px-x-0702000000_104).
-# Usage : python3 -I scripts/build_communes_v2.py <dossier des téléchargements> <racine resonance>
+# Usage : python3 -I scripts/build_communes_v2.py <dossier des téléchargements> <racine du moteur>
 import itertools, json, os, sys
 
 DL, ROOT = sys.argv[1], sys.argv[2]

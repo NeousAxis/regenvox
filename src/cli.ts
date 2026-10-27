@@ -1,4 +1,4 @@
-// Orchestrateur Résonance (non-LLM). Les appels LLM passent par des fichiers requête/réponse,
+// Orchestrateur RegenVox (non-LLM). Les appels LLM passent par des fichiers requête/réponse,
 // exécutables par n'importe quel fournisseur (API Mistral/Anthropic en production, sous-agents isolés en développement).
 import path from "node:path";
 import fs from "node:fs";

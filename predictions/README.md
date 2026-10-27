@@ -1,4 +1,4 @@
-# Registre des prévisions Résonance
+# Registre des prévisions RegenVox
 
 Ce registre sert à prouver que le moteur prédit, et pas seulement qu'il explique après coup. Une prévision n'a de valeur que si elle est publiée **avant** l'événement et **jamais modifiée** ensuite.
 
@@ -27,7 +27,7 @@ npx tsx src/registre.ts bilan
   "id": "2026-11-29_votations-federales",
   "publie_le": "2026-10-26",
   "evenement": { "type": "votation_federale", "date": "2026-11-29", "description": "Votations fédérales du 29 novembre 2026" },
-  "methode": { "moteur": "Résonance", "runs": ["run-004"], "correction": "par famille de votations, en validation croisée" },
+  "methode": { "moteur": "RegenVox", "runs": ["run-004"], "correction": "par famille de votations, en validation croisée" },
   "criteres_reussite": ["Écart moyen sur le oui inférieur à celui du résultat cantonal, toutes communes confondues"],
   "previsions": [
     { "commune": "Vuadens", "objet": "v2026-11-exemple", "titre": "Titre officiel", "oui_pct": 41.0, "intervalle_pct": [33.0, 49.0], "participation_pct": 44.0 }

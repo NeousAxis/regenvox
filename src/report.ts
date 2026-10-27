@@ -172,7 +172,7 @@ ${mobRecoAngle?.effet_invitation ? `<p class="verdict">Une invitation personnell
   const traSections = tra ? tra.sections.map((x) => `<h3>${esc(x.titre)}</h3><p>${esc(x.contenu).replace(/\n+/g, "</p><p>")}</p>`).join("") : "";
 
   return `<meta charset="utf-8">
-<title>Résonance Vuadens</title>
+<title>RegenVox Vuadens</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>
@@ -205,7 +205,7 @@ a{color:var(--teal)}
 </style>
 <div class="wrap">
 <header style="display:flex;flex-direction:column;gap:14px">
-  <div class="eyebrow">Résonance · catalogue de cas · simulation multi-agents</div>
+  <div class="eyebrow">RegenVox · catalogue de cas · simulation multi-agents</div>
   <h1>${esc(c.cible.nom)} : vers une agriculture biologique portée par les agriculteurs</h1>
   <p class="small">Commune de la Gruyère, canton de Fribourg, Suisse.</p>
   <p class="lede"><b>Enjeu</b> : ${esc(c.enjeu)}<br><b>Objectif</b> : ${esc(c.objectif)}</p>
@@ -228,7 +228,7 @@ ${traSections ? `<section class="panel"><h2>Rapport au Conseil communal</h2>${tr
 <h3>Hypothèses déclarées</h3><ul>${m.hypotheses.map((h: string) => `<li>${esc(h)}</li>`).join("")}</ul>
 ${sources.length ? `<h3>Sources</h3><ul>${sources.map((x) => `<li><a href="${esc(x.url)}">${esc(x.label)}</a></li>`).join("")}</ul>` : ""}
 </section>
-<footer class="foot">Régénère Plus · moteur Résonance (open source, en développement) · Les personas sont des profils simulés à partir de statistiques publiques, ils ne représentent aucune personne réelle et une simulation ne dit pas ce que pense un habitant réel.</footer>
+<footer class="foot">Régénère Plus · moteur RegenVox (open source, en développement) · Les personas sont des profils simulés à partir de statistiques publiques, ils ne représentent aucune personne réelle et une simulation ne dit pas ce que pense un habitant réel.</footer>
 </div>`;
 }
 

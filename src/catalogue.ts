@@ -1,4 +1,4 @@
-// Catalogue public des tests Résonance : page HTML générée à partir des runs réels (aucun chiffre saisi à la main).
+// Catalogue public des tests RegenVox : page HTML générée à partir des runs réels (aucun chiffre saisi à la main).
 // Usage : npx tsx src/catalogue.ts run-002 run-003 > catalogue.html
 import fs from "node:fs";
 import path from "node:path";
@@ -147,7 +147,7 @@ export function renderCatalogue(refRun: string, repRun: string) {
 
   return `<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Catalogue Résonance</title>
+<title>Catalogue RegenVox</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>
@@ -207,7 +207,7 @@ ul.lim{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;max
 </style>
 <div class="wrap">
 <header style="display:flex;flex-direction:column;gap:16px">
-  <span class="eyebrow">Régénère Plus · moteur Résonance · catalogue de tests</span>
+  <span class="eyebrow">Régénère Plus · moteur RegenVox · catalogue de tests</span>
   <h1>Avant de mobiliser une commune, tester l'angle. Voici ce que le moteur a réellement produit.</h1>
   <p class="lede">Un cas complet : ${esc(c.cible.nom)}, 2 580 habitants, commune de la Gruyère dans le canton de Fribourg, en Suisse. Joué deux fois avec deux panels différents, confronté aux votations réelles de la commune et attaqué par son propre Contradicteur. Tout ce qui suit sort des fichiers des runs.</p>
   <div class="badges"><span class="badge warn">Cas d'étude simulé, sans mandat de la commune</span><span class="badge">${appels} réponses d'agents contrôlées</span><span class="badge">${rejets} rejetées puis corrigées</span><span class="badge">2 panels de ${A.m.panel_resume.N} personas</span><span class="badge">${s.n_votes_test} votations réelles de test</span></div>
@@ -310,7 +310,7 @@ ${A.tra ? `<section>
   </ul>
 </section>
 
-<footer class="foot">Régénère Plus · moteur Résonance, open source, en développement · Cas d'étude simulé sans mandat de la commune de ${esc(c.cible.nom)}. Sources : OFS (STATPOP, STATENT, élections au Conseil national 2023), résultats officiels des votations fédérales. Runs ${esc(refRun)} et ${esc(repRun)}.</footer>
+<footer class="foot">Régénère Plus · moteur RegenVox, open source, en développement · Cas d'étude simulé sans mandat de la commune de ${esc(c.cible.nom)}. Sources : OFS (STATPOP, STATENT, élections au Conseil national 2023), résultats officiels des votations fédérales. Runs ${esc(refRun)} et ${esc(repRun)}.</footer>
 </div>`;
 }
 

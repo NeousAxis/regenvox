@@ -1,6 +1,8 @@
-# Résonance
+# RegenVox
 
-*English summary.* Résonance is an open source, multi-agent engine that lets a municipality test, before launching a participatory process, several ways of asking its question on a panel of simulated residents built from official statistics. It shows which wording brings people together, who it leaves out and why. Every forecast is written and timestamped before the real outcome is known, then compared with it, failures included (see `predictions/` and `tests_aveugles/`). Part of [Régénère Plus](https://regenereplus.ch), a platform of open tools for the ecological transition. Licence: AGPL-3.0.
+RegenVox s'appelait Résonance jusqu'au 27 octobre 2026 : les prévisions et protocoles publiés avant cette date portent l'ancien nom et ne sont pas modifiés.
+
+*English summary.* RegenVox (formerly Résonance) is an open source, multi-agent engine that lets a municipality test, before launching a participatory process, several ways of asking its question on a panel of simulated residents built from official statistics. It shows which wording brings people together, who it leaves out and why. Every forecast is written and timestamped before the real outcome is known, then compared with it, failures included (see `predictions/` and `tests_aveugles/`). Part of [Régénère Plus](https://regenereplus.ch), a platform of open tools for the ecological transition. Licence: AGPL-3.0.
 
 Moteur multi-agents de Régénère Plus pour la phase 1 de la prospective rétrocausale (ascendante) : avant de lancer une démarche participative, le décideur teste à huis clos plusieurs manières de poser la question (les angles) sur un panel virtuel calibré sur les statistiques publiques de sa commune.
 
@@ -151,7 +153,7 @@ Dépendances : `npm audit` signale une faille de `zod` (saturation mémoire sur 
 
 Licence : GNU Affero General Public License v3 (fichier `LICENSE`). Vous pouvez utiliser, étudier, modifier et redistribuer ce code ; les versions modifiées mises à disposition en ligne doivent rester ouvertes.
 
-Historique : Résonance a été développé dans un dépôt privé jusqu'au 26 octobre 2026, puis ouvert ici. Les prévisions du 29 novembre 2026 y avaient été horodatées dès le 25 octobre ; dans ce dépôt public, elles datent du 26 octobre 2026, toujours avant le vote. Les noms des particuliers auteurs de pétitions ont été remplacés par leur rôle (« un particulier ») ; les institutions et les élus restent nommés.
+Historique : RegenVox (alors appelé Résonance) a été développé dans un dépôt privé jusqu'au 26 octobre 2026, puis ouvert ici. Les prévisions du 29 novembre 2026 y avaient été horodatées dès le 25 octobre ; dans ce dépôt public, elles datent du 26 octobre 2026, toujours avant le vote. Les noms des particuliers auteurs de pétitions ont été remplacés par leur rôle (« un particulier ») ; les institutions et les élus restent nommés.
 
 Les données utilisées sont publiques et sourcées (OFS, Chancellerie fédérale, Swissvotes, cantons, communes, act.campax.org). Les personas sont synthétiques : aucune personne réelle n'est simulée.
 

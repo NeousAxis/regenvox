@@ -2,7 +2,7 @@
 # Construit data/scrutins_v2.json (votations communes à toutes les communes, avec recommandations officielles et mots d'ordre)
 # et cases/<cas>/scrutins_reels_v2.json (résultats officiels par commune).
 # Sources : données ouvertes OGD voteinfo (OFS / Chancellerie fédérale) et jeu de données Swissvotes (Année politique suisse).
-# Usage : python3 -I scripts/build_scrutins_v2.py <dossier des téléchargements> <racine resonance>
+# Usage : python3 -I scripts/build_scrutins_v2.py <dossier des téléchargements> <racine du moteur>
 import csv, json, os, sys
 
 DL, ROOT = sys.argv[1], sys.argv[2]

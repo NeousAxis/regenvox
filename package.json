@@ -1,8 +1,8 @@
 {
-  "name": "resonance-engine",
+  "name": "regenvox-engine",
   "version": "0.1.0",
   "private": true,
-  "description": "Moteur multi-agents Résonance (Régénère Plus) : simulation de résonance, viralité et participation d'une idée sur un panel calibré par données publiques.",
+  "description": "Moteur multi-agents RegenVox (Régénère Plus) : simulation de résonance, viralité et participation d'une idée sur un panel calibré par données publiques.",
   "type": "module",
   "scripts": {
     "cli": "tsx src/cli.ts",
@@ -23,6 +23,6 @@
   "license": "AGPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NeousAxis/resonance"
+    "url": "https://github.com/NeousAxis/regenvox"
   }
 }

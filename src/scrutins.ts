@@ -195,7 +195,7 @@ if (path.basename(process.argv[1] ?? "") === "scrutins.ts") {
       publie_le: publieLe,
       evenement: { type: "votation_federale", date, description: "Votations fédérales du 29 novembre 2026, commune de Vuadens (canton de Fribourg)" },
       methode: {
-        moteur: "Résonance, étape scrutins (personas Claude Haiku, sous-agents isolés)",
+        moteur: "RegenVox, étape scrutins (personas Claude Haiku, sous-agents isolés)",
         runs: runIds,
         correction: `Moyenne des panels ${runIds.join(" et ")}. Biais du panel corrigé en logit par famille, à partir de votations analogues passées au résultat connu (même thème, même sens du oui), recalculé à chaque rééchantillonnage. Intervalle à 90 % : échantillonnage du panel combiné à l'erreur résiduelle de la méthode (${fmt(a.rmse_methode)} points, validation croisée du backtest). Participation : panel multiplié par le rapport réel sur annoncé des analogues. Contrôle fait avant le vote : sur ${a.synthese_validation.n} analogues prédits en validation croisée, écart moyen de ${fmt(a.synthese_validation.ecart_moyen_corrige)} points avec la correction, ${fmt(a.synthese_validation.ecart_moyen_brut)} sans, ${fmt(a.synthese_validation.ecart_moyen_canton)} pour le résultat cantonal. La correction tirée d'un ou deux analogues est donc fragile hors du domaine agricole ; le protocole est maintenu tel que publié, et la valeur brute du panel est publiée à côté pour le critère 4.`,
       },

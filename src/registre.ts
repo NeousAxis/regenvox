@@ -8,7 +8,7 @@ import { ROOT } from "./store.js";
 
 const DIR = path.join(ROOT, "predictions");
 const DIR_RES = path.join(DIR, "resultats");
-const DEPOT = "NeousAxis/resonance";
+const DEPOT = "NeousAxis/regenvox";
 const date = z.string().regex(/^\d{4}-\d{2}-\d{2}$/);
 
 export const Prevision = z.object({
@@ -87,7 +87,7 @@ export function verifier(): string[] {
 }
 
 export function bilan(): string {
-  const lignes: string[] = ["# Bilan des prévisions Résonance", "", "Généré par `npx tsx src/registre.ts bilan`. Toutes les prévisions publiées figurent ici, réussies ou non.", ""];
+  const lignes: string[] = ["# Bilan des prévisions RegenVox", "", "Généré par `npx tsx src/registre.ts bilan`. Toutes les prévisions publiées figurent ici, réussies ou non.", ""];
   for (const f of fichiers(DIR)) {
     const v: Prevision = Prevision.parse(JSON.parse(fs.readFileSync(path.join(DIR, f), "utf8")));
     lignes.push(`## ${v.evenement.description} (${v.evenement.date})`, "", `Publiée le ${v.publie_le}. Critères fixés d'avance : ${v.criteres_reussite.join(" ; ")}`, "");
