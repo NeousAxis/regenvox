@@ -9,6 +9,7 @@ import * as Q from "./requests.js";
 import { ROOT, runDir, reqPath, respPath, okPath, readJson, writeJson, exists, listItems, journal, loadManifest, saveManifest, type Manifest } from "./store.js";
 import { generatePanel, type PanelSpec } from "./demographe.js";
 import { adapter } from "./vocabulaire.js";
+import { estimationParticipants } from "./niveau.js";
 import { DEFAULT_PARAMS, PARAM_NOTES, buildNetwork, simulateAngle } from "./diffusion.js";
 import { angleMetrics, backtest, mobilisationMetrics, formatsPreferes, type VoteRef } from "./scoring.js";
 
@@ -31,6 +32,7 @@ export const MODEL: Record<StepName, string> = {
   demarches: "haiku",
   demarchesge: "haiku",
   quartiers: "haiku",
+  niveau: "sonnet",
 };
 export const SYSTEM_OF: Record<StepName, string> = {
   formulateur: SYSTEM.formulateur,
@@ -51,6 +53,7 @@ export const SYSTEM_OF: Record<StepName, string> = {
   demarches: SYSTEM.demarche,
   demarchesge: SYSTEM.demarche,
   quartiers: SYSTEM.demarche,
+  niveau: SYSTEM.niveau,
 };
 
 const caseDir = (id: string) => path.join(ROOT, "cases", id);
@@ -127,8 +130,15 @@ function buildUser(runId: string, step: StepName, item: string): string {
       return Q.userDemarches(c, loadSkels(runId).find((x) => x.id === item)!, loadDemarchesGe(c));
     case "quartiers":
       return Q.userQuartier(c, loadSkels(runId).find((x) => x.id === item)!, loadDemarcheVille(c));
+    case "niveau":
+      return Q.userNiveau(c, validated<FormulateurOut>(runId, "formulateur"), populationDe(m));
   }
 }
+
+const populationDe = (m: Manifest) => {
+  const p = readJson<{ population_16_plus: number | { valeur: number } }>(path.join(caseDir(m.caseId), "panel.json")).population_16_plus;
+  return typeof p === "number" ? p : p.valeur;
+};
 
 function loadPersonas(runId: string): PersonaOut[] {
   return loadSkels(runId).map((s) => validated<PersonaOut>(runId, "personas", s.id));
@@ -252,6 +262,14 @@ function adminFor(runId: string, step: StepName, item: string, value: any): stri
       const got = (value.reactions as { item_id: string }[]).map((r) => r.item_id).sort();
       const e: string[] = value.id !== item ? [`Identifiant ${value.id} différent du profil ${item}.`] : [];
       if (JSON.stringify(got) !== JSON.stringify(want)) e.push(`Il faut une réaction et une seule pour chacun de ces éléments : ${want.join(", ")}.`);
+      return e;
+    }
+    case "niveau": {
+      const pop = populationDe(m);
+      const vus = (value.formats as { format: string; participants: number }[]);
+      const e: string[] = [];
+      if (new Set(vus.map((x) => x.format)).size !== 3) e.push("Il faut une estimation et une seule pour chacun des trois formats.");
+      for (const x of vus) if (x.participants > pop) e.push(`Format ${x.format} : ${x.participants} participants, plus que l'effectif concerné (${pop}).`);
       return e;
     }
   }
@@ -443,6 +461,8 @@ export function buildDossier(runId: string) {
           })),
         }
       : null,
+    // Plateforme : nombre de participants attendu (estimation directe, fourchette et fiabilité mesurée à l'aveugle).
+    ...(estimationParticipants(runId) ? { estimation_participants: estimationParticipants(runId) } : {}),
     backtest: metrics.backtest,
     hypotheses: metrics.hypotheses,
     lecture_propagation: validated<FacilitateurOut>(runId, "facilitateur"),

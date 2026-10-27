@@ -23,6 +23,7 @@ export const ETAPES: EtapeDef[] = [
   { cle: "controle", libelle: "Témoin : décision imposée", modele: "controle" },
   { cle: "controle2", libelle: "Témoin : objectif en question ouverte", modele: "controle2" },
   { cle: "simulate", libelle: "Propagation dans la population" },
+  { cle: "niveau", libelle: "Estimation du nombre de participants", modele: "niveau" },
   { cle: "facilitateur", libelle: "Lecture de la propagation", modele: "facilitateur" },
   { cle: "sociologue", libelle: "Analyse des groupes et des objections", modele: "sociologue" },
   { cle: "contradicteur", libelle: "Critique contradictoire", modele: "contradicteur" },
@@ -52,6 +53,7 @@ const active = (runId: string, e: EtapeDef) => {
   const c = casDe(runId);
   if (e.cle === "controle") return !!c.angle_controle;
   if (e.cle === "controle2") return !!c.angle_controle2;
+  if (e.cle === "niveau") return !!c.plateforme;
   return true;
 };
 export const etapeFaite = (runId: string, e: EtapeDef): boolean => {

@@ -10,28 +10,30 @@ import type { StepName } from "../src/schemas.js";
 
 const SOURCE = "run-002";
 const RUN = "essai-rejeu";
+// Cas de plateforme : copie du cas Vuadens marquée « plateforme », pour exercer aussi l'étape niveau.
+const CAS = "_essai-plateforme";
+const dossierCas = path.join(ROOT, "cases", CAS);
 fs.rmSync(runDir(RUN), { recursive: true, force: true });
-let appels = 0, compares = 0, differents = 0;
+fs.rmSync(dossierCas, { recursive: true, force: true });
+fs.cpSync(path.join(ROOT, "cases", "vuadens-bio"), dossierCas, { recursive: true });
+const cas = readJson<any>(path.join(dossierCas, "case.json"));
+fs.writeFileSync(path.join(dossierCas, "case.json"), JSON.stringify({ ...cas, id: CAS, plateforme: true, organisation: { type: "commune", nom: "Commune de Vuadens (essai)" } }, null, 2));
+// Réponse fixe pour l'étape niveau, absente du run d'origine.
+const NIVEAU = { formats: [{ format: "avis_en_ligne", participants: 180, raisonnement: "Questionnaire court, invitation à tous les ménages : quelques pour cent des adultes." }, { format: "atelier_presentiel", participants: 35, raisonnement: "Un samedi matin mobilise surtout les personnes déjà engagées." }, { format: "parcours_distance", participants: 60, raisonnement: "Trois séquences en ligne : moins que l'avis, plus que l'atelier." }] };
+let appels = 0;
 const etapes: string[] = [];
 try {
-  await executerTest("vuadens-bio", RUN, async (r) => {
+  await executerTest(CAS, RUN, async (r) => {
     appels++;
-    // Non-régression : à la première tentative, la requête doit être identique à celle du run d'origine.
-    const origine = path.join(runDir(SOURCE), "requests", r.step, `${r.item}.json`);
-    if (r.attempt === 1 && fs.existsSync(origine)) {
-      const o = readJson<any>(origine);
-      if (o.attempt === 1) {
-        compares++;
-        if (o.system.replaceAll("Résonance", "RegenVox") !== r.system || o.user !== r.user) differents++; // le dossier de Vuadens a été enrichi depuis run-002 : écarts attendus dans les messages des personas
-      }
-    }
-    const texte = JSON.stringify(readJson(okPath(SOURCE, r.step as StepName, r.item)));
+    const texte = r.step === "niveau" ? JSON.stringify(NIVEAU) : JSON.stringify(readJson(okPath(SOURCE, r.step as StepName, r.item)));
     return { texte, tokens_entree: 0, tokens_sortie: 0, modele: "rejeu" };
   }, { etape: (cle, etat) => etapes.push(`${cle}:${etat}`), parallele: 8 });
   const html = renderRapportPlateforme(RUN, { organisation: "Commune de Vuadens (essai)", date: "27.10.2026" });
   const sortie = path.join(process.argv[2] ?? path.join(ROOT, "runs"), "rapport_essai.html");
   fs.writeFileSync(sortie, html, "utf8");
-  console.log(JSON.stringify({ appels, requetes_comparees: compares, requetes_differentes: differents, etapes_faites: etapes.filter((e) => e.endsWith(":fait")).length, etapes_total: ETAPES.length, rapport: sortie, taille_rapport: html.length }, null, 1));
+  const estimation = html.includes("Combien de participants attendre") && html.includes("Fiabilité de ce chiffre");
+  console.log(JSON.stringify({ appels, section_estimation: estimation, etapes_faites: etapes.filter((e) => e.endsWith(":fait")).length, etapes_total: ETAPES.length, rapport: sortie, taille_rapport: html.length }, null, 1));
 } finally {
   fs.rmSync(runDir(RUN), { recursive: true, force: true });
+  fs.rmSync(dossierCas, { recursive: true, force: true });
 }

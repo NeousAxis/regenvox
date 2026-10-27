@@ -5,6 +5,7 @@ import path from "node:path";
 import { runDir, readJson, okPath, exists } from "./store.js";
 import type { FormulateurOut, PersonaOut, PersonaSkeleton, SociologueOut, ContradicteurOut, FacilitateurOut, TraducteurOut } from "./schemas.js";
 import { STYLE, COLORS, esc, pct, chart } from "./report.js";
+import { estimationParticipants } from "./niveau.js";
 
 const FMT: [string, string][] = [["avis_en_ligne", "Avis en ligne"], ["atelier_presentiel", "Atelier sur place"], ["parcours_distance", "Parcours à distance"], ["atelier_si_invite_par_un_proche", "Atelier, si invité par un proche"]];
 
@@ -26,7 +27,7 @@ export function renderRapportPlateforme(runId: string, meta: { organisation: str
   const rejetsGardien = journal.filter((j) => j.event === "gardien_reject").length;
   const reco = soc.angle_recommande.angle_id;
   const sources: { label: string; url: string }[] = c.sources ?? [];
-  const membres = c.cible.type === "commune" ? "habitants" : "membres";
+  const membres = c.cible.type === "organisation" ? "membres" : "habitants";
 
   const cartes = m.angles
     .map((a: any, i: number) => {
@@ -74,8 +75,26 @@ export function renderRapportPlateforme(runId: string, meta: { organisation: str
         .join("")
     : "";
   const mobReco = mob?.angles.find((a: any) => a.angle_id === reco);
+  // Nombre de participants attendu : estimation directe, fourchette et fiabilité mesurée lors des tests à l'aveugle.
+  const est = estimationParticipants(runId);
+  const nf = (x: number) => x.toLocaleString("fr-CH");
+  const facteurTxt = (x: number) => String(x).replace(".", ",");
+  const NOMS: Record<string, string> = Object.fromEntries(FMT);
+  const sectionEstimation = est
+    ? `<div class="panel" style="margin-bottom:16px"><h3 style="margin-top:0">Combien de participants attendre</h3>
+<p class="small">Estimation directe pour votre formulation, faite sans les réponses du panel, pour chaque format pris séparément. Les autres formulations reprennent les écarts mesurés par le panel.</p>
+<div class="tbl"><table><thead><tr><th>Format</th><th>Estimation</th><th>Fourchette probable</th></tr></thead><tbody>${est.formats
+        .map((x) => `<tr><td>${esc(NOMS[x.format] ?? x.format)}</td><td class="n"><b>${nf(x.participants)}</b></td><td class="n">${nf(x.bas)} à ${nf(x.haut)}</td></tr>`)
+        .join("")}</tbody></table></div>
+<p class="verdict">Fiabilité de ce chiffre : sur ${est.fiabilite.n} démarches participatives réelles testées à l'aveugle (Lausanne, Genève, Medellín), cette estimation s'est trompée d'un facteur médian de ${facteurTxt(est.fiabilite.facteur_median)}. Le vrai nombre de participants était dans la fourchette affichée (de la moitié au double) dans ${est.fiabilite.dans_un_facteur_2} cas sur ${est.fiabilite.n}, et entre le tiers et le triple dans ${est.fiabilite.dans_un_facteur_3} cas sur ${est.fiabilite.n}. L'écart le plus grand a été d'un facteur ${facteurTxt(Math.round(est.fiabilite.facteur_max * 10) / 10)}. L'estimation a surestimé ${est.fiabilite.surestimations} fois sur ${est.fiabilite.n} : elle ne penche pas d'un côté.</p>
+<p class="small">Pour une pétition ou une campagne de signatures, l'erreur est plus grande : le vrai chiffre était dans la fourchette dans ${est.fiabilite_petitions.dans_un_facteur_2} cas sur ${est.fiabilite_petitions.n} seulement. Détail des tests : https://github.com/NeousAxis/regenvox/tree/main/tests_aveugles</p>
+${est.par_formulation.length > 1 ? `<div class="tbl"><table><thead><tr><th>Formulation</th>${est.formats.map((x) => `<th>${esc(NOMS[x.format] ?? x.format)}</th>`).join("")}</tr></thead><tbody>${est.par_formulation
+        .map((p) => `<tr><td>Formulation ${p.angle_id}${p.angle_id === reco ? " <b>(recommandée)</b>" : ""}</td>${est.formats.map((x) => `<td class="n">${p.formats[x.format] == null ? "n.d." : nf(p.formats[x.format]!)}</td>`).join("")}</tr>`)
+        .join("")}</tbody></table></div>` : ""}
+<ul class="small">${est.formats.map((x) => `<li><b>${esc(NOMS[x.format] ?? x.format)}</b> : ${esc(x.raisonnement)}</li>`).join("")}</ul></div>`
+    : "";
   const sectionMob = mob
-    ? `<div class="panel"><h3 style="margin-top:0">Participation déclarée, par format</h3>
+    ? `<div class="panel"><h3 style="margin-top:0">Intentions déclarées par le panel, par format (plafonds)</h3>
 <p class="small">Chaque ${membres === "habitants" ? "habitant" : "membre"} simulé a estimé sa probabilité de participer réellement à chaque format. Ces chiffres sont des plafonds : lors de nos tests à l'aveugle, les panels ont surestimé la participation réelle d'un facteur 2 à 8. Servez-vous en pour comparer les formats et les formulations entre eux, pas comme une prévision de fréquentation.</p>
 <div class="tbl"><table><thead><tr><th>Formulation</th>${FMT.map(([, l]) => `<th>${l}</th>`).join("")}</tr></thead><tbody>${lignesMob}</tbody></table></div>
 ${mobReco?.effet_invitation ? `<p class="verdict">Une invitation personnelle par un proche multiplie la venue à l'atelier par ${String(mobReco.effet_invitation).replace(".", ",")} sur la formulation recommandée.</p>` : ""}</div>`
@@ -110,7 +129,7 @@ ${tra ? `<section><h2>En bref</h2><p class="lede" style="color:var(--ink)">${esc
 <section><h2>Les formulations testées</h2><p class="small">Une bonne formulation nomme l'enjeu et l'objectif, sans imposer les chemins : ceux-ci restent ouverts aux ${membres}.</p><div class="grid2">${cartes}</div>${temoins ? `<div class="grid2" style="margin-top:16px">${temoins}</div>` : ""}</section>
 <section class="panel chart"><h2>Propagation simulée sur ${c.horizon_mois} mois</h2>${chart(m.angles, c.horizon_mois)}<p class="legend">Trait plein : part de soutien. Pointillé : opposition active. Moyenne de nombreuses simulations sur un réseau de relations entre ${membres}.</p><ul>${lectures}</ul></section>
 <section><h2>Groupes, objections et leviers</h2><p class="small">Chaque citation est contrôlée mot pour mot dans les réponses du panel.</p><div class="grid2">${segments}</div></section>
-<section><h2>Faire participer</h2>${sectionMob}<div class="panel" style="margin-top:16px"><h3 style="margin-top:0">Freins et leviers de participation</h3><ul>${freins}</ul>${voix ? `<h3>Relais possibles</h3><div class="grid2">${voix}</div>` : ""}</div></section>
+<section><h2>Faire participer</h2>${sectionEstimation}${sectionMob}<div class="panel" style="margin-top:16px"><h3 style="margin-top:0">Freins et leviers de participation</h3><ul>${freins}</ul>${voix ? `<h3>Relais possibles</h3><div class="grid2">${voix}</div>` : ""}</div></section>
 <section><h2>Ce qu'une critique contradictoire objecte</h2><ul class="att">${attaques}</ul><h3>Réserves à garder en tête</h3><ul>${con.notes_pour_rapport.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></section>
 ${sectionsTra ? `<section class="panel"><h2>Rapport détaillé</h2>${sectionsTra}</section>` : ""}
 <section class="panel method"><h2>Méthode et hypothèses</h2>

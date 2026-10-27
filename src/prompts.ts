@@ -110,6 +110,12 @@ Verdict "reject" seulement si une faille rend les conclusions trompeuses. Sinon 
 ${JSON_RULE}
 Format : {"attaques": [{"posture": string, "cible": "angle"|"segments"|"simulation"|"backtest"|"participation"|"donnees", "critique": string, "element_verifiable": string, "source_element": "donnees_du_run"|"connaissance_generale_a_verifier", "impact": string, "angle_mort": string}], "verdict": "accept_with_notes"|"reject", "notes_pour_rapport": [string]}`,
 
+  niveau: `Tu estimes combien de personnes participeraient réellement à une démarche participative, pour chacun des formats décrits, à partir des seuls faits fournis. Tu ne vois aucune réponse du panel simulé.
+Sois réaliste : la plupart des gens ne participent pas, et une invitation officielle mobilise peu. Appuie-toi sur ce que tu sais de démarches comparables : taille de la population, sujet, format, durée, canal d'invitation.
+Pour chaque format, pris séparément comme s'il était le seul proposé, donne un nombre entier de participants et, en une ou deux phrases, ce qui fonde ton estimation. N'invente aucune étude, source ou chiffre précis que tu ne peux pas garantir.
+${JSON_RULE}
+Format : {"formats": [{"format": "avis_en_ligne"|"atelier_presentiel"|"parcours_distance", "participants": number, "raisonnement": string}]}`,
+
   traducteur: `Tu es le Traducteur du moteur RegenVox. Tu écris le rapport destiné au Conseil communal à partir du dossier consolidé fourni.
 Style : institutionnel, précis, sobre, en français. Pas de lyrisme. Pas de tiret long ni de tiret séparateur entre deux propositions : utilise des virgules, des deux-points ou des points.
 Tu n'ajoutes aucun chiffre qui ne figure pas dans le dossier. Tu reprends les chiffres arrondis tels qu'ils sont donnés. Tu restitues fidèlement les critiques du Contradicteur et les limites de la méthode.

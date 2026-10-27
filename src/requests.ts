@@ -111,6 +111,27 @@ export function userMobilisation(c: CaseFile, s: PersonaSkeleton, f: Formulateur
   ].join("\n");
 }
 
+// Étape niveau : ce que lit l'estimation directe (le texte de la démarche, jamais les réponses du panel).
+export function userNiveau(c: CaseFile, f: FormulateurOut, population: number) {
+  const a1 = f.angles.find((a) => a.origine === "decideur") ?? f.angles[0];
+  return [
+    `Qui lance la démarche : ${c.organisation?.nom ?? c.cible.nom}.`,
+    `Population concernée : ${c.cible.description}`,
+    `Effectif concerné : ${population} personnes${c.cible.type === "organisation" ? "" : " de 16 ans et plus"}.`,
+    `Faits publics sur la commune :`,
+    ...c.contexte_factuel.map((x) => "- " + x),
+    ``,
+    `Enjeu : ${c.enjeu} Objectif : ${c.objectif}`,
+    `Formulation de l'appel : « ${a1.formulation} »`,
+    ``,
+    FORMATS_PHASE2.invitation,
+    `Formats possibles (estime chacun séparément) :`,
+    `- avis_en_ligne : ${FORMATS_PHASE2.avis_en_ligne}`,
+    `- atelier_presentiel : ${FORMATS_PHASE2.atelier_presentiel}`,
+    `- parcours_distance : ${FORMATS_PHASE2.parcours_distance}`,
+  ].join("\n");
+}
+
 export function userControle(c: CaseFile, s: PersonaSkeleton, p: PersonaOut, formulation: string) {
   return [
     `Ton profil : ${s.age} ans, ${s.sexe}, nationalité ${s.nationalite === "suisse" ? "suisse" : "étrangère"}, ${s.activite}, ${s.menage}, ${s.lieu_de_vie}${s.parti_proche ? ", proche de " + s.parti_proche : ""}. Identifiant : ${s.id}.`,

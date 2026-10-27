@@ -222,6 +222,12 @@ export const ReactionMobilOut = z.object({
 });
 export type ReactionMobilOut = z.infer<typeof ReactionMobilOut>;
 
+// Estimation directe du nombre de participants par format, sans le panel (étape niveau de la plateforme).
+export const NiveauOut = z.object({
+  formats: z.array(z.object({ format: z.enum(FORMATS), participants: z.number().int().min(0), raisonnement: z.string().min(10).max(800) })).length(3),
+});
+export type NiveauOut = z.infer<typeof NiveauOut>;
+
 export const SCHEMAS = {
   formulateur: FormulateurOut,
   "gardien-angles": GardienOut,
@@ -241,5 +247,6 @@ export const SCHEMAS = {
   demarches: ReactionMobilOut,
   demarchesge: ReactionMobilOut,
   quartiers: ReactionMobilOut,
+  niveau: NiveauOut,
 } as const;
 export type StepName = keyof typeof SCHEMAS;
