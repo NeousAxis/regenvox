@@ -209,6 +209,9 @@ export default function Accueil() {
                 </li>
               ))}
             </ul>
+            <p className="mt-5">
+              <Link className="lien font-semibold" to="/fiabilite">{t('fiab.lien')}</Link>
+            </p>
           </div>
 
           <p className="mt-8">

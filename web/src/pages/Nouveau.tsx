@@ -922,6 +922,14 @@ export default function Nouveau() {
           </div>
 
           {/* Navigation */}
+          {etape === TOTAL_ETAPES && (
+            <p className="mt-8 text-sm text-dark-light">
+              <a className="lien" href="/fiabilite" target="_blank" rel="noopener noreferrer">
+                {t('fiab.avantLancer')}
+                <span className="sr-only"> {t('general.nouvelOnglet')}</span>
+              </a>
+            </p>
+          )}
           <div className="mt-10 pt-6 border-t border-mist flex flex-col-reverse sm:flex-row sm:justify-between gap-3">
             {etape > 1 ? (
               <button type="button" className="btn btn-secondaire" onClick={() => allerA(etape - 1)} disabled={lancement}>

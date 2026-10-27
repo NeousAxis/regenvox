@@ -73,6 +73,11 @@ export default function Layout() {
           </div>
           <ul className="space-y-3 md:justify-self-end">
             <li>
+              <Link className="underline underline-offset-4 hover:text-sky" to="/fiabilite">
+                {t('fiab.lien')}
+              </Link>
+            </li>
+            <li>
               <a className="underline underline-offset-4 hover:text-sky" href={URL_GITHUB} target="_blank" rel="noopener noreferrer">
                 {t('pied.code')}
                 <span className="sr-only"> {t('general.nouvelOnglet')}</span>
