@@ -3,6 +3,9 @@ import type { FormulateurOut, PersonaOut, PersonaSkeleton, SociologueOut, Contra
 
 export interface CaseFile {
   id: string;
+  // plateforme et organisation : cas créés depuis la plateforme web (textes adaptés par src/vocabulaire.ts).
+  plateforme?: boolean;
+  organisation?: { type: "commune" | "administration" | "ecole" | "entreprise" | "ong"; nom: string };
   // ville, ville_id et nationalites : seulement pour les quartiers d'une ville étrangère (étape quartiers).
   cible: { type: string; nom: string; canton: string; pays: string; description: string; ville?: string; ville_id?: string; nationalites?: { nationale: string; etrangere: string } };
   decideur: string;
@@ -18,6 +21,7 @@ export interface CaseFile {
   votations_etalonnage?: { vote_id: string; date: string; titre: string; resume_neutre: string; famille?: string }[];
   angle_controle?: { formulation: string; pourquoi: string };
   angle_controle2?: { formulation: string; pourquoi: string };
+  sources?: { label: string; url: string }[];
 }
 
 export function userFormulateur(c: CaseFile) {

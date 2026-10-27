@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env.local
+public/donnees/
+public/communes_index.json

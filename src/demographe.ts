@@ -3,7 +3,10 @@
 import { makeRng } from "./rng.js";
 import type { PersonaSkeleton } from "./schemas.js";
 
+export interface GroupeSpec { nom: string; effectif: number; age_min: number; age_max: number }
+
 export interface PanelSpec {
+  groupes?: GroupeSpec[]; // panel d'une organisation (école, entreprise, ONG) : composition donnée par l'utilisateur
   pays?: string; // absent = Suisse ; sinon, les hypothèses du rapport ne parlent ni d'agriculteurs ni du Conseil national
   univers: string;
   population_16_plus: { valeur: number; source: string };
@@ -76,6 +79,7 @@ function menageFor(age: number, r: () => number): string {
 }
 
 export function generatePanel(spec: PanelSpec, N: number, seed: number) {
+  if (spec.groupes?.length) return generatePanelGroupes(spec, N, seed);
   const rng = makeRng(seed);
   const P = spec.population_16_plus.valeur;
   const ag = spec.agriculteurs;
@@ -164,6 +168,48 @@ export function generatePanel(spec: PanelSpec, N: number, seed: number) {
     `Sensibilité politique répartie par quotas selon les résultats du Conseil national 2023 dans la commune (${spec.source_partis}), appliquée à tous les électeurs non agriculteurs : approximation, car ces parts décrivent les votants, pas l'ensemble du corps électoral. Pour les agriculteurs, sensibilité politique non renseignée, faute de donnée locale : le persona l'infère de son profil.`,
     "Nationalité, sexe et activité professionnelle répartis par quotas pour respecter les proportions malgré la petite taille du panel.",
     "Composition des ménages et lieux de vie dans la commune : hypothèses génériques, non sourcées.",
+    ...spec.hypotheses,
+  ];
+  return { skeletons: shuffled, hypotheses };
+}
+
+// Panel d'une organisation : quotas par groupe selon les effectifs déclarés, âge uniforme dans la tranche du groupe,
+// sexe et nationalité selon les parts de référence fournies (déclarées comme hypothèses).
+function generatePanelGroupes(spec: PanelSpec, N: number, seed: number) {
+  const rng = makeRng(seed);
+  const gs = spec.groupes!;
+  const total = gs.reduce((s, g) => s + g.effectif, 0);
+  const q = quotas(gs.map((g) => g.effectif / total), N);
+  const sk: PersonaSkeleton[] = [];
+  gs.forEach((g, gi) => {
+    const nForeign = Math.round(spec.part_etrangers.valeur * q[gi]);
+    const nWomen = Math.round(spec.part_femmes.valeur * q[gi]);
+    const foreignFlags = rng.shuffle(Array.from({ length: q[gi] }, (_, k) => k < nForeign));
+    const womanFlags = rng.shuffle(Array.from({ length: q[gi] }, (_, k) => k < nWomen));
+    for (let k = 0; k < q[gi]; k++) {
+      const age = rng.int(g.age_min, g.age_max);
+      const suisse = !foreignFlags[k];
+      sk.push({
+        id: "",
+        age,
+        tranche_age: g.nom,
+        sexe: womanFlags[k] ? "femme" : "homme",
+        nationalite: suisse ? "suisse" : "etrangere",
+        activite: g.nom,
+        menage: menageFor(age, rng.next),
+        lieu_de_vie: spec.lieux_de_vie.length ? rng.pickWeighted(spec.lieux_de_vie.map((l) => ({ value: l.lieu, weight: l.part }))) : "non précisé",
+        parti_proche: null,
+        electeur: suisse && age >= 18,
+        poids: g.effectif / Math.max(1, q[gi]),
+      });
+    }
+  });
+  const shuffled = rng.shuffle(sk).map((s, i) => ({ ...s, id: `p${String(i + 1).padStart(2, "0")}` }));
+  const hypotheses = [
+    `Univers du panel : ${spec.univers}. Effectif total déclaré : ${total} (${spec.population_16_plus.source}).`,
+    `Groupes répartis par quotas selon les effectifs déclarés : ${gs.map((g) => `${g.nom} ${g.effectif}`).join(", ")}. Âge tiré au hasard dans la tranche de chaque groupe.`,
+    `Parts de femmes (${Math.round(spec.part_femmes.valeur * 100)} %) et de personnes de nationalité étrangère (${Math.round(spec.part_etrangers.valeur * 100)} %) : hypothèse, valeurs de référence (${spec.part_etrangers.source}), faute de composition déclarée.`,
+    "Composition des ménages : hypothèse générique, non sourcée. Aucune sensibilité politique attribuée.",
     ...spec.hypotheses,
   ];
   return { skeletons: shuffled, hypotheses };

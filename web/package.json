@@ -1,0 +1,31 @@
+{
+  "name": "regenvox-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "license": "AGPL-3.0-or-later",
+  "scripts": {
+    "prebuild": "cd .. && npx tsx scripts/decouper_donnees.ts web/public/donnees",
+    "dev": "vite",
+    "dev:maquette": "VITE_MAQUETTE=1 vite",
+    "build": "tsc && tsc -p tsconfig.node.json && vite build",
+    "typecheck": "tsc && tsc -p tsconfig.node.json",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "path-browserify": "^1.0.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.13.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/path-browserify": "^1.0.3",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "~5.7.0",
+    "vite": "^6.0.0"
+  }
+}

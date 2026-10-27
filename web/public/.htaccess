@@ -1,0 +1,15 @@
+# RegenVox : application d'une seule page, toutes les adresses renvoient vers index.html.
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+# Données publiques déjà compressées : servies telles quelles, décompressées par la page.
+<FilesMatch "\.json\.gz$">
+  ForceType application/octet-stream
+  <IfModule mod_headers.c>
+    Header unset Content-Encoding
+  </IfModule>
+</FilesMatch>

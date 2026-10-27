@@ -1,5 +1,18 @@
 # RegenVox
 
+## La plateforme : https://regenvox.xyz
+
+Une commune, une administration (canton, Confédération), une école, une entreprise ou une ONG y teste sa démarche en quatre étapes : qui elle est, sa population (une commune, un canton ou la Suisse, construits à partir des statistiques publiques de l'OFS ; ou ses membres, par groupes), sa démarche, sa clé API. Le rapport arrive en 10 à 20 minutes.
+
+- **Souveraineté** : tout tourne dans le navigateur de l'utilisateur. Sa clé part uniquement vers le fournisseur d'IA qu'il a choisi (Anthropic, Mistral AI, OpenAI, ou un service compatible : DeepSeek, Kimi, Qwen, Meta, OpenRouter pour GLM, Muse et d'autres). Ses démarches et ses rapports restent sur son appareil, dans un fichier qu'il range où il veut. Régénère Plus ne reçoit rien et n'héberge que des fichiers fixes, chez Infomaniak, en Suisse.
+- **Code** : `web/` (interface React), `src/pipeline.ts` (enchaînement des étapes), `src/plateforme.ts` (construction du cas), `src/vocabulaire.ts` (messages adaptés au type d'organisation), `src/rapport.ts` (rapport), `src/appels.ts` (fournisseurs), `web/src/moteur/navigateur/` (le moteur dans le navigateur, avec un système de fichiers en mémoire).
+- **Données publiques** : `data/communes_ch.json` (2110 communes, 26 cantons et la Suisse, construit par `scripts/build_communes_ch.py`), découpé par canton et compressé au moment de la construction (`scripts/decouper_donnees.ts`).
+- **Essais** : `npx tsx scripts/essai_pipeline.ts` rejoue un test complet sans appel payant ; `npx tsx scripts/essai_vocabulaire.ts` affiche les messages préparés pour une commune, un canton et une école.
+
+```bash
+cd web && npm install && npm run build   # construit web/dist, à déposer tel quel sur l'hébergement
+```
+
 RegenVox s'appelait Résonance jusqu'au 27 octobre 2026 : les prévisions et protocoles publiés avant cette date portent l'ancien nom et ne sont pas modifiés.
 
 *English summary.* RegenVox (formerly Résonance) is an open source, multi-agent engine that lets a municipality test, before launching a participatory process, several ways of asking its question on a panel of simulated residents built from official statistics. It shows which wording brings people together, who it leaves out and why. Every forecast is written and timestamped before the real outcome is known, then compared with it, failures included (see `predictions/` and `tests_aveugles/`). Part of [Régénère Plus](https://regenereplus.ch), a platform of open tools for the ecological transition. Licence: AGPL-3.0.

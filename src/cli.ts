@@ -8,10 +8,11 @@ import * as A from "./admin.js";
 import * as Q from "./requests.js";
 import { ROOT, runDir, reqPath, respPath, okPath, readJson, writeJson, exists, listItems, journal, loadManifest, saveManifest, type Manifest } from "./store.js";
 import { generatePanel, type PanelSpec } from "./demographe.js";
+import { adapter } from "./vocabulaire.js";
 import { DEFAULT_PARAMS, PARAM_NOTES, buildNetwork, simulateAngle } from "./diffusion.js";
 import { angleMetrics, backtest, mobilisationMetrics, formatsPreferes, type VoteRef } from "./scoring.js";
 
-const MODEL: Record<StepName, string> = {
+export const MODEL: Record<StepName, string> = {
   formulateur: "opus",
   "gardien-angles": "sonnet",
   personas: "haiku",
@@ -31,7 +32,7 @@ const MODEL: Record<StepName, string> = {
   demarchesge: "haiku",
   quartiers: "haiku",
 };
-const SYSTEM_OF: Record<StepName, string> = {
+export const SYSTEM_OF: Record<StepName, string> = {
   formulateur: SYSTEM.formulateur,
   "gardien-angles": SYSTEM.gardien,
   personas: SYSTEM.persona,
@@ -70,7 +71,7 @@ const loadSkels = (runId: string) => readJson<PersonaSkeleton[]>(path.join(runDi
 const validated = <T>(runId: string, step: StepName, item = "main") => readJson<T>(okPath(runId, step, item));
 const errorsPath = (runId: string, step: string, item: string) => path.join(runDir(runId), "errors", step, `${item}.json`);
 
-function items(runId: string, step: StepName): string[] {
+export function items(runId: string, step: StepName): string[] {
   if (step === "personas" || step === "mobilisation" || step === "controle" || step === "controle2" || step === "demarches" || step === "demarchesge" || step === "quartiers") return loadSkels(runId).map((s) => s.id);
   if (step === "scrutins" || step === "scrutins2" || step === "cantonales" || step === "petitions") return loadSkels(runId).filter((s) => s.electeur).map((s) => s.id);
   return ["main"];
@@ -140,7 +141,7 @@ function loadPersonasWithControl(runId: string): PersonaOut[] {
   );
 }
 
-function cmdInit(caseId: string, runId: string, seedArg?: string, nArg?: string) {
+export function cmdInit(caseId: string, runId: string, seedArg?: string, nArg?: string) {
   const c = readJson<Q.CaseFile>(path.join(caseDir(caseId), "case.json"));
   const seed = seedArg ? parseInt(seedArg, 10) : c.panel.seed;
   if (exists(runDir(runId))) throw new Error(`Le run ${runId} existe déjà.`);
@@ -149,7 +150,7 @@ function cmdInit(caseId: string, runId: string, seedArg?: string, nArg?: string)
   console.log(`Run ${runId} créé (graine ${seed}).`);
 }
 
-function cmdPanel(runId: string) {
+export function cmdPanel(runId: string) {
   const m = loadManifest(runId);
   const c = loadCase(m);
   const spec = readJson<PanelSpec>(path.join(caseDir(m.caseId), "panel.json"));
@@ -160,8 +161,9 @@ function cmdPanel(runId: string) {
   console.log(`Panel généré : ${skeletons.length} personas, dont ${skeletons.filter((s) => s.electeur).length} électeurs fédéraux.`);
 }
 
-function cmdPrepare(runId: string, step: StepName) {
+export function cmdPrepare(runId: string, step: StepName) {
   const m = loadManifest(runId);
+  const c = loadCase(m);
   const out: { item: string; request: string; response: string; model: string; attempt: number }[] = [];
   for (const item of items(runId, step)) {
     if (exists(okPath(runId, step, item))) continue;
@@ -172,14 +174,15 @@ function cmdPrepare(runId: string, step: StepName) {
       continue;
     }
     const prevErrors = exists(errorsPath(runId, step, item)) ? readJson<string[]>(errorsPath(runId, step, item)) : undefined;
-    const user = Q.withErrors(buildUser(runId, step, item), prevErrors);
+    const user = Q.withErrors(adapter(buildUser(runId, step, item), c), prevErrors);
     const rp = reqPath(runId, step, item);
     const sp = respPath(runId, step, item);
     if (exists(sp)) fs.rmSync(sp);
-    writeJson(rp, { step, item, model: MODEL[step], attempt, system: SYSTEM_OF[step], user, response_path: sp });
+    writeJson(rp, { step, item, model: MODEL[step], attempt, system: adapter(SYSTEM_OF[step], c), user, response_path: sp });
     out.push({ item, request: rp, response: sp, model: MODEL[step], attempt });
   }
   console.log(JSON.stringify(out, null, 1));
+  return out;
 }
 
 function parseLoose(raw: string): { value: unknown; friction?: string } {
@@ -254,7 +257,7 @@ function adminFor(runId: string, step: StepName, item: string, value: any): stri
   }
 }
 
-function cmdIngest(runId: string, step: StepName) {
+export function cmdIngest(runId: string, step: StepName) {
   const m = loadManifest(runId);
   const summary = { valides: [] as string[], rejetes: [] as { item: string; erreurs: string[] }[], manquants: [] as string[] };
   for (const item of items(runId, step)) {
@@ -301,9 +304,10 @@ function cmdIngest(runId: string, step: StepName) {
   }
   saveManifest(m);
   console.log(JSON.stringify(summary, null, 1));
+  return summary;
 }
 
-function cmdSimulate(runId: string) {
+export function cmdSimulate(runId: string) {
   const m = loadManifest(runId);
   const c = loadCase(m);
   const skels = loadSkels(runId);
@@ -379,7 +383,7 @@ function computeMobilisation(runId: string, skels: PersonaSkeleton[], f: Formula
   };
 }
 
-function buildDossier(runId: string) {
+export function buildDossier(runId: string) {
   const m = loadManifest(runId);
   const c = loadCase(m);
   const f = validated<FormulateurOut>(runId, "formulateur");
@@ -466,8 +470,10 @@ function cmdStatus(runId: string) {
   console.log(JSON.stringify({ rows, metrics: exists(path.join(runDir(runId), "metrics.json")) }, null, 1));
 }
 
-const [, , cmd, a1, a2, a3, a4] = process.argv;
-try {
+// Ligne de commande (Node seulement) : dans le navigateur, la plateforme appelle les fonctions exportées.
+const enLigneDeCommande = typeof process !== "undefined" && path.basename(process.argv?.[1] ?? "") === "cli.ts";
+const [, , cmd, a1, a2, a3, a4] = enLigneDeCommande ? process.argv : [];
+if (enLigneDeCommande) try {
   if (cmd === "init") cmdInit(a1, a2, a3, a4);
   else if (cmd === "panel") cmdPanel(a1);
   else if (cmd === "clone-angles") {

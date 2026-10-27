@@ -1,0 +1,190 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mist: #E0E7EB;
+  --color-sky: #A7CFE2;
+  --color-peach: #E2BAA7;
+  --color-earth: #A7897B;
+  --color-ocean: #3C8EB4;
+  --color-ocean-dark: #2A6D8A;
+  --color-dark: #1A2332;
+  --color-dark-light: #2D3A4A;
+  --color-alerte: #B42318;
+  --color-succes: #1F6F43;
+
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+}
+
+html {
+  overflow-x: clip;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-dark);
+  background-color: #ffffff;
+  overflow-x: clip;
+  overflow-wrap: break-word;
+}
+
+/* Focus visible sur tous les éléments interactifs */
+:focus-visible {
+  outline: 3px solid var(--color-ocean);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+.sur-fond-sombre :focus-visible {
+  outline-color: var(--color-sky);
+}
+
+/* Composants : dans la couche components, pour que les utilitaires Tailwind (hidden, sm:inline-flex...) gardent la priorité */
+@layer components {
+  /* Boutons */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 2.75rem;
+    padding: 0.625rem 1.25rem;
+    border-radius: 9999px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.25;
+    text-align: center;
+    transition: background-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    cursor: pointer;
+  }
+
+  .btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  .btn-primaire {
+    background-color: var(--color-ocean-dark);
+    color: #ffffff;
+  }
+
+  .btn-primaire:hover:not(:disabled) {
+    background-color: var(--color-dark);
+    box-shadow: 0 8px 20px rgba(42, 109, 138, 0.25);
+  }
+
+  .btn-secondaire {
+    background-color: #ffffff;
+    color: var(--color-ocean-dark);
+    border: 2px solid var(--color-ocean-dark);
+  }
+
+  .btn-secondaire:hover:not(:disabled) {
+    background-color: rgba(224, 231, 235, 0.6);
+  }
+
+  .btn-clair {
+    background-color: #ffffff;
+    color: var(--color-dark);
+  }
+
+  .btn-clair:hover:not(:disabled) {
+    background-color: var(--color-mist);
+  }
+
+  .btn-contour-clair {
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    color: #ffffff;
+  }
+
+  .btn-contour-clair:hover:not(:disabled) {
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+
+  .btn-danger {
+    background-color: #ffffff;
+    color: var(--color-alerte);
+    border: 2px solid rgba(180, 35, 24, 0.5);
+  }
+
+  .btn-danger:hover:not(:disabled) {
+    background-color: rgba(180, 35, 24, 0.06);
+  }
+
+  .btn-petit {
+    min-height: 2.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+
+  /* Champs de formulaire */
+  .champ {
+    display: block;
+    width: 100%;
+    min-height: 2.75rem;
+    padding: 0.625rem 0.875rem;
+    border: 1.5px solid #8A9AA8;
+    border-radius: 0.75rem;
+    background-color: #ffffff;
+    color: var(--color-dark);
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .champ::placeholder {
+    color: #6B7785;
+  }
+
+  .champ:focus-visible {
+    border-color: var(--color-ocean-dark);
+    outline-offset: 1px;
+  }
+
+  .champ[aria-invalid="true"] {
+    border-color: var(--color-alerte);
+  }
+
+  textarea.champ {
+    min-height: 6.5rem;
+    resize: vertical;
+  }
+
+  .lien {
+    color: var(--color-ocean-dark);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-weight: 500;
+  }
+
+  .lien:hover {
+    color: var(--color-dark);
+  }
+}
+
+.gradient-hero {
+  background: linear-gradient(135deg, var(--color-dark) 0%, var(--color-ocean-dark) 100%);
+}
+
+@keyframes tourne {
+  to { transform: rotate(360deg); }
+}
+
+.tourne {
+  animation: tourne 1s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tourne {
+    animation-duration: 3s;
+  }
+  * {
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  .pas-imprimer {
+    display: none !important;
+  }
+}
