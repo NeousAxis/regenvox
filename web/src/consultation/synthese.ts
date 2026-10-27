@@ -4,6 +4,7 @@
 import { z } from 'zod'
 import { POSITIONS } from './types'
 import type { CritiqueReelle, LectureReelle, Questionnaire, RedactionReelle, RepereSimulation, Synthese } from './types'
+import { publier } from './analyse'
 import type { Analyse, LigneAnonyme } from './analyse'
 
 export type Niveau = 'opus' | 'sonnet' | 'haiku'
@@ -160,8 +161,9 @@ function chiffres(a: Analyse) {
     score_moyen_de_soutien: { reel: a.score_reel, simule: a.score_simule, echelle: 'de -3 (opposition) à 3 (porteur)' },
     engagement: a.engagement.map((e) => ({ niveau: e.option, personnes: e.n, part_reelle_pct: pct(e.part), part_simulee_pct: pct(e.part_reference) })),
     format_prefere: a.formats.map((f) => ({ format: f.option, personnes: f.n, part_reelle_pct: pct(f.part), part_simulee_pct: pct(f.part_reference) })),
-    qui_a_repondu: a.categories.map((c) => ({ categorie: c.cle, sans_reponse: c.sans_reponse, lignes: c.lignes.map((l) => ({ valeur: l.option, personnes: l.n < 5 ? 'moins de 5' : l.n, part_dans_la_population_pct: pct(l.part_reference) })) })),
-    score_par_categorie: a.scores.map((s) => ({ categorie: s.cle, lignes: s.lignes.filter((l) => l.reel !== null).map((l) => ({ valeur: l.option, personnes: l.n, reel: l.reel, simule: l.simule })) })),
+    // Mêmes tableaux que le rapport : les petits groupes y sont réunis, l'IA ne voit aucun groupe de moins de 5 personnes.
+    qui_a_repondu: publier(a).map((c) => ({ categorie: c.cle, lignes: c.lignes.map((l) => ({ valeurs: l.autres ? `réunis : ${l.options.map((o) => o || 'sans réponse').join(', ')}` : l.options[0], personnes: l.n, part_dans_la_population_pct: pct(l.part_reference) })) })),
+    score_par_categorie: publier(a).map((c) => ({ categorie: c.cle, lignes: c.scores.map((l) => ({ valeurs: l.autres ? `réunis : ${l.options.map((o) => o || 'sans réponse').join(', ')}` : l.options[0], personnes: l.n, reel: l.reel, simule: l.simule })) })),
     questions_fermees: a.questions.filter((x) => x.type !== 'texte').map((x) => ({ id: x.id, intitule: x.intitule, repondants: x.n, options: x.options?.map((o) => ({ option: o.option, personnes: o.n })), distribution_1_a_5: x.distribution, moyenne: x.moyenne })),
   }
 }

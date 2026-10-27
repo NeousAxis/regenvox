@@ -19,7 +19,8 @@ const moyenne = (xs: number[]) => (xs.length ? xs.reduce((a, b) => a + b, 0) / x
 
 export interface LigneComptage { option: string; n: number; part: number; part_reference?: number }
 export interface CategorieAnalysee { cle: CleCategorie; lignes: LigneComptage[]; sans_reponse: number }
-export interface ScoreCategorie { cle: CleCategorie; lignes: { option: string; n: number; reel: number | null; simule: number | null }[] }
+// Score de soutien par catégorie, brut (somme des scores) : seule la vue publiée (publier) sert dans un document partagé.
+export interface ScoreCategorie { cle: CleCategorie; lignes: { option: string; n: number; somme: number; simule: number | null }[] }
 export interface QuestionAnalysee {
   id: string
   type: TypeQuestion
@@ -65,15 +66,16 @@ export function analyser(q: Questionnaire, reponses: Reponse[], sim?: RepereSimu
   const avecFormat = reponses.filter((r) => r.format && FORMATS.includes(r.format))
   const formats = compter(avecFormat.map((r) => r.format!), FORMATS, sim?.formats as Record<string, number> | undefined) as Analyse['formats']
 
+  // Chaque catégorie, plus la ligne « sans réponse » (option vide) : le total des lignes égale toujours le total général.
   const scores: ScoreCategorie[] = q.categories.map((c) => ({
     cle: c.cle,
-    lignes: c.options.map((option) => {
-      const groupe = avecPosition.filter((r) => r.categories[c.cle] === option)
+    lignes: [...c.options, ''].map((option) => {
+      const groupe = avecPosition.filter((r) => (r.categories[c.cle] ?? '') === option)
       return {
         option,
         n: groupe.length,
-        reel: groupe.length >= SEUIL_ANONYMAT ? moyenne(groupe.map((r) => POSITION_SCORE[r.position!])) : null,
-        simule: sim?.score_par_categorie[c.cle]?.[option] ?? null,
+        somme: groupe.reduce((s, r) => s + POSITION_SCORE[r.position!], 0),
+        simule: option ? sim?.score_par_categorie[c.cle]?.[option] ?? null : null,
       }
     }),
   }))
@@ -111,6 +113,51 @@ export function analyser(q: Questionnaire, reponses: Reponse[], sim?: RepereSimu
     scores,
     questions,
   }
+}
+
+// Vue publiable des tableaux par catégorie. Les cases de moins de 5 personnes et les « sans réponse » sont réunies
+// en une ligne « autres », complétée si besoin par la plus petite case visible jusqu'à compter au moins 5 personnes :
+// aucune case masquée ne se déduit alors en soustrayant les cases visibles du total.
+function reunir<T extends { n: number }>(items: T[]): { visibles: T[]; reunis: T[] } {
+  let visibles = items.filter((x) => x.n === 0 || x.n >= SEUIL_ANONYMAT)
+  const reunis = items.filter((x) => x.n > 0 && x.n < SEUIL_ANONYMAT)
+  let total = reunis.reduce((s, x) => s + x.n, 0)
+  while (total > 0 && total < SEUIL_ANONYMAT) {
+    const plusPetit = visibles.filter((x) => x.n > 0).sort((a, b) => a.n - b.n)[0]
+    if (!plusPetit) break
+    visibles = visibles.filter((x) => x !== plusPetit)
+    reunis.push(plusPetit)
+    total += plusPetit.n
+  }
+  return { visibles, reunis }
+}
+
+export interface LignePubliee { options: string[]; autres: boolean; n: number; part: number; part_reference?: number }
+export interface ScorePublie { options: string[]; autres: boolean; n: number; reel: number; simule: number | null }
+export interface CategoriePubliee { cle: CleCategorie; lignes: LignePubliee[]; scores: ScorePublie[] }
+
+export function publier(a: Analyse): CategoriePubliee[] {
+  return a.categories.map((c) => {
+    const items = [...c.lignes, { option: '', n: c.sans_reponse, part: 0, part_reference: undefined }]
+    const { visibles, reunis } = reunir(items)
+    const lignes: LignePubliee[] = visibles
+      .filter((l) => l.option !== '')
+      .map((l) => ({ options: [l.option], autres: false, n: l.n, part: a.n ? l.n / a.n : 0, part_reference: l.part_reference }))
+    if (reunis.length) {
+      const n = reunis.reduce((s, x) => s + x.n, 0)
+      const refs = reunis.filter((x) => x.option && x.part_reference !== undefined)
+      lignes.push({ options: reunis.map((x) => x.option), autres: true, n, part: a.n ? n / a.n : 0, part_reference: refs.length ? refs.reduce((s, x) => s + (x.part_reference ?? 0), 0) : undefined })
+    }
+
+    const sc = a.scores.find((x) => x.cle === c.cle)!
+    const r = reunir(sc.lignes)
+    const scores: ScorePublie[] = r.visibles
+      .filter((l) => l.n > 0 && l.option !== '')
+      .map((l) => ({ options: [l.option], autres: false, n: l.n, reel: l.somme / l.n, simule: l.simule }))
+    const nReunis = r.reunis.reduce((s, x) => s + x.n, 0)
+    if (nReunis >= SEUIL_ANONYMAT) scores.push({ options: r.reunis.map((x) => x.option), autres: true, n: nReunis, reel: r.reunis.reduce((s, x) => s + x.somme, 0) / nReunis, simule: null })
+    return { cle: c.cle, lignes, scores }
+  })
 }
 
 // Données brutes rendues anonymes : chaque combinaison de catégories doit être partagée par au moins 5 personnes.
@@ -201,6 +248,10 @@ export function anonymiser(q: Questionnaire, reponses: Reponse[], masquage?: Par
 
 // Fichier CSV des données anonymes (séparateur point-virgule et BOM, pour l'ouvrir directement dans un tableur).
 export function versCsv(entetes: string[], lignes: string[][]): string {
-  const cellule = (v: string) => `"${v.replace(/"/g, '""').replace(/\r?\n/g, ' ')}"`
+  // Une cellule qui commence par = + - @ (ou une tabulation) serait lue comme une formule par le tableur : on la neutralise.
+  const cellule = (v: string) => {
+    const sur = /^[=+\-@\t\r]/.test(v) ? `'${v}` : v
+    return `"${sur.replace(/"/g, '""').replace(/\r?\n/g, ' ')}"`
+  }
   return '﻿' + [entetes, ...lignes].map((l) => l.map(cellule).join(';')).join('\r\n') + '\r\n'
 }

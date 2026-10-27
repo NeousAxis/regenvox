@@ -18,9 +18,11 @@ $config = [
     'max_reponses' => 20000,    // réponses au plus par consultation
     'max_par_heure' => 300,     // réponses au plus par heure, par consultation et par adresse IP (une salle entière partage souvent la même)
     'max_creations_jour' => 20, // consultations créées au plus par jour et par adresse IP
+    'proxy' => false,           // vrai seulement derrière un proxy de confiance : l'adresse est alors la dernière de X-Forwarded-For
 ];
-if (is_file(__DIR__ . '/config.php')) {
-    $perso = require __DIR__ . '/config.php';
+$fichier_config = getenv('REGENVOX_CONFIG') ?: __DIR__ . '/config.php';
+if (is_file($fichier_config)) {
+    $perso = require $fichier_config;
     if (is_array($perso)) $config = array_merge($config, $perso);
 }
 
@@ -174,11 +176,18 @@ function supprimer_dossier(string $dossier): void
 }
 
 // Limites par adresse IP. L'adresse n'est jamais écrite : seulement une empreinte salée, avec un sel changé chaque jour puis effacé.
+// L'en-tête X-Forwarded-For est écrit par le client : on ne le lit que derrière un proxy de confiance,
+// et seulement sa dernière entrée, celle que le proxy a ajoutée.
 function adresse_ip(): string
 {
-    $xff = $_SERVER['HTTP_X_FORWARDED_FOR'] ?? '';
-    if ($xff !== '') return trim(explode(',', $xff)[0]);
-    return (string)($_SERVER['REMOTE_ADDR'] ?? '');
+    global $config;
+    $ip = (string)($_SERVER['REMOTE_ADDR'] ?? '');
+    if (!empty($config['proxy'])) {
+        $parts = array_map('trim', explode(',', (string)($_SERVER['HTTP_X_FORWARDED_FOR'] ?? '')));
+        $derniere = (string)end($parts);
+        if (filter_var($derniere, FILTER_VALIDATE_IP) !== false) $ip = $derniere;
+    }
+    return $ip;
 }
 
 function limiter(string $DONNEES, string $portee, int $max, string $periode): void
@@ -197,7 +206,7 @@ function limiter(string $DONNEES, string $portee, int $max, string $periode): vo
     if (!is_dir($dossier)) {
         @mkdir($dossier, 0700, true);
         foreach (glob($base . '/2*', GLOB_ONLYDIR) ?: [] as $vieux) {
-            if (basename($vieux) < date('Ymd', time() - 86400)) supprimer_dossier($vieux);
+            if (strcmp(substr(basename($vieux), 0, 8), date('Ymd', time() - 86400)) < 0) supprimer_dossier($vieux);
         }
     }
     $f = fopen($dossier . '/' . hash('sha256', $sel . '|' . $portee . '|' . adresse_ip()), 'c+');
@@ -216,15 +225,27 @@ function limiter(string $DONNEES, string $portee, int $max, string $periode): vo
     fclose($f);
 }
 
-// Effacement automatique des consultations dont la durée de conservation est passée (vérifié de temps en temps).
+// Une consultation effacée laisse une tombe : son identifiant ne peut plus resservir, sinon quelqu'un qui a l'ancien lien
+// (donc la clé du lien) pourrait recréer la consultation avec sa propre clé et recevoir les réponses des anciennes affiches.
+function effacer_consultation(string $DONNEES, string $id): void
+{
+    if (!is_dir($DONNEES . '/supprimees')) @mkdir($DONNEES . '/supprimees', 0700, true);
+    @touch($DONNEES . '/supprimees/' . $id);
+    supprimer_dossier(dossier_consultation($DONNEES, $id));
+}
+
+// Effacement des consultations dont la durée de conservation est passée : une fois par jour, à la première demande du jour.
 function purger(string $DONNEES): void
 {
-    if (random_int(1, 50) !== 1) return;
+    $repere = $DONNEES . '/.purge';
+    $aujourdhui = date('Y-m-d');
+    if (@file_get_contents($repere) === $aujourdhui) return;
+    @file_put_contents($repere, $aujourdhui, LOCK_EX);
     foreach (glob($DONNEES . '/c_*', GLOB_ONLYDIR) ?: [] as $dossier) {
         $m = lire_json($dossier . '/meta.json');
         if (!is_array($m)) continue;
         $fin = strtotime((string)$m['cloture_le'] . ' +' . (int)$m['conservation_jours'] . ' days');
-        if ($fin !== false && time() > $fin + 86400) supprimer_dossier($dossier);
+        if ($fin !== false && time() > $fin + 86400) effacer_consultation($DONNEES, substr(basename($dossier), 2));
     }
 }
 
@@ -246,7 +267,7 @@ switch ($action) {
         if (!est_id($id)) erreur(400, 'id');
         if (!boite_valide($c['questionnaire'] ?? null, TAILLE_MAX_QUESTIONNAIRE, false)) erreur(400, 'questionnaire');
         if (!est_hex64($c['admin'] ?? null)) erreur(400, 'admin');
-        if (!est_date($c['cloture_le'] ?? null) || $c['cloture_le'] < date('Y-m-d')) erreur(400, 'cloture');
+        if (!est_date($c['cloture_le'] ?? null) || $c['cloture_le'] < date('Y-m-d') || $c['cloture_le'] > date('Y-m-d', strtotime('+366 days'))) erreur(400, 'cloture');
         $conservation = $c['conservation_jours'] ?? null;
         if (!is_int($conservation) || $conservation < 1 || $conservation > 1095) erreur(400, 'conservation');
         $secours = $c['secours'] ?? null;
@@ -260,7 +281,7 @@ switch ($action) {
         $prive = $c['dossier'] ?? null;
         if ($prive !== null && !boite_valide($prive, TAILLE_MAX_QUESTIONNAIRE, true)) erreur(400, 'dossier');
         $dossier = dossier_consultation($DONNEES, $id);
-        if (!@mkdir($dossier, 0700)) erreur(409, 'existe');
+        if (is_file($DONNEES . '/supprimees/' . $id) || !@mkdir($dossier, 0700)) erreur(409, 'existe');
         @mkdir($dossier . '/reponses', 0700);
         ecrire_json($dossier . '/questionnaire.json', $c['questionnaire']);
         if ($prive !== null) ecrire_json($dossier . '/dossier.json', $prive);
@@ -293,8 +314,8 @@ switch ($action) {
         limiter($DONNEES, 'repondre:' . $id, (int)$config['max_par_heure'], 'heure');
         $dossier = dossier_consultation($DONNEES, $id);
         if (nombre_reponses($dossier) >= (int)$config['max_reponses']) erreur(507, 'pleine');
-        // Nom triable (pour relever par pages) ; la date du fichier est ramenée à minuit, l'heure n'est pas gardée.
-        $nom = sprintf('%s/reponses/%011d-%s.json', $dossier, (int)(microtime(true) * 10), bin2hex(random_bytes(8)));
+        // Nom tiré au hasard : rien ne dit l'ordre d'arrivée ; la date du fichier est ramenée à minuit.
+        $nom = sprintf('%s/reponses/%s.json', $dossier, bin2hex(random_bytes(16)));
         $f = @fopen($nom, 'x');
         if ($f === false) erreur(500, 'ecriture');
         fwrite($f, json_encode($c['boite'], JSON_UNESCAPED_SLASHES));
@@ -315,7 +336,7 @@ switch ($action) {
         $m = meta($DONNEES, $c['id'] ?? null);
         if (!admin_ok($m, $c['jeton'] ?? null)) erreur(403, 'jeton');
         $apres = $c['apres'] ?? '';
-        if (!is_string($apres) || ($apres !== '' && preg_match('/^\d{11}-[0-9a-f]{16}\.json$/', $apres) !== 1)) erreur(400, 'apres');
+        if (!is_string($apres) || ($apres !== '' && preg_match('/^[0-9a-f]{32}\.json$/', $apres) !== 1)) erreur(400, 'apres');
         $noms = array_values(array_filter(scandir(dossier_consultation($DONNEES, $c['id']) . '/reponses') ?: [], function ($f) use ($apres) {
             return substr($f, -5) === '.json' && strcmp($f, $apres) > 0;
         }));
@@ -346,7 +367,7 @@ switch ($action) {
         $c = corps();
         $m = meta($DONNEES, $c['id'] ?? null);
         if (!admin_ok($m, $c['jeton'] ?? null)) erreur(403, 'jeton');
-        supprimer_dossier(dossier_consultation($DONNEES, $c['id']));
+        effacer_consultation($DONNEES, $c['id']);
         sortir(200, ['ok' => true]);
     }
 

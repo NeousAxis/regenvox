@@ -10,4 +10,7 @@ return [
     ],
     // Autres sites autorisés à appeler ce serveur, si la plateforme n'est pas servie depuis le même site.
     'origines' => [],
+    // Vrai seulement si le serveur est derrière un proxy de confiance (l'adresse du client est alors la dernière de X-Forwarded-For).
+    // Laisser faux sinon : cet en-tête, écrit par le client, permettrait de contourner les limites.
+    'proxy' => false,
 ];

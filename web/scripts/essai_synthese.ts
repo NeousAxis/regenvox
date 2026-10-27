@@ -1,6 +1,7 @@
 // Essai de l'anonymisation et de la synthèse (avec un faux modèle) : citations vérifiées, essais refusés puis repris.
 import assert from 'node:assert/strict'
-import { analyser, anonymiser, masquerCoordonnees, MASQUE, SEUIL_ANONYMAT } from '../src/consultation/analyse'
+import { analyser, anonymiser, masquerCoordonnees, MASQUE, publier, SEUIL_ANONYMAT, versCsv } from '../src/consultation/analyse'
+import { reponseValide } from '../src/consultation/operations'
 import { controlerLecture, synthetiser, sansTirets } from '../src/consultation/synthese'
 import type { AppelModele } from '../src/consultation/synthese'
 import type { Questionnaire, Reponse } from '../src/consultation/types'
@@ -37,7 +38,18 @@ assert.equal(new Set(a.lignes.map((l) => l.numero)).size, 11)
 const an = analyser(q, reponses)
 assert.equal(an.n, 11)
 assert.equal(an.questions[1].options![0].n, 11)
-assert.equal(an.scores[0].lignes.find((l) => l.option === '75+')!.reel, null) // moins de 5 : jamais chiffré
+// Vue publiée : la personne de 75 ans et plus n'apparaît jamais seule, et les lignes réunies comptent au moins 5 personnes.
+const pub = publier(an)
+for (const c of pub) {
+  for (const l of [...c.lignes, ...c.scores]) {
+    assert.ok(!(l.options.length === 1 && l.options[0] === '75+'), '75+ seul publié')
+    if (l.n > 0) assert.ok(l.n >= SEUIL_ANONYMAT, `ligne de ${l.n} personnes publiée`)
+  }
+}
+// Le total des lignes publiées égale le nombre de réponses : rien ne se déduit par soustraction d'une case masquée.
+assert.equal(pub[0].lignes.reduce((s, l) => s + l.n, 0), 11)
+// CSV : une formule est neutralisée.
+assert.ok(versCsv(['a'], [['=1+1'], ['-2'], ['ok']]).includes(`"'=1+1"`))
 
 // Synthèse : une citation inventée est refusée, puis la réponse corrigée est acceptée.
 const source = a.lignes.find((l) => l.avis?.startsWith('Avis jeune'))!
@@ -56,4 +68,10 @@ assert.ok(!/[—–]/.test(s.redaction.titre + s.redaction.synthese), 'tirets re
 assert.equal(s.usage.tokens_entree, 40)
 assert.deepEqual(controlerLecture(JSON.parse(lecture('inventé')), a.lignes, q).length, 1)
 assert.equal(sansTirets('a — b – c - d'), 'a, b, c, d')
+// Une réponse mal formée (envoyée par n'importe qui ayant le lien) est écartée, pas acceptée.
+assert.equal(reponseValide(reponses[0], q), true)
+assert.equal(reponseValide({ ...reponses[0], avis: 1 }, q), false)
+assert.equal(reponseValide({ ...reponses[0], categories: { sexe: 'inconnu' } }, q), false)
+assert.equal(reponseValide({ ...reponses[0], reponses: { q2: ['z'] } }, q), false)
+assert.equal(reponseValide({ ...reponses[0], engagement: 9 }, q), false)
 console.log('essai synthèse : tout est conforme')

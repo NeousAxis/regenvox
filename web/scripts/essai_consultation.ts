@@ -55,4 +55,18 @@ assert.equal((await api.questionnaire(S, id)).ouverte, false)
 await echoue(api.repondre(S, 'x'.repeat(22), await k.chiffrerPourInitiateur(paire.publique, {}, id)), 'inconnue')
 await api.supprimer(S, id, jeton)
 await echoue(api.questionnaire(S, id), 'inconnue')
+// Un identifiant effacé ne peut pas resservir : l'ancien lien ne doit jamais mener à une consultation recréée par un autre.
+await echoue(api.creer(S, { id, questionnaire: await k.chiffrerAvecCle(cleLien, questionnaire, id), admin: await k.empreinte(k.nouveauJeton()), cloture_le: demain, conservation_jours: 30, secours: [copie] }), 'existe')
+// Une date de clôture au delà d'un an est refusée (sinon la consultation ne serait jamais effacée).
+const id2 = k.nouvelIdentifiant()
+await echoue(api.creer(S, { id: id2, questionnaire: await k.chiffrerAvecCle(cleLien, questionnaire, id2), admin: await k.empreinte(jeton), cloture_le: '2030-01-01', conservation_jours: 30, secours: [copie] }), 'cloture')
+// Les limites ne se contournent pas avec un faux en-tête X-Forwarded-For (limite réglée à 5 réponses par heure pour l'essai).
+const id3 = k.nouvelIdentifiant()
+await api.creer(S, { id: id3, questionnaire: await k.chiffrerAvecCle(cleLien, questionnaire, id3), admin: await k.empreinte(jeton), cloture_le: demain, conservation_jours: 30, secours: [copie] })
+const statuts: number[] = []
+for (let i = 0; i < 6; i++) {
+  const r = await fetch(`${S}?action=repondre`, { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-Forwarded-For': `10.0.0.${i}` }, body: JSON.stringify({ id: id3, boite: await k.chiffrerPourInitiateur(paire.publique, {}, id3) }) })
+  statuts.push(r.status)
+}
+assert.deepEqual(statuts, [201, 201, 201, 201, 201, 429])
 console.log('essai consultation : tout est conforme')

@@ -1,9 +1,9 @@
 // Rapport d'une consultation réelle : la synthèse, les chiffres comparés à la simulation, puis toutes les données
 // brutes rendues anonymes. Un seul document, autonome, à imprimer ou à enregistrer en PDF.
 import { LIBELLES, libelleValeur } from './libelles'
-import { MASQUE, SEUIL_ANONYMAT, versCsv } from './analyse'
+import { MASQUE, SEUIL_ANONYMAT, publier, versCsv } from './analyse'
 import type { Analyse, LigneAnonyme, LigneComptage } from './analyse'
-import type { Questionnaire, RepereSimulation, Synthese } from './types'
+import type { CleCategorie, Questionnaire, RepereSimulation, Synthese } from './types'
 
 const echapper = (s: unknown) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c] ?? c)
 const paragraphes = (s: string) => s.split(/\n{2,}|\n/).filter((x) => x.trim()).map((x) => `<p>${echapper(x)}</p>`).join('')
@@ -37,12 +37,13 @@ const T = {
     engagement: "Jusqu'où les personnes iraient",
     formats: 'Format préféré',
     qui: 'Qui a répondu',
-    quiAide: `Comparé à la population estimée par le panel. Un groupe de moins de ${SEUIL_ANONYMAT} personnes n'est jamais chiffré.`,
+    quiAide: `Comparé à la population estimée par le panel. Les groupes de moins de ${SEUIL_ANONYMAT} personnes et les personnes sans réponse sont réunis dans une même ligne, d'au moins ${SEUIL_ANONYMAT} personnes, pour qu'aucun petit groupe ne puisse être déduit.`,
+    autres: (noms: string[], sans: boolean) => `Réunis : ${[...noms, ...(sans ? ['sans réponse'] : [])].join(', ')}`,
     population: 'Population',
     moinsDe: `moins de ${SEUIL_ANONYMAT}`,
     sansReponse: 'Sans réponse',
     parCategorie: 'Soutien par catégorie, réel et simulé',
-    parCategorieAide: `Score moyen de soutien. Seuls les groupes d'au moins ${SEUIL_ANONYMAT} personnes sont montrés.`,
+    parCategorieAide: `Score moyen de soutien. Les groupes de moins de ${SEUIL_ANONYMAT} personnes sont réunis, de la même manière.`,
     questions: "Réponses aux questions de l'organisateur",
     moyenne: 'Moyenne',
     repondants: 'répondants',
@@ -94,12 +95,13 @@ const T = {
     engagement: 'How far people would go',
     formats: 'Preferred format',
     qui: 'Who answered',
-    quiAide: `Compared with the population estimated by the panel. A group of fewer than ${SEUIL_ANONYMAT} people is never given a figure.`,
+    quiAide: `Compared with the population estimated by the panel. Groups of fewer than ${SEUIL_ANONYMAT} people and people who did not answer are combined in a single row of at least ${SEUIL_ANONYMAT} people, so that no small group can be deduced.`,
+    autres: (noms: string[], sans: boolean) => `Combined: ${[...noms, ...(sans ? ['no answer'] : [])].join(', ')}`,
     population: 'Population',
     moinsDe: `fewer than ${SEUIL_ANONYMAT}`,
     sansReponse: 'No answer',
     parCategorie: 'Support by category, real and simulated',
-    parCategorieAide: `Average support score. Only groups of at least ${SEUIL_ANONYMAT} people are shown.`,
+    parCategorieAide: `Average support score. Groups of fewer than ${SEUIL_ANONYMAT} people are combined in the same way.`,
     questions: "Answers to the organiser's questions",
     moyenne: 'Average',
     repondants: 'respondents',
@@ -154,24 +156,26 @@ export function rapportConsultation(e: Entree): string {
   const t = T[q.langue]
   const date = new Date().toLocaleDateString(q.langue === 'fr' ? 'fr-CH' : 'en-GB', { day: 'numeric', month: 'long', year: 'numeric' })
   const citer = (x: string) => (q.langue === 'fr' ? `«\u00a0${echapper(x)}\u00a0»` : `“${echapper(x)}”`)
-  const masque = (n: number) => (n > 0 && n < SEUIL_ANONYMAT ? t.moinsDe : String(n))
   const parId = new Map(q.questions.map((x) => [x.id, x]))
 
-  const qui = a.categories
+  // Tableaux par catégorie : seulement la vue publiable, où les petits groupes sont réunis (voir publier).
+  const publiees = publier(a)
+  const nomLigne = (cle: CleCategorie, l: { options: string[]; autres: boolean }) =>
+    l.autres ? t.autres(l.options.filter(Boolean).map((o) => libelleValeur(q.langue, cle, o)), l.options.includes('')) : libelleValeur(q.langue, cle, l.options[0])
+  const qui = publiees
     .map((c) => {
       const lignesC = c.lignes
-        .map((l) => `<tr><th scope="row">${echapper(libelleValeur(q.langue, c.cle, l.option))}</th><td>${masque(l.n)}</td><td>${l.n >= SEUIL_ANONYMAT ? pct(l.part) : ''}</td><td>${pct(l.part_reference)}</td></tr>`)
+        .map((l) => `<tr${l.autres ? ' class="discret"' : ''}><th scope="row">${echapper(nomLigne(c.cle, l))}</th><td>${l.n}</td><td>${pct(l.part)}</td><td>${pct(l.part_reference)}</td></tr>`)
         .join('')
-      return `<h3>${echapper(L.categorieCourt[c.cle])}</h3><table><thead><tr><th></th><th>${t.personnes}</th><th>%</th><th>${t.population}</th></tr></thead><tbody>${lignesC}<tr class="discret"><th scope="row">${t.sansReponse}</th><td>${masque(c.sans_reponse)}</td><td></td><td></td></tr></tbody></table>`
+      return `<h3>${echapper(L.categorieCourt[c.cle])}</h3><table><thead><tr><th></th><th>${t.personnes}</th><th>%</th><th>${t.population}</th></tr></thead><tbody>${lignesC}</tbody></table>`
     })
     .join('')
 
-  const parCategorie = a.scores
-    .map((sc) => {
-      const visibles = sc.lignes.filter((l) => l.reel !== null)
-      if (!visibles.length) return ''
-      return `<h3>${echapper(L.categorieCourt[sc.cle])}</h3><table><thead><tr><th></th><th>${t.personnes}</th><th>${t.reel}</th>${sim ? `<th>${t.simule}</th>` : ''}</tr></thead><tbody>${visibles
-        .map((l) => `<tr><th scope="row">${echapper(libelleValeur(q.langue, sc.cle, l.option))}</th><td>${l.n}</td><td>${score(l.reel)}</td>${sim ? `<td>${score(l.simule)}</td>` : ''}</tr>`)
+  const parCategorie = publiees
+    .map((c) => {
+      if (!c.scores.length) return ''
+      return `<h3>${echapper(L.categorieCourt[c.cle])}</h3><table><thead><tr><th></th><th>${t.personnes}</th><th>${t.reel}</th>${sim ? `<th>${t.simule}</th>` : ''}</tr></thead><tbody>${c.scores
+        .map((l) => `<tr${l.autres ? ' class="discret"' : ''}><th scope="row">${echapper(nomLigne(c.cle, l))}</th><td>${l.n}</td><td>${score(l.reel)}</td>${sim ? `<td>${score(l.simule)}</td>` : ''}</tr>`)
         .join('')}</tbody></table>`
     })
     .join('')

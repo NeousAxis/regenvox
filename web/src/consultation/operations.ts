@@ -4,6 +4,7 @@ import { api, SERVEUR_PAR_DEFAUT } from './api'
 import { enregistrerConsultation } from './stockage'
 import { anonymiser } from './analyse'
 import { MASQUAGE } from './libelles'
+import { FORMATS, POSITIONS } from './types'
 import type { ConsultationLocale, Questionnaire, RepereSimulation, Reponse } from './types'
 
 export interface ParametresCreation {
@@ -81,7 +82,7 @@ export async function envoyerReponse(q: Questionnaire, reponse: Reponse, serveur
 export async function releverReponses(c: ConsultationLocale): Promise<ConsultationLocale> {
   const boites = await api.relever(c.serveur, c.id, c.jeton)
   const lues = await Promise.allSettled(boites.map((b) => k.dechiffrerReponse<Reponse>(c.privee, b, c.id)))
-  const reponses = lues.filter((x): x is PromiseFulfilledResult<Reponse> => x.status === 'fulfilled' && reponseValide(x.value)).map((x) => x.value)
+  const reponses = melanger(lues.filter((x): x is PromiseFulfilledResult<Reponse> => x.status === 'fulfilled' && reponseValide(x.value, c.questionnaire)).map((x) => x.value))
   const etat = await api.compter(c.serveur, c.id, c.jeton)
   const memes = c.reponses?.length === reponses.length && !!c.lignes_anonymes
   // De nouvelles réponses changent la numérotation anonyme : l'ancienne synthèse ne correspond plus et doit être refaite.
@@ -100,10 +101,48 @@ export async function releverReponses(c: ConsultationLocale): Promise<Consultati
   return maj
 }
 
-function reponseValide(r: unknown): r is Reponse {
-  if (!r || typeof r !== 'object') return false
-  const x = r as Reponse
-  return x.version === 1 && typeof x.categories === 'object' && x.categories !== null && typeof x.reponses === 'object' && x.reponses !== null
+// Toute personne qui a le lien peut chiffrer n'importe quoi pour la clé de l'organisation : chaque champ est donc contrôlé,
+// et une réponse mal formée est écartée comme illisible au lieu de bloquer le relevé.
+const estTexte = (v: unknown, max: number) => typeof v === 'string' && v.length <= max
+const facultatif = (v: unknown, ok: (x: unknown) => boolean) => v === undefined || ok(v)
+
+export function reponseValide(r: unknown, q: Questionnaire): r is Reponse {
+  if (!r || typeof r !== 'object' || Array.isArray(r)) return false
+  const x = r as Record<string, unknown>
+  if (x.version !== 1 || !estTexte(x.envoyee_le, 20)) return false
+  const cats = x.categories
+  if (!cats || typeof cats !== 'object' || Array.isArray(cats)) return false
+  for (const [k, v] of Object.entries(cats)) {
+    const def = q.categories.find((c) => c.cle === k)
+    if (!def || typeof v !== 'string' || (v !== '' && !def.options.includes(v))) return false
+  }
+  if (!facultatif(x.position, (v) => (POSITIONS as readonly unknown[]).includes(v))) return false
+  if (!facultatif(x.engagement, (v) => Number.isInteger(v) && (v as number) >= 0 && (v as number) <= 4)) return false
+  if (!facultatif(x.format, (v) => (FORMATS as readonly unknown[]).includes(v))) return false
+  for (const champ of ['avis', 'freins', 'envie']) if (!facultatif(x[champ], (v) => estTexte(v, 4000))) return false
+  const reps = x.reponses
+  if (!reps || typeof reps !== 'object' || Array.isArray(reps)) return false
+  for (const [k, v] of Object.entries(reps)) {
+    const qu = q.questions.find((y) => y.id === k)
+    if (!qu) return false
+    const ok =
+      qu.type === 'texte' ? estTexte(v, 4000)
+      : qu.type === 'echelle' ? Number.isInteger(v) && (v as number) >= 1 && (v as number) <= 5
+      : qu.type === 'choix' ? typeof v === 'string' && (qu.options ?? []).includes(v)
+      : Array.isArray(v) && v.length <= (qu.options ?? []).length && v.every((y) => typeof y === 'string' && (qu.options ?? []).includes(y))
+    if (!ok) return false
+  }
+  return true
+}
+
+// Les réponses sont gardées dans un ordre tiré au hasard : l'ordre d'arrivée ne dit rien de qui a répondu quand.
+function melanger<T>(xs: T[]): T[] {
+  const copie = [...xs]
+  for (let i = copie.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[copie[i], copie[j]] = [copie[j], copie[i]]
+  }
+  return copie
 }
 
 // Récupère une consultation sur un autre appareil, ou après la perte de celui-ci, avec son code et une phrase de secours.
