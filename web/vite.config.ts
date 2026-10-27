@@ -16,7 +16,8 @@ export default defineConfig({
       { find: /^node:path$/, replacement: path.resolve(ici, 'node_modules/path-browserify/index.js') },
     ],
   },
-  server: { fs: { allow: [path.resolve(ici, '..')] } },
+  // En développement, le serveur de collecte (PHP) tourne à part : php -S 127.0.0.1:8766 -t public.
+  server: { fs: { allow: [path.resolve(ici, '..')] }, proxy: { '/api': 'http://127.0.0.1:8766' } },
   build: {
     outDir: 'dist',
     emptyOutDir: true,

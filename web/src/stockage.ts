@@ -5,8 +5,10 @@
 import type { CleApi, EtatEtape, Fournisseur, Groupe, ParametresTest, Projet, Territoire, TypeOrganisation } from './moteur'
 
 const NOM_BASE = 'regenvox'
-const VERSION_BASE = 1
+const VERSION_BASE = 2
 const MAGASIN = 'projets'
+// Consultations réelles (version 2 de la base) : voir consultation/stockage.ts.
+export const MAGASIN_CONSULTATIONS = 'consultations'
 
 export class ErreurStockage extends Error {
   constructor(message = 'stockage indisponible') {
@@ -36,6 +38,9 @@ function ouvrirBase(): Promise<IDBDatabase> {
         if (!db.objectStoreNames.contains(MAGASIN)) {
           db.createObjectStore(MAGASIN, { keyPath: 'id' })
         }
+        if (!db.objectStoreNames.contains(MAGASIN_CONSULTATIONS)) {
+          db.createObjectStore(MAGASIN_CONSULTATIONS, { keyPath: 'id' })
+        }
       }
       requete.onsuccess = () => {
         const db = requete.result
@@ -56,20 +61,21 @@ function ouvrirBase(): Promise<IDBDatabase> {
   return basePromise
 }
 
-async function transaction<T>(
+export async function transaction<T>(
   mode: IDBTransactionMode,
   action: (magasin: IDBObjectStore) => IDBRequest<T>,
+  magasin: string = MAGASIN,
 ): Promise<T> {
   const db = await ouvrirBase()
   return new Promise<T>((resolve, reject) => {
     let tx: IDBTransaction
     try {
-      tx = db.transaction(MAGASIN, mode)
+      tx = db.transaction(magasin, mode)
     } catch (e) {
       reject(new ErreurStockage(e instanceof Error ? e.message : undefined))
       return
     }
-    const requete = action(tx.objectStore(MAGASIN))
+    const requete = action(tx.objectStore(magasin))
     tx.oncomplete = () => resolve(requete.result)
     tx.onerror = () => reject(new ErreurStockage(tx.error?.message))
     tx.onabort = () => reject(new ErreurStockage(tx.error?.message ?? 'transaction annulée'))
@@ -79,7 +85,7 @@ async function transaction<T>(
 let persistanceDemandee = false
 
 // Demande au navigateur de ne pas effacer les projets quand l'espace disque manque.
-function demanderPersistance(): void {
+export function demanderPersistance(): void {
   if (persistanceDemandee) return
   persistanceDemandee = true
   try {

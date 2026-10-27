@@ -1,0 +1,6 @@
+# Seul le point d'entrée du serveur de collecte est accessible : ni les réglages, ni les données.
+<FilesMatch "^(config|config\.exemple)\.php$">
+  Require all denied
+</FilesMatch>
+RedirectMatch 404 ^/api/donnees(/.*)?$
+Options -Indexes

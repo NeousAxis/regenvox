@@ -3,3 +3,5 @@ dist/
 .env.local
 public/donnees/
 public/communes_index.json
+public/api/config.php
+public/api/donnees/

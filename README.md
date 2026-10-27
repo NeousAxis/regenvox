@@ -4,7 +4,7 @@
 
 Une commune, une administration (canton, Confédération), une école, une entreprise ou une ONG y teste sa démarche en quatre étapes : qui elle est, sa population (une commune, un canton ou la Suisse, construits à partir des statistiques publiques de l'OFS ; ou ses membres, par groupes), sa démarche, sa clé API. Le rapport arrive en 10 à 20 minutes.
 
-- **Souveraineté** : tout tourne dans le navigateur de l'utilisateur. Sa clé part uniquement vers le fournisseur d'IA qu'il a choisi (Anthropic, Mistral AI, OpenAI, ou un service compatible : DeepSeek, Kimi, Qwen, Meta, OpenRouter pour GLM, Muse et d'autres). Ses démarches et ses rapports restent sur son appareil, dans un fichier qu'il range où il veut. Régénère Plus ne reçoit rien et n'héberge que des fichiers fixes, chez Infomaniak, en Suisse.
+- **Souveraineté** : tout tourne dans le navigateur de l'utilisateur. Sa clé part uniquement vers le fournisseur d'IA qu'il a choisi (Anthropic, Mistral AI, OpenAI, ou un service compatible : DeepSeek, Kimi, Qwen, Meta, OpenRouter pour GLM, Muse et d'autres). Ses démarches et ses rapports restent sur son appareil, dans un fichier qu'il range où il veut. Régénère Plus ne reçoit rien de lisible : il héberge des fichiers fixes et, pour les consultations réelles, des réponses chiffrées qu'il ne peut pas ouvrir, chez Infomaniak, en Suisse.
 - **Code** : `web/` (interface React), `src/pipeline.ts` (enchaînement des étapes), `src/plateforme.ts` (construction du cas), `src/vocabulaire.ts` (messages adaptés au type d'organisation), `src/rapport.ts` (rapport), `src/appels.ts` (fournisseurs), `web/src/moteur/navigateur/` (le moteur dans le navigateur, avec un système de fichiers en mémoire).
 - **Données publiques** : `data/communes_ch.json` (2110 communes, 26 cantons et la Suisse, construit par `scripts/build_communes_ch.py`), découpé par canton et compressé au moment de la construction (`scripts/decouper_donnees.ts`).
 - **Essais** : `npx tsx scripts/essai_pipeline.ts` rejoue un test complet sans appel payant ; `npx tsx scripts/essai_vocabulaire.ts` affiche les messages préparés pour une commune, un canton et une école.
@@ -12,6 +12,17 @@ Une commune, une administration (canton, Confédération), une école, une entre
 ```bash
 cd web && npm install && npm run build   # construit web/dist, à déposer tel quel sur l'hébergement
 ```
+
+### La consultation réelle (phase 2)
+
+Une prospective terminée sert de base à une vraie consultation : un questionnaire court, partagé par lien (avis en ligne) ou par QR code (atelier sur place, chacun répond sur son téléphone). Il reprend la formulation testée et les catégories du panel simulé, plus les questions de l'organisation, pour comparer ensuite les vraies réponses à la simulation.
+
+- **Chiffrement de bout en bout** (`web/src/consultation/chiffrement.ts`, WebCrypto) : le questionnaire est chiffré avec une clé placée après le `#` du lien, jamais envoyée au serveur ; chaque réponse est chiffrée dans le téléphone du contributeur pour la seule clé de l'organisation (ECDH P-256, HKDF, AES-GCM). La clé privée reste sur l'appareil de l'organisation, rangée non exportable.
+- **Phrase de secours** : à la création, une phrase de 24 caractères (120 bits), éventuellement une seconde pour une autre personne. Elle verrouille une copie de la clé (PBKDF2, 310 000 itérations) que le serveur garde et rend sur demande, avec les réponses chiffrées, sans pouvoir l'ouvrir : seule la phrase l'ouvre, sur l'appareil de l'organisation (page « Récupérer une consultation »).
+- **Anonymat** : ni nom, ni adresse, ni heure ; dans le rapport, aucun groupe de moins de 5 personnes n'est chiffré, et les données brutes en annexe (et en CSV) sont rendues anonymes : toute combinaison de catégories y est partagée par au moins 5 personnes, les coordonnées écrites dans les textes libres sont retirées, les lignes sont mélangées.
+- **Synthèse** : avec la clé d'IA de l'organisation, dans le même cadre que la simulation (lecture des groupes et des objections, relecture critique, rédaction). L'IA ne reçoit que les données anonymes ; chaque citation est vérifiée mot pour mot dans les réponses, sinon refusée.
+- **Serveur de collecte** : un seul fichier PHP sans base de données (`web/public/api/consultation.php`), qui ne range que des boîtes chiffrées et efface tout à la fin de la durée de conservation choisie. Une commune peut l'installer sur son propre hébergement. Réglages dans `config.php` (modèle : `config.exemple.php`), dont les codes d'accès : `npx tsx scripts/code_consultation.ts` crée un code et l'empreinte à y inscrire.
+- **Essais** : `web/scripts/essai_consultation.sh` (chiffrement et serveur, de bout en bout, avec le PHP local) et `npx tsx web/scripts/essai_synthese.ts` (anonymat et synthèse avec un faux modèle).
 
 RegenVox s'appelait Résonance jusqu'au 27 octobre 2026 : les prévisions et protocoles publiés avant cette date portent l'ancien nom et ne sont pas modifiés.
 

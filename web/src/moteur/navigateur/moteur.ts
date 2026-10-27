@@ -50,6 +50,12 @@ async function clientAppel(cle: CleApi): Promise<Appel> {
   return async (r: Requete) => appelMistral(client, r.model, r);
 }
 
+// Appel au modèle pour la synthèse d'une consultation réelle, avec la même clé et les mêmes fournisseurs que les tests.
+export async function appelPourSynthese(cle: CleApi): Promise<Appel> {
+  if (!memoire.existsSync(`${RACINE}/fournisseurs.json`)) memoire.writeFileSync(`${RACINE}/fournisseurs.json`, JSON.stringify(fournisseurs));
+  return clientAppel(cle);
+}
+
 // Client Mistral minimal (appel HTTP direct) : le SDK complet embarque des modules réservés à Node.
 const MISTRAL = "https://api.mistral.ai/v1";
 async function mistral(cle: string, chemin: string, corps?: unknown) {

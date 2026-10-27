@@ -50,6 +50,14 @@ export default function Layout() {
             >
               {t('general.mesTests')}
             </NavLink>
+            <NavLink
+              to="/consultations"
+              className={({ isActive }) =>
+                `text-sm font-semibold px-2 py-2 rounded-lg ${isActive ? 'text-ocean-dark underline underline-offset-4' : 'text-dark-light hover:text-ocean-dark'}`
+              }
+            >
+              {t('general.consultations')}
+            </NavLink>
             <LanguageToggle />
             {!surFormulaire && (
               <Link to="/nouveau" className="btn btn-primaire btn-petit hidden sm:inline-flex">

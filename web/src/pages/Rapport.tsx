@@ -4,6 +4,7 @@ import { useLanguage } from '../i18n/LanguageContext'
 import { telechargerProjet } from '../stockage'
 import { useTitre } from '../titre'
 import { useProjet } from '../useProjet'
+import { prospectiveExploitable } from '../consultation/simulation'
 
 // Le rapport est affiché dans un cadre isolé : aucun script du rapport ne s'exécute
 // (pas de allow-scripts). allow-same-origin permet seulement à la page de mesurer
@@ -121,6 +122,15 @@ export default function Rapport() {
         <p id="astuce-pdf" className="mt-3 text-sm text-dark-light">
           {t('rapport.astuce')}
         </p>
+        {prospectiveExploitable(projet) && (
+          <section aria-labelledby="passer" className="mt-6 rounded-2xl border border-ocean/40 bg-white p-5 max-w-3xl">
+            <h2 id="passer" className="font-serif text-xl font-bold text-dark">{t('cons.passer.titre')}</h2>
+            <p className="mt-2 text-dark leading-relaxed">{t('cons.passer.texte')}</p>
+            <Link to={`/consultations/nouvelle/${encodeURIComponent(projet.id)}`} className="btn btn-primaire mt-4">
+              {t('cons.passer.bouton')}
+            </Link>
+          </section>
+        )}
       </div>
       <div className="bg-white border-y border-mist">
         <iframe
