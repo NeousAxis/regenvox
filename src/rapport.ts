@@ -95,9 +95,9 @@ ${est.par_formulation.length > 1 ? `<div class="tbl"><table><thead><tr><th>Formu
     : "";
   const sectionMob = mob
     ? `<div class="panel"><h3 style="margin-top:0">Intentions déclarées par le panel, par format (plafonds)</h3>
-<p class="small">Chaque ${membres === "habitants" ? "habitant" : "membre"} simulé a estimé sa probabilité de participer réellement à chaque format. Ces chiffres sont des plafonds : lors de nos tests à l'aveugle, les panels ont surestimé la participation réelle d'un facteur 2 à 8. Servez-vous en pour comparer les formats et les formulations entre eux, pas comme une prévision de fréquentation.</p>
+<p class="small">Chaque ${membres === "habitants" ? "habitant" : "membre"} simulé a estimé sa probabilité de participer réellement à chaque format. Ces chiffres sont des plafonds : lors de nos tests à l'aveugle, les panels ont surestimé la participation réelle d'un facteur 2 à 8. Servez-vous-en pour comparer les formats et les formulations entre eux, pas comme une prévision de fréquentation.</p>
 <div class="tbl"><table><thead><tr><th>Formulation</th>${FMT.map(([, l]) => `<th>${l}</th>`).join("")}</tr></thead><tbody>${lignesMob}</tbody></table></div>
-${mobReco?.effet_invitation ? `<p class="verdict">Une invitation personnelle par un proche multiplie la venue à l'atelier par ${String(mobReco.effet_invitation).replace(".", ",")} sur la formulation recommandée.</p>` : ""}</div>`
+${mobReco?.effet_invitation ? `<p class="verdict">Avec la formulation recommandée, une invitation personnelle par un proche multiplie par ${String(mobReco.effet_invitation).replace(".", ",")} la participation à l'atelier.</p>` : ""}</div>`
     : "";
 
   const voix = soc.ambassadeurs_potentiels
