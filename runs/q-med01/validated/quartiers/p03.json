@@ -1,0 +1,11 @@
+{
+  "id": "p03",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.06,
+      "partage_proba": 0.12,
+      "raison": "Je travaille à mon compte et je n'ai pas vraiment suivi cette consultation : la démarche en ligne avec identification biométrique et code PIN me semble lourde, et je n'en ai guère parlé autour de moi, même si je croise du monde en vendant."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "ecrit_le": "2026-10-26T20:40:56.765Z",
+  "previsions": [
+    {
+      "id": "med01",
+      "nom": "Popular",
+      "population_eligible": 117633,
+      "taux_panel": 0.0737,
+      "participants_panel": 8670,
+      "participants_modele_seul": 7600,
+      "participants_hybride": 4000,
+      "participants_rang_panel_niveau_modele": 6597
+    },
+    {
+      "id": "med02",
+      "nom": "Santa Cruz",
+      "population_eligible": 98893,
+      "taux_panel": 0.0568,
+      "participants_panel": 5617,
+      "participants_modele_seul": 6400,
+      "participants_hybride": 2275,
+      "participants_rang_panel_niveau_modele": 4274
+    },
+    {
+      "id": "med03",
+      "nom": "Manrique",
+      "population_eligible": 147011,
+      "taux_panel": 0.0696,
+      "participants_panel": 10232,
+      "participants_modele_seul": 8800,
+      "participants_hybride": 4410,
+      "participants_rang_panel_niveau_modele": 7786
+    },
+    {
+      "id": "med04",
+      "nom": "Aranjuez",
+      "population_eligible": 130765,
+      "taux_panel": 0.0705,
+      "participants_panel": 9219,
+      "participants_modele_seul": 7200,
+      "participants_hybride": 3661,
+      "participants_rang_panel_niveau_modele": 7015
+    },
+    {
+      "id": "med05",
+      "nom": "Castilla",
+      "population_eligible": 117367,
+      "taux_panel": 0.0779,
+      "participants_panel": 9143,
+      "participants_modele_seul": 6400,
+      "participants_hybride": 3521,
+      "participants_rang_panel_niveau_modele": 6957
+    },
+    {
+      "id": "med06",
+      "nom": "Doce de Octubre",
+      "population_eligible": 161803,
+      "taux_panel": 0.0711,
+      "participants_panel": 11504,
+      "participants_modele_seul": 8900,
+      "participants_hybride": 5016,
+      "participants_rang_panel_niveau_modele": 8754
+    },
+    {
+      "id": "med07",
+      "nom": "Robledo",
+      "population_eligible": 171163,
+      "taux_panel": 0.0778,
+      "participants_panel": 13316,
+      "participants_modele_seul": 8600,
+      "participants_hybride": 5648,
+      "participants_rang_panel_niveau_modele": 10133
+    },
+    {
+      "id": "med08",
+      "nom": "Villa Hermosa",
+      "population_eligible": 135398,
+      "taux_panel": 0.06,
+      "participants_panel": 8124,
+      "participants_modele_seul": 8800,
+      "participants_hybride": 3250,
+      "participants_rang_panel_niveau_modele": 6182
+    },
+    {
+      "id": "med09",
+      "nom": "Buenos Aires",
+      "population_eligible": 144490,
+      "taux_panel": 0.0704,
+      "participants_panel": 10172,
+      "participants_modele_seul": 7900,
+      "participants_hybride": 4190,
+      "participants_rang_panel_niveau_modele": 7741
+    },
+    {
+      "id": "med10",
+      "nom": "La Candelaria",
+      "population_eligible": 75161,
+      "taux_panel": 0.0765,
+      "participants_panel": 5750,
+      "participants_modele_seul": 2300,
+      "participants_hybride": 2030,
+      "participants_rang_panel_niveau_modele": 4375
+    },
+    {
+      "id": "med11",
+      "nom": "Laureles-Estadio",
+      "population_eligible": 104805,
+      "taux_panel": 0.0699,
+      "participants_panel": 7326,
+      "participants_modele_seul": 3100,
+      "participants_hybride": 2515,
+      "participants_rang_panel_niveau_modele": 5575
+    },
+    {
+      "id": "med12",
+      "nom": "La América",
+      "population_eligible": 86691,
+      "taux_panel": 0.0722,
+      "participants_panel": 6259,
+      "participants_modele_seul": 3500,
+      "participants_hybride": 2254,
+      "participants_rang_panel_niveau_modele": 4763
+    },
+    {
+      "id": "med13",
+      "nom": "San Javier",
+      "population_eligible": 141279,
+      "taux_panel": 0.069,
+      "participants_panel": 9748,
+      "participants_modele_seul": 9200,
+      "participants_hybride": 4521,
+      "participants_rang_panel_niveau_modele": 7418
+    },
+    {
+      "id": "med14",
+      "nom": "El Poblado",
+      "population_eligible": 108324,
+      "taux_panel": 0.0609,
+      "participants_panel": 6597,
+      "participants_modele_seul": 1600,
+      "participants_hybride": 1300,
+      "participants_rang_panel_niveau_modele": 5020
+    },
+    {
+      "id": "med15",
+      "nom": "Guayabal",
+      "population_eligible": 63674,
+      "taux_panel": 0.0592,
+      "participants_panel": 3770,
+      "participants_modele_seul": 2900,
+      "participants_hybride": 1464,
+      "participants_rang_panel_niveau_modele": 2868
+    },
+    {
+      "id": "med16",
+      "nom": "Belén",
+      "population_eligible": 197064,
+      "taux_panel": 0.0669,
+      "participants_panel": 13184,
+      "participants_modele_seul": 7900,
+      "participants_hybride": 5321,
+      "participants_rang_panel_niveau_modele": 10032
+    },
+    {
+      "id": "med50",
+      "nom": "San Sebastián de Palmitas",
+      "population_eligible": 4956,
+      "taux_panel": 0.0777,
+      "participants_panel": 385,
+      "participants_modele_seul": 600,
+      "participants_hybride": 198,
+      "participants_rang_panel_niveau_modele": 293
+    },
+    {
+      "id": "med60",
+      "nom": "San Cristóbal",
+      "population_eligible": 101518,
+      "taux_panel": 0.0666,
+      "participants_panel": 6761,
+      "participants_modele_seul": 6600,
+      "participants_hybride": 3046,
+      "participants_rang_panel_niveau_modele": 5145
+    },
+    {
+      "id": "med70",
+      "nom": "Altavista",
+      "population_eligible": 33937,
+      "taux_panel": 0.0695,
+      "participants_panel": 2359,
+      "participants_modele_seul": 2700,
+      "participants_hybride": 1120,
+      "participants_rang_panel_niveau_modele": 1795
+    },
+    {
+      "id": "med80",
+      "nom": "San Antonio de Prado",
+      "population_eligible": 84827,
+      "taux_panel": 0.0669,
+      "participants_panel": 5675,
+      "participants_modele_seul": 5500,
+      "participants_hybride": 2714,
+      "participants_rang_panel_niveau_modele": 4318
+    },
+    {
+      "id": "med90",
+      "nom": "Santa Elena",
+      "population_eligible": 20077,
+      "taux_panel": 0.0822,
+      "participants_panel": 1650,
+      "participants_modele_seul": 1800,
+      "participants_hybride": 1004,
+      "participants_rang_panel_niveau_modele": 1256
+    }
+  ]
+}

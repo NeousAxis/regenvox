@@ -1,0 +1,338 @@
+[
+  {
+    "id": "med01",
+    "nom": "Popular",
+    "run": "q-med01",
+    "population_eligible": 117633,
+    "taux_panel": 0.0737,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2876,
+    "raisons_echantillon": [
+      "64 ans, salarié·e du commerce, de l'hôtellerie et de la restauration, logement en estrato 2 (bajo) : Je ne suis pas très branchée sur les démarches de la mairie, l'inscription en ligne avec vérification biométrique et mes horaires de travail, dimanche compris, me découragent, et je n'ai sans doute pas remarqué l'annonce, donc j'en parlerais peu.",
+      "40 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 2 (bajo) : Je m'occupe de la maison et des soins sans relâche, la démarche en ligne avec validation biométrique me paraît compliquée et je n'ai pas vu d'information claire dans mon quartier, donc je n'ai probablement pas voté, mais je pourrais en parler avec des voisines si le sujet vient, car les projets concernent directement Popular.",
+      "62 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 2 (bajo) : Vendeur informel de 62 ans qui vit seul et travaille chaque jour dans la rue : le vote entièrement en ligne avec identification biométrique et le PIN envoyé par SMS me semblent trop lourds, et les points physiques du dimanche 20 septembre tombaient mal, même si la politique de Fajardo m'intéresse.",
+      "18 ans, en formation (apprentissage ou études), logement en estrato 1 (bajo-bajo) : Le vote se fait 100 % en ligne avec validation biométrique et PIN, et je ne suis pas concerné directement en formation chez mes parents, donc je ne l'aurais fait qu'après un rappel insistant ; je parle surtout de politique nationale avec mes proches, rarement de la mairie.",
+      "32 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 2 (bajo) : Éligible et sensibilisée à la politique, mais le vote en ligne avec identification biométrique, une fenêtre de cinq jours et mes horaires de service me font probablement passer à côté ; j'en parlerais sans doute à quelques proches, surtout à ceux qui suivent la politique locale.",
+      "81 ans, retraité·e, logement en estrato 2 (bajo) : Retraité de 81 ans peu à l'aise avec les démarches en ligne, je n'ai pas vu le vote du budget participatif présenté dans mon quartier, donc je ne pense pas y avoir participé, et je n'en parlerais que si la question venait dans une conversation avec mes voisins ou ma famille."
+    ]
+  },
+  {
+    "id": "med02",
+    "nom": "Santa Cruz",
+    "run": "q-med02",
+    "population_eligible": 98893,
+    "taux_panel": 0.0568,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.044,
+    "raisons_echantillon": [
+      "31 ans, sans emploi, logement en estrato 2 (bajo) : Comme étrangère, je ne pouvais voter qu'en présentiel le seul dimanche 20 septembre, et je n'ai pas entendu parler de cette démarche, donc il est très peu probable que je sois allée voter ; j'aurais peut-être évoqué le sujet avec mon compagnon si quelqu'un m'en avait parlé, mais ce n'est pas un sujet qui revient dans nos conversations.",
+      "14 ans, en formation (apprentissage ou études), logement en estrato 2 (bajo) : À 14 ans, tout juste à l'âge minimum, le vote passe par une inscription en ligne avec validation biométrique et un code reçu par SMS, que mes parents devraient m'aider à faire, et personne chez moi n'en a parlé, donc sans doute pas, même si j'en ai peut-être entendu parler à l'école.",
+      "46 ans, sans emploi, logement en estrato 2 (bajo) : Je n'ai pas vu cette consultation passer, le vote se faisait en ligne avec identification biométrique et, entre les enfants et la maison, je ne m'y suis pas mise, et j'en ai peut-être dit un mot à une voisine sans plus.",
+      "31 ans, salarié·e du transport, de l'agriculture et d'autres secteurs, logement en estrato 2 (bajo) : Je suis plutôt d'accord avec l'orientation de la mairie, mais le vote se fait entièrement en ligne avec validation biométrique, et entre mon travail dans le transport et les enfants je n'ai pas le temps de m'inscrire sur une plateforme que je ne connais pas.",
+      "46 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 2 (bajo) : Je travaille de longues journées dans le bâtiment et l'énergie, je vis seul et le vote 100 % en ligne avec identification biométrique ne m'attire pas, je n'ai pas suivi la date et je n'en parle à personne, sauf très rarement à un collègue.",
+      "68 ans, retraité·e, logement en estrato 1 (bajo-bajo) : Je vis seule et je suis peu à l'aise pour m'inscrire sur une plateforme en ligne avec identification biométrique, donc je n'irais voter que si je passais devant l'école du quartier le dimanche 20 septembre, ce qui reste peu probable, et comme je n'ai pas entendu parler de cette démarche autour de moi, je n'en parlerais que si quelqu'un me posait la question."
+    ]
+  },
+  {
+    "id": "med03",
+    "nom": "Manrique",
+    "run": "q-med03",
+    "population_eligible": 147011,
+    "taux_panel": 0.0696,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2283,
+    "raisons_echantillon": [
+      "67 ans, retraité·e, logement en estrato 2 (bajo) : Je vis à Manrique et je suis attaché à mon quartier, mais je n'ai pas vu passer ce vote et l'inscription en ligne avec identification biométrique me décourage, donc je ne pense pas y avoir participé, même si les affaires de la commune reviennent parfois dans mes discussions avec les voisins.",
+      "30 ans, sans emploi, logement en estrato 2 (bajo) : Je suis au chômage, donc j'ai du temps, et la politique locale m'intéresse à cause de ma proximité avec Pacto, mais le vote demande une inscription avec validation biométrique et un PIN sur une plateforme en ligne pendant cinq jours, et l'annonce du maire ne m'a pas vraiment marqué.",
+      "48 ans, salarié·e du transport, de l'agriculture et d'autres secteurs, logement en estrato 2 (bajo) : Entre mon travail, mes enfants et une inscription en ligne avec validation biométrique, le vote du budget participatif passe après le quotidien ; ce dispositif de la mairie me mobilise peu, venant d'une administration dont je ne partage pas l'orientation, donc je ne me suis probablement pas inscrite, et j'en parle rarement autour de moi.",
+      "23 ans, sans emploi, logement en estrato 1 (bajo-bajo) : Je n'ai pas vraiment suivi ce vote, l'inscription sur une plateforme avec validation biométrique me freine et je n'ai pas de projet précis à défendre pour mon quartier, donc je n'y ai probablement pas pris part et je n'en ai guère parlé autour de moi.",
+      "41 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 3 (medio-bajo) : Très occupée par son activité de vente et ses enfants, elle a peu de chances d'avoir suivi ce vote en ligne exigeant une validation biométrique, et elle n'en parlerait qu'occasionnellement, car ce sujet reste peu présent dans son entourage.",
+      "70 ans, retraité·e, logement en estrato 1 (bajo-bajo) : Éligible (70 ans, Colombienne, habitante de Manrique), elle aurait dû s'inscrire sur la plateforme avec validation biométrique ou se déplacer le dimanche 20 septembre, ce que la plupart des habitants de son milieu ne font pas, et sa proximité avec Fajardo la rend attentive à la politique locale sans en faire un sujet de conversation courant."
+    ]
+  },
+  {
+    "id": "med04",
+    "nom": "Aranjuez",
+    "run": "q-med04",
+    "population_eligible": 130765,
+    "taux_panel": 0.0705,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2062,
+    "raisons_echantillon": [
+      "56 ans, sans emploi, logement en estrato 2 (bajo) : Je suis sans emploi et je suis l'actualité politique, mais je n'ai pas entendu parler de ce vote en ligne du budget participatif, l'inscription avec validation biométrique et le déplacement au point de vote du dimanche me paraissent trop lourds pour une démarche municipale que je n'ai pas le réflexe de faire, donc j'ai probablement laissé passer ; j'en parlerais peut-être à des voisines si on me le demandait, mais le sujet ne vient pas naturellement dans mes conversations.",
+      "61 ans, étudiant·e, logement en estrato 2 (bajo) : Étudiante et seule chez moi, j'ai entendu parler du vote de façon vague sans voir de campagne autour de moi, et la procédure en ligne avec validation biométrique me semblait lourde à mon âge, donc je ne me suis pas inscrite.",
+      "17 ans, en formation (apprentissage ou études), logement en estrato 2 (bajo) : Éligible (17 ans, Colombienne, habitante d'Aranjuez depuis 2020), mais le vote exige un compte sur Vota PP avec validation biométrique et un PIN reçu par SMS, je connais mal le budget participatif, et mes études et mon couple prennent déjà presque tout mon temps.",
+      "27 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 3 (medio-bajo) : Proche de Pacto Histórico et sensible à la participation, mais le vote exigeait une inscription avec identification biométrique et un PIN, sur cinq jours seulement, alors que mes journées sont prises par les enfants et la maison, sans relais local pour m'y pousser ; j'en aurais parlé surtout à la maison, si la campagne m'a touché.",
+      "67 ans, retraité·e, logement en estrato 3 (medio-bajo) : Proche du Pacto Histórico, je suis de près la vie de la comuna, mais le vote passait par une inscription en ligne avec reconnaissance biométrique et je doute d'avoir franchi cette étape, donc j'en ai surtout parlé à deux ou trois voisines.",
+      "41 ans, sans emploi, logement en estrato 3 (medio-bajo) : Sans emploi, avec les enfants à la maison et du temps libre, j'aurais pu voter, mais je ne suis pas du genre à suivre les démarches de la mairie, je vote blanc d'habitude, et le vote en ligne avec validation biométrique et code envoyé par SMS me semble compliqué, donc je ne m'y suis probablement pas inscrite ; j'en ai peut-être entendu parler dans le quartier, mais je n'en ai pas vraiment discuté."
+    ]
+  },
+  {
+    "id": "med05",
+    "nom": "Castilla",
+    "run": "q-med05",
+    "population_eligible": 117367,
+    "taux_panel": 0.0779,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2537,
+    "raisons_echantillon": [
+      "41 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 3 (medio-bajo) : Le vote se fait en ligne et je suis à la maison, donc le temps ne me manque pas, mais je n'ai pas suivi l'appel de la mairie, je connais mal les projets du tarjetón de Castilla, et l'inscription avec validation biométrique puis code PIN me paraît une démarche de plus que je ne ferai pas.",
+      "56 ans, étudiant·e, logement en estrato 3 (medio-bajo) : Je suis proche d'un mouvement politique et je suis la vie de la ville, mais le budget participatif s'est fait peu voir autour de moi, et une inscription en ligne avec identification biométrique et code envoyé par SMS me décourage, donc je n'ai probablement pas voté ni beaucoup parlé du sujet.",
+      "45 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 3 (medio-bajo) : J'ai vaguement vu passer l'info du budget participatif, mais entre mes journées de travail, la vérification biométrique de la plateforme en ligne et des projets de quartier que je ne connais pas, je n'ai pas voté, et je n'en ai guère parlé autour de moi.",
+      "35 ans, sans emploi, logement en estrato 3 (medio-bajo) : Je n'ai pas vu l'intérêt de passer par la validation biométrique et le code PIN pour un vote dont je ne voyais pas l'effet sur mon quartier, et avec les enfants je n'en parle guère hors de la famille, sauf si une voisine évoque la démarche.",
+      "72 ans, retraité·e, logement en estrato 3 (medio-bajo) : À 72 ans, le vote en ligne avec validation biométrique me décourage et je n'ai pas le réflexe de me déplacer un dimanche pour un budget qui me paraît loin de mon quotidien, même si je suis la politique de la ville ; le sujet revient rarement dans mes conversations, donc j'en parlerais peu.",
+      "71 ans, retraité·e, logement en estrato 3 (medio-bajo) : Retraitée de 71 ans, je suis la vie politique de près mais le budget participatif de la mairie me semble lointain, et un vote uniquement en ligne avec identification biométrique pendant cinq jours me décourage, même si le point d'aide du dimanche existait ; j'en aurais peut-être parlé à quelques proches, sans plus."
+    ]
+  },
+  {
+    "id": "med06",
+    "nom": "Doce de Octubre",
+    "run": "q-med06",
+    "population_eligible": 161803,
+    "taux_panel": 0.0711,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2492,
+    "raisons_echantillon": [
+      "20 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 3 (medio-bajo) : Le vote se faisait entièrement en ligne, avec inscription, validation biométrique et code PIN par SMS, pendant une semaine où elle travaille à son compte et vit encore chez ses parents : la démarche n'a probablement pas traversé son quotidien. Le budget participatif ne l'intéresse guère, même si sa proximité avec un mouvement politique la rend un peu plus sensible à la vie civique, ce qui explique qu'elle pourrait en parler un peu plus souvent que voter.",
+      "59 ans, étudiant·e, logement en estrato 1 (bajo-bajo) : Éligible (59 ans, Colombien, habitant de Doce de Octubre depuis 2020), je ne prends presque jamais part aux démarches de la ville : un vote entièrement en ligne avec identification biométrique et code envoyé par SMS ou courriel, ou un déplacement le seul dimanche 20 septembre, me semble trop lourd, et je n'en parlerais probablement pas, car je vis seul et ce sujet ne revient pas dans mes conversations.",
+      "16 ans, en formation (apprentissage ou études), logement en estrato 2 (bajo) : A 16 ans, elle pourrait voter avec sa tarjeta de identidad, mais l'inscription en ligne avec validation biométrique et l'absence de relais dans sa formation la laissent très peu concernée, et elle n'en parlerait guère qu'à sa famille.",
+      "38 ans, sans emploi, logement en estrato 2 (bajo) : Sans emploi, avec une famille à charge et un intérêt politique surtout national, j'ai probablement manqué ce vote de comuna, peu visible et exigeant une inscription biométrique en ligne, et j'en parlerais peu autour de moi.",
+      "16 ans, en formation (apprentissage ou études), logement en estrato 2 (bajo) : Je ne me souviens pas d'une annonce qui m'ait donné envie de voter, l'inscription avec identité biométrique et le code envoyé par SMS me semblent une corvée, et à 16 ans je ne me sens pas concerné par le budget de la ville.",
+      "72 ans, retraité·e, logement en estrato 2 (bajo) : À 72 ans, retraité, la plateforme avec identification biométrique et code envoyé par SMS me freine beaucoup, donc je ne voterais que si un point physique est proche de chez moi, et j'en parlerais surtout à la maison ou au voisin si le sujet vient, sans le relancer."
+    ]
+  },
+  {
+    "id": "med07",
+    "nom": "Robledo",
+    "run": "q-med07",
+    "population_eligible": 171163,
+    "taux_panel": 0.0778,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2999,
+    "raisons_echantillon": [
+      "36 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 3 (medio-bajo) : Vendeuse informelle avec enfants, je n'ai ni le temps ni l'envie de passer par l'inscription biométrique et le code PIN du vote en ligne, et le budget participatif ne revient pas dans mes conversations, même si je vote blanc aux élections.",
+      "26 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 3 (medio-bajo) : Salariée des services, en couple et sans enfant, elle suit peu la vie municipale ; voter exige de s'inscrire sur la plateforme avec une validation biométrique, démarche qu'elle n'a aucune raison d'entreprendre, et le sujet ne circule guère dans son entourage, donc elle en a probablement peu parlé.",
+      "44 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 4 (medio) : Je suis au foyer et j'ai du temps à la maison, mais le vote du Presupuesto Participativo n'a pas été relayé autour de moi, la procédure en ligne avec identification biométrique et code PIN me paraît lourde pour un enjeu que je connais peu, et je n'ai pas le réflexe de suivre les démarches de la mairie.",
+      "28 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 2 (bajo) : Je n'ai probablement pas voté : je travaille à plein temps, je m'occupe de mes enfants, et la démarche en ligne avec identification biométrique sur une fenêtre de quelques jours ne m'a pas donné envie, donc je n'en ai sans doute parlé qu'en passant à mes proches.",
+      "21 ans, salarié·e du commerce, de l'hôtellerie et de la restauration, logement en estrato 2 (bajo) : Je suis proche du Pacto Histórico et je parle de politique avec des collègues, mais le Presupuesto Participativo a fait peu de bruit dans mon quartier, l'inscription avec validation biométrique me semble lourde, et mes horaires dans la restauration (dimanche compris) ne me laissent guère de temps pour ce genre de démarche.",
+      "14 ans, en formation (apprentissage ou études), logement en estrato 2 (bajo) : J'avais 14 ans en septembre 2026 : le vote se faisait en ligne avec validation biométrique et je n'ai presque rien entendu de cette campagne, donc je n'ai probablement pas voté, et je n'en ai guère parlé autour de moi, sauf peut-être à l'école si un prof en a dit un mot."
+    ]
+  },
+  {
+    "id": "med08",
+    "nom": "Villa Hermosa",
+    "run": "q-med08",
+    "population_eligible": 135398,
+    "taux_panel": 0.06,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1775,
+    "raisons_echantillon": [
+      "23 ans, salarié·e du commerce, de l'hôtellerie et de la restauration, logement en estrato 1 (bajo-bajo) : Je n'ai pas voté : le vote se faisait entièrement en ligne avec validation biométrique et code PIN, sur cinq jours où je travaillais en horaires décalés dans le commerce, et ce budget participatif ne m'a jamais vraiment concerné.",
+      "24 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 3 (medio-bajo) : Je n'ai vu aucune annonce du vote dans mon quartier et l'inscription avec validation biométrique et code SMS m'a découragée, mais je pourrais en parler à ma famille si le sujet revient.",
+      "39 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 1 (bajo-bajo) : J'ai vaguement entendu parler du vote, mais l'inscription en ligne avec identification biométrique me décourage et je n'ai pas de temps libre pour cela, si bien que je n'y participe probablement pas, même si j'en parlerais peut-être à des collègues si le sujet vient.",
+      "27 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 1 (bajo-bajo) : Je vends dans la rue du matin au soir avec des enfants à la maison, je n'ai pas vu d'information sur le vote de la mairie dans le quartier, et personne autour de moi n'en parle, donc je n'y ai probablement pas participé et je n'en ai sans doute pas parlé.",
+      "28 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 1 (bajo-bajo) : Le vote est en ligne et ouvert cinq jours, donc faisable, mais je n'ai pas vu d'appel clair à y participer et l'inscription avec validation biométrique me semble lourde à côté de mon travail dans les services, si bien que j'en parlerais peu, sauf si ma famille, mon compagnon ou une collègue s'y mettait.",
+      "69 ans, retraité·e, logement en estrato 2 (bajo) : Le vote se faisait entièrement en ligne, avec une validation biométrique et un code PIN reçu par SMS, et je vis seule sans personne pour m'aider à m'inscrire ; même si je suis sensible à la politique, ce budget participatif m'a paru lointain et je ne l'ai sans doute pas suivi, donc j'en ai peu parlé autour de moi."
+    ]
+  },
+  {
+    "id": "med09",
+    "nom": "Buenos Aires",
+    "run": "q-med09",
+    "population_eligible": 144490,
+    "taux_panel": 0.0704,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.242,
+    "raisons_echantillon": [
+      "68 ans, retraité·e, logement en estrato 3 (medio-bajo) : A 68 ans, retraité à Buenos Aires, je n'ai pas le réflexe de voter sur une plateforme en ligne avec identification biométrique, et le dimanche 20 septembre en présentiel ne m'a pas attiré, donc je suis probablement passé à côté, même si j'en ai peut-être parlé avec ma compagne ou des voisins.",
+      "21 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 3 (medio-bajo) : Au foyer et vivant chez ses parents, elle a peu de temps libre, et l'inscription en ligne avec validation biométrique et code PIN par SMS est une démarche que peu de gens de son entourage franchissent pour un dispositif municipal peu visible au quotidien ; son intérêt pour Pacto Histórico la rend un peu plus attentive à la politique locale, ce qui justifie une probabilité de partage un peu plus haute que celle de participation.",
+      "42 ans, salarié·e du commerce, de l'hôtellerie et de la restauration, logement en estrato 2 (bajo) : Je suis éligible (42 ans, résidente colombienne à Medellín), mais le vote se faisait uniquement en ligne avec validation biométrique, pendant une semaine où je travaille dans l'hôtellerie et la restauration, et le seul jour en présentiel tombait un dimanche, jour souvent travaillé dans mon secteur ; sans relais dans mon entourage ni information visible dans mon quartier, je ne me suis probablement pas inscrite.",
+      "93 ans, retraité·e, logement en estrato 3 (medio-bajo) : À 93 ans, le vote en ligne avec validation biométrique et code SMS me dépasse, et le point physique du dimanche suppose un déplacement que je ne fais plus seul ; j'en parle peu, sauf si mon entourage aborde le sujet de la mairie.",
+      "47 ans, sans emploi, logement en estrato 2 (bajo) : Sympathisant du Pacto Histórico, sans emploi et donc disponible, je pourrais m'intéresser à des projets qui touchent mon quartier et mes enfants, mais l'inscription en ligne avec validation biométrique et code PIN envoyé par SMS, puis le choix des projets sur le tarjetón de ma comuna, demandent une démarche que je ne fais pas spontanément, et je pense ne pas avoir voté.",
+      "23 ans, étudiant·e, logement en estrato 2 (bajo) : Éligible (23 ans, colombien, résident de la comuna), il n'a pas le réflexe de ce type de vote en ligne et ne suit pas les démarches de la ville, son intérêt politique allant vers les enjeux nationaux, donc il ne vote probablement pas ; il n'en parlerait que si le sujet venait naturellement en famille."
+    ]
+  },
+  {
+    "id": "med10",
+    "nom": "La Candelaria",
+    "run": "q-med10",
+    "population_eligible": 75161,
+    "taux_panel": 0.0765,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.35,
+    "raisons_echantillon": [
+      "35 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 2 (bajo) : Entre mon stand, les enfants et la démarche d'inscription sur une plateforme avec identification biométrique, je n'ai sans doute pas trouvé le temps de voter, et le sujet ne m'a guère occupée au point d'en parler autour de moi.",
+      "51 ans, étudiant·e, logement en estrato 3 (medio-bajo) : J'ai vaguement entendu parler de ce vote, mais entre mes cours du soir, l'inscription en ligne avec reconnaissance biométrique et le code envoyé par SMS, je n'ai pas pris le temps de voter, et je n'ai vu nulle part une liste claire des projets de mon quartier de La Candelaria ; si le sujet revient entre camarades ou voisins engagés, j'en parlerai peut-être, mais ce n'est pas une préoccupation pour moi.",
+      "52 ans, sans emploi, logement en estrato 3 (medio-bajo) : Éligible (52 ans, colombienne, habitante de La Candelaria depuis 2020), mais le budget participatif mobilise peu de monde et le vote en ligne avec identité biométrique et code PIN demande de l'aisance numérique (ou un déplacement le dimanche) ; ma sensibilité politique est réelle mais plutôt diffuse, donc j'ai peu de chances d'avoir voté, et j'en parlerais peut-être à quelques proches sans plus.",
+      "22 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 3 (medio-bajo) : Éligible (colombien, plus de 14 ans, habite Medellín), mais le vote est entièrement en ligne avec validation biométrique, sur cinq jours, et n'a aucun lien avec son quotidien de vendeur informel ; son intérêt pour le Pacto Histórico le rend un peu plus susceptible de voter qu'un habitant moyen, et il n'en parlerait que si le sujet venait dans la conversation avec ses parents ou des clients.",
+      "16 ans, en formation (apprentissage ou études), logement en estrato 4 (medio) : Je n'ai sans doute pas voté, car le vote se fait entièrement en ligne avec une validation biométrique et un code envoyé par SMS, et ce genre de démarche ne me concerne pas beaucoup à 16 ans, alors j'en parlerais peut-être à mes parents ou à des camarades si le sujet arrive, mais sans plus.",
+      "53 ans, étudiant·e, logement en estrato 4 (medio) : Proche de la droite et attentive à la politique, je pourrais voter, mais l'inscription en ligne avec identification biométrique et mon emploi du temps d'étudiante pèsent plus que ma bonne volonté, et je n'en parlerais qu'à ma famille ou à mes camarades si le sujet vient."
+    ]
+  },
+  {
+    "id": "med11",
+    "nom": "Laureles-Estadio",
+    "run": "q-med11",
+    "population_eligible": 104805,
+    "taux_panel": 0.0699,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1983,
+    "raisons_echantillon": [
+      "44 ans, sans emploi, logement en estrato 5 (medio-alto) : Sans emploi, j'ai le temps, et le vote en ligne se fait de chez moi, mais la démarche reste peu visible et ces projets ne me touchent pas directement, donc j'en parlerais surtout à quelqu'un qui me le demande.",
+      "51 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 4 (medio) : Le vote 100 % en ligne avec identification biométrique et code PIN envoyé par SMS me décourage, je me méfie d'un budget lancé par la mairie de Federico Gutiérrez, et je ne vois pas le lien concret avec ma vie de travailleur indépendant ; je parle de politique avec les clients et les voisins, mais ce sujet passe rarement dans la conversation.",
+      "27 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 5 (medio-alto) : Je suis assez informée de la vie de la ville, mais entre le travail, les enfants et une inscription avec validation biométrique sur la plateforme Vota PP pendant cinq jours, le vote n'a pas été une priorité, et je n'en aurais parlé que si quelqu'un de mon entourage l'avait évoqué.",
+      "92 ans, retraité·e, logement en estrato 5 (medio-alto) : À 92 ans et seul, sans habitude des démarches en ligne, je n'aurais pu voter qu'en ligne avec une identification biométrique ou en personne le dimanche 20 septembre, et je n'en aurais guère parlé, sauf si un proche m'en avait fait mention.",
+      "23 ans, étudiant·e, logement en estrato 5 (medio-alto) : Étudiant qui suit la politique par affinité avec Defensores de la Patria, mais le budget participatif est très peu relayé, exige une inscription en ligne et une validation biométrique, et ne fait pas partie de ses réflexes, donc il a sans doute laissé passer le vote et n'en a guère parlé autour de lui.",
+      "56 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 4 (medio) : Le vote en ligne demandait une inscription, une validation biométrique et un code envoyé par SMS, et je n'ai vu aucune campagne sur le budget participatif de Medellín ; à plein temps et seule, je ne m'y suis probablement pas engagée, et je n'en parlerais guère qu'à mes collègues si le sujet vient."
+    ]
+  },
+  {
+    "id": "med12",
+    "nom": "La América",
+    "run": "q-med12",
+    "population_eligible": 86691,
+    "taux_panel": 0.0722,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1935,
+    "raisons_echantillon": [
+      "37 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 4 (medio) : Vendeur indépendant qui vote blanc et suit peu la politique municipale, il n'a sans doute pas entendu parler de ce vote, ne prendrait pas le temps de l'inscription en ligne avec identification biométrique et n'en parlerait pas spontanément autour de lui.",
+      "63 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 5 (medio-alto) : Je suis éligible, mais le vote se fait sur une plateforme en ligne avec identification biométrique, pendant seulement cinq jours, et mon activité de vendeuse indépendante me laisse peu de temps pour ce genre de démarche ; je n'en entendrais probablement parler que par mon entourage, et je n'en parlerais guère qu'à ma famille ou à mes clients si le sujet venait.",
+      "29 ans, sans emploi, logement en estrato 5 (medio-alto) : Sans emploi donc avec du temps libre, et proche d'un mouvement politique qui suit la vie publique, mais le vote 100 % en ligne avec identification biométrique, la fenêtre de cinq jours et le fait de ne rien savoir des projets de ma comuna me font probablement passer à côté, et le sujet ne vient guère dans mes conversations.",
+      "73 ans, retraité·e, logement en estrato 3 (medio-bajo) : Retraitée proche de la vie politique du centre mais sans habitude des votes participatifs, elle aurait pu se rendre au point physique du dimanche 20 septembre, or la démarche a été très peu visible et l'inscription en ligne avec identification biométrique l'aurait découragée, donc elle n'y a probablement pas pris part et n'en a sans doute guère parlé autour d'elle.",
+      "19 ans, en formation (apprentissage ou études), logement en estrato 4 (medio) : Je suis proche du Pacto, mais ce vote a été très peu relayé autour de moi, l'inscription avec vérification biométrique me freine et je me méfie d'une mairie que je critique, donc je n'ai probablement pas voté et j'en parlerais rarement.",
+      "28 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 5 (medio-alto) : Au foyer avec de jeunes enfants, il suit peu la vie municipale et le Presupuesto Participativo lui paraît lointain, même si le vote en ligne est facile d'accès et que sa proximité avec Defensores de la Patria le rend un peu plus attentif à la politique locale."
+    ]
+  },
+  {
+    "id": "med13",
+    "nom": "San Javier",
+    "run": "q-med13",
+    "population_eligible": 141279,
+    "taux_panel": 0.069,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2467,
+    "raisons_echantillon": [
+      "69 ans, retraité·e, logement en estrato 2 (bajo) : Retraité qui vit seul, je ne suis pas un habitué de ces consultations, le vote se fait surtout en ligne avec identification biométrique et code envoyé par SMS, et même si la mairie en a beaucoup parlé je ne m'y suis pas vraiment senti concerné ; j'en ai peut-être touché un mot à un voisin ou dans un groupe de discussion, sans plus.",
+      "49 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 2 (bajo) : Je travaille dans l'industrie et je n'ai ni le temps ni l'envie de m'inscrire sur une plateforme avec validation biométrique pour un vote dont j'ai presque rien entendu dans mon quartier, donc je n'en parle guère non plus.",
+      "47 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 2 (bajo) : Je travaille à mon compte dans la vente informelle, les journées sont prises par le travail, et une inscription en ligne avec identification biométrique et code SMS me paraît trop compliquée pour une consultation municipale dont on parle peu dans mon quartier, donc je n'ai probablement pas voté et j'en parle rarement.",
+      "21 ans, étudiant·e, logement en estrato 3 (medio-bajo) : Entre mes cours et la maison je n'ai pas le réflexe de ce genre de vote : il fallait créer un compte, valider mon identité par la biométrie et choisir des projets que je ne connais pas, sur seulement cinq jours, donc je n'ai probablement pas voté ; j'ai peut-être vu passer une annonce sur les réseaux, mais je n'en parlerais que si quelqu'un me posait la question.",
+      "46 ans, salarié·e du transport, de l'agriculture et d'autres secteurs, logement en estrato 2 (bajo) : Entre mon travail dans le transport et l'agriculture, les enfants à la maison et l'inscription en ligne avec validation biométrique, je n'ai probablement pas voté, et je n'en ai parlé que si une voisine ou quelqu'un de la JAL m'en parlait en premier.",
+      "44 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 3 (medio-bajo) : Entre mon travail et les enfants, je n'ai pas suivi le budget participatif de la comuna et l'inscription en ligne avec validation biométrique m'a semblé trop lourde, mais le sujet peut revenir dans une discussion de quartier ou au travail."
+    ]
+  },
+  {
+    "id": "med14",
+    "nom": "El Poblado",
+    "run": "q-med14",
+    "population_eligible": 108324,
+    "taux_panel": 0.0609,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.0428,
+    "raisons_echantillon": [
+      "25 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 6 (alto) : Je travaille dans le bâtiment et l'énergie avec deux enfants à la maison, l'inscription en ligne avec validation biométrique me décourage, et le budget participatif est peu visible dans mon quartier, même si je suis proche d'un parti et que je m'intéresse à la politique locale.",
+      "23 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 6 (alto) : Éligible (23 ans, résident à Medellín depuis 2020), mais le vote exige une inscription en ligne avec validation biométrique et je n'ai vu aucun projet concret pour El Poblado, donc je n'ai probablement pas voté ; c'est un sujet que mon entourage de jeunes salariés aborde peu, même si ma sympathie pour Pacto Histórico me fait parfois en discuter dans un cadre politique.",
+      "58 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 6 (alto) : Je n'ai pas le réflexe de suivre les annonces de la mairie, le vote entièrement en ligne avec validation biométrique me freine, et le budget participatif concerne surtout des quartiers qui en ont besoin, pas le mien ; je bavarde beaucoup avec mes clients, mais ce sujet ne revient jamais dans nos conversations.",
+      "48 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 6 (alto) : Éligible et attentive à la politique municipale, mais le vote 100 % en ligne avec identification biométrique, ouvert cinq jours entre deux clients, m'a sans doute laissée à l'écart ; si j'en ai parlé, c'est à l'occasion, pas par conviction.",
+      "14 ans, en formation (apprentissage ou études), logement en estrato 6 (alto) : À 14 ans, je ne me sens pas concerné par les démarches de la mairie, le vote en ligne avec identification biométrique et le peu de visibilité de l'annonce me font penser que je n'ai probablement pas voté, et je n'en ai sans doute pas parlé autour de moi.",
+      "56 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 6 (alto) : Je n'ai pas voté : l'inscription avec identité biométrique et code SMS m'a paru lourde pour une liste de projets dont je ne vois pas bien l'effet sur mon quartier, et entre mes ventes et ma famille le sujet ne revient guère, même si j'en entends parler de temps en temps."
+    ]
+  },
+  {
+    "id": "med15",
+    "nom": "Guayabal",
+    "run": "q-med15",
+    "population_eligible": 63674,
+    "taux_panel": 0.0592,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1557,
+    "raisons_echantillon": [
+      "26 ans, étudiant·e, logement en estrato 3 (medio-bajo) : Étudiante de 26 ans, en couple avec des enfants, je n'ai pas suivi ce vote : il fallait s'inscrire sur une plateforme avec validation biométrique et code PIN, et rien ne m'a jamais présenté ces projets comme me concernant directement.",
+      "71 ans, retraité·e, logement en estrato 2 (bajo) : Seule, retraitée et peu à l'aise avec l'inscription biométrique en ligne, je ne voterais que le dimanche 20 septembre au point de vote de mon quartier si une voisine m'y accompagnait, et je n'en parlerais que si la Junta Administradora Local ou une voisine lançait le sujet avant moi.",
+      "24 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 4 (medio) : Jeune salarié qui vit chez ses parents et suit peu les démarches de la commune, il aurait dû s'inscrire sur Vota PP avec validation biométrique pendant cinq jours, un effort qu'il ne fait que rarement, même s'il est proche d'un courant politique du centre, et il n'en parlerait probablement qu'à sa famille ou à ses collègues.",
+      "40 ans, salarié·e du commerce, de l'hôtellerie et de la restauration, logement en estrato 3 (medio-bajo) : Entre mon travail en restauration ou hôtellerie, souvent le week-end, mes enfants et l'inscription en ligne avec validation biométrique, je n'ai probablement pas voté au Presupuesto Participativo, et je n'en ai entendu parler que par bribes, donc j'en ai peu parlé autour de moi.",
+      "15 ans, en formation (apprentissage ou études), logement en estrato 3 (medio-bajo) : Je suis éligible à 15 ans, mais le vote demande une inscription en ligne avec validation biométrique et un code reçu par SMS et courriel, et personne autour de moi n'en a parlé, donc je n'y ai pas participé et je n'en ai probablement pas parlé non plus.",
+      "57 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 3 (medio-bajo) : Vendeur de rue qui vote blanc sans suivre la mairie, je ne me suis pas inscrit sur la plateforme Vota PP (compte, validation biométrique, code à recevoir) pour un budget qui ne m'a jamais semblé me toucher, donc je n'en parle guère autour de moi."
+    ]
+  },
+  {
+    "id": "med16",
+    "nom": "Belén",
+    "run": "q-med16",
+    "population_eligible": 197064,
+    "taux_panel": 0.0669,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2093,
+    "raisons_echantillon": [
+      "40 ans, étudiant·e, logement en estrato 4 (medio) : Je savais que la mairie organisait un vote, mais l'annonce est arrivée la veille de l'ouverture, et la procédure en ligne avec identification biométrique me paraît lourde entre mes études et les enfants, donc je ne crois pas avoir voté ; j'en aurais peut-être parlé à la maison ou à des amis engagés, sans forcément évoquer le vote lui-même.",
+      "27 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 5 (medio-alto) : Le vote n'était ouvert aux étrangers qu'en présentiel le dimanche 20 septembre, créneau peu compatible avec mon activité de vente informelle, et je ne suivais pas ce genre d'annonce municipale : j'en parlerais peu autour de moi, seulement si une amie m'interrogeait.",
+      "53 ans, salarié·e du commerce, de l'hôtellerie et de la restauration, logement en estrato 4 (medio) : Éligible et proche de Defensores de la Patria, je n'ai ni le temps ni l'envie de passer une inscription avec validation biométrique en ligne pour un vote local ouvert cinq jours, entre mon emploi dans le commerce et la restauration et ma famille, et je n'en parlerais que si le sujet vient en discussion au travail ou en famille.",
+      "41 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 4 (medio) : Le vote se fait sur une plateforme en ligne avec identification biométrique et code PIN, et je ne suis pas du genre à suivre le budget participatif de la ville : la campagne ne m'a pas vraiment atteinte pendant cette semaine de travail, et je n'en ai pas parlé autour de moi, sauf peut-être en passant.",
+      "45 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 2 (bajo) : Entre mon travail de vendeur et les enfants, je n'ai vu passer aucune campagne qui m'ait donné envie de m'inscrire sur une plateforme avec identification biométrique, et les budgets de la mairie me semblent lointains ; j'en ai peut-être entendu parler, sans plus.",
+      "72 ans, retraité·e, logement en estrato 3 (medio-bajo) : Retraitée qui vit seule et peu à l'aise avec un vote 100 % en ligne et une validation biométrique, je n'ai sans doute pas voté ni vu de raison d'en parler autour de moi, cette démarche m'étant restée étrangère."
+    ]
+  },
+  {
+    "id": "med50",
+    "nom": "San Sebastián de Palmitas",
+    "run": "q-med50",
+    "population_eligible": 4956,
+    "taux_panel": 0.0777,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.198,
+    "raisons_echantillon": [
+      "55 ans, étudiant·e, logement en estrato 1 (bajo-bajo) : Je m'intéresse à ce qui se passe au village et je suis proche du Pacto, mais entre mes études, un accès internet limité en montagne et un vote 100 % en ligne avec identification biométrique, je ne me suis pas lancée, sauf si quelqu'un m'avait aidée sur place.",
+      "18 ans, en formation (apprentissage ou études), logement en estrato 1 (bajo-bajo) : J'ai 18 ans, je suis en formation et je n'ai presque rien vu passer sur ce vote : l'inscription en ligne avec validation biométrique et les points physiques trop éloignés de chez nous m'ont découragée, donc je ne pense pas avoir voté, et je n'en aurais parlé que si ma mère ou mes amis l'avaient évoqué.",
+      "38 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 2 (bajo) : Le vote se fait entièrement sur la plateforme en ligne avec validation biométrique et code PIN, je n'ai vu aucune annonce qui m'ait touché, et entre la maison, les enfants et la distance jusqu'aux points physiques du 20 septembre, je n'ai probablement pas pris le temps de voter.",
+      "71 ans, retraité·e, logement en estrato 2 (bajo) : Je vis seul dans un corregimiento de montagne, loin du centre, la démarche en ligne avec identification biométrique ne m'attire pas et je ne me suis probablement pas déplacé le dimanche, et je parle peu de la mairie avec mes voisins.",
+      "37 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 1 (bajo-bajo) : Je suis éligible, mais le vote se faisait surtout en ligne, avec identification biométrique et code envoyé par SMS, et ma semaine de vendeuse informelle ne me laisse guère le temps de m'y mettre, alors que la démarche ne venait pas vers moi.",
+      "33 ans, étudiant·e, logement en estrato 1 (bajo-bajo) : Éligible, mais je n'ai pas suivi ce vote : entre mes études, mon couple et une démarche en ligne avec validation biométrique et code PIN que j'ai trouvée lourde, je n'ai pas pensé à y participer."
+    ]
+  },
+  {
+    "id": "med60",
+    "nom": "San Cristóbal",
+    "run": "q-med60",
+    "population_eligible": 101518,
+    "taux_panel": 0.0666,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1152,
+    "raisons_echantillon": [
+      "25 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 2 (bajo) : Vendeuse informelle avec enfants à charge, elle a peu de temps et suit peu les démarches de la mairie, l'inscription en ligne avec validation biométrique la décourage, et même si sa proximité avec le Pacto Histórico la rend attentive aux projets de son corregimiento, un vote reste peu probable ; elle pourrait en parler à ses clients et à son entourage.",
+      "48 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 1 (bajo-bajo) : Le vote se fait entièrement en ligne avec inscription, validation biométrique et code PIN reçu par SMS, ce qui demande du temps que je n'ai pas toujours après mes journées dans le bâtiment et l'énergie, et je n'ai pas suivi l'appel de la mairie, même si ma proximité avec un parti politique me rend un peu plus attentif à la vie locale.",
+      "28 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 2 (bajo) : Je suis proche du Pacto et je suis la politique de près, mais ce vote de comuna m'a paru lointain et compliqué (inscription en ligne, validation biométrique, code par SMS) avec mes horaires de services, donc je ne suis probablement pas allée voter, et j'en ai peut-être parlé à l'occasion avec mes collègues ou ma famille.",
+      "43 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 4 (medio) : Je travaille à mon compte, souvent dans la rue, et je vis seul : je ne me suis pas inscrit sur une plateforme qui demande une identification biométrique, je n'ai pas le réflexe de ce genre de vote, et j'en ai peut-être entendu parler vaguement sans que cela m'accroche assez pour en parler autour de moi.",
+      "94 ans, retraité·e, logement en estrato 1 (bajo-bajo) : À 94 ans et seul, je ne suis guère concerné par un vote 100 % en ligne avec identification biométrique, code par SMS et courriel, et je n'irais au point physique que si quelqu'un m'y accompagnait ; j'en parlerais surtout si un proche ou un voisin me demandait mon avis sur la mairie.",
+      "23 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 2 (bajo) : J'ai vu passer l'invitation sur les réseaux, mais entre la maison, les soins et une inscription en ligne avec validation biométrique, je n'ai pas franchi le pas, et j'en ai surtout parlé à mes parents sans suite."
+    ]
+  },
+  {
+    "id": "med70",
+    "nom": "Altavista",
+    "run": "q-med70",
+    "population_eligible": 33937,
+    "taux_panel": 0.0695,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1568,
+    "raisons_echantillon": [
+      "33 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 5 (medio-alto) : Je suis proche de la mouvance Defensores de la Patria et je suis l'actualité politique, mais je n'ai pas vu d'appel qui me concernait : le vote ne durait qu'une semaine, passait par une inscription en ligne avec validation biométrique, et je ne me sens pas touchée par des projets de quartier à Altavista, donc j'en parle très rarement autour de moi.",
+      "41 ans, sans emploi, logement en estrato 2 (bajo) : Je m'occupe surtout des enfants et je cherche du travail, je n'ai vu aucune information claire sur ce vote dans mon quartier, et l'inscription en ligne avec identification biométrique me décourage, donc je ne pense pas y avoir participé et je n'en aurais parlé que si quelqu'un de ma famille s'y intéressait.",
+      "58 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 2 (bajo) : Je m'occupe seule des enfants et de la maison, et le vote se faisait surtout en ligne avec identification biométrique et code par SMS, ce qui me semble trop lourd, alors que le seul jour de vote sur place était un dimanche déjà chargé ; je n'en aurais parlé qu'en passant, si mes enfants ou mes voisines en avaient parlé.",
+      "52 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 5 (medio-alto) : Je n'ai pas suivi cette démarche : le vote se fait en ligne avec validation biométrique et code PIN, pendant une semaine où je travaille beaucoup comme vendeur indépendant, et le budget participatif de mon corregimiento me touche peu, donc j'en ai peu parlé autour de moi.",
+      "32 ans, salarié·e du transport, de l'agriculture et d'autres secteurs, logement en estrato 1 (bajo-bajo) : Étranger résident, je ne pouvais voter que le dimanche 20 septembre, en personne, et je n'ai pas vu l'annonce : je travaille souvent le week-end (transport, champs) et je m'occupe seul de mes enfants, donc le Presupuesto Participativo ne fait pas partie de mes priorités.",
+      "33 ans, travailleur·euse indépendant·e (dont vendeur·euse informel·le), logement en estrato 3 (medio-bajo) : Vendeur informel très occupé, il voit peu d'intérêt concret au budget participatif et le vote en ligne avec identification biométrique le décourage, même si son engagement politique le rend un peu plus attentif que la moyenne ; il n'en parlerait que si un client ou un proche évoquait la mairie."
+    ]
+  },
+  {
+    "id": "med80",
+    "nom": "San Antonio de Prado",
+    "run": "q-med80",
+    "population_eligible": 84827,
+    "taux_panel": 0.0669,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.161,
+    "raisons_echantillon": [
+      "63 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 1 (bajo-bajo) : Je suis proche du Pacto Histórico et je suis attentif à la vie de la commune, mais le vote en ligne avec validation biométrique et code envoyé par SMS me freine, je travaille la semaine et je n'ai pas vu de campagne claire dans mon corregimiento, donc j'en parlerais surtout à ma famille.",
+      "20 ans, étudiant·e, logement en estrato 2 (bajo) : Éligible (20 ans, résidente à Medellín, cédula valide), mais le vote en ligne avec inscription et validation biométrique sur cinq jours, sans relais visible dans son corregimiento et sans signe d'intérêt pour les budgets municipaux, rend la participation peu probable ; le sujet ne vient à table que si ses parents ou des proches en parlent.",
+      "22 ans, au foyer (travail domestique et soins non rémunérés), logement en estrato 3 (medio-bajo) : Je m'intéresse un peu à la politique locale grâce à mes proches du Pacto Histórico, mais la validation biométrique et le code SMS sur Vota PP, avec une fenêtre de vote de cinq jours et peu de projets que je relie à mon quartier, m'ont découragé, et le sujet revient rarement dans mes discussions.",
+      "52 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 1 (bajo-bajo) : Probablement pas : le vote se faisait en ligne avec validation biométrique, ou dans un des rares points physiques ouverts le seul dimanche 20 septembre, et entre mon travail et la maison, je n'ai pas le temps de m'y consacrer. Je n'ai guère entendu parler de cette consultation, donc j'en parle rarement autour de moi.",
+      "26 ans, salarié·e du transport, de l'agriculture et d'autres secteurs, logement en estrato 2 (bajo) : Je suis étrangère résidente, donc je ne pouvais voter que le dimanche 20 septembre en présentiel, entre mon travail et mes enfants, et j'ai à peine entendu parler de cette consultation.",
+      "19 ans, en formation (apprentissage ou études), logement en estrato 3 (medio-bajo) : Le vote demandait une inscription en ligne avec validation biométrique et PIN, et entre mes études, mon apprentissage et ma copine, je n'ai probablement ni vu l'info passer ni pris le temps de m'inscrire, même si la politique m'intéresse ; j'en ai peut-être parlé si c'était relayé sur les réseaux, mais sans plus."
+    ]
+  },
+  {
+    "id": "med90",
+    "nom": "Santa Elena",
+    "run": "q-med90",
+    "population_eligible": 20077,
+    "taux_panel": 0.0822,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.382,
+    "raisons_echantillon": [
+      "36 ans, sans emploi, logement en estrato 3 (medio-bajo) : Sans emploi, avec des enfants et peu de temps, je suis peu concernée par ce vote en ligne qui exige une identification biométrique, mais ma proximité avec Fajardo et les projets de mon corregimiento (école, route, eau) me donnent une vraie chance de l'avoir fait, et j'en aurais surtout parlé si j'avais voté.",
+      "26 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 1 (bajo-bajo) : Je suis les sujets politiques par proximité avec Defensores de la Patria, mais le vote en ligne avec identification biométrique et une semaine chargée entre le travail et les enfants me découragent ; je n'en parlerais que si on me pose la question.",
+      "43 ans, salarié·e de l'industrie, du bâtiment et de l'énergie, logement en estrato 2 (bajo) : Je travaille dans le bâtiment et l'énergie avec des horaires chargés et deux enfants à gérer, je n'ai pas suivi l'annonce du maire, et l'inscription sur Vota PP avec validation biométrique me paraît lourde pour un sujet qui me touche peu, donc je n'ai probablement pas voté. Si j'en parle, ce serait en famille ou avec des collègues, mais le budget participatif n'est pas un sujet de conversation courant autour de moi, sauf si un projet concerne directement notre corregimiento.",
+      "53 ans, salarié·e du commerce, de l'hôtellerie et de la restauration, logement en estrato 1 (bajo-bajo) : Je ne suis pas sûre d'avoir entendu parler de ce budget participatif, le vote se faisait entièrement en ligne avec identification biométrique ou un seul dimanche en présentiel, et mon emploi dans le commerce et la restauration ne me laisse pas beaucoup de temps pour ce genre de démarche, donc je doute d'avoir voté et d'en avoir parlé autour de moi.",
+      "88 ans, retraité·e, logement en estrato 6 (alto) : À 88 ans et seul, face à un vote en ligne qui exige une identification biométrique et un code PIN envoyé par SMS, il a peu de chances de se mobiliser, même si son intérêt pour la politique le rend un peu plus concerné qu'un habitant moyen, et son cercle restreint laisse peu d'occasions d'en parler.",
+      "24 ans, salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels), logement en estrato 2 (bajo) : Le vote en ligne demande une inscription avec validation biométrique et un code PIN reçu par SMS, pendant une semaine où je travaille, et personne autour de moi ne m'a relayé l'appel : je n'ai probablement pas voté, même si ma proximité avec le Pacto me rend un peu plus attentive à la vie locale, et le sujet n'est sans doute revenu qu'exceptionnellement en famille."
+    ]
+  }
+]

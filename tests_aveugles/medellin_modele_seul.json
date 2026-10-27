@@ -1,0 +1,23 @@
+{"modele": "claude-sonnet", "consigne": "estimation directe du nombre de votants par territoire à partir du texte et des données des territoires, un seul appel", "estimations": [
+  {"id": "med01", "participants_estimes": 7600},
+  {"id": "med02", "participants_estimes": 6400},
+  {"id": "med03", "participants_estimes": 8800},
+  {"id": "med04", "participants_estimes": 7200},
+  {"id": "med05", "participants_estimes": 6400},
+  {"id": "med06", "participants_estimes": 8900},
+  {"id": "med07", "participants_estimes": 8600},
+  {"id": "med08", "participants_estimes": 8800},
+  {"id": "med09", "participants_estimes": 7900},
+  {"id": "med10", "participants_estimes": 2300},
+  {"id": "med11", "participants_estimes": 3100},
+  {"id": "med12", "participants_estimes": 3500},
+  {"id": "med13", "participants_estimes": 9200},
+  {"id": "med14", "participants_estimes": 1600},
+  {"id": "med15", "participants_estimes": 2900},
+  {"id": "med16", "participants_estimes": 7900},
+  {"id": "med50", "participants_estimes": 600},
+  {"id": "med60", "participants_estimes": 6600},
+  {"id": "med70", "participants_estimes": 2700},
+  {"id": "med80", "participants_estimes": 5500},
+  {"id": "med90", "participants_estimes": 1800}
+]}

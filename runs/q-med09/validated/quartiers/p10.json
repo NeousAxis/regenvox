@@ -1,0 +1,11 @@
+{
+  "id": "p10",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.07,
+      "partage_proba": 0.12,
+      "raison": "Au foyer et vivant chez ses parents, elle a peu de temps libre, et l'inscription en ligne avec validation biométrique et code PIN par SMS est une démarche que peu de gens de son entourage franchissent pour un dispositif municipal peu visible au quotidien ; son intérêt pour Pacto Histórico la rend un peu plus attentive à la politique locale, ce qui justifie une probabilité de partage un peu plus haute que celle de participation."
+    }
+  ]
+}

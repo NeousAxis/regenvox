@@ -1,0 +1,26 @@
+{
+  "id": "med80",
+  "cible": {
+    "type": "corregimiento",
+    "nom": "San Antonio de Prado",
+    "canton": "",
+    "pays": "CO",
+    "description": "Corregimiento du sud-ouest de Medellín, éloigné du centre, avec un centre poblado dense, de grands ensembles de logements et des veredas rurales. Habitat de strates 2 et 3 surtout.",
+    "ville": "Medellín",
+    "ville_id": "medellin",
+    "nationalites": {
+      "nationale": "colombienne",
+      "etrangere": "étrangère (résident·e en Colombie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de San Antonio de Prado à Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 20,
+    "seed": 20261045
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

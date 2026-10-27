@@ -1,0 +1,23 @@
+{"t":"2026-10-26T20:03:30.930Z","event":"init","caseId":"med90","seed":20261046}
+{"t":"2026-10-26T20:03:31.380Z","event":"panel","N":20}
+{"t":"2026-10-26T20:34:13.767Z","event":"admin_accept","step":"quartiers","item":"p01","attempt":1}
+{"t":"2026-10-26T20:34:13.768Z","event":"admin_accept","step":"quartiers","item":"p02","attempt":1}
+{"t":"2026-10-26T20:34:13.769Z","event":"admin_accept","step":"quartiers","item":"p03","attempt":1}
+{"t":"2026-10-26T20:34:13.770Z","event":"admin_accept","step":"quartiers","item":"p04","attempt":1}
+{"t":"2026-10-26T20:34:13.771Z","event":"admin_accept","step":"quartiers","item":"p05","attempt":1}
+{"t":"2026-10-26T20:34:13.772Z","event":"admin_accept","step":"quartiers","item":"p06","attempt":1}
+{"t":"2026-10-26T20:34:13.772Z","event":"admin_accept","step":"quartiers","item":"p07","attempt":1}
+{"t":"2026-10-26T20:34:13.773Z","event":"admin_reject","step":"quartiers","item":"p08","attempt":1,"errors":["Format : reactions.0.raison : String must contain at most 500 character(s)"]}
+{"t":"2026-10-26T20:34:13.774Z","event":"admin_accept","step":"quartiers","item":"p09","attempt":1}
+{"t":"2026-10-26T20:34:13.774Z","event":"admin_accept","step":"quartiers","item":"p10","attempt":1}
+{"t":"2026-10-26T20:34:13.775Z","event":"admin_accept","step":"quartiers","item":"p11","attempt":1}
+{"t":"2026-10-26T20:34:13.776Z","event":"admin_accept","step":"quartiers","item":"p12","attempt":1}
+{"t":"2026-10-26T20:34:13.777Z","event":"admin_accept","step":"quartiers","item":"p13","attempt":1}
+{"t":"2026-10-26T20:34:13.777Z","event":"admin_accept","step":"quartiers","item":"p14","attempt":1}
+{"t":"2026-10-26T20:34:13.778Z","event":"admin_accept","step":"quartiers","item":"p15","attempt":1}
+{"t":"2026-10-26T20:34:13.779Z","event":"admin_accept","step":"quartiers","item":"p16","attempt":1}
+{"t":"2026-10-26T20:34:13.780Z","event":"admin_accept","step":"quartiers","item":"p17","attempt":1}
+{"t":"2026-10-26T20:34:13.780Z","event":"admin_accept","step":"quartiers","item":"p18","attempt":1}
+{"t":"2026-10-26T20:34:13.781Z","event":"admin_accept","step":"quartiers","item":"p19","attempt":1}
+{"t":"2026-10-26T20:34:13.782Z","event":"admin_accept","step":"quartiers","item":"p20","attempt":1}
+{"t":"2026-10-26T20:35:09.000Z","event":"admin_accept","step":"quartiers","item":"p08","attempt":2}

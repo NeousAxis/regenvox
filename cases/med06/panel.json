@@ -1,0 +1,160 @@
+{
+  "pays": "CO",
+  "univers": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés), Doce de Octubre (Medellín), 2026",
+  "population_16_plus": {
+    "valeur": 161803,
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+  },
+  "tranches_age": [
+    {
+      "tranche": "14-19",
+      "min": 14,
+      "max": 19,
+      "part": 0.098
+    },
+    {
+      "tranche": "20-24",
+      "min": 20,
+      "max": 24,
+      "part": 0.096
+    },
+    {
+      "tranche": "25-34",
+      "min": 25,
+      "max": 34,
+      "part": 0.212
+    },
+    {
+      "tranche": "35-44",
+      "min": 35,
+      "max": 44,
+      "part": 0.181
+    },
+    {
+      "tranche": "45-54",
+      "min": 45,
+      "max": 54,
+      "part": 0.14
+    },
+    {
+      "tranche": "55-64",
+      "min": 55,
+      "max": 64,
+      "part": 0.134
+    },
+    {
+      "tranche": "65-74",
+      "min": 65,
+      "max": 74,
+      "part": 0.089
+    },
+    {
+      "tranche": "75+",
+      "min": 75,
+      "max": 95,
+      "part": 0.05
+    }
+  ],
+  "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+  "part_etrangers": {
+    "valeur": 0.0219,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+  },
+  "part_femmes": {
+    "valeur": 0.534,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+  },
+  "agriculteurs": {
+    "part_16_plus": 0,
+    "source": "sans objet",
+    "surechantillon": 0,
+    "age_min": 20,
+    "age_max": 70,
+    "part_bio": 0,
+    "orientation": "",
+    "part_hommes": 0.5,
+    "part_suisses": 1
+  },
+  "activites_actifs": [
+    {
+      "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+      "part": 0.08548931383577052
+    },
+    {
+      "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+      "part": 0.07761529808773904
+    },
+    {
+      "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+      "part": 0.13160854893138357
+    },
+    {
+      "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+      "part": 0.04161979752530933
+    },
+    {
+      "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+      "part": 0.18110236220472442
+    },
+    {
+      "activite": "étudiant·e",
+      "part": 0.10348706411698537
+    },
+    {
+      "activite": "sans emploi",
+      "part": 0.21147356580427445
+    },
+    {
+      "activite": "au foyer (travail domestique et soins non rémunérés)",
+      "part": 0.16760404949381327
+    }
+  ],
+  "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+  "partis": [
+    {
+      "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+      "part": 0.479
+    },
+    {
+      "parti": "Pacto Histórico (Iván Cepeda)",
+      "part": 0.295
+    },
+    {
+      "parti": "Sergio Fajardo (centre)",
+      "part": 0.095
+    },
+    {
+      "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+      "part": 0.092
+    },
+    {
+      "parti": "autres candidats et vote blanc",
+      "part": 0.039
+    }
+  ],
+  "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+  "lieux_de_vie": [
+    {
+      "lieu": "logement en estrato 1 (bajo-bajo)",
+      "part": 0.175
+    },
+    {
+      "lieu": "logement en estrato 2 (bajo)",
+      "part": 0.561
+    },
+    {
+      "lieu": "logement en estrato 3 (medio-bajo)",
+      "part": 0.264
+    }
+  ],
+  "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 22 cas observés sur 1178 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1178 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1178). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026.",
+    "Retraités retirés de la répartition des activités des 20 à 64 ans (elle couvrait tous les âges) : seuls les 65 ans et plus sont retraités dans le panel."
+  ]
+}

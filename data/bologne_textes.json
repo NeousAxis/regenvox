@@ -1,0 +1,1071 @@
+{
+ "ville": "Bologne",
+ "pays": "IT",
+ "collecte_le": "2026-10-26",
+ "demarche": {
+  "id": "bo-bp2026",
+  "nom": "Bilancio partecipativo 2026 de Bologne (cinquième édition)",
+  "annee": 2026,
+  "porteur": "Comune di Bologna (Settore Quartieri, Amministrazione condivisa, Sussidiarietà e Partecipazione) avec les six Consigli di Quartiere, animé par la Fondazione IU Rusconi Ghigi",
+  "appel": "Le Comune di Bologna invite toutes les personnes de 16 ans et plus qui vivent, travaillent, étudient ou font du bénévolat à Bologne à voter en ligne pour la cinquième édition de son budget participatif, du lundi 19 octobre 2026 à 12 h au lundi 9 novembre 2026 à 12 h. Il s'agit de choisir quels projets de transformation d'espaces publics de quartier (parcs et jardins, aires sportives, mobilité douce, accessibilité, lieux de rencontre) seront financés puis réalisés par la Ville, à partir d'idées proposées par des habitants et affinées avec les services municipaux. Le budget total est de 3 millions d'euros, soit 500 000 euros par quartier: 350 000 euros pour deux projets gagnants par quartier (175 000 euros chacun, 12 projets au total) et 150 000 euros par quartier pour des actions de soin de la communauté et de services de proximité, décidées à partir des priorités des ateliers de printemps et non soumises à ce vote. 49 propositions sont admises au vote: 9 à Borgo Panigale-Reno, 10 à Navile, 6 à Porto-Saragozza, 11 à San Donato-San Vitale, 4 à Santo Stefano et 9 à Savena. Chaque personne vote une seule fois, pour une seule proposition, sur la plateforme Partecipa du Comune, en choisissant d'abord le quartier puis le projet, avec SPID, carte d'identité électronique ou compte Rete Civica ou Google. Une aide est offerte dans les Case di Quartiere et lors d'événements de quartier pour celles et ceux qui ont des difficultés avec le numérique. Nouveauté de cette édition, un « facteur d'équité » de 1,0 à 1,5 majore le poids des voix dans les zones que chaque Conseil de quartier juge les plus en besoin, afin que chaque zone ait la même chance d'améliorer ses espaces publics.",
+  "format": "Vote exclusivement en ligne (plateforme Partecipa du Comune, pas de vote papier), avec des points de vote assisté dans les Case di Quartiere (service de facilitation numérique « Case digitali », 84 rendez-vous répartis sur les trois semaines) et lors d'événements de quartier organisés par les Agenti di prossimità de la Fondazione IU Rusconi Ghigi, où un opérateur saisit le vote avec la personne. En amont: ateliers de quartier au printemps, collecte de propositions, co-conception, puis publication des propositions admises à partir du 16 septembre 2026.",
+  "qui_peut_participer": {
+   "age": "16 ans révolus ou plus",
+   "residence": "Peuvent voter les résidents de Bologne, mais aussi les non-résidents qui travaillent, étudient ou font du bénévolat à Bologne. Vivre, travailler ou étudier à Bologne suffit.",
+   "nationalite": "Aucune condition de nationalité: les personnes sans citoyenneté italienne et les apatrides peuvent voter, qu'elles résident à Bologne ou qu'elles y travaillent, étudient ou fassent du bénévolat.",
+   "autres_conditions": "Identification en ligne avec SPID, carte d'identité électronique (CIE), compte Rete Civica du Comune ou adresse Google; sans ces moyens, création d'un compte Rete Civica (adresse e-mail, nom, code fiscal ou, pour les personnes sans code fiscal italien, date de naissance, genre et numéro de document d'identité, passeport ou titre de séjour, et numéro de téléphone mobile), ou vote assisté dans un point dédié avec pièce d'identité et numéro de téléphone. Pour les comptes Rete Civica ou Google, un SMS avec mot de passe est envoyé au téléphone mobile. La plateforme enregistre un seul vote par personne (lecture du code fiscal et du téléphone). Pas de vote papier. La page de vote n'est pas traduite."
+  },
+  "ou_voter": "Une seule voix par personne, pour une seule proposition parmi les 49. Dans la procédure décrite par le Comune, la personne choisit elle-même le quartier dans lequel elle vote et indique le motif pour lequel elle a choisi un projet de ce quartier; aucune règle visible ne l'oblige à voter pour son quartier de résidence (la FAQ parle de « ton quartier », la procédure laisse le choix du quartier), et on ne sait pas si le motif déclaré est vérifié. Le facteur d'équité ne change pas le nombre de personnes qui votent: il sert à classer les propositions d'un même quartier. Les voix d'une proposition sont multipliées par le facteur de sa zone (échelle de 1,0 à 1,5 par pas de 0,1, de A à F), le résultat s'appelle « points d'impact », et les deux propositions ayant le plus de points d'impact dans chaque quartier gagnent. Facteurs fixés par les Conseils de quartier: Borgo Panigale-Reno, 1,5 pour la zone Santa Viola, 1,0 ailleurs; Navile, 1,5 pour Bertalia-Noce, Beverara et Corticella-Dozza, 1,0 pour la Bolognina; Porto-Saragozza, 1,1 pour la zone Saffi, 1,0 ailleurs; San Donato-San Vitale, 1,5 pour Cirenaica-Massarenti-Scandellara et San Donato Nuovo, 1,0 ailleurs; Santo Stefano, 1,5 pour la zone Irnerio, 1,0 ailleurs; Savena, 1,1 pour Lungosavena et Pontevecchio-Mazzini, 1,0 ailleurs.",
+  "duree_phase_participation": "Du lundi 19 octobre 2026 à 12 h au lundi 9 novembre 2026 à 12 h (phase 4 sur 5 du processus). Phases précédentes: ateliers de quartier en mai et juin (rencontres ouvertes du 26 mai au 16 juin avec collecte en ligne des propositions), co-conception du 23 au 30 juin 2026, publication des propositions admises à partir du 16 septembre 2026.",
+  "grandeur_a_prevoir": "Nombre de personnes ayant voté, à la clôture du 9 novembre 2026 à 12 h, pour une proposition d'un quartier donné, c'est-à-dire les voix brutes enregistrées par quartier, avant application du facteur d'équité (qui produit les points d'impact servant au classement). Le quartier est celui que la personne a choisi dans l'application, qui n'est pas forcément son quartier de résidence, et les votants comprennent des non-résidents. Comme chaque personne n'a qu'une voix, nombre de voix et nombre de votants coïncident. Si le Comune publie plutôt les points d'impact par quartier, ce serait une autre grandeur (voix multipliées par le facteur de zone).",
+  "nature_du_chiffre_publie": "votants",
+  "sources": [
+   "https://www.comune.bologna.it/novita/comunicati-stampa/bilancio-partecipativo-2026-si-vota-dal-19-ottobre-al-9-novembre-puo-votare-chi-vive-o-frequenta",
+   "https://partecipa.comune.bologna.it/partecipa/percorsi/bilancio-partecipativo-2026",
+   "https://partecipa.comune.bologna.it/partecipa/percorsi/bilancio-partecipativo-2026?sect=domande-frequenti-bp2026",
+   "https://partecipa.comune.bologna.it/partecipa/percorsi/bilancio-partecipativo-2026?sect=fattori-di-equita-cosa-sono-e-come-funzionano",
+   "https://partecipa.comune.bologna.it/myportal/C_A944/api/content/download?id=6ad23c5684f668009ae7267d",
+   "https://partecipa.comune.bologna.it/myportal/C_A944/api/content/download?id=6aaa480d52b599009a166831",
+   "https://partecipa.comune.bologna.it/myportal/C_A944/api/content/download?id=6aaa483dff9f23009975820d",
+   "https://www.ilrestodelcarlino.it/bologna/cronaca/bilancio-partecipativo-2026-lb5s1q7x",
+   "https://opendata.comune.bologna.it",
+   "https://inumeridibolognametropolitana.it/sites/inumeridibolognametropolitana.it/files/popolazione/2025/comune-di-bologna-quartieri_e_centro_storico_agg2025.pdf"
+  ]
+ },
+ "territoires": [
+  {
+   "id": "bo-borgo",
+   "nom": "Borgo Panigale-Reno",
+   "type": "quartiere",
+   "description": "Quartier de l'ouest et du nord-ouest de Bologne, le long du Reno, qui réunit les zones de Borgo Panigale (avec l'aéroport et d'anciennes zones industrielles), Barca, Santa Viola, Casteldebole-Pontelungo et Birra-Bargellino-Lavino. Population plus âgée que la moyenne de la ville (âge moyen de 47,3 ans) et revenu médian déclaré par les Italiens de 24 219 euros en 2023. Environ 6 % des habitants vivent dans un logement public ACER, surtout à Barca et à Casteldebole-Pontelungo.",
+   "population_eligible": {
+    "valeur": 54006,
+    "annee": "31.12.2025",
+    "definition": "résidents de 16 ans et plus",
+    "source": "Comune di Bologna, Settore Statistica, données ouvertes: 'Popolazione per quartiere zona sesso età cittadinanza luogo di nascita, serie storica dal 2025' (18 ans et plus, 31.12.2025) et série annuelle par âge individuel (31.12.2024) pour l'estimation des 16 à 17 ans"
+   },
+   "tranches_age": [
+    {
+     "tranche": "16-19",
+     "min": 16,
+     "max": 19,
+     "part": 0.039
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.05
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.126
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.148
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.17
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.167
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.119
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.181
+    }
+   ],
+   "source_age": "Comune di Bologna, données ouvertes: 'Popolazione residente per età, sesso, cittadinanza, quartiere e zona (dal 1986)', âge individuel au 31.12.2024, recalé sur le total 2025",
+   "part_femmes": {
+    "valeur": 0.521,
+    "source": "Comune di Bologna, données ouvertes, population par quartier, sexe et âge au 31.12.2025 (18 ans et plus)"
+   },
+   "part_etrangers": {
+    "valeur": 0.154,
+    "source": "Comune di Bologna, données ouvertes, cittadinanza straniera par quartier au 31.12.2025 (18 ans et plus)"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement social (alloggi pubblici ACER)",
+     "part": 0.057
+    },
+    {
+     "lieu": "zone au revenu médian élevé (tiers supérieur de la ville)",
+     "part": 0.236
+    },
+    {
+     "lieu": "zone au revenu médian intermédiaire",
+     "part": 0.352
+    },
+    {
+     "lieu": "zone au revenu médian modeste (tiers inférieur de la ville)",
+     "part": 0.355
+    }
+   ],
+   "source_lieux_de_vie": "Revenu imposable médian par aire statistique (Comune di Bologna, données ouvertes 'Reddito mediano per area statistica') agrégé au quartier, et 'Alloggi pubblici e abitanti per zona di prossimità' (ACER, 31.12.2025)",
+   "activites_actifs": [
+    {
+     "activite": "cadre, profession intellectuelle ou dirigeant·e salarié·e",
+     "part": 0.077
+    },
+    {
+     "activite": "technicien·ne ou employé·e de bureau",
+     "part": 0.132
+    },
+    {
+     "activite": "employé·e du commerce, des services ou des soins",
+     "part": 0.08
+    },
+    {
+     "activite": "ouvrier·ère, artisan·e salarié·e ou emploi non qualifié",
+     "part": 0.14
+    },
+    {
+     "activite": "indépendant·e, commerçant·e ou artisan·e à son compte",
+     "part": 0.085
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.061
+    },
+    {
+     "activite": "retraité·e",
+     "part": 0.31
+    },
+    {
+     "activite": "sans emploi (en recherche)",
+     "part": 0.025
+    },
+    {
+     "activite": "au foyer ou autre inactif·ve",
+     "part": 0.09
+    }
+   ],
+   "source_activites": "Recensement permanent ISTAT 2021 et 2023 par aire statistique (Comune di Bologna, données ouvertes 'Occupazione e istruzione a Bologna'), agrégé au quartier; ventilation par type d'emploi modélisée (voir hypothèses)",
+   "partis": [
+    {
+     "parti": "Partito Democratico",
+     "part": 0.458
+    },
+    {
+     "parti": "Fratelli d'Italia",
+     "part": 0.194
+    },
+    {
+     "parti": "Alleanza Verdi e Sinistra",
+     "part": 0.092
+    },
+    {
+     "parti": "Movimento 5 Stelle",
+     "part": 0.081
+    },
+    {
+     "parti": "Forza Italia e Noi Moderati",
+     "part": 0.038
+    },
+    {
+     "parti": "Lega",
+     "part": 0.038
+    },
+    {
+     "parti": "Azione e Stati Uniti d'Europa",
+     "part": 0.06
+    },
+    {
+     "parti": "autres",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Élections européennes 2024, résultats par section agrégés au quartier (Comune di Bologna, données ouvertes 'Elezioni europee 2024, Preferenze alle liste')",
+   "hypotheses": [
+    "Population éligible = résidents de 16 ans et plus. Les 18 ans et plus sont le chiffre exact de l'anagrafe au 31.12.2025 (52952); les 16 à 17 ans (1054) sont estimés à partir des générations de 15 et 16 ans au 31.12.2024. 86 résidents d'âge non renseigné et les personnes sans domicile fixe sont exclus.",
+    "Tranches d'âge: structure par âge individuel au 31.12.2024, vieillie d'un an et recalée sur le total exact des 18 ans et plus au 31.12.2025 (les décès et migrations de 2025 ne sont pas reflétés dans la forme de la pyramide).",
+    "Part de femmes et part d'étrangers (cittadinanza straniera) calculées sur les 18 ans et plus au 31.12.2025, appliquées aux 16 ans et plus.",
+    "Le vote est ouvert aussi aux non-résidents qui travaillent, étudient ou font du bénévolat à Bologne, et chacun choisit le quartier dans lequel il vote: l'électorat potentiel d'un quartier n'est donc pas égal à ses résidents, et les étudiants non résidents (souvent domiciliés ailleurs) ne figurent ni dans la population ni dans la part d'étudiants ci-dessous.",
+    "Lieux de vie: tiers de revenu définis sur la ville entière à partir du revenu imposable médian des 90 aires statistiques (déclarations 2022 publiées en 2024), pondérés par la population résidente au 31.12.2024; les habitants de logements ACER (31.12.2025) sont retirés pro rata des aires de leur zone de proximité, puis comptés à part. Les parts sont calculées sur la population totale du quartier, pas sur les seuls 16 ans et plus.",
+    "Activités: aucune statistique des professions par quartier n'est publiée en données ouvertes. La part d'occupés vient du recensement permanent 2023 (occupés résidents rapportés à la population résidente), ramenée aux 16 ans et plus. La ventilation des occupés par type d'emploi est modélisée à partir du niveau de diplôme du quartier (recensement 2021, population de 9 ans et plus) appliqué à une structure de référence de la ville non sourcée; les parts d'étudiants, de retraités, de sans-emploi (2,5 %) et de personnes au foyer ou inactives (solde) sont des hypothèses fondées sur la structure par âge.",
+    "Partis: élections européennes de juin 2024 uniquement, parts calculées sur les suffrages attribués aux listes dans les sections du quartier, donc sur les votants de ce scrutin et non sur l'ensemble des résidents. Azione et Stati Uniti d'Europa sont regroupés; « autres » contient Pace Terra Dignità, Alternativa Popolare, Libertà et SVP."
+   ]
+  },
+  {
+   "id": "bo-navile",
+   "nom": "Navile",
+   "type": "quartiere",
+   "description": "Quartier du nord de la ville, de la gare et de la Bolognina jusqu'à Corticella, Dozza, Beverara et Bertalia-Noce. C'est le quartier qui compte la plus forte part de résidents étrangers des six (environ un cinquième des adultes), avec un revenu médian déclaré par les Italiens de 23 850 euros en 2023. Environ 9 % des habitants vivent dans un logement public ACER, réparti entre la Bolognina, Corticella-Dozza, Beverara et Bertalia-Noce.",
+   "population_eligible": {
+    "valeur": 62075,
+    "annee": "31.12.2025",
+    "definition": "résidents de 16 ans et plus",
+    "source": "Comune di Bologna, Settore Statistica, données ouvertes: 'Popolazione per quartiere zona sesso età cittadinanza luogo di nascita, serie storica dal 2025' (18 ans et plus, 31.12.2025) et série annuelle par âge individuel (31.12.2024) pour l'estimation des 16 à 17 ans"
+   },
+   "tranches_age": [
+    {
+     "tranche": "16-19",
+     "min": 16,
+     "max": 19,
+     "part": 0.041
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.053
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.136
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.165
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.17
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.164
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.116
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.155
+    }
+   ],
+   "source_age": "Comune di Bologna, données ouvertes: 'Popolazione residente per età, sesso, cittadinanza, quartiere e zona (dal 1986)', âge individuel au 31.12.2024, recalé sur le total 2025",
+   "part_femmes": {
+    "valeur": 0.508,
+    "source": "Comune di Bologna, données ouvertes, population par quartier, sexe et âge au 31.12.2025 (18 ans et plus)"
+   },
+   "part_etrangers": {
+    "valeur": 0.201,
+    "source": "Comune di Bologna, données ouvertes, cittadinanza straniera par quartier au 31.12.2025 (18 ans et plus)"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement social (alloggi pubblici ACER)",
+     "part": 0.091
+    },
+    {
+     "lieu": "zone au revenu médian élevé (tiers supérieur de la ville)",
+     "part": 0.029
+    },
+    {
+     "lieu": "zone au revenu médian intermédiaire",
+     "part": 0.231
+    },
+    {
+     "lieu": "zone au revenu médian modeste (tiers inférieur de la ville)",
+     "part": 0.649
+    }
+   ],
+   "source_lieux_de_vie": "Revenu imposable médian par aire statistique (Comune di Bologna, données ouvertes 'Reddito mediano per area statistica') agrégé au quartier, et 'Alloggi pubblici e abitanti per zona di prossimità' (ACER, 31.12.2025)",
+   "activites_actifs": [
+    {
+     "activite": "cadre, profession intellectuelle ou dirigeant·e salarié·e",
+     "part": 0.089
+    },
+    {
+     "activite": "technicien·ne ou employé·e de bureau",
+     "part": 0.134
+    },
+    {
+     "activite": "employé·e du commerce, des services ou des soins",
+     "part": 0.081
+    },
+    {
+     "activite": "ouvrier·ère, artisan·e salarié·e ou emploi non qualifié",
+     "part": 0.134
+    },
+    {
+     "activite": "indépendant·e, commerçant·e ou artisan·e à son compte",
+     "part": 0.089
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.064
+    },
+    {
+     "activite": "retraité·e",
+     "part": 0.282
+    },
+    {
+     "activite": "sans emploi (en recherche)",
+     "part": 0.025
+    },
+    {
+     "activite": "au foyer ou autre inactif·ve",
+     "part": 0.102
+    }
+   ],
+   "source_activites": "Recensement permanent ISTAT 2021 et 2023 par aire statistique (Comune di Bologna, données ouvertes 'Occupazione e istruzione a Bologna'), agrégé au quartier; ventilation par type d'emploi modélisée (voir hypothèses)",
+   "partis": [
+    {
+     "parti": "Partito Democratico",
+     "part": 0.433
+    },
+    {
+     "parti": "Fratelli d'Italia",
+     "part": 0.178
+    },
+    {
+     "parti": "Alleanza Verdi e Sinistra",
+     "part": 0.141
+    },
+    {
+     "parti": "Movimento 5 Stelle",
+     "part": 0.078
+    },
+    {
+     "parti": "Forza Italia e Noi Moderati",
+     "part": 0.034
+    },
+    {
+     "parti": "Lega",
+     "part": 0.034
+    },
+    {
+     "parti": "Azione e Stati Uniti d'Europa",
+     "part": 0.062
+    },
+    {
+     "parti": "autres",
+     "part": 0.04
+    }
+   ],
+   "source_partis": "Élections européennes 2024, résultats par section agrégés au quartier (Comune di Bologna, données ouvertes 'Elezioni europee 2024, Preferenze alle liste')",
+   "hypotheses": [
+    "Population éligible = résidents de 16 ans et plus. Les 18 ans et plus sont le chiffre exact de l'anagrafe au 31.12.2025 (60865); les 16 à 17 ans (1210) sont estimés à partir des générations de 15 et 16 ans au 31.12.2024. 66 résidents d'âge non renseigné et les personnes sans domicile fixe sont exclus.",
+    "Tranches d'âge: structure par âge individuel au 31.12.2024, vieillie d'un an et recalée sur le total exact des 18 ans et plus au 31.12.2025 (les décès et migrations de 2025 ne sont pas reflétés dans la forme de la pyramide).",
+    "Part de femmes et part d'étrangers (cittadinanza straniera) calculées sur les 18 ans et plus au 31.12.2025, appliquées aux 16 ans et plus.",
+    "Le vote est ouvert aussi aux non-résidents qui travaillent, étudient ou font du bénévolat à Bologne, et chacun choisit le quartier dans lequel il vote: l'électorat potentiel d'un quartier n'est donc pas égal à ses résidents, et les étudiants non résidents (souvent domiciliés ailleurs) ne figurent ni dans la population ni dans la part d'étudiants ci-dessous.",
+    "Lieux de vie: tiers de revenu définis sur la ville entière à partir du revenu imposable médian des 90 aires statistiques (déclarations 2022 publiées en 2024), pondérés par la population résidente au 31.12.2024; les habitants de logements ACER (31.12.2025) sont retirés pro rata des aires de leur zone de proximité, puis comptés à part. Les parts sont calculées sur la population totale du quartier, pas sur les seuls 16 ans et plus.",
+    "Activités: aucune statistique des professions par quartier n'est publiée en données ouvertes. La part d'occupés vient du recensement permanent 2023 (occupés résidents rapportés à la population résidente), ramenée aux 16 ans et plus. La ventilation des occupés par type d'emploi est modélisée à partir du niveau de diplôme du quartier (recensement 2021, population de 9 ans et plus) appliqué à une structure de référence de la ville non sourcée; les parts d'étudiants, de retraités, de sans-emploi (2,5 %) et de personnes au foyer ou inactives (solde) sont des hypothèses fondées sur la structure par âge.",
+    "Partis: élections européennes de juin 2024 uniquement, parts calculées sur les suffrages attribués aux listes dans les sections du quartier, donc sur les votants de ce scrutin et non sur l'ensemble des résidents. Azione et Stati Uniti d'Europa sont regroupés; « autres » contient Pace Terra Dignità, Alternativa Popolare, Libertà et SVP."
+   ]
+  },
+  {
+   "id": "bo-porto",
+   "nom": "Porto-Saragozza",
+   "type": "quartiere",
+   "description": "Quartier de l'ouest de la ville, qui comprend une partie du centre historique à l'intérieur des viali (notamment les zones Marconi et Malpighi), la zone Saffi, Costa-Saragozza et le versant de San Luca. Profil socio-économique plutôt élevé (revenu médian déclaré par les Italiens de 26 098 euros en 2023, près de quatre résidents sur dix diplômés du supérieur) et forte part de personnes vivant seules (environ 23 % des habitants). Le logement public ACER concerne environ 4 % des habitants, surtout dans les zones Saffi et Saragozza-San Luca.",
+   "population_eligible": {
+    "valeur": 62386,
+    "annee": "31.12.2025",
+    "definition": "résidents de 16 ans et plus",
+    "source": "Comune di Bologna, Settore Statistica, données ouvertes: 'Popolazione per quartiere zona sesso età cittadinanza luogo di nascita, serie storica dal 2025' (18 ans et plus, 31.12.2025) et série annuelle par âge individuel (31.12.2024) pour l'estimation des 16 à 17 ans"
+   },
+   "tranches_age": [
+    {
+     "tranche": "16-19",
+     "min": 16,
+     "max": 19,
+     "part": 0.033
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.044
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.156
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.163
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.167
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.159
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.121
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.157
+    }
+   ],
+   "source_age": "Comune di Bologna, données ouvertes: 'Popolazione residente per età, sesso, cittadinanza, quartiere e zona (dal 1986)', âge individuel au 31.12.2024, recalé sur le total 2025",
+   "part_femmes": {
+    "valeur": 0.537,
+    "source": "Comune di Bologna, données ouvertes, population par quartier, sexe et âge au 31.12.2025 (18 ans et plus)"
+   },
+   "part_etrangers": {
+    "valeur": 0.121,
+    "source": "Comune di Bologna, données ouvertes, cittadinanza straniera par quartier au 31.12.2025 (18 ans et plus)"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement social (alloggi pubblici ACER)",
+     "part": 0.04
+    },
+    {
+     "lieu": "zone au revenu médian élevé (tiers supérieur de la ville)",
+     "part": 0.457
+    },
+    {
+     "lieu": "zone au revenu médian intermédiaire",
+     "part": 0.503
+    }
+   ],
+   "source_lieux_de_vie": "Revenu imposable médian par aire statistique (Comune di Bologna, données ouvertes 'Reddito mediano per area statistica') agrégé au quartier, et 'Alloggi pubblici e abitanti per zona di prossimità' (ACER, 31.12.2025)",
+   "activites_actifs": [
+    {
+     "activite": "cadre, profession intellectuelle ou dirigeant·e salarié·e",
+     "part": 0.153
+    },
+    {
+     "activite": "technicien·ne ou employé·e de bureau",
+     "part": 0.123
+    },
+    {
+     "activite": "employé·e du commerce, des services ou des soins",
+     "part": 0.079
+    },
+    {
+     "activite": "ouvrier·ère, artisan·e salarié·e ou emploi non qualifié",
+     "part": 0.084
+    },
+    {
+     "activite": "indépendant·e, commerçant·e ou artisan·e à son compte",
+     "part": 0.103
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.054
+    },
+    {
+     "activite": "retraité·e",
+     "part": 0.287
+    },
+    {
+     "activite": "sans emploi (en recherche)",
+     "part": 0.025
+    },
+    {
+     "activite": "au foyer ou autre inactif·ve",
+     "part": 0.092
+    }
+   ],
+   "source_activites": "Recensement permanent ISTAT 2021 et 2023 par aire statistique (Comune di Bologna, données ouvertes 'Occupazione e istruzione a Bologna'), agrégé au quartier; ventilation par type d'emploi modélisée (voir hypothèses)",
+   "partis": [
+    {
+     "parti": "Partito Democratico",
+     "part": 0.388
+    },
+    {
+     "parti": "Fratelli d'Italia",
+     "part": 0.203
+    },
+    {
+     "parti": "Alleanza Verdi e Sinistra",
+     "part": 0.141
+    },
+    {
+     "parti": "Movimento 5 Stelle",
+     "part": 0.057
+    },
+    {
+     "parti": "Forza Italia e Noi Moderati",
+     "part": 0.045
+    },
+    {
+     "parti": "Lega",
+     "part": 0.031
+    },
+    {
+     "parti": "Azione e Stati Uniti d'Europa",
+     "part": 0.089
+    },
+    {
+     "parti": "autres",
+     "part": 0.046
+    }
+   ],
+   "source_partis": "Élections européennes 2024, résultats par section agrégés au quartier (Comune di Bologna, données ouvertes 'Elezioni europee 2024, Preferenze alle liste')",
+   "hypotheses": [
+    "Population éligible = résidents de 16 ans et plus. Les 18 ans et plus sont le chiffre exact de l'anagrafe au 31.12.2025 (61350); les 16 à 17 ans (1036) sont estimés à partir des générations de 15 et 16 ans au 31.12.2024. 112 résidents d'âge non renseigné et les personnes sans domicile fixe sont exclus.",
+    "Tranches d'âge: structure par âge individuel au 31.12.2024, vieillie d'un an et recalée sur le total exact des 18 ans et plus au 31.12.2025 (les décès et migrations de 2025 ne sont pas reflétés dans la forme de la pyramide).",
+    "Part de femmes et part d'étrangers (cittadinanza straniera) calculées sur les 18 ans et plus au 31.12.2025, appliquées aux 16 ans et plus.",
+    "Le vote est ouvert aussi aux non-résidents qui travaillent, étudient ou font du bénévolat à Bologne, et chacun choisit le quartier dans lequel il vote: l'électorat potentiel d'un quartier n'est donc pas égal à ses résidents, et les étudiants non résidents (souvent domiciliés ailleurs) ne figurent ni dans la population ni dans la part d'étudiants ci-dessous.",
+    "Lieux de vie: tiers de revenu définis sur la ville entière à partir du revenu imposable médian des 90 aires statistiques (déclarations 2022 publiées en 2024), pondérés par la population résidente au 31.12.2024; les habitants de logements ACER (31.12.2025) sont retirés pro rata des aires de leur zone de proximité, puis comptés à part. Les parts sont calculées sur la population totale du quartier, pas sur les seuls 16 ans et plus.",
+    "Activités: aucune statistique des professions par quartier n'est publiée en données ouvertes. La part d'occupés vient du recensement permanent 2023 (occupés résidents rapportés à la population résidente), ramenée aux 16 ans et plus. La ventilation des occupés par type d'emploi est modélisée à partir du niveau de diplôme du quartier (recensement 2021, population de 9 ans et plus) appliqué à une structure de référence de la ville non sourcée; les parts d'étudiants, de retraités, de sans-emploi (2,5 %) et de personnes au foyer ou inactives (solde) sont des hypothèses fondées sur la structure par âge.",
+    "Partis: élections européennes de juin 2024 uniquement, parts calculées sur les suffrages attribués aux listes dans les sections du quartier, donc sur les votants de ce scrutin et non sur l'ensemble des résidents. Azione et Stati Uniti d'Europa sont regroupés; « autres » contient Pace Terra Dignità, Alternativa Popolare, Libertà et SVP."
+   ]
+  },
+  {
+   "id": "bo-sandonato",
+   "nom": "San Donato-San Vitale",
+   "type": "quartiere",
+   "description": "Quartier de l'est et du nord-est de la ville, qui va de San Vitale et de la Cirenaica-Massarenti-Scandellara à San Donato Vecchio et Nuovo, jusqu'à Croce del Biacco-Roveri. C'est le quartier où le logement public ACER pèse le plus (environ 14 % des habitants, surtout à San Donato Vecchio et Nuovo) et où le revenu médian déclaré par les Italiens est le plus bas des six (23 704 euros en 2023). Les résidents étrangers représentent environ 18 % des adultes.",
+   "population_eligible": {
+    "valeur": 59963,
+    "annee": "31.12.2025",
+    "definition": "résidents de 16 ans et plus",
+    "source": "Comune di Bologna, Settore Statistica, données ouvertes: 'Popolazione per quartiere zona sesso età cittadinanza luogo di nascita, serie storica dal 2025' (18 ans et plus, 31.12.2025) et série annuelle par âge individuel (31.12.2024) pour l'estimation des 16 à 17 ans"
+   },
+   "tranches_age": [
+    {
+     "tranche": "16-19",
+     "min": 16,
+     "max": 19,
+     "part": 0.034
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.051
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.163
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.161
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.16
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.157
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.117
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.157
+    }
+   ],
+   "source_age": "Comune di Bologna, données ouvertes: 'Popolazione residente per età, sesso, cittadinanza, quartiere e zona (dal 1986)', âge individuel au 31.12.2024, recalé sur le total 2025",
+   "part_femmes": {
+    "valeur": 0.516,
+    "source": "Comune di Bologna, données ouvertes, population par quartier, sexe et âge au 31.12.2025 (18 ans et plus)"
+   },
+   "part_etrangers": {
+    "valeur": 0.18,
+    "source": "Comune di Bologna, données ouvertes, cittadinanza straniera par quartier au 31.12.2025 (18 ans et plus)"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement social (alloggi pubblici ACER)",
+     "part": 0.141
+    },
+    {
+     "lieu": "zone au revenu médian élevé (tiers supérieur de la ville)",
+     "part": 0.189
+    },
+    {
+     "lieu": "zone au revenu médian intermédiaire",
+     "part": 0.107
+    },
+    {
+     "lieu": "zone au revenu médian modeste (tiers inférieur de la ville)",
+     "part": 0.563
+    }
+   ],
+   "source_lieux_de_vie": "Revenu imposable médian par aire statistique (Comune di Bologna, données ouvertes 'Reddito mediano per area statistica') agrégé au quartier, et 'Alloggi pubblici e abitanti per zona di prossimità' (ACER, 31.12.2025)",
+   "activites_actifs": [
+    {
+     "activite": "cadre, profession intellectuelle ou dirigeant·e salarié·e",
+     "part": 0.103
+    },
+    {
+     "activite": "technicien·ne ou employé·e de bureau",
+     "part": 0.126
+    },
+    {
+     "activite": "employé·e du commerce, des services ou des soins",
+     "part": 0.079
+    },
+    {
+     "activite": "ouvrier·ère, artisan·e salarié·e ou emploi non qualifié",
+     "part": 0.12
+    },
+    {
+     "activite": "indépendant·e, commerçant·e ou artisan·e à son compte",
+     "part": 0.091
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.059
+    },
+    {
+     "activite": "retraité·e",
+     "part": 0.282
+    },
+    {
+     "activite": "sans emploi (en recherche)",
+     "part": 0.025
+    },
+    {
+     "activite": "au foyer ou autre inactif·ve",
+     "part": 0.115
+    }
+   ],
+   "source_activites": "Recensement permanent ISTAT 2021 et 2023 par aire statistique (Comune di Bologna, données ouvertes 'Occupazione e istruzione a Bologna'), agrégé au quartier; ventilation par type d'emploi modélisée (voir hypothèses)",
+   "partis": [
+    {
+     "parti": "Partito Democratico",
+     "part": 0.413
+    },
+    {
+     "parti": "Fratelli d'Italia",
+     "part": 0.197
+    },
+    {
+     "parti": "Alleanza Verdi e Sinistra",
+     "part": 0.132
+    },
+    {
+     "parti": "Movimento 5 Stelle",
+     "part": 0.076
+    },
+    {
+     "parti": "Forza Italia e Noi Moderati",
+     "part": 0.038
+    },
+    {
+     "parti": "Lega",
+     "part": 0.03
+    },
+    {
+     "parti": "Azione e Stati Uniti d'Europa",
+     "part": 0.07
+    },
+    {
+     "parti": "autres",
+     "part": 0.044
+    }
+   ],
+   "source_partis": "Élections européennes 2024, résultats par section agrégés au quartier (Comune di Bologna, données ouvertes 'Elezioni europee 2024, Preferenze alle liste')",
+   "hypotheses": [
+    "Population éligible = résidents de 16 ans et plus. Les 18 ans et plus sont le chiffre exact de l'anagrafe au 31.12.2025 (58955); les 16 à 17 ans (1008) sont estimés à partir des générations de 15 et 16 ans au 31.12.2024. 33 résidents d'âge non renseigné et les personnes sans domicile fixe sont exclus.",
+    "Tranches d'âge: structure par âge individuel au 31.12.2024, vieillie d'un an et recalée sur le total exact des 18 ans et plus au 31.12.2025 (les décès et migrations de 2025 ne sont pas reflétés dans la forme de la pyramide).",
+    "Part de femmes et part d'étrangers (cittadinanza straniera) calculées sur les 18 ans et plus au 31.12.2025, appliquées aux 16 ans et plus.",
+    "Le vote est ouvert aussi aux non-résidents qui travaillent, étudient ou font du bénévolat à Bologne, et chacun choisit le quartier dans lequel il vote: l'électorat potentiel d'un quartier n'est donc pas égal à ses résidents, et les étudiants non résidents (souvent domiciliés ailleurs) ne figurent ni dans la population ni dans la part d'étudiants ci-dessous.",
+    "Lieux de vie: tiers de revenu définis sur la ville entière à partir du revenu imposable médian des 90 aires statistiques (déclarations 2022 publiées en 2024), pondérés par la population résidente au 31.12.2024; les habitants de logements ACER (31.12.2025) sont retirés pro rata des aires de leur zone de proximité, puis comptés à part. Les parts sont calculées sur la population totale du quartier, pas sur les seuls 16 ans et plus.",
+    "Activités: aucune statistique des professions par quartier n'est publiée en données ouvertes. La part d'occupés vient du recensement permanent 2023 (occupés résidents rapportés à la population résidente), ramenée aux 16 ans et plus. La ventilation des occupés par type d'emploi est modélisée à partir du niveau de diplôme du quartier (recensement 2021, population de 9 ans et plus) appliqué à une structure de référence de la ville non sourcée; les parts d'étudiants, de retraités, de sans-emploi (2,5 %) et de personnes au foyer ou inactives (solde) sont des hypothèses fondées sur la structure par âge.",
+    "Partis: élections européennes de juin 2024 uniquement, parts calculées sur les suffrages attribués aux listes dans les sections du quartier, donc sur les votants de ce scrutin et non sur l'ensemble des résidents. Azione et Stati Uniti d'Europa sont regroupés; « autres » contient Pace Terra Dignità, Alternativa Popolare, Libertà et SVP."
+   ]
+  },
+  {
+   "id": "bo-santostefano",
+   "nom": "Santo Stefano",
+   "type": "quartiere",
+   "description": "Quartier du sud du centre, qui inclut une partie du centre historique, la zone Irnerio proche des sites universitaires, Galvani, Murri, Osservanza-Paderno et les collines. C'est le quartier au profil socio-économique le plus élevé (revenu médian déclaré par les Italiens de 26 950 euros en 2023, plus de quatre résidents sur dix diplômés du supérieur), avec très peu de logement public (environ 1 % des habitants) et environ 22 % de personnes vivant seules. Les résidents étrangers représentent environ 12 % des adultes.",
+   "population_eligible": {
+    "valeur": 57698,
+    "annee": "31.12.2025",
+    "definition": "résidents de 16 ans et plus",
+    "source": "Comune di Bologna, Settore Statistica, données ouvertes: 'Popolazione per quartiere zona sesso età cittadinanza luogo di nascita, serie storica dal 2025' (18 ans et plus, 31.12.2025) et série annuelle par âge individuel (31.12.2024) pour l'estimation des 16 à 17 ans"
+   },
+   "tranches_age": [
+    {
+     "tranche": "16-19",
+     "min": 16,
+     "max": 19,
+     "part": 0.036
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.05
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.154
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.152
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.157
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.162
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.133
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.156
+    }
+   ],
+   "source_age": "Comune di Bologna, données ouvertes: 'Popolazione residente per età, sesso, cittadinanza, quartiere e zona (dal 1986)', âge individuel au 31.12.2024, recalé sur le total 2025",
+   "part_femmes": {
+    "valeur": 0.539,
+    "source": "Comune di Bologna, données ouvertes, population par quartier, sexe et âge au 31.12.2025 (18 ans et plus)"
+   },
+   "part_etrangers": {
+    "valeur": 0.124,
+    "source": "Comune di Bologna, données ouvertes, cittadinanza straniera par quartier au 31.12.2025 (18 ans et plus)"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement social (alloggi pubblici ACER)",
+     "part": 0.013
+    },
+    {
+     "lieu": "zone au revenu médian élevé (tiers supérieur de la ville)",
+     "part": 0.808
+    },
+    {
+     "lieu": "zone au revenu médian intermédiaire",
+     "part": 0.153
+    },
+    {
+     "lieu": "zone au revenu médian modeste (tiers inférieur de la ville)",
+     "part": 0.026
+    }
+   ],
+   "source_lieux_de_vie": "Revenu imposable médian par aire statistique (Comune di Bologna, données ouvertes 'Reddito mediano per area statistica') agrégé au quartier, et 'Alloggi pubblici e abitanti per zona di prossimità' (ACER, 31.12.2025)",
+   "activites_actifs": [
+    {
+     "activite": "cadre, profession intellectuelle ou dirigeant·e salarié·e",
+     "part": 0.158
+    },
+    {
+     "activite": "technicien·ne ou employé·e de bureau",
+     "part": 0.112
+    },
+    {
+     "activite": "employé·e du commerce, des services ou des soins",
+     "part": 0.074
+    },
+    {
+     "activite": "ouvrier·ère, artisan·e salarié·e ou emploi non qualifié",
+     "part": 0.071
+    },
+    {
+     "activite": "indépendant·e, commerçant·e ou artisan·e à son compte",
+     "part": 0.099
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.06
+    },
+    {
+     "activite": "retraité·e",
+     "part": 0.298
+    },
+    {
+     "activite": "sans emploi (en recherche)",
+     "part": 0.025
+    },
+    {
+     "activite": "au foyer ou autre inactif·ve",
+     "part": 0.103
+    }
+   ],
+   "source_activites": "Recensement permanent ISTAT 2021 et 2023 par aire statistique (Comune di Bologna, données ouvertes 'Occupazione e istruzione a Bologna'), agrégé au quartier; ventilation par type d'emploi modélisée (voir hypothèses)",
+   "partis": [
+    {
+     "parti": "Partito Democratico",
+     "part": 0.359
+    },
+    {
+     "parti": "Fratelli d'Italia",
+     "part": 0.234
+    },
+    {
+     "parti": "Alleanza Verdi e Sinistra",
+     "part": 0.128
+    },
+    {
+     "parti": "Movimento 5 Stelle",
+     "part": 0.049
+    },
+    {
+     "parti": "Forza Italia e Noi Moderati",
+     "part": 0.052
+    },
+    {
+     "parti": "Lega",
+     "part": 0.031
+    },
+    {
+     "parti": "Azione e Stati Uniti d'Europa",
+     "part": 0.109
+    },
+    {
+     "parti": "autres",
+     "part": 0.038
+    }
+   ],
+   "source_partis": "Élections européennes 2024, résultats par section agrégés au quartier (Comune di Bologna, données ouvertes 'Elezioni europee 2024, Preferenze alle liste')",
+   "hypotheses": [
+    "Population éligible = résidents de 16 ans et plus. Les 18 ans et plus sont le chiffre exact de l'anagrafe au 31.12.2025 (56673); les 16 à 17 ans (1025) sont estimés à partir des générations de 15 et 16 ans au 31.12.2024. 68 résidents d'âge non renseigné et les personnes sans domicile fixe sont exclus.",
+    "Tranches d'âge: structure par âge individuel au 31.12.2024, vieillie d'un an et recalée sur le total exact des 18 ans et plus au 31.12.2025 (les décès et migrations de 2025 ne sont pas reflétés dans la forme de la pyramide).",
+    "Part de femmes et part d'étrangers (cittadinanza straniera) calculées sur les 18 ans et plus au 31.12.2025, appliquées aux 16 ans et plus.",
+    "Le vote est ouvert aussi aux non-résidents qui travaillent, étudient ou font du bénévolat à Bologne, et chacun choisit le quartier dans lequel il vote: l'électorat potentiel d'un quartier n'est donc pas égal à ses résidents, et les étudiants non résidents (souvent domiciliés ailleurs) ne figurent ni dans la population ni dans la part d'étudiants ci-dessous.",
+    "Lieux de vie: tiers de revenu définis sur la ville entière à partir du revenu imposable médian des 90 aires statistiques (déclarations 2022 publiées en 2024), pondérés par la population résidente au 31.12.2024; les habitants de logements ACER (31.12.2025) sont retirés pro rata des aires de leur zone de proximité, puis comptés à part. Les parts sont calculées sur la population totale du quartier, pas sur les seuls 16 ans et plus.",
+    "Activités: aucune statistique des professions par quartier n'est publiée en données ouvertes. La part d'occupés vient du recensement permanent 2023 (occupés résidents rapportés à la population résidente), ramenée aux 16 ans et plus. La ventilation des occupés par type d'emploi est modélisée à partir du niveau de diplôme du quartier (recensement 2021, population de 9 ans et plus) appliqué à une structure de référence de la ville non sourcée; les parts d'étudiants, de retraités, de sans-emploi (2,5 %) et de personnes au foyer ou inactives (solde) sont des hypothèses fondées sur la structure par âge.",
+    "Partis: élections européennes de juin 2024 uniquement, parts calculées sur les suffrages attribués aux listes dans les sections du quartier, donc sur les votants de ce scrutin et non sur l'ensemble des résidents. Azione et Stati Uniti d'Europa sont regroupés; « autres » contient Pace Terra Dignità, Alternativa Popolare, Libertà et SVP."
+   ]
+  },
+  {
+   "id": "bo-savena",
+   "nom": "Savena",
+   "type": "quartiere",
+   "description": "Quartier du sud-est de la ville, qui comprend Mazzini, Pontevecchio, Fossolo-Due Madonne, Lungosavena, San Ruffillo, via Toscana et Monte Donato. C'est le quartier à la population la plus âgée des six (âge moyen de 48,5 ans, un résident de plus de 16 ans sur cinq a 75 ans ou plus), avec un revenu médian déclaré par les Italiens de 25 018 euros en 2023. Environ 5,5 % des habitants vivent dans un logement public ACER, surtout à Lungosavena, Pontevecchio-Mazzini et Fossolo.",
+   "population_eligible": {
+    "valeur": 52593,
+    "annee": "31.12.2025",
+    "definition": "résidents de 16 ans et plus",
+    "source": "Comune di Bologna, Settore Statistica, données ouvertes: 'Popolazione per quartiere zona sesso età cittadinanza luogo di nascita, serie storica dal 2025' (18 ans et plus, 31.12.2025) et série annuelle par âge individuel (31.12.2024) pour l'estimation des 16 à 17 ans"
+   },
+   "tranches_age": [
+    {
+     "tranche": "16-19",
+     "min": 16,
+     "max": 19,
+     "part": 0.035
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.046
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.118
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.146
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.162
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.165
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.124
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.204
+    }
+   ],
+   "source_age": "Comune di Bologna, données ouvertes: 'Popolazione residente per età, sesso, cittadinanza, quartiere e zona (dal 1986)', âge individuel au 31.12.2024, recalé sur le total 2025",
+   "part_femmes": {
+    "valeur": 0.54,
+    "source": "Comune di Bologna, données ouvertes, population par quartier, sexe et âge au 31.12.2025 (18 ans et plus)"
+   },
+   "part_etrangers": {
+    "valeur": 0.13,
+    "source": "Comune di Bologna, données ouvertes, cittadinanza straniera par quartier au 31.12.2025 (18 ans et plus)"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement social (alloggi pubblici ACER)",
+     "part": 0.055
+    },
+    {
+     "lieu": "zone au revenu médian élevé (tiers supérieur de la ville)",
+     "part": 0.161
+    },
+    {
+     "lieu": "zone au revenu médian intermédiaire",
+     "part": 0.624
+    },
+    {
+     "lieu": "zone au revenu médian modeste (tiers inférieur de la ville)",
+     "part": 0.16
+    }
+   ],
+   "source_lieux_de_vie": "Revenu imposable médian par aire statistique (Comune di Bologna, données ouvertes 'Reddito mediano per area statistica') agrégé au quartier, et 'Alloggi pubblici e abitanti per zona di prossimità' (ACER, 31.12.2025)",
+   "activites_actifs": [
+    {
+     "activite": "cadre, profession intellectuelle ou dirigeant·e salarié·e",
+     "part": 0.099
+    },
+    {
+     "activite": "technicien·ne ou employé·e de bureau",
+     "part": 0.123
+    },
+    {
+     "activite": "employé·e du commerce, des services ou des soins",
+     "part": 0.076
+    },
+    {
+     "activite": "ouvrier·ère, artisan·e salarié·e ou emploi non qualifié",
+     "part": 0.112
+    },
+    {
+     "activite": "indépendant·e, commerçant·e ou artisan·e à son compte",
+     "part": 0.088
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.056
+    },
+    {
+     "activite": "retraité·e",
+     "part": 0.333
+    },
+    {
+     "activite": "sans emploi (en recherche)",
+     "part": 0.025
+    },
+    {
+     "activite": "au foyer ou autre inactif·ve",
+     "part": 0.088
+    }
+   ],
+   "source_activites": "Recensement permanent ISTAT 2021 et 2023 par aire statistique (Comune di Bologna, données ouvertes 'Occupazione e istruzione a Bologna'), agrégé au quartier; ventilation par type d'emploi modélisée (voir hypothèses)",
+   "partis": [
+    {
+     "parti": "Partito Democratico",
+     "part": 0.433
+    },
+    {
+     "parti": "Fratelli d'Italia",
+     "part": 0.205
+    },
+    {
+     "parti": "Alleanza Verdi e Sinistra",
+     "part": 0.102
+    },
+    {
+     "parti": "Movimento 5 Stelle",
+     "part": 0.073
+    },
+    {
+     "parti": "Forza Italia e Noi Moderati",
+     "part": 0.042
+    },
+    {
+     "parti": "Lega",
+     "part": 0.033
+    },
+    {
+     "parti": "Azione e Stati Uniti d'Europa",
+     "part": 0.07
+    },
+    {
+     "parti": "autres",
+     "part": 0.042
+    }
+   ],
+   "source_partis": "Élections européennes 2024, résultats par section agrégés au quartier (Comune di Bologna, données ouvertes 'Elezioni europee 2024, Preferenze alle liste')",
+   "hypotheses": [
+    "Population éligible = résidents de 16 ans et plus. Les 18 ans et plus sont le chiffre exact de l'anagrafe au 31.12.2025 (51661); les 16 à 17 ans (932) sont estimés à partir des générations de 15 et 16 ans au 31.12.2024. 32 résidents d'âge non renseigné et les personnes sans domicile fixe sont exclus.",
+    "Tranches d'âge: structure par âge individuel au 31.12.2024, vieillie d'un an et recalée sur le total exact des 18 ans et plus au 31.12.2025 (les décès et migrations de 2025 ne sont pas reflétés dans la forme de la pyramide).",
+    "Part de femmes et part d'étrangers (cittadinanza straniera) calculées sur les 18 ans et plus au 31.12.2025, appliquées aux 16 ans et plus.",
+    "Le vote est ouvert aussi aux non-résidents qui travaillent, étudient ou font du bénévolat à Bologne, et chacun choisit le quartier dans lequel il vote: l'électorat potentiel d'un quartier n'est donc pas égal à ses résidents, et les étudiants non résidents (souvent domiciliés ailleurs) ne figurent ni dans la population ni dans la part d'étudiants ci-dessous.",
+    "Lieux de vie: tiers de revenu définis sur la ville entière à partir du revenu imposable médian des 90 aires statistiques (déclarations 2022 publiées en 2024), pondérés par la population résidente au 31.12.2024; les habitants de logements ACER (31.12.2025) sont retirés pro rata des aires de leur zone de proximité, puis comptés à part. Les parts sont calculées sur la population totale du quartier, pas sur les seuls 16 ans et plus.",
+    "Activités: aucune statistique des professions par quartier n'est publiée en données ouvertes. La part d'occupés vient du recensement permanent 2023 (occupés résidents rapportés à la population résidente), ramenée aux 16 ans et plus. La ventilation des occupés par type d'emploi est modélisée à partir du niveau de diplôme du quartier (recensement 2021, population de 9 ans et plus) appliqué à une structure de référence de la ville non sourcée; les parts d'étudiants, de retraités, de sans-emploi (2,5 %) et de personnes au foyer ou inactives (solde) sont des hypothèses fondées sur la structure par âge.",
+    "Partis: élections européennes de juin 2024 uniquement, parts calculées sur les suffrages attribués aux listes dans les sections du quartier, donc sur les votants de ce scrutin et non sur l'ensemble des résidents. Azione et Stati Uniti d'Europa sont regroupés; « autres » contient Pace Terra Dignità, Alternativa Popolare, Libertà et SVP."
+   ]
+  }
+ ]
+}

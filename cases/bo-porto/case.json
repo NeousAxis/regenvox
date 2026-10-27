@@ -1,0 +1,26 @@
+{
+  "id": "bo-porto",
+  "cible": {
+    "type": "quartiere",
+    "nom": "Porto-Saragozza",
+    "canton": "",
+    "pays": "IT",
+    "description": "Quartier de l'ouest de la ville, qui comprend une partie du centre historique à l'intérieur des viali (notamment les zones Marconi et Malpighi), la zone Saffi, Costa-Saragozza et le versant de San Luca. Profil socio-économique plutôt élevé (revenu médian déclaré par les Italiens de 26 098 euros en 2023, près de quatre résidents sur dix diplômés du supérieur) et forte part de personnes vivant seules (environ 23 % des habitants). Le logement public ACER concerne environ 4 % des habitants, surtout dans les zones Saffi et Saragozza-San Luca.",
+    "ville": "Bologne",
+    "ville_id": "bologne",
+    "nationalites": {
+      "nationale": "italienne",
+      "etrangere": "étrangère (résident·e en Italie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de Porto-Saragozza à Bilancio partecipativo 2026 de Bologne (cinquième édition)",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 30,
+    "seed": 20261028
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

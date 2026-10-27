@@ -240,5 +240,6 @@ export const SCHEMAS = {
   petitions: ReactionMobilOut,
   demarches: ReactionMobilOut,
   demarchesge: ReactionMobilOut,
+  quartiers: ReactionMobilOut,
 } as const;
 export type StepName = keyof typeof SCHEMAS;

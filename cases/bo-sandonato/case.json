@@ -1,0 +1,26 @@
+{
+  "id": "bo-sandonato",
+  "cible": {
+    "type": "quartiere",
+    "nom": "San Donato-San Vitale",
+    "canton": "",
+    "pays": "IT",
+    "description": "Quartier de l'est et du nord-est de la ville, qui va de San Vitale et de la Cirenaica-Massarenti-Scandellara à San Donato Vecchio et Nuovo, jusqu'à Croce del Biacco-Roveri. C'est le quartier où le logement public ACER pèse le plus (environ 14 % des habitants, surtout à San Donato Vecchio et Nuovo) et où le revenu médian déclaré par les Italiens est le plus bas des six (23 704 euros en 2023). Les résidents étrangers représentent environ 18 % des adultes.",
+    "ville": "Bologne",
+    "ville_id": "bologne",
+    "nationalites": {
+      "nationale": "italienne",
+      "etrangere": "étrangère (résident·e en Italie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de San Donato-San Vitale à Bilancio partecipativo 2026 de Bologne (cinquième édition)",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 30,
+    "seed": 20261029
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

@@ -1,0 +1,35 @@
+{
+  "collecte_le": "2026-10-26",
+  "edition_2026": null,
+  "edition_precedente": {
+    "annee": 2023,
+    "nature": "votants",
+    "definition": "Nombre de personnes ayant voté dans l'édition 2022-2023 du Bilancio partecipativo de Bologne (vote en ligne du 26.05.2023 au 30.06.2023), réparties par quartier selon le jeu de données ouvert du Comune « Bilancio partecipativo 2022-2023: votanti per quartiere e genere » (somme des 7 tranches d'âge, hommes + femmes + non précisé). Chaque personne n'a eu qu'un seul vote, pour un seul projet, et compte donc une fois. Le quartier est celui DU PROJET POUR LEQUEL LA PERSONNE A VOTÉ (quartier pour lequel elle a voté, qu'elle y habite, y travaille ou y fasse du bénévolat), PAS son quartier de résidence : la somme des six quartiers égale exactement le total des votants de la ville, ce qui n'est possible que si chaque votant est rattaché à un seul quartier, y compris les non-résidents autorisés à voter. Déduction à partir de la structure du jeu de données et du règlement, pas d'une définition écrite explicite dans le jeu de données.",
+    "sources": [
+      "https://opendata.comune.bologna.it/explore/dataset/bilancio-partecipativo-2022-2023-votanti-per-quartiere-e-genere/",
+      "https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo-2022-2023-votanti-per-quartiere-e-genere/records?limit=100",
+      "https://partecipa.comune.bologna.it/partecipa/bilancio-partecipativo?sect=bilancio-partecipativo-edizione-2023-sintesi",
+      "https://www.nuoveautonomie.it/wp-content/uploads/2025/04/Livolsi-Nuove-autonomie-1-25-speciale_rev.2.pdf",
+      "https://www.fondazioneinnovazioneurbana.it/images/BilancioPartecipativo/2023_BP_VOTO_REPORT.pdf"
+    ],
+    "territoires": [
+      {"id": "bo-borgo", "nom": "Borgo Panigale-Reno", "nombre": 3508},
+      {"id": "bo-navile", "nom": "Navile", "nombre": 4725},
+      {"id": "bo-porto", "nom": "Porto-Saragozza", "nombre": 3155},
+      {"id": "bo-sandonato", "nom": "San Donato-San Vitale", "nombre": 2098},
+      {"id": "bo-santostefano", "nom": "Santo Stefano", "nombre": 3207},
+      {"id": "bo-savena", "nom": "Savena", "nombre": 2634}
+    ]
+  },
+  "remarques": [
+    "Total ville 2023 : 19327 votants (chiffre officiel du Comune), égal à la somme des six quartiers calculée à partir du jeu de données ouvert (42 lignes : 6 quartiers x 7 tranches d'âge, colonnes femmes, maschi, ns). Le contrôle de cohérence est exact.",
+    "Ambiguïté sur le quartier : le jeu de données n'écrit pas la définition de « quartiere ». La déduction (quartier du projet voté, pas quartier de résidence) repose sur : (1) la somme des quartiers égale le total des votants, (2) le règlement : un seul vote, pour un projet du quartier où la personne habite, travaille ou fait du bénévolat, avec droit de vote ouvert aux non-résidents qui travaillent ou étudient à Bologne, (3) un résumé secondaire du rapport de la Fondazione Innovazione Urbana qui indique que la majorité a voté pour son quartier de résidence (environ 14900 personnes) et le reste pour un quartier de travail, bénévolat ou études, chiffres non vérifiés dans le rapport lui-même.",
+    "Le rapport détaillé officiel (2023_BP_VOTO_REPORT.pdf, Fondazione per l'Innovazione Urbana) n'a pas pu être consulté : le certificat TLS du site fondazioneinnovazioneurbana.it est expiré et la vérification n'a pas été désactivée. Les chiffres viennent du jeu de données ouvert du Comune, donc d'une source officielle, mais la définition exacte du rapport n'a pas été relue directement.",
+    "Le nom du champ du jeu de données est « voti_totali » alors que son titre parle de « votanti » : comme chaque personne n'avait qu'un vote, votes et votants coïncident en 2023. Ce n'était pas le cas en 2019-2020 (deux votes par personne : un projet et une priorité).",
+    "2023 est bien la dernière édition terminée : le catalogue ouvert du Comune ne contient que les éditions 2017, 2018, 2019/20 et 2023, et l'édition 2026 est en cours (vote du 19.10.2026 au 09.11.2026). Aucun chiffre 2026, même partiel, n'a été relevé ni consulté.",
+    "Changement de règle 2026 à garder en tête : selon la presse locale, l'édition 2026 retient deux projets gagnants par quartier au lieu d'un, et ajoute des « fattori di equità ». Les règles de vote 2026 (nombre de votes par personne, quartier de rattachement du votant, canaux) n'ont pas été vérifiées. Si une personne peut voter pour plusieurs projets ou plusieurs quartiers, le nombre de votants 2026 par quartier ne sera pas directement comparable à celui de 2023.",
+    "Âge minimum de vote 2023 : 16 ans, et ouverture aux non-résidents qui travaillent, étudient ou font du bénévolat à Bologne, aux étrangers résidents ou actifs dans la ville. Les quartiers à forte présence d'étudiants ou de travailleurs non résidents peuvent donc dépasser leur poids de population résidente.",
+    "Les totaux de la ville des éditions antérieures, tirés d'un article secondaire (Livolsi, Nuove Autonomie 2025) : 2017 : 14584 votants, 2018 : 16348 votants, 2019-2020 : 22247 voti (deux votes par personne, donc pas des votants). Des jeux de données par quartier existent aussi pour les éditions antérieures sur le portail ouvert du Comune.",
+    "Pages où le Comune publiera les résultats 2026 : https://partecipa.comune.bologna.it/partecipa/bilancio-partecipativo (page de l'édition 2026, rubrique « Report e materiali » : ?sect=report-bilancio-partecipativo-2026, non ouverte volontairement), et le portail de données ouvertes https://opendata.comune.bologna.it (le jeu de données 2026 « votanti per quartiere » devrait y apparaître, comme pour 2023). Les résultats officiels sont ratifiés par une délibération de la Giunta (11.07.2023 pour l'édition 2023, onze jours après la clôture du 30.06.2023)."
+  ]
+}

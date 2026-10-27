@@ -1,0 +1,26 @@
+{
+  "id": "med50",
+  "cible": {
+    "type": "corregimiento",
+    "nom": "San Sebastián de Palmitas",
+    "canton": "",
+    "pays": "CO",
+    "description": "Corregimiento rural à l'extrême nord-ouest de Medellín, de montagne, à très faible population, organisé autour d'un petit centre poblado et de veredas dispersées. Habitat de strates 1 et 2.",
+    "ville": "Medellín",
+    "ville_id": "medellin",
+    "nationalites": {
+      "nationale": "colombienne",
+      "etrangere": "étrangère (résident·e en Colombie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de San Sebastián de Palmitas à Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 20,
+    "seed": 20261042
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

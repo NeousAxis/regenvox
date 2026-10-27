@@ -1,0 +1,11 @@
+{
+  "id": "p05",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.05,
+      "partage_proba": 0.12,
+      "raison": "Le vote se fait entièrement en ligne après une inscription avec validation biométrique et code PIN, et les projets concernent surtout les autres comunas, donc je ne m'y mets que si une personne de mon entourage me pousse à le faire."
+    }
+  ]
+}

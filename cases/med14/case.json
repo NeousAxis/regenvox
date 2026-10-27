@@ -1,0 +1,26 @@
+{
+  "id": "med14",
+  "cible": {
+    "type": "comuna",
+    "nom": "El Poblado",
+    "canton": "",
+    "pays": "CO",
+    "description": "Comuna du sud-est de Medellín, sur les collines du sud de la vallée, quartier d'affaires, de commerces et résidentiel de haut niveau. Urbaine, avec une très large majorité de logements de strate 6 et le reste surtout en strate 5.",
+    "ville": "Medellín",
+    "ville_id": "medellin",
+    "nationalites": {
+      "nationale": "colombienne",
+      "etrangere": "étrangère (résident·e en Colombie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de El Poblado à Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 20,
+    "seed": 20261039
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

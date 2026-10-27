@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bo-borgo",
+    "nom": "Borgo Panigale-Reno",
+    "run": "q-bo-borgo",
+    "population_eligible": 54006,
+    "taux_panel": 0.0496,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.0918,
+    "raisons_echantillon": [
+      "59 ans, au foyer ou autre inactif·ve, zone au revenu médian modeste (tiers inférieur de la ville) : Je ne suis pas sûr que mon vote change quoi que ce soit pour mon quartier, je ne parle pas de ces sujets avec les gens autour de moi, et passer par SPID ou un compte Rete Civica me décourage, sauf si quelqu'un m'accompagne à la Casa di Quartiere.",
+      "65 ans, retraité·e, zone au revenu médian élevé (tiers supérieur de la ville) : Retraitée de 65 ans, attentive à la vie de mon quartier et proche d'Azione, je suis pourtant peu concernée par ce budget participatif, qui se vote en ligne avec une identification (SPID, carte d'identité électronique ou compte Rete Civica) et dont je n'ai pas entendu parler dans mon entourage ; je ne m'y suis probablement pas mise.",
+      "68 ans, retraité·e, zone au revenu médian intermédiaire : Retraité proche d'AVS, je pourrais voter pour un projet de mon quartier, mais le vote en ligne avec SPID me rebute, je vis seul et j'ai peu entendu parler de la démarche.",
+      "47 ans, ouvrier·ère, artisan·e salarié·e ou emploi non qualifié, zone au revenu médian intermédiaire : Je travaille beaucoup, je vis seule et ces démarches de la ville ne me sont jamais vraiment parvenues ; voter demande un compte en ligne ou un passage au point d'aide, et je ne sais pas si j'en ai envie, donc j'y participerais rarement et je n'en parlerais guère.",
+      "50 ans, indépendant·e, commerçant·e ou artisan·e à son compte, zone au revenu médian modeste (tiers inférieur de la ville) : Artisan à mon compte et seul, je n'ai pas toujours le temps de suivre ces démarches et le vote en ligne avec SPID me freine, même si ma proximité avec le Movimento 5 Stelle me rend un peu plus sensible à la participation citoyenne, et mes clients du quartier pourraient me faire en parler.",
+      "56 ans, au foyer ou autre inactif·ve, zone au revenu médian modeste (tiers inférieur de la ville) : Je peux voter sans condition de nationalité, mais le vote se fait en ligne, je vis seule sans activité professionnelle, et ce genre de démarche ne fait pas partie de mon quotidien ni de mes conversations, donc je n'y participe probablement pas et j'en parle rarement."
+    ]
+  },
+  {
+    "id": "bo-navile",
+    "nom": "Navile",
+    "run": "q-bo-navile",
+    "population_eligible": 62075,
+    "taux_panel": 0.0464,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.0328,
+    "raisons_echantillon": [
+      "23 ans, employé·e du commerce, des services ou des soins, zone au revenu médian élevé (tiers supérieur de la ville) : Je travaille dans le commerce avec des horaires chargés, je vis encore chez mes parents et je n'ai jamais suivi les ateliers de quartier, donc je ne vote pas spontanément pour ce genre de projet et je n'en parle que si quelqu'un l'évoque en premier.",
+      "30 ans, étudiant·e, zone au revenu médian modeste (tiers inférieur de la ville) : Je n'ai pas d'obstacle technique (SPID ou CIE, à l'aise avec le numérique), mais entre mes études et mes enfants je suis peu dans les circuits du quartier, donc je m'implique peu et j'en parle peu.",
+      "17 ans, en formation (apprentissage ou études), zone au revenu médian intermédiaire : Je n'ai pas entendu parler de cette démarche, voter demande SPID ou CIE et un peu de temps que je n'ai pas, et ça ne me touche pas assez pour en parler.",
+      "72 ans, retraité·e, zone au revenu médian élevé (tiers supérieur de la ville) : Je vis seule, à la retraite, je n'ai pas suivi les ateliers de quartier et le vote en ligne avec SPID me découragerait, donc je ne voterais probablement pas ; j'en parlerais peut-être à une voisine, sans que le sujet revienne souvent dans nos conversations.",
+      "61 ans, indépendant·e, commerçant·e ou artisan·e à son compte, zone au revenu médian intermédiaire : Commerçante très occupée par son magasin et peu suivie des démarches de la Ville, et le vote exige SPID, CIE ou un compte Rete Civica ; sensible à la participation citoyenne (proche du M5S), ce qui la rend un peu plus disposée à voter si on lui en parle, et à en discuter avec ses clients si la question vient naturellement en boutique.",
+      "39 ans, technicien·ne ou employé·e de bureau, zone au revenu médian modeste (tiers inférieur de la ville) : Je vois peu d'affiches ou de relais sur le budget participatif et voter demande SPID ou une carte d'identité électronique, ce qui me freine, même si je suis proche du M5S et sensible à la participation citoyenne, donc j'en parlerais à mon compagnon ou à des collègues si le sujet vient dans la conversation, sans faire campagne."
+    ]
+  },
+  {
+    "id": "bo-porto",
+    "nom": "Porto-Saragozza",
+    "run": "q-bo-porto",
+    "population_eligible": 62386,
+    "taux_panel": 0.0609,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.2262,
+    "raisons_echantillon": [
+      "64 ans, technicien·ne ou employé·e de bureau, zone au revenu médian intermédiaire : Je n'ai pas suivi les ateliers du printemps, le vote en ligne demande des démarches (SPID, code fiscal) que je fais à contrecœur, et je n'en parlerais que si la famille s'y intéressait.",
+      "64 ans, étudiant·e, zone au revenu médian élevé (tiers supérieur de la ville) : Engagée à gauche et à l'aise avec le numérique, elle pourrait voter, mais la plupart des Bolognais ignorent ce budget participatif, le vote en ligne exige SPID ou un compte Rete Civica, et rien dans cette édition ne la pousse à se mobiliser pour un projet précis ; elle pourrait en parler à son compagnon ou à des amis militants si le sujet vient dans la conversation, sans le lancer elle-même.",
+      "95 ans, retraité·e, zone au revenu médian élevé (tiers supérieur de la ville) : À 95 ans, sans habitude du numérique, je ne voterais que si une aide de quartier venait m'accompagner sur place, ce qui reste rare, et le budget participatif n'est pas un sujet qui revient souvent autour de moi.",
+      "30 ans, employé·e du commerce, des services ou des soins, zone au revenu médian intermédiaire : Je suis éligible, mais voter passe par SPID, la CIE ou un compte Rete Civica à créer, et entre mon travail et les enfants je n'ai pas souvent le temps de faire une démarche en ligne sur trois semaines, sauf si un projet de parc ou d'aire de jeux du quartier me touche vraiment.",
+      "33 ans, cadre, profession intellectuelle ou dirigeant·e salarié·e, zone au revenu médian intermédiaire : Les aires de jeux et les parcs me touchent comme père, mais je n'ai vu l'annonce qu'au hasard, le vote exige SPID ou la CIE et le temps manque entre le travail et les enfants, donc je ne voterai que si je tombe dessus, et j'en parlerai surtout dans le groupe WhatsApp des parents.",
+      "41 ans, ouvrier·ère, artisan·e salarié·e ou emploi non qualifié, zone au revenu médian intermédiaire : Entre le travail et les enfants, je n'ai ni le temps ni l'habitude de voter en ligne pour ces projets, et je n'en entends guère parler; si une voisine en parle, j'en dirai peut-être un mot, mais ce n'est pas un sujet qui revient souvent chez moi."
+    ]
+  },
+  {
+    "id": "bo-sandonato",
+    "nom": "San Donato-San Vitale",
+    "run": "q-bo-sandonato",
+    "population_eligible": 59963,
+    "taux_panel": 0.052,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1352,
+    "raisons_echantillon": [
+      "29 ans, ouvrier·ère, artisan·e salarié·e ou emploi non qualifié, logement social (alloggi pubblici ACER) : Je n'ai jamais voté pour ce genre de projets : il faut passer par la plateforme en ligne avec SPID ou la carte d'identité électronique, mes journées d'ouvrier sont longues, et même si le quartier me concerne, des parcs et des aires de sport ne me font pas bouger au point de m'y mettre seul.",
+      "49 ans, ouvrier·ère, artisan·e salarié·e ou emploi non qualifié, zone au revenu médian modeste (tiers inférieur de la ville) : Le vote se fait seulement en ligne (SPID ou CIE) pendant trois semaines, et elle ne suit pas les démarches de la ville ; son emploi du temps d'ouvrière seule laisse peu de place à ce genre de démarche, et elle en parlerait peu autour d'elle car le sujet reste loin de ses préoccupations quotidiennes.",
+      "21 ans, sans emploi (en recherche), zone au revenu médian modeste (tiers inférieur de la ville) : Sans emploi et encore chez mes parents à San Donato, j'ai du temps et je suis un peu l'actu du quartier, mais le vote en ligne avec SPID ou la CIE me freine et les projets de parcs ou de mobilité ne me touchent pas assez pour que je m'y mette, donc je n'en parlerais sans doute qu'à ma famille si ça passe aux infos.",
+      "47 ans, au foyer ou autre inactif·ve, zone au revenu médian modeste (tiers inférieur de la ville) : Je ne suis pas très portée sur ces démarches municipales et je n'en ai guère entendu parler, le vote se fait en ligne avec SPID (ou dans une Case di Quartiere, mais il faut s'y rendre), donc je ne voterai probablement pas ; j'en parlerais surtout à mes voisines, sans grand enthousiasme.",
+      "16 ans, en formation (apprentissage ou études), zone au revenu médian élevé (tiers supérieur de la ville) : Je ne suis pas concerné par les travaux de quartier, et rien ne me pousse à faire l'identification en ligne (SPID, CIE ou compte Google) que demande le vote, donc je ne vote presque sûrement pas ; j'en parlerais peut-être à mes parents si le sujet vient à table, mais ça reste rare.",
+      "34 ans, technicien·ne ou employé·e de bureau, zone au revenu médian élevé (tiers supérieur de la ville) : Je travaille à temps plein, je n'ai pas suivi les ateliers de quartier et je ne connais pas les projets proposés pour San Donato, donc je ne voterais que si le lien tombait sous mes yeux; j'en parlerais peut-être si l'occasion se présentait."
+    ]
+  },
+  {
+    "id": "bo-santostefano",
+    "nom": "Santo Stefano",
+    "run": "q-bo-santostefano",
+    "population_eligible": 57698,
+    "taux_panel": 0.0598,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.1297,
+    "raisons_echantillon": [
+      "78 ans, retraité·e, zone au revenu médian élevé (tiers supérieur de la ville) : À 78 ans et seule, le vote en ligne avec SPID ou la carte d'identité électronique me paraît compliqué, et ce budget participatif ne m'a jamais vraiment concernée : je n'y ai sans doute pas voté et j'en parle peu autour de moi.",
+      "61 ans, étudiant·e, zone au revenu médian intermédiaire : Je suis rarement au courant de ce type de consultation et le vote passe par l'application avec SPID ou la carte d'identité électronique, ce qui me décourage, je ne voterais probablement pas; en revanche j'en parlerais peut-être à mes enfants ou à une voisine si le sujet vient dans la conversation.",
+      "68 ans, retraité·e, zone au revenu médian intermédiaire : Je n'ai pas suivi la campagne, les petits projets de parcs et de mobilité douce ne me touchent guère et je n'ai pas le réflexe de voter pour une municipalité dont je ne partage pas les priorités, donc je n'en parle presque jamais, sauf si quelqu'un de mon entourage m'interroge directement.",
+      "25 ans, technicien·ne ou employé·e de bureau, logement social (alloggi pubblici ACER) : Éligible (vivre à Bologne suffit, nationalité sans importance), mais entre le travail et les enfants, sans lien particulier avec ces projets, elle ne votera probablement pas et n'en parlerait guère que si un proche s'y intéressait.",
+      "30 ans, au foyer ou autre inactif·ve, zone au revenu médian élevé (tiers supérieur de la ville) : Je suis parent au foyer, sensible aux parcs et aires de jeux du quartier, et je vote parfois pour les consultations de la ville, mais le vote en ligne demande du temps et je le repousse souvent, alors qu'on en parle plus facilement avec les autres parents rencontrés à l'aire de jeux.",
+      "58 ans, cadre, profession intellectuelle ou dirigeant·e salarié·e, zone au revenu médian élevé (tiers supérieur de la ville) : Le vote en ligne ne me prendrait pas longtemps, mais je ne participe pas d'habitude à ces consultations et les projets d'espaces publics ne me mobilisent pas assez pour que j'y pense au moment de voter, et j'en parlerais peut-être avec mon conjoint ou une amie si le sujet venait dans la conversation."
+    ]
+  },
+  {
+    "id": "bo-savena",
+    "nom": "Savena",
+    "run": "q-bo-savena",
+    "population_eligible": 52593,
+    "taux_panel": 0.0504,
+    "part_habitants_probabilite_10_pct_ou_plus": 0.0984,
+    "raisons_echantillon": [
+      "92 ans, retraité·e, zone au revenu médian élevé (tiers supérieur de la ville) : Je suis la politique de la ville et je suis proche du Movimento 5 Stelle, mais à 92 ans le vote en ligne avec SPID ou la carte d'identité électronique me paraît trop compliqué sans aide, et les budgets de quartier ne sont pas un sujet dont on parle beaucoup à la maison ou entre voisins.",
+      "45 ans, au foyer ou autre inactif·ve, zone au revenu médian intermédiaire : Proche du PD et installée à Savena depuis 2020, mais je ne suis pas engagée dans les démarches de la ville et le vote en ligne avec SPID ou compte Rete Civica me décourage, donc je ne voterais probablement pas, et j'en parlerais rarement, seulement si une voisine le mentionne.",
+      "62 ans, cadre, profession intellectuelle ou dirigeant·e salarié·e, zone au revenu médian intermédiaire : Je vis seul, je ne suis pas porté sur les consultations de la Mairie et un vote en ligne avec SPID ou un compte Rete Civica pour choisir un aménagement de quartier ne me tente pas, même si je suis à l'aise avec l'informatique, et j'en parlerais sans doute seulement si la question venait dans une conversation.",
+      "70 ans, retraité·e, zone au revenu médian intermédiaire : Je suis retraité et je vis tranquille à Savena, ce budget participatif ne m'a jamais attiré : voter en ligne avec SPID ou aller se faire aider dans une maison de quartier pour ça, très peu pour moi, et je ne crois pas beaucoup à ce que la mairie fait de ces projets. Je n'y pense pas vraiment, sauf si quelqu'un autour de moi m'en parle.",
+      "95 ans, retraité·e, zone au revenu médian intermédiaire : Vivant seule à 95 ans, avec un vote uniquement en ligne et une aide seulement sur place, elle a peu de chances de s'y mettre, même si son intérêt pour la politique la rend un peu plus attentive que la moyenne ; elle n'en parlerait qu'à l'occasion, avec une voisine ou une aide à domicile.",
+      "21 ans, ouvrier·ère, artisan·e salarié·e ou emploi non qualifié, zone au revenu médian modeste (tiers inférieur de la ville) : Ouvrier de 21 ans, proche d'AVS mais peu concerné par les parcs et aires sportives de Savena, il ne ferait probablement pas la démarche d'identification en ligne (SPID ou CIE) et n'en parlerait qu'à quelques proches si le sujet venait sur la table."
+    ]
+  }
+]

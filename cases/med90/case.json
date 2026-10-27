@@ -1,0 +1,26 @@
+{
+  "id": "med90",
+  "cible": {
+    "type": "corregimiento",
+    "nom": "Santa Elena",
+    "canton": "",
+    "pays": "CO",
+    "description": "Corregimiento rural de montagne à l'est de Medellín, tourné vers le parc Arví, la floriculture et le tourisme de nature. Habitat contrasté, avec une majorité de strates 1 et 2 et une minorité de strate 6.",
+    "ville": "Medellín",
+    "ville_id": "medellin",
+    "nationalites": {
+      "nationale": "colombienne",
+      "etrangere": "étrangère (résident·e en Colombie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de Santa Elena à Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 20,
+    "seed": 20261046
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

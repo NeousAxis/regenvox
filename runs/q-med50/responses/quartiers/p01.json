@@ -1,0 +1,11 @@
+{
+  "id": "p01",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.05,
+      "partage_proba": 0.1,
+      "raison": "Éligible, mais je n'ai pas suivi ce vote : entre mes études, mon couple et une démarche en ligne avec validation biométrique et code PIN que j'ai trouvée lourde, je n'ai pas pensé à y participer."
+    }
+  ]
+}

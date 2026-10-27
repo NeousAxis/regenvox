@@ -1,0 +1,26 @@
+{
+  "id": "med02",
+  "cible": {
+    "type": "comuna",
+    "nom": "Santa Cruz",
+    "canton": "",
+    "pays": "CO",
+    "description": "Comuna du nord-est de Medellín, sur le versant qui domine la vallée, entre Popular et Aranjuez. Urbaine, à dominante de logements de strate 2 (classe populaire).",
+    "ville": "Medellín",
+    "ville_id": "medellin",
+    "nationalites": {
+      "nationale": "colombienne",
+      "etrangere": "étrangère (résident·e en Colombie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de Santa Cruz à Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 20,
+    "seed": 20261027
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

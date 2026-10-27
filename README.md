@@ -118,6 +118,20 @@ Aperçu local des pages : configuration « resonance-pages » dans .claude/launc
 - Test à l'aveugle (25.10.2026, résultats inconnus du modèle et de nous, prévisions commitées avant la comparaison) sur les 5 votations cantonales vaudoises et genevoises du 27.09.2026, 7 communes, 19 prévisions : bon camp 14 fois sur 19 (suivre la recommandation des autorités : 5 sur 19), corrélation de 0,84 entre écarts prévus et réels d'une commune à l'autre, écart moyen 7,4 points (résultat cantonal : 5,4). Détail : `tests_aveugles/2026-09-27_cantonales_bilan.md`.
 - Méthode v2 (contexte de campagne, familles d'analogues, participation par quantiles), six communes romandes, 244 électeurs simulés : prévision des 24 objets du 29.11.2026 dans `predictions/2026-11-29_votations-federales_romandie.json`. Contrôle sur le 27.09 : le contexte de campagne réduit nettement l'erreur du panel, la correction apporte peu, la participation reste hors de portée du panel. Détail : `predictions/RESULTAT_v2_controle_2026-09-27.md`.
 
+## Test à l'aveugle par quartier (Medellín, Bologne)
+
+Question posée : dans quels quartiers d'une ville une démarche participative prendra, et dans lesquels elle ne prendra pas. Un panel de 20 ou 30 habitants simulés par quartier (étape `quartiers`, `src/quartiers.ts`), comparé au modèle seul, à un hybride, à « rang du panel, niveau du modèle » (le total du modèle seul réparti comme le panel répartit les quartiers) et à deux références naïves. Protocole fixé et commité avant toute donnée : `tests_aveugles/PROTOCOLE_quartiers_medellin_bologne.md` ; incidents : `tests_aveugles/quartiers_journal.md`.
+
+- Medellín, budget participatif 2026 (21 territoires, vote de septembre 2026, postérieur aux connaissances des modèles) : les 3 critères fixés d'avance sont atteints. Le panel classe les taux de participation à 0,55 (p 0,006), le modèle seul à 0,31 ; « rang du panel, niveau du modèle » a l'écart le plus faible sur le nombre de votants (facteur 1,14). Limite : reconduire l'édition 2025 classe mieux (0,88), le panel sert donc surtout là où une démarche n'a pas d'historique. Plus gros écarts : El Poblado (surestimé) et Palmitas (sous-estimé). Détail : `tests_aveugles/medellin_bilan.md`.
+- Bologne, budget participatif 2026 (6 quartiers) : prévision commitée avant la clôture du vote le 9 novembre 2026 à 12 h (`tests_aveugles/bologne_previsions.json`), comparaison après la publication des résultats. Le chiffre publié compte les votes reçus par chaque quartier, pas la participation de ses habitants.
+
+```bash
+npx tsx src/quartiers.ts cases medellin 20
+npx tsx src/quartiers.ts fuite medellin
+npx tsx src/quartiers.ts prevision medellin
+npx tsx src/quartiers.ts comparer medellin
+```
+
 ## Limites connues
 
 Personas synthétiques, 8 agriculteurs seulement par panel, paramètres de propagation non étalonnés sur le terrain, aucun opposant initial sur les angles ouverts, participation déclarée et non observée : le panel surestime le niveau de participation (facteur 2,4 à 8 selon les tests), un modèle seul l'estime mieux, tandis que le panel distingue mieux les communes entre elles.

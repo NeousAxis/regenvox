@@ -1,0 +1,3430 @@
+{
+ "ville": "Medellín",
+ "pays": "CO",
+ "collecte_le": "2026-10-26",
+ "demarche": {
+  "id": "med-pp2026",
+  "nom": "Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "annee": 2026,
+  "porteur": "Alcaldía de Medellín (Distrito Especial de Ciencia, Tecnología e Innovación), Secretaría de Participación Ciudadana avec le Departamento Administrativo de Planeación et les Juntas Administradoras Locales",
+  "appel": "Le 15 septembre 2026, le maire Federico Gutiérrez a invité les habitants à choisir eux mêmes les projets financés par le Presupuesto Participativo, sur la plateforme « Vota PP » (appelée aussi Votapp Medellín) du site medellin.gov.co. Le vote était ouvert 24 heures sur 24 du mercredi 16 au dimanche 20 septembre 2026, entièrement en ligne, avec identification biométrique. Chacune des 16 comunas et des 5 corregimientos dispose de son propre tarjetón, une liste de projets formulés à partir des idées recueillies auprès des habitants au premier semestre 2026 et ordonnés par les Juntas Administradoras Locales. L'habitant coche ses projets préférés jusqu'à un maximum fixé pour son territoire (affiché en haut du tarjetón), puis confirme son vote. Les projets les mieux classés (l'Acuerdo Participativo) sont financés dans l'ordre jusqu'à épuisement du plafond budgétaire (techo presupuestal) de chaque territoire, et seront exécutés en 2027. Le budget participatif représente au moins 5 % du budget d'investissement du Distrito, de l'ordre de 470 000 à 500 000 millions de pesos colombiens par an (la page officielle parle d'environ 500 mil millones de COP) pour l'ensemble des 21 territoires ; les plafonds par territoire, fixés par le Département de la Planification selon la population et la qualité de vie, n'ont pas été trouvés dans les sources publiées avant le vote. Le dimanche 20 septembre, 105 points physiques (écoles, équipements communautaires) offraient information et aide au vote, et c'était le seul jour de vote ouvert aux étrangers.",
+  "format": "Vote 100 % virtuel (plateforme Vota PP : inscription avec données personnelles, validation d'identité biométrique, PIN envoyé par SMS et courriel), accessible de tout appareil connecté, avec en appui des points physiques de vote assisté (105 le dimanche 20 septembre) où l'on vote sur un tarjetón virtuel après vérification de la pièce d'identité. Un tarjetón distinct par comuna ou corregimiento. Comité de garanties chargé de la transparence.",
+  "qui_peut_participer": {
+   "age": "14 ans et plus (« mayor de 14 años » dans le texte officiel ; lecture retenue : 14 ans révolus)",
+   "residence": "Vivre à Medellín (Distrito de Medellín), zone urbaine ou rurale",
+   "nationalite": "Colombiens, et étrangers résidents titulaires d'une cédula de extranjería valide, ces derniers ne pouvant voter que le dimanche 20 septembre 2026, en présentiel, dans l'un des points de vote habilités",
+   "autres_conditions": "Tarjeta de identidad (mineurs), cédula de ciudadanía ou cédula de extranjería valides : les contraseñas (récépissés) et les déclarations de perte ne sont pas acceptées. Inscription sur la plateforme avec validation d'identité. Un seul vote par personne : en présentiel on vérifie que la personne n'a pas déjà voté en ligne les jours précédents, et celui qui a voté en ligne ne peut plus voter en présentiel."
+  },
+  "ou_voter": "Chaque personne vote sur le tarjetón de sa propre comuna ou de son propre corregimiento (« votar por el Presupuesto Participativo de tu comuna ») : elle ne choisit pas le territoire. Le mode de rattachement au territoire (adresse d'inscription ou déclaration) n'est pas précisé dans les textes consultés. Un seul vote (un tarjetón) par personne, sur lequel elle sélectionne plusieurs projets, jusqu'à un maximum propre à chaque territoire (valeur non trouvée pour 2026).",
+  "duree_phase_participation": "Du mercredi 16 au dimanche 20 septembre 2026 selon les communications officielles de la Mairie (vote virtuel 24 h sur 24 ; points physiques le 20 septembre). Un média économique (ABC Economía) mentionne une plateforme ouverte jusqu'au lundi 21 septembre, ce que la source officielle consultée ne confirme pas.",
+  "grandeur_a_prevoir": "Nombre de personnes ayant confirmé un vote (tarjetón validé) dans la comuna ou le corregimiento, à rapprocher de la population de 14 ans et plus. Règle de comptage d'après l'ABC officiel et la méthode : un seul tarjetón par personne, vérifié contre un registre des votants, sans distinction entre vote en ligne et vote en point physique, les étrangers titulaires d'une cédula de extranjería comptant seulement s'ils ont voté en présentiel le 20 septembre. Le règlement (décret 2061 de 2026) ne définit pas explicitement le chiffre de participation publié par territoire : sa définition exacte n'a pas pu être vérifiée sans ouvrir les résultats.",
+  "nature_du_chiffre_publie": "votants",
+  "sources": [
+   "https://www.medellin.gov.co/es/wp-content/uploads/2026/09/ABC_PP.pdf",
+   "https://www.medellin.gov.co/es/wp-content/uploads/2025/05/ABC-PP.pdf",
+   "https://www.medellin.gov.co/es/wp-content/uploads/2026/08/Nuevo-Decreto-PP.pdf (Decreto 2061 de 2026, Gaceta Oficial 5912 du 27 août 2026)",
+   "https://www.medellin.gov.co/es/sala-de-prensa/noticias/el-alcalde-de-medellin-federico-gutierrez-invito-a-los-ciudadanos-a-elegir-sus-proyectos-en-las-votaciones-de-presupuesto-participativo/",
+   "https://www.medellin.gov.co/es/secretaria-participacion-ciudadana/planeacion-local-y-presupuesto-participativo/prioriza/",
+   "https://www.minuto30.com/amp/presupuesto-participativo-medellin/1719216/",
+   "https://www.medellin.gov.co/es/centro-documental/proyecciones-poblacion-viviendas-y-hogares/",
+   "https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx",
+   "https://www.infobae.com/colombia/2026/06/19/la-ventaja-de-de-la-espriella-y-la-base-de-cepeda-asi-quedo-el-mapa-electoral-en-medellin-en-la-primera-vuelta-del-31-de-mayo/",
+   "https://www.elcolombiano.com/medellin/resultados-medellin-primera-vuelta-elecciones-presidenciales-2026-DN37188975",
+   "https://cambiocolombia.com/poder/articulo/2026/6/medellin-barrio-por-barrio-de-la-espriella-gano-con-contundencia-pero-cepeda-fue-quien-mas-crecio-entre-la-primera-y-la-segunda-vuelta"
+  ]
+ },
+ "territoires": [
+  {
+   "id": "med01",
+   "nom": "Popular",
+   "type": "comuna",
+   "description": "Comuna du nord-est de Medellín, étagée sur les versants de la vallée d'Aburrá (Santo Domingo Savio, Carpinelo, Granizal). Entièrement urbaine, elle est composée de quartiers populaires d'autoconstruction, avec des logements classés en strates 1 et 2.",
+   "population_eligible": {
+    "valeur": 117633,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.118
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.112
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.232
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.185
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.127
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.115
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.073
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.038
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.523,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0399,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.421
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.579
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.061
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.088
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.084
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.029
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.217
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.111
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.177
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.154
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.079
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.441
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.33
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.096
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.093
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.04
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 35 cas observés sur 975 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 975 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 975). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med02",
+   "nom": "Santa Cruz",
+   "type": "comuna",
+   "description": "Comuna du nord-est de Medellín, sur le versant qui domine la vallée, entre Popular et Aranjuez. Urbaine, à dominante de logements de strate 2 (classe populaire).",
+   "population_eligible": {
+    "valeur": 98893,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.11
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.107
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.226
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.187
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.132
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.12
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.077
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.041
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.528,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0443,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.157
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.843
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.074
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.08
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.094
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.053
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.169
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.111
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.171
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.159
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.089
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.461
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.312
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.096
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.092
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 25 cas observés sur 783 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 783 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 783). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med03",
+   "nom": "Manrique",
+   "type": "comuna",
+   "description": "Comuna du nord-est de Medellín, bâtie sur les pentes de la vallée (Versalles, La Salle, Oriente). Urbaine, avec une majorité de logements de strate 2 et une part de strates 1 et 3.",
+   "population_eligible": {
+    "valeur": 147011,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.103
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.101
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.218
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.179
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.137
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.129
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.087
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.046
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.529,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0556,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.267
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.591
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.142
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.098
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.055
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.071
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.034
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.202
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.098
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.205
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.146
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.091
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.463
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.31
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.096
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.092
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 58 cas observés sur 1185 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1185 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1185). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med04",
+   "nom": "Aranjuez",
+   "type": "comuna",
+   "description": "Comuna du nord-est de Medellín, en bas de versant, qui englobe notamment le quartier de Moravia. Urbaine, avec des logements répartis entre les strates 2 et 3, la strate 3 étant la plus fréquente.",
+   "population_eligible": {
+    "valeur": 130765,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.093
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.093
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.212
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.179
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.141
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.134
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.094
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.054
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.534,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.045,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.096
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.366
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.533
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.005
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.092
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.041
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.141
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.036
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.189
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.116
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.173
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.125
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.087
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.505
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.27
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.095
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.091
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 40 cas observés sur 1007 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1007 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1007). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med05",
+   "nom": "Castilla",
+   "type": "comuna",
+   "description": "Comuna du nord-ouest de Medellín, en grande partie plane, avec des quartiers résidentiels anciens (Castilla, Tricentenario, Pedregal). Urbaine, avec une très forte majorité de logements de strate 3 (classe moyenne basse).",
+   "population_eligible": {
+    "valeur": 117367,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.086
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.089
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.201
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.177
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.15
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.146
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.097
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.054
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.538,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0453,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.024
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.147
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.805
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.024
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.07
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.08
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.115
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.039
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.179
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.114
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.147
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.139
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.117
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.532
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.244
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.094
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.091
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 35 cas observés sur 845 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 845 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 845). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med06",
+   "nom": "Doce de Octubre",
+   "type": "comuna",
+   "description": "Comuna du nord-ouest de Medellín, sur le versant occidental de la vallée (Doce de Octubre, Santander, Picacho). Urbaine, avec des logements de strates 2 et 3 surtout, et une part de strate 1.",
+   "population_eligible": {
+    "valeur": 161803,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.098
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.096
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.212
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.181
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.14
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.134
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.089
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.05
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.534,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0219,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.175
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.561
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.264
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.076
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.069
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.117
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.037
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.161
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.092
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.188
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.149
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.111
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.479
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.295
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.095
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.092
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 22 cas observés sur 1178 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1178 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1178). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med07",
+   "nom": "Robledo",
+   "type": "comuna",
+   "description": "Comuna du nord-ouest de Medellín, étendue et contrastée (secteur de l'Université Nationale, Pajarito, Aures). Urbaine, avec des logements répartis entre les strates 1 à 3 et une minorité de strates 4 et 5.",
+   "population_eligible": {
+    "valeur": 171163,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.101
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.097
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.231
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.19
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.139
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.122
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.079
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.041
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.533,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0375,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.162
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.432
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.307
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.075
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.024
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.083
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.063
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.129
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.045
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.206
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.133
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.129
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.122
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.09
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.499
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.276
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.095
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.091
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 46 cas observés sur 1401 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1401 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1401). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med08",
+   "nom": "Villa Hermosa",
+   "type": "comuna",
+   "description": "Comuna du centre-est de Medellín, sur les versants qui dominent le centre (Enciso, Las Estancias, Trece de Noviembre). Urbaine, avec des logements de strates 1 à 3 et un peu de strate 4.",
+   "population_eligible": {
+    "valeur": 135398,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.106
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.101
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.228
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.184
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.132
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.12
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.083
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.046
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.527,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0551,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.334
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.391
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.243
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.032
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.071
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.071
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.132
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.022
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.19
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.118
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.129
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.166
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.101
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.47
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.303
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.096
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.092
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 62 cas observés sur 1236 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1236 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1236). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med09",
+   "nom": "Buenos Aires",
+   "type": "comuna",
+   "description": "Comuna du centre-est de Medellín, au pied des versants (Miraflores, Loreto, Caicedo). Urbaine, à dominante de logements de strate 3, avec des strates 2 et 4 en proportion notable.",
+   "population_eligible": {
+    "valeur": 144490,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.091
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.09
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.214
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.182
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.146
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.134
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.093
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.05
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.535,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0362,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.028
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.288
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.585
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.086
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.009
+    },
+    {
+     "lieu": "logement en estrato 6 (alto)",
+     "part": 0.004
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.084
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.046
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.136
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.032
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.196
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.134
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.117
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.128
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.127
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.528
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.248
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.094
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.091
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 38 cas observés sur 1157 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1157 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1157). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med10",
+   "nom": "La Candelaria",
+   "type": "comuna",
+   "description": "Comuna du centre historique de Medellín, siège de nombreux commerces, administrations et services. Urbaine, avec un habitat mixte de strates 3 et 4 et une population plus âgée que la moyenne de la ville.",
+   "population_eligible": {
+    "valeur": 75161,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.082
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.078
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.201
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.17
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.138
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.142
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.113
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.076
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.519,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0448,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.013
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.073
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.371
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.498
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.04
+    },
+    {
+     "lieu": "logement en estrato 6 (alto)",
+     "part": 0.005
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.046
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.032
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.143
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.03
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.25
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.12
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.103
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.13
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.146
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.583
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.198
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.092
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.089
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.038
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 26 cas observés sur 635 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 635 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 635). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med11",
+   "nom": "Laureles-Estadio",
+   "type": "comuna",
+   "description": "Comuna du centre-ouest de Medellín, résidentielle et plane, autour de l'Unité sportive Atanasio Girardot. Urbaine, avec des logements de strates 4 et 5 (classe moyenne aisée).",
+   "population_eligible": {
+    "valeur": 104805,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.057
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.057
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.157
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.148
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.146
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.167
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.153
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.115
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.566,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0335,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.005
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.011
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.388
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.596
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.05
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.04
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.142
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.032
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.241
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.087
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.063
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.098
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.247
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.662
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.124
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.09
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.087
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.037
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 24 cas observés sur 732 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 732 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 732). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med12",
+   "nom": "La América",
+   "type": "comuna",
+   "description": "Comuna de l'ouest de Medellín, résidentielle et en grande partie plane, à l'ouest de Laureles-Estadio. Urbaine, avec un habitat réparti entre les strates 3, 4 et 5.",
+   "population_eligible": {
+    "valeur": 86691,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.064
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.067
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.177
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.159
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.153
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.162
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.132
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.086
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.559,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0297,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.025
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.269
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.466
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.24
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.059
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.056
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.153
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.023
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.199
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.093
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.137
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.109
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.171
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.613
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.169
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.092
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.088
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.038
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 16 cas observés sur 654 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 654 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 654). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med13",
+   "nom": "San Javier",
+   "type": "comuna",
+   "description": "Comuna du centre-ouest de Medellín, sur les versants du massif occidental (secteur connu sous le nom de Comuna 13). Urbaine, avec des logements de strates 1 à 3 et une minorité de strate 4.",
+   "population_eligible": {
+    "valeur": 141279,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.1
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.099
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.22
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.183
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.138
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.127
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.086
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.047
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.538,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0592,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.367
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.35
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.23
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.053
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.087
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.079
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.116
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.039
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.178
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.114
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.129
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.158
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.1
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.47
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.303
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.096
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.092
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 68 cas observés sur 1194 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1194 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1194). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med14",
+   "nom": "El Poblado",
+   "type": "comuna",
+   "description": "Comuna du sud-est de Medellín, sur les collines du sud de la vallée, quartier d'affaires, de commerces et résidentiel de haut niveau. Urbaine, avec une très large majorité de logements de strate 6 et le reste surtout en strate 5.",
+   "population_eligible": {
+    "valeur": 108324,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.059
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.058
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.168
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.171
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.161
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.166
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.133
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.084
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.565,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.022,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.041
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.024
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.03
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.196
+    },
+    {
+     "lieu": "logement en estrato 6 (alto)",
+     "part": 0.709
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.064
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.052
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.213
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.023
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.216
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.105
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.032
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.103
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.192
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.731
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.06
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.088
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.085
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.036
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 15 cas observés sur 732 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 732 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 732). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med15",
+   "nom": "Guayabal",
+   "type": "comuna",
+   "description": "Comuna du sud de Medellín, mêlant zones industrielles, quartiers résidentiels et l'aéroport Olaya Herrera. Urbaine, avec des logements surtout de strates 3 et 4 et une part de strate 2.",
+   "population_eligible": {
+    "valeur": 63674,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.079
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.077
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.189
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.171
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.148
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.153
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.114
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.069
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.54,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0451,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.006
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.274
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.47
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.25
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.118
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.072
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.128
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.029
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.222
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.09
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.097
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.125
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.119
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.543
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.235
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.094
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.09
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.038
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 23 cas observés sur 472 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 472 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 472). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med16",
+   "nom": "Belén",
+   "type": "comuna",
+   "description": "Comuna du sud-ouest de Medellín, très étendue, avec des quartiers résidentiels plats et des secteurs de pente. Urbaine, avec une mixité de strates 3, 4 et 5 et une présence de strate 2.",
+   "population_eligible": {
+    "valeur": 197064,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.075
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.076
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.192
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.173
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.153
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.149
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.114
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.068
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.549,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0259,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.02
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.196
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.378
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.238
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.168
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.075
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.07
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.156
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.026
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.181
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.108
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.102
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.13
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.152
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.57
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.209
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.093
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.09
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.038
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 35 cas observés sur 1418 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1418 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1418). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med50",
+   "nom": "San Sebastián de Palmitas",
+   "type": "corregimiento",
+   "description": "Corregimiento rural à l'extrême nord-ouest de Medellín, de montagne, à très faible population, organisé autour d'un petit centre poblado et de veredas dispersées. Habitat de strates 1 et 2.",
+   "population_eligible": {
+    "valeur": 4956,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.091
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.087
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.2
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.18
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.138
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.138
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.105
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.061
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.48,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.005,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.464
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.536
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.032
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.107
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.077
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.028
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.363
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.225
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.014
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.106
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.048
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.438
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.333
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.096
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.093
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.04
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 0 cas observés sur 90 personnes de 14 ans et plus. Aucun cas observé dans l'échantillon ECV de 90 personnes de 14 ans et plus : la valeur 0,005 est une estimation prudente (moins de 1 %), non mesurée.",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 90 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Le fichier ECV classe tous les enquêtés de ce corregimiento en « centro poblado, rural » sans distinguer le centre poblado des veredas dispersées : aucune répartition centre poblado / vereda n'est donc fournie.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 90). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med60",
+   "nom": "San Cristóbal",
+   "type": "corregimiento",
+   "description": "Corregimiento de l'ouest de Medellín, très peuplé, mêlant un centre poblado en forte urbanisation et des veredas rurales. Habitat surtout de strates 1 à 3.",
+   "population_eligible": {
+    "valeur": 101518,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.109
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.105
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.241
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.199
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.136
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.111
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.067
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.032
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.519,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0351,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.257
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.457
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.243
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.043
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.08
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.068
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.166
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.04
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.172
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.103
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.136
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.158
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.077
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.4
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.38
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.093
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.089
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.038
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 37 cas observés sur 1031 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 1031 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Le fichier ECV classe tous les enquêtés de ce corregimiento en « centro poblado, rural » sans distinguer le centre poblado des veredas dispersées : aucune répartition centre poblado / vereda n'est donc fournie.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 1031). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Pour San Cristóbal, la régression a été remplacée par un ajustement manuel (De la Espriella 0,40, Cepeda 0,38) car la presse (Cambio, juin 2026) indique que Cepeda a gagné ce corregimiento au second tour et dans la plupart de ses veredas, ce que la régression ne reproduit pas. Chiffres du premier tour non publiés.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med70",
+   "nom": "Altavista",
+   "type": "corregimiento",
+   "description": "Corregimiento du sud-ouest de Medellín, de piémont, entre noyaux bâtis et veredas rurales. Habitat dominé par la strate 2, avec une part notable de strate 5 et une minorité de strate 1.",
+   "population_eligible": {
+    "valeur": 33937,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.1
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.099
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.241
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.201
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.141
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.114
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.071
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.033
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.519,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0604,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.117
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.556
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.083
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.06
+    },
+    {
+     "lieu": "logement en estrato 5 (medio-alto)",
+     "part": 0.184
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.045
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.091
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.146
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.049
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.207
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.114
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.096
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.149
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.103
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.519
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.257
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.094
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.091
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 15 cas observés sur 287 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 287 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Le fichier ECV classe tous les enquêtés de ce corregimiento en « centro poblado, rural » sans distinguer le centre poblado des veredas dispersées : aucune répartition centre poblado / vereda n'est donc fournie.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 287). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med80",
+   "nom": "San Antonio de Prado",
+   "type": "corregimiento",
+   "description": "Corregimiento du sud-ouest de Medellín, éloigné du centre, avec un centre poblado dense, de grands ensembles de logements et des veredas rurales. Habitat de strates 2 et 3 surtout.",
+   "population_eligible": {
+    "valeur": 84827,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.099
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.098
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.225
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.2
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.146
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.124
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.074
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.034
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.524,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0372,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.045
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.537
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.407
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.011
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.086
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.075
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.15
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.049
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.164
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.115
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.119
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.153
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.089
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.501
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.274
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.095
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.091
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 25 cas observés sur 750 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 750 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Le fichier ECV classe tous les enquêtés de ce corregimiento en « centro poblado, rural » sans distinguer le centre poblado des veredas dispersées : aucune répartition centre poblado / vereda n'est donc fournie.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 750). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  },
+  {
+   "id": "med90",
+   "nom": "Santa Elena",
+   "type": "corregimiento",
+   "description": "Corregimiento rural de montagne à l'est de Medellín, tourné vers le parc Arví, la floriculture et le tourisme de nature. Habitat contrasté, avec une majorité de strates 1 et 2 et une minorité de strate 6.",
+   "population_eligible": {
+    "valeur": 20077,
+    "annee": 2026,
+    "definition": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+    "source": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx"
+   },
+   "tranches_age": [
+    {
+     "tranche": "14-19",
+     "min": 14,
+     "max": 19,
+     "part": 0.108
+    },
+    {
+     "tranche": "20-24",
+     "min": 20,
+     "max": 24,
+     "part": 0.101
+    },
+    {
+     "tranche": "25-34",
+     "min": 25,
+     "max": 34,
+     "part": 0.232
+    },
+    {
+     "tranche": "35-44",
+     "min": 35,
+     "max": 44,
+     "part": 0.191
+    },
+    {
+     "tranche": "45-54",
+     "min": 45,
+     "max": 54,
+     "part": 0.142
+    },
+    {
+     "tranche": "55-64",
+     "min": 55,
+     "max": 64,
+     "part": 0.12
+    },
+    {
+     "tranche": "65-74",
+     "min": 65,
+     "max": 74,
+     "part": 0.073
+    },
+    {
+     "tranche": "75+",
+     "min": 75,
+     "max": 95,
+     "part": 0.033
+    }
+   ],
+   "source_age": "DANE, projections de population post-Covid-19 de Medellín par comuna et corregimiento, sexe et âge simple 2018-2030, projection au 30 juin 2026 (contrat interadministratif 4600101134 de 2024 DANE et Distrito de Medellín, diffusé par le Departamento Administrativo de Planeación): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+   "part_femmes": {
+    "valeur": 0.502,
+    "source": "Même source DANE 2026 : part des femmes parmi les personnes de 14 ans et plus du territoire."
+   },
+   "part_etrangers": {
+    "valeur": 0.0634,
+    "source": "Proxy tiré de l'ECV 2025 (résidence précédente à l'étranger, personnes de 14 ans et plus), spécifique au territoire, voir hypothèses. Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx"
+   },
+   "lieux_de_vie": [
+    {
+     "lieu": "logement en estrato 1 (bajo-bajo)",
+     "part": 0.531
+    },
+    {
+     "lieu": "logement en estrato 2 (bajo)",
+     "part": 0.239
+    },
+    {
+     "lieu": "logement en estrato 3 (medio-bajo)",
+     "part": 0.127
+    },
+    {
+     "lieu": "logement en estrato 4 (medio)",
+     "part": 0.017
+    },
+    {
+     "lieu": "logement en estrato 6 (alto)",
+     "part": 0.086
+    }
+   ],
+   "source_lieux_de_vie": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (strate du logement, variable A.10).",
+   "activites_actifs": [
+    {
+     "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+     "part": 0.073
+    },
+    {
+     "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+     "part": 0.06
+    },
+    {
+     "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+     "part": 0.099
+    },
+    {
+     "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+     "part": 0.009
+    },
+    {
+     "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+     "part": 0.274
+    },
+    {
+     "activite": "étudiant·e",
+     "part": 0.097
+    },
+    {
+     "activite": "sans emploi",
+     "part": 0.159
+    },
+    {
+     "activite": "au foyer (travail domestique et soins non rémunérés)",
+     "part": 0.143
+    },
+    {
+     "activite": "retraité·e ou en incapacité de travailler",
+     "part": 0.086
+    }
+   ],
+   "source_activites": "Alcaldía de Medellín, Departamento Administrativo de Planeación, Encuesta de Calidad de Vida 2025, microdonnées (20 408 personnes, pondérées par le facteur d'expansion personnes FEP): https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx (situation d'activité H.31 et secteur H.32).",
+   "partis": [
+    {
+     "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+     "part": 0.47
+    },
+    {
+     "parti": "Pacto Histórico (Iván Cepeda)",
+     "part": 0.303
+    },
+    {
+     "parti": "Sergio Fajardo (centre)",
+     "part": 0.096
+    },
+    {
+     "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+     "part": 0.092
+    },
+    {
+     "parti": "autres candidats et vote blanc",
+     "part": 0.039
+    }
+   ],
+   "source_partis": "Présidentielle 2026, premier tour du 31 mai 2026 (candidats comme « partis »). Totaux de Medellín : bulletin 21 de la Registraduría repris par El Colombiano. Répartition par territoire : estimation modélisée (voir hypothèses), car les résultats par comuna ne sont pas disponibles en tableau dans les sources consultées. Ancrages : Infobae, 19 juin 2026.",
+   "hypotheses": [
+    "Âge minimum de vote lu comme 14 ans révolus : le texte officiel dit « mayor de 14 años », ce qui pourrait aussi se lire 15 ans et plus. La population éligible compte donc toutes les personnes de 14 ans et plus (étrangers titulaires d'une cédula de extranjería inclus, bien qu'ils ne pouvaient voter que le 20 septembre en présentiel). Elle ne retire pas les personnes sans document d'identité valide.",
+    "Parts d'étrangers : l'enquête ECV 2025 ne pose pas la nationalité. La valeur est la part des personnes de 14 ans et plus dont la résidence précédente était à l'étranger (surtout au Venezuela), ce qui peut inclure des Colombiens revenus de l'étranger et exclure des étrangers nés ou installés ailleurs en Colombie avant d'arriver à Medellín. Échantillon : 12 cas observés sur 257 personnes de 14 ans et plus. ",
+    "Lieux de vie : répartition des personnes de 14 ans et plus selon la strate du logement (ECV 2025, 257 enquêtés dans ce territoire, pondérés), pas de recensement exhaustif. Les strates représentées par moins de 0,3 % de la population ont été omises, puis les parts renormalisées.",
+    "Le fichier ECV classe tous les enquêtés de ce corregimiento en « centro poblado, rural » sans distinguer le centre poblado des veredas dispersées : aucune répartition centre poblado / vereda n'est donc fournie.",
+    "Activités : situation d'activité actuelle déclarée dans l'ECV 2025 (variables H.31 et H.32, secteur d'activité de l'employeur pour les salariés), parmi les personnes de 14 ans et plus (échantillon 257). Les enquêtés de 14 ans, pour qui la question est sans objet, sont comptés comme étudiants. Les « sans emploi » correspondent à la modalité « desempleado » de l'enquête. Les réponses « ne sait pas » ou « ne répond pas » sont exclues puis les parts renormalisées.",
+    "Âge et sexe : projection DANE 2026 (donnée sourcée par territoire). La part de femmes est calculée parmi les personnes de 14 ans et plus.",
+    "Partis : aucune source consultée ne publie les résultats de la présidentielle 2026 par comuna sous forme de tableau complet (accès direct à la Registraduría impossible depuis les outils utilisés). Les parts ci-dessus sont une ESTIMATION et non une donnée publiée : régression linéaire sur la strate moyenne du territoire (calculée avec l'ECV 2025), calibrée sur deux ancrages publiés pour le premier tour du 31 mai 2026 (Popular : De la Espriella 44,1 % et Cepeda au dessus de 30 % ; El Poblado : De la Espriella au dessus de 70 % et Cepeda autour de 6 %, d'après Infobae) et sur les totaux de la ville (bulletin 21 de la Registraduría). Le reste des voix est réparti entre Fajardo, Valencia et les autres dans les proportions de la ville entière. Les affiliations partisanes des candidats n'ont pas été revérifiées une à une.",
+    "Les données ECV datent de 2025 (enquête lancée par la Mairie en août 2025) alors que les projections de population sont au 30 juin 2026."
+   ]
+  }
+ ]
+}

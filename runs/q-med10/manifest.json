@@ -1,0 +1,29 @@
+{
+  "runId": "q-med10",
+  "caseId": "med10",
+  "seed": 20261035,
+  "createdAt": "2026-10-26T20:03:16.735Z",
+  "attempts": {
+    "quartiers/p01": 1,
+    "quartiers/p02": 1,
+    "quartiers/p03": 1,
+    "quartiers/p04": 1,
+    "quartiers/p05": 1,
+    "quartiers/p06": 1,
+    "quartiers/p07": 1,
+    "quartiers/p08": 1,
+    "quartiers/p09": 1,
+    "quartiers/p10": 1,
+    "quartiers/p11": 1,
+    "quartiers/p12": 1,
+    "quartiers/p13": 1,
+    "quartiers/p14": 1,
+    "quartiers/p15": 1,
+    "quartiers/p16": 1,
+    "quartiers/p17": 1,
+    "quartiers/p18": 1,
+    "quartiers/p19": 1,
+    "quartiers/p20": 1
+  },
+  "maxAttempts": 3
+}

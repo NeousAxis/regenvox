@@ -1,0 +1,11 @@
+{
+  "id": "p05",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.1,
+      "partage_proba": 0.15,
+      "raison": "Vendeur informel souvent occupé le dimanche dans le centre, je trouve l'inscription en ligne avec validation biométrique fastidieuse et je suis peu informé de ces démarches, donc je n'y participe probablement pas, et j'en parle rarement autour de moi, sauf si l'on me questionne directement."
+    }
+  ]
+}

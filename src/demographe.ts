@@ -4,6 +4,7 @@ import { makeRng } from "./rng.js";
 import type { PersonaSkeleton } from "./schemas.js";
 
 export interface PanelSpec {
+  pays?: string; // absent = Suisse ; sinon, les hypothèses du rapport ne parlent ni d'agriculteurs ni du Conseil national
   univers: string;
   population_16_plus: { valeur: number; source: string };
   tranches_age: { tranche: string; min: number; max: number; part: number; part_etrangers?: number }[];
@@ -151,7 +152,13 @@ export function generatePanel(spec: PanelSpec, N: number, seed: number) {
   });
   sk.push(...others);
   const shuffled = rng.shuffle(sk).map((s, i) => ({ ...s, id: `p${String(i + 1).padStart(2, "0")}` }));
-  const hypotheses = [
+  const hypotheses = spec.pays && spec.pays !== "CH" ? [
+    `Univers du panel : ${spec.univers}. Population de référence ${spec.population_16_plus.valeur} (${spec.population_16_plus.source}).`,
+    `Sensibilité politique répartie par quotas entre les électeurs (citoyens de 18 ans et plus) selon ${spec.source_partis} : approximation, car ces parts décrivent les votants, pas l'ensemble du corps électoral.`,
+    "Nationalité, sexe et activité répartis par quotas pour respecter les proportions malgré la petite taille du panel.",
+    "Composition des ménages : hypothèse générique, non sourcée.",
+    ...spec.hypotheses,
+  ] : [
     `Univers du panel : ${spec.univers}. Population de référence ${spec.population_16_plus.valeur} (${spec.population_16_plus.source}).`,
     `Agriculteurs suréchantillonnés (${nAgri} personas) puis repondérés à leur part réelle (${(ag.part_16_plus * 100).toFixed(1)} % des 16 ans et plus, ${ag.source}).`,
     `Sensibilité politique répartie par quotas selon les résultats du Conseil national 2023 dans la commune (${spec.source_partis}), appliquée à tous les électeurs non agriculteurs : approximation, car ces parts décrivent les votants, pas l'ensemble du corps électoral. Pour les agriculteurs, sensibilité politique non renseignée, faute de donnée locale : le persona l'infère de son profil.`,

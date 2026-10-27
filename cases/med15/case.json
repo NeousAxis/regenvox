@@ -1,0 +1,26 @@
+{
+  "id": "med15",
+  "cible": {
+    "type": "comuna",
+    "nom": "Guayabal",
+    "canton": "",
+    "pays": "CO",
+    "description": "Comuna du sud de Medellín, mêlant zones industrielles, quartiers résidentiels et l'aéroport Olaya Herrera. Urbaine, avec des logements surtout de strates 3 et 4 et une part de strate 2.",
+    "ville": "Medellín",
+    "ville_id": "medellin",
+    "nationalites": {
+      "nationale": "colombienne",
+      "etrangere": "étrangère (résident·e en Colombie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de Guayabal à Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 20,
+    "seed": 20261040
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

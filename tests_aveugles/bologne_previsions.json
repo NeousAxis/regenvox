@@ -1,0 +1,65 @@
+{
+  "ecrit_le": "2026-10-26T20:20:13.677Z",
+  "previsions": [
+    {
+      "id": "bo-borgo",
+      "nom": "Borgo Panigale-Reno",
+      "population_eligible": 54006,
+      "taux_panel": 0.0496,
+      "participants_panel": 2679,
+      "participants_modele_seul": 1000,
+      "participants_hybride": 760,
+      "participants_rang_panel_niveau_modele": 880
+    },
+    {
+      "id": "bo-navile",
+      "nom": "Navile",
+      "population_eligible": 62075,
+      "taux_panel": 0.0464,
+      "participants_panel": 2880,
+      "participants_modele_seul": 1300,
+      "participants_hybride": 830,
+      "participants_rang_panel_niveau_modele": 946
+    },
+    {
+      "id": "bo-porto",
+      "nom": "Porto-Saragozza",
+      "population_eligible": 62386,
+      "taux_panel": 0.0609,
+      "participants_panel": 3799,
+      "participants_modele_seul": 800,
+      "participants_hybride": 1100,
+      "participants_rang_panel_niveau_modele": 1248
+    },
+    {
+      "id": "bo-sandonato",
+      "nom": "San Donato-San Vitale",
+      "population_eligible": 59963,
+      "taux_panel": 0.052,
+      "participants_panel": 3118,
+      "participants_modele_seul": 1300,
+      "participants_hybride": 890,
+      "participants_rang_panel_niveau_modele": 1024
+    },
+    {
+      "id": "bo-santostefano",
+      "nom": "Santo Stefano",
+      "population_eligible": 57698,
+      "taux_panel": 0.0598,
+      "participants_panel": 3450,
+      "participants_modele_seul": 700,
+      "participants_hybride": 1110,
+      "participants_rang_panel_niveau_modele": 1133
+    },
+    {
+      "id": "bo-savena",
+      "nom": "Savena",
+      "population_eligible": 52593,
+      "taux_panel": 0.0504,
+      "participants_panel": 2651,
+      "participants_modele_seul": 1000,
+      "participants_hybride": 810,
+      "participants_rang_panel_niveau_modele": 870
+    }
+  ]
+}

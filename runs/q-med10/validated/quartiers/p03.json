@@ -1,0 +1,11 @@
+{
+  "id": "p03",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.09,
+      "partage_proba": 0.2,
+      "raison": "Éligible (colombien, plus de 14 ans, habite Medellín), mais le vote est entièrement en ligne avec validation biométrique, sur cinq jours, et n'a aucun lien avec son quotidien de vendeur informel ; son intérêt pour le Pacto Histórico le rend un peu plus susceptible de voter qu'un habitant moyen, et il n'en parlerait que si le sujet venait dans la conversation avec ses parents ou des clients."
+    }
+  ]
+}

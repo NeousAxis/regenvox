@@ -1,0 +1,11 @@
+{
+  "id": "p01",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.08,
+      "partage_proba": 0.2,
+      "raison": "J'ai du temps depuis que je suis sans emploi, mais l'inscription en ligne avec vérification biométrique me décourage et je n'ai pas le réflexe de ces votes, alors que j'en parlerais volontiers avec mes voisines si l'information me parvenait."
+    }
+  ]
+}

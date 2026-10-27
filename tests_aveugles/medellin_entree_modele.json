@@ -1,0 +1,2603 @@
+{
+  "ville": "Medellín",
+  "demarche": {
+    "id": "med-pp2026",
+    "nom": "Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+    "annee": 2026,
+    "porteur": "Alcaldía de Medellín (Distrito Especial de Ciencia, Tecnología e Innovación), Secretaría de Participación Ciudadana avec le Departamento Administrativo de Planeación et les Juntas Administradoras Locales",
+    "appel": "Le 15 septembre 2026, le maire Federico Gutiérrez a invité les habitants à choisir eux mêmes les projets financés par le Presupuesto Participativo, sur la plateforme « Vota PP » (appelée aussi Votapp Medellín) du site medellin.gov.co. Le vote était ouvert 24 heures sur 24 du mercredi 16 au dimanche 20 septembre 2026, entièrement en ligne, avec identification biométrique. Chacune des 16 comunas et des 5 corregimientos dispose de son propre tarjetón, une liste de projets formulés à partir des idées recueillies auprès des habitants au premier semestre 2026 et ordonnés par les Juntas Administradoras Locales. L'habitant coche ses projets préférés jusqu'à un maximum fixé pour son territoire (affiché en haut du tarjetón), puis confirme son vote. Les projets les mieux classés (l'Acuerdo Participativo) sont financés dans l'ordre jusqu'à épuisement du plafond budgétaire (techo presupuestal) de chaque territoire, et seront exécutés en 2027. Le budget participatif représente au moins 5 % du budget d'investissement du Distrito, de l'ordre de 470 000 à 500 000 millions de pesos colombiens par an (la page officielle parle d'environ 500 mil millones de COP) pour l'ensemble des 21 territoires ; les plafonds par territoire, fixés par le Département de la Planification selon la population et la qualité de vie, n'ont pas été trouvés dans les sources publiées avant le vote. Le dimanche 20 septembre, 105 points physiques (écoles, équipements communautaires) offraient information et aide au vote, et c'était le seul jour de vote ouvert aux étrangers.",
+    "format": "Vote 100 % virtuel (plateforme Vota PP : inscription avec données personnelles, validation d'identité biométrique, PIN envoyé par SMS et courriel), accessible de tout appareil connecté, avec en appui des points physiques de vote assisté (105 le dimanche 20 septembre) où l'on vote sur un tarjetón virtuel après vérification de la pièce d'identité. Un tarjetón distinct par comuna ou corregimiento. Comité de garanties chargé de la transparence.",
+    "qui_peut_participer": {
+      "age": "14 ans et plus (« mayor de 14 años » dans le texte officiel ; lecture retenue : 14 ans révolus)",
+      "residence": "Vivre à Medellín (Distrito de Medellín), zone urbaine ou rurale",
+      "nationalite": "Colombiens, et étrangers résidents titulaires d'une cédula de extranjería valide, ces derniers ne pouvant voter que le dimanche 20 septembre 2026, en présentiel, dans l'un des points de vote habilités",
+      "autres_conditions": "Tarjeta de identidad (mineurs), cédula de ciudadanía ou cédula de extranjería valides : les contraseñas (récépissés) et les déclarations de perte ne sont pas acceptées. Inscription sur la plateforme avec validation d'identité. Un seul vote par personne : en présentiel on vérifie que la personne n'a pas déjà voté en ligne les jours précédents, et celui qui a voté en ligne ne peut plus voter en présentiel."
+    },
+    "ou_voter": "Chaque personne vote sur le tarjetón de sa propre comuna ou de son propre corregimiento (« votar por el Presupuesto Participativo de tu comuna ») : elle ne choisit pas le territoire. Le mode de rattachement au territoire (adresse d'inscription ou déclaration) n'est pas précisé dans les textes consultés. Un seul vote (un tarjetón) par personne, sur lequel elle sélectionne plusieurs projets, jusqu'à un maximum propre à chaque territoire (valeur non trouvée pour 2026).",
+    "duree_phase_participation": "Du mercredi 16 au dimanche 20 septembre 2026 selon les communications officielles de la Mairie (vote virtuel 24 h sur 24 ; points physiques le 20 septembre). Un média économique (ABC Economía) mentionne une plateforme ouverte jusqu'au lundi 21 septembre, ce que la source officielle consultée ne confirme pas.",
+    "grandeur_a_prevoir": "Nombre de personnes ayant confirmé un vote (tarjetón validé) dans la comuna ou le corregimiento, à rapprocher de la population de 14 ans et plus. Règle de comptage d'après l'ABC officiel et la méthode : un seul tarjetón par personne, vérifié contre un registre des votants, sans distinction entre vote en ligne et vote en point physique, les étrangers titulaires d'une cédula de extranjería comptant seulement s'ils ont voté en présentiel le 20 septembre. Le règlement (décret 2061 de 2026) ne définit pas explicitement le chiffre de participation publié par territoire : sa définition exacte n'a pas pu être vérifiée sans ouvrir les résultats.",
+    "nature_du_chiffre_publie": "votants",
+    "sources": [
+      "https://www.medellin.gov.co/es/wp-content/uploads/2026/09/ABC_PP.pdf",
+      "https://www.medellin.gov.co/es/wp-content/uploads/2025/05/ABC-PP.pdf",
+      "https://www.medellin.gov.co/es/wp-content/uploads/2026/08/Nuevo-Decreto-PP.pdf (Decreto 2061 de 2026, Gaceta Oficial 5912 du 27 août 2026)",
+      "https://www.medellin.gov.co/es/sala-de-prensa/noticias/el-alcalde-de-medellin-federico-gutierrez-invito-a-los-ciudadanos-a-elegir-sus-proyectos-en-las-votaciones-de-presupuesto-participativo/",
+      "https://www.medellin.gov.co/es/secretaria-participacion-ciudadana/planeacion-local-y-presupuesto-participativo/prioriza/",
+      "https://www.minuto30.com/amp/presupuesto-participativo-medellin/1719216/",
+      "https://www.medellin.gov.co/es/centro-documental/proyecciones-poblacion-viviendas-y-hogares/",
+      "https://www.medellin.gov.co/es/wp-content/uploads/2022/08/3.-Proyecciones-Medellin-Post-Covid-19-por-Comunas-y-Corregimientos-Sexo-y-Edad-Simple-2018-2030-1.xlsx",
+      "https://www.medellin.gov.co/es/wp-content/uploads/2022/08/ECV_2025.xlsx",
+      "https://www.infobae.com/colombia/2026/06/19/la-ventaja-de-de-la-espriella-y-la-base-de-cepeda-asi-quedo-el-mapa-electoral-en-medellin-en-la-primera-vuelta-del-31-de-mayo/",
+      "https://www.elcolombiano.com/medellin/resultados-medellin-primera-vuelta-elecciones-presidenciales-2026-DN37188975",
+      "https://cambiocolombia.com/poder/articulo/2026/6/medellin-barrio-por-barrio-de-la-espriella-gano-con-contundencia-pero-cepeda-fue-quien-mas-crecio-entre-la-primera-y-la-segunda-vuelta"
+    ]
+  },
+  "territoires": [
+    {
+      "id": "med01",
+      "nom": "Popular",
+      "type": "comuna",
+      "description": "Comuna du nord-est de Medellín, étagée sur les versants de la vallée d'Aburrá (Santo Domingo Savio, Carpinelo, Granizal). Entièrement urbaine, elle est composée de quartiers populaires d'autoconstruction, avec des logements classés en strates 1 et 2.",
+      "population_eligible": 117633,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.118
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.112
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.232
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.185
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.127
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.115
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.073
+        },
+        {
+          "tranche": "75+",
+          "part": 0.038
+        }
+      ],
+      "part_femmes": 0.523,
+      "part_etrangers": 0.0399,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.421
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.579
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.061
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.088
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.084
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.029
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.217
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.111
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.177
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.154
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.079
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.441
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.33
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.096
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.093
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.04
+        }
+      ]
+    },
+    {
+      "id": "med02",
+      "nom": "Santa Cruz",
+      "type": "comuna",
+      "description": "Comuna du nord-est de Medellín, sur le versant qui domine la vallée, entre Popular et Aranjuez. Urbaine, à dominante de logements de strate 2 (classe populaire).",
+      "population_eligible": 98893,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.11
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.107
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.226
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.187
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.132
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.12
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.077
+        },
+        {
+          "tranche": "75+",
+          "part": 0.041
+        }
+      ],
+      "part_femmes": 0.528,
+      "part_etrangers": 0.0443,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.157
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.843
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.074
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.08
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.094
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.053
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.169
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.111
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.171
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.159
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.089
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.461
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.312
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.096
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.092
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med03",
+      "nom": "Manrique",
+      "type": "comuna",
+      "description": "Comuna du nord-est de Medellín, bâtie sur les pentes de la vallée (Versalles, La Salle, Oriente). Urbaine, avec une majorité de logements de strate 2 et une part de strates 1 et 3.",
+      "population_eligible": 147011,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.103
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.101
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.218
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.179
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.137
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.129
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.087
+        },
+        {
+          "tranche": "75+",
+          "part": 0.046
+        }
+      ],
+      "part_femmes": 0.529,
+      "part_etrangers": 0.0556,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.267
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.591
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.142
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.098
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.055
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.071
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.034
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.202
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.098
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.205
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.146
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.091
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.463
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.31
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.096
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.092
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med04",
+      "nom": "Aranjuez",
+      "type": "comuna",
+      "description": "Comuna du nord-est de Medellín, en bas de versant, qui englobe notamment le quartier de Moravia. Urbaine, avec des logements répartis entre les strates 2 et 3, la strate 3 étant la plus fréquente.",
+      "population_eligible": 130765,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.093
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.093
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.212
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.179
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.141
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.134
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.094
+        },
+        {
+          "tranche": "75+",
+          "part": 0.054
+        }
+      ],
+      "part_femmes": 0.534,
+      "part_etrangers": 0.045,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.096
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.366
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.533
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.005
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.092
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.041
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.141
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.036
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.189
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.116
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.173
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.125
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.087
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.505
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.27
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.095
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.091
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med05",
+      "nom": "Castilla",
+      "type": "comuna",
+      "description": "Comuna du nord-ouest de Medellín, en grande partie plane, avec des quartiers résidentiels anciens (Castilla, Tricentenario, Pedregal). Urbaine, avec une très forte majorité de logements de strate 3 (classe moyenne basse).",
+      "population_eligible": 117367,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.086
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.089
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.201
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.177
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.15
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.146
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.097
+        },
+        {
+          "tranche": "75+",
+          "part": 0.054
+        }
+      ],
+      "part_femmes": 0.538,
+      "part_etrangers": 0.0453,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.024
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.147
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.805
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.024
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.07
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.08
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.115
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.039
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.179
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.114
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.147
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.139
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.117
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.532
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.244
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.094
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.091
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med06",
+      "nom": "Doce de Octubre",
+      "type": "comuna",
+      "description": "Comuna du nord-ouest de Medellín, sur le versant occidental de la vallée (Doce de Octubre, Santander, Picacho). Urbaine, avec des logements de strates 2 et 3 surtout, et une part de strate 1.",
+      "population_eligible": 161803,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.098
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.096
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.212
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.181
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.14
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.134
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.089
+        },
+        {
+          "tranche": "75+",
+          "part": 0.05
+        }
+      ],
+      "part_femmes": 0.534,
+      "part_etrangers": 0.0219,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.175
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.561
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.264
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.076
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.069
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.117
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.037
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.161
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.092
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.188
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.149
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.111
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.479
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.295
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.095
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.092
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med07",
+      "nom": "Robledo",
+      "type": "comuna",
+      "description": "Comuna du nord-ouest de Medellín, étendue et contrastée (secteur de l'Université Nationale, Pajarito, Aures). Urbaine, avec des logements répartis entre les strates 1 à 3 et une minorité de strates 4 et 5.",
+      "population_eligible": 171163,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.101
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.097
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.231
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.19
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.139
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.122
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.079
+        },
+        {
+          "tranche": "75+",
+          "part": 0.041
+        }
+      ],
+      "part_femmes": 0.533,
+      "part_etrangers": 0.0375,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.162
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.432
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.307
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.075
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.024
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.083
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.063
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.129
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.045
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.206
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.133
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.129
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.122
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.09
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.499
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.276
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.095
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.091
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med08",
+      "nom": "Villa Hermosa",
+      "type": "comuna",
+      "description": "Comuna du centre-est de Medellín, sur les versants qui dominent le centre (Enciso, Las Estancias, Trece de Noviembre). Urbaine, avec des logements de strates 1 à 3 et un peu de strate 4.",
+      "population_eligible": 135398,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.106
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.101
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.228
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.184
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.132
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.12
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.083
+        },
+        {
+          "tranche": "75+",
+          "part": 0.046
+        }
+      ],
+      "part_femmes": 0.527,
+      "part_etrangers": 0.0551,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.334
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.391
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.243
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.032
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.071
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.071
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.132
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.022
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.19
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.118
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.129
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.166
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.101
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.47
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.303
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.096
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.092
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med09",
+      "nom": "Buenos Aires",
+      "type": "comuna",
+      "description": "Comuna du centre-est de Medellín, au pied des versants (Miraflores, Loreto, Caicedo). Urbaine, à dominante de logements de strate 3, avec des strates 2 et 4 en proportion notable.",
+      "population_eligible": 144490,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.091
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.09
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.214
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.182
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.146
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.134
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.093
+        },
+        {
+          "tranche": "75+",
+          "part": 0.05
+        }
+      ],
+      "part_femmes": 0.535,
+      "part_etrangers": 0.0362,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.028
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.288
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.585
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.086
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.009
+        },
+        {
+          "lieu": "logement en estrato 6 (alto)",
+          "part": 0.004
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.084
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.046
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.136
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.032
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.196
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.134
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.117
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.128
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.127
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.528
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.248
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.094
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.091
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med10",
+      "nom": "La Candelaria",
+      "type": "comuna",
+      "description": "Comuna du centre historique de Medellín, siège de nombreux commerces, administrations et services. Urbaine, avec un habitat mixte de strates 3 et 4 et une population plus âgée que la moyenne de la ville.",
+      "population_eligible": 75161,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.082
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.078
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.201
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.17
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.138
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.142
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.113
+        },
+        {
+          "tranche": "75+",
+          "part": 0.076
+        }
+      ],
+      "part_femmes": 0.519,
+      "part_etrangers": 0.0448,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.013
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.073
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.371
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.498
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.04
+        },
+        {
+          "lieu": "logement en estrato 6 (alto)",
+          "part": 0.005
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.046
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.032
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.143
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.03
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.25
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.12
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.103
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.13
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.146
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.583
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.198
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.092
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.089
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.038
+        }
+      ]
+    },
+    {
+      "id": "med11",
+      "nom": "Laureles-Estadio",
+      "type": "comuna",
+      "description": "Comuna du centre-ouest de Medellín, résidentielle et plane, autour de l'Unité sportive Atanasio Girardot. Urbaine, avec des logements de strates 4 et 5 (classe moyenne aisée).",
+      "population_eligible": 104805,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.057
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.057
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.157
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.148
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.146
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.167
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.153
+        },
+        {
+          "tranche": "75+",
+          "part": 0.115
+        }
+      ],
+      "part_femmes": 0.566,
+      "part_etrangers": 0.0335,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.005
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.011
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.388
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.596
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.05
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.04
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.142
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.032
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.241
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.087
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.063
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.098
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.247
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.662
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.124
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.09
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.087
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.037
+        }
+      ]
+    },
+    {
+      "id": "med12",
+      "nom": "La América",
+      "type": "comuna",
+      "description": "Comuna de l'ouest de Medellín, résidentielle et en grande partie plane, à l'ouest de Laureles-Estadio. Urbaine, avec un habitat réparti entre les strates 3, 4 et 5.",
+      "population_eligible": 86691,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.064
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.067
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.177
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.159
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.153
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.162
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.132
+        },
+        {
+          "tranche": "75+",
+          "part": 0.086
+        }
+      ],
+      "part_femmes": 0.559,
+      "part_etrangers": 0.0297,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.025
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.269
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.466
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.24
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.059
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.056
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.153
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.023
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.199
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.093
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.137
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.109
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.171
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.613
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.169
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.092
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.088
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.038
+        }
+      ]
+    },
+    {
+      "id": "med13",
+      "nom": "San Javier",
+      "type": "comuna",
+      "description": "Comuna du centre-ouest de Medellín, sur les versants du massif occidental (secteur connu sous le nom de Comuna 13). Urbaine, avec des logements de strates 1 à 3 et une minorité de strate 4.",
+      "population_eligible": 141279,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.1
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.099
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.22
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.183
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.138
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.127
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.086
+        },
+        {
+          "tranche": "75+",
+          "part": 0.047
+        }
+      ],
+      "part_femmes": 0.538,
+      "part_etrangers": 0.0592,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.367
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.35
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.23
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.053
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.087
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.079
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.116
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.039
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.178
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.114
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.129
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.158
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.1
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.47
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.303
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.096
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.092
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med14",
+      "nom": "El Poblado",
+      "type": "comuna",
+      "description": "Comuna du sud-est de Medellín, sur les collines du sud de la vallée, quartier d'affaires, de commerces et résidentiel de haut niveau. Urbaine, avec une très large majorité de logements de strate 6 et le reste surtout en strate 5.",
+      "population_eligible": 108324,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.059
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.058
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.168
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.171
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.161
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.166
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.133
+        },
+        {
+          "tranche": "75+",
+          "part": 0.084
+        }
+      ],
+      "part_femmes": 0.565,
+      "part_etrangers": 0.022,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.041
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.024
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.03
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.196
+        },
+        {
+          "lieu": "logement en estrato 6 (alto)",
+          "part": 0.709
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.064
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.052
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.213
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.023
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.216
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.105
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.032
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.103
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.192
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.731
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.06
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.088
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.085
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.036
+        }
+      ]
+    },
+    {
+      "id": "med15",
+      "nom": "Guayabal",
+      "type": "comuna",
+      "description": "Comuna du sud de Medellín, mêlant zones industrielles, quartiers résidentiels et l'aéroport Olaya Herrera. Urbaine, avec des logements surtout de strates 3 et 4 et une part de strate 2.",
+      "population_eligible": 63674,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.079
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.077
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.189
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.171
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.148
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.153
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.114
+        },
+        {
+          "tranche": "75+",
+          "part": 0.069
+        }
+      ],
+      "part_femmes": 0.54,
+      "part_etrangers": 0.0451,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.006
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.274
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.47
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.25
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.118
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.072
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.128
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.029
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.222
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.09
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.097
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.125
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.119
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.543
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.235
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.094
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.09
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.038
+        }
+      ]
+    },
+    {
+      "id": "med16",
+      "nom": "Belén",
+      "type": "comuna",
+      "description": "Comuna du sud-ouest de Medellín, très étendue, avec des quartiers résidentiels plats et des secteurs de pente. Urbaine, avec une mixité de strates 3, 4 et 5 et une présence de strate 2.",
+      "population_eligible": 197064,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.075
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.076
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.192
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.173
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.153
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.149
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.114
+        },
+        {
+          "tranche": "75+",
+          "part": 0.068
+        }
+      ],
+      "part_femmes": 0.549,
+      "part_etrangers": 0.0259,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.02
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.196
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.378
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.238
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.168
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.075
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.07
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.156
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.026
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.181
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.108
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.102
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.13
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.152
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.57
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.209
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.093
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.09
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.038
+        }
+      ]
+    },
+    {
+      "id": "med50",
+      "nom": "San Sebastián de Palmitas",
+      "type": "corregimiento",
+      "description": "Corregimiento rural à l'extrême nord-ouest de Medellín, de montagne, à très faible population, organisé autour d'un petit centre poblado et de veredas dispersées. Habitat de strates 1 et 2.",
+      "population_eligible": 4956,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.091
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.087
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.2
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.18
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.138
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.138
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.105
+        },
+        {
+          "tranche": "75+",
+          "part": 0.061
+        }
+      ],
+      "part_femmes": 0.48,
+      "part_etrangers": 0.005,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.464
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.536
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.032
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.107
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.077
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.028
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.363
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.225
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.014
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.106
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.048
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.438
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.333
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.096
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.093
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.04
+        }
+      ]
+    },
+    {
+      "id": "med60",
+      "nom": "San Cristóbal",
+      "type": "corregimiento",
+      "description": "Corregimiento de l'ouest de Medellín, très peuplé, mêlant un centre poblado en forte urbanisation et des veredas rurales. Habitat surtout de strates 1 à 3.",
+      "population_eligible": 101518,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.109
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.105
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.241
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.199
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.136
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.111
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.067
+        },
+        {
+          "tranche": "75+",
+          "part": 0.032
+        }
+      ],
+      "part_femmes": 0.519,
+      "part_etrangers": 0.0351,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.257
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.457
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.243
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.043
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.08
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.068
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.166
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.04
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.172
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.103
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.136
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.158
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.077
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.4
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.38
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.093
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.089
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.038
+        }
+      ]
+    },
+    {
+      "id": "med70",
+      "nom": "Altavista",
+      "type": "corregimiento",
+      "description": "Corregimiento du sud-ouest de Medellín, de piémont, entre noyaux bâtis et veredas rurales. Habitat dominé par la strate 2, avec une part notable de strate 5 et une minorité de strate 1.",
+      "population_eligible": 33937,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.1
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.099
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.241
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.201
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.141
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.114
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.071
+        },
+        {
+          "tranche": "75+",
+          "part": 0.033
+        }
+      ],
+      "part_femmes": 0.519,
+      "part_etrangers": 0.0604,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.117
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.556
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.083
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.06
+        },
+        {
+          "lieu": "logement en estrato 5 (medio-alto)",
+          "part": 0.184
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.045
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.091
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.146
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.049
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.207
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.114
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.096
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.149
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.103
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.519
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.257
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.094
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.091
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med80",
+      "nom": "San Antonio de Prado",
+      "type": "corregimiento",
+      "description": "Corregimiento du sud-ouest de Medellín, éloigné du centre, avec un centre poblado dense, de grands ensembles de logements et des veredas rurales. Habitat de strates 2 et 3 surtout.",
+      "population_eligible": 84827,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.099
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.098
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.225
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.2
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.146
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.124
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.074
+        },
+        {
+          "tranche": "75+",
+          "part": 0.034
+        }
+      ],
+      "part_femmes": 0.524,
+      "part_etrangers": 0.0372,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.045
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.537
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.407
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.011
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.086
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.075
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.15
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.049
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.164
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.115
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.119
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.153
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.089
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.501
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.274
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.095
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.091
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    },
+    {
+      "id": "med90",
+      "nom": "Santa Elena",
+      "type": "corregimiento",
+      "description": "Corregimiento rural de montagne à l'est de Medellín, tourné vers le parc Arví, la floriculture et le tourisme de nature. Habitat contrasté, avec une majorité de strates 1 et 2 et une minorité de strate 6.",
+      "population_eligible": 20077,
+      "definition_population": "habitants de 14 ans et plus (projection DANE au 30 juin 2026, âges simples additionnés)",
+      "tranches_age": [
+        {
+          "tranche": "14-19",
+          "part": 0.108
+        },
+        {
+          "tranche": "20-24",
+          "part": 0.101
+        },
+        {
+          "tranche": "25-34",
+          "part": 0.232
+        },
+        {
+          "tranche": "35-44",
+          "part": 0.191
+        },
+        {
+          "tranche": "45-54",
+          "part": 0.142
+        },
+        {
+          "tranche": "55-64",
+          "part": 0.12
+        },
+        {
+          "tranche": "65-74",
+          "part": 0.073
+        },
+        {
+          "tranche": "75+",
+          "part": 0.033
+        }
+      ],
+      "part_femmes": 0.502,
+      "part_etrangers": 0.0634,
+      "lieux_de_vie": [
+        {
+          "lieu": "logement en estrato 1 (bajo-bajo)",
+          "part": 0.531
+        },
+        {
+          "lieu": "logement en estrato 2 (bajo)",
+          "part": 0.239
+        },
+        {
+          "lieu": "logement en estrato 3 (medio-bajo)",
+          "part": 0.127
+        },
+        {
+          "lieu": "logement en estrato 4 (medio)",
+          "part": 0.017
+        },
+        {
+          "lieu": "logement en estrato 6 (alto)",
+          "part": 0.086
+        }
+      ],
+      "activites": [
+        {
+          "activite": "salarié·e du commerce, de l'hôtellerie et de la restauration",
+          "part": 0.073
+        },
+        {
+          "activite": "salarié·e de l'industrie, du bâtiment et de l'énergie",
+          "part": 0.06
+        },
+        {
+          "activite": "salarié·e des services (santé, éducation, administration, finance, immobilier, services personnels)",
+          "part": 0.099
+        },
+        {
+          "activite": "salarié·e du transport, de l'agriculture et d'autres secteurs",
+          "part": 0.009
+        },
+        {
+          "activite": "travailleur·euse indépendant·e (dont vendeur·euse informel·le)",
+          "part": 0.274
+        },
+        {
+          "activite": "étudiant·e",
+          "part": 0.097
+        },
+        {
+          "activite": "sans emploi",
+          "part": 0.159
+        },
+        {
+          "activite": "au foyer (travail domestique et soins non rémunérés)",
+          "part": 0.143
+        },
+        {
+          "activite": "retraité·e ou en incapacité de travailler",
+          "part": 0.086
+        }
+      ],
+      "partis": [
+        {
+          "parti": "Defensores de la Patria (Abelardo de la Espriella)",
+          "part": 0.47
+        },
+        {
+          "parti": "Pacto Histórico (Iván Cepeda)",
+          "part": 0.303
+        },
+        {
+          "parti": "Sergio Fajardo (centre)",
+          "part": 0.096
+        },
+        {
+          "parti": "Paloma Valencia (droite, issue du Centro Democrático)",
+          "part": 0.092
+        },
+        {
+          "parti": "autres candidats et vote blanc",
+          "part": 0.039
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "med04",
+  "cible": {
+    "type": "comuna",
+    "nom": "Aranjuez",
+    "canton": "",
+    "pays": "CO",
+    "description": "Comuna du nord-est de Medellín, en bas de versant, qui englobe notamment le quartier de Moravia. Urbaine, avec des logements répartis entre les strates 2 et 3, la strate 3 étant la plus fréquente.",
+    "ville": "Medellín",
+    "ville_id": "medellin",
+    "nationalites": {
+      "nationale": "colombienne",
+      "etrangere": "étrangère (résident·e en Colombie)"
+    }
+  },
+  "decideur": "aucun (test à l'aveugle)",
+  "enjeu": "prévoir la participation de Aranjuez à Presupuesto Participativo 2026 de Medellín (priorisation participative des projets PDL et PP, plateforme Vota PP), projets financés en 2027",
+  "objectif": "publier une prévision avant d'ouvrir les chiffres et la comparer au résultat publié",
+  "horizon_mois": 1,
+  "panel": {
+    "N": 20,
+    "seed": 20261029
+  },
+  "contexte_factuel": [],
+  "votations": []
+}

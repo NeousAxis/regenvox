@@ -3,7 +3,8 @@ import type { FormulateurOut, PersonaOut, PersonaSkeleton, SociologueOut, Contra
 
 export interface CaseFile {
   id: string;
-  cible: { type: string; nom: string; canton: string; pays: string; description: string };
+  // ville, ville_id et nationalites : seulement pour les quartiers d'une ville étrangère (étape quartiers).
+  cible: { type: string; nom: string; canton: string; pays: string; description: string; ville?: string; ville_id?: string; nationalites?: { nationale: string; etrangere: string } };
   decideur: string;
   enjeu: string;
   objectif: string;
@@ -199,6 +200,22 @@ export function userDemarches(c: CaseFile, s: PersonaSkeleton, demarches: Demarc
     ``,
     `Démarches participatives de la ville :`,
     ...[...demarches].sort((a, b) => a.annee - b.annee).map((d) => `- ${d.id} (${d.annee}) : ${d.nom_demarche}. ${d.appel} Format : ${d.format}. Qui pouvait participer : ${enPhrase(d.qui_peut_participer)}. Durée : ${d.duree_phase_participation}. Ce qui compte comme participation : ${d.participation_a_prevoir}.`),
+  ].join("\n");
+}
+
+// Démarche d'une ville étrangère dont la participation est publiée par quartier (data/<ville>_textes.json).
+export interface DemarcheVille extends Omit<Demarche, "nom_demarche" | "participation_a_prevoir"> { nom: string; ou_voter: string; grandeur_a_prevoir: string }
+
+export function userQuartier(c: CaseFile, s: PersonaSkeleton, d: DemarcheVille) {
+  const p = (x: string) => x.trim().replace(/\.+$/, "");
+  const nat = s.nationalite === "suisse" ? c.cible.nationalites!.nationale : c.cible.nationalites!.etrangere;
+  return [
+    `Ton profil aujourd'hui (octobre 2026) : ${s.age} ans, ${s.sexe}, nationalité ${nat}, ${s.activite}, ${s.menage}, ${s.lieu_de_vie}${s.parti_proche ? ", proche de " + s.parti_proche : ""}. Identifiant : ${s.id}. Tu habites ${c.cible.nom} (${c.cible.type} de ${c.cible.ville}) depuis au moins 2020.`,
+    ``,
+    `Là où tu habites : ${c.cible.description}`,
+    ``,
+    `Démarche participative de ta ville :`,
+    `- ${d.id} (${d.annee}) : ${p(d.nom)}. ${p(d.appel)}. Format : ${p(d.format)}. Qui peut participer : ${p(enPhrase(d.qui_peut_participer))}. Où voter : ${p(d.ou_voter)}. Durée : ${p(d.duree_phase_participation)}. Ce qui compte comme participation : ${p(d.grandeur_a_prevoir)}.`,
   ].join("\n");
 }
 

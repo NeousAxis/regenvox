@@ -29,6 +29,7 @@ const MODEL: Record<StepName, string> = {
   petitions: "haiku",
   demarches: "haiku",
   demarchesge: "haiku",
+  quartiers: "haiku",
 };
 const SYSTEM_OF: Record<StepName, string> = {
   formulateur: SYSTEM.formulateur,
@@ -48,6 +49,7 @@ const SYSTEM_OF: Record<StepName, string> = {
   petitions: SYSTEM.petition,
   demarches: SYSTEM.demarche,
   demarchesge: SYSTEM.demarche,
+  quartiers: SYSTEM.demarche,
 };
 
 const caseDir = (id: string) => path.join(ROOT, "cases", id);
@@ -62,12 +64,14 @@ const loadDemarchesGe = (c: Q.CaseFile): Q.Demarche[] =>
   readJson<{ demarches: any[] }>(path.join(ROOT, "data", "geneve_textes.json")).demarches
     .filter((d) => String(d.commune).startsWith(c.cible.nom))
     .map((d) => ({ id: d.id, nom_demarche: d.nom, annee: d.annee, appel: d.appel, format: d.format, qui_peut_participer: d.qui_peut_participer, duree_phase_participation: d.duree_phase_participation, participation_a_prevoir: d.grandeur_a_prevoir }));
+// Démarche d'une ville étrangère, découpée en quartiers : une seule démarche, chaque panel est celui d'un quartier.
+const loadDemarcheVille = (c: Q.CaseFile): Q.DemarcheVille => readJson<{ demarche: Q.DemarcheVille }>(path.join(ROOT, "data", `${c.cible.ville_id}_textes.json`)).demarche;
 const loadSkels = (runId: string) => readJson<PersonaSkeleton[]>(path.join(runDir(runId), "panel.json"));
 const validated = <T>(runId: string, step: StepName, item = "main") => readJson<T>(okPath(runId, step, item));
 const errorsPath = (runId: string, step: string, item: string) => path.join(runDir(runId), "errors", step, `${item}.json`);
 
 function items(runId: string, step: StepName): string[] {
-  if (step === "personas" || step === "mobilisation" || step === "controle" || step === "controle2" || step === "demarches" || step === "demarchesge") return loadSkels(runId).map((s) => s.id);
+  if (step === "personas" || step === "mobilisation" || step === "controle" || step === "controle2" || step === "demarches" || step === "demarchesge" || step === "quartiers") return loadSkels(runId).map((s) => s.id);
   if (step === "scrutins" || step === "scrutins2" || step === "cantonales" || step === "petitions") return loadSkels(runId).filter((s) => s.electeur).map((s) => s.id);
   return ["main"];
 }
@@ -120,6 +124,8 @@ function buildUser(runId: string, step: StepName, item: string): string {
       return Q.userDemarches(c, loadSkels(runId).find((x) => x.id === item)!, loadDemarches());
     case "demarchesge":
       return Q.userDemarches(c, loadSkels(runId).find((x) => x.id === item)!, loadDemarchesGe(c));
+    case "quartiers":
+      return Q.userQuartier(c, loadSkels(runId).find((x) => x.id === item)!, loadDemarcheVille(c));
   }
 }
 
@@ -237,8 +243,9 @@ function adminFor(runId: string, step: StepName, item: string, value: any): stri
       return A.checkScrutin(value, { skeleton: loadSkels(runId).find((s) => s.id === item), voteIds: loadCantonales().filter((v) => v.canton === c.cible.canton).map((v) => v.vote_id) });
     case "petitions":
     case "demarches":
-    case "demarchesge": {
-      const want = (step === "petitions" ? loadPetitions() : step === "demarches" ? loadDemarches() : loadDemarchesGe(c)).map((p) => p.id).sort();
+    case "demarchesge":
+    case "quartiers": {
+      const want = (step === "petitions" ? loadPetitions() : step === "demarches" ? loadDemarches() : step === "quartiers" ? [loadDemarcheVille(c)] : loadDemarchesGe(c)).map((p) => p.id).sort();
       const got = (value.reactions as { item_id: string }[]).map((r) => r.item_id).sort();
       const e: string[] = value.id !== item ? [`Identifiant ${value.id} différent du profil ${item}.`] : [];
       if (JSON.stringify(got) !== JSON.stringify(want)) e.push(`Il faut une réaction et une seule pour chacun de ces éléments : ${want.join(", ")}.`);

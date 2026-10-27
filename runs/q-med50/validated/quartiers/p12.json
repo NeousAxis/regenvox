@@ -1,0 +1,11 @@
+{
+  "id": "p12",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.09,
+      "partage_proba": 0.18,
+      "raison": "Habitant d'un corregimiento rural éloigné du centre, sensible à la politique locale mais peu informé et peu à l'aise avec un vote entièrement en ligne et une identification biométrique, je ne participerais probablement pas, alors qu'en parler à la famille ou aux voisins de la vereda reste plausible."
+    }
+  ]
+}

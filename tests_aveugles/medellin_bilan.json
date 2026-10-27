@@ -1,0 +1,292 @@
+{
+  "n": 21,
+  "nature_du_chiffre": "votants",
+  "synthese": {
+    "panel": {
+      "spearman_taux": 0.5455,
+      "p_permutation_taux": 0.0055,
+      "spearman_nombres": 0.887,
+      "ecart_median_en_facteur": 1.2993
+    },
+    "modele_seul": {
+      "spearman_taux": 0.313,
+      "p_permutation_taux": 0.0828,
+      "spearman_nombres": 0.8274,
+      "ecart_median_en_facteur": 1.2867
+    },
+    "hybride": {
+      "spearman_taux": 0.6143,
+      "p_permutation_taux": 0.0023,
+      "spearman_nombres": 0.9208,
+      "ecart_median_en_facteur": 1.9416
+    },
+    "rang_panel_niveau_modele": {
+      "spearman_taux": 0.5455,
+      "p_permutation_taux": 0.0055,
+      "spearman_nombres": 0.887,
+      "ecart_median_en_facteur": 1.1385
+    },
+    "reference_population_seule": {
+      "spearman_nombres": 0.8455
+    },
+    "reference_edition_precedente": {
+      "spearman_taux": 0.8831,
+      "spearman_nombres": 0.961,
+      "ecart_median_en_facteur": 1.1835
+    }
+  },
+  "lignes": [
+    {
+      "id": "med01",
+      "nom": "Popular",
+      "population_eligible": 117633,
+      "taux_panel": 0.0737,
+      "participants_panel": 8670,
+      "participants_modele_seul": 7600,
+      "participants_hybride": 4000,
+      "participants_rang_panel_niveau_modele": 6597,
+      "reel": 14037,
+      "edition_precedente": 25383
+    },
+    {
+      "id": "med02",
+      "nom": "Santa Cruz",
+      "population_eligible": 98893,
+      "taux_panel": 0.0568,
+      "participants_panel": 5617,
+      "participants_modele_seul": 6400,
+      "participants_hybride": 2275,
+      "participants_rang_panel_niveau_modele": 4274,
+      "reel": 4691,
+      "edition_precedente": 5793
+    },
+    {
+      "id": "med03",
+      "nom": "Manrique",
+      "population_eligible": 147011,
+      "taux_panel": 0.0696,
+      "participants_panel": 10232,
+      "participants_modele_seul": 8800,
+      "participants_hybride": 4410,
+      "participants_rang_panel_niveau_modele": 7786,
+      "reel": 7245,
+      "edition_precedente": 13125
+    },
+    {
+      "id": "med04",
+      "nom": "Aranjuez",
+      "population_eligible": 130765,
+      "taux_panel": 0.0705,
+      "participants_panel": 9219,
+      "participants_modele_seul": 7200,
+      "participants_hybride": 3661,
+      "participants_rang_panel_niveau_modele": 7015,
+      "reel": 5940,
+      "edition_precedente": 6309
+    },
+    {
+      "id": "med05",
+      "nom": "Castilla",
+      "population_eligible": 117367,
+      "taux_panel": 0.0779,
+      "participants_panel": 9143,
+      "participants_modele_seul": 6400,
+      "participants_hybride": 3521,
+      "participants_rang_panel_niveau_modele": 6957,
+      "reel": 9641,
+      "edition_precedente": 12750
+    },
+    {
+      "id": "med06",
+      "nom": "Doce de Octubre",
+      "population_eligible": 161803,
+      "taux_panel": 0.0711,
+      "participants_panel": 11504,
+      "participants_modele_seul": 8900,
+      "participants_hybride": 5016,
+      "participants_rang_panel_niveau_modele": 8754,
+      "reel": 7943,
+      "edition_precedente": 10241
+    },
+    {
+      "id": "med07",
+      "nom": "Robledo",
+      "population_eligible": 171163,
+      "taux_panel": 0.0778,
+      "participants_panel": 13316,
+      "participants_modele_seul": 8600,
+      "participants_hybride": 5648,
+      "participants_rang_panel_niveau_modele": 10133,
+      "reel": 10294,
+      "edition_precedente": 11851
+    },
+    {
+      "id": "med08",
+      "nom": "Villa Hermosa",
+      "population_eligible": 135398,
+      "taux_panel": 0.06,
+      "participants_panel": 8124,
+      "participants_modele_seul": 8800,
+      "participants_hybride": 3250,
+      "participants_rang_panel_niveau_modele": 6182,
+      "reel": 6191,
+      "edition_precedente": 6747
+    },
+    {
+      "id": "med09",
+      "nom": "Buenos Aires",
+      "population_eligible": 144490,
+      "taux_panel": 0.0704,
+      "participants_panel": 10172,
+      "participants_modele_seul": 7900,
+      "participants_hybride": 4190,
+      "participants_rang_panel_niveau_modele": 7741,
+      "reel": 6877,
+      "edition_precedente": 9544
+    },
+    {
+      "id": "med10",
+      "nom": "La Candelaria",
+      "population_eligible": 75161,
+      "taux_panel": 0.0765,
+      "participants_panel": 5750,
+      "participants_modele_seul": 2300,
+      "participants_hybride": 2030,
+      "participants_rang_panel_niveau_modele": 4375,
+      "reel": 4981,
+      "edition_precedente": 5431
+    },
+    {
+      "id": "med11",
+      "nom": "Laureles-Estadio",
+      "population_eligible": 104805,
+      "taux_panel": 0.0699,
+      "participants_panel": 7326,
+      "participants_modele_seul": 3100,
+      "participants_hybride": 2515,
+      "participants_rang_panel_niveau_modele": 5575,
+      "reel": 5199,
+      "edition_precedente": 6482
+    },
+    {
+      "id": "med12",
+      "nom": "La América",
+      "population_eligible": 86691,
+      "taux_panel": 0.0722,
+      "participants_panel": 6259,
+      "participants_modele_seul": 3500,
+      "participants_hybride": 2254,
+      "participants_rang_panel_niveau_modele": 4763,
+      "reel": 5913,
+      "edition_precedente": 6998
+    },
+    {
+      "id": "med13",
+      "nom": "San Javier",
+      "population_eligible": 141279,
+      "taux_panel": 0.069,
+      "participants_panel": 9748,
+      "participants_modele_seul": 9200,
+      "participants_hybride": 4521,
+      "participants_rang_panel_niveau_modele": 7418,
+      "reel": 8778,
+      "edition_precedente": 10107
+    },
+    {
+      "id": "med14",
+      "nom": "El Poblado",
+      "population_eligible": 108324,
+      "taux_panel": 0.0609,
+      "participants_panel": 6597,
+      "participants_modele_seul": 1600,
+      "participants_hybride": 1300,
+      "participants_rang_panel_niveau_modele": 5020,
+      "reel": 2450,
+      "edition_precedente": 3236
+    },
+    {
+      "id": "med15",
+      "nom": "Guayabal",
+      "population_eligible": 63674,
+      "taux_panel": 0.0592,
+      "participants_panel": 3770,
+      "participants_modele_seul": 2900,
+      "participants_hybride": 1464,
+      "participants_rang_panel_niveau_modele": 2868,
+      "reel": 4463,
+      "edition_precedente": 5139
+    },
+    {
+      "id": "med16",
+      "nom": "Belén",
+      "population_eligible": 197064,
+      "taux_panel": 0.0669,
+      "participants_panel": 13184,
+      "participants_modele_seul": 7900,
+      "participants_hybride": 5321,
+      "participants_rang_panel_niveau_modele": 10032,
+      "reel": 10147,
+      "edition_precedente": 10617
+    },
+    {
+      "id": "med50",
+      "nom": "San Sebastián de Palmitas",
+      "population_eligible": 4956,
+      "taux_panel": 0.0777,
+      "participants_panel": 385,
+      "participants_modele_seul": 600,
+      "participants_hybride": 198,
+      "participants_rang_panel_niveau_modele": 293,
+      "reel": 1407,
+      "edition_precedente": 1157
+    },
+    {
+      "id": "med60",
+      "nom": "San Cristóbal",
+      "population_eligible": 101518,
+      "taux_panel": 0.0666,
+      "participants_panel": 6761,
+      "participants_modele_seul": 6600,
+      "participants_hybride": 3046,
+      "participants_rang_panel_niveau_modele": 5145,
+      "reel": 5611,
+      "edition_precedente": 5999
+    },
+    {
+      "id": "med70",
+      "nom": "Altavista",
+      "population_eligible": 33937,
+      "taux_panel": 0.0695,
+      "participants_panel": 2359,
+      "participants_modele_seul": 2700,
+      "participants_hybride": 1120,
+      "participants_rang_panel_niveau_modele": 1795,
+      "reel": 2726,
+      "edition_precedente": 2710
+    },
+    {
+      "id": "med80",
+      "nom": "San Antonio de Prado",
+      "population_eligible": 84827,
+      "taux_panel": 0.0669,
+      "participants_panel": 5675,
+      "participants_modele_seul": 5500,
+      "participants_hybride": 2714,
+      "participants_rang_panel_niveau_modele": 4318,
+      "reel": 4735,
+      "edition_precedente": 5945
+    },
+    {
+      "id": "med90",
+      "nom": "Santa Elena",
+      "population_eligible": 20077,
+      "taux_panel": 0.0822,
+      "participants_panel": 1650,
+      "participants_modele_seul": 1800,
+      "participants_hybride": 1004,
+      "participants_rang_panel_niveau_modele": 1256,
+      "reel": 2316,
+      "edition_precedente": 2389
+    }
+  ]
+}

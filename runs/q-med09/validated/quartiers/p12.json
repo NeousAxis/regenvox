@@ -1,0 +1,11 @@
+{
+  "id": "p12",
+  "reactions": [
+    {
+      "item_id": "med-pp2026",
+      "participe_proba": 0.1,
+      "partage_proba": 0.2,
+      "raison": "Je suis proche d'un mouvement politique et je suis dans la rue toute la journée, donc j'ai entendu parler de la mairie, mais le budget participatif m'est passé dessus : le vote en ligne avec validation biométrique et code envoyé par SMS me paraît compliqué et je n'ai pas le temps d'aller voter le dimanche dans un point physique."
+    }
+  ]
+}

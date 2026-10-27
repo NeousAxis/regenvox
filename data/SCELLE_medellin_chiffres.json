@@ -1,0 +1,86 @@
+{
+  "collecte_le": "2026-10-26",
+  "edition_2026": {
+    "nature": "votants",
+    "definition": "Nombre de personnes ayant voté (champ totalParticipants et votes par territoire de l'API publique de votapp.medellin.gov.co), vote virtuel du 16 au 21 septembre 2026, identité vérifiée par biométrie, projets exécutés en 2027. Contrôle de nature : pour chaque territoire, la somme des tranches d'âge (moins de 18 ans, 18 à 28, 29 à 50, plus de 50) est égale au nombre indiqué, ce qui indique des personnes et non des votes par projet. La moyenne quotidienne annoncée par l'Alcaldía (21 930) est égale au total divisé par 6 jours. La presse et le communiqué écrivent parfois 'votos' pour le même chiffre, et le secrétaire écrit '131.585 personas salieron a votar'. Les 'votos' par projet (exemple 81.484 pour sport et loisirs) sont une autre mesure (un votant peut choisir plusieurs projets) et NE sont PAS utilisés ici. Le virtuel couvre aussi les personnes assistées dans les 109 points d'accompagnement, car le vote s'y fait sur la même plateforme.",
+    "sources": [
+      "https://votapp.medellin.gov.co/results",
+      "https://votapp.medellin.gov.co/api/v1/results/summary",
+      "https://www.medellin.gov.co/es/sala-de-prensa/noticias/mas-de-130-000-personas-votaron-en-medellin-para-elegir-los-proyectos-que-seguiran-transformando-sus-territorios-gracias-a-presupuesto-participativo/",
+      "https://www.elcolombiano.com/inicio/presupuesto-participativo-2026-medellin-eligieron-proyectos-salud-educacion-superacion-hambre-NO41387785"
+    ],
+    "total_ville": 131585,
+    "territoires": [
+      {"id": "med01", "nom": "Popular", "nombre": 14037, "virtuel": 14037, "presentiel": 0},
+      {"id": "med02", "nom": "Santa Cruz", "nombre": 4691, "virtuel": 4691, "presentiel": 0},
+      {"id": "med03", "nom": "Manrique", "nombre": 7245, "virtuel": 7245, "presentiel": 0},
+      {"id": "med04", "nom": "Aranjuez", "nombre": 5940, "virtuel": 5940, "presentiel": 0},
+      {"id": "med05", "nom": "Castilla", "nombre": 9641, "virtuel": 9641, "presentiel": 0},
+      {"id": "med06", "nom": "Doce de Octubre", "nombre": 7943, "virtuel": 7943, "presentiel": 0},
+      {"id": "med07", "nom": "Robledo", "nombre": 10294, "virtuel": 10294, "presentiel": 0},
+      {"id": "med08", "nom": "Villa Hermosa", "nombre": 6191, "virtuel": 6191, "presentiel": 0},
+      {"id": "med09", "nom": "Buenos Aires", "nombre": 6877, "virtuel": 6877, "presentiel": 0},
+      {"id": "med10", "nom": "La Candelaria", "nombre": 4981, "virtuel": 4981, "presentiel": 0},
+      {"id": "med11", "nom": "Laureles-Estadio", "nombre": 5199, "virtuel": 5199, "presentiel": 0},
+      {"id": "med12", "nom": "La América", "nombre": 5913, "virtuel": 5913, "presentiel": 0},
+      {"id": "med13", "nom": "San Javier", "nombre": 8778, "virtuel": 8778, "presentiel": 0},
+      {"id": "med14", "nom": "El Poblado", "nombre": 2450, "virtuel": 2450, "presentiel": 0},
+      {"id": "med15", "nom": "Guayabal", "nombre": 4463, "virtuel": 4463, "presentiel": 0},
+      {"id": "med16", "nom": "Belén", "nombre": 10147, "virtuel": 10147, "presentiel": 0},
+      {"id": "med50", "nom": "San Sebastián de Palmitas", "nombre": 1407, "virtuel": 1407, "presentiel": 0},
+      {"id": "med60", "nom": "San Cristóbal", "nombre": 5611, "virtuel": 5611, "presentiel": 0},
+      {"id": "med70", "nom": "Altavista", "nombre": 2726, "virtuel": 2726, "presentiel": 0},
+      {"id": "med80", "nom": "San Antonio de Prado", "nombre": 4735, "virtuel": 4735, "presentiel": 0},
+      {"id": "med90", "nom": "Santa Elena", "nombre": 2316, "virtuel": 2316, "presentiel": 0}
+    ]
+  },
+  "edition_precedente": {
+    "annee": 2025,
+    "nature": "votants",
+    "definition": "Édition dont le vote a eu lieu fin été 2025 (résultats annoncés le 8 et 9 septembre 2025, projets exécutés en 2026), la dernière avant celle de septembre 2026. Mesure : 'Total participantes' par territoire dans la présentation officielle de résultats de l'Alcaldía de Medellín (le tableau récapitulatif de la même présentation l'intitule 'Número de votos' avec les mêmes valeurs). Chaque territoire donne aussi la répartition virtuel et présentiel (195 points présentiels). Les valeurs 'nombre' sont les totaux par territoire, 'virtuel' et 'presentiel' leur décomposition. Contrôle de cohérence : la moyenne quotidienne annoncée pour 2025 (18 684) est égale au total ville divisé par 9 jours.",
+    "sources": [
+      "https://www.medellin.gov.co/es/wp-content/uploads/2025/10/Presentaci%C3%B3n-de-resultados-web.pdf",
+      "https://www.medellin.gov.co/es/wp-content/uploads/2026/05/74.-Ruta-PDL-PP-Resultados.pdf",
+      "https://www.medellin.gov.co/es/sala-de-prensa/noticias/medellin-logra-record-historico-168-156-ciudadanos-votaron-en-presupuesto-participativo/"
+    ],
+    "total_ville": 168156,
+    "total_ville_virtuel": 153008,
+    "total_ville_presentiel": 15150,
+    "territoires": [
+      {"id": "med01", "nom": "Popular", "nombre": 25383, "virtuel": 25012, "presentiel": 371},
+      {"id": "med02", "nom": "Santa Cruz", "nombre": 5793, "virtuel": 5267, "presentiel": 526},
+      {"id": "med03", "nom": "Manrique", "nombre": 13125, "virtuel": 12186, "presentiel": 939},
+      {"id": "med04", "nom": "Aranjuez", "nombre": 6309, "virtuel": 5745, "presentiel": 564},
+      {"id": "med05", "nom": "Castilla", "nombre": 12750, "virtuel": 11879, "presentiel": 871},
+      {"id": "med06", "nom": "Doce de Octubre", "nombre": 10241, "virtuel": 9731, "presentiel": 510},
+      {"id": "med07", "nom": "Robledo", "nombre": 11851, "virtuel": 10916, "presentiel": 935},
+      {"id": "med08", "nom": "Villa Hermosa", "nombre": 6747, "virtuel": 6222, "presentiel": 525},
+      {"id": "med09", "nom": "Buenos Aires", "nombre": 9544, "virtuel": 8728, "presentiel": 816},
+      {"id": "med10", "nom": "La Candelaria", "nombre": 5431, "virtuel": 4427, "presentiel": 1004},
+      {"id": "med11", "nom": "Laureles-Estadio", "nombre": 6482, "virtuel": 5720, "presentiel": 762},
+      {"id": "med12", "nom": "La América", "nombre": 6998, "virtuel": 6106, "presentiel": 892},
+      {"id": "med13", "nom": "San Javier", "nombre": 10107, "virtuel": 8940, "presentiel": 1167},
+      {"id": "med14", "nom": "El Poblado", "nombre": 3236, "virtuel": 2869, "presentiel": 367},
+      {"id": "med15", "nom": "Guayabal", "nombre": 5139, "virtuel": 4040, "presentiel": 1099},
+      {"id": "med16", "nom": "Belén", "nombre": 10617, "virtuel": 9664, "presentiel": 953},
+      {"id": "med50", "nom": "San Sebastián de Palmitas", "nombre": 1157, "virtuel": 958, "presentiel": 199},
+      {"id": "med60", "nom": "San Cristóbal", "nombre": 5999, "virtuel": 5112, "presentiel": 887},
+      {"id": "med70", "nom": "Altavista", "nombre": 2710, "virtuel": 2134, "presentiel": 576},
+      {"id": "med80", "nom": "San Antonio de Prado", "nombre": 5945, "virtuel": 5339, "presentiel": 606},
+      {"id": "med90", "nom": "Santa Elena", "nombre": 2389, "virtuel": 2011, "presentiel": 378}
+    ]
+  },
+  "remarques": [
+    "Les 21 territoires sont renseignés pour les deux éditions. Aucune valeur manquante.",
+    "Correspondance des identifiants de l'API votapp 2026 : 1 à 16 = med01 à med16, 17 = med50 Palmitas, 18 = med60 San Cristóbal, 19 = med70 Altavista, 20 = med80 San Antonio de Prado, 21 = med90 Santa Elena. Cette correspondance est déduite de l'ordre et des noms renvoyés par l'API, et elle est cohérente avec les ordres de grandeur de 2025.",
+    "Édition 2026 : l'API publique affiche 0 vote présentiel et attribue tout au virtuel. Les 109 points d'accompagnement (6 263 personnes assistées le 20 septembre selon le communiqué) utilisent la même plateforme, donc ces personnes sont comptées dans le virtuel. Le communiqué est incohérent sur les dates des points (16 au 19 septembre dans un passage, 20 septembre dans un autre).",
+    "Édition 2026 : la somme des 21 territoires est égale au total ville publié (131 585). Les chiffres de l'API ont été lus le 2026-10-26 (champ generatedAt de la réponse), soit 5 semaines après la clôture ; ils coïncident avec le total annoncé dans le communiqué du 22 septembre 2026. Rien ne dit qu'ils aient été corrigés après coup.",
+    "Édition 2026 : la presse parle de '131.585 votos' et l'Alcaldía de '131.585 personas'. Les tranches d'âge et les tranches de genre par territoire s'additionnent au nombre de personnes, donc la nature retenue est 'votants'. Au niveau ville seulement, la somme des catégories de genre (hommes, femmes, non binaires, intersexes, sans registre) dépasse le total de 3 926 sans explication publiée, alors que par territoire genre et âge s'additionnent exactement au nombre indiqué ; ce point n'affecte pas les chiffres par territoire.",
+    "Édition 2026 : les projets sont rattachés à un territoire dans l'API (liste de projets par commune ou corregimiento) ; les votes par projet (communiqué et API) sont bien plus élevés que le nombre de votants et ne sont pas la mesure demandée.",
+    "Édition précédente 2025 : le total ville (168 156), le virtuel (153 008) et le présentiel (15 150) viennent de la page de couverture du PDF et du communiqué ; additionnés, virtuel et présentiel font 168 158, soit un écart de 2 avec le total, non expliqué par l'Alcaldía. La somme des 21 territoires du PDF fait 167 953 (virtuel 153 006, présentiel 14 947) : il manque 203 personnes par rapport au total ville, toutes dans le présentiel, sans doute des votes présentiels non rattachés à un territoire. Les valeurs par territoire sont celles du PDF, non ajustées. Pour comparer 2026 et 2025 territoire par territoire, utiliser les valeurs par territoire des deux éditions, pas le total ville de 2025.",
+    "Édition précédente 2025 : le communiqué emploie 'personas' pour le virtuel mais 'votos presenciales' pour le présentiel. Comme l'identité est vérifiée par biométrie (deuxième année en 2025), les deux sont traités comme des votants ; le contrôle quotidien (168 156 divisé par 9 jours égale la moyenne annoncée) va dans ce sens. Un résumé de recherche web mentionne une autre valeur pour Popular (25 259) dans un document antérieur, non vérifié et non retrouvé ; le PDF de résultats donne 25 383, repris par le communiqué, et c'est lui qui est retenu.",
+    "Édition précédente 2025 : dates du vote non confirmées de façon certaine. Les sources web consultées indiquent un vote virtuel de fin août à début septembre 2025 et une journée présentielle autour du 7 septembre 2025, avec résultats annoncés le 8 septembre et communiqué du 9 septembre 2025. À ne pas citer comme définitif.",
+    "Édition 2024 (pour mémoire, ville entière seulement, non détaillée par territoire) : 96 528 votants selon le communiqué 2025, dont 75 881 en virtuel.",
+    "Ne pas confondre : en 2026 le vote a eu lieu en septembre 2026 pour une exécution en 2027 (la presse l'appelle 'Presupuesto Participativo 2026') ; l'édition précédente a eu lieu en 2025 pour une exécution en 2026."
+  ]
+}
