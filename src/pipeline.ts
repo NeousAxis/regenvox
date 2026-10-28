@@ -32,7 +32,7 @@ export const ETAPES: EtapeDef[] = [
 ];
 
 export interface Suivi {
-  etape?: (cle: string, etat: "en_cours" | "fait" | "saute") => void;
+  etape?: (cle: string, etat: "a_faire" | "en_cours" | "fait" | "saute") => void;
   usage?: (u: ReponseModele) => void;
   signal?: AbortSignal;
   parallele?: number;
@@ -92,7 +92,8 @@ async function etapeModele(runId: string, step: StepName, appel: Appel, s: Suivi
       journal(runId, { event: "appel_api", step, item: r.item, modele: res.modele, tokens_entree: res.tokens_entree, tokens_sortie: res.tokens_sortie, duree_ms: Date.now() - debut });
       s.usage?.(res);
     }, s.signal);
-    cmdIngest(runId, step);
+    // Le Gardien renvoie une étape précédente : executerTest y retourne avant de revenir à celle-ci.
+    if (cmdIngest(runId, step).renvoi) return;
   }
 }
 
@@ -108,6 +109,10 @@ export async function executerTest(caseId: string, runId: string, appel: Appel, 
     if (e.cle === "panel") cmdPanel(runId);
     else if (e.cle === "simulate") cmdSimulate(runId);
     else await etapeModele(runId, e.modele!, appel, s);
+    if (!etapeFaite(runId, e) && ETAPES.slice(0, ETAPES.indexOf(e)).some((x) => active(runId, x) && !etapeFaite(runId, x))) {
+      s.etape?.(e.cle, "a_faire");
+      continue;
+    }
     if (!etapeFaite(runId, e)) throw new Error(`L'étape « ${e.libelle} » n'a pas abouti après plusieurs essais : réponses du modèle refusées par les contrôles.`);
     s.etape?.(e.cle, "fait");
   }

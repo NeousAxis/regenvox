@@ -1,6 +1,7 @@
 // Essai de la tolérance du moteur (sans appel payant, en rejouant le run-002) :
 // 1. une réponse de participation qui contredit sans cesse l'engagement déclaré est ramenée au seuil, et le rapport le dit ;
 // 2. un test arrêté sur une étape bloquée reprend avec « Réessayer » : les éléments bloqués retrouvent leurs essais.
+// 3. un renvoi du contrôle final fait refaire l'analyse des groupes et la critique, deux fois au plus.
 // Usage : npx tsx scripts/essai_tolerance.ts
 import assert from "node:assert/strict";
 import fs from "node:fs";
@@ -40,7 +41,7 @@ fs.rmSync(dossierCas, { recursive: true, force: true });
 fs.cpSync(path.join(ROOT, "cases", "vuadens-bio"), dossierCas, { recursive: true });
 const cas = readJson<any>(path.join(dossierCas, "case.json"));
 fs.writeFileSync(path.join(dossierCas, "case.json"), JSON.stringify({ ...cas, id: CAS, plateforme: true, organisation: { type: "commune", nom: "Commune de Vuadens (essai)" } }, null, 2));
-const runs = ["essai-tolerance-1", "essai-tolerance-2"];
+const runs = ["essai-tolerance-1", "essai-tolerance-2", "essai-tolerance-3", "essai-tolerance-4"];
 try {
   // 1. Correction au seuil au troisième refus.
   // Le rapport rejoué du run-002 cite les anciens chiffres : seule la rédaction peut échouer ici, après la correction.
@@ -67,6 +68,30 @@ try {
   await executerTest(CAS, runs[1], appel as any, { parallele: 8 });
   assert.ok(fs.existsSync(okPath(runs[1], "mobilisation", "p02")), "p02 validé après la reprise");
   assert.ok(fs.existsSync(path.join(runDir(runs[1]), "metrics.json")), "le test va jusqu'au bout");
+
+  // 3. Le contrôle final renvoie l'analyse des groupes une fois (cas réel du 28.10.2026) : analyse, critique et contrôle sont refaits.
+  const refus = { ...readJson<any>(okPath(SOURCE, "gardien-final", "main")), decision: "reject", corrections_demandees: ["Le levier du segment Porteurs impose un chemin au terrain."] };
+  const essai = async (runId: string, refuser: (n: number) => boolean) => {
+    const appels: Record<string, number> = {};
+    let consigne = false;
+    await executerTest(CAS, runId, async (r: any) => {
+      appels[r.step] = (appels[r.step] ?? 0) + 1;
+      if (r.step === "sociologue" && appels.sociologue > 1) consigne ||= r.user.includes("Gardien de la méthode : Le levier du segment Porteurs");
+      const v = r.step === "gardien-final" && refuser(appels["gardien-final"]) ? refus : rejeu(r);
+      return { texte: JSON.stringify(v), tokens_entree: 0, tokens_sortie: 0 };
+    }, { parallele: 8 });
+    return { appels, consigne };
+  };
+  const un = await essai(runs[2], (n) => n === 1);
+  assert.deepEqual([un.appels.sociologue, un.appels.contradicteur, un.appels["gardien-final"], un.appels.traducteur], [2, 2, 2, 1]);
+  assert.ok(un.consigne, "la correction du Gardien est transmise à l'analyse refaite");
+  assert.equal(readJson<any>(okPath(runs[2], "gardien-final", "main")).decision, "accept");
+
+  // 4. Le contrôle final refuse toujours : deux reprises, puis ses réserves sont publiées et le rapport est rédigé.
+  const toujours = await essai(runs[3], () => true);
+  assert.deepEqual([toujours.appels.sociologue, toujours.appels.contradicteur, toujours.appels["gardien-final"], toujours.appels.traducteur], [3, 3, 3, 1]);
+  const m4 = readJson<any>(path.join(runDir(runs[3]), "metrics.json"));
+  assert.ok(m4.hypotheses.some((h: string) => h.startsWith("Contrôle de méthode final : réserves maintenues après 2 reprises")), "réserves publiées");
   console.log("essai tolérance : tout est conforme");
 } finally {
   for (const r of runs) fs.rmSync(runDir(r), { recursive: true, force: true });

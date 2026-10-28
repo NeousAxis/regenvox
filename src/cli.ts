@@ -276,6 +276,21 @@ function adminFor(runId: string, step: StepName, item: string, value: any): stri
 }
 
 // Après un arrêt (bouton « Réessayer » de la plateforme) : les éléments bloqués d'une étape retrouvent leurs essais.
+// Nombre de fois qu'un Gardien peut renvoyer une étape avant que ses réserves ne soient simplement publiées.
+const MAX_RENVOIS = 2;
+
+// Note publiée dans les hypothèses du rapport : dans metrics.json si la propagation est faite, sinon avec celles du panel.
+function ajouterHypothese(runId: string, note: string) {
+  const fm = path.join(runDir(runId), "metrics.json");
+  if (exists(fm)) {
+    const metrics = readJson<any>(fm);
+    writeJson(fm, { ...metrics, hypotheses: [...(metrics.hypotheses ?? []), note] });
+    return;
+  }
+  const fp = path.join(runDir(runId), "panel_hypotheses.json");
+  writeJson(fp, [...readJson<string[]>(fp), note]);
+}
+
 export function cmdRelancer(runId: string, step: StepName) {
   const m = loadManifest(runId);
   let n = 0;
@@ -293,7 +308,7 @@ export function cmdRelancer(runId: string, step: StepName) {
 
 export function cmdIngest(runId: string, step: StepName) {
   const m = loadManifest(runId);
-  const summary = { valides: [] as string[], rejetes: [] as { item: string; erreurs: string[] }[], manquants: [] as string[] };
+  const summary = { valides: [] as string[], rejetes: [] as { item: string; erreurs: string[] }[], manquants: [] as string[], renvoi: undefined as StepName | undefined };
   for (const item of items(runId, step)) {
     if (exists(okPath(runId, step, item))) continue;
     const key = `${step}/${item}`;
@@ -326,10 +341,7 @@ export function cmdIngest(runId: string, step: StepName) {
           if (r && adminFor(runId, step, item, r.valeur).length === 0) {
             value = r.valeur;
             errors = [];
-            const fm = path.join(runDir(runId), "metrics.json");
-            const metrics = readJson<any>(fm);
-            metrics.hypotheses = [...(metrics.hypotheses ?? []), `Analyse des groupes : ${r.retires.length} groupe${r.retires.length > 1 ? "s" : ""} retiré${r.retires.length > 1 ? "s" : ""} (${r.retires.join(", ")}), faute d'une citation exacte des habitants simulés après trois essais.`];
-            writeJson(fm, metrics);
+            ajouterHypothese(runId, `Analyse des groupes : ${r.retires.length} groupe${r.retires.length > 1 ? "s" : ""} retiré${r.retires.length > 1 ? "s" : ""} (${r.retires.join(", ")}), faute d'une citation exacte des habitants simulés après trois essais.`);
             journal(runId, { event: "segments_retires", step, item, retires: r.retires });
           }
         }
@@ -351,7 +363,9 @@ export function cmdIngest(runId: string, step: StepName) {
       }
     }
     if (errors.length) {
-      writeJson(errorsPath(runId, step, item), errors);
+      // Les corrections demandées par le Gardien restent jointes tant que l'étape renvoyée n'est pas acceptée.
+      const gardien = exists(errorsPath(runId, step, item)) ? readJson<string[]>(errorsPath(runId, step, item)).filter((e) => e.startsWith("Gardien de la méthode")) : [];
+      writeJson(errorsPath(runId, step, item), [...gardien, ...errors]);
       summary.rejetes.push({ item, erreurs: errors });
       journal(runId, { event: "admin_reject", step, item, attempt: m.attempts[key], errors });
       continue;
@@ -359,14 +373,32 @@ export function cmdIngest(runId: string, step: StepName) {
     writeJson(okPath(runId, step, item), value);
     journal(runId, { event: "admin_accept", step, item, attempt: m.attempts[key] });
     summary.valides.push(item);
-    // Le Gardien peut rejeter le travail d'un autre agent : on renvoie alors cet agent avec les corrections.
+    // Une nouvelle analyse des groupes rend caduque la critique faite sur l'ancienne.
+    if (step === "sociologue" && exists(okPath(runId, "contradicteur", "main"))) {
+      fs.rmSync(okPath(runId, "contradicteur", "main"));
+      m.attempts["contradicteur/main"] = 0;
+      journal(runId, { event: "critique_a_refaire", step: "contradicteur" });
+    }
+    // Le Gardien peut rejeter le travail d'un autre agent : on renvoie alors cet agent avec les corrections, deux fois au plus.
+    // Au-delà, son dernier verdict est gardé et ses réserves sont publiées dans les hypothèses du rapport.
     if ((step === "gardien-angles" || step === "gardien-final") && (value as GardienOut).decision === "reject") {
       const target: StepName = step === "gardien-angles" ? "formulateur" : "sociologue";
-      fs.rmSync(okPath(runId, target, "main"));
-      fs.rmSync(okPath(runId, step, "main"));
-      writeJson(errorsPath(runId, target, "main"), (value as GardienOut).corrections_demandees.map((x) => "Gardien de la méthode : " + x));
-      journal(runId, { event: "gardien_reject", step, target, corrections: (value as GardienOut).corrections_demandees });
-      console.log(`Gardien : REJET de ${target}, à relancer avec les corrections.`);
+      const corrections = (value as GardienOut).corrections_demandees;
+      const renvois = m.attempts[`${step}/renvois`] ?? 0;
+      if (renvois < MAX_RENVOIS) {
+        m.attempts[`${step}/renvois`] = renvois + 1;
+        m.attempts[`${target}/main`] = 0;
+        m.attempts[key] = 0;
+        fs.rmSync(okPath(runId, target, "main"));
+        fs.rmSync(okPath(runId, step, "main"));
+        writeJson(errorsPath(runId, target, "main"), corrections.map((x) => "Gardien de la méthode : " + x));
+        journal(runId, { event: "gardien_reject", step, target, corrections });
+        summary.renvoi = target;
+        console.log(`Gardien : REJET de ${target}, à relancer avec les corrections.`);
+      } else {
+        ajouterHypothese(runId, `Contrôle de méthode ${step === "gardien-angles" ? "des formulations" : "final"} : réserves maintenues après ${MAX_RENVOIS} reprises${corrections.length ? ` (${corrections.join(" ; ")})` : ""}.`);
+        journal(runId, { event: "gardien_reserves", step, target, corrections });
+      }
     }
   }
   saveManifest(m);
