@@ -10,6 +10,28 @@ export interface EstimationParticipants {
   par_formulation: { angle_id: number; formats: Record<string, number | null> }[];
   fiabilite: typeof CALIBRATION.demarches;
   fiabilite_petitions: typeof CALIBRATION.petitions;
+  fiabilite_en_clair: string;
+}
+
+const nf = (x: number) => x.toLocaleString("fr-CH");
+const surDix = (k: number, n: number) => (k * 2 === n ? "une fois sur deux" : `environ ${Math.round((k / n) * 10)} fois sur 10`);
+
+// La fiabilité dite en mots simples, pour le rapport et pour le Traducteur, qui la reprend telle quelle.
+export function fiabiliteEnClair(d = CALIBRATION.demarches, p = CALIBRATION.petitions): string {
+  const sous = d.n - d.surestimations;
+  const sens =
+    Math.abs(d.surestimations - sous) <= d.n / 4
+      ? `à peu près aussi souvent en trop (${d.surestimations} fois) qu'en moins (${sous} fois)`
+      : d.surestimations > sous
+        ? `plus souvent en trop (${d.surestimations} fois) qu'en moins (${sous} fois)`
+        : `plus souvent en moins (${sous} fois) qu'en trop (${d.surestimations} fois)`;
+  return [
+    `Ce chiffre est-il fiable ? Nous avons testé cette estimation sur ${d.n} vraies démarches participatives déjà terminées (Lausanne, Genève, Medellín), sans lui montrer le résultat.`,
+    `Dans ${d.dans_un_facteur_2} cas sur ${d.n}, soit ${surDix(d.dans_un_facteur_2, d.n)}, le vrai nombre de participants était dans la fourchette affichée, c'est-à-dire entre la moitié et le double du chiffre annoncé (pour 100 annoncés, entre 50 et 200).`,
+    `Les autres fois, l'écart a été plus grand. Le pire cas : ${nf(d.pire_cas.estime)} participants annoncés, ${nf(d.pire_cas.reel)} venus.`,
+    `L'estimation se trompe ${sens}.`,
+    `Pour une pétition ou une collecte de signatures, elle est moins sûre : le vrai chiffre n'était dans la fourchette que dans ${p.dans_un_facteur_2} cas sur ${p.n}, soit ${surDix(p.dans_un_facteur_2, p.n)}.`,
+  ].join(" ");
 }
 
 export function estimationParticipants(runId: string): EstimationParticipants | null {
@@ -27,5 +49,5 @@ export function estimationParticipants(runId: string): EstimationParticipants | 
       return [f.format, p0 > 0 && p != null ? Math.round((f.participants * p) / p0) : null];
     })),
   }));
-  return { formats, par_formulation, fiabilite: CALIBRATION.demarches, fiabilite_petitions: CALIBRATION.petitions };
+  return { formats, par_formulation, fiabilite: CALIBRATION.demarches, fiabilite_petitions: CALIBRATION.petitions, fiabilite_en_clair: fiabiliteEnClair() };
 }

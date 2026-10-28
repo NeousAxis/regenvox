@@ -13,6 +13,7 @@ export default function Fiabilite() {
   const d = CALIBRATION.demarches
   const p = CALIBRATION.petitions
   const n = (x: number) => (lang === 'fr' ? String(x).replace('.', ',') : String(x))
+  const entier = (x: number) => x.toLocaleString(lang === 'fr' ? 'fr-CH' : 'en-GB')
   const vars = {
     n: d.n,
     median: n(d.facteur_median),
@@ -20,6 +21,12 @@ export default function Fiabilite() {
     dans3: d.dans_un_facteur_3,
     max: n(Math.round(d.facteur_max * 10) / 10),
     sur: d.surestimations,
+    sous: d.n - d.surestimations,
+    ecart: Math.round((d.facteur_median - 1) * 10) * 10,
+    pire_estime: entier(d.pire_cas.estime),
+    pire_reel: entier(d.pire_cas.reel),
+    ppire_estime: entier(p.pire_cas.estime),
+    ppire_reel: entier(p.pire_cas.reel),
     pn: p.n,
     pdans2: p.dans_un_facteur_2,
     pdans3: p.dans_un_facteur_3,

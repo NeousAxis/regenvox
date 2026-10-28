@@ -14,7 +14,9 @@ function mesure(cas: [number, number][], sources: string[]) {
   const f = cas.map(([p, r]) => facteur(p, r)).sort((a, b) => a - b);
   const n = f.length;
   const mediane = n % 2 ? f[(n - 1) / 2] : (f[n / 2 - 1] + f[n / 2]) / 2;
-  return { n, facteur_median: r2(mediane), dans_un_facteur_2: f.filter((x) => x <= 2).length, dans_un_facteur_3: f.filter((x) => x <= 3).length, facteur_max: r2(f[n - 1]), surestimations: cas.filter(([p, r]) => p > r).length, sources };
+  // Le pire cas, avec son sens (estimé, réel) : plus parlant pour le lecteur qu'un facteur.
+  const [estime, reel] = cas.reduce((a, b) => (facteur(b[0], b[1]) > facteur(a[0], a[1]) ? b : a));
+  return { n, facteur_median: r2(mediane), dans_un_facteur_2: f.filter((x) => x <= 2).length, dans_un_facteur_3: f.filter((x) => x <= 3).length, facteur_max: r2(f[n - 1]), pire_cas: { estime, reel }, surestimations: cas.filter(([p, r]) => p > r).length, sources };
 }
 
 const geneve = T("geneve_bilan.json").map((l: any) => [l.participants_modele_seul, l.reel]);
