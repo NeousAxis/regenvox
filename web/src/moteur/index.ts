@@ -32,6 +32,7 @@ export interface Moteur {
   creer(p: ParametresTest): Projet; // projet initial, étapes à faire, rien n'est lancé
   executer(projet: Projet, cle: CleApi, suivi: (p: Projet) => void, signal?: AbortSignal): Promise<Projet>; // lance ou reprend ; appelle suivi à chaque changement
   verifierCle(cle: CleApi): Promise<{ ok: boolean; message?: string; modeles?: string[] }>; // modeles : liste du service, pour « autre »
+  rendreRapport?(projet: Projet): string | null; // rapport d'un test terminé remis en page avec la version actuelle, sans appel à l'IA
 }
 
 import { moteurMaquette } from "./maquette";

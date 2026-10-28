@@ -1,9 +1,10 @@
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
 import { telechargerProjet } from '../stockage'
 import { useTitre } from '../titre'
 import { useProjet } from '../useProjet'
+import { moteur } from '../moteur'
 import { prospectiveExploitable } from '../consultation/simulation'
 
 // Le rapport est affiché dans un cadre isolé : aucun script du rapport ne s'exécute
@@ -17,6 +18,8 @@ export default function Rapport() {
   const { projet, stockageEchec } = useProjet(id)
   const cadre = useRef<HTMLIFrameElement>(null)
   const [hauteur, setHauteur] = useState<number | null>(null)
+  // Rapport remis en page avec la version actuelle du moteur ; à défaut, celui enregistré à la fin du test.
+  const html = useMemo(() => (projet ? (moteur.rendreRapport?.(projet) ?? projet.rapport_html) : undefined), [projet])
 
   useTitre(projet ? t('rapport.pour', { organisation: projet.parametres.organisation.nom }) : t('rapport.titre'))
 
@@ -57,7 +60,7 @@ export default function Rapport() {
       window.removeEventListener('resize', mesurer)
       observateur?.disconnect()
     }
-  }, [mesurer, projet?.rapport_html])
+  }, [mesurer, html])
 
   function imprimer() {
     try {
@@ -136,7 +139,7 @@ export default function Rapport() {
         <iframe
           ref={cadre}
           title={t('rapport.cadre')}
-          srcDoc={projet.rapport_html}
+          srcDoc={html}
           sandbox={SANDBOX}
           className="block w-full border-0"
           style={{ height: hauteur ? `${hauteur}px` : '80vh', minHeight: '60vh' }}

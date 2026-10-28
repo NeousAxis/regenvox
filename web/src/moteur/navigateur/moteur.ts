@@ -86,6 +86,9 @@ function clientMistral(cle: string): ClientMistral {
 
 // Seuls les fichiers utiles à la reprise et au rapport sont gardés : les requêtes et réponses brutes se régénèrent.
 const garder = (k: string) => !/\/(requests|responses)\//.test(k);
+// Un test tourne dans cet onglet : le système de fichiers en mémoire lui appartient.
+let occupe = false;
+
 function instantane(): Record<string, string> {
   const tout = memoire.exporter(RACINE);
   return Object.fromEntries(Object.entries(tout).filter(([k]) => garder(k) && k !== "fournisseurs.json"));
@@ -116,6 +119,7 @@ export const moteurNavigateur: Moteur = {
       pr = { ...pr, ...x };
       suivi(pr);
     };
+    occupe = true;
     memoire.vider();
     memoire.writeFileSync(`${RACINE}/fournisseurs.json`, JSON.stringify(fournisseurs));
     memoire.importer(RACINE, pr.fichiers);
@@ -155,7 +159,24 @@ export const moteurNavigateur: Moteur = {
         fichiers: instantane(),
       });
     }
+    occupe = false;
     return pr;
+  },
+
+  // Remet en page le rapport d'un test terminé à partir des fichiers gardés dans le projet : les corrections
+  // de mise en page profitent aux anciens rapports, sans appel à l'IA. Les textes rédigés par l'IA ne changent pas.
+  rendreRapport(projet: Projet): string | null {
+    if (occupe || projet.etat !== "termine" || !projet.rapport_html) return null;
+    try {
+      memoire.vider();
+      memoire.importer(RACINE, projet.fichiers);
+      const date = projet.rapport_html.match(/test de démarche du ([0-9.]+)/)?.[1] ?? new Date(projet.cree_le).toLocaleDateString("fr-CH");
+      return renderRapportPlateforme(projet.id, { organisation: projet.parametres.organisation.nom, date });
+    } catch {
+      return null;
+    } finally {
+      memoire.vider();
+    }
   },
 
   async verifierCle(cle: CleApi) {
