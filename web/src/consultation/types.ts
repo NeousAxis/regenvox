@@ -91,6 +91,7 @@ export interface Synthese {
   critique: CritiqueReelle
   redaction: RedactionReelle
   usage: { tokens_entree: number; tokens_sortie: number }
+  modele?: string // fournisseur ou modèle qui a rédigé, cité dans la méthode du rapport
 }
 
 // Ce que l'initiateur garde sur son appareil (IndexedDB). La clé privée y est rangée non exportable.

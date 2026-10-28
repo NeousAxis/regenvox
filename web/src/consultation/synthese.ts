@@ -64,14 +64,14 @@ ${JSON_SEUL}
 Format : {"segments": [{"nom": string, "position_dominante": "porteur"|"interesse"|"indifferent"|"reticent"|"opposant", "objection_citee": string, "reponse_source": "R001", "racine": string, "levier": string}], "freins_participation": [{"frein": string, "nombre": number, "levier": string}], "themes": [{"question_id": string, "themes": [{"theme": string, "nombre": number, "citation": string}]}], "ecarts_avec_simulation": [string], "surprises": [string]}`
 
 const systemeCritique = (q: Questionnaire) => `Tu es le Contradicteur du moteur RegenVox. Tu relis la lecture des réponses d'une vraie consultation et tu cherches ce qui pourrait tromper le décideur.
-Vérifie en particulier : qui a répondu et qui manque (comparé à la population), l'effet d'autosélection (les personnes déjà intéressées répondent plus), les petits effectifs, la sur-interprétation d'un écart avec la simulation, les questions qui orientaient la réponse, et les données elles-mêmes.
+Avant d'écrire une comparaison chiffrée, relis les deux nombres concernés dans les chiffres fournis (part réelle et part simulée de la même ligne) : une attaque fausse sur les chiffres décrédibilise toute la relecture. Une catégorie marquée personne_n_a_repondu ne dit rien de qui manque.\nVérifie en particulier : qui a répondu et qui manque (comparé à la population), l'effet d'autosélection (les personnes déjà intéressées répondent plus), les petits effectifs, la sur-interprétation d'un écart avec la simulation, les questions qui orientaient la réponse, et les données elles-mêmes.
 Chaque attaque nomme sa cible (lecture, representativite, comparaison, questions, donnees), explique la critique et son impact sur les décisions. Termine par les notes à faire figurer dans le rapport.
 ${langueSortie(q)}
 ${JSON_SEUL}
 Format : {"attaques": [{"cible": string, "critique": string, "impact": string}], "notes_pour_rapport": [string]}`
 
 const systemeRedaction = (q: Questionnaire) => `Tu es le Traducteur du moteur RegenVox. Tu écris la synthèse d'une vraie consultation pour ${q.organisation.nom}, à partir du seul dossier fourni.
-Écris pour des personnes qui décident, sans jargon. Donne les chiffres du dossier tels quels, sans en inventer. Distingue ce que les gens ont dit de ce que l'on en déduit. Reprends les limites signalées par la relecture critique. Ne présente jamais une piste comme une décision : les chemins restent à construire avec les personnes.
+Écris pour des personnes qui décident, sans jargon. Donne les chiffres du dossier tels quels, sans en inventer, et sans superlatifs (« plébiscité », « écrasant ») : le chiffre suffit. Une catégorie marquée personne_n_a_repondu ne permet de rien dire sur ce groupe. Distingue ce que les gens ont dit de ce que l'on en déduit. Reprends les limites signalées par la relecture critique. Ne présente jamais une piste comme une décision : les chemins restent à construire avec les personnes.
 N'utilise jamais de tiret pour séparer des idées : une virgule, deux points ou une nouvelle phrase.
 Structure : un titre, une synthèse de quelques phrases, puis 3 à 9 sections (par exemple : qui a répondu, l'accueil de la démarche, ce qui retient et ce qui ferait venir, les réponses aux questions, ce que la simulation avait vu ou manqué, les limites, les suites possibles).
 ${langueSortie(q)}
@@ -162,7 +162,8 @@ function chiffres(a: Analyse) {
     engagement: a.engagement.map((e) => ({ niveau: e.option, personnes: e.n, part_reelle_pct: pct(e.part), part_simulee_pct: pct(e.part_reference) })),
     format_prefere: a.formats.map((f) => ({ format: f.option, personnes: f.n, part_reelle_pct: pct(f.part), part_simulee_pct: pct(f.part_reference) })),
     // Mêmes tableaux que le rapport : les petits groupes y sont réunis, l'IA ne voit aucun groupe de moins de 5 personnes.
-    qui_a_repondu: publier(a).map((c) => ({ categorie: c.cle, lignes: c.lignes.map((l) => ({ valeurs: l.autres ? `réunis : ${l.options.map((o) => o || 'sans réponse').join(', ')}` : l.options[0], personnes: l.n, part_dans_la_population_pct: pct(l.part_reference) })) })),
+    // Une catégorie à laquelle personne n'a répondu est signalée comme telle : sinon ses zéros se lisent comme des absences.
+    qui_a_repondu: publier(a).map((c) => a.n > 0 && a.categories.find((x) => x.cle === c.cle)?.sans_reponse === a.n ? { categorie: c.cle, personne_n_a_repondu: true } : ({ categorie: c.cle, lignes: c.lignes.map((l) => ({ valeurs: l.autres ? `réunis : ${l.options.map((o) => o || 'sans réponse').join(', ')}` : l.options[0], personnes: l.n, part_dans_la_population_pct: pct(l.part_reference) })) })),
     score_par_categorie: publier(a).map((c) => ({ categorie: c.cle, lignes: c.scores.map((l) => ({ valeurs: l.autres ? `réunis : ${l.options.map((o) => o || 'sans réponse').join(', ')}` : l.options[0], personnes: l.n, reel: l.reel, simule: l.simule })) })),
     questions_fermees: a.questions.filter((x) => x.type !== 'texte').map((x) => ({ id: x.id, intitule: x.intitule, repondants: x.n, options: x.options?.map((o) => ({ option: o.option, personnes: o.n })), distribution_1_a_5: x.distribution, moyenne: x.moyenne })),
   }

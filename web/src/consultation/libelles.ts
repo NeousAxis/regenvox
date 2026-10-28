@@ -107,6 +107,12 @@ const en: Libelles = {
 
 export const LIBELLES: Record<Langue, Libelles> = { fr, en }
 
+// Racines des objections, telles que les nomme la lecture (src/schemas.ts).
+export const RACINES: Record<Langue, Record<string, string>> = {
+  fr: { economique: 'économique', culturelle: 'culturelle', pratique: 'pratique', identitaire: 'identitaire', politique: 'politique', information: "manque d'information" },
+  en: { economique: 'economic', culturelle: 'cultural', pratique: 'practical', identitaire: 'identity', politique: 'political', information: 'lack of information' },
+}
+
 // Ce qui remplace les coordonnées retirées des textes libres.
 export const MASQUAGE: Record<Langue, { adresse: string; lien: string; numero: string }> = {
   fr: { adresse: '[adresse retirée]', lien: '[lien retiré]', numero: '[numéro retiré]' },

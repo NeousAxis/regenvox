@@ -1,6 +1,6 @@
 // Rapport d'une consultation réelle : la synthèse, les chiffres comparés à la simulation, puis toutes les données
 // brutes rendues anonymes. Un seul document, autonome, à imprimer ou à enregistrer en PDF.
-import { LIBELLES, libelleValeur } from './libelles'
+import { LIBELLES, RACINES, libelleValeur } from './libelles'
 import { MASQUE, SEUIL_ANONYMAT, publier, versCsv } from './analyse'
 import type { Analyse, LigneAnonyme, LigneComptage } from './analyse'
 import type { CleCategorie, Questionnaire, RepereSimulation, Synthese } from './types'
@@ -42,6 +42,7 @@ const T = {
     population: 'Population',
     moinsDe: `moins de ${SEUIL_ANONYMAT}`,
     sansReponse: 'Sans réponse',
+    personneNaRepondu: "Personne n'a répondu à cette question : on ne sait rien de cette catégorie.",
     parCategorie: 'Soutien par catégorie, réel et simulé',
     parCategorieAide: `Score moyen de soutien. Les groupes de moins de ${SEUIL_ANONYMAT} personnes sont réunis, de la même manière.`,
     questions: "Réponses aux questions de l'organisateur",
@@ -100,6 +101,7 @@ const T = {
     population: 'Population',
     moinsDe: `fewer than ${SEUIL_ANONYMAT}`,
     sansReponse: 'No answer',
+    personneNaRepondu: 'Nobody answered this question: nothing is known about this category.',
     parCategorie: 'Support by category, real and simulated',
     parCategorieAide: `Average support score. Groups of fewer than ${SEUIL_ANONYMAT} people are combined in the same way.`,
     questions: "Answers to the organiser's questions",
@@ -164,6 +166,9 @@ export function rapportConsultation(e: Entree): string {
     l.autres ? t.autres(l.options.filter(Boolean).map((o) => libelleValeur(q.langue, cle, o)), l.options.includes('')) : libelleValeur(q.langue, cle, l.options[0])
   const qui = publiees
     .map((c) => {
+      if (a.n > 0 && a.categories.find((x) => x.cle === c.cle)?.sans_reponse === a.n) {
+        return `<h3>${echapper(L.categorieCourt[c.cle])}</h3><p class="discret">${t.personneNaRepondu}</p>`
+      }
       const lignesC = c.lignes
         .map((l) => `<tr${l.autres ? ' class="discret"' : ''}><th scope="row">${echapper(nomLigne(c.cle, l))}</th><td>${l.n}</td><td>${pct(l.part)}</td><td>${pct(l.part_reference)}</td></tr>`)
         .join('')
@@ -193,7 +198,7 @@ export function rapportConsultation(e: Entree): string {
   const lecture = s
     ? `<h2>${t.lecture}</h2>
 <h3>${t.segments}</h3>${s.lecture.segments
-        .map((g) => `<div class="carte"><p class="titre-carte">${echapper(g.nom)} <span class="discret">(${echapper(L.positionCourt[g.position_dominante])}, ${t.racine} ${echapper(g.racine)})</span></p><blockquote>${citer(g.objection_citee)} <span class="discret">${t.source} ${echapper(g.reponse_source)}</span></blockquote><p><strong>${t.levier} :</strong> ${echapper(g.levier)}</p></div>`)
+        .map((g) => `<div class="carte"><p class="titre-carte">${echapper(g.nom)} <span class="discret">(${echapper(L.positionCourt[g.position_dominante])}, ${t.racine} ${echapper(RACINES[q.langue][g.racine] ?? g.racine)})</span></p><blockquote>${citer(g.objection_citee)} <span class="discret">${t.source} ${echapper(g.reponse_source)}</span></blockquote><p><strong>${t.levier} :</strong> ${echapper(g.levier)}</p></div>`)
         .join('')}
 ${s.lecture.freins_participation.length ? `<h3>${t.freins}</h3><ul>${s.lecture.freins_participation.map((f) => `<li>${echapper(f.frein)} (${f.nombre}). <em>${echapper(f.levier)}</em></li>`).join('')}</ul>` : ''}
 ${s.lecture.themes.filter((x) => x.themes.length).map((th) => `<h3>${t.themes} : ${echapper(parId.get(th.question_id)?.intitule ?? th.question_id)}</h3><ul>${th.themes.map((x) => `<li><strong>${echapper(x.theme)}</strong> (${x.nombre})${q.langue === 'fr' ? '\u00a0:' : ':'} ${citer(x.citation)}</li>`).join('')}</ul>`).join('')}

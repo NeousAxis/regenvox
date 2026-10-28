@@ -113,7 +113,8 @@ export default function Consultation() {
       synthese,
       lignes: x.lignes_anonymes ?? [],
       cases_masquees: x.cases_masquees ?? 0,
-      modele,
+      // Le nom de l'IA est gardé avec la synthèse : un rapport refait plus tard le cite toujours.
+      modele: modele ?? synthese?.modele,
     })
   }
 
@@ -145,8 +146,9 @@ export default function Consultation() {
     try {
       const ctx = { q: c.questionnaire, sim: c.simulation, analyse: analyser(c.questionnaire, c.reponses, c.simulation), lignes: c.lignes_anonymes }
       const s = MAQUETTE ? syntheseMaquette(ctx) : await synthetiser(ctx, await appelPourSynthese(cle!), setEtape, controleur.current.signal)
-      const modele = MAQUETTE ? undefined : cle!.fournisseur === 'autre' ? cle!.modeles?.analyse : cle!.fournisseur
-      await sauver({ ...c, synthese: s, rapport_html: html(c, s, modele) })
+      const modele = MAQUETTE ? undefined : cle!.fournisseur === 'autre' ? cle!.modeles?.analyse : { anthropic: 'Anthropic', mistral: 'Mistral AI', openai: 'OpenAI' }[cle!.fournisseur]
+      const sm = { ...s, modele }
+      await sauver({ ...c, synthese: sm, rapport_html: html(c, sm, modele) })
       setMessage({ type: 'ok', texte: t('cons.synthese.ok') })
     } catch (e) {
       setMessage({ type: 'erreur', texte: erreurTexte(e) })
@@ -331,7 +333,7 @@ export default function Consultation() {
               </button>
               {occupe === 'synthese' && (
                 <button type="button" className="btn btn-danger btn-petit" onClick={() => controleur.current?.abort()}>
-                  {t('suivi.interrompre')}
+                  {t('cons.synthese.interrompre')}
                 </button>
               )}
             </div>
