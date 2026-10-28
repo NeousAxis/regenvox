@@ -312,7 +312,27 @@ export function cmdIngest(runId: string, step: StepName) {
       if (!z.success) errors = z.error.issues.map((i) => `Format : ${i.path.join(".")} : ${i.message}`);
       else {
         value = z.data;
+        // Réparations sans perte de sens : citations rendues exactes, tirets séparateurs remplacés.
+        if (step === "sociologue") {
+          const r = A.reparerCitations(value as SociologueOut, loadPersonasWithControl(runId));
+          value = r.valeur;
+          if (r.reparations.length) journal(runId, { event: "citations_reparees", step, item, reparations: r.reparations });
+        }
+        if (step === "traducteur") value = A.sansTiretsSeparateurs(value as TraducteurOut);
         errors = adminFor(runId, step, item, value);
+        // Au dernier essai, les segments du Sociologue sans citation exacte sont retirés (s'il en reste deux), et c'est dit.
+        if (errors.length && step === "sociologue" && m.attempts[key] >= m.maxAttempts) {
+          const r = A.retirerSegmentsIntrouvables(value as SociologueOut, loadPersonasWithControl(runId));
+          if (r && adminFor(runId, step, item, r.valeur).length === 0) {
+            value = r.valeur;
+            errors = [];
+            const fm = path.join(runDir(runId), "metrics.json");
+            const metrics = readJson<any>(fm);
+            metrics.hypotheses = [...(metrics.hypotheses ?? []), `Analyse des groupes : ${r.retires.length} groupe${r.retires.length > 1 ? "s" : ""} retiré${r.retires.length > 1 ? "s" : ""} (${r.retires.join(", ")}), faute d'une citation exacte des habitants simulés après trois essais.`];
+            writeJson(fm, metrics);
+            journal(runId, { event: "segments_retires", step, item, retires: r.retires });
+          }
+        }
       }
     } catch (e: any) {
       errors = [`Réponse illisible : ${e.message}`];

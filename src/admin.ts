@@ -183,6 +183,74 @@ export function checkSociologue(o: SociologueOut, ctx: AdminContext): string[] {
   return e;
 }
 
+// Réparation des citations du Sociologue. Certains modèles citent « presque » mot pour mot (un mot ajouté, une fin
+// reformulée). On remplace alors la citation par la phrase réelle la plus proche du même habitant simulé, ou d'un autre
+// habitant du segment ; la citation publiée est ainsi toujours exacte. Rien n'est remplacé si aucune phrase n'est proche.
+const motsDe = (s: string) => new Set(norm(s).split(/[^\p{L}\p{N}]+/u).filter((w) => w.length > 2));
+const proximite = (a: Set<string>, b: Set<string>) => {
+  if (!a.size || !b.size) return 0;
+  let commun = 0;
+  for (const w of a) if (b.has(w)) commun++;
+  return (2 * commun) / (a.size + b.size);
+};
+const phrasesDe = (texte: string) => {
+  const ph = texte.split(/(?<=[.!?…])\s+/).map((x) => x.trim()).filter(Boolean);
+  return [...ph, ...ph.slice(1).map((x, i) => `${ph[i]} ${x}`)];
+};
+
+export function reparerCitations(o: SociologueOut, personas: PersonaOut[]): { valeur: SociologueOut; reparations: string[] } {
+  const byId = new Map(personas.map((p) => [p.id, p]));
+  const reparations: string[] = [];
+  const segments = o.segments.map((s) => {
+    const seg = { ...s, persona_ids: [...s.persona_ids] };
+    const exacte = (id: string) => {
+      const p = byId.get(id);
+      return !!p && (p.reactions.map((r) => norm(r.citation)).join(" | ") + " | " + norm(p.portrait)).includes(norm(seg.objection_citee));
+    };
+    if (exacte(seg.persona_source)) {
+      if (!seg.persona_ids.includes(seg.persona_source)) seg.persona_ids.push(seg.persona_source);
+      return seg;
+    }
+    const cible = motsDe(seg.objection_citee);
+    let meilleure: { id: string; phrase: string; score: number } | null = null;
+    for (const id of [seg.persona_source, ...seg.persona_ids.filter((x) => x !== seg.persona_source)]) {
+      const p = byId.get(id);
+      if (!p) continue;
+      for (const texte of p.reactions.map((r) => r.citation)) {
+        for (const phrase of phrasesDe(texte)) {
+          const score = proximite(cible, motsDe(phrase)) + (id === seg.persona_source ? 0.05 : 0);
+          if (!meilleure || score > meilleure.score) meilleure = { id, phrase, score };
+        }
+      }
+    }
+    if (meilleure && meilleure.score >= 0.5) {
+      reparations.push(`${seg.nom} : citation remplacée par les mots exacts de ${meilleure.id}`);
+      seg.objection_citee = meilleure.phrase;
+      seg.persona_source = meilleure.id;
+      if (!seg.persona_ids.includes(meilleure.id)) seg.persona_ids.push(meilleure.id);
+    }
+    return seg;
+  });
+  return { valeur: { ...o, segments }, reparations };
+}
+
+// Dernier recours : on retire les segments dont la citation reste introuvable, s'il en reste au moins deux.
+export function retirerSegmentsIntrouvables(o: SociologueOut, personas: PersonaOut[]): { valeur: SociologueOut; retires: string[] } | null {
+  const byId = new Map(personas.map((p) => [p.id, p]));
+  const garde = o.segments.filter((s) => {
+    const p = byId.get(s.persona_source);
+    return !!p && s.persona_ids.includes(s.persona_source) && (p.reactions.map((r) => norm(r.citation)).join(" | ") + " | " + norm(p.portrait)).includes(norm(s.objection_citee));
+  });
+  if (garde.length < 2 || garde.length === o.segments.length) return null;
+  return { valeur: { ...o, segments: garde }, retires: o.segments.filter((s) => !garde.includes(s)).map((s) => s.nom) };
+}
+
+// Les tirets employés comme séparateurs sont remplacés par une virgule (règle d'écriture du rapport).
+export function sansTiretsSeparateurs(o: TraducteurOut): TraducteurOut {
+  const f = (t: string) => t.replace(/\s[—–]\s|\s-\s/g, ", ");
+  return { titre: f(o.titre), synthese: f(o.synthese), sections: o.sections.map((x) => ({ titre: f(x.titre), contenu: f(x.contenu) })) };
+}
+
 export function checkContradicteur(o: ContradicteurOut): string[] {
   const e: string[] = [];
   const cibles = new Set(o.attaques.map((a) => a.cible));

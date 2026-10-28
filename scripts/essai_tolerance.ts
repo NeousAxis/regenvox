@@ -6,6 +6,7 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
 import { executerTest } from "../src/pipeline.js";
+import { reparerCitations, retirerSegmentsIntrouvables, sansTiretsSeparateurs } from "../src/admin.js";
 import { ROOT, runDir, okPath, readJson } from "../src/store.js";
 import type { StepName } from "../src/schemas.js";
 
@@ -19,6 +20,21 @@ const incoherent = () => {
   const m = readJson<any>(okPath(SOURCE, "mobilisation", "p01"));
   return { ...m, angles: m.angles.map((a: any) => (a.angle_id === 3 ? { ...a, avis_en_ligne: 0.01 } : a)) };
 };
+
+// 0. Citations « presque exactes » de Mistral (cas réel du 28.10.2026) : remplacées par les mots exacts de l'habitant.
+{
+  const persona = (id: string, citations: string[]) => ({ id, portrait: "Portrait sans importance pour cet essai, assez long.", reactions: citations.map((citation, i) => ({ angle_id: i + 1, position: "interesse", intensite: 3, citation, engagement: 1, freins_participation: [], ce_qui_me_ferait_venir: "" })), influence: { taille_cercle: 5, role: "suiveur", cercle_type: "famille" }, votes: [] }) as any;
+  const p23 = persona("p23", ["Les sols, c’est notre capital. Si on les détruit, on n’a plus rien. Mais il faut que la transition soit progressive, sinon on crève avant que ça porte ses fruits."]);
+  const p38 = persona("p38", ["Diffuser le bio dans les communes voisines ? Très bien, mais à condition que ça ne coûte pas un centime aux contribuables de Vuadens."]);
+  const seg = (nom: string, source: string, ids: string[], cite: string) => ({ nom, persona_ids: ids, position_dominante: "porteur", objection_citee: cite, persona_source: source, racine: "pratique", levier: "Un levier assez long pour le schéma." });
+  const soc: any = { angle_recommande: { angle_id: 1, justification: "x".repeat(70) }, segments: [seg("Porteurs", "p23", ["p23"], "Les sols, c’est notre capital. Si on les détruit, on n’a plus rien à cultiver."), seg("Opposants", "p38", ["p38"], "Le bio, c’est une mode qui coûte cher et qui ne sert à rien."), seg("Autres", "p23", ["p23"], "Les sols, c’est notre capital.")], freins_participation: [], ambassadeurs_potentiels: [], surprises: [] };
+  const r = reparerCitations(soc, [p23, p38]);
+  assert.equal(r.valeur.segments[0].objection_citee, "Les sols, c’est notre capital. Si on les détruit, on n’a plus rien.");
+  assert.equal(r.valeur.segments[1].objection_citee, soc.segments[1].objection_citee, "une citation inventée n'est pas remplacée");
+  const sans = retirerSegmentsIntrouvables(r.valeur, [p23, p38]);
+  assert.deepEqual(sans?.retires, ["Opposants"]);
+  assert.equal(sansTiretsSeparateurs({ titre: "Vuadens — le bio", synthese: "a – b - c", sections: [] } as any).titre, "Vuadens, le bio");
+}
 
 fs.rmSync(dossierCas, { recursive: true, force: true });
 fs.cpSync(path.join(ROOT, "cases", "vuadens-bio"), dossierCas, { recursive: true });
