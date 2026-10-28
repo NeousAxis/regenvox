@@ -4,7 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import type { StepName } from "./schemas.js";
-import { cmdInit, cmdPanel, cmdPrepare, cmdIngest, cmdSimulate, items } from "./cli.js";
+import { cmdInit, cmdPanel, cmdPrepare, cmdIngest, cmdRelancer, cmdSimulate, items } from "./cli.js";
 import { runDir, okPath, readJson, exists, journal, type Manifest } from "./store.js";
 import type { Requete } from "./appels.js";
 import type { CaseFile } from "./requests.js";
@@ -74,8 +74,14 @@ async function parallele<T>(xs: T[], n: number, f: (x: T) => Promise<void>, sign
 
 // Une étape confiée au modèle : préparer, appeler, faire contrôler par l'Administrateur, recommencer sur les rejets.
 async function etapeModele(runId: string, step: StepName, appel: Appel, s: Suivi) {
-  for (let tour = 0; tour < 4 && !valide(runId, step); tour++) {
-    const lot = cmdPrepare(runId, step);
+  let relance = false;
+  for (let tour = 0; tour < 5 && !valide(runId, step); tour++) {
+    let lot = cmdPrepare(runId, step);
+    // Reprise après un arrêt : une seule fois par lancement, les éléments bloqués retrouvent leurs essais.
+    if (!lot.length && !relance && cmdRelancer(runId, step) > 0) {
+      relance = true;
+      lot = cmdPrepare(runId, step);
+    }
     if (!lot.length) break; // éléments restants au-delà du nombre d'essais permis
     await parallele(lot, s.parallele ?? 6, async (x) => {
       const r = readJson<Requete>(x.request);

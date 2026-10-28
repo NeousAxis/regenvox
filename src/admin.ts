@@ -122,6 +122,39 @@ export function checkMobilisation(o: MobilisationOut, ctx: AdminContext & { pers
   return e;
 }
 
+// Dernier recours, après trois refus : on relève ou on abaisse les probabilités jusqu'aux seuils de checkMobilisation,
+// sans rien inventer d'autre. Chaque correction est rendue publique dans les hypothèses du rapport.
+export function corrigerMobilisation(o: MobilisationOut, persona: PersonaOut): { valeur: MobilisationOut; corrections: string[] } {
+  const corrections: string[] = [];
+  const angles = o.angles.map((a) => {
+    const r = persona.reactions.find((x) => x.angle_id === a.angle_id);
+    const b = { ...a };
+    if (!r) return b;
+    if (r.engagement >= 2 && b.avis_en_ligne < 0.05) {
+      corrections.push(`angle ${a.angle_id} : avis en ligne ${b.avis_en_ligne} relevé à 0.05`);
+      b.avis_en_ligne = 0.05;
+    }
+    if (r.engagement >= 3 && b.atelier_presentiel < 0.05) {
+      corrections.push(`angle ${a.angle_id} : atelier ${b.atelier_presentiel} relevé à 0.05`);
+      b.atelier_presentiel = 0.05;
+    }
+    if (r.engagement === 0 && b.atelier_presentiel > 0.3) {
+      corrections.push(`angle ${a.angle_id} : atelier ${b.atelier_presentiel} abaissé à 0.3`);
+      b.atelier_presentiel = 0.3;
+    }
+    if (r.engagement === 0 && b.avis_en_ligne > 0.5) {
+      corrections.push(`angle ${a.angle_id} : avis en ligne ${b.avis_en_ligne} abaissé à 0.5`);
+      b.avis_en_ligne = 0.5;
+    }
+    if (b.atelier_si_invite_par_un_proche + 0.1 < b.atelier_presentiel) {
+      corrections.push(`angle ${a.angle_id} : atelier si invité ${b.atelier_si_invite_par_un_proche} relevé à ${b.atelier_presentiel}`);
+      b.atelier_si_invite_par_un_proche = b.atelier_presentiel;
+    }
+    return b;
+  });
+  return { valeur: { ...o, angles }, corrections };
+}
+
 export function checkFacilitateur(o: FacilitateurOut, ctx: AdminContext): string[] {
   const e: string[] = [];
   const got = o.angles.map((a) => a.angle_id).sort();

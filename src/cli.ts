@@ -275,6 +275,22 @@ function adminFor(runId: string, step: StepName, item: string, value: any): stri
   }
 }
 
+// Après un arrêt (bouton « Réessayer » de la plateforme) : les éléments bloqués d'une étape retrouvent leurs essais.
+export function cmdRelancer(runId: string, step: StepName) {
+  const m = loadManifest(runId);
+  let n = 0;
+  for (const item of items(runId, step)) {
+    const key = `${step}/${item}`;
+    if (!exists(okPath(runId, step, item)) && (m.attempts[key] ?? 0) >= m.maxAttempts) {
+      m.attempts[key] = 0;
+      n++;
+    }
+  }
+  saveManifest(m);
+  if (n) journal(runId, { event: "relance", step, elements: n });
+  return n;
+}
+
 export function cmdIngest(runId: string, step: StepName) {
   const m = loadManifest(runId);
   const summary = { valides: [] as string[], rejetes: [] as { item: string; erreurs: string[] }[], manquants: [] as string[] };
@@ -300,6 +316,19 @@ export function cmdIngest(runId: string, step: StepName) {
       }
     } catch (e: any) {
       errors = [`Réponse illisible : ${e.message}`];
+    }
+    // Participation par format : au dernier essai, des probabilités contraires à l'engagement déclaré sont ramenées aux seuils
+    // plutôt que d'arrêter tout le test pour une seule personne simulée. La correction est notée et publiée dans le rapport.
+    if (errors.length && step === "mobilisation" && value && m.attempts[key] >= m.maxAttempts && SCHEMAS.mobilisation.safeParse(value).success) {
+      const { valeur, corrections } = A.corrigerMobilisation(value as MobilisationOut, validated<PersonaOut>(runId, "personas", item));
+      if (corrections.length && adminFor(runId, step, item, valeur).length === 0) {
+        value = valeur;
+        errors = [];
+        const fichier = path.join(runDir(runId), "corrections_auto.json");
+        const deja = exists(fichier) ? readJson<{ item: string; corrections: string[] }[]>(fichier) : [];
+        writeJson(fichier, [...deja.filter((x) => x.item !== item), { item, corrections }]);
+        journal(runId, { event: "correction_auto", step, item, corrections });
+      }
     }
     if (errors.length) {
       writeJson(errorsPath(runId, step, item), errors);
@@ -366,6 +395,11 @@ export function cmdSimulate(runId: string) {
   const hypotheses = [...readJson<string[]>(path.join(runDir(runId), "panel_hypotheses.json")), ...PARAM_NOTES];
   const mobilisation = computeMobilisation(runId, skels, f, bt, acteurs, m.seed);
   if (mobilisation) hypotheses.push(mobilisation.note);
+  const corrigees = path.join(runDir(runId), "corrections_auto.json");
+  if (exists(corrigees)) {
+    const n = readJson<unknown[]>(corrigees).length;
+    if (n) hypotheses.push(`Participation par format : ${n} habitant${n > 1 ? "s" : ""} simulé${n > 1 ? "s" : ""} sur ${skels.length} donnai${n > 1 ? "ent" : "t"} des probabilités contraires à l'engagement déclaré juste avant, malgré trois demandes de correction ; le moteur les a ramenées au seuil de cohérence (5 % au moins pour un format annoncé).`);
+  }
   writeJson(path.join(runDir(runId), "metrics.json"), { angles, controle, controle_objectif, backtest: bt, panel_resume, hypotheses, mobilisation });
   journal(runId, { event: "simulate", angles: angles.length });
   console.log(JSON.stringify({ panel_resume, backtest: bt.synthese, angles: angles.map((a) => ({ id: a.angle_id, ...a.metrics })) }, null, 1));
