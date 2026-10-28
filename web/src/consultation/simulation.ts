@@ -52,6 +52,22 @@ function spec(p: Projet): SpecPanel | undefined {
   return lire<SpecPanel>(p, `cases/${p.id}/panel.json`)
 }
 
+// Le lieu dont parle la question par défaut : le village ou la ville selon la taille de la commune
+// (une ville compte au moins 10 000 habitants, selon l'OFS, soit environ 8500 de 16 ans et plus), sinon le canton,
+// la Suisse ou l'organisation elle-même.
+export type Lieu = 'village' | 'ville' | 'canton' | 'suisse' | 'ecole' | 'entreprise' | 'organisation'
+export function lieuDe(p: Projet): Lieu {
+  const t = p.parametres.territoire
+  if (t?.niveau === 'commune') {
+    const adultes = lire<{ population_16_plus?: { valeur: number } }>(p, `cases/${p.id}/panel.json`)?.population_16_plus?.valeur ?? 0
+    return adultes >= 8500 ? 'ville' : 'village'
+  }
+  if (t?.niveau === 'canton') return 'canton'
+  if (t?.niveau === 'suisse') return 'suisse'
+  const type = p.parametres.organisation.type
+  return type === 'ecole' ? 'ecole' : type === 'entreprise' ? 'entreprise' : 'organisation'
+}
+
 // Une prospective terminée peut servir de base à une consultation réelle.
 export function prospectiveExploitable(p: Projet): boolean {
   return p.etat === 'termine' && anglesDe(p).length > 0 && squelettes(p).length > 0 && valides(p, 'personas').length > 0 && !!spec(p)

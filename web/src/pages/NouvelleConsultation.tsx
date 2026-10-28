@@ -14,7 +14,7 @@ import { ErreurServeur } from '../consultation/api'
 import { creerConsultation } from '../consultation/operations'
 import type { ResultatCreation } from '../consultation/operations'
 import { LIBELLES } from '../consultation/libelles'
-import { anglesDe, angleRecommande, categoriesDe, prospectiveExploitable, repereSimulation } from '../consultation/simulation'
+import { anglesDe, angleRecommande, categoriesDe, lieuDe, prospectiveExploitable, repereSimulation } from '../consultation/simulation'
 import type { CleCategorie, Langue, Question, TypeQuestion } from '../consultation/types'
 
 const TYPES: TypeQuestion[] = ['texte', 'choix', 'choix_multiples', 'echelle']
@@ -53,7 +53,11 @@ function Cadre({ children }: { children: React.ReactNode }) {
 function Formulaire({ projet: p, onFini }: { projet: Projet; onFini: (id: string) => void }) {
   const { t } = useLanguage()
   const langue: Langue = p.parametres.langue
-  const tl = (k: TranslationKey, v: Record<string, string> = {}) => remplirVars(translations[langue][k], v)
+  // Textes écrits dans la langue de la consultation, avec l'espace insécable française avant ? ! : ;
+  const tl = (k: TranslationKey, v: Record<string, string> = {}) => {
+    const brut = remplirVars(translations[langue][k], v)
+    return langue === 'fr' ? brut.replace(/ ([:;?!»])/g, '\u00a0$1').replace(/« /g, '«\u00a0') : brut
+  }
   const org = p.parametres.organisation.nom
   const angles = useMemo(() => anglesDe(p), [p])
   const recommande = angleRecommande(p)
@@ -67,7 +71,7 @@ function Formulaire({ projet: p, onFini }: { projet: Projet; onFini: (id: string
   const [cloture, setCloture] = useState(dansJours(30))
   const [conservation, setConservation] = useState(365)
   const [cles, setCles] = useState<Set<CleCategorie>>(() => new Set(categoriesDispo.map((c) => c.cle)))
-  const [questions, setQuestions] = useState<QuestionEdition[]>(() => [{ id: nouvelId(), type: 'texte', intitule: tl('cons.defaut.question'), options: '', obligatoire: false }])
+  const [questions, setQuestions] = useState<QuestionEdition[]>(() => [{ id: nouvelId(), type: 'texte', intitule: tl(`cons.defaut.question.${lieuDe(p)}` as TranslationKey), options: '', obligatoire: false }])
   const [code, setCode] = useState('')
   const [secondePhrase, setSecondePhrase] = useState(false)
   const [montrerErreurs, setMontrerErreurs] = useState(false)
