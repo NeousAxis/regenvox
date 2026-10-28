@@ -245,7 +245,7 @@ function adminFor(runId: string, step: StepName, item: string, value: any): stri
     case "sociologue":
       return A.checkSociologue(value, { personas: loadPersonasWithControl(runId), angleIds: validated<FormulateurOut>(runId, "formulateur").angles.map((a) => a.id) });
     case "contradicteur":
-      return A.checkContradicteur(value);
+      return A.checkContradicteur(value, { allowedNumbers: A.extractNumbers(buildUser(runId, "contradicteur", "main")) });
     case "traducteur":
       return A.checkTraducteur(value, { allowedNumbers: allowedNumbers(runId) });
     case "scrutins":
@@ -334,15 +334,26 @@ export function cmdIngest(runId: string, step: StepName) {
           if (r.reparations.length) journal(runId, { event: "citations_reparees", step, item, reparations: r.reparations });
         }
         if (step === "traducteur") value = A.sansTiretsSeparateurs(value as TraducteurOut);
+        const dernierEssai = m.attempts[key] >= m.maxAttempts;
         errors = adminFor(runId, step, item, value);
         // Au dernier essai, les segments du Sociologue sans citation exacte sont retirés (s'il en reste deux), et c'est dit.
-        if (errors.length && step === "sociologue" && m.attempts[key] >= m.maxAttempts) {
+        if (errors.length && step === "sociologue" && dernierEssai) {
           const r = A.retirerSegmentsIntrouvables(value as SociologueOut, loadPersonasWithControl(runId));
           if (r && adminFor(runId, step, item, r.valeur).length === 0) {
             value = r.valeur;
             errors = [];
             ajouterHypothese(runId, `Analyse des groupes : ${r.retires.length} groupe${r.retires.length > 1 ? "s" : ""} retiré${r.retires.length > 1 ? "s" : ""} (${r.retires.join(", ")}), faute d'une citation exacte des habitants simulés après trois essais.`);
             journal(runId, { event: "segments_retires", step, item, retires: r.retires });
+          }
+        }
+        // Au dernier essai, les critiques qui citent des chiffres absents des données sont retirées, et c'est dit.
+        if (errors.length && step === "contradicteur" && dernierEssai) {
+          const r = A.retirerAttaquesNonSourcees(value as ContradicteurOut, A.extractNumbers(buildUser(runId, "contradicteur", "main")));
+          if (r && adminFor(runId, step, item, r.valeur).length === 0) {
+            value = r.valeur;
+            errors = [];
+            ajouterHypothese(runId, `Critique contradictoire : ${r.retirees} critique${r.retirees > 1 ? "s" : ""} ou note${r.retirees > 1 ? "s" : ""} retirée${r.retirees > 1 ? "s" : ""}, car elle${r.retirees > 1 ? "s" : ""} citai${r.retirees > 1 ? "ent" : "t"} des chiffres absents des données après trois essais.`);
+            journal(runId, { event: "critiques_retirees", step, item, retirees: r.retirees });
           }
         }
       }
@@ -392,6 +403,8 @@ export function cmdIngest(runId: string, step: StepName) {
         fs.rmSync(okPath(runId, target, "main"));
         fs.rmSync(okPath(runId, step, "main"));
         writeJson(errorsPath(runId, target, "main"), corrections.map((x) => "Gardien de la méthode : " + x));
+        // Le contrôle final juge aussi les notes de la critique, refaite après l'analyse : elle reçoit les mêmes corrections.
+        if (step === "gardien-final") writeJson(errorsPath(runId, "contradicteur", "main"), corrections.map((x) => "Gardien de la méthode : " + x));
         journal(runId, { event: "gardien_reject", step, target, corrections });
         summary.renvoi = target;
         console.log(`Gardien : REJET de ${target}, à relancer avec les corrections.`);
@@ -483,7 +496,9 @@ function computeMobilisation(runId: string, skels: PersonaSkeleton[], f: Formula
     n_scrutins_peu_suivis: peuSuivis.length,
     formats_preferes: formatsPreferes(mobs, skels),
     angles: f.angles.map((a) => mobilisationMetrics(a.id, mobs, skels, spec.population_16_plus, facteur, seed + 500 + a.id, acteurs)),
-    note: `Mobilisation : probabilités déclarées par chaque persona, pondérées, converties en habitants sur ${spec.population_16_plus} résidents de 16 ans et plus. Version corrigée : multipliée par ${facteur}, rapport entre la participation réelle et la participation annoncée par le panel sur les ${peuSuivis.length} votations les moins suivies (sur l'ensemble des ${test.length} votations, le rapport est de ${facteurGlobal}, mais des erreurs de sens contraire s'y compensent). Les effectifs bruts sont des plafonds.`,
+    note: !test.length
+      ? `Mobilisation : probabilités déclarées par chaque persona, pondérées, converties en habitants sur ${spec.population_16_plus} résidents de 16 ans et plus. Aucune votation passée n'a servi à les corriger : ces effectifs sont des plafonds.`
+      : `Mobilisation : probabilités déclarées par chaque persona, pondérées, converties en habitants sur ${spec.population_16_plus} résidents de 16 ans et plus. Version corrigée : multipliée par ${facteur}, rapport entre la participation réelle et la participation annoncée par le panel sur les ${peuSuivis.length} votations les moins suivies (sur l'ensemble des ${test.length} votations, le rapport est de ${facteurGlobal}, mais des erreurs de sens contraire s'y compensent). Les effectifs bruts sont des plafonds.`,
   };
 }
 
@@ -511,8 +526,9 @@ export function buildDossier(runId: string) {
       opposition_pct: pct(a.metrics.resistance.moyenne),
       viralite_pct: pct(a.metrics.viralite),
       mois_mi_parcours: a.metrics.mois_mi_parcours,
-      participation_avis_en_ligne_pct: pct(a.metrics.participation.avis_en_ligne),
-      participation_atelier_pct: pct(a.metrics.participation.atelier),
+      // Engagement déclaré en réaction à la formulation : ce n'est pas la participation attendue (voir mobilisation).
+      pret_a_donner_son_avis_pct: pct(a.metrics.participation.avis_en_ligne),
+      pret_a_venir_en_atelier_pct: pct(a.metrics.participation.atelier),
       porteurs_projet_pct: pct(a.metrics.participation.porteurs_projet),
       agriculteurs: a.metrics.acteurs_cles
         ? { n: a.metrics.acteurs_cles.n, favorables_au_depart_pct: pct(a.metrics.acteurs_cles.part_initiale_favorable), soutien_final_pct: pct(a.metrics.acteurs_cles.part_finale_soutien), coporteurs_pct: pct(a.metrics.acteurs_cles.part_coporteurs) }
@@ -526,7 +542,7 @@ export function buildDossier(runId: string) {
       reticents_ou_opposes_au_depart_pct: pct(t.metrics.repartition_initiale.reticent + t.metrics.repartition_initiale.opposant),
       soutien_pct: pct(t.metrics.soutien.moyenne),
       opposition_pct: pct(t.metrics.resistance.moyenne),
-      agriculteurs_favorables_sur_8: Math.round((t.metrics.acteurs_cles?.part_initiale_favorable ?? 0) * (t.metrics.acteurs_cles?.n ?? 0)),
+      agriculteurs_favorables: t.metrics.acteurs_cles ? `${Math.round(t.metrics.acteurs_cles.part_initiale_favorable * t.metrics.acteurs_cles.n)} sur ${t.metrics.acteurs_cles.n}` : null,
     })),
     lecture_temoins:
       metrics.controle && metrics.controle_objectif

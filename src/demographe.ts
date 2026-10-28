@@ -164,7 +164,9 @@ export function generatePanel(spec: PanelSpec, N: number, seed: number) {
     ...spec.hypotheses,
   ] : [
     `Univers du panel : ${spec.univers}. Population de référence ${spec.population_16_plus.valeur} (${spec.population_16_plus.source}).`,
-    `Agriculteurs suréchantillonnés (${nAgri} personas) puis repondérés à leur part réelle (${(ag.part_16_plus * 100).toFixed(1)} % des 16 ans et plus, ${ag.source}).`,
+    nAgri > Math.round(ag.part_16_plus * N)
+      ? `Agriculteurs suréchantillonnés (${nAgri} personas) puis repondérés à leur part réelle (${(ag.part_16_plus * 100).toFixed(1).replace(".", ",")} % des 16 ans et plus, ${ag.source}).`
+      : `Agriculteurs : ${nAgri} persona${nAgri > 1 ? "s" : ""} sur ${N}, selon leur part réelle (${(ag.part_16_plus * 100).toFixed(1).replace(".", ",")} % des 16 ans et plus, ${ag.source}).`,
     `Sensibilité politique répartie par quotas selon les résultats du Conseil national 2023 dans la commune (${spec.source_partis}), appliquée à tous les électeurs non agriculteurs : approximation, car ces parts décrivent les votants, pas l'ensemble du corps électoral. Pour les agriculteurs, sensibilité politique non renseignée, faute de donnée locale : le persona l'infère de son profil.`,
     "Nationalité, sexe et activité professionnelle répartis par quotas pour respecter les proportions malgré la petite taille du panel.",
     "Composition des ménages et lieux de vie dans la commune : hypothèses génériques, non sourcées.",

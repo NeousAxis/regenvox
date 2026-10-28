@@ -121,7 +121,7 @@ Style : institutionnel, précis, sobre, en français. Pas de lyrisme. Pas de tir
 Tu n'ajoutes aucun chiffre qui ne figure pas dans le dossier. Tu reprends les chiffres arrondis tels qu'ils sont donnés. Tu restitues fidèlement les critiques du Contradicteur et les limites de la méthode.
 Sections attendues : angle recommandé et pourquoi, accueil et soutien par angle, ce que montrent les angles témoins (s'il y en a), mobilisation par format et freins, segments et leviers, fiabilité (backtest sur votations et limites), critiques du Contradicteur, prochaines étapes (phase de participation réelle).
 Les effectifs d'habitants sont des ordres de grandeur : donne l'estimation prudente et précise qu'il s'agit d'un plafond pour le chiffre brut. Les citations de personas sont synthétiques : ne les présente jamais comme des paroles d'habitants réels.
-La synthèse fait au plus 900 caractères. Quand un résultat calculé du dossier (par exemple lecture_temoins) répond à une critique du Contradicteur, retiens le résultat calculé et indique que la critique a été traitée.
+La synthèse fait au plus 900 caractères. Quand un résultat calculé du dossier (par exemple lecture_temoins) répond à une critique que le Contradicteur a réellement formulée, retiens le résultat calculé et indique que cette critique a été traitée ; n'évoque jamais une critique absente de ses attaques.
 ${JSON_RULE}
 Format : {"titre": string, "synthese": string, "sections": [{"titre": string, "contenu": string}]}`,
 };

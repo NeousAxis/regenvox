@@ -7,7 +7,7 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
 import { executerTest } from "../src/pipeline.js";
-import { reparerCitations, retirerSegmentsIntrouvables, sansTiretsSeparateurs } from "../src/admin.js";
+import { checkContradicteur, reparerCitations, retirerAttaquesNonSourcees, retirerSegmentsIntrouvables, sansTiretsSeparateurs } from "../src/admin.js";
 import { ROOT, runDir, okPath, readJson } from "../src/store.js";
 import type { StepName } from "../src/schemas.js";
 
@@ -35,6 +35,22 @@ const incoherent = () => {
   const sans = retirerSegmentsIntrouvables(r.valeur, [p23, p38]);
   assert.deepEqual(sans?.retires, ["Opposants"]);
   assert.equal(sansTiretsSeparateurs({ titre: "Vuadens — le bio", synthese: "a – b - c", sections: [] } as any).titre, "Vuadens, le bio");
+}
+
+// 0 bis. Critique contradictoire : un cas inventé (test réel du 28.10.2026) est refusé, un calcul fait sur les données passe.
+{
+  const attaque = (source: string, critique: string, ev: string) => ({ posture: "Militant écologiste", cible: "donnees", critique, element_verifiable: ev, source_element: source, impact: "Impact assez long.", angle_mort: "Angle mort assez long." });
+  const invente = attaque("connaissance_generale_a_verifier", "Le modèle n'intègre aucun backtest. Par exemple, la commune de Villars-sur-Glâne (FR) a échoué à convertir 30% de ses terres en bio en 10 ans (2013-2023) en raison de la résistance des agriculteurs.", "Absence de référence à des cas similaires (ex: Villars-sur-Glâne).");
+  const calcul = attaque("donnees_du_run", "L'objectif suppose une conversion bien plus large que l'existant, ce que la simulation ne mesure pas.", "21 % de 719 ha font environ 151 ha en bio ; la majorité suppose plus de 360 ha, soit environ 209 ha supplémentaires.");
+  const general = attaque("connaissance_generale_a_verifier", "Les aides à la conversion ont un cadre légal que la simulation ignore, et qui peut limiter les leviers proposés.", "Cadre légal des aides à la conversion bio.");
+  const contra: any = { attaques: [invente, { ...calcul, cible: "simulation" }, { ...general, cible: "angle" }, { ...calcul, cible: "participation" }], verdict: "accept_with_notes", notes_pour_rapport: ["Comparer avec des cas réels documentés."] };
+  const permis = [21, 719, 2023, 2025, 2135, 64, 48];
+  const erreurs = checkContradicteur(contra, { allowedNumbers: permis });
+  assert.equal(erreurs.length, 1, erreurs.join(" | "));
+  assert.match(erreurs[0], /^Attaque 1 \(connaissance générale\).*30, 2013/);
+  const r = retirerAttaquesNonSourcees(contra, permis);
+  assert.equal(r?.retirees, 1);
+  assert.equal(checkContradicteur(r!.valeur, { allowedNumbers: permis }).length, 0);
 }
 
 fs.rmSync(dossierCas, { recursive: true, force: true });
@@ -74,17 +90,20 @@ try {
   const essai = async (runId: string, refuser: (n: number) => boolean) => {
     const appels: Record<string, number> = {};
     let consigne = false;
+    let consigneCritique = false;
     await executerTest(CAS, runId, async (r: any) => {
       appels[r.step] = (appels[r.step] ?? 0) + 1;
       if (r.step === "sociologue" && appels.sociologue > 1) consigne ||= r.user.includes("Gardien de la méthode : Le levier du segment Porteurs");
+      if (r.step === "contradicteur" && appels.contradicteur > 1) consigneCritique ||= r.user.includes("Gardien de la méthode : Le levier du segment Porteurs");
       const v = r.step === "gardien-final" && refuser(appels["gardien-final"]) ? refus : rejeu(r);
       return { texte: JSON.stringify(v), tokens_entree: 0, tokens_sortie: 0 };
     }, { parallele: 8 });
-    return { appels, consigne };
+    return { appels, consigne, consigneCritique };
   };
   const un = await essai(runs[2], (n) => n === 1);
   assert.deepEqual([un.appels.sociologue, un.appels.contradicteur, un.appels["gardien-final"], un.appels.traducteur], [2, 2, 2, 1]);
   assert.ok(un.consigne, "la correction du Gardien est transmise à l'analyse refaite");
+  assert.ok(un.consigneCritique, "et à la critique refaite");
   assert.equal(readJson<any>(okPath(runs[2], "gardien-final", "main")).decision, "accept");
 
   // 4. Le contrôle final refuse toujours : deux reprises, puis ses réserves sont publiées et le rapport est rédigé.

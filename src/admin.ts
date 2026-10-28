@@ -251,15 +251,39 @@ export function sansTiretsSeparateurs(o: TraducteurOut): TraducteurOut {
   return { titre: f(o.titre), synthese: f(o.synthese), sections: o.sections.map((x) => ({ titre: f(x.titre), contenu: f(x.contenu) })) };
 }
 
-export function checkContradicteur(o: ContradicteurOut): string[] {
+export function checkContradicteur(o: ContradicteurOut, ctx: AdminContext = {}): string[] {
   const e: string[] = [];
   const cibles = new Set(o.attaques.map((a) => a.cible));
   if (cibles.size < 3) e.push("Les attaques doivent porter sur au moins trois cibles différentes.");
   o.attaques.forEach((a, i) => {
     if (a.source_element === "connaissance_generale_a_verifier" && REFERENCE_NOMMEE.test(a.element_verifiable))
       e.push(`Attaque ${i + 1} : référence nommée et datée non vérifiable (« ${a.element_verifiable.slice(0, 80)} »). Retire-la ou remplace-la par un fait général.`);
+    const absents = ctx.allowedNumbers ? chiffresNonSources(a, ctx.allowedNumbers) : [];
+    if (absents.length && a.source_element === "connaissance_generale_a_verifier")
+      e.push(`Attaque ${i + 1} (connaissance générale) : chiffres ou dates absents des données reçues (${absents.slice(0, 6).join(", ")}). Pour une connaissance générale, ne donne aucun chiffre, aucune date ni aucun cas précis : formule la critique sans eux.`);
+    else if (absents.length) e.push(`Attaque ${i + 1} : années absentes des données reçues (${absents.slice(0, 6).join(", ")}). N'invente aucune date ni aucun cas.`);
+  });
+  o.notes_pour_rapport.forEach((n, i) => {
+    const absents = ctx.allowedNumbers ? anneesAbsentes(n, ctx.allowedNumbers) : [];
+    if (absents.length) e.push(`Note ${i + 1} : années absentes des données reçues (${absents.slice(0, 6).join(", ")}). N'invente aucune date ni aucun cas.`);
   });
   return e;
+}
+
+const texteAttaque = (a: ContradicteurOut["attaques"][number]) => [a.critique, a.element_verifiable, a.impact, a.angle_mort].join("\n");
+const anneesAbsentes = (t: string, allowed: number[]) => chiffresAbsents(t, allowed).filter((n) => Number.isInteger(n) && n >= 1900 && n <= 2099);
+// Une attaque tirée des données du run peut calculer (surfaces, écarts) ; une connaissance générale ne cite aucun chiffre absent des données.
+// Dans les deux cas, une année absente des données signale un cas ou une étude inventés.
+const chiffresNonSources = (a: ContradicteurOut["attaques"][number], allowed: number[]) =>
+  a.source_element === "connaissance_generale_a_verifier" ? chiffresAbsents(texteAttaque(a), allowed) : anneesAbsentes(texteAttaque(a), allowed);
+
+// Au dernier essai, les attaques et les notes qui citent des chiffres non sourcés sont retirées, s'il en reste assez.
+export function retirerAttaquesNonSourcees(o: ContradicteurOut, allowed: number[]): { valeur: ContradicteurOut; retirees: number } | null {
+  const attaques = o.attaques.filter((a) => chiffresNonSources(a, allowed).length === 0);
+  const notes = o.notes_pour_rapport.filter((n) => anneesAbsentes(n, allowed).length === 0);
+  const retirees = o.attaques.length - attaques.length + o.notes_pour_rapport.length - notes.length;
+  if (!retirees || attaques.length < 3 || !notes.length) return null;
+  return { valeur: { ...o, attaques, notes_pour_rapport: notes }, retirees };
 }
 
 export function extractNumbers(text: string): number[] {
@@ -271,13 +295,18 @@ export function checkTraducteur(o: TraducteurOut, ctx: AdminContext): string[] {
   const e: string[] = [];
   const text = [o.titre, o.synthese, ...o.sections.flatMap((s) => [s.titre, s.contenu])].join("\n");
   if (TIRET_SEPARATEUR.test(text)) e.push("Tiret utilisé comme séparateur : interdit, utiliser virgule, deux-points ou point.");
-  const allowed = ctx.allowedNumbers ?? [];
+  const bad = chiffresAbsents(text, ctx.allowedNumbers ?? []);
+  if (bad.length) e.push(`Chiffres absents du dossier (hallucination possible) : ${bad.slice(0, 12).join(", ")}.`);
+  return e;
+}
+
+// Chiffres d'un texte qui ne figurent pas parmi ceux permis (tels quels ou en pourcentage) ; les petits entiers servent aux dénombrements.
+export function chiffresAbsents(text: string, allowed: number[]): number[] {
   const bad = new Set<number>();
   for (const n of extractNumbers(text)) {
     if (n <= 12 && Number.isInteger(n)) continue; // dénombrements courants (angles, sections, mois)
     const ok = allowed.some((a) => Math.abs(a - n) <= 0.51 || Math.abs(a * 100 - n) <= 0.51);
     if (!ok) bad.add(n);
   }
-  if (bad.size) e.push(`Chiffres absents du dossier (hallucination possible) : ${[...bad].slice(0, 12).join(", ")}.`);
-  return e;
+  return [...bad];
 }

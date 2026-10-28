@@ -7,6 +7,7 @@ import type { FormulateurOut, PersonaOut, PersonaSkeleton, SociologueOut, Contra
 import { STYLE, COLORS, esc, pct, chart } from "./report.js";
 import { estimationParticipants } from "./niveau.js";
 
+const POSITION: Record<string, string> = { porteur: "porteurs", interesse: "intéressés", indifferent: "indifférents", reticent: "réticents", opposant: "opposants" };
 const FMT: [string, string][] = [["avis_en_ligne", "Avis en ligne"], ["atelier_presentiel", "Atelier sur place"], ["parcours_distance", "Parcours à distance"], ["atelier_si_invite_par_un_proche", "Atelier, si invité par un proche"]];
 
 export function renderRapportPlateforme(runId: string, meta: { organisation: string; date: string }): string {
@@ -58,7 +59,7 @@ export function renderRapportPlateforme(runId: string, meta: { organisation: str
   const segments = soc.segments
     .map((s) => {
       const src = skel.get(s.persona_source);
-      return `<article class="seg"><div class="eyebrow">${esc(s.nom)} · ${s.persona_ids.length} ${membres} · ${esc(s.position_dominante)}</div>
+      return `<article class="seg"><div class="eyebrow">${esc(s.nom)} · ${s.persona_ids.length} ${membres} · ${POSITION[s.position_dominante] ?? esc(s.position_dominante)}</div>
 <blockquote>« ${esc(s.objection_citee)} »<cite>${esc(s.persona_source)}${src ? `, ${src.age} ans, ${esc(src.activite)}` : ""}</cite></blockquote>
 <p><b>Levier</b> : ${esc(s.levier)}</p></article>`;
     })
