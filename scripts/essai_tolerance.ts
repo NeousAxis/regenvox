@@ -9,6 +9,7 @@ import path from "node:path";
 import { executerTest } from "../src/pipeline.js";
 import { checkContradicteur, reparerCitations, retirerAttaquesNonSourcees, retirerSegmentsIntrouvables, sansTiretsSeparateurs } from "../src/admin.js";
 import { ROOT, runDir, okPath, readJson } from "../src/store.js";
+import { construireCas, SURECHANTILLON_AGRICOLE } from "../src/plateforme.js";
 import type { StepName } from "../src/schemas.js";
 
 const SOURCE = "run-002";
@@ -51,6 +52,21 @@ const incoherent = () => {
   const r = retirerAttaquesNonSourcees(contra, permis);
   assert.equal(r?.retirees, 1);
   assert.equal(checkContradicteur(r!.valeur, { allowedNumbers: permis }).length, 0);
+}
+
+// 0 ter. Démarche agricole : agriculteurs suréchantillonnés et suivis à part ; sinon, leur nombre suit leur part réelle.
+{
+  const spec = readJson<any>(path.join(ROOT, "cases", "vuadens-bio", "panel.json"));
+  const territoire: any = { panel: { ...spec, hypotheses: spec.hypotheses ?? [] }, cible: { nom: "Vuadens", canton: "FR", pays: "CH", description: "Commune." }, contexte_factuel: [] };
+  const params = (enjeu: string): any => ({ organisation: { type: "commune", nom: "Commune de Vuadens" }, territoire: { niveau: "commune", commune_num: 2140 }, demarche: { enjeu, objectif: "Un objectif assez long pour l'essai.", formulation: "Comment faire ensemble ?", formats: [], horizon_mois: 24 } });
+  const bio = construireCas("essai-bio", params("Accompagner l'agriculture de la commune vers le bio."), territoire, territoire, 1);
+  assert.equal(bio.panel.agriculteurs.surechantillon, SURECHANTILLON_AGRICOLE);
+  assert.deepEqual(bio.cas.acteurs_cles, { groupe: "agriculteurs", activite_regex: "agricult" });
+  const velo = construireCas("essai-velo", params("Rendre les trajets à vélo plus sûrs vers l'école."), territoire, territoire, 1);
+  assert.equal(velo.panel.agriculteurs.surechantillon, Math.round(spec.agriculteurs.part_16_plus * 48));
+  assert.equal(velo.cas.acteurs_cles, undefined);
+  const fermeture = construireCas("essai-poste", params("Réagir à la fermeture de la poste du village."), territoire, territoire, 1);
+  assert.equal(fermeture.cas.acteurs_cles, undefined, "« fermeture » n'est pas une ferme");
 }
 
 fs.rmSync(dossierCas, { recursive: true, force: true });

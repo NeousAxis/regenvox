@@ -42,6 +42,7 @@ export function renderRapportPlateforme(runId: string, meta: { organisation: str
     <div><dt>Soutien à ${c.horizon_mois} mois</dt><dd>${pct(mt.soutien.moyenne)}</dd><span class="ci">variabilité du modèle ${pct(mt.soutien.p05)} à ${pct(mt.soutien.p95)}</span></div>
     <div><dt>Prêts à agir</dt><dd>${pct(mt.coporteurs, 1)}</dd><span class="ci">soutiennent et viendraient agir</span></div>
     <div><dt>Opposition active</dt><dd>${pct(mt.resistance.moyenne)}</dd></div>
+    ${mt.acteurs_cles ? `<div><dt>Agriculteurs : soutien à ${c.horizon_mois} mois</dt><dd>${pct(mt.acteurs_cles.part_finale_soutien)}</dd><span class="ci">${mt.acteurs_cles.n} agriculteurs du panel, ${pct(mt.acteurs_cles.part_initiale_favorable)} favorables au départ, ${pct(mt.acteurs_cles.part_coporteurs, 1)} prêts à agir</span></div>` : ""}
   </dl>
 </article>`;
     })
@@ -52,7 +53,7 @@ export function renderRapportPlateforme(runId: string, meta: { organisation: str
     t
       ? `<article class="angle" style="border-style:dashed"><div class="angle-head"><span class="dot" style="background:var(--soft)"></span><span class="eyebrow">${titre}</span></div>
   <p class="q">${esc(t.formulation)}</p><p class="small">${esc(t.pourquoi)}</p>
-  <dl class="kpis"><div><dt>Soutien à ${c.horizon_mois} mois</dt><dd>${pct(t.metrics.soutien.moyenne)}</dd><span class="ci">contre ${pct(meilleur.metrics.soutien.moyenne)} pour la meilleure formulation ouverte</span></div><div><dt>Opposition active</dt><dd>${pct(t.metrics.resistance.moyenne)}</dd></div></dl></article>`
+  <dl class="kpis"><div><dt>Soutien à ${c.horizon_mois} mois</dt><dd>${pct(t.metrics.soutien.moyenne)}</dd><span class="ci">contre ${pct(meilleur.metrics.soutien.moyenne)} pour la meilleure formulation ouverte</span></div><div><dt>Opposition active</dt><dd>${pct(t.metrics.resistance.moyenne)}</dd></div>${t.metrics.acteurs_cles ? `<div><dt>Agriculteurs favorables</dt><dd>${Math.round(t.metrics.acteurs_cles.part_initiale_favorable * t.metrics.acteurs_cles.n)} sur ${t.metrics.acteurs_cles.n}</dd><span class="ci">au départ</span></div>` : ""}</dl></article>`
       : "";
   const temoins = temoin(m.controle, "Témoin 1 · décision imposée") + temoin(m.controle_objectif, "Témoin 2 · même objectif, question ouverte");
 

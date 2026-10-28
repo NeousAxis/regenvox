@@ -21,6 +21,12 @@ export interface SourceTerritoire {
 
 export const TAILLE_PANEL = 48;
 
+// Démarche agricole, reconnue à ses mots : les agriculteurs sont suréchantillonnés (8 sur 48, comme au premier test de Vuadens)
+// puis ramenés à leur part réelle, pour que leur avis puisse être lu à part. Ailleurs, leur nombre suit leur part réelle.
+export const SURECHANTILLON_AGRICOLE = 8;
+const MOTS_AGRICOLES = /agricol|agricult|paysan|\bfermes?\b|élevage|éleveu|maraîch|viticult|vigneron|\bvignes?\b|\bvergers?\b|alpage|pâturage|\bbio\b|biologique|agro-?écolog|semences|\brécoltes?\b/i;
+export const demarcheAgricole = (d: { enjeu: string; objectif: string; formulation: string }) => MOTS_AGRICOLES.test([d.enjeu, d.objectif, d.formulation].join(" "));
+
 const TYPE_LIBELLE: Record<TypeOrganisation, string> = { commune: "commune", administration: "administration publique", ecole: "école", entreprise: "entreprise", ong: "ONG ou association" };
 const majuscule = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 const nettoie = (s: string) => s.trim().replace(/\s+/g, " ");
@@ -31,6 +37,7 @@ export function construireCas(id: string, p: ParametresPlateforme, territoire: S
   let cible: CaseFile["cible"];
   let panel: PanelSpec;
   let contexte: string[];
+  let agricole = false;
   let sources = territoire?.sources ?? [];
   if (p.groupes?.length) {
     const gs = p.groupes.map((g) => ({ ...g, nom: nettoie(g.nom) }));
@@ -60,8 +67,14 @@ export function construireCas(id: string, p: ParametresPlateforme, territoire: S
     const niveau = p.territoire.niveau;
     cible = { type: niveau, nom: territoire.cible.nom, canton: territoire.cible.canton, pays: "CH", description: territoire.cible.description };
     contexte = territoire.contexte_factuel;
-    // Pas de suréchantillon d'agriculteurs hors des sujets agricoles : leur nombre dans le panel suit leur part réelle.
-    panel = { ...territoire.panel, agriculteurs: { ...territoire.panel.agriculteurs, surechantillon: Math.round(territoire.panel.agriculteurs.part_16_plus * TAILLE_PANEL) } };
+    const ag = territoire.panel.agriculteurs;
+    const proportionnel = Math.round(ag.part_16_plus * TAILLE_PANEL);
+    agricole = ag.part_16_plus > 0 && demarcheAgricole(d);
+    panel = {
+      ...territoire.panel,
+      agriculteurs: { ...ag, surechantillon: agricole ? Math.max(proportionnel, SURECHANTILLON_AGRICOLE) : proportionnel },
+      hypotheses: agricole ? [...territoire.panel.hypotheses, "La démarche touche l'agriculture (d'après les mots de l'enjeu, de l'objectif ou de la formulation) : les agriculteurs sont suréchantillonnés pour que leur avis puisse être lu à part."] : territoire.panel.hypotheses,
+    };
   }
   const cas: CaseFile = {
     id,
@@ -77,6 +90,7 @@ export function construireCas(id: string, p: ParametresPlateforme, territoire: S
     contexte_factuel: contexte,
     votations: [],
     sources,
+    ...(agricole ? { acteurs_cles: { groupe: "agriculteurs", activite_regex: "agricult" } } : {}),
   };
   const m = mots(cas);
   const objectif = nettoie(d.objectif).replace(/[.!?]+$/, "");
