@@ -148,7 +148,7 @@ const fr = {
 
   // Pied de page
   'pied.texte': "RegenVox est un outil ouvert de Régénère Plus pour préparer les démarches participatives.",
-  'pied.donnees': "Vos projets et votre clé restent dans votre navigateur. Régénère Plus ne reçoit rien de lisible : les réponses d'une consultation réelle lui arrivent chiffrées, et il ne peut pas les ouvrir.",
+  'pied.donnees': "Vos projets et la clé API de votre IA restent dans votre navigateur. Régénère Plus ne reçoit rien de lisible : les réponses d'une consultation réelle lui arrivent chiffrées, et il ne peut pas les ouvrir.",
   'pied.code': "Code source (AGPL-3.0)",
   'pied.contact': "Nous écrire",
   'pied.site': "Régénère Plus",
@@ -694,7 +694,7 @@ const en: Record<TranslationKey, string> = {
   'final.texte': "Describe your project, run the test, and get your report in about 10 to 20 minutes.",
 
   'pied.texte': "RegenVox is an open tool by Régénère Plus to prepare participatory processes.",
-  'pied.donnees': "Your projects and your key stay in your browser. Régénère Plus receives nothing readable: answers to a real consultation reach it encrypted, and it cannot open them.",
+  'pied.donnees': "Your projects and your AI's API key stay in your browser. Régénère Plus receives nothing readable: answers to a real consultation reach it encrypted, and it cannot open them.",
   'pied.code': "Source code (AGPL-3.0)",
   'pied.contact': "Contact us",
   'pied.site': "Régénère Plus",
