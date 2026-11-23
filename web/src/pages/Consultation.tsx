@@ -45,7 +45,7 @@ export default function Consultation() {
   const [confirmer, setConfirmer] = useState<null | 'fermer' | 'effacer' | 'oublier'>(null)
   const [etape, setEtape] = useState<EtapeSynthese | null>(null)
   const [copie, setCopie] = useState(false)
-  const saisieCle = useSaisieCle()
+  const saisieCle = useSaisieCle({ sansGratuit: true })
   const [montrerErreursCle, setMontrerErreursCle] = useState(false)
   const controleur = useRef<AbortController | null>(null)
   const cadre = useRef<HTMLIFrameElement>(null)
@@ -146,7 +146,7 @@ export default function Consultation() {
     try {
       const ctx = { q: c.questionnaire, sim: c.simulation, analyse: analyser(c.questionnaire, c.reponses, c.simulation), lignes: c.lignes_anonymes }
       const s = MAQUETTE ? syntheseMaquette(ctx) : await synthetiser(ctx, await appelPourSynthese(cle!), setEtape, controleur.current.signal)
-      const modele = MAQUETTE ? undefined : cle!.fournisseur === 'autre' ? cle!.modeles?.analyse : { anthropic: 'Anthropic', mistral: 'Mistral AI', openai: 'OpenAI', regenvox: 'Anthropic' }[cle!.fournisseur]
+      const modele = MAQUETTE ? undefined : cle!.fournisseur === 'autre' ? cle!.modeles?.analyse : { anthropic: 'Anthropic', mistral: 'Mistral AI', openai: 'OpenAI', regenvox: 'Anthropic', gratuit: 'Anthropic' }[cle!.fournisseur]
       const sm = { ...s, modele }
       await sauver({ ...c, synthese: sm, rapport_html: html(c, sm, modele) })
       setMessage({ type: 'ok', texte: t('cons.synthese.ok') })
@@ -312,6 +312,7 @@ export default function Consultation() {
                 <SaisieCle
                   etat={saisieCle.etat}
                   abonnement={saisieCle.abonnement}
+                  offre={saisieCle.offre}
                   modifier={saisieCle.modifier}
                   verification={saisieCle.verification}
                   verifieeOk={saisieCle.verifieeOk}

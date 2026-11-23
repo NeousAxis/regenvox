@@ -1,8 +1,8 @@
-import { useCallback, useId, useRef, useState } from 'react'
+import { useCallback, useEffect, useId, useRef, useState } from 'react'
 import { useLanguage } from '../i18n/LanguageContext'
 import type { TranslationKey } from '../i18n/translations'
 import { moteur } from '../moteur'
-import type { Abonnement, CleApi, Fournisseur } from '../moteur'
+import type { Abonnement, CleApi, Fournisseur, OffreGratuite } from '../moteur'
 import { lireCleMemorisee, memoriserCle, oublierCle } from '../stockage'
 import { URL_CLE_ANTHROPIC, URL_CLE_MISTRAL, URL_CLE_OPENAI, SERVICES_AUTRES, EMAIL_CONTACT } from '../liens'
 import { Aide, MessageErreur, decritPar } from './Champ'
@@ -47,6 +47,7 @@ const codeNormalise = (s: string) => s.replace(/\s+/g, '').toUpperCase()
 // Clé telle qu'elle part vers le moteur, avec l'adresse et les modèles pour « autres modèles ».
 export function cleDepuisEtat(e: EtatCle): CleApi | null {
   if (!e.fournisseur) return null
+  if (e.fournisseur === 'gratuit') return { fournisseur: 'gratuit', cle: '' }
   const cle: CleApi = { fournisseur: e.fournisseur, cle: e.fournisseur === 'regenvox' ? codeNormalise(e.cle) : e.cle.trim() }
   if (e.fournisseur === 'autre') {
     cle.adresse = e.adresse.trim()
@@ -69,10 +70,11 @@ export interface ErreursCle {
   modele?: TranslationKey
 }
 
-const signature = (e: EtatCle) => `${e.fournisseur}:${e.fournisseur === 'autre' ? e.adresse.trim() + ':' : ''}${e.fournisseur === 'regenvox' ? codeNormalise(e.cle) : e.cle.trim()}`
+const signature = (e: EtatCle) => e.fournisseur === 'gratuit' ? 'gratuit' : `${e.fournisseur}:${e.fournisseur === 'autre' ? e.adresse.trim() + ':' : ''}${e.fournisseur === 'regenvox' ? codeNormalise(e.cle) : e.cle.trim()}`
 
 export function validerCle(e: EtatCle): ErreursCle {
   const erreurs: ErreursCle = {}
+  if (e.fournisseur === 'gratuit') return erreurs
   if (!e.fournisseur) erreurs.fournisseur = 'erreur.fournisseur'
   const cle = e.cle.trim()
   if (!cle) erreurs.cle = 'erreur.cle'
@@ -86,8 +88,12 @@ export function validerCle(e: EtatCle): ErreursCle {
   return erreurs
 }
 
+// Clés personnelles : option avancée, repliée tant qu'aucune n'est choisie.
+const AVANCES: Fournisseur[] = ['anthropic', 'mistral', 'openai', 'autre']
+
 // État de la saisie de la clé, partagé par le formulaire et la reprise d'un test.
-export function useSaisieCle() {
+// sansGratuit : pour la synthèse d'une consultation réelle, qui n'est pas un test de démarche.
+export function useSaisieCle({ sansGratuit = false }: { sansGratuit?: boolean } = {}) {
   const [etat, setEtat] = useState<EtatCle>(() => {
     const memo = lireCleMemorisee()
     if (!memo) return { fournisseur: '', cle: '', memoriser: false, ...VIDE }
@@ -102,8 +108,26 @@ export function useSaisieCle() {
   const [verification, setVerification] = useState<Verification>({ statut: 'aucune' })
   // Abonnement reconnu par le relais lors de la dernière vérification réussie d'un code.
   const [abonnement, setAbonnement] = useState<{ pour: string; abo: Abonnement } | null>(null)
+  // Test gratuit : demandé au relais à l'ouverture ; choisi d'office s'il est ouvert et qu'aucune clé n'est mémorisée.
+  const [offre, setOffre] = useState<OffreGratuite | 'indisponible' | null>(sansGratuit ? 'indisponible' : null)
   const dernier = useRef(etat)
   dernier.current = etat
+
+  useEffect(() => {
+    if (sansGratuit) return
+    let actif = true
+    moteur
+      .verifierCle({ fournisseur: 'gratuit', cle: '' })
+      .then((r) => {
+        if (!actif) return
+        setOffre(r.gratuit ?? 'indisponible')
+        if (r.ok && r.gratuit) setEtat((e) => (e.fournisseur === '' ? { ...e, fournisseur: 'gratuit' } : e))
+      })
+      .catch(() => actif && setOffre('indisponible'))
+    return () => {
+      actif = false
+    }
+  }, [sansGratuit])
 
   const modifier = useCallback((maj: Partial<EtatCle>) => {
     setEtat((e) => ({ ...e, ...maj }))
@@ -124,6 +148,7 @@ export function useSaisieCle() {
       }
       setVerification(r.ok ? { statut: 'ok', pour: sig } : { statut: 'ko', pour: sig, message: r.message })
       setAbonnement(r.abonnement ? { pour: sig, abo: r.abonnement } : null)
+      if (r.gratuit) setOffre(r.gratuit)
       if (!r.ok) return null
       if (courant.fournisseur === 'autre' && r.modeles) {
         // Liste du service : on garde les choix déjà faits s'ils y figurent, sinon on propose les choix par défaut.
@@ -143,6 +168,7 @@ export function useSaisieCle() {
 
   // Applique le choix « Mémoriser la clé sur cet appareil ».
   const appliquerMemorisation = useCallback((cle: CleApi) => {
+    if (cle.fournisseur === 'gratuit') return
     if (dernier.current.memoriser) memoriserCle(cle)
     else oublierCle()
   }, [])
@@ -151,12 +177,13 @@ export function useSaisieCle() {
   const cleCourante = useCallback(() => cleDepuisEtat(dernier.current), [])
   const abonnementActuel = abonnement && abonnement.pour === signature(etat) ? abonnement.abo : null
 
-  return { etat, modifier, verification, verifier, verifieeOk, appliquerMemorisation, cleCourante, abonnement: abonnementActuel }
+  return { etat, modifier, verification, verifier, verifieeOk, appliquerMemorisation, cleCourante, abonnement: abonnementActuel, offre }
 }
 
 interface Props {
   etat: EtatCle
   abonnement?: Abonnement | null
+  offre?: OffreGratuite | 'indisponible' | null
   modifier: (maj: Partial<EtatCle>) => void
   verification: Verification
   verifieeOk: boolean
@@ -166,21 +193,55 @@ interface Props {
   idCle: string
 }
 
-export default function SaisieCle({ etat, abonnement, modifier, verification, verifieeOk, onVerifier, erreurs, idFournisseur, idCle }: Props) {
+export default function SaisieCle({ etat, abonnement, offre, modifier, verification, verifieeOk, onVerifier, erreurs, idFournisseur, idCle }: Props) {
   const { t, lang } = useLanguage()
   const base = useId()
   const [visible, setVisible] = useState(false)
+  const [avance, setAvance] = useState(() => AVANCES.includes(etat.fournisseur as Fournisseur))
+  // Sans test gratuit (relais fermé, hébergement sans offre), la clé personnelle est une voie normale : on l'ouvre.
+  useEffect(() => {
+    if (AVANCES.includes(etat.fournisseur as Fournisseur) || offre === 'indisponible') setAvance(true)
+  }, [etat.fournisseur, offre])
+  const gratuit = etat.fournisseur === 'gratuit'
+  const offreOuverte = offre && offre !== 'indisponible' ? offre : null
   const sig = signature(etat)
   const verifActuelle = (verification.statut === 'ok' || verification.statut === 'ko') && verification.pour !== sig ? null : verification
 
   const abo = etat.fournisseur === 'regenvox'
-  const fournisseurs: { code: Fournisseur; nom: TranslationKey; desc: TranslationKey }[] = [
+  type Choix = { code: Fournisseur; nom: TranslationKey; desc: TranslationKey }
+  const principaux: Choix[] = [
+    ...(offreOuverte ? [{ code: 'gratuit', nom: 'cle.gratuit', desc: 'cle.gratuit.desc' } as Choix] : []),
     { code: 'regenvox', nom: 'cle.regenvox', desc: 'cle.regenvox.desc' },
+  ]
+  const avances: Choix[] = [
     { code: 'anthropic', nom: 'cle.anthropic', desc: 'cle.anthropic.desc' },
     { code: 'mistral', nom: 'cle.mistral', desc: 'cle.mistral.desc' },
     { code: 'openai', nom: 'cle.openai', desc: 'cle.openai.desc' },
     { code: 'autre', nom: 'cle.autre', desc: 'cle.autre.desc' },
   ]
+  const carte = (f: Choix, premier: boolean) => (
+    <label
+      key={f.code}
+      className={`flex items-start gap-3 rounded-xl border-2 p-4 cursor-pointer transition-colors ${
+        etat.fournisseur === f.code ? 'border-ocean-dark bg-mist/40' : 'border-mist hover:border-sky'
+      }`}
+    >
+      <input
+        id={premier ? idFournisseur : undefined}
+        type="radio"
+        name={`${base}-fournisseur`}
+        value={f.code}
+        checked={etat.fournisseur === f.code}
+        onChange={() => modifier({ fournisseur: f.code })}
+        className="mt-1 w-5 h-5 accent-ocean-dark shrink-0"
+        aria-invalid={erreurs.fournisseur ? true : undefined}
+      />
+      <span>
+        <span className="block font-semibold">{t(f.nom)}</span>
+        <span className="block text-sm text-dark-light">{t(f.desc)}</span>
+      </span>
+    </label>
+  )
   const service = SERVICES_AUTRES.find((s) => s.code === etat.service)
 
   const aideCle: TranslationKey =
@@ -190,33 +251,20 @@ export default function SaisieCle({ etat, abonnement, modifier, verification, ve
     <div className="space-y-6">
       <fieldset aria-describedby={decritPar(erreurs.fournisseur && `${base}-err-f`)}>
         <legend className="font-semibold text-dark mb-2">{t('cle.fournisseur.label')}</legend>
-        <div className="grid gap-3 sm:grid-cols-2">
-          {fournisseurs.map((f, i) => (
-            <label
-              key={f.code}
-              className={`flex items-start gap-3 rounded-xl border-2 p-4 cursor-pointer transition-colors ${
-                etat.fournisseur === f.code ? 'border-ocean-dark bg-mist/40' : 'border-mist hover:border-sky'
-              }`}
-            >
-              <input
-                id={i === 0 ? idFournisseur : undefined}
-                type="radio"
-                name={`${base}-fournisseur`}
-                value={f.code}
-                checked={etat.fournisseur === f.code}
-                onChange={() => modifier({ fournisseur: f.code })}
-                className="mt-1 w-5 h-5 accent-ocean-dark shrink-0"
-                aria-invalid={erreurs.fournisseur ? true : undefined}
-              />
-              <span>
-                <span className="block font-semibold">{t(f.nom)}</span>
-                <span className="block text-sm text-dark-light">{t(f.desc)}</span>
-              </span>
-            </label>
-          ))}
-        </div>
+        <div className="grid gap-3 sm:grid-cols-2">{principaux.map((f, i) => carte(f, i === 0))}</div>
+        <details className="mt-4 group" open={avance} onToggle={(e) => setAvance((e.target as HTMLDetailsElement).open)}>
+          <summary className="cursor-pointer font-medium text-ocean-dark">{t('cle.avance')}</summary>
+          <p className="mt-2 text-sm text-dark-light">{t('cle.avance.aide')}</p>
+          <div className="mt-3 grid gap-3 sm:grid-cols-2">{avances.map((f) => carte(f, false))}</div>
+        </details>
         <MessageErreur id={`${base}-err-f`}>{erreurs.fournisseur && t(erreurs.fournisseur)}</MessageErreur>
       </fieldset>
+
+      {gratuit && offreOuverte && (
+        <p role="status" className={`text-sm ${offreOuverte.restant_reseau > 0 && offreOuverte.budget_ok ? 'text-dark' : 'font-medium text-alerte'}`}>
+          {!offreOuverte.budget_ok ? t('cle.gratuit.budget') : offreOuverte.restant_reseau > 0 ? t('cle.gratuit.info', { n: String(offreOuverte.restant_reseau) }) : t('cle.gratuit.epuise')}
+        </p>
+      )}
 
       {etat.fournisseur === 'autre' && (
         <div className="space-y-4">
@@ -260,6 +308,7 @@ export default function SaisieCle({ etat, abonnement, modifier, verification, ve
         </div>
       )}
 
+      {!gratuit && (<>
       <div>
         <label htmlFor={idCle} className="block font-semibold text-dark">
           {t(abo ? 'cle.code.label' : 'cle.cle.label')}
@@ -362,6 +411,8 @@ export default function SaisieCle({ etat, abonnement, modifier, verification, ve
           {verifActuelle?.statut === 'echec' && <span className="font-medium text-alerte">{t('cle.echec')}</span>}
         </div>
       </div>
+
+      </>)}
 
       {etat.fournisseur === 'autre' && etat.modelesDispo.length > 0 && (
         <fieldset className="space-y-4">

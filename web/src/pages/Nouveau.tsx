@@ -440,6 +440,14 @@ export default function Nouveau() {
       return
     }
 
+    // Test gratuit : plus aucun test possible aujourd'hui depuis ce réseau, ou budget du mois épuisé.
+    const offre = saisieCle.offre
+    if (saisieCle.etat.fournisseur === 'gratuit' && offre && offre !== 'indisponible' && (offre.restant_reseau <= 0 || !offre.budget_ok)) {
+      setErreurLancement(t(offre.budget_ok ? 'cle.gratuit.epuise' : 'cle.gratuit.budget'))
+      setCibleFocus('cle-fournisseur')
+      return
+    }
+
     setLancement(true)
     const { etat } = saisieCle
     const cle: CleApi | null =
@@ -873,11 +881,12 @@ export default function Nouveau() {
             {/* Étape 4 : clé API */}
             {etape === 4 && (
               <>
-                <p className="text-dark leading-relaxed">{t('cle.intro')}</p>
-                <BlocRassurance abonnement={saisieCle.etat.fournisseur === 'regenvox'} />
+                <p className="text-dark leading-relaxed">{t(saisieCle.offre === 'indisponible' ? 'cle.intro.sansGratuit' : 'cle.intro')}</p>
+                <BlocRassurance abonnement={saisieCle.etat.fournisseur === 'regenvox' || saisieCle.etat.fournisseur === 'gratuit'} />
                 <SaisieCle
                   etat={saisieCle.etat}
                   abonnement={saisieCle.abonnement}
+                  offre={saisieCle.offre}
                   modifier={saisieCle.modifier}
                   verification={saisieCle.verification}
                   verifieeOk={saisieCle.verifieeOk}

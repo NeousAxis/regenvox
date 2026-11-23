@@ -8,7 +8,7 @@ import fournisseurs from "../../../../fournisseurs.json";
 import { ETAPES, executerTest, type Appel } from "../../../../src/pipeline";
 import { construireCas, type SourceTerritoire } from "../../../../src/plateforme";
 import { renderRapportPlateforme } from "../../../../src/rapport";
-import { appelAnthropic, appelMistral, appelOpenAI, modelesOpenAI, appelCompatible, listerModelesCompatibles, appelRelais, etatAbonnement, type Requete, type ClientMistral } from "../../../../src/appels";
+import { appelAnthropic, appelMistral, appelOpenAI, modelesOpenAI, appelCompatible, listerModelesCompatibles, appelRelais, etatAbonnement, etatGratuit, ticketGratuit, type Requete, type ClientMistral } from "../../../../src/appels";
 import type { Moteur, Projet, ParametresTest, CleApi, Etape } from "../index";
 
 const RACINE = "/moteur";
@@ -34,8 +34,22 @@ const cantonDe = async (num: number) => {
 const slug = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40) || "test";
 const etapesInitiales = (): Etape[] => ETAPES.map((e) => ({ cle: e.cle, libelle: e.libelle, etat: "a_faire" }));
 
-async function clientAppel(cle: CleApi): Promise<Appel> {
-  if (cle.fournisseur === "regenvox") return async (r: Requete) => appelRelais(SERVEUR_IA, cle.cle, r);
+// projet : identifiant du test, auquel le ticket gratuit est lié (une reprise garde son ticket et son budget).
+async function clientAppel(cle: CleApi, projet?: string): Promise<Appel> {
+  if (cle.fournisseur === "regenvox") return async (r: Requete) => appelRelais(SERVEUR_IA, { code: cle.cle }, r);
+  if (cle.fournisseur === "gratuit") {
+    if (!projet) throw new Error("Le test gratuit sert aux tests de démarche : pour cette action, utilisez un code d'abonnement ou votre propre clé.");
+    const ticket = await ticketGratuit(SERVEUR_IA, projet);
+    return async (r: Requete) => {
+      try {
+        return await appelRelais(SERVEUR_IA, { ticket }, r);
+      } catch (e: any) {
+        // Le plafond atteint est celui du test gratuit, pas d'un abonnement.
+        if (e?.relais === "plafond") e.relais = "plafond_gratuit";
+        throw e;
+      }
+    };
+  }
   if (cle.fournisseur === "autre") {
     if (!cle.adresse || !cle.modeles) throw new Error("Service ou modèles non choisis.");
     const { adresse, modeles } = cle;
@@ -141,9 +155,9 @@ export const moteurNavigateur: Moteur = {
         maj({ fichiers: instantane() });
       }
       const usage = { ...(pr.usage ?? { tokens_entree: 0, tokens_sortie: 0 }) };
-      await executerTest(caseId, runId, await clientAppel(cle), {
+      await executerTest(caseId, runId, await clientAppel(cle, pr.id), {
         signal,
-        parallele: cle.fournisseur === "anthropic" || cle.fournisseur === "regenvox" ? 6 : cle.fournisseur === "autre" ? 3 : 4,
+        parallele: cle.fournisseur === "anthropic" || cle.fournisseur === "regenvox" || cle.fournisseur === "gratuit" ? 6 : cle.fournisseur === "autre" ? 3 : 4,
         usage: (u) => {
           usage.tokens_entree += u.tokens_entree;
           usage.tokens_sortie += u.tokens_sortie;
@@ -186,6 +200,11 @@ export const moteurNavigateur: Moteur = {
 
   async verifierCle(cle: CleApi) {
     try {
+      if (cle.fournisseur === "gratuit") {
+        const gratuit = await etatGratuit(SERVEUR_IA);
+        if (!gratuit.budget_ok) return { ok: false, message: messageErreur({ relais: "gratuit_budget" }), gratuit };
+        return { ok: true, gratuit };
+      }
       if (cle.fournisseur === "regenvox") {
         const abonnement = await etatAbonnement(SERVEUR_IA, cle.cle);
         if (abonnement.restant_usd <= 0) return { ok: false, message: messageErreur({ relais: "plafond" }), abonnement };
@@ -220,6 +239,13 @@ function messageErreur(e: any): string {
   if (relais === "plafond") return "Le crédit de votre abonnement est épuisé pour cette période : écrivez-nous pour l'augmenter, puis reprenez le test.";
   if (relais === "ferme") return "Les abonnements ne sont pas ouverts sur ce serveur pour le moment.";
   if (relais === "cle_serveur") return "Le service RegenVox est momentanément indisponible : réessayez plus tard, votre test reprendra où il s'est arrêté.";
+  // Test gratuit : chaque refus propose une autre voie (abonnement, ou sa propre clé en option avancée).
+  if (relais === "gratuit_ferme") return "Le test gratuit n'est pas proposé pour le moment : utilisez un code d'abonnement ou votre propre clé (option avancée).";
+  if (relais === "gratuit_budget") return "Les tests gratuits de ce mois sont épuisés : utilisez un code d'abonnement ou votre propre clé (option avancée).";
+  if (relais === "gratuit_epuise") return "Les tests gratuits du jour ont été utilisés depuis votre réseau : réessayez demain, ou utilisez un code d'abonnement ou votre propre clé (option avancée).";
+  if (relais === "gratuit_occupe") return "Plusieurs tests gratuits sont en cours en ce moment : réessayez dans quelques minutes, ou utilisez un code d'abonnement.";
+  if (relais === "plafond_gratuit") return "Ce test gratuit a atteint sa limite de coût : pour le terminer, reprenez-le avec un code d'abonnement ou votre propre clé (option avancée).";
+  if (relais === "ticket") return "Ce test gratuit a expiré : reprenez-le pour en ouvrir un nouveau.";
   const statut = e?.status ?? e?.statusCode;
   if (statut === 401 || statut === 403) return "Clé refusée par le fournisseur : vérifiez qu'elle est correcte et active.";
   if (statut === 402 || /credit|billing|balance/i.test(e?.message ?? "")) return "Crédit insuffisant chez le fournisseur : ajoutez du crédit sur votre compte puis reprenez le test.";

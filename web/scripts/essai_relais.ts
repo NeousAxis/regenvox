@@ -1,13 +1,14 @@
 // Essai du relais des abonnements (web/public/api/ia.php) contre un faux fournisseur Anthropic, sans clé ni appel payant.
 // Lancé par essai_relais.sh, qui démarre le serveur PHP avec la configuration écrite ici.
 // Vérifie : relais fermé par défaut, codes, requête identique à appelAnthropic, nouvelles tentatives, refus,
-// plafond, réservations sous appels simultanés, aucun texte gardé, code d'abonnement valable pour la consultation.
+// plafond, réservations sous appels simultanés, aucun texte gardé, code d'abonnement valable pour la consultation,
+// et le test gratuit : désactivé par défaut, ticket lié au projet, limites par réseau, budget du mois, tests simultanés.
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import http from "node:http";
 import path from "node:path";
 import { createHash } from "node:crypto";
-import { appelRelais, etatAbonnement, type Requete } from "../../src/appels.js";
+import { appelRelais, etatAbonnement, etatGratuit, ticketGratuit, type Requete } from "../../src/appels.js";
 
 const [, , RELAIS, CONFIG, DONNEES, PORT_FAUX] = process.argv;
 const CONSULTATION = RELAIS.replace(/ia\.php$/, "consultation.php");
@@ -54,7 +55,7 @@ const echoue = async (f: Promise<unknown>) => {
   } catch (e: any) {
     return e;
   }
-  assert.fail("une erreur était attendue");
+  assert.fail(`une erreur était attendue, reçu : ${JSON.stringify(await f)}`);
 };
 
 try {
@@ -85,7 +86,7 @@ try {
   assert.deepEqual([etat0.nom, etat0.approfondi, etat0.restant_usd, etat0.periode], ["Commune d'essai", true, 1, "mois"]);
 
   // 3. Requête Opus identique à appelAnthropic, coût décompté.
-  const r1 = await appelRelais(RELAIS, CODE, req("opus", "Bonjour opus."));
+  const r1 = await appelRelais(RELAIS, { code: CODE }, req("opus", "Bonjour opus."));
   assert.equal(r1.texte, '{"ok":"claude-opus-5-5"}');
   assert.deepEqual([r1.tokens_entree, r1.tokens_sortie, r1.modele], [1000, 500, "claude-opus-5-5"]);
   const q1 = recues.at(-1)!;
@@ -98,37 +99,37 @@ try {
   assert.equal(etat1.restant_usd, Math.round((1 - (1000 * 4 + 500 * 20) / 1e6) * 100) / 100);
 
   // 4. Haiku : réflexion faible, pas de repli.
-  await appelRelais(RELAIS, CODE, req("haiku", "Bonjour haiku."));
+  await appelRelais(RELAIS, { code: CODE }, req("haiku", "Bonjour haiku."));
   const q2 = recues.at(-1)!;
   assert.equal(q2.entetes["anthropic-beta"], undefined);
   assert.deepEqual(q2.corps, { model: "claude-haiku-5-5", max_tokens: 16000, output_config: { effort: "low" }, system: "Consigne système d'essai.", messages: [{ role: "user", content: "Bonjour haiku." }] });
 
   // 4 bis. Limite de réponse : 48000 seulement pour les analyses d'un abonnement approfondi.
-  await appelRelais(RELAIS, CODE, { ...req("opus", "Analyse approfondie."), max_tokens: 48000 });
+  await appelRelais(RELAIS, { code: CODE }, { ...req("opus", "Analyse approfondie."), max_tokens: 48000 });
   assert.equal(recues.at(-1)!.corps.max_tokens, 48000);
-  assert.equal((await echoue(appelRelais(RELAIS, CODE, { ...req("haiku", "Habitant."), max_tokens: 48000 }))).status, 400);
-  assert.equal((await echoue(appelRelais(RELAIS, CODE, { ...req("opus", "Autre limite."), max_tokens: 99999 }))).status, 400);
-  assert.equal((await echoue(appelRelais(RELAIS, PETIT, { ...req("opus", "Sans approfondi."), max_tokens: 48000 }))).status, 400);
+  assert.equal((await echoue(appelRelais(RELAIS, { code: CODE }, { ...req("haiku", "Habitant."), max_tokens: 48000 }))).status, 400);
+  assert.equal((await echoue(appelRelais(RELAIS, { code: CODE }, { ...req("opus", "Autre limite."), max_tokens: 99999 }))).status, 400);
+  assert.equal((await echoue(appelRelais(RELAIS, { code: PETIT }, { ...req("opus", "Sans approfondi."), max_tokens: 48000 }))).status, 400);
 
   // 5. Surcharge passagère du fournisseur : le client réessaie et aboutit.
   const avant429 = recues.length;
-  const r429 = await appelRelais(RELAIS, CODE, req("sonnet", "Avec [429] une fois."));
+  const r429 = await appelRelais(RELAIS, { code: CODE }, req("sonnet", "Avec [429] une fois."));
   assert.equal(r429.modele, "claude-sonnet-5-5");
   assert.equal(recues.length - avant429, 2);
 
   // 6. Refus du modèle : même erreur que appelAnthropic.
-  assert.match((await echoue(appelRelais(RELAIS, CODE, req("opus", "[refus]")))).message, /^refus du modèle \(cyber\)$/);
+  assert.match((await echoue(appelRelais(RELAIS, { code: CODE }, req("opus", "[refus]")))).message, /^refus du modèle \(cyber\)$/);
 
   // 7. Plafond atteint : refus sans appel au fournisseur et sans nouvelle tentative.
   const avantPlafond = recues.length;
-  e = await echoue(appelRelais(RELAIS, PETIT, req("haiku", "Trop cher.")));
+  e = await echoue(appelRelais(RELAIS, { code: PETIT }, req("haiku", "Trop cher.")));
   assert.deepEqual([e.status, e.relais], [402, "plafond"]);
   assert.equal(recues.length, avantPlafond);
 
   // 8. Appels simultanés : les réservations empêchent de dépasser ensemble le plafond (0,02 $ : deux appels Haiku au pire
   // en vol à la fois). Un appel terminé libère sa réservation : un appel arrivé ensuite peut passer, sans dépasser le plafond.
   const avantSimul = recues.length;
-  const lot = await Promise.allSettled(Array.from({ length: 6 }, () => appelRelais(RELAIS, SIMUL, req("haiku", "[lent] Appel simultané."))));
+  const lot = await Promise.allSettled(Array.from({ length: 6 }, () => appelRelais(RELAIS, { code: SIMUL }, req("haiku", "[lent] Appel simultané."))));
   const acceptes = lot.filter((x) => x.status === "fulfilled").length;
   assert.ok(maxEnVol <= 2, `appels en vol en même temps : ${maxEnVol}`);
   assert.ok(acceptes >= 2 && acceptes < 6, `appels simultanés acceptés : ${acceptes}`);
@@ -152,6 +153,72 @@ try {
   assert.equal((await creer(CODE)).erreur, "id"); // code accepté : la requête échoue plus loin, faute de consultation
   assert.equal((await creer(CONSULT)).erreur, "id");
   assert.equal((await creer("EXPI REEX PIRE 2345")).erreur, "code"); // abonnement expiré : plus de consultation
+
+  // 11. Test gratuit désactivé par défaut : l'offre est fermée, un ticket inventé est refusé.
+  assert.equal((await echoue(etatGratuit(RELAIS))).relais, "gratuit_ferme");
+  assert.equal((await echoue(ticketGratuit(RELAIS, "projet-a"))).relais, "gratuit_ferme");
+
+  // 12. Test gratuit seul (sans abonnement) : le relais s'ouvre, les codes sont refusés.
+  const base = { anthropic_cle: "sk-essai", anthropic_url: `http://127.0.0.1:${PORT_FAUX}`, dossier: DONNEES };
+  const gratuit = (g: Record<string, unknown>) => ecrireConfig({ ...base, gratuit: { actif: true, plafond_test_usd: 1, plafond_mois_usd: 5, tests_par_jour_reseau: 2, simultanes: 1, ...g } });
+  gratuit({});
+  assert.equal((await echoue(etatAbonnement(RELAIS, CODE))).relais, "code");
+  assert.deepEqual(await etatGratuit(RELAIS), { restant_reseau: 2, budget_ok: true });
+
+  // 13. Ticket lié au projet : le même projet retrouve le même ticket, sans compter un test de plus.
+  const t1 = await ticketGratuit(RELAIS, "projet-a");
+  assert.match(t1, /^[0-9a-f]{32}$/);
+  assert.equal(await ticketGratuit(RELAIS, "projet-a"), t1);
+  assert.equal((await etatGratuit(RELAIS)).restant_reseau, 1);
+
+  // 14. Appel gratuit : même requête au fournisseur, sans le ticket ; limite approfondie refusée.
+  const rg = await appelRelais(RELAIS, { ticket: t1 }, req("sonnet", "Test gratuit."));
+  assert.equal(rg.modele, "claude-sonnet-5-5");
+  assert.deepEqual(recues.at(-1)!.corps, { model: "claude-sonnet-5-5", max_tokens: 16000, output_config: { effort: "medium" }, system: "Consigne système d'essai.", messages: [{ role: "user", content: "Test gratuit." }], fallbacks: "default" });
+  assert.equal((await echoue(appelRelais(RELAIS, { ticket: t1 }, { ...req("opus", "Approfondi."), max_tokens: 48000 }))).status, 400);
+  assert.equal((await echoue(appelRelais(RELAIS, { ticket: "0".repeat(32) }, req("haiku", "Forgé.")))).relais, "ticket");
+  assert.equal((await echoue(appelRelais(RELAIS, { ticket: "../abonnements/x" }, req("haiku", "Forgé.")))).relais, "ticket");
+
+  // 14 bis. Six appels simultanés sur le même ticket, comme un vrai test : aucun n'est refusé pendant que les autres
+  // réécrivent le compte du ticket.
+  const enCours = Promise.allSettled(Array.from({ length: 6 }, (_, i) => appelRelais(RELAIS, { ticket: t1 }, req("haiku", `[lent] Habitant ${i}.`))));
+  // Pendant ces appels, une reprise du même projet retrouve le même ticket (lu sous verrou, sans en ouvrir un autre).
+  await new Promise((ok) => setTimeout(ok, 300));
+  for (let i = 0; i < 5; i++) assert.equal(await ticketGratuit(RELAIS, "projet-a"), t1);
+  const lotGratuit = await enCours;
+  assert.deepEqual(lotGratuit.map((x) => x.status), Array(6).fill("fulfilled"), JSON.stringify(lotGratuit.filter((x) => x.status === "rejected").map((x: any) => x.reason.relais)));
+
+  // 15. Tests simultanés : le projet A vient d'appeler, un second test gratuit attend.
+  assert.equal((await echoue(ticketGratuit(RELAIS, "projet-b"))).relais, "gratuit_occupe");
+  // 16. Limite par réseau : deux nouveaux tests par jour, le troisième est refusé.
+  gratuit({ simultanes: 10 });
+  const t2 = await ticketGratuit(RELAIS, "projet-b");
+  assert.notEqual(t2, t1);
+  assert.equal((await echoue(ticketGratuit(RELAIS, "projet-c"))).relais, "gratuit_epuise");
+  assert.equal((await etatGratuit(RELAIS)).restant_reseau, 0);
+
+  // 17. Plafond par test, puis budget du mois pour tous les tests gratuits.
+  gratuit({ simultanes: 10, plafond_test_usd: 0.0001 });
+  assert.deepEqual([(e = await echoue(appelRelais(RELAIS, { ticket: t2 }, req("haiku", "Trop cher.")))).status, e.relais], [402, "plafond"]);
+  gratuit({ simultanes: 10, plafond_mois_usd: 0.0001 });
+  assert.equal((await echoue(appelRelais(RELAIS, { ticket: t2 }, req("haiku", "Budget épuisé.")))).relais, "gratuit_budget");
+  assert.equal((await echoue(ticketGratuit(RELAIS, "projet-d"))).relais, "gratuit_budget");
+  assert.equal((await etatGratuit(RELAIS)).budget_ok, false);
+
+  // 18. Ticket expiré : refusé, et un nouveau test du même projet en reçoit un autre.
+  gratuit({ simultanes: 10, tests_par_jour_reseau: 5 });
+  const fichierT1 = path.join(DONNEES, "essais", `t_${t1}.json`);
+  fs.writeFileSync(fichierT1, JSON.stringify({ ...JSON.parse(fs.readFileSync(fichierT1, "utf8")), exp: 1 }));
+  assert.equal((await echoue(appelRelais(RELAIS, { ticket: t1 }, req("haiku", "Expiré.")))).relais, "ticket");
+  assert.notEqual(await ticketGratuit(RELAIS, "projet-a"), t1);
+
+  // 19. Aucun texte gardé côté gratuit non plus, ni adresse IP en clair.
+  for (const f of fs.readdirSync(path.join(DONNEES, "essais"), { recursive: true }) as string[]) {
+    const chemin = path.join(DONNEES, "essais", f);
+    if (!fs.statSync(chemin).isFile()) continue;
+    const t = fs.readFileSync(chemin, "utf8");
+    assert.ok(!/Test gratuit|Consigne|Forgé|Trop cher|127\.0\.0\.1|projet-/.test(t), `donnée lisible dans essais/${f}`);
+  }
 
   console.log(`essai relais OK (${recues.length} requêtes reçues par le faux fournisseur)`);
 } finally {

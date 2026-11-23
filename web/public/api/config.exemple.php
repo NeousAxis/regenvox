@@ -19,6 +19,13 @@ return [
         // 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855' => ['nom' => 'Commune de Vuadens', 'plafond_usd' => 60, 'periode' => 'mois', 'expire' => '2027-12-31', 'approfondi' => true],
         // '<empreinte>' => ['nom' => 'Essai Commune X', 'plafond_usd' => 6, 'periode' => 'total', 'approfondi' => false],
     ],
+    // Test gratuit sans clé (test standard seulement), payé par la clé ci-dessus. Désactivé tant que 'actif' n'est pas vrai.
+    // plafond_test_usd : dépense permise par test ; plafond_mois_usd : budget du mois pour tous les tests gratuits ;
+    // tests_par_jour_reseau : nouveaux tests par adresse IPv4 ou préfixe IPv6 /56 et par jour ;
+    // simultanes : tests gratuits menés en même temps (6 appels chacun : à accorder avec pm.max_children du pool PHP) ; duree_ticket_h : validité d'un ticket (reprises comprises).
+    'gratuit' => [
+        // 'actif' => true, 'plafond_test_usd' => 4, 'plafond_mois_usd' => 25, 'tests_par_jour_reseau' => 2, 'simultanes' => 2, 'duree_ticket_h' => 24,
+    ],
     // Autres sites autorisés à appeler ce serveur, si la plateforme n'est pas servie depuis le même site.
     'origines' => [],
     // Vrai seulement si le serveur est derrière un proxy de confiance (l'adresse du client est alors la dernière de X-Forwarded-For).
