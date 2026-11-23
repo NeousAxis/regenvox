@@ -79,7 +79,7 @@ const fr = {
 
   // Accueil : souveraineté
   'souv.titre': "Vos données restent chez vous",
-  'souv.intro': "RegenVox fonctionne entièrement dans votre navigateur. Régénère Plus fournit l'outil, rien de plus : nous ne voyons ni vos projets, ni vos résultats, ni votre clé.",
+  'souv.intro': "RegenVox fonctionne dans votre navigateur. Vos projets et vos résultats restent chez vous : Régénère Plus n'en garde aucune copie.",
   'souv.1.titre': "Tout reste sur votre ordinateur",
   'souv.1.texte': "Vos démarches et vos rapports sont enregistrés dans votre navigateur. Vous pouvez aussi les enregistrer dans un fichier, où vous le souhaitez : disque dur, cloud ou clé USB.",
   'souv.2.titre': "Aucune clé à fournir",
@@ -656,7 +656,7 @@ const en: Record<TranslationKey, string> = {
   'contenu.6': "The method, the assumptions and the sources, so that anyone can check.",
 
   'souv.titre': "Your data stays with you",
-  'souv.intro': "RegenVox runs entirely in your browser. Régénère Plus provides the tool, nothing more: we see neither your projects, nor your results, nor your key.",
+  'souv.intro': "RegenVox runs in your browser. Your projects and results stay with you: Régénère Plus keeps no copy of them.",
   'souv.1.titre': "Everything stays on your computer",
   'souv.1.texte': "Your processes and reports are stored in your browser. You can also save them to a file, wherever you like: disk, cloud, USB stick.",
   'souv.2.titre': "No key needed",

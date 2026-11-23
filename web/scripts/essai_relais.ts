@@ -158,6 +158,12 @@ try {
   assert.equal((await echoue(etatGratuit(RELAIS))).relais, "gratuit_ferme");
   assert.equal((await echoue(ticketGratuit(RELAIS, "projet-a"))).relais, "gratuit_ferme");
 
+  // 11 bis. Premier accès simultané (dossiers pas encore créés) : aucune requête ne doit échouer.
+  fs.rmSync(path.join(DONNEES, "essais"), { recursive: true, force: true });
+  ecrireConfig({ anthropic_cle: "sk-essai", dossier: DONNEES, gratuit: { actif: true } });
+  const premiers = await Promise.allSettled(Array.from({ length: 8 }, () => etatGratuit(RELAIS)));
+  assert.deepEqual(premiers.map((x) => x.status), Array(8).fill("fulfilled"), "premier accès simultané refusé");
+
   // 12. Test gratuit seul (sans abonnement) : le relais s'ouvre, les codes sont refusés.
   const base = { anthropic_cle: "sk-essai", anthropic_url: `http://127.0.0.1:${PORT_FAUX}`, dossier: DONNEES };
   const gratuit = (g: Record<string, unknown>) => ecrireConfig({ ...base, gratuit: { actif: true, plafond_test_usd: 1, plafond_mois_usd: 5, tests_par_jour_reseau: 2, simultanes: 1, ...g } });

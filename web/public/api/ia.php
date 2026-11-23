@@ -116,7 +116,8 @@ $BASE = dossier_donnees($config);
 $COMPTES = $BASE . '/abonnements';
 $ESSAIS = $BASE . '/essais';
 foreach ([$COMPTES, $ESSAIS] as $d) {
-    if (!is_dir($d) && !@mkdir($d, 0700, true)) erreur(500, 'stockage_indisponible');
+    // Deux requêtes simultanées peuvent créer le dossier en même temps : seule compte son existence à la fin.
+    if (!is_dir($d) && !@mkdir($d, 0700, true) && !is_dir($d)) erreur(500, 'stockage_indisponible');
     if (strpos(realpath($d) ?: $d, realpath(__DIR__) ?: __DIR__) === 0 && !is_file($d . '/.htaccess')) {
         @file_put_contents($d . '/.htaccess', "Require all denied\nDeny from all\n");
     }
