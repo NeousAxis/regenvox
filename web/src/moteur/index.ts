@@ -1,8 +1,11 @@
 // Interface du moteur RegenVox. Le moteur tourne dans le navigateur de l'utilisateur :
 // la clé API part uniquement vers le fournisseur choisi, les projets restent sur l'appareil.
+// Sans clé personnelle (« gratuit » : test standard offert ; « regenvox » : abonnement), les appels passent par le
+// relais de Régénère Plus et sa clé Anthropic.
 
-export type Fournisseur = "anthropic" | "mistral" | "openai" | "autre";
+export type Fournisseur = "anthropic" | "mistral" | "openai" | "autre" | "regenvox" | "gratuit";
 // adresse et modeles : seulement pour « autre » (service compatible OpenAI choisi par l'utilisateur).
+// Pour « regenvox », cle est le code d'abonnement ; pour « gratuit », elle est vide.
 export interface CleApi { fournisseur: Fournisseur; cle: string; adresse?: string; modeles?: { rapide: string; analyse: string } }
 export interface Groupe { nom: string; effectif: number; age_min: number; age_max: number }
 export type TypeOrganisation = "commune" | "administration" | "ecole" | "entreprise" | "ong";
@@ -13,7 +16,10 @@ export interface ParametresTest {
   territoire?: Territoire;   // commune, administration, ong (si territoire)
   groupes?: Groupe[];        // ecole, entreprise, ong (si membres)
   demarche: { enjeu: string; objectif: string; formulation: string; formats: string[]; horizon_mois: number };
+  profondeur?: "standard" | "approfondi"; // approfondi : abonnement seulement (panel de 96, 5 ou 6 formulations)
 }
+export interface Abonnement { nom: string; approfondi: boolean; periode: "mois" | "total"; plafond_usd: number; restant_usd: number; expire: string }
+export interface OffreGratuite { restant_reseau: number; budget_ok: boolean }
 export type EtatEtape = "a_faire" | "en_cours" | "fait" | "erreur";
 export interface Etape { cle: string; libelle: string; etat: EtatEtape }
 export interface Projet {
@@ -31,7 +37,7 @@ export interface Projet {
 export interface Moteur {
   creer(p: ParametresTest): Projet; // projet initial, étapes à faire, rien n'est lancé
   executer(projet: Projet, cle: CleApi, suivi: (p: Projet) => void, signal?: AbortSignal): Promise<Projet>; // lance ou reprend ; appelle suivi à chaque changement
-  verifierCle(cle: CleApi): Promise<{ ok: boolean; message?: string; modeles?: string[] }>; // modeles : liste du service, pour « autre »
+  verifierCle(cle: CleApi): Promise<{ ok: boolean; message?: string; modeles?: string[]; abonnement?: Abonnement; gratuit?: OffreGratuite }>; // modeles : pour « autre » ; abonnement : pour « regenvox » ; gratuit : offre ouverte et tests restants
   rendreRapport?(projet: Projet): string | null; // rapport d'un test terminé remis en page avec la version actuelle, sans appel à l'IA
 }
 

@@ -1,6 +1,6 @@
 export const URL_GITHUB = 'https://github.com/NeousAxis/regenvox'
 export const URL_REGENERE = 'https://regenereplus.ch'
-export const EMAIL_CONTACT = 'hello@regenereplus.com'
+export const EMAIL_CONTACT = 'hello@regenereplus.ch'
 export const URL_CLE_ANTHROPIC = 'https://console.anthropic.com/'
 export const URL_CLE_MISTRAL = 'https://console.mistral.ai/'
 export const URL_CLE_OPENAI = 'https://platform.openai.com/api-keys'

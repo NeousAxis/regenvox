@@ -1,0 +1,9 @@
+# Route du relais des abonnements, à ajouter dans le bloc du serveur de collecte (/etc/caddy/Caddyfile),
+# avant le « handle » final. Corps limité à 3 Mo, comme TAILLE_MAX_CORPS dans ia.php.
+	@ia path /api/ia.php
+	handle @ia {
+		request_body {
+			max_size 3MB
+		}
+		php_fastcgi unix//run/php/php8.5-fpm-ia.sock
+	}

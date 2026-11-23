@@ -258,6 +258,11 @@ switch ($action) {
         limiter($DONNEES, 'creer', (int)$config['max_creations_jour'], 'jour');
         $codes = (array)$config['codes'];
         if (count($codes) > 0) {
+            // Un code d'abonnement (relais IA) non expiré vaut aussi pour la consultation réelle.
+            foreach ((array)($config['abonnements'] ?? []) as $e => $abo) {
+                $exp = is_array($abo) ? (string)($abo['expire'] ?? '') : '';
+                if ($exp === '' || date('Y-m-d') <= $exp) $codes[] = $e;
+            }
             $code = is_string($c['code'] ?? null) ? strtoupper(preg_replace('/\s+/', '', $c['code'])) : '';
             $ok = false;
             foreach ($codes as $e) if (is_string($e) && hash_equals(strtolower($e), hash('sha256', $code))) $ok = true;

@@ -284,7 +284,7 @@ export function lireCleMemorisee(): CleApi | null {
     if (!brut) return null
     const v: unknown = JSON.parse(brut)
     if (!estObjet(v) || typeof v.cle !== 'string' || !v.cle) return null
-    if (v.fournisseur !== 'anthropic' && v.fournisseur !== 'mistral' && v.fournisseur !== 'openai' && v.fournisseur !== 'autre') return null
+    if (v.fournisseur !== 'anthropic' && v.fournisseur !== 'mistral' && v.fournisseur !== 'openai' && v.fournisseur !== 'autre' && v.fournisseur !== 'regenvox') return null
     const cle: CleApi = { fournisseur: v.fournisseur as Fournisseur, cle: v.cle }
     if (typeof v.adresse === 'string') cle.adresse = v.adresse
     if (estObjet(v.modeles) && typeof v.modeles.rapide === 'string' && typeof v.modeles.analyse === 'string') cle.modeles = { rapide: v.modeles.rapide, analyse: v.modeles.analyse }

@@ -169,7 +169,7 @@ export default function Suivi() {
                 <path d="M3 8h18M8 21h8" strokeLinecap="round" />
               </svg>
               <div>
-                <p className="font-bold text-dark text-lg leading-snug">{t('suivi.garder.titre')}</p>
+                <p className="font-bold text-dark text-lg leading-snug">{t(projet?.parametres.profondeur === 'approfondi' ? 'suivi.garder.titre.approfondi' : 'suivi.garder.titre')}</p>
                 <p className="mt-2 text-dark leading-relaxed">{t('suivi.garder.texte')}</p>
               </div>
             </div>
@@ -220,9 +220,11 @@ export default function Suivi() {
                 {t('suivi.cle.titre')}
               </h2>
               <p className="text-dark leading-relaxed">{t('suivi.cle.demande')}</p>
-              <BlocRassurance />
+              <BlocRassurance abonnement={saisieCle.etat.fournisseur === 'regenvox' || saisieCle.etat.fournisseur === 'gratuit'} />
               <SaisieCle
                 etat={saisieCle.etat}
+                abonnement={saisieCle.abonnement}
+                offre={saisieCle.offre}
                 modifier={saisieCle.modifier}
                 verification={saisieCle.verification}
                 verifieeOk={saisieCle.verifieeOk}
@@ -243,7 +245,7 @@ export default function Suivi() {
                 onClick={() => void verifierEtReprendre()}
                 disabled={reprise || saisieCle.verification.statut === 'encours'}
               >
-                {reprise ? t('suivi.reprise') : t('suivi.verifierEtReprendre')}
+                {reprise ? t('suivi.reprise') : t(saisieCle.etat.fournisseur === 'gratuit' ? 'suivi.reprendreGratuit' : 'suivi.verifierEtReprendre')}
               </button>
             </section>
           )}

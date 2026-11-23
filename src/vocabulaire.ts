@@ -123,6 +123,8 @@ function remplacements(c: CaseFile): [string, string][] {
 export function adapter(texte: string, c: CaseFile): string {
   if (!c.plateforme) return texte;
   let t = texte;
+  // Test approfondi : plus de formulations demandées au Formulateur.
+  if (c.angles_voulus) t = t.split("pour un total de 3 ou 4 angles").join(`pour un total de ${c.angles_voulus.min} ou ${c.angles_voulus.max} angles`);
   for (const [a, b] of remplacements(c)) t = t.split(a).join(b);
   // Sans votations passées, le backtest est vide : on retire la ligne qui le présente au Contradicteur.
   if (!c.votations?.length) t = t.replace(/^Backtest du panel sur des votations fédérales passées.*\n/m, "");

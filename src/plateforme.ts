@@ -9,6 +9,8 @@ export interface ParametresPlateforme {
   territoire?: { niveau: "commune" | "canton" | "suisse"; commune_num?: number; canton?: string };
   groupes?: GroupeSpec[];
   demarche: { enjeu: string; objectif: string; formulation: string; formats: string[]; horizon_mois: number };
+  // Test approfondi (abonnement) : panel deux fois plus grand et plus de formulations. Absent : test standard.
+  profondeur?: "standard" | "approfondi";
 }
 
 // Entrée de data/communes_ch.json (commune, canton ou Suisse).
@@ -20,6 +22,9 @@ export interface SourceTerritoire {
 }
 
 export const TAILLE_PANEL = 48;
+// Test approfondi : les sous-groupes (agriculteurs, jeunes, étrangers, groupes déclarés) comptent deux fois plus de voix.
+export const TAILLE_PANEL_APPROFONDI = 96;
+export const ANGLES_APPROFONDI = { min: 5, max: 6 };
 
 // Démarche agricole, reconnue à ses mots : les agriculteurs sont suréchantillonnés (8 sur 48, comme au premier test de Vuadens)
 // puis ramenés à leur part réelle, pour que leur avis puisse être lu à part. Ailleurs, leur nombre suit leur part réelle.
@@ -33,6 +38,8 @@ const nettoie = (s: string) => s.trim().replace(/\s+/g, " ");
 
 export function construireCas(id: string, p: ParametresPlateforme, territoire: SourceTerritoire | null, reference: SourceTerritoire, seed: number): { cas: CaseFile; panel: PanelSpec } {
   const d = p.demarche;
+  const approfondi = p.profondeur === "approfondi";
+  const N = approfondi ? TAILLE_PANEL_APPROFONDI : TAILLE_PANEL;
   const org = { type: p.organisation.type, nom: nettoie(p.organisation.nom) };
   let cible: CaseFile["cible"];
   let panel: PanelSpec;
@@ -68,11 +75,11 @@ export function construireCas(id: string, p: ParametresPlateforme, territoire: S
     cible = { type: niveau, nom: territoire.cible.nom, canton: territoire.cible.canton, pays: "CH", description: territoire.cible.description };
     contexte = territoire.contexte_factuel;
     const ag = territoire.panel.agriculteurs;
-    const proportionnel = Math.round(ag.part_16_plus * TAILLE_PANEL);
+    const proportionnel = Math.round(ag.part_16_plus * N);
     agricole = ag.part_16_plus > 0 && demarcheAgricole(d);
     panel = {
       ...territoire.panel,
-      agriculteurs: { ...ag, surechantillon: agricole ? Math.max(proportionnel, SURECHANTILLON_AGRICOLE) : proportionnel },
+      agriculteurs: { ...ag, surechantillon: agricole ? Math.max(proportionnel, Math.round((SURECHANTILLON_AGRICOLE * N) / TAILLE_PANEL)) : proportionnel },
       hypotheses: agricole ? [...territoire.panel.hypotheses, "La démarche touche l'agriculture (d'après les mots de l'enjeu, de l'objectif ou de la formulation) : les agriculteurs sont suréchantillonnés pour que leur avis puisse être lu à part."] : territoire.panel.hypotheses,
     };
   }
@@ -86,11 +93,12 @@ export function construireCas(id: string, p: ParametresPlateforme, territoire: S
     objectif: nettoie(d.objectif),
     angle_fourni: nettoie(d.formulation),
     horizon_mois: d.horizon_mois,
-    panel: { N: TAILLE_PANEL, seed },
+    panel: { N, seed },
     contexte_factuel: contexte,
     votations: [],
     sources,
     ...(agricole ? { acteurs_cles: { groupe: "agriculteurs", activite_regex: "agricult" } } : {}),
+    ...(approfondi ? { angles_voulus: ANGLES_APPROFONDI } : {}),
   };
   const m = mots(cas);
   const objectif = nettoie(d.objectif).replace(/[.!?]+$/, "");
