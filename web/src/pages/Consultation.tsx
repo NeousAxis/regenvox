@@ -146,7 +146,7 @@ export default function Consultation() {
     try {
       const ctx = { q: c.questionnaire, sim: c.simulation, analyse: analyser(c.questionnaire, c.reponses, c.simulation), lignes: c.lignes_anonymes }
       const s = MAQUETTE ? syntheseMaquette(ctx) : await synthetiser(ctx, await appelPourSynthese(cle!), setEtape, controleur.current.signal)
-      const modele = MAQUETTE ? undefined : cle!.fournisseur === 'autre' ? cle!.modeles?.analyse : { anthropic: 'Anthropic', mistral: 'Mistral AI', openai: 'OpenAI' }[cle!.fournisseur]
+      const modele = MAQUETTE ? undefined : cle!.fournisseur === 'autre' ? cle!.modeles?.analyse : { anthropic: 'Anthropic', mistral: 'Mistral AI', openai: 'OpenAI', regenvox: 'Anthropic' }[cle!.fournisseur]
       const sm = { ...s, modele }
       await sauver({ ...c, synthese: sm, rapport_html: html(c, sm, modele) })
       setMessage({ type: 'ok', texte: t('cons.synthese.ok') })
@@ -308,9 +308,10 @@ export default function Consultation() {
             {synthesePerimee && <p className="text-alerte">{t('cons.synthese.perimee')}</p>}
             {!cleDisponible() && !MAQUETTE && (
               <>
-                <BlocRassurance />
+                <BlocRassurance abonnement={saisieCle.etat.fournisseur === 'regenvox'} />
                 <SaisieCle
                   etat={saisieCle.etat}
+                  abonnement={saisieCle.abonnement}
                   modifier={saisieCle.modifier}
                   verification={saisieCle.verification}
                   verifieeOk={saisieCle.verifieeOk}

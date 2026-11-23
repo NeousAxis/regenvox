@@ -6,6 +6,13 @@ import { angleMetrics, backtest, mobilisationMetrics } from "./scoring.js";
 import { makeRng } from "./rng.js";
 import * as A from "./admin.js";
 import { POSITIONS, type PersonaOut } from "./schemas.js";
+import fs from "node:fs";
+import path from "node:path";
+import { construireCas, type SourceTerritoire } from "./plateforme.js";
+import { userFormulateur } from "./requests.js";
+import { SYSTEM_OF, MAX_TOKENS_APPROFONDI } from "./cli.js";
+import { adapter } from "./vocabulaire.js";
+import { ROOT } from "./store.js";
 
 const spec: PanelSpec = {
   univers: "test",
@@ -126,5 +133,48 @@ const mm = mobilisationMetrics(1, [{ id: "a", angles: [mobRow(1, 0.5, 0.2)] }, {
 assert.equal(mm.formats.atelier_presentiel.part, 0.05, "moyenne pondérée de mobilisation fausse");
 assert.equal(mm.formats.atelier_presentiel.habitants, 50);
 assert.equal(mm.formats.atelier_presentiel.habitants_corriges, 25);
+
+// Abonnement : le test standard garde exactement ses consignes, le test approfondi demande plus de formulations
+// et un panel deux fois plus grand ; le relais (web/public/api/ia.php) appelle les mêmes modèles, avec les mêmes réglages.
+{
+  const terr: SourceTerritoire = { panel: spec, cible: { nom: "Testville", canton: "FR", pays: "CH", description: "Commune de test." }, contexte_factuel: ["Fait public de test."], sources: [] };
+  const demarche = { enjeu: "Une alimentation plus locale à la cantine.", objectif: "Des repas plus locaux.", formulation: "Comment rendre les repas de la cantine plus locaux ensemble ?", formats: ["avis_en_ligne"], horizon_mois: 12 };
+  const base = { organisation: { type: "commune" as const, nom: "Commune de Testville" }, territoire: { niveau: "commune" as const, commune_num: 1 }, demarche };
+  const std = construireCas("t-std", base, terr, terr, 7).cas;
+  assert.equal(std.panel.N, 48);
+  assert.equal(std.angles_voulus, undefined);
+  assert.ok(userFormulateur(std).endsWith("Produis 3 ou 4 angles au total."), "consigne standard du Formulateur modifiée");
+  assert.ok(adapter(SYSTEM_OF.formulateur, std).includes("pour un total de 3 ou 4 angles."), "consigne système standard modifiée");
+  const apf = construireCas("t-apf", { ...base, profondeur: "approfondi" }, terr, terr, 7).cas;
+  assert.equal(apf.panel.N, 96);
+  assert.ok(userFormulateur(apf).endsWith("Produis 5 ou 6 angles au total."));
+  const sysApf = adapter(SYSTEM_OF.formulateur, apf);
+  // Groupes déclarés (école, entreprise) : 96 membres simulés, répartis comme les groupes.
+  const ecole = construireCas("t-grp", { organisation: { type: "ecole", nom: "École de Testville" }, groupes: [{ nom: "Élèves", effectif: 300, age_min: 16, age_max: 19 }, { nom: "Enseignants", effectif: 30, age_min: 25, age_max: 64 }], demarche, profondeur: "approfondi" }, null, terr, 7);
+  assert.equal(ecole.cas.panel.N, 96);
+  const sk = generatePanel(ecole.panel, ecole.cas.panel.N, 7).skeletons;
+  assert.equal(sk.length, 96);
+  assert.equal(new Set(sk.map((s) => s.id)).size, 96, "identifiants de membres en double");
+  assert.ok(sysApf.includes("pour un total de 5 ou 6 angles.") && !sysApf.includes("3 ou 4"), "consigne système approfondie");
+  const angle = (id: number) => ({ id, formulation: "Comment pourrions-nous ensemble rendre nos repas plus proches de nos fermes ?", origine: id === 1 ? "decideur" : "formulateur", acteurs_actives: [{ acteur: "parents", levier: "santé" }], chemins_ouverts: ["a", "b", "c"], risque_de_verrouillage: "Faible : la question reste ouverte." });
+  const six = { enjeu: demarche.enjeu, objectif: demarche.objectif, angles: [1, 2, 3, 4, 5, 6].map(angle) } as any;
+  assert.ok(!A.checkFormulateur(six, { angles: apf.angles_voulus }).some((e) => e.includes("angles (trouvé")), "6 angles refusés en approfondi");
+  assert.ok(A.checkFormulateur(six, {}).some((e) => e.includes("Il faut 3 ou 4 angles (trouvé 6)")), "6 angles acceptés en standard");
+
+  const php = fs.readFileSync(path.join(ROOT, "web", "public", "api", "ia.php"), "utf8");
+  const fournisseurs = JSON.parse(fs.readFileSync(path.join(ROOT, "fournisseurs.json"), "utf8"));
+  const modeles = php.match(/'modeles' => \['opus' => '([^']+)', 'sonnet' => '([^']+)', 'haiku' => '([^']+)'\]/);
+  assert.ok(modeles, "modèles du relais introuvables");
+  assert.deepEqual(modeles!.slice(1), [fournisseurs.anthropic.opus, fournisseurs.anthropic.sonnet, fournisseurs.anthropic.haiku], "le relais n'appelle pas les modèles de fournisseurs.json");
+  const appels = fs.readFileSync(path.join(ROOT, "src", "appels.ts"), "utf8");
+  const effortTs = appels.match(/const EFFORT[^=]*= \{ haiku: "(\w+)", sonnet: "(\w+)", opus: "(\w+)" \}/);
+  const effortPhp = php.match(/const EFFORT = \['haiku' => '(\w+)', 'sonnet' => '(\w+)', 'opus' => '(\w+)'\]/);
+  assert.ok(effortTs && effortPhp);
+  assert.deepEqual(effortPhp!.slice(1), effortTs!.slice(1), "réflexion du relais différente de appelAnthropic");
+  assert.ok(appels.includes("max_tokens: r.max_tokens ?? 16000") && php.includes("const MAX_TOKENS = 16000;"), "max_tokens du relais différent");
+  assert.ok(php.includes(`const MAX_TOKENS_APPROFONDI = ${MAX_TOKENS_APPROFONDI};`), "limite approfondie du relais différente du moteur");
+  const sdk = fs.readFileSync(path.join(ROOT, "node_modules", "@anthropic-ai", "sdk", "client.js"), "utf8").match(/'anthropic-version': '([0-9-]+)'/);
+  assert.ok(sdk && php.includes(`'anthropic-version: ${sdk[1]}'`), "version d'API du relais différente du SDK");
+}
 
 console.log("selftest OK", { soutien: met.soutien, coporteurs: met.coporteurs, participation: met.participation });

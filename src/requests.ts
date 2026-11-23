@@ -21,6 +21,8 @@ export interface CaseFile {
   votations_etalonnage?: { vote_id: string; date: string; titre: string; resume_neutre: string; famille?: string }[];
   angle_controle?: { formulation: string; pourquoi: string };
   angle_controle2?: { formulation: string; pourquoi: string };
+  // Test approfondi (abonnement) : nombre de formulations demandé au Formulateur. Absent : 3 ou 4.
+  angles_voulus?: { min: number; max: number };
   sources?: { label: string; url: string }[];
 }
 
@@ -32,7 +34,7 @@ Objectif : ${c.objectif}
 ${c.angle_fourni ? `Angle proposé par le décideur (à garder en angle 1) : « ${c.angle_fourni} »` : "Aucun angle fourni par le décideur."}
 Faits publics sur la commune :
 ${c.contexte_factuel.map((f) => "- " + f).join("\n")}
-Produis 3 ou 4 angles au total.`;
+Produis ${c.angles_voulus ? `${c.angles_voulus.min} ou ${c.angles_voulus.max}` : "3 ou 4"} angles au total.`;
 }
 
 export function userGardienAngles(c: CaseFile, f: FormulateurOut) {

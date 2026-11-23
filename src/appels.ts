@@ -6,8 +6,9 @@ import type Anthropic from "@anthropic-ai/sdk";
 import { ROOT, readJson } from "./store.js";
 
 export type Tier = "opus" | "sonnet" | "haiku";
-export type Fournisseur = "anthropic" | "mistral" | "openai" | "autre";
-export interface Requete { step: string; item: string; model: Tier; attempt: number; system: string; user: string; response_path: string }
+export type Fournisseur = "anthropic" | "mistral" | "openai" | "autre" | "regenvox";
+// max_tokens : seulement pour les analyses d'un test approfondi (plus d'habitants et de formulations à lire) ; sinon 16000.
+export interface Requete { step: string; item: string; model: Tier; attempt: number; system: string; user: string; response_path: string; max_tokens?: number }
 export interface Resultat { texte: string; tokens_entree: number; tokens_sortie: number; modele: string; repli?: string }
 
 // Lu au premier appel : dans le navigateur, le fichier n'existe qu'une fois le système de fichiers en mémoire rempli.
@@ -24,7 +25,7 @@ export async function appelAnthropic(client: Anthropic, tier: Tier, r: Requete):
   const repli = tier === "haiku" ? {} : { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" as const };
   const res = await client.beta.messages.create({
     model,
-    max_tokens: 16000,
+    max_tokens: r.max_tokens ?? 16000,
     output_config: { effort: EFFORT[tier] },
     system: r.system,
     messages: [{ role: "user", content: r.user }],
@@ -87,7 +88,7 @@ export async function modelesOpenAI(cle: string): Promise<Record<Tier, string>> 
 
 export async function appelOpenAI(cle: string, modeles: Record<Tier, string>, tier: Tier, r: Requete): Promise<Resultat> {
   const model = modeles[tier];
-  const corps: any = { model, instructions: r.system, input: r.user, text: { format: { type: "json_object" } }, reasoning: { effort: EFFORT[tier] }, max_output_tokens: 16000 };
+  const corps: any = { model, instructions: r.system, input: r.user, text: { format: { type: "json_object" } }, reasoning: { effort: EFFORT[tier] }, max_output_tokens: r.max_tokens ?? 16000 };
   let res: any;
   try {
     res = await openai(cle, "/responses", corps);
@@ -144,4 +145,50 @@ export async function appelCompatible(adresse: string, cle: string, modele: stri
   const texte = typeof contenu === "string" ? contenu : (contenu ?? []).map((c: any) => c.text ?? "").join("");
   if (!texte) throw new Error("réponse vide ou refus du modèle");
   return { texte, tokens_entree: res.usage?.prompt_tokens ?? 0, tokens_sortie: res.usage?.completion_tokens ?? 0, modele: res.model ?? modele };
+}
+
+// Abonnement RegenVox : les appels passent par le relais de Régénère Plus (web/public/api/ia.php), avec sa clé Anthropic.
+// Le navigateur n'envoie que le niveau de l'agent et les deux textes ; le relais choisit le modèle et les réglages,
+// les mêmes que appelAnthropic, et décompte le coût sur le plafond du code d'abonnement.
+export type ErreurRelais = "code" | "expire" | "plafond" | "ferme" | "cle_serveur" | "requete" | "format" | "niveau" | "trop_gros";
+export interface EtatAbonnement { nom: string; approfondi: boolean; periode: "mois" | "total"; plafond_usd: number; restant_usd: number; expire: string }
+
+async function relais(url: string, action: "etat" | "appel", corps: unknown): Promise<any> {
+  for (let essai = 0; ; essai++) {
+    let r: Response;
+    try {
+      r = await fetch(`${url}?action=${action}`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(corps) });
+    } catch (e) {
+      // Coupure réseau : on réessaie, comme le SDK Anthropic.
+      if (essai < 4) {
+        await new Promise((ok) => setTimeout(ok, 2000 * 2 ** essai));
+        continue;
+      }
+      throw e;
+    }
+    const json: any = await r.json().catch(() => null);
+    if (r.ok && json) return json;
+    const erreur: string = json?.erreur ?? "";
+    // Surcharge ou panne passagère du fournisseur : on réessaie. Code refusé, plafond, relais fermé : jamais.
+    if ((r.status === 429 || (r.status >= 500 && erreur !== "ferme" && erreur !== "cle_serveur")) && essai < 4) {
+      await new Promise((ok) => setTimeout(ok, 2000 * 2 ** essai));
+      continue;
+    }
+    throw Object.assign(new Error(`Relais RegenVox : erreur ${r.status} ${erreur}${json?.detail ? ` (${json.detail})` : ""}`), { status: r.status, relais: erreur || undefined });
+  }
+}
+
+export async function etatAbonnement(url: string, code: string): Promise<EtatAbonnement> {
+  const res = await relais(url, "etat", { code });
+  return { nom: res.nom, approfondi: !!res.approfondi, periode: res.periode, plafond_usd: res.plafond_usd, restant_usd: res.restant_usd, expire: res.expire ?? "" };
+}
+
+export async function appelRelais(url: string, code: string, r: Requete): Promise<Resultat> {
+  const res = await relais(url, "appel", { code, niveau: r.model, system: r.system, user: r.user, ...(r.max_tokens ? { max_tokens: r.max_tokens } : {}) });
+  if (!res.ok) {
+    if (res.erreur === "refus") throw new Error(`refus du modèle (${res.detail || "sans catégorie"})`);
+    if (res.erreur === "tronque") throw new Error("réponse tronquée (max_tokens atteint)");
+    throw new Error(`Relais RegenVox : ${res.erreur}`);
+  }
+  return { texte: res.texte, tokens_entree: res.tokens_entree, tokens_sortie: res.tokens_sortie, modele: res.modele, repli: res.repli ?? undefined };
 }

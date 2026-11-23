@@ -1,16 +1,19 @@
 // Moteur RegenVox exécuté entièrement dans le navigateur de l'utilisateur.
-// La clé API ne sert qu'aux appels directs vers le fournisseur choisi (Anthropic, Mistral ou OpenAI).
-// Aucun appel vers Régénère Plus : seules les données publiques du territoire sont lues sur regenvox.xyz.
+// Avec sa propre clé, les appels vont directement au fournisseur choisi (Anthropic, Mistral, OpenAI ou compatible),
+// sans passer par Régénère Plus. Avec un abonnement, ils passent par le relais de Régénère Plus (api/ia.php),
+// qui appelle Anthropic avec sa clé sans rien garder des textes. Les données publiques sont lues sur regenvox.xyz.
 import Anthropic from "@anthropic-ai/sdk";
 import * as memoire from "./fs";
 import fournisseurs from "../../../../fournisseurs.json";
 import { ETAPES, executerTest, type Appel } from "../../../../src/pipeline";
 import { construireCas, type SourceTerritoire } from "../../../../src/plateforme";
 import { renderRapportPlateforme } from "../../../../src/rapport";
-import { appelAnthropic, appelMistral, appelOpenAI, modelesOpenAI, appelCompatible, listerModelesCompatibles, type Requete, type ClientMistral } from "../../../../src/appels";
+import { appelAnthropic, appelMistral, appelOpenAI, modelesOpenAI, appelCompatible, listerModelesCompatibles, appelRelais, etatAbonnement, type Requete, type ClientMistral } from "../../../../src/appels";
 import type { Moteur, Projet, ParametresTest, CleApi, Etape } from "../index";
 
 const RACINE = "/moteur";
+// Relais des abonnements : à côté du serveur de collecte, sauf adresse donnée à la construction.
+const SERVEUR_IA: string = import.meta.env.VITE_API_IA || (import.meta.env.VITE_API_CONSULTATION || "/api/consultation.php").replace(/consultation\.php$/, "ia.php");
 const base = import.meta.env.BASE_URL ?? "/";
 // Données publiques compressées (un fichier par canton) : décompressées ici, sauf si le serveur l'a déjà fait.
 const lire = async <T>(chemin: string): Promise<T> => {
@@ -32,6 +35,7 @@ const slug = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCa
 const etapesInitiales = (): Etape[] => ETAPES.map((e) => ({ cle: e.cle, libelle: e.libelle, etat: "a_faire" }));
 
 async function clientAppel(cle: CleApi): Promise<Appel> {
+  if (cle.fournisseur === "regenvox") return async (r: Requete) => appelRelais(SERVEUR_IA, cle.cle, r);
   if (cle.fournisseur === "autre") {
     if (!cle.adresse || !cle.modeles) throw new Error("Service ou modèles non choisis.");
     const { adresse, modeles } = cle;
@@ -126,6 +130,7 @@ export const moteurNavigateur: Moteur = {
     const caseId = pr.id;
     const runId = pr.id;
     try {
+      if (pr.parametres.profondeur === "approfondi" && cle.fournisseur !== "regenvox") throw new Error("Le test approfondi demande un abonnement RegenVox : choisissez « Abonnement RegenVox » et saisissez votre code.");
       if (!memoire.existsSync(`${RACINE}/cases/${caseId}/case.json`)) {
         const [src, ref] = await Promise.all([territoire(pr.parametres), lire<SourceTerritoire>("donnees/suisse.json.gz")]);
         const graine = 20261027 + Math.floor(Math.random() * 1e6);
@@ -138,7 +143,7 @@ export const moteurNavigateur: Moteur = {
       const usage = { ...(pr.usage ?? { tokens_entree: 0, tokens_sortie: 0 }) };
       await executerTest(caseId, runId, await clientAppel(cle), {
         signal,
-        parallele: cle.fournisseur === "anthropic" ? 6 : cle.fournisseur === "autre" ? 3 : 4,
+        parallele: cle.fournisseur === "anthropic" || cle.fournisseur === "regenvox" ? 6 : cle.fournisseur === "autre" ? 3 : 4,
         usage: (u) => {
           usage.tokens_entree += u.tokens_entree;
           usage.tokens_sortie += u.tokens_sortie;
@@ -181,6 +186,11 @@ export const moteurNavigateur: Moteur = {
 
   async verifierCle(cle: CleApi) {
     try {
+      if (cle.fournisseur === "regenvox") {
+        const abonnement = await etatAbonnement(SERVEUR_IA, cle.cle);
+        if (abonnement.restant_usd <= 0) return { ok: false, message: messageErreur({ relais: "plafond" }), abonnement };
+        return { ok: true, abonnement };
+      }
       if (cle.fournisseur === "anthropic") {
         const client = new Anthropic({ apiKey: cle.cle, dangerouslyAllowBrowser: true, maxRetries: 1 });
         // Comptage de jetons : gratuit, et accessible depuis une page web (la liste des modèles ne l'est pas).
@@ -203,6 +213,13 @@ export const moteurNavigateur: Moteur = {
 };
 
 function messageErreur(e: any): string {
+  // Abonnement : messages propres au relais, avant ceux des fournisseurs (un code refusé n'est pas une clé refusée).
+  const relais: string | undefined = e?.relais;
+  if (relais === "code") return "Code d'abonnement refusé : vérifiez-le (16 caractères, espaces facultatifs).";
+  if (relais === "expire") return "Cet abonnement a expiré : écrivez-nous pour le renouveler.";
+  if (relais === "plafond") return "Le crédit de votre abonnement est épuisé pour cette période : écrivez-nous pour l'augmenter, puis reprenez le test.";
+  if (relais === "ferme") return "Les abonnements ne sont pas ouverts sur ce serveur pour le moment.";
+  if (relais === "cle_serveur") return "Le service RegenVox est momentanément indisponible : réessayez plus tard, votre test reprendra où il s'est arrêté.";
   const statut = e?.status ?? e?.statusCode;
   if (statut === 401 || statut === 403) return "Clé refusée par le fournisseur : vérifiez qu'elle est correcte et active.";
   if (statut === 402 || /credit|billing|balance/i.test(e?.message ?? "")) return "Crédit insuffisant chez le fournisseur : ajoutez du crédit sur votre compte puis reprenez le test.";

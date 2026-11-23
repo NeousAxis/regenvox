@@ -38,7 +38,7 @@ export const FormulateurOut = z.object({
       }),
     )
     .min(2)
-    .max(5),
+    .max(8),
 });
 export type FormulateurOut = z.infer<typeof FormulateurOut>;
 
@@ -174,7 +174,7 @@ export const MobilisationOut = z.object({
       }),
     )
     .min(2)
-    .max(5),
+    .max(8),
   format_prefere: z.enum(["avis_en_ligne", "atelier_presentiel", "parcours_distance", "aucun"]),
   raison_format: z.string().min(10).max(900),
 });

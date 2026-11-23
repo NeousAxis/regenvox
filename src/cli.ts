@@ -34,6 +34,7 @@ export const MODEL: Record<StepName, string> = {
   quartiers: "haiku",
   niveau: "sonnet",
 };
+export const MAX_TOKENS_APPROFONDI = 48000;
 export const SYSTEM_OF: Record<StepName, string> = {
   formulateur: SYSTEM.formulateur,
   "gardien-angles": SYSTEM.gardien,
@@ -188,7 +189,9 @@ export function cmdPrepare(runId: string, step: StepName) {
     const rp = reqPath(runId, step, item);
     const sp = respPath(runId, step, item);
     if (exists(sp)) fs.rmSync(sp);
-    writeJson(rp, { step, item, model: MODEL[step], attempt, system: adapter(SYSTEM_OF[step], c), user, response_path: sp });
+    // Test approfondi : les analyses lisent deux fois plus d'habitants et plus de formulations, leur réflexion déborde 16000 jetons.
+    const max = c.angles_voulus && MODEL[step] !== "haiku" ? { max_tokens: MAX_TOKENS_APPROFONDI } : {};
+    writeJson(rp, { step, item, model: MODEL[step], attempt, system: adapter(SYSTEM_OF[step], c), user, response_path: sp, ...max });
     out.push({ item, request: rp, response: sp, model: MODEL[step], attempt });
   }
   console.log(JSON.stringify(out, null, 1));
@@ -225,7 +228,7 @@ function adminFor(runId: string, step: StepName, item: string, value: any): stri
   const c = loadCase(m);
   switch (step) {
     case "formulateur":
-      return A.checkFormulateur(value, { angleFourni: c.angle_fourni });
+      return A.checkFormulateur(value, { angleFourni: c.angle_fourni, angles: c.angles_voulus });
     case "gardien-angles":
     case "gardien-final":
       return A.checkGardien(value);

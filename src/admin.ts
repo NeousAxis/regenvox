@@ -3,6 +3,7 @@ import type { FormulateurOut, GardienOut, PersonaOut, FacilitateurOut, Sociologu
 
 export interface AdminContext {
   angleFourni?: string;
+  angles?: { min: number; max: number }; // nombre de formulations attendu (test approfondi) ; absent : 3 ou 4
   angleIds?: number[];
   voteIds?: string[];
   skeleton?: PersonaSkeleton;
@@ -31,7 +32,8 @@ export function checkFormulateur(o: FormulateurOut, ctx: AdminContext): string[]
   const ids = o.angles.map((a) => a.id);
   if (new Set(ids).size !== ids.length) e.push("Identifiants d'angles dupliqués.");
   ids.forEach((id, i) => id !== i + 1 && e.push(`Les angles doivent être numérotés 1..n dans l'ordre (trouvé ${id} en position ${i + 1}).`));
-  if (o.angles.length < 3 || o.angles.length > 4) e.push(`Il faut 3 ou 4 angles (trouvé ${o.angles.length}).`);
+  const { min, max } = ctx.angles ?? { min: 3, max: 4 };
+  if (o.angles.length < min || o.angles.length > max) e.push(`Il faut ${min} ou ${max} angles (trouvé ${o.angles.length}).`);
   if (ctx.angleFourni) {
     const a1 = o.angles[0];
     if (a1.origine !== "decideur") e.push("L'angle 1 doit être l'angle fourni par le décideur (origine \"decideur\").");

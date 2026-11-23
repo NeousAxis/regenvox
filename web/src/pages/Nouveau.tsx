@@ -189,6 +189,7 @@ function CarteChoix({
   description,
   id,
   invalide,
+  desactive,
 }: {
   nom: string
   valeur: string
@@ -198,11 +199,12 @@ function CarteChoix({
   description?: string
   id?: string
   invalide?: boolean
+  desactive?: boolean
 }) {
   return (
     <label
-      className={`flex items-start gap-3 rounded-xl border-2 p-4 cursor-pointer transition-colors ${
-        coche ? 'border-ocean-dark bg-mist/40' : 'border-mist hover:border-sky'
+      className={`flex items-start gap-3 rounded-xl border-2 p-4 transition-colors ${
+        desactive ? 'border-mist opacity-60 cursor-not-allowed' : coche ? 'border-ocean-dark bg-mist/40 cursor-pointer' : 'border-mist hover:border-sky cursor-pointer'
       }`}
     >
       <input
@@ -212,6 +214,7 @@ function CarteChoix({
         value={valeur}
         checked={coche}
         onChange={onChoisir}
+        disabled={desactive}
         className="mt-1 w-5 h-5 accent-ocean-dark shrink-0"
         aria-invalid={invalide ? true : undefined}
       />
@@ -329,6 +332,12 @@ export default function Nouveau() {
   const [erreurLancement, setErreurLancement] = useState<string | null>(null)
   const [montrerErreursCle, setMontrerErreursCle] = useState(false)
   const saisieCle = useSaisieCle()
+  // Test approfondi : seulement avec un abonnement vérifié qui le permet.
+  const [profondeur, setProfondeur] = useState<'standard' | 'approfondi'>('standard')
+  const approfondiPermis = saisieCle.etat.fournisseur === 'regenvox' && !!saisieCle.abonnement?.approfondi
+  useEffect(() => {
+    if (!approfondiPermis && profondeur === 'approfondi') setProfondeur('standard')
+  }, [approfondiPermis, profondeur])
   const titreEtape = useRef<HTMLHeadingElement>(null)
   const etape = b.etape
   const etapePrecedente = useRef(etape)
@@ -445,7 +454,7 @@ export default function Nouveau() {
 
     let projet: Projet
     try {
-      projet = moteur.creer(construireParametres(b, lang))
+      projet = moteur.creer({ ...construireParametres(b, lang), ...(profondeur === 'approfondi' ? { profondeur } : {}) })
     } catch (e) {
       setErreurLancement(t('nouveau.erreurLancement', { message: e instanceof Error ? e.message : String(e) }))
       setLancement(false)
@@ -865,9 +874,10 @@ export default function Nouveau() {
             {etape === 4 && (
               <>
                 <p className="text-dark leading-relaxed">{t('cle.intro')}</p>
-                <BlocRassurance />
+                <BlocRassurance abonnement={saisieCle.etat.fournisseur === 'regenvox'} />
                 <SaisieCle
                   etat={saisieCle.etat}
+                  abonnement={saisieCle.abonnement}
                   modifier={saisieCle.modifier}
                   verification={saisieCle.verification}
                   verifieeOk={saisieCle.verifieeOk}
@@ -882,6 +892,15 @@ export default function Nouveau() {
                   idFournisseur="cle-fournisseur"
                   idCle="cle-cle"
                 />
+
+                <fieldset aria-describedby={approfondiPermis ? undefined : 'prof-reserve'}>
+                  <legend className="font-semibold text-dark mb-2">{t('prof.titre')}</legend>
+                  <div className="grid gap-3 sm:grid-cols-2">
+                    <CarteChoix nom="profondeur" valeur="standard" coche={profondeur === 'standard'} onChoisir={() => setProfondeur('standard')} titre={t('prof.standard')} description={t('prof.standard.desc')} />
+                    <CarteChoix nom="profondeur" valeur="approfondi" coche={profondeur === 'approfondi'} onChoisir={() => setProfondeur('approfondi')} titre={t('prof.approfondi')} description={t('prof.approfondi.desc')} desactive={!approfondiPermis} />
+                  </div>
+                  {!approfondiPermis && <p id="prof-reserve" className="mt-2 text-sm text-dark-light">{t('prof.reserve')}</p>}
+                </fieldset>
 
                 <section aria-labelledby="recap-titre" className="rounded-xl border border-mist p-5">
                   <h3 id="recap-titre" className="font-semibold text-dark text-lg">
@@ -909,7 +928,7 @@ export default function Nouveau() {
                       </div>
                     ))}
                   </dl>
-                  <p className="mt-3 text-sm text-dark-light">{t('recap.duree')}</p>
+                  <p className="mt-3 text-sm text-dark-light">{t(profondeur === 'approfondi' ? 'recap.duree.approfondi' : 'recap.duree')}</p>
                 </section>
 
                 {erreurLancement && (

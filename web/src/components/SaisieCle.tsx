@@ -2,9 +2,9 @@ import { useCallback, useId, useRef, useState } from 'react'
 import { useLanguage } from '../i18n/LanguageContext'
 import type { TranslationKey } from '../i18n/translations'
 import { moteur } from '../moteur'
-import type { CleApi, Fournisseur } from '../moteur'
+import type { Abonnement, CleApi, Fournisseur } from '../moteur'
 import { lireCleMemorisee, memoriserCle, oublierCle } from '../stockage'
-import { URL_CLE_ANTHROPIC, URL_CLE_MISTRAL, URL_CLE_OPENAI, SERVICES_AUTRES } from '../liens'
+import { URL_CLE_ANTHROPIC, URL_CLE_MISTRAL, URL_CLE_OPENAI, SERVICES_AUTRES, EMAIL_CONTACT } from '../liens'
 import { Aide, MessageErreur, decritPar } from './Champ'
 
 export interface EtatCle {
@@ -41,10 +41,13 @@ function modelesParDefaut(liste: string[]) {
   return { rapide, analyse }
 }
 
+// Code d'abonnement : 16 caractères, recopiés avec ou sans espaces, en majuscules ou non.
+const codeNormalise = (s: string) => s.replace(/\s+/g, '').toUpperCase()
+
 // Clé telle qu'elle part vers le moteur, avec l'adresse et les modèles pour « autres modèles ».
 export function cleDepuisEtat(e: EtatCle): CleApi | null {
   if (!e.fournisseur) return null
-  const cle: CleApi = { fournisseur: e.fournisseur, cle: e.cle.trim() }
+  const cle: CleApi = { fournisseur: e.fournisseur, cle: e.fournisseur === 'regenvox' ? codeNormalise(e.cle) : e.cle.trim() }
   if (e.fournisseur === 'autre') {
     cle.adresse = e.adresse.trim()
     if (e.modeleRapide && e.modeleAnalyse) cle.modeles = { rapide: e.modeleRapide, analyse: e.modeleAnalyse }
@@ -66,14 +69,16 @@ export interface ErreursCle {
   modele?: TranslationKey
 }
 
-const signature = (e: EtatCle) => `${e.fournisseur}:${e.fournisseur === 'autre' ? e.adresse.trim() + ':' : ''}${e.cle.trim()}`
+const signature = (e: EtatCle) => `${e.fournisseur}:${e.fournisseur === 'autre' ? e.adresse.trim() + ':' : ''}${e.fournisseur === 'regenvox' ? codeNormalise(e.cle) : e.cle.trim()}`
 
 export function validerCle(e: EtatCle): ErreursCle {
   const erreurs: ErreursCle = {}
   if (!e.fournisseur) erreurs.fournisseur = 'erreur.fournisseur'
   const cle = e.cle.trim()
   if (!cle) erreurs.cle = 'erreur.cle'
-  else if (/\s/.test(cle)) erreurs.cle = 'erreur.cle.espaces'
+  else if (e.fournisseur === 'regenvox') {
+    if (codeNormalise(cle).length !== 16) erreurs.cle = 'erreur.code'
+  } else if (/\s/.test(cle)) erreurs.cle = 'erreur.cle.espaces'
   if (e.fournisseur === 'autre') {
     if (!/^https:\/\/[^\s/]+\.[^\s]+$/.test(e.adresse.trim())) erreurs.adresse = 'erreur.adresse'
     else if (e.modelesDispo.length > 0 && (!e.modeleRapide || !e.modeleAnalyse)) erreurs.modele = 'erreur.modele'
@@ -95,6 +100,8 @@ export function useSaisieCle() {
     }
   })
   const [verification, setVerification] = useState<Verification>({ statut: 'aucune' })
+  // Abonnement reconnu par le relais lors de la dernière vérification réussie d'un code.
+  const [abonnement, setAbonnement] = useState<{ pour: string; abo: Abonnement } | null>(null)
   const dernier = useRef(etat)
   dernier.current = etat
 
@@ -116,6 +123,7 @@ export function useSaisieCle() {
         return null
       }
       setVerification(r.ok ? { statut: 'ok', pour: sig } : { statut: 'ko', pour: sig, message: r.message })
+      setAbonnement(r.abonnement ? { pour: sig, abo: r.abonnement } : null)
       if (!r.ok) return null
       if (courant.fournisseur === 'autre' && r.modeles) {
         // Liste du service : on garde les choix déjà faits s'ils y figurent, sinon on propose les choix par défaut.
@@ -141,12 +149,14 @@ export function useSaisieCle() {
 
   const verifieeOk = verification.statut === 'ok' && verification.pour === signature(etat)
   const cleCourante = useCallback(() => cleDepuisEtat(dernier.current), [])
+  const abonnementActuel = abonnement && abonnement.pour === signature(etat) ? abonnement.abo : null
 
-  return { etat, modifier, verification, verifier, verifieeOk, appliquerMemorisation, cleCourante }
+  return { etat, modifier, verification, verifier, verifieeOk, appliquerMemorisation, cleCourante, abonnement: abonnementActuel }
 }
 
 interface Props {
   etat: EtatCle
+  abonnement?: Abonnement | null
   modifier: (maj: Partial<EtatCle>) => void
   verification: Verification
   verifieeOk: boolean
@@ -156,14 +166,16 @@ interface Props {
   idCle: string
 }
 
-export default function SaisieCle({ etat, modifier, verification, verifieeOk, onVerifier, erreurs, idFournisseur, idCle }: Props) {
-  const { t } = useLanguage()
+export default function SaisieCle({ etat, abonnement, modifier, verification, verifieeOk, onVerifier, erreurs, idFournisseur, idCle }: Props) {
+  const { t, lang } = useLanguage()
   const base = useId()
   const [visible, setVisible] = useState(false)
   const sig = signature(etat)
   const verifActuelle = (verification.statut === 'ok' || verification.statut === 'ko') && verification.pour !== sig ? null : verification
 
+  const abo = etat.fournisseur === 'regenvox'
   const fournisseurs: { code: Fournisseur; nom: TranslationKey; desc: TranslationKey }[] = [
+    { code: 'regenvox', nom: 'cle.regenvox', desc: 'cle.regenvox.desc' },
     { code: 'anthropic', nom: 'cle.anthropic', desc: 'cle.anthropic.desc' },
     { code: 'mistral', nom: 'cle.mistral', desc: 'cle.mistral.desc' },
     { code: 'openai', nom: 'cle.openai', desc: 'cle.openai.desc' },
@@ -172,7 +184,7 @@ export default function SaisieCle({ etat, modifier, verification, verifieeOk, on
   const service = SERVICES_AUTRES.find((s) => s.code === etat.service)
 
   const aideCle: TranslationKey =
-    etat.fournisseur === 'anthropic' ? 'cle.cle.aide.anthropic' : etat.fournisseur === 'mistral' ? 'cle.cle.aide.mistral' : etat.fournisseur === 'openai' ? 'cle.cle.aide.openai' : etat.fournisseur === 'autre' ? 'cle.cle.aide.autre' : 'cle.cle.aide'
+    abo ? 'cle.cle.aide.regenvox' : etat.fournisseur === 'anthropic' ? 'cle.cle.aide.anthropic' : etat.fournisseur === 'mistral' ? 'cle.cle.aide.mistral' : etat.fournisseur === 'openai' ? 'cle.cle.aide.openai' : etat.fournisseur === 'autre' ? 'cle.cle.aide.autre' : 'cle.cle.aide'
 
   return (
     <div className="space-y-6">
@@ -250,9 +262,9 @@ export default function SaisieCle({ etat, modifier, verification, verifieeOk, on
 
       <div>
         <label htmlFor={idCle} className="block font-semibold text-dark">
-          {t('cle.cle.label')}
+          {t(abo ? 'cle.code.label' : 'cle.cle.label')}
         </label>
-        <Aide id={`${base}-aide`}>{t(aideCle)}</Aide>
+        <Aide id={`${base}-aide`}>{t(aideCle, { email: EMAIL_CONTACT })}</Aide>
         <div className="mt-2 flex gap-2">
           <input
             id={idCle}
@@ -278,7 +290,7 @@ export default function SaisieCle({ etat, modifier, verification, verifieeOk, on
           </button>
         </div>
         <MessageErreur id={`${base}-err-c`}>{erreurs.cle && t(erreurs.cle)}</MessageErreur>
-        <ul className="mt-3 flex flex-col sm:flex-row gap-2 sm:gap-6 text-sm">
+        {!abo && <ul className="mt-3 flex flex-col sm:flex-row gap-2 sm:gap-6 text-sm">
           <li>
             <a className="lien" href={URL_CLE_ANTHROPIC} target="_blank" rel="noopener noreferrer">
               {t('cle.obtenir.anthropic')}
@@ -305,7 +317,7 @@ export default function SaisieCle({ etat, modifier, verification, verifieeOk, on
               </a>
             </li>
           )}
-        </ul>
+        </ul>}
       </div>
 
       <div>
@@ -333,14 +345,18 @@ export default function SaisieCle({ etat, modifier, verification, verifieeOk, on
           onClick={onVerifier}
           disabled={verification.statut === 'encours'}
         >
-          {verification.statut === 'encours' ? t('cle.verification') : t('cle.verifier')}
+          {verification.statut === 'encours' ? t('cle.verification') : t(abo ? 'cle.code.verifier' : 'cle.verifier')}
         </button>
         <div id={`${base}-verif`} role="status" aria-live="polite" className="text-sm">
-          {verifieeOk && <span className="font-semibold text-succes">{t('cle.ok')}</span>}
+          {verifieeOk && (
+            <span className="font-semibold text-succes">
+              {abo && abonnement ? t('cle.code.ok', { nom: abonnement.nom, restant: abonnement.restant_usd.toLocaleString(lang === 'fr' ? 'fr-CH' : 'en-GB', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) }) : t('cle.ok')}
+            </span>
+          )}
           {verifActuelle?.statut === 'ko' && (
             <span className="font-medium text-alerte">
-              {t('cle.ko')}
-              {verifActuelle.message && <span className="block font-normal">{t('cle.ko.detail', { message: verifActuelle.message })}</span>}
+              {t(abo ? 'cle.code.ko' : 'cle.ko')}
+              {verifActuelle.message && <span className="block font-normal">{abo ? verifActuelle.message : t('cle.ko.detail', { message: verifActuelle.message })}</span>}
             </span>
           )}
           {verifActuelle?.statut === 'echec' && <span className="font-medium text-alerte">{t('cle.echec')}</span>}
@@ -374,7 +390,7 @@ export default function SaisieCle({ etat, modifier, verification, verifieeOk, on
   )
 }
 
-export function BlocRassurance() {
+export function BlocRassurance({ abonnement = false }: { abonnement?: boolean }) {
   const { t } = useLanguage()
   return (
     <div className="rounded-2xl bg-mist/40 border border-mist p-5 flex flex-col sm:flex-row gap-3 sm:gap-4">
@@ -383,8 +399,8 @@ export function BlocRassurance() {
         <path d="m8.5 12 2.5 2.5 4.5-5" strokeLinecap="round" strokeLinejoin="round" />
       </svg>
       <div>
-        <p className="font-semibold text-dark">{t('cle.rassurance.titre')}</p>
-        <p className="mt-1 text-dark-light leading-relaxed">{t('cle.rassurance.texte')}</p>
+        <p className="font-semibold text-dark">{t(abonnement ? 'cle.rassurance.titre.regenvox' : 'cle.rassurance.titre')}</p>
+        <p className="mt-1 text-dark-light leading-relaxed">{t(abonnement ? 'cle.rassurance.texte.regenvox' : 'cle.rassurance.texte')}</p>
       </div>
     </div>
   )
