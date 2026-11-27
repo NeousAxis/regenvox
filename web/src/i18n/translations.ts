@@ -8,7 +8,8 @@ const fr = {
   'general.nav': "Navigation principale",
   'general.langue': "Langue",
   'general.accueil': "Accueil",
-  'general.mesTests': "Mes prospectives",
+  'general.mesTests': "Vos prospectives simulées",
+  'general.mesTests.court': "Prospectives",
   'general.cta': "Tester ma démarche",
   'general.chargement': "Chargement…",
   'general.nouvelOnglet': "(s'ouvre dans un nouvel onglet)",
@@ -387,13 +388,13 @@ const fr = {
   'suivi.voirRapport': "Voir le rapport",
   'suivi.usage': "Consommation du modèle : {entree} jetons envoyés et {sortie} jetons reçus (le jeton est l'unité de facturation des fournisseurs d'IA).",
   'suivi.introuvable.titre': "Cette simulation n'est pas sur cet appareil",
-  'suivi.introuvable.texte': "Les simulations sont enregistrées dans le navigateur où elles ont été créées. Si vous avez enregistré le projet dans un fichier, ouvrez-le depuis « Mes prospectives ».",
-  'suivi.stockage.echec': "Le stockage de ce navigateur n'est pas accessible (navigation privée, par exemple). Si vous avez un fichier du projet, ouvrez-le depuis « Mes prospectives ».",
+  'suivi.introuvable.texte': "Les simulations sont enregistrées dans le navigateur où elles ont été créées. Si vous avez enregistré le projet dans un fichier, ouvrez-le depuis « Vos prospectives simulées ».",
+  'suivi.stockage.echec': "Le stockage de ce navigateur n'est pas accessible (navigation privée, par exemple). Si vous avez un fichier du projet, ouvrez-le depuis « Vos prospectives simulées ».",
 
   // Actions communes
   'action.enregistrer': "Enregistrer le projet (fichier)",
   'action.nouveau': "Nouvelle simulation",
-  'action.mesTests': "Voir mes prospectives",
+  'action.mesTests': "Voir vos prospectives simulées",
 
   // Rapport
   'rapport.titre': "Rapport",
@@ -404,9 +405,9 @@ const fr = {
   'rapport.pasPret': "Le rapport de cette simulation n'est pas encore prêt.",
   'rapport.retourSuivi': "Voir l'avancement de la simulation",
 
-  // Mes prospectives
-  'tests.titre': "Mes prospectives",
-  'tests.intro': "Les prospectives enregistrées dans ce navigateur. Pour les garder en sécurité ou les retrouver sur un autre ordinateur, enregistrez-les dans un fichier.",
+  // Vos prospectives simulées
+  'tests.titre': "Vos prospectives simulées",
+  'tests.intro': "Chaque prospective participative simule une concertation citoyenne autour de votre démarche. Elles sont enregistrées dans ce navigateur, sans compte et nulle part ailleurs. Pour les garder en sécurité ou les retrouver sur un autre ordinateur, enregistrez-les dans un fichier.",
   'tests.vide': "Aucune prospective enregistrée dans ce navigateur pour l'instant.",
   'tests.ouvrirFichier': "Ouvrir un fichier RegenVox",
   'tests.ouvrirFichier.aide': "Un fichier qui se termine par « .regenvox.json », enregistré depuis RegenVox.",
@@ -424,7 +425,7 @@ const fr = {
   'tests.import.version': "Ce fichier vient d'une version de RegenVox que cette page ne sait pas encore lire.",
   'tests.import.trop_gros': "Ce fichier est trop volumineux.",
   'tests.import.stockage': "Le fichier est valide, mais ce navigateur ne permet pas de l'enregistrer.",
-  'tests.stockage.echec': "Le stockage de ce navigateur n'est pas accessible (navigation privée, par exemple). Vos prospectives ne peuvent pas être conservées ici.",
+  'tests.stockage.echec': "Le stockage de ce navigateur n'est pas accessible (navigation privée, par exemple). Vos prospectives simulées ne peuvent pas être conservées ici.",
   'tests.enCours.supprimer': "Interrompez la simulation en cours avant de supprimer cette prospective.",
 
   // Page introuvable
@@ -477,7 +478,7 @@ const fr = {
   'abo.place.payer': "S'abonner : {nom}, {prix}",
   'abo.place.code': "J'ai déjà un code d'abonnement",
   'abo.place.erreur': "La simulation approfondie demande un abonnement : abonnez-vous juste sous « Approfondie », ou choisissez la simulation simple.",
-  'abo.merci.consultation': "Mes prospectives",
+  'abo.merci.consultation': "Vos prospectives simulées",
   'abo.merci.introuvable': "Le paiement n'est pas encore confirmé pour ce code. Si votre carte a bien été débitée, écrivez à {email} avec l'heure du paiement : nous ouvrirons votre code.",
   'abo.merci.expire': "Ce code a expiré. Pour le renouveler, choisissez une formule sur la page Abonnement, ou écrivez à {email}.",
   'abo.merci.erreur': "Le serveur ne répond pas pour le moment. Réessayez dans un moment, ou écrivez à {email}.",
@@ -647,7 +648,8 @@ const en: Record<TranslationKey, string> = {
   'general.nav': "Main navigation",
   'general.langue': "Language",
   'general.accueil': "Home",
-  'general.mesTests': "My foresights",
+  'general.mesTests': "Your simulated foresights",
+  'general.mesTests.court': "Foresights",
   'general.cta': "Test my process",
   'general.chargement': "Loading…",
   'general.nouvelOnglet': "(opens in a new tab)",
@@ -1009,12 +1011,12 @@ const en: Record<TranslationKey, string> = {
   'suivi.voirRapport': "See the report",
   'suivi.usage': "Model usage: {entree} tokens sent and {sortie} tokens received (the token is the AI providers' billing unit).",
   'suivi.introuvable.titre': "This simulation is not on this device",
-  'suivi.introuvable.texte': "Simulations are stored in the browser where they were created. If you saved the project to a file, open it from “My foresights”.",
-  'suivi.stockage.echec': "This browser's storage is not available (private browsing, for example). If you have a project file, open it from “My foresights”.",
+  'suivi.introuvable.texte': "Simulations are stored in the browser where they were created. If you saved the project to a file, open it from “Your simulated foresights”.",
+  'suivi.stockage.echec': "This browser's storage is not available (private browsing, for example). If you have a project file, open it from “Your simulated foresights”.",
 
   'action.enregistrer': "Save the project (file)",
   'action.nouveau': "New simulation",
-  'action.mesTests': "See my foresights",
+  'action.mesTests': "See your simulated foresights",
 
   'rapport.titre': "Report",
   'rapport.pour': "Report for {organisation}",
@@ -1024,8 +1026,8 @@ const en: Record<TranslationKey, string> = {
   'rapport.pasPret': "The report for this simulation is not ready yet.",
   'rapport.retourSuivi': "See the simulation progress",
 
-  'tests.titre': "My foresights",
-  'tests.intro': "The foresights stored in this browser. To keep them safe or find them on another computer, save them to a file.",
+  'tests.titre': "Your simulated foresights",
+  'tests.intro': "Each participatory foresight simulates a citizen consultation on your process. They are stored in this browser, with no account and nowhere else. To keep them safe or find them on another computer, save them to a file.",
   'tests.vide': "No foresight stored in this browser yet.",
   'tests.ouvrirFichier': "Open a RegenVox file",
   'tests.ouvrirFichier.aide': "A file ending in “.regenvox.json”, saved from RegenVox.",
@@ -1043,7 +1045,7 @@ const en: Record<TranslationKey, string> = {
   'tests.import.version': "This file comes from a version of RegenVox that this page cannot read yet.",
   'tests.import.trop_gros': "This file is too large.",
   'tests.import.stockage': "The file is valid, but this browser cannot store it.",
-  'tests.stockage.echec': "This browser's storage is not available (private browsing, for example). Your foresights cannot be kept here.",
+  'tests.stockage.echec': "This browser's storage is not available (private browsing, for example). Your simulated foresights cannot be kept here.",
   'tests.enCours.supprimer': "Interrupt the running simulation before deleting this foresight.",
 
   'introuvable.titre': "Page not found",
@@ -1095,7 +1097,7 @@ const en: Record<TranslationKey, string> = {
   'abo.place.payer': "Subscribe: {nom}, {prix}",
   'abo.place.code': "I already have a subscription code",
   'abo.place.erreur': "The in-depth simulation needs a subscription: subscribe just below “In-depth”, or choose the simple simulation.",
-  'abo.merci.consultation': "My foresights",
+  'abo.merci.consultation': "Your simulated foresights",
   'abo.merci.introuvable': "The payment is not confirmed yet for this code. If your card was charged, write to {email} with the time of payment: we will open your code.",
   'abo.merci.expire': "This code has expired. To renew it, choose a plan on the Subscription page, or write to {email}.",
   'abo.merci.erreur': "The server is not responding right now. Try again in a moment, or write to {email}.",
