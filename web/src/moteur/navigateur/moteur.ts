@@ -38,7 +38,7 @@ const etapesInitiales = (): Etape[] => ETAPES.map((e) => ({ cle: e.cle, libelle:
 async function clientAppel(cle: CleApi, projet?: string): Promise<Appel> {
   if (cle.fournisseur === "regenvox") return async (r: Requete) => appelRelais(SERVEUR_IA, { code: cle.cle }, r);
   if (cle.fournisseur === "gratuit") {
-    if (!projet) throw new Error("Le test gratuit sert aux tests de démarche : pour cette action, utilisez un code d'abonnement ou votre propre clé.");
+    if (!projet) throw new Error("Le test gratuit sert aux tests de démarche : pour cette action, utilisez un code d'abonnement.");
     const ticket = await ticketGratuit(SERVEUR_IA, projet);
     return async (r: Requete) => {
       try {
@@ -239,12 +239,12 @@ function messageErreur(e: any): string {
   if (relais === "plafond") return "Le crédit de votre abonnement est épuisé pour cette période : écrivez-nous pour l'augmenter, puis reprenez le test.";
   if (relais === "ferme") return "Les abonnements ne sont pas ouverts sur ce serveur pour le moment.";
   if (relais === "cle_serveur") return "Le service RegenVox est momentanément indisponible : réessayez plus tard, votre test reprendra où il s'est arrêté.";
-  // Test gratuit : chaque refus propose une autre voie (abonnement, ou sa propre clé en option avancée).
-  if (relais === "gratuit_ferme") return "Le test gratuit n'est pas proposé pour le moment : utilisez un code d'abonnement ou votre propre clé (option avancée).";
-  if (relais === "gratuit_budget") return "Les tests gratuits de ce mois sont épuisés : utilisez un code d'abonnement ou votre propre clé (option avancée).";
-  if (relais === "gratuit_epuise") return "Les tests gratuits du jour ont été utilisés depuis votre réseau : réessayez demain, ou utilisez un code d'abonnement ou votre propre clé (option avancée).";
+  // Test gratuit : chaque refus propose l'abonnement.
+  if (relais === "gratuit_ferme") return "Le test gratuit n'est pas proposé pour le moment : utilisez un code d'abonnement.";
+  if (relais === "gratuit_budget") return "Les tests gratuits de ce mois sont épuisés : utilisez un code d'abonnement.";
+  if (relais === "gratuit_epuise") return "Les tests gratuits du jour ont été utilisés depuis votre réseau : réessayez demain, ou utilisez un code d'abonnement.";
   if (relais === "gratuit_occupe") return "Plusieurs tests gratuits sont en cours en ce moment : réessayez dans quelques minutes, ou utilisez un code d'abonnement.";
-  if (relais === "plafond_gratuit") return "Ce test gratuit a atteint sa limite de coût : pour le terminer, reprenez-le avec un code d'abonnement ou votre propre clé (option avancée).";
+  if (relais === "plafond_gratuit") return "Ce test gratuit a atteint sa limite de coût : pour le terminer, reprenez-le avec un code d'abonnement.";
   if (relais === "ticket") return "Ce test gratuit a expiré : reprenez-le pour en ouvrir un nouveau.";
   const statut = e?.status ?? e?.statusCode;
   if (statut === 401 || statut === 403) return "Clé refusée par le fournisseur : vérifiez qu'elle est correcte et active.";
