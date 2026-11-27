@@ -9,12 +9,16 @@ export interface Formule {
   id: string
   nom: string
   prix: string
+  prix_en?: string
   detail: string
   lien: string
   plafond_usd: number
   periode: 'mois' | 'total'
   approfondi: boolean
 }
+
+// Prix dans la langue de la page (le serveur donne le français, et l'anglais s'il est réglé).
+export const prixAffiche = (f: Formule, langue: string) => (langue === 'en' && f.prix_en) || f.prix
 
 export async function lireFormules(): Promise<{ ouvert: boolean; formules: Formule[] }> {
   const r = await fetch(`${SERVEUR_STRIPE}?action=formules`, { cache: 'no-store' })

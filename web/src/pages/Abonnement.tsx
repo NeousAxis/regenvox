@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
 import { useTitre } from '../titre'
 import { EMAIL_CONTACT } from '../liens'
-import { codeLisible, garderCode, lienPaiement, lireFormules, nouveauCode, type Formule } from '../abonnement'
+import { codeLisible, garderCode, lienPaiement, lireFormules, nouveauCode, prixAffiche, type Formule } from '../abonnement'
 
 export default function Abonnement() {
   const { t, lang } = useLanguage()
@@ -39,7 +39,7 @@ export default function Abonnement() {
             <li key={f.id} className="rounded-2xl border border-mist bg-white p-6 flex flex-col gap-4">
               <div>
                 <h2 className="font-serif text-2xl font-bold text-dark">{f.nom}</h2>
-                <p className="mt-1 text-xl font-semibold text-ocean-dark">{f.prix}</p>
+                <p className="mt-1 text-xl font-semibold text-ocean-dark">{prixAffiche(f, lang)}</p>
                 {f.detail && <p className="mt-2 text-dark-light leading-relaxed">{f.detail}</p>}
               </div>
               <ul className="space-y-2 text-dark leading-relaxed list-disc pl-5">
@@ -97,7 +97,7 @@ function Paiement({ formule, onRetour }: { formule: Formule; onRetour: () => voi
   return (
     <section aria-labelledby={`${id}-t`} className="rounded-2xl border-2 border-ocean bg-white p-6 space-y-5">
       <div>
-        <p className="text-sm font-semibold text-ocean-dark">{formule.nom}, {formule.prix}</p>
+        <p className="text-sm font-semibold text-ocean-dark">{formule.nom}, {prixAffiche(formule, lang)}</p>
         <h2 id={`${id}-t`} className="font-serif text-2xl font-bold text-dark">{t('abo.code.titre')}</h2>
         <p className="mt-2 text-dark leading-relaxed">{t('abo.code.texte')}</p>
       </div>
@@ -118,7 +118,7 @@ function Paiement({ formule, onRetour }: { formule: Formule; onRetour: () => voi
       </label>
       <div className="flex flex-wrap gap-3">
         <button type="button" className="btn btn-primaire" disabled={!note || depart} onClick={payer}>
-          {depart ? t('abo.payer.depart') : t('abo.payer', { prix: formule.prix })}
+          {depart ? t('abo.payer.depart') : t('abo.payer', { prix: prixAffiche(formule, lang) })}
         </button>
         <button type="button" className="btn btn-secondaire" onClick={onRetour} disabled={depart}>
           {t('abo.autreFormule')}

@@ -3,6 +3,7 @@ import { useLanguage } from '../i18n/LanguageContext'
 import type { TranslationKey } from '../i18n/translations'
 import { moteur } from '../moteur'
 import { Link } from 'react-router-dom'
+import LienAbonnement from './LienAbonnement'
 import type { Abonnement, CleApi, Fournisseur, OffreGratuite } from '../moteur'
 import { lireCleMemorisee, memoriserCle, oublierCle } from '../stockage'
 import { URL_CLE_ANTHROPIC, URL_CLE_MISTRAL, URL_CLE_OPENAI, SERVICES_AUTRES, EMAIL_CONTACT } from '../liens'
@@ -253,6 +254,11 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
       <fieldset aria-describedby={decritPar(erreurs.fournisseur && `${base}-err-f`)}>
         <legend className="font-semibold text-dark mb-2">{t('cle.fournisseur.label')}</legend>
         <div className="grid gap-3 sm:grid-cols-2">{principaux.map((f, i) => carte(f, i === 0))}</div>
+        {!abo && (
+          <p className="mt-2 text-sm">
+            <LienAbonnement />
+          </p>
+        )}
         <details className="mt-4 group" open={avance} onToggle={(e) => setAvance((e.target as HTMLDetailsElement).open)}>
           <summary className="cursor-pointer font-medium text-ocean-dark">{t('cle.avance')}</summary>
           <p className="mt-2 text-sm text-dark-light">{t('cle.avance.aide')}</p>

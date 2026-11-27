@@ -84,6 +84,7 @@ if ($action === 'formules') {
             'id' => $id,
             'nom' => (string)($f['nom'] ?? $id),
             'prix' => (string)($f['prix'] ?? ''),
+            'prix_en' => (string)($f['prix_en'] ?? $f['prix'] ?? ''),
             'detail' => (string)($f['detail'] ?? ''),
             'lien' => $lien,
             'plafond_usd' => (float)($f['plafond_usd'] ?? 0),

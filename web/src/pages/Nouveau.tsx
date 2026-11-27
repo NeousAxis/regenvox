@@ -12,6 +12,7 @@ import { useTitre } from '../titre'
 import { Aide, MessageErreur, decritPar } from '../components/Champ'
 import RechercheCommune from '../components/RechercheCommune'
 import type { Commune } from '../components/RechercheCommune'
+import LienAbonnement from '../components/LienAbonnement'
 import SaisieCle, { BlocRassurance, useSaisieCle, validerCle } from '../components/SaisieCle'
 
 // Formulaire guidé en quatre étapes. Rien ne quitte le navigateur, sauf la clé
@@ -908,7 +909,11 @@ export default function Nouveau() {
                     <CarteChoix nom="profondeur" valeur="standard" coche={profondeur === 'standard'} onChoisir={() => setProfondeur('standard')} titre={t('prof.standard')} description={t('prof.standard.desc')} />
                     <CarteChoix nom="profondeur" valeur="approfondi" coche={profondeur === 'approfondi'} onChoisir={() => setProfondeur('approfondi')} titre={t('prof.approfondi')} description={t('prof.approfondi.desc')} desactive={!approfondiPermis} />
                   </div>
-                  {!approfondiPermis && <p id="prof-reserve" className="mt-2 text-sm text-dark-light">{t('prof.reserve')}</p>}
+                  {!approfondiPermis && (
+                    <p id="prof-reserve" className="mt-2 text-sm text-dark-light">
+                      {t('prof.reserve')} <LienAbonnement />
+                    </p>
+                  )}
                 </fieldset>
 
                 <section aria-labelledby="recap-titre" className="rounded-xl border border-mist p-5">
