@@ -2,6 +2,7 @@ import { useCallback, useEffect, useId, useRef, useState } from 'react'
 import { useLanguage } from '../i18n/LanguageContext'
 import type { TranslationKey } from '../i18n/translations'
 import { moteur } from '../moteur'
+import { Link } from 'react-router-dom'
 import type { Abonnement, CleApi, Fournisseur, OffreGratuite } from '../moteur'
 import { lireCleMemorisee, memoriserCle, oublierCle } from '../stockage'
 import { URL_CLE_ANTHROPIC, URL_CLE_MISTRAL, URL_CLE_OPENAI, SERVICES_AUTRES, EMAIL_CONTACT } from '../liens'
@@ -314,6 +315,11 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
           {t(abo ? 'cle.code.label' : 'cle.cle.label')}
         </label>
         <Aide id={`${base}-aide`}>{t(aideCle, { email: EMAIL_CONTACT })}</Aide>
+        {abo && (
+          <p className="mt-1 text-sm">
+            <Link to="/abonnement" className="underline underline-offset-4 text-ocean-dark">{t('abo.lienCode')}</Link>
+          </p>
+        )}
         <div className="mt-2 flex gap-2">
           <input
             id={idCle}

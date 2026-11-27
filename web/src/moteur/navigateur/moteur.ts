@@ -235,7 +235,7 @@ function messageErreur(e: any): string {
   // Abonnement : messages propres au relais, avant ceux des fournisseurs (un code refusé n'est pas une clé refusée).
   const relais: string | undefined = e?.relais;
   if (relais === "code") return "Code d'abonnement refusé : vérifiez-le (16 caractères, espaces facultatifs).";
-  if (relais === "expire") return "Cet abonnement a expiré : écrivez-nous pour le renouveler.";
+  if (relais === "expire") return "Cet abonnement a expiré : renouvelez-le sur la page Abonnement de RegenVox, ou écrivez-nous.";
   if (relais === "plafond") return "Le crédit de votre abonnement est épuisé pour cette période : écrivez-nous pour l'augmenter, puis reprenez le test.";
   if (relais === "ferme") return "Les abonnements ne sont pas ouverts sur ce serveur pour le moment.";
   if (relais === "cle_serveur") return "Le service RegenVox est momentanément indisponible : réessayez plus tard, votre test reprendra où il s'est arrêté.";

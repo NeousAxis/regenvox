@@ -58,6 +58,14 @@ export default function Layout() {
             >
               {t('general.consultations')}
             </NavLink>
+            <NavLink
+              to="/abonnement"
+              className={({ isActive }) =>
+                `hidden md:inline text-sm font-semibold px-2 py-2 rounded-lg ${isActive ? 'text-ocean-dark underline underline-offset-4' : 'text-dark-light hover:text-ocean-dark'}`
+              }
+            >
+              {t('general.abonnement')}
+            </NavLink>
             <LanguageToggle />
             {!surFormulaire && (
               <Link to="/nouveau" className="btn btn-primaire btn-petit hidden sm:inline-flex">
@@ -83,6 +91,11 @@ export default function Layout() {
             <li>
               <Link className="underline underline-offset-4 hover:text-sky" to="/fiabilite">
                 {t('fiab.lien')}
+              </Link>
+            </li>
+            <li>
+              <Link className="underline underline-offset-4 hover:text-sky" to="/abonnement">
+                {t('general.abonnement')}
               </Link>
             </li>
             <li>

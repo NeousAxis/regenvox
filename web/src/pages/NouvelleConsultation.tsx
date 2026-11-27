@@ -360,6 +360,9 @@ function Formulaire({ projet: p, onFini }: { projet: Projet; onFini: (id: string
               {t('cons.champ.code')}
             </label>
             <Aide id={`${base}-code-aide`}>{t('cons.champ.code.aide', { email: EMAIL_CONTACT })}</Aide>
+            <p className="mt-1 text-sm">
+              <Link to="/abonnement" className="underline underline-offset-4 text-ocean-dark">{t('abo.lienCode')}</Link>
+            </p>
             <input id={`${base}-code`} className="champ mt-2 font-mono" autoComplete="off" maxLength={60} value={code} onChange={(e) => setCode(e.target.value)} aria-describedby={`${base}-code-aide`} />
           </div>
           <label className="flex items-start gap-3">

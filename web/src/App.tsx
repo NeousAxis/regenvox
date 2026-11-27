@@ -11,6 +11,8 @@ const Suivi = lazy(() => import('./pages/Suivi'))
 const Rapport = lazy(() => import('./pages/Rapport'))
 const MesProspectives = lazy(() => import('./pages/MesProspectives'))
 const Fiabilite = lazy(() => import('./pages/Fiabilite'))
+const Abonnement = lazy(() => import('./pages/Abonnement'))
+const AbonnementMerci = lazy(() => import('./pages/AbonnementMerci'))
 const Introuvable = lazy(() => import('./pages/Introuvable'))
 const NouvelleConsultation = lazy(() => import('./pages/NouvelleConsultation'))
 const Consultation = lazy(() => import('./pages/Consultation'))
@@ -29,6 +31,8 @@ export default function App() {
             <Route path="nouveau" element={<Nouveau />} />
             <Route path="prospectives" element={<MesProspectives />} />
             <Route path="fiabilite" element={<Fiabilite />} />
+            <Route path="abonnement" element={<Abonnement />} />
+            <Route path="abonnement/merci" element={<AbonnementMerci />} />
             <Route path="tests" element={<Navigate to="/prospectives" replace />} />
             <Route path="test/:id" element={<Suivi />} />
             <Route path="test/:id/rapport" element={<Rapport />} />
