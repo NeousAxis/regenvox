@@ -497,7 +497,7 @@ export default function Nouveau() {
       return
     }
     effacerBrouillon()
-    navigate(`/test/${encodeURIComponent(projet.id)}`, { state: { stockageOk } })
+    navigate(`/simulation/${encodeURIComponent(projet.id)}`, { state: { stockageOk } })
   }
 
   const mode = modePopulation(b)

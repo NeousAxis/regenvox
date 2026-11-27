@@ -98,7 +98,7 @@ export default function Rapport() {
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16">
         <h1 className="font-serif text-3xl font-bold text-dark">{t('rapport.titre')}</h1>
         <p className="mt-4 text-dark-light leading-relaxed">{t('rapport.pasPret')}</p>
-        <Link to={`/test/${encodeURIComponent(projet.id)}`} className="btn btn-primaire mt-8">
+        <Link to={`/simulation/${encodeURIComponent(projet.id)}`} className="btn btn-primaire mt-8">
           {t('rapport.retourSuivi')}
         </Link>
       </div>

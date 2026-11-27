@@ -330,7 +330,7 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
             type="button"
             onClick={() => setVisible((v) => !v)}
             className="btn btn-secondaire btn-petit shrink-0"
-            aria-label={visible ? t('cle.masquer.label') : t('cle.afficher.label')}
+            aria-label={visible ? t(abo ? 'cle.masquer.code' : 'cle.masquer.label') : t(abo ? 'cle.afficher.code' : 'cle.afficher.label')}
             aria-pressed={visible}
           >
             {visible ? t('cle.masquer') : t('cle.afficher')}
@@ -377,7 +377,7 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
             aria-describedby={`${base}-memo`}
           />
           <span>
-            <span className="block font-medium">{t('cle.memoriser')}</span>
+            <span className="block font-medium">{t(abo ? 'cle.memoriser.code' : 'cle.memoriser')}</span>
             <span id={`${base}-memo`} className="block text-sm text-dark-light">
               {t('cle.memoriser.aide')}
             </span>
