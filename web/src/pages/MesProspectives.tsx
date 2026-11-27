@@ -41,7 +41,7 @@ const LIBELLE_ETAT: Record<EtatListe, TranslationKey> = {
 }
 
 const lienProjet = (p: Projet) =>
-  p.etat === 'termine' && p.rapport_html ? `/test/${encodeURIComponent(p.id)}/rapport` : `/test/${encodeURIComponent(p.id)}`
+  p.etat === 'termine' && p.rapport_html ? `/simulation/${encodeURIComponent(p.id)}/rapport` : `/simulation/${encodeURIComponent(p.id)}`
 
 export default function MesProspectives() {
   const { t, formaterDate } = useLanguage()

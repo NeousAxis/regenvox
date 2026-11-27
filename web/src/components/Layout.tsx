@@ -41,22 +41,32 @@ export default function Layout() {
           <Link to="/" className="rounded-lg" aria-label={`RegenVox, ${t('general.accueil')}`}>
             <Logo compact />
           </Link>
-          <nav aria-label={t('general.nav')} className="flex items-center gap-2 sm:gap-4">
+          <nav aria-label={t('general.nav')} className="flex items-center gap-1 sm:gap-4">
             <NavLink
               to="/prospectives"
               className={({ isActive }) =>
-                `text-sm font-semibold px-2 py-2 rounded-lg ${isActive ? 'text-ocean-dark underline underline-offset-4' : 'text-dark-light hover:text-ocean-dark'}`
+                `text-sm font-semibold px-1 sm:px-2 py-2 rounded-lg whitespace-nowrap ${isActive ? 'text-ocean-dark underline underline-offset-4' : 'text-dark-light hover:text-ocean-dark'}`
               }
             >
-              {t('general.mesTests')}
+              {/* Sur téléphone, libellé court : le libellé complet ne tient pas dans l'en-tête. */}
+              <span className="lg:hidden">{t('general.mesTests.court')}</span>
+              <span className="hidden lg:inline">{t('general.mesTests')}</span>
             </NavLink>
             <NavLink
               to="/consultations"
               className={({ isActive }) =>
-                `text-sm font-semibold px-2 py-2 rounded-lg ${isActive ? 'text-ocean-dark underline underline-offset-4' : 'text-dark-light hover:text-ocean-dark'}`
+                `text-sm font-semibold px-1 sm:px-2 py-2 rounded-lg whitespace-nowrap ${isActive ? 'text-ocean-dark underline underline-offset-4' : 'text-dark-light hover:text-ocean-dark'}`
               }
             >
               {t('general.consultations')}
+            </NavLink>
+            <NavLink
+              to="/abonnement"
+              className={({ isActive }) =>
+                `hidden md:inline text-sm font-semibold px-2 py-2 rounded-lg ${isActive ? 'text-ocean-dark underline underline-offset-4' : 'text-dark-light hover:text-ocean-dark'}`
+              }
+            >
+              {t('general.abonnement')}
             </NavLink>
             <LanguageToggle />
             {!surFormulaire && (
@@ -83,6 +93,11 @@ export default function Layout() {
             <li>
               <Link className="underline underline-offset-4 hover:text-sky" to="/fiabilite">
                 {t('fiab.lien')}
+              </Link>
+            </li>
+            <li>
+              <Link className="underline underline-offset-4 hover:text-sky" to="/abonnement">
+                {t('general.abonnement')}
               </Link>
             </li>
             <li>

@@ -11,7 +11,7 @@ export default function Logo({ clair = false, compact = false }: { clair?: boole
         <circle cx="32" cy="19.5" r="7" fill="#fff" stroke="#2A6D8A" strokeWidth="2.2" />
         <path d="M19.5 46.5c0-8.6 5.5-13.2 12.5-13.2s12.5 4.6 12.5 13.2z" fill="#fff" stroke="#2A6D8A" strokeWidth="2.2" strokeLinejoin="round" />
       </svg>
-      <span className={`font-serif text-xl font-bold ${clair ? 'text-white' : 'text-dark'} ${compact ? 'max-[369px]:sr-only' : ''}`}>
+      <span className={`font-serif text-xl font-bold ${clair ? 'text-white' : 'text-dark'} ${compact ? 'max-[479px]:sr-only' : ''}`}>
         Regen<span className={clair ? 'text-sky' : 'text-ocean-dark'}>Vox</span>
       </span>
     </span>

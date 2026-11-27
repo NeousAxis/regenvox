@@ -2,6 +2,8 @@ import { useCallback, useEffect, useId, useRef, useState } from 'react'
 import { useLanguage } from '../i18n/LanguageContext'
 import type { TranslationKey } from '../i18n/translations'
 import { moteur } from '../moteur'
+import { Link } from 'react-router-dom'
+import LienAbonnement from './LienAbonnement'
 import type { Abonnement, CleApi, Fournisseur, OffreGratuite } from '../moteur'
 import { lireCleMemorisee, memoriserCle, oublierCle } from '../stockage'
 import { URL_CLE_ANTHROPIC, URL_CLE_MISTRAL, URL_CLE_OPENAI, SERVICES_AUTRES, EMAIL_CONTACT } from '../liens'
@@ -88,7 +90,7 @@ export function validerCle(e: EtatCle): ErreursCle {
   return erreurs
 }
 
-// Clés personnelles : option avancée, repliée tant qu'aucune n'est choisie.
+// Clés personnelles : plus proposées sur le site depuis le 27.11.2026 (l'abonnement les remplace) ; une clé mémorisée avant est ignorée.
 const AVANCES: Fournisseur[] = ['anthropic', 'mistral', 'openai', 'autre']
 
 // État de la saisie de la clé, partagé par le formulaire et la reprise d'un test.
@@ -96,7 +98,9 @@ const AVANCES: Fournisseur[] = ['anthropic', 'mistral', 'openai', 'autre']
 export function useSaisieCle({ sansGratuit = false }: { sansGratuit?: boolean } = {}) {
   const [etat, setEtat] = useState<EtatCle>(() => {
     const memo = lireCleMemorisee()
-    if (!memo) return { fournisseur: '', cle: '', memoriser: false, ...VIDE }
+    // Depuis le 27.11.2026, le site ne propose plus de clé personnelle (l'abonnement la remplace) : une clé
+    // mémorisée avant n'est pas reprise.
+    if (!memo || AVANCES.includes(memo.fournisseur as Fournisseur)) return { fournisseur: '', cle: '', memoriser: false, ...VIDE }
     const service = SERVICES_AUTRES.find((s) => s.adresse === memo.adresse)?.code ?? (memo.adresse ? 'perso' : '')
     return {
       fournisseur: memo.fournisseur, cle: memo.cle, memoriser: true, ...VIDE,
@@ -197,11 +201,6 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
   const { t, lang } = useLanguage()
   const base = useId()
   const [visible, setVisible] = useState(false)
-  const [avance, setAvance] = useState(() => AVANCES.includes(etat.fournisseur as Fournisseur))
-  // Sans test gratuit (relais fermé, hébergement sans offre), la clé personnelle est une voie normale : on l'ouvre.
-  useEffect(() => {
-    if (AVANCES.includes(etat.fournisseur as Fournisseur) || offre === 'indisponible') setAvance(true)
-  }, [etat.fournisseur, offre])
   const gratuit = etat.fournisseur === 'gratuit'
   const offreOuverte = offre && offre !== 'indisponible' ? offre : null
   const sig = signature(etat)
@@ -212,12 +211,6 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
   const principaux: Choix[] = [
     ...(offreOuverte ? [{ code: 'gratuit', nom: 'cle.gratuit', desc: 'cle.gratuit.desc' } as Choix] : []),
     { code: 'regenvox', nom: 'cle.regenvox', desc: 'cle.regenvox.desc' },
-  ]
-  const avances: Choix[] = [
-    { code: 'anthropic', nom: 'cle.anthropic', desc: 'cle.anthropic.desc' },
-    { code: 'mistral', nom: 'cle.mistral', desc: 'cle.mistral.desc' },
-    { code: 'openai', nom: 'cle.openai', desc: 'cle.openai.desc' },
-    { code: 'autre', nom: 'cle.autre', desc: 'cle.autre.desc' },
   ]
   const carte = (f: Choix, premier: boolean) => (
     <label
@@ -252,11 +245,11 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
       <fieldset aria-describedby={decritPar(erreurs.fournisseur && `${base}-err-f`)}>
         <legend className="font-semibold text-dark mb-2">{t('cle.fournisseur.label')}</legend>
         <div className="grid gap-3 sm:grid-cols-2">{principaux.map((f, i) => carte(f, i === 0))}</div>
-        <details className="mt-4 group" open={avance} onToggle={(e) => setAvance((e.target as HTMLDetailsElement).open)}>
-          <summary className="cursor-pointer font-medium text-ocean-dark">{t('cle.avance')}</summary>
-          <p className="mt-2 text-sm text-dark-light">{t('cle.avance.aide')}</p>
-          <div className="mt-3 grid gap-3 sm:grid-cols-2">{avances.map((f) => carte(f, false))}</div>
-        </details>
+        {!abo && (
+          <p className="mt-2 text-sm">
+            <LienAbonnement />
+          </p>
+        )}
         <MessageErreur id={`${base}-err-f`}>{erreurs.fournisseur && t(erreurs.fournisseur)}</MessageErreur>
       </fieldset>
 
@@ -314,6 +307,11 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
           {t(abo ? 'cle.code.label' : 'cle.cle.label')}
         </label>
         <Aide id={`${base}-aide`}>{t(aideCle, { email: EMAIL_CONTACT })}</Aide>
+        {abo && (
+          <p className="mt-1 text-sm">
+            <Link to="/abonnement" className="underline underline-offset-4 text-ocean-dark">{t('abo.lienCode')}</Link>
+          </p>
+        )}
         <div className="mt-2 flex gap-2">
           <input
             id={idCle}
@@ -332,7 +330,7 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
             type="button"
             onClick={() => setVisible((v) => !v)}
             className="btn btn-secondaire btn-petit shrink-0"
-            aria-label={visible ? t('cle.masquer.label') : t('cle.afficher.label')}
+            aria-label={visible ? t(abo ? 'cle.masquer.code' : 'cle.masquer.label') : t(abo ? 'cle.afficher.code' : 'cle.afficher.label')}
             aria-pressed={visible}
           >
             {visible ? t('cle.masquer') : t('cle.afficher')}
@@ -379,7 +377,7 @@ export default function SaisieCle({ etat, abonnement, offre, modifier, verificat
             aria-describedby={`${base}-memo`}
           />
           <span>
-            <span className="block font-medium">{t('cle.memoriser')}</span>
+            <span className="block font-medium">{t(abo ? 'cle.memoriser.code' : 'cle.memoriser')}</span>
             <span id={`${base}-memo`} className="block text-sm text-dark-light">
               {t('cle.memoriser.aide')}
             </span>

@@ -207,7 +207,7 @@ export default function Suivi() {
           {affiche === 'termine' && (
             <div className="rounded-2xl border border-succes/40 bg-succes/5 p-5 sm:p-6">
               <p className="font-semibold text-succes text-lg">{t('suivi.termine.texte')}</p>
-              <Link to={`/test/${encodeURIComponent(projet.id)}/rapport`} className="btn btn-primaire mt-4">
+              <Link to={`/simulation/${encodeURIComponent(projet.id)}/rapport`} className="btn btn-primaire mt-4">
                 {t('suivi.voirRapport')}
               </Link>
             </div>
@@ -257,7 +257,7 @@ export default function Suivi() {
                 {t('suivi.etapes')}
               </h2>
               <p className="text-sm font-medium text-dark-light" aria-live="polite">
-                {t('suivi.progression', { fait: etapesFaites, total: totalEtapes })}
+                {t(etapesFaites > 1 ? 'suivi.progression.plusieurs' : 'suivi.progression', { fait: etapesFaites, total: totalEtapes })}
               </p>
             </div>
             <div
@@ -267,7 +267,7 @@ export default function Suivi() {
               aria-valuemin={0}
               aria-valuemax={100}
               aria-valuenow={pourcentage}
-              aria-valuetext={t('suivi.progression', { fait: etapesFaites, total: totalEtapes })}
+              aria-valuetext={t(etapesFaites > 1 ? 'suivi.progression.plusieurs' : 'suivi.progression', { fait: etapesFaites, total: totalEtapes })}
             >
               <div className="h-full bg-ocean-dark rounded-full transition-all duration-500" style={{ width: `${pourcentage}%` }} />
             </div>

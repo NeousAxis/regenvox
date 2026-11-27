@@ -25,6 +25,9 @@ if (is_file($fichier_config)) {
     $perso = require $fichier_config;
     if (is_array($perso)) $config = array_merge($config, $perso);
 }
+// Abonnements payés en ligne (stripe.php) : ajoutés à ceux de config.php.
+require_once __DIR__ . '/abonnements_payes.php';
+$config = rv_avec_abonnements_payes($config);
 
 const TAILLE_MAX_CORPS = 300000;
 const TAILLE_MAX_QUESTIONNAIRE = 200000;

@@ -41,6 +41,9 @@ if (is_file($fichier_config)) {
     $perso = require $fichier_config;
     if (is_array($perso)) $config = array_merge($config, $perso);
 }
+// Abonnements payés en ligne (stripe.php) : ajoutés à ceux de config.php.
+require_once __DIR__ . '/abonnements_payes.php';
+$config = rv_avec_abonnements_payes($config);
 // Test gratuit : plafond par test, budget du mois pour tous les tests gratuits, nouveaux tests par réseau et par jour,
 // tests gratuits menés en même temps, durée de validité d'un ticket.
 $GRATUIT = array_merge([
@@ -96,7 +99,9 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'OPTIONS') {
     exit;
 }
 
-$abonnements_ouverts = is_array($config['abonnements']) && count($config['abonnements']) > 0;
+// Ouverts dès qu'un abonnement existe, ou que des formules sont en vente en ligne (le premier code peut arriver).
+$abonnements_ouverts = (is_array($config['abonnements']) && count($config['abonnements']) > 0)
+    || count((array)($config['stripe']['formules'] ?? [])) > 0;
 $gratuit_ouvert = $GRATUIT['actif'] === true;
 if (!is_string($config['anthropic_cle']) || $config['anthropic_cle'] === '' || (!$abonnements_ouverts && !$gratuit_ouvert)) {
     erreur(503, 'ferme');

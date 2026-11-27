@@ -26,6 +26,18 @@ return [
     'gratuit' => [
         // 'actif' => true, 'plafond_test_usd' => 4, 'plafond_mois_usd' => 25, 'tests_par_jour_reseau' => 2, 'simultanes' => 2, 'duree_ticket_h' => 24,
     ],
+    // Paiement des abonnements par Stripe (stripe.php). Exige 'dossier'. Aucune clé d'API : seulement le secret de
+    // signature du point de réception (« whsec_… »), à garder dans un fichier à part (root:www-data, 640).
+    // mode : 'test' ou 'live' ; formules : lien de paiement Stripe (lien et identifiant plink_…), prix affiché, réglages
+    // de l'abonnement ouvert au paiement, duree_jours : validité au premier paiement (prolongée à chaque échéance payée).
+    'stripe' => [
+        // 'mode' => 'test',
+        // 'secrets' => [trim((string)@file_get_contents('/etc/regenvox/stripe_webhook'))],
+        // 'formules' => [
+        //     'mensuel' => ['nom' => 'Mensuel', 'prix' => 'CHF 49 par mois', 'lien' => 'https://buy.stripe.com/…', 'payment_link' => 'plink_…',
+        //                   'plafond_usd' => 25, 'periode' => 'mois', 'approfondi' => true, 'duree_jours' => 33],
+        // ],
+    ],
     // Autres sites autorisés à appeler ce serveur, si la plateforme n'est pas servie depuis le même site.
     'origines' => [],
     // Vrai seulement si le serveur est derrière un proxy de confiance (l'adresse du client est alors la dernière de X-Forwarded-For).

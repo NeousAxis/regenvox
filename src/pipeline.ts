@@ -66,7 +66,7 @@ async function parallele<T>(xs: T[], n: number, f: (x: T) => Promise<void>, sign
   let i = 0;
   await Promise.all(Array.from({ length: Math.min(n, xs.length) }, async () => {
     while (i < xs.length) {
-      if (signal?.aborted) throw new Error("Test interrompu.");
+      if (signal?.aborted) throw new Error("Simulation interrompue.");
       await f(xs[i++]);
     }
   }));
@@ -104,7 +104,7 @@ export async function executerTest(caseId: string, runId: string, appel: Appel, 
   for (let garde = 0; garde < 40; garde++) {
     const e = ETAPES.find((x) => active(runId, x) && !etapeFaite(runId, x));
     if (!e) break;
-    if (s.signal?.aborted) throw new Error("Test interrompu.");
+    if (s.signal?.aborted) throw new Error("Simulation interrompue.");
     s.etape?.(e.cle, "en_cours");
     if (e.cle === "panel") cmdPanel(runId);
     else if (e.cle === "simulate") cmdSimulate(runId);

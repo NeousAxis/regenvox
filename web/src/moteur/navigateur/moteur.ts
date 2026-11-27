@@ -38,7 +38,7 @@ const etapesInitiales = (): Etape[] => ETAPES.map((e) => ({ cle: e.cle, libelle:
 async function clientAppel(cle: CleApi, projet?: string): Promise<Appel> {
   if (cle.fournisseur === "regenvox") return async (r: Requete) => appelRelais(SERVEUR_IA, { code: cle.cle }, r);
   if (cle.fournisseur === "gratuit") {
-    if (!projet) throw new Error("Le test gratuit sert aux tests de démarche : pour cette action, utilisez un code d'abonnement ou votre propre clé.");
+    if (!projet) throw new Error("La simulation gratuite sert à tester une démarche : pour cette action, utilisez un code d'abonnement.");
     const ticket = await ticketGratuit(SERVEUR_IA, projet);
     return async (r: Requete) => {
       try {
@@ -144,7 +144,7 @@ export const moteurNavigateur: Moteur = {
     const caseId = pr.id;
     const runId = pr.id;
     try {
-      if (pr.parametres.profondeur === "approfondi" && cle.fournisseur !== "regenvox") throw new Error("Le test approfondi demande un abonnement RegenVox : choisissez « Abonnement RegenVox » et saisissez votre code.");
+      if (pr.parametres.profondeur === "approfondi" && cle.fournisseur !== "regenvox") throw new Error("La simulation approfondie demande un abonnement RegenVox : choisissez « Abonnement RegenVox » et saisissez votre code.");
       if (!memoire.existsSync(`${RACINE}/cases/${caseId}/case.json`)) {
         const [src, ref] = await Promise.all([territoire(pr.parametres), lire<SourceTerritoire>("donnees/suisse.json.gz")]);
         const graine = 20261027 + Math.floor(Math.random() * 1e6);
@@ -173,7 +173,7 @@ export const moteurNavigateur: Moteur = {
       const interrompu = signal?.aborted;
       maj({
         etat: interrompu ? "interrompu" : "erreur",
-        erreur: interrompu ? "Test interrompu. Vous pouvez le reprendre." : messageErreur(e),
+        erreur: interrompu ? "Simulation interrompue. Vous pouvez la reprendre." : messageErreur(e),
         etapes: pr.etapes.map((x) => (x.etat === "en_cours" ? { ...x, etat: interrompu ? "a_faire" : "erreur" } : x)),
         fichiers: instantane(),
       });
@@ -189,7 +189,7 @@ export const moteurNavigateur: Moteur = {
     try {
       memoire.vider();
       memoire.importer(RACINE, projet.fichiers);
-      const date = projet.rapport_html.match(/test de démarche du ([0-9.]+)/)?.[1] ?? new Date(projet.cree_le).toLocaleDateString("fr-CH");
+      const date = projet.rapport_html.match(/(?:test|simulation) de démarche du ([0-9.]+)/)?.[1] ?? new Date(projet.cree_le).toLocaleDateString("fr-CH");
       return renderRapportPlateforme(projet.id, { organisation: projet.parametres.organisation.nom, date });
     } catch {
       return null;
@@ -235,21 +235,21 @@ function messageErreur(e: any): string {
   // Abonnement : messages propres au relais, avant ceux des fournisseurs (un code refusé n'est pas une clé refusée).
   const relais: string | undefined = e?.relais;
   if (relais === "code") return "Code d'abonnement refusé : vérifiez-le (16 caractères, espaces facultatifs).";
-  if (relais === "expire") return "Cet abonnement a expiré : écrivez-nous pour le renouveler.";
-  if (relais === "plafond") return "Le crédit de votre abonnement est épuisé pour cette période : écrivez-nous pour l'augmenter, puis reprenez le test.";
+  if (relais === "expire") return "Cet abonnement a expiré : renouvelez-le sur la page Abonnement de RegenVox, ou écrivez-nous.";
+  if (relais === "plafond") return "Le crédit de votre abonnement est épuisé pour cette période : écrivez-nous pour l'augmenter, puis reprenez la simulation.";
   if (relais === "ferme") return "Les abonnements ne sont pas ouverts sur ce serveur pour le moment.";
-  if (relais === "cle_serveur") return "Le service RegenVox est momentanément indisponible : réessayez plus tard, votre test reprendra où il s'est arrêté.";
-  // Test gratuit : chaque refus propose une autre voie (abonnement, ou sa propre clé en option avancée).
-  if (relais === "gratuit_ferme") return "Le test gratuit n'est pas proposé pour le moment : utilisez un code d'abonnement ou votre propre clé (option avancée).";
-  if (relais === "gratuit_budget") return "Les tests gratuits de ce mois sont épuisés : utilisez un code d'abonnement ou votre propre clé (option avancée).";
-  if (relais === "gratuit_epuise") return "Les tests gratuits du jour ont été utilisés depuis votre réseau : réessayez demain, ou utilisez un code d'abonnement ou votre propre clé (option avancée).";
-  if (relais === "gratuit_occupe") return "Plusieurs tests gratuits sont en cours en ce moment : réessayez dans quelques minutes, ou utilisez un code d'abonnement.";
-  if (relais === "plafond_gratuit") return "Ce test gratuit a atteint sa limite de coût : pour le terminer, reprenez-le avec un code d'abonnement ou votre propre clé (option avancée).";
-  if (relais === "ticket") return "Ce test gratuit a expiré : reprenez-le pour en ouvrir un nouveau.";
+  if (relais === "cle_serveur") return "Le service RegenVox est momentanément indisponible : réessayez plus tard, votre simulation reprendra où elle s'est arrêté.";
+  // Test gratuit : chaque refus propose l'abonnement.
+  if (relais === "gratuit_ferme") return "La simulation gratuite n'est pas proposée pour le moment : utilisez un code d'abonnement.";
+  if (relais === "gratuit_budget") return "Les simulations gratuites de ce mois sont épuisées : utilisez un code d'abonnement.";
+  if (relais === "gratuit_epuise") return "Les simulations gratuites du jour ont été utilisées depuis votre réseau : réessayez demain, ou utilisez un code d'abonnement.";
+  if (relais === "gratuit_occupe") return "Plusieurs simulations gratuites sont en cours en ce moment : réessayez dans quelques minutes, ou utilisez un code d'abonnement.";
+  if (relais === "plafond_gratuit") return "Cette simulation gratuite a atteint sa limite de coût : pour la terminer, reprenez-la avec un code d'abonnement.";
+  if (relais === "ticket") return "Cette simulation gratuite a expiré : reprenez-la pour en ouvrir une nouvelle.";
   const statut = e?.status ?? e?.statusCode;
   if (statut === 401 || statut === 403) return "Clé refusée par le fournisseur : vérifiez qu'elle est correcte et active.";
-  if (statut === 402 || /credit|billing|balance/i.test(e?.message ?? "")) return "Crédit insuffisant chez le fournisseur : ajoutez du crédit sur votre compte puis reprenez le test.";
-  if (statut === 429) return "Trop de demandes envoyées au fournisseur : attendez une minute puis reprenez le test.";
+  if (statut === 402 || /credit|billing|balance/i.test(e?.message ?? "")) return "Crédit insuffisant chez le fournisseur : ajoutez du crédit sur votre compte puis reprenez la simulation.";
+  if (statut === 429) return "Trop de demandes envoyées au fournisseur : attendez une minute puis reprenez la simulation.";
   if (e?.name === "TypeError" && /fetch/i.test(e?.message ?? "")) return "Connexion au fournisseur impossible : vérifiez votre connexion internet.";
   return String(e?.message ?? e);
 }
