@@ -173,7 +173,7 @@ export const moteurNavigateur: Moteur = {
       const interrompu = signal?.aborted;
       maj({
         etat: interrompu ? "interrompu" : "erreur",
-        erreur: interrompu ? "Test interrompu. Vous pouvez le reprendre." : messageErreur(e),
+        erreur: interrompu ? "Simulation interrompue. Vous pouvez la reprendre." : messageErreur(e),
         etapes: pr.etapes.map((x) => (x.etat === "en_cours" ? { ...x, etat: interrompu ? "a_faire" : "erreur" } : x)),
         fichiers: instantane(),
       });
@@ -189,7 +189,7 @@ export const moteurNavigateur: Moteur = {
     try {
       memoire.vider();
       memoire.importer(RACINE, projet.fichiers);
-      const date = projet.rapport_html.match(/test de démarche du ([0-9.]+)/)?.[1] ?? new Date(projet.cree_le).toLocaleDateString("fr-CH");
+      const date = projet.rapport_html.match(/(?:test|simulation) de démarche du ([0-9.]+)/)?.[1] ?? new Date(projet.cree_le).toLocaleDateString("fr-CH");
       return renderRapportPlateforme(projet.id, { organisation: projet.parametres.organisation.nom, date });
     } catch {
       return null;

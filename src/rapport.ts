@@ -1,4 +1,4 @@
-// Rapport HTML autonome d'un test de démarche lancé depuis la plateforme (commune, école ou entreprise).
+// Rapport HTML autonome d'une simulation de démarche lancé depuis la plateforme (commune, école ou entreprise).
 // Même règle que le rapport du catalogue : tous les chiffres viennent de metrics.json et des sorties validées.
 import fs from "node:fs";
 import path from "node:path";
@@ -121,7 +121,7 @@ ${STYLE}
 <style>@media print{.angle,.seg,.panel{break-inside:avoid}body{background:#fff}}@media (max-width:400px){.grid2{grid-template-columns:minmax(0,1fr)}}</style></head><body>
 <div class="wrap">
 <header style="display:flex;flex-direction:column;gap:14px">
-  <div class="eyebrow">RegenVox · test de démarche du ${esc(meta.date)}</div>
+  <div class="eyebrow">RegenVox · simulation de démarche du ${esc(meta.date)}</div>
   <h1>${esc(meta.organisation)}</h1>
   <p class="small">${esc(c.cible.description)}</p>
   <p class="lede"><b>Enjeu</b> : ${esc(c.enjeu)}<br><b>Objectif</b> : ${esc(c.objectif)}</p>
