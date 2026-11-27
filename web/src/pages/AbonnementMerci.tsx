@@ -1,12 +1,13 @@
 // Retour après le paiement Stripe : le code tiré au sort avant de payer s'ouvre dès que Stripe confirme le paiement
 // au serveur (quelques secondes en général). On le vérifie ici, sans rien demander d'autre à l'abonné.
-import { useEffect, useId, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { useEffect, useId, useRef, useState } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
 import { useTitre } from '../titre'
 import { EMAIL_CONTACT } from '../liens'
 import { Aide } from '../components/Champ'
-import { SERVEUR_IA, codeGarde, codeLisible } from '../abonnement'
+import { SERVEUR_IA, codeGarde, codeLisible, garderCode } from '../abonnement'
+import { lireBrouillon, memoriserCle } from '../stockage'
 import { etatAbonnement, type EtatAbonnement } from '../../../src/appels'
 
 const ATTENTE_MAX_MS = 180000
@@ -23,6 +24,23 @@ export default function AbonnementMerci() {
   const [code, setCode] = useState(garde?.code ?? '')
   const [saisie, setSaisie] = useState('')
   const [etat, setEtat] = useState<Etat | null>(null)
+  const navigate = useNavigate()
+  // Paiement parti d'une simulation : on y retourne dès que le code est ouvert, code rempli et test approfondi choisi.
+  const retour = useRef(garde?.retour && garde.code === code ? { vers: garde.retour, profondeur: garde.profondeur } : null)
+  const simulationEnCours = !!lireBrouillon()
+
+  useEffect(() => {
+    if (etat?.quoi !== 'actif') return
+    // Le code ouvert est gardé sur l'appareil : la simulation le retrouve tout seul.
+    memoriserCle({ fournisseur: 'regenvox', cle: code })
+    const r = retour.current
+    if (!r) return
+    retour.current = null
+    if (garde) garderCode({ code: garde.code, formule: garde.formule, le: garde.le })
+    const minuteur = setTimeout(() => navigate(r.vers, { replace: true, state: { profondeur: r.profondeur } }), 1500)
+    return () => clearTimeout(minuteur)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [etat?.quoi])
 
   useEffect(() => {
     if (!code) return
@@ -74,8 +92,9 @@ export default function AbonnementMerci() {
                 {etat.abo.expire ? ` ${t('abo.merci.jusquau', { date: etat.abo.expire.split('-').reverse().join('.') })}` : ''}
               </p>
               <p className="text-dark leading-relaxed">{t('abo.merci.utiliser')}</p>
+              {garde?.retour && garde.code === code && <p role="status" className="text-dark font-semibold">{t('abo.merci.retour')}</p>}
               <div className="flex flex-wrap gap-3">
-                <Link to="/nouveau" className="btn btn-primaire">{t('abo.merci.test')}</Link>
+                <Link to="/nouveau" state={{ profondeur: 'approfondi' }} className="btn btn-primaire">{t(simulationEnCours ? 'abo.merci.reprendre' : 'abo.merci.test')}</Link>
                 <Link to="/prospectives" className="btn btn-secondaire">{t('abo.merci.consultation')}</Link>
               </div>
             </>

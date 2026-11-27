@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import type { ReactNode } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useLocation, useNavigate } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
 import type { TranslationKey } from '../i18n/translations'
 import { moteur } from '../moteur'
@@ -13,6 +13,7 @@ import { Aide, MessageErreur, decritPar } from '../components/Champ'
 import RechercheCommune from '../components/RechercheCommune'
 import type { Commune } from '../components/RechercheCommune'
 import LienAbonnement from '../components/LienAbonnement'
+import AbonnementSurPlace from '../components/AbonnementSurPlace'
 import SaisieCle, { BlocRassurance, useSaisieCle, validerCle } from '../components/SaisieCle'
 
 // Formulaire guidé en quatre étapes. Rien ne quitte le navigateur, sauf la clé
@@ -334,11 +335,16 @@ export default function Nouveau() {
   const [montrerErreursCle, setMontrerErreursCle] = useState(false)
   const saisieCle = useSaisieCle()
   // Test approfondi : seulement avec un abonnement vérifié qui le permet.
-  const [profondeur, setProfondeur] = useState<'standard' | 'approfondi'>('standard')
+  const location = useLocation()
+  // Au retour du paiement (page Merci), la simulation demande le test approfondi : on le remet dès que le code passe.
+  const retourApprofondi = useRef((location.state as { profondeur?: string } | null)?.profondeur === 'approfondi')
+  const [profondeur, setProfondeur] = useState<'standard' | 'approfondi'>(retourApprofondi.current ? 'approfondi' : 'standard')
   const approfondiPermis = saisieCle.etat.fournisseur === 'regenvox' && !!saisieCle.abonnement?.approfondi
+  // Code d'abonnement déjà présent (mémorisé, ou rempli au retour du paiement) : il est vérifié tout seul.
   useEffect(() => {
-    if (!approfondiPermis && profondeur === 'approfondi') setProfondeur('standard')
-  }, [approfondiPermis, profondeur])
+    if (saisieCle.etat.fournisseur === 'regenvox' && saisieCle.etat.cle && saisieCle.verification.statut === 'aucune') void saisieCle.verifier()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [saisieCle.etat.fournisseur, saisieCle.etat.cle, saisieCle.verification.statut])
   const titreEtape = useRef<HTMLHeadingElement>(null)
   const etape = b.etape
   const etapePrecedente = useRef(etape)
@@ -438,6 +444,13 @@ export default function Nouveau() {
     if (ec.length > 0) {
       setMontrerErreursCle(true)
       setCibleFocus(ec[0] === 'fournisseur' ? 'cle-fournisseur' : 'cle-cle')
+      return
+    }
+
+    // Test approfondi choisi sans abonnement vérifié : l'abonnement est proposé juste sous le choix.
+    if (profondeur === 'approfondi' && !approfondiPermis) {
+      setErreurLancement(t('abo.place.erreur'))
+      setCibleFocus('prof-reserve')
       return
     }
 
@@ -907,12 +920,17 @@ export default function Nouveau() {
                   <legend className="font-semibold text-dark mb-2">{t('prof.titre')}</legend>
                   <div className="grid gap-3 sm:grid-cols-2">
                     <CarteChoix nom="profondeur" valeur="standard" coche={profondeur === 'standard'} onChoisir={() => setProfondeur('standard')} titre={t('prof.standard')} description={t('prof.standard.desc')} />
-                    <CarteChoix nom="profondeur" valeur="approfondi" coche={profondeur === 'approfondi'} onChoisir={() => setProfondeur('approfondi')} titre={t('prof.approfondi')} description={t('prof.approfondi.desc')} desactive={!approfondiPermis} />
+                    <CarteChoix nom="profondeur" valeur="approfondi" coche={profondeur === 'approfondi'} onChoisir={() => setProfondeur('approfondi')} titre={t('prof.approfondi')} description={t('prof.approfondi.desc')} />
                   </div>
-                  {!approfondiPermis && (
+                  {!approfondiPermis && profondeur === 'standard' && (
                     <p id="prof-reserve" className="mt-2 text-sm text-dark-light">
                       {t('prof.reserve')} <LienAbonnement />
                     </p>
+                  )}
+                  {!approfondiPermis && profondeur === 'approfondi' && (
+                    <div id="prof-reserve">
+                      <AbonnementSurPlace onJaiUnCode={() => { saisieCle.modifier({ fournisseur: 'regenvox' }); setCibleFocus('cle-cle') }} />
+                    </div>
                   )}
                 </fieldset>
 

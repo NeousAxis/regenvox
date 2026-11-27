@@ -60,7 +60,8 @@ export async function lienPaiement(formule: Formule, code: string, langue: 'fr' 
 // Code en attente de paiement, gardé sur cet appareil pour la page de retour. Peut manquer (navigation privée) :
 // c'est pourquoi la page fait noter le code avant de payer.
 const CLE = 'regenvox.abonnement'
-export interface CodeGarde { code: string; formule: string; le: string }
+// retour : page à rouvrir une fois l'abonnement ouvert (la simulation en cours) ; profondeur : choix à y remettre.
+export interface CodeGarde { code: string; formule: string; le: string; retour?: string; profondeur?: 'approfondi' }
 
 export function garderCode(c: CodeGarde): void {
   try {

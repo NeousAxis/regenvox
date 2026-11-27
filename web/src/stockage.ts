@@ -310,17 +310,27 @@ export function oublierCle(): void {
   }
 }
 
-// Brouillon du formulaire (jamais la clé), effacé à la fermeture de l'onglet
+// Brouillon du formulaire (jamais la clé). Gardé dans l'onglet, avec une copie sur l'appareil (7 jours) : une simulation
+// en cours survit à la fermeture de l'onglet et au passage par la page de paiement (demande de Cyril du 27.11.2026).
 
 const BROUILLON = 'regenvox.brouillon'
+const BROUILLON_APPAREIL = 'regenvox.brouillon.appareil'
+const DUREE_BROUILLON_MS = 7 * 24 * 3600 * 1000
 
 export function lireBrouillon<T>(): T | null {
   try {
     const brut = window.sessionStorage.getItem(BROUILLON)
-    return brut ? (JSON.parse(brut) as T) : null
+    if (brut) return JSON.parse(brut) as T
   } catch {
-    return null
+    // Onglet sans stockage : on essaie la copie de l'appareil.
   }
+  try {
+    const copie = JSON.parse(window.localStorage.getItem(BROUILLON_APPAREIL) || 'null')
+    if (copie && typeof copie.le === 'number' && Date.now() - copie.le < DUREE_BROUILLON_MS && copie.b) return copie.b as T
+  } catch {
+    // Sans conséquence.
+  }
+  return null
 }
 
 export function enregistrerBrouillon(valeur: unknown): void {
@@ -329,11 +339,21 @@ export function enregistrerBrouillon(valeur: unknown): void {
   } catch {
     // Sans conséquence.
   }
+  try {
+    window.localStorage.setItem(BROUILLON_APPAREIL, JSON.stringify({ le: Date.now(), b: valeur }))
+  } catch {
+    // Sans conséquence.
+  }
 }
 
 export function effacerBrouillon(): void {
   try {
     window.sessionStorage.removeItem(BROUILLON)
+  } catch {
+    // Sans conséquence.
+  }
+  try {
+    window.localStorage.removeItem(BROUILLON_APPAREIL)
   } catch {
     // Sans conséquence.
   }
